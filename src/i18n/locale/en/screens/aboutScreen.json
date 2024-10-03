@@ -1,0 +1,40 @@
+{
+    "title": "Family Story Time",
+
+    "intro": "I created this application to help children in their reading journey, but also to be able to have stories read to them by loved ones who cannot be there.",
+
+    "paragraphs": {
+        "paragraph_1": {
+            "title": "Enjoy Reading",
+            "content_1": "Enjoy reading as a family.",
+            "content_2": "Keep all of your favorite books in one place for easy access at home or on the go."
+        },
+
+        "paragraph_2": {
+            "title": "Keep Your Favorites",
+            "content_1": "Digitize your favorite books so that they'll last for years to come."
+        },
+
+        "paragraph_3": {
+            "title": "Practice Reading",
+            "content_1": "The books can auto read while you read along."
+        },
+
+        "paragraph_4": {
+            "title": "Familiar Voices",
+            "content_1": "Have your stories read to you by your favorite storyteller, even if they can't be there."
+        },
+
+        "paragraph_5": {
+            "title": "Share",
+            "content_1": "Create your own stories and share them with friends and family.",
+            "content_2": "Stories can be exported either individually or all at once."
+        },
+
+        "paragraph_6": {
+            "title": "Parental Lock",
+            "content_1": "The application has a parental lock feature.",
+            "content_2": "When enabled, the device owner must unlock the application using their biometric data (dependant on the device) to access the sensitive aspects of the application."
+        }
+    }
+}

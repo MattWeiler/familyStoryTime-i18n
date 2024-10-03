@@ -1,0 +1,120 @@
+{
+    "summary": "You can digitize your families favorite books and include as many readers as are willing to record themselves.",
+
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "Opening the \"Book Builder\"",
+
+            "ariaLabel": {
+                "collapsed": "open the opening the book builder section",
+                "expanded": "collapse the opening the book builder section"
+            }
+        },
+
+        "content": {
+            "actionButton": {
+                "title": "Action Button",
+
+                "messages": {
+                    "1": "From the \"Reading Corner\" page, you can access the \"Book Builder\" by pressing the (+) button at the bottom-right of the screen.",
+                    "2": "From there press the \"create a book\" option."
+                }
+            },
+
+            "hamburgerMenu": {
+                "title": "Hamburger Menu",
+
+                "messages": {
+                    "1": "From any page, you can access the \"Book Builder\" via the hamburger menu at the top-left of the screen.",
+                    "2": "From there press the \"Book Builder\" option."
+                }
+            }
+        }
+    },
+
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "Using the \"Book Builder\"",
+
+            "ariaLabel": {
+                "collapsed": "open the using the book builder section",
+                "expanded": "collapse the using the book builder section"
+            }
+        },
+
+        "content": {
+            "bookBuilder": {
+                "title": "Book Builder",
+
+                "messages": {
+                    "1": "In the \"Book Builder\", you will be able to specify several attributes related to the book.",
+                    "2": "The title of the book, several images, source information, delays, readers and pages can all be specified here."
+                }
+            },
+
+            "modifyingImages": {
+                "title": "Book Images",
+
+                "messages": {
+                    "1": "Images can be either captured using your devices camera, or they can be loaded from your gallery.",
+                    "2": "When an image has been selected, it can be edited to ensure it looks the best that it can.",
+                    "3": "Pressing on an existing image will bring up the image buttons."
+                }
+            },
+
+            "bookSource": {
+                "title": "Book Source Information",
+
+                "messages": {
+                    "1": "Source information can be provided about the book.",
+                    "2": "While this source information is optional, it can help keep track of your favorite stories."
+                }
+            },
+
+            "bookDelays": {
+                "title": "Book Delays",
+
+                "messages": {
+                    "1": "Delays can be defined which will affect the playback of the book.",
+                    "2": "These delays can ensure that audio playback doesn't sound too abrupt."
+                }
+            },
+
+            "pageChangeAudio": {
+                "title": "Page Change Audio",
+
+                "messages": {
+                    "1": "When a book is being auto-played, a specific sound can be played when a page completes and the next page is ready to begin.",
+                    "2": "A set of predefined sounds can be selected or a custom sound can be uploaded or recorded."
+                }
+            },
+
+            "bookReader": {
+                "title": "Book Readers",
+
+                "messages": {
+                    "1": "A book can contain any number of readers.",
+                    "2": "Each reader will record themselves reading each page of the book and thus will be available to read the book during book playback."
+                }
+            },
+
+            "bookPage": {
+                "title": "Book Pages",
+
+                "messages": {
+                    "1": "A book must contain at least 1 page, but has no upper limit.",
+                    "2": "When capturing or uploading an image to be used for a page, AI will be used to extract the text from the image. This will make recording much easier for the readers."
+                }
+            },
+
+            "saveBook": {
+                "title": "Saving a Book",
+
+                "messages": {
+                    "1": "When all of the fields of a book have been filled-out, the book must be saved to the device.",
+                    "2": "Upon saving, the book data will be checked to make sure that it is all valid; any errors will be highlighted."
+                }
+            }
+        }
+    }
+}

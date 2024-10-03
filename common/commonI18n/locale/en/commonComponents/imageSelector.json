@@ -1,0 +1,62 @@
+{
+    "previewImage": {
+        "ariaLabel": {
+            "controlsHidden": "show the image controls",
+            "controlsVisible": "hide the image controls"
+        }
+    },
+
+    "fullscreenButton": {
+        "ariaLabel": "show image in fullscreen"
+    },
+
+    "closeFullscreenButton": {
+        "ariaLabel": "close fullscreen"
+    },
+
+    "editSelectedImageButton": {
+        "ariaLabel": "edit the image",
+        "title": "edit the image"
+    },
+
+    "browseFileButton": {
+        "ariaLabel": "browse for an image file",
+        "title": "browse for an image file"
+    },
+
+    "browseImageGalleryButton": {
+        "ariaLabel": "browse image gallery",
+        "title": "browse image gallery"
+    },
+
+    "takePhotoButton": {
+        "ariaLabel": "take picture",
+        "title": "take picture"
+    },
+
+    "imageEditor": {
+        "backButton": {
+            "text": "Back"
+        },
+        "cancelButton": {
+            "text": "Cancel"
+        },
+        "cropButton": {
+            "text": "Crop"
+        },
+        "saveButton": {
+            "text": "Save"
+        }
+    },
+
+    "permissionDenied": {
+        "browseImages": {
+            "title": "Permission Denied",
+            "message": "You have denied permission to access your photos."
+        },
+        "takePicture": {
+            "title": "Permission Denied",
+            "message": "You have denied permission to access your camera."
+        }
+    }
+}

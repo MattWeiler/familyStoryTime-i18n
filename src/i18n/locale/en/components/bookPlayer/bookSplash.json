@@ -1,0 +1,29 @@
+{
+    "readModeItems": {
+        "autoRead": {
+            "ariaLabel": "each page will be read to the user in the voice of their choosing"
+        },
+
+        "pageRead": {
+            "ariaLabel": "each page will be read to the user in the voice of their choosing, but the user is responsible for changing the page"
+        },
+
+        "selfRead": {
+            "ariaLabel": "the user will read each page"
+        }
+    },
+
+    "selectedReaderImage": {
+        "ariaLabel": "select the voice to read the book"
+    },
+
+    "startButton": {
+        "ariaLabel": "start the book",
+        "title": "start the book"
+    },
+
+    "skipIntroButton": {
+        "ariaLabel": "skip the intro",
+        "title": "skip the intro"
+    }
+}

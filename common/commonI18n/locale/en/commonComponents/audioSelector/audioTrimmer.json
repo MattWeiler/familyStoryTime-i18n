@@ -1,0 +1,19 @@
+{
+    "playbackPositionLabel": "Playback Position",
+
+    "previewButton": {
+        "ariaLabel": "play the trimmed audio to hear a sample"
+    },
+
+    "saveButton": {
+        "label": "Save",
+        "ariaLabel": "use the trimmed audio",
+        "title": "use the trimmed audio"
+    },
+
+    "discardButton": {
+        "label": "Discard",
+        "ariaLabel": "discard the trimmed audio",
+        "title": "discard the trimmed audio"
+    }
+}

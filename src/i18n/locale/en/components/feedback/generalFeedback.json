@@ -1,0 +1,168 @@
+{
+    "toasts": {
+        "emailNotSupported": "emailing not supported",
+        "submissionSuccess": "feedback sent",
+        "submissionFailed": "feedback send failed"
+    },
+
+    "submitButton": {
+        "text": "Submit Feedback",
+        "ariaLabel": "submit your feedback"
+    },
+
+    "satisfactionInput": {
+        "label": "App Satisfaction",
+        "ariaLabel": "select your level of satisfaction with this mobile application",
+        "description": "How much have you liked/disliked our app?",
+        "errorMessage": "Please select a satisfaction level.",
+
+        "levels": {
+            "1": {
+                "ariaLabel": "hate it",
+                "displayName": "Hate It"
+            },
+            "2": {
+                "ariaLabel": "disapointed",
+                "displayName": "Disapointed"
+            },
+            "3": {
+                "ariaLabel": "neutral",
+                "displayName": "Neutral"
+            },
+            "4": {
+                "ariaLabel": "great",
+                "displayName": "Great"
+            },
+            "5": {
+                "ariaLabel": "love it",
+                "displayName": "Love It"
+            }
+        }
+    },
+
+    "likelyToShareInput": {
+        "label": "Sharing with Others",
+        "ariaLabel": "select how likely you are to share this mobile application with others",
+        "description": "How likely are you to share our app?",
+        "errorMessage": "Please select a satisfaction level.",
+
+        "levels": {
+            "1": {
+                "ariaLabel": "no way",
+                "displayName": "No Way"
+            },
+            "2": {
+                "ariaLabel": "not likely",
+                "displayName": "Not Likely"
+            },
+            "3": {
+                "ariaLabel": "maybe",
+                "displayName": "Maybe"
+            },
+            "4": {
+                "ariaLabel": "yes",
+                "displayName": "Yes"
+            },
+            "5": {
+                "ariaLabel": "already have",
+                "displayName": "Already Have"
+            }
+        }
+    },
+
+    "creatingBooksInput": {
+        "label": "Creating Books",
+        "ariaLabel": "select your satisfaction with the book creation process",
+        "description": "How did you find creating books?",
+        "errorMessage": "Please select a satisfaction level.",
+
+        "levels": {
+            "1": {
+                "ariaLabel": "didn't work",
+                "displayName": "Didn't Work"
+            },
+            "2": {
+                "ariaLabel": "not great",
+                "displayName": "Not Great"
+            },
+            "3": {
+                "ariaLabel": "it's ok",
+                "displayName": "It's Ok"
+            },
+            "4": {
+                "ariaLabel": "it's easy",
+                "displayName": "It's Easy"
+            },
+            "5": {
+                "ariaLabel": "love it",
+                "displayName": "Love It"
+            }
+        }
+    },
+
+    "playingBooksInput": {
+        "label": "Playing Books",
+        "ariaLabel": "select your satisfaction with the book playback",
+        "description": "How did you find playing books?",
+        "errorMessage": "Please select a satisfaction level.",
+
+        "levels": {
+            "1": {
+                "ariaLabel": "didn't work",
+                "displayName": "Didn't Work"
+            },
+            "2": {
+                "ariaLabel": "not great",
+                "displayName": "Not Great"
+            },
+            "3": {
+                "ariaLabel": "it's ok",
+                "displayName": "It's Ok"
+            },
+            "4": {
+                "ariaLabel": "it's easy",
+                "displayName": "It's Easy"
+            },
+            "5": {
+                "ariaLabel": "love it",
+                "displayName": "Love It"
+            }
+        }
+    },
+
+    "multipleReadersInput": {
+        "label": "Multiple Readers",
+        "ariaLabel": "select your satisfaction with having multiple readers per book",
+        "description": "How did you like having multiple readers?",
+        "errorMessage": "Please select a satisfaction level.",
+
+        "levels": {
+            "1": {
+                "ariaLabel": "didn't work",
+                "displayName": "Didn't Work"
+            },
+            "2": {
+                "ariaLabel": "not great",
+                "displayName": "Not Great"
+            },
+            "3": {
+                "ariaLabel": "it's ok",
+                "displayName": "It's Ok"
+            },
+            "4": {
+                "ariaLabel": "it's easy",
+                "displayName": "It's Easy"
+            },
+            "5": {
+                "ariaLabel": "love it",
+                "displayName": "Love It"
+            }
+        }
+    },
+
+    "commentInput": {
+        "label": "Comment",
+        "ariaLabel": "optionally provide any additional comments that you have",
+        "description": "Optionally provide any additional comments that you have."
+    }
+}

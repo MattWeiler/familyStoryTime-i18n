@@ -1,0 +1,22 @@
+{
+    "presetPageChangeAudio": {
+        "_NONE": "none",
+        "BIRD_CHIRP": "bird chirp",
+        "BUBBLE_BOUNCE": "bubble bounce",
+        "BUBBLE_POP_BIG": "big bubble pop",
+        "BUBBLE_POP_POP_POP": "bubble pop pop pop",
+        "BUBBLE_POP_SMALL": "small bubble pop",
+        "DRIP": "drip",
+        "FLUSH_GROSS": "gross flush",
+        "GLITTER": "glitter",
+        "HARP": "harp",
+        "ICICLES_WHOOSH": "icicles whoosh",
+        "MAGICAL_REVEAL": "magical reveal",
+        "MAGICAL_REVEAL_WAVY": "wavvy magical reveal",
+        "MAGICAL_SPARKLE": "magical sparkles",
+        "MAGICAL_SPARKLE_LOUD": "loud magical sparkles",
+        "MAGICAL_SPRING": "magical spring",
+        "MAGICAL_WHOOSH": "magical whoosh",
+        "RATTLESNAKE": "rattlesnake"
+    }
+}

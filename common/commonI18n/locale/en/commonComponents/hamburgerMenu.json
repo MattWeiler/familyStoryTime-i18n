@@ -1,0 +1,16 @@
+{
+    "hamburgerButton": {
+        "ariaLabel": {
+            "menuShowing": "hide hamburger menu",
+            "menuHidden": "show hamburger menu"
+        }
+    },
+
+    "applicationSecurityButton": {
+        "ariaLabel": {
+            "initParentMode": "enable parental locking",
+            "unlockParentMode": "unlock application for parental use",
+            "lockParentMode": "enable parent lock"
+        }
+    }
+}

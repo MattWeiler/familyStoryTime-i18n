@@ -1,0 +1,11 @@
+{
+    "screens": {
+        "bookBuilder": {
+            "headerTitle": "Book Builder"
+        },
+
+        "notFound": {
+            "headerTitle": "Oops!"
+        }
+    }
+}

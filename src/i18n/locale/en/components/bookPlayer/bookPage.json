@@ -1,0 +1,37 @@
+{
+    "nextPageButton": {
+        "hasNextPage": {
+            "ariaLabel": "go to next page",
+            "title": "go to next page"
+        },
+
+        "noNextPage": {
+            "ariaLabel": "go back to book selection",
+            "title": "go back to book selection"
+        }
+    },
+
+    "playPauseButton": {
+        "playing": {
+            "ariaLabel": "pause audio",
+            "title": "pause audio"
+        },
+
+        "paused": {
+            "ariaLabel": "play audio",
+            "title": "play audio"
+        }
+    },
+
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "ariaLabel": "go to previous page",
+            "title": "go to previous page"
+        },
+
+        "noPreviousPage": {
+            "ariaLabel": "go back to book selection",
+            "title": "go back to book selection"
+        }
+    }
+}

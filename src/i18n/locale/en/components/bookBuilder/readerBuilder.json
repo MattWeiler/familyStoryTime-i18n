@@ -1,0 +1,47 @@
+{
+    "label": "%{readerDisplayName}",
+
+    "readerImage": {
+        "description": "The image to display for this reader."
+    },
+
+    "changeDisplayNameButton": {
+        "ariaLabel": "change this readers display name",
+
+        "confirmation": {
+            "title": {
+                "noDisplayName": "Set Display Name",
+                "withDisplayName": "Update Display Name"
+            },
+
+            "message": {
+                "noDisplayName": "What is the display name for this reader?",
+                "withDisplayName": "What would you like to change this readers display name to?"
+            }
+        }
+    },
+
+    "removeButton": {
+        "ariaLabel": "remove this reader",
+
+        "confirmation": {
+            "title": "Deletion Confirmation",
+
+            "message": {
+                "noDisplayName": "Are you sure you want to delete this reader?",
+                "withDisplayName": "Are you sure you want to delete the \"%{readerDisplayName}\" reader?"
+            },
+
+            "additionalMessage1": "This will remove all page audio recorded for this reader.",
+            "additionalMessage2": "THIS CANNOT BE UNDONE!"
+        }
+    },
+
+    "introAudio": {
+        "label": {
+            "withDisplayName": "%{readerDisplayName}'s Intro Audio",
+            "noDisplayName": "Intro Audio"
+        },
+        "description": "The optional audio to play before reading the 1st page."
+    }
+}

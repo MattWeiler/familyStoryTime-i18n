@@ -1,0 +1,21 @@
+{
+    "title": "Leave Feedback",
+
+    "generalFeedback": {
+        "tab": {
+            "title": "App Feedback",
+            "ariaLabel": "provide feedback on our application"
+        },
+
+        "description": "We'd love to hear what you have to say."
+    },
+
+    "bugFeedback": {
+        "tab": {
+            "title": "Report Bug",
+            "ariaLabel": "report a bug that you found in our application"
+        },
+
+        "description": "We're sorry to hear that you found a bug, but we'll do our best to fix it :)"
+    }
+}

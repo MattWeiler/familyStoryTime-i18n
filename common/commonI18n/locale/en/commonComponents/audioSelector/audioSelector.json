@@ -1,0 +1,71 @@
+{
+    "audioIdentifiers": {
+        "preset": "Preset: %{presetName}",
+        "custom": "Uploaded File: %{filename}",
+        "recording": "Recording"
+    },
+
+    "playButton": {
+        "playing": {
+            "ariaLabel": "stop the playing audio"
+        },
+        "stopped": {
+            "ariaLabel": "play the audio"
+        },
+        "recording": {
+            "ariaLabel": "stop recording"
+        }
+    },
+
+    "editAudioButton": {
+        "ariaLabel": "edit the currently loaded audio",
+
+        "cancelConfirmation": {
+            "title": "Discard Editing",
+            "message": "Are you sure you want to discard any edits that you have made?",
+
+            "buttonAriaLabels": {
+                "no": "no, stay and continue editing",
+                "yes": "yes, discard edits"
+            }
+        }
+    },
+
+    "selectPresetAudioButton": {
+        "ariaLabel": "select a preset page change audio"
+    },
+
+    "selectAudioFileButton": {
+        "ariaLabel": "select your own audio file"
+    },
+
+    "recordAudioButton": {
+        "ariaLabel": "record your own audio"
+    },
+
+    "clearAudioButton": {
+        "ariaLabel": "clear the selected audio",
+
+        "confirmation": {
+            "title": "Clear Confirmation",
+            "message": "Are you sure you want to clear the selected audio?"
+        }
+    },
+
+    "toasts": {
+        "audioFileLoading": {
+            "failure": "failed to load audio"
+        },
+
+        "recordingFailed": "failed to record audio",
+
+        "editInitFailed": "failed to edit audio"
+    },
+
+    "permissionDenied": {
+        "recording": {
+            "title": "Permission Denied",
+            "message": "You have denied permission to access your microphone."
+        }
+    }
+}

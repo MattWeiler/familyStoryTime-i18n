@@ -1,0 +1,127 @@
+{
+    "confirmation": {
+        "cancel": {
+            "title": "Confirm Cancel Import",
+            "message": "Are you sure you want to cancel the import?",
+
+            "buttons": {
+                "yes": {
+                    "ariaLabel": "cancel the import"
+                },
+                "no": {
+                    "ariaLabel": "don't cancel the import"
+                }
+            }
+        }
+    },
+
+    "titles": {
+        "booksToInstall": "Books to Install",
+        "failedToInstall": "Failed to Install Books"
+    },
+
+    "buttons": {
+        "cancel": {
+            "textLabel": "Cancel",
+            "ariaLabel": "cancel the import"
+        },
+
+        "install": {
+            "textLabel": "Install",
+            "ariaLabel": "install selected books"
+        }
+    },
+
+    "nothingToInstall": "Nothing to import :(",
+
+    "processingLabels": {
+        "cancelling": "cancelling ...",
+        "downloading": "downloading ...",
+        "analyzing": "analyzing ...",
+        "installing": "installing ..."
+    },
+
+    "booksToInstall": {
+        "checkbox": {
+            "checked": {
+                "ariaLabel": "remove this book from the import"
+            },
+            "unchecked": {
+                "ariaLabel": "include this book in the import"
+            }
+        },
+
+        "bookTooltip": {
+            "existing": {
+                "full": {
+                    "withReaders": {
+                        "label": "If you choose to overwrite, the current book will be replaced with the new one.\n\nIf you choose to merge, the new book's audio tracks will be combined with the existing book, replacing any overlapping readers with the new ones."
+                    },
+
+                    "noReaders": {
+                        "label": "This book is already on your device.\n\nIf you select it, the current book will be replaced with the new one."
+                    }
+                },
+
+                "partial": {
+                    "label": "This book is already on your device.\n\nSince this file only contains audio, the new audio tracks will be merged with the existing book, replacing any readers that already exist."
+                }
+            },
+
+            "new": {
+                "full": {
+                    "withReaders": {
+                        "label": "This book is not on your device.\n\nIf you select it, the book and any chosen readers will be installed."
+                    },
+
+                    "noReaders": {
+                        "label": "This book is not on your device.\n\nIf you select it, the book will be installed."
+                    }
+                },
+
+                "partial": {
+                    "label": "This file only contains audio, and the book isn't installed on your device.\n\nPlease install the full book file first before importing this audio file."
+                }
+            }
+        },
+
+        "existingBookStrategy": {
+            "overwrite": {
+                "label": "overwrite",
+                "ariaLabel": "overwrite existing book"
+            },
+
+            "merge": {
+                "label": "merge",
+                "ariaLabel": "merge the books by adding new readers and overwriting existing readers with new readers"
+            }
+        },
+
+        "readers": {
+            "checkbox": {
+                "checked": {
+                    "ariaLabel": "remove this reader from the import"
+                },
+                "unchecked": {
+                    "ariaLabel": "include this reader in the import"
+                }
+            },
+
+            "existingBookReaderTooltip": {
+                "label": "This reader is already part of the installed book.\n\nIf you select this user, the existing reader's data/audio will be replaced."
+            }
+        }
+    },
+
+    "toasts": {
+        "importAlreadyInProgress": "import already running, try again later",
+
+        "download": {
+            "failed": "failed to download \"%{bookName}\"."
+        },
+        "install": {
+            "successful": "successfully imported \"%{bookName}\"",
+            "failed": "failed to import \"%{bookName}\""
+        }
+    }
+}

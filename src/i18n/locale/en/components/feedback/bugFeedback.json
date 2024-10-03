@@ -1,0 +1,38 @@
+{
+    "toasts": {
+        "emailNotSupported": "emailing not supported",
+        "submissionSuccess": "bug sent",
+        "submissionFailed": "bug send failed"
+    },
+
+    "attachments": {
+        "loadFailed": "loading books failed",
+        "noBooksInstalled": "no books installed",
+
+        "attachmentList": {
+            "label": "Books to Attach",
+            "description": "Add the book(s) which may be causing the issue."
+        },
+
+        "picker": {
+            "ariaLabel": "select which books should be attached to the bug feedback",
+            "header": "Select Book(s)"
+        },
+
+        "modifyAttachmentsButton": {
+            "ariaLabel": "make changes to the book attached to your bug feedback"
+        }
+    },
+
+    "bugDetailsInput": {
+        "label": "Bug Details",
+        "ariaLabel": "describe the bug",
+        "description": "Provide details about the bug.",
+        "errorMessage": "Please provide some details about the bug."
+    },
+
+    "submitButton": {
+        "text": "Submit Bug",
+        "ariaLabel": "submit the bug"
+    }
+}

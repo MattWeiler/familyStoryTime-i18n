@@ -1,0 +1,44 @@
+{
+    "startLink": {
+        "label": "Get Started",
+        "ariaLabel": "go to the home page"
+    },
+    
+    "pageSelectionButtons": {
+        "backPageButton": {
+            "ariaLabel": "go back 1 page"
+        },
+
+        "forwardPageButton": {
+            "ariaLabel": "go forward 1 page"
+        },
+
+        "specificPageButton": {
+            "ariaLabel": "view the %{pageName} page"
+        }
+    },
+
+    "pages": {
+        "intro": {
+            "displayName": "Introduction"
+        },
+        "createBooks": {
+            "displayName": "Creating Books"
+        },
+        "bookStore": {
+            "displayName": "The Book Store"
+        },
+        "bookPlayback": {
+            "displayName": "Playing Books"
+        },
+        "parentalLocking": {
+            "displayName": "Parental Locking"
+        },
+        "sharingBooks": {
+            "displayName": "Sharing Books"
+        },
+        "feedback": {
+            "displayName": "Giving Us Feedback"
+        }
+    }
+}

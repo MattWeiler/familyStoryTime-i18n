@@ -1,0 +1,42 @@
+{
+    "hamburgerMenu": {
+        "applicationTitle": "Family Story Time",
+
+        "links": {
+            "bookSelector": {
+                "text": "Reading Corner",
+                "ariaLabel": "go to the reading corner screen"
+            },
+
+            "bookStore": {
+                "text": "Book Store",
+                "ariaLabel": "go to the book store screen"
+            },
+
+            "bookBuilder": {
+                "text": "Book Builder",
+                "ariaLabel": "go to the book builder screen"
+            },
+
+            "about": {
+                "text": "About Us",
+                "ariaLabel": "go to the about us screen"
+            },
+
+            "tutorial": {
+                "text": "Tutorial",
+                "ariaLabel": "view the tutorial"
+            },
+
+            "feedback": {
+                "text": "Feedback",
+                "ariaLabel": "go to the feedback screen"
+            },
+
+            "settings": {
+                "text": "Settings",
+                "ariaLabel": "go to the settings screen"
+            }
+        }
+    }
+}

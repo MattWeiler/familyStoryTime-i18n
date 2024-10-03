@@ -1,0 +1,160 @@
+{
+    "title": "Settings",
+    "subtitle": "Update your application settings here.",
+
+    "footer": {
+        "version": "Version: %{versionNumber}",
+        "copyright": "%{year} WeilerHaus",
+        "specialThanks": {
+            "label": "Special Thanks",
+
+            "icons": {
+                "someIconsBy": "Icons by: ",
+                "icons8": "Icons8",
+                "ionicIcons": "IonIcons",
+                "iconArchive": "Icon Archive"
+            },
+
+            "fonts": {
+                "someFontsBy": "Fonts by: ",
+                "coolors": "Coolors"
+            }
+        }
+    },
+
+    "confirmations": {
+        "deleteAllBooks": {
+            "title": "Deletion Confirmation",
+            "message": "Are you sure you want to delete all installed books?"
+        }
+    },
+
+    "toasts": {
+        "deleteAllBooks": {
+            "failure": "delete failed",
+
+            "success": {
+                "one": "deleted 1 book",
+                "other": "deleted %{count} books"
+            }
+        }
+    },
+
+    "themeSelection": {
+        "displayName": "Theme Selection",
+        "shortDescription": "Select the theme that should be used by the application.",
+        "longDescription": "If a theme is selected here, it will override whatever device theme settings you may have.",
+
+        "options": {
+            "default": {
+                "label": "System",
+                "ariaLabel": "use the system defined theme"
+            },
+            "light": {
+                "label": "Light",
+                "ariaLabel": "use the light theme"
+            },
+            "dark": {
+                "label": "Dark",
+                "ariaLabel": "use the dark theme"
+            }
+        }
+    },
+
+    "audioVideoSelection": {
+        "displayName": "Audio & Video",
+        "ariaLabel": {
+            "collapsed": "expand the audio video selection section",
+            "expanded": "collapse the audio video selection section"
+        }
+    },
+
+    "cameraImageQuality": {
+        "displayName": "Camera Quality",
+        "shortDescription": "Select the image quality of pictures taken with the camera.",
+        "longDescription": "This image quality will be used when taking pictures with the device camera(s).",
+
+        "slider": {
+            "lowLabel": "Low",
+            "highLabel": "High"
+        },
+
+        "testLabel": "Test Camera"
+    },
+
+    "microphoneAudioQuality": {
+        "displayName": "Microphone Quality",
+        "shortDescription": "Select the audio quality of recordings taken with the microphone.",
+        "longDescription": "This audio quality will be used when recording with the device microphone.",
+
+        "options": {
+            "low": {
+                "label": "Low",
+                "ariaLabel": "use low audio quality"
+            },
+            "high": {
+                "label": "High",
+                "ariaLabel": "use high audio quality"
+            }
+        },
+
+        "testLabel": "Test Microphone"
+    },
+
+    "imageEditor": {
+        "displayName": "Image Editor",
+        "shortDescription": "Select which image editor should be used.",
+        "longDescription": "This image editor will be used when new book images are being taken or an existing book image is being edited.",
+
+        "options": {
+            "simple": {
+                "label": "Simple",
+                "ariaLabel": "use simple image editor"
+            },
+            "advanced": {
+                "label": "Advanced",
+                "ariaLabel": "use the advanced image editor"
+            }
+        },
+
+        "testLabel": "Test Image Editor"
+    },
+
+    "parentalLocking": {
+        "displayName": "Parental Locking",
+        "shortDescription": "Parental locking can be useful when children are using the application.",
+        "longDescription": "When enabled, the device owners biometric data is required to unlock advanced features in the application."
+    },
+
+    "exportAllBooks": {
+        "displayName": "Export All Books",
+        "shortDescription": {
+            "enabled": "Export all of your books to a single file and save/share it.",
+            "disabled": "Export all of your books to a single file and save/share it, but you don't currently have any books installed."
+        },
+        "longDescription": "This can be useful when migrating to a new device or adding your books to multiple devices.",
+
+        "button": {
+            "label": "Export",
+            "ariaLabel": "export all books",
+            "title": "export all books"
+        }
+    },
+
+    "deleteAllBooks": {
+        "displayName": "Delete All Books",
+        "shortDescription": {
+            "enabled": "Delete all of your books.",
+            "disabled": "Delete all of your books, but you don't currently have any books installed."
+        },
+        "longDescription": "This will delete all of the books installed on this device.\n\nTHIS CANNOT BE UNDONE.",
+
+        "processingMessage": "deleting ...",
+
+        "button": {
+            "label": "Delete",
+            "ariaLabel": "delete all books",
+            "title": "delete all books"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "subtitle": "A fun application to help kids read.",
+    "mission": "We want to help preserve your favorite stories, read by your loved ones.",
+
+    "paragraphs": {
+        "1": "Kids can listen to their favorite stories read by loved ones, even if those loved ones are far away or have passed away."
+    },
+
+    "accessTutorial": {
+        "title": "Access Tutorial",
+
+        "messages": {
+            "1": "You can access this tutorial anytime via the hamburger menu at the top-left of the application."
+        }
+    }
+}

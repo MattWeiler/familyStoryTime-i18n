@@ -1,0 +1,36 @@
+{
+    "title": "Book Store",
+    "subtitle": "Let's find some good stories to read.",
+
+    "loadingFailedMessage": "Failed to load available books.\nPlease try again later.",
+
+    "books": {
+        "newerVersionAvailableMessage": "Update Available",
+
+        "badges": {
+            "free": "free"
+        }
+    },
+
+    "installAvailableBook": {
+        "ariaLabel": "install the available book %{bookName}",
+
+        "confirmation": {
+            "title": "Install Confirmation",
+            "message": "Are you sure that you want to install this available book?\nDoing so will use %{fileSize} of data.",
+            "yesButtonAriaLabel": "yes, install the available book",
+            "noButtonAriaLabel": "no, don't install the available book"
+        }
+    },
+
+    "uninstallAvailableBook": {
+        "ariaLabel": "uninstall the available book %{bookName}",
+
+        "confirmation": {
+            "title": "Uninstall Confirmation",
+            "message": "Are you sure that you want to uninstall this available book?\nAny audio tracks that you may have added will be lost.",
+            "yesButtonAriaLabel": "yes, uninstall the available book",
+            "noButtonAriaLabel": "no, don't uninstall the Available book"
+        }
+    }
+}

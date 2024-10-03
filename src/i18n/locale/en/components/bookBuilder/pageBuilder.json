@@ -1,0 +1,97 @@
+{
+    "label": "Page %{pageNum}",
+    "description": "The image to display on page %{pageNum}.",
+
+    "removeButton": {
+        "ariaLabel": "remove page",
+
+        "confirmation": {
+            "title": "Deletion Confirmation",
+            "message": "Are you sure you want to delete page %{pageNum}?",
+            "additionalMessage1": "This will remove all page audio recorded for this page.",
+            "additionalMessage2": "THIS CANNOT BE UNDONE!"
+        }
+    },
+
+    "moveUpButton": {
+        "ariaLabel": "move this page up"
+    },
+
+    "moveDownButton": {
+        "ariaLabel": "move this page down"
+    },
+
+    "texts": {
+        "label": "Text",
+
+        "scanButton": {
+            "ariaLabel": "extract page text from image",
+
+            "confirmation": {
+                "title": "Rescan Page Text",
+                "message": "Are you sure that you want to scan the image for text and replace your existing page text?"
+            }
+        },
+
+        "addButton": {
+            "ariaLabel": "add a new page text",
+
+            "confirmation": {
+                "title": "Set Page Text",
+                "message": "What is the page text?"
+            }
+        },
+
+        "removeButton": {
+            "ariaLabel": "remove this page text",
+
+            "confirmation": {
+                "title": "Deletion Confirmation",
+                "message": "Are you sure you want to delete this page text?"
+            }
+        },
+
+        "changePageTextButton": {
+            "ariaLabel": "edit this page text",
+
+            "confirmation": {
+                "title": {
+                    "noPageText": "Set Page Text",
+                    "withPageText": "Update Page Text"
+                },
+                "message": {
+                    "noPageText": "What is the page text?",
+                    "withPageText": "What would you like to change the page text to?"
+                }
+            }
+        },
+
+        "showHideButton": {
+            "ariaLabel": {
+                "hidden": "show this page text",
+                "visible": "hide this page text"
+            }
+        },
+
+        "moveUpButton": {
+            "ariaLabel": "move this page text up"
+        },
+
+        "moveDownButton": {
+            "ariaLabel": "move this page text down"
+        }
+    },
+
+    "readers": {
+        "label": "Readers",
+
+        "reader": {
+            "label": "%{readerDisplayName}",
+
+            "description": {
+                "noDisplayName": "The audio to play when this reader is reading page %{pageNum}.",
+                "withDisplayName": "The audio to play when \"%{readerDisplayName}\" is reading page %{pageNum}."
+            }
+        }
+    }
+}

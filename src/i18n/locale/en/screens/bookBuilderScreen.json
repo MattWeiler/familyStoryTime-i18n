@@ -1,0 +1,174 @@
+{
+    "confirmations": {
+        "goBack": {
+            "title": "Leave Changes",
+            "message": "Are you sure that you want to leave before saving?"
+        }
+    },
+
+    "errors": {
+        "failedLoadingBook": "Failed to load the book.",
+
+        "validationErrors": {
+            "bookTitleMissing": "book title is required",
+
+            "bookIconNotValid": "book icon is required",
+
+            "bookSplashImageNotValid": "book splash image is required",
+
+            "pageChangeAudioNotValid": "page change audio is required",
+
+            "delayBeforePlayingPageAudioRequired": "delay is required",
+            "delayBeforePlayingPageAudioNegative": "delay cannot be negative",
+            "delayBeforePlayingPageAudioNotInteger": "delay must be a whole number",
+
+            "delayBeforePlayingPageChangeAudioRequired": "delay is required",
+            "delayBeforePlayingPageChangeAudioNegative": "delay cannot be negative",
+            "delayBeforePlayingPageChangeAudioNotInteger": "delay must be a whole number",
+
+            "delayAfterPlayingPageChangeAudioRequired": "delay is required",
+            "delayAfterPlayingPageChangeAudioNegative": "delay cannot be negative",
+            "delayAfterPlayingPageChangeAudioNotInteger": "delay must be a whole number",
+
+            "readerDisplayNameMissing": "reader display name is required",
+            "readerImageNotValid": "reader image is required",
+            "readerIntroAudioNotValid": "reader intro audio is not a valid file",
+
+            "pagesMissing": "at least 1 page is required",
+
+            "pageImageNotValid": "page image is required",
+
+            "pageTextMissing": "page text is required",
+
+            "pageAudioNotValid": "page audio is required"
+        }
+    },
+
+    "toasts": {
+        "validationFailed": "validation failed",
+        "bookSaved": "saved book \"%{bookTitle}\"",
+        "bookSaveFailed": "failed saving book"
+    },
+
+    "bookTitleInput": {
+        "label": "Book Title",
+        "description": "The title of the book.",
+        "ariaLabel": "specify the title of the book",
+        "placeholder": "title of book"
+    },
+
+    "bookSource": {
+        "label": "Source",
+
+        "authorInput": {
+            "label": "Author Name",
+            "description": "The name of the author of the book.",
+            "ariaLabel": "specify the name of the author of the book",
+            "placeholder": "author of book"
+        },
+
+        "illustratorInput": {
+            "label": "Illustrator Name",
+            "description": "The name of the illustrator of the book.",
+            "ariaLabel": "specify the name of the illustrator of the book",
+            "placeholder": "illustrator of book"
+        },
+
+        "publisherInput": {
+            "label": "Publisher Name",
+            "description": "The name of the publisher of the book.",
+            "ariaLabel": "specify the name of the publisher of the book",
+            "placeholder": "publisher of book"
+        },
+
+        "isbnInput": {
+            "label": "ISBN",
+            "description": "The international standard book number of the book.",
+            "ariaLabel": "specify the international standard book number of the book",
+            "placeholder": "ISBN of book"
+        },
+
+        "sourceUrl": {
+            "label": "Source URL",
+            "description": "The source URL of the book.",
+            "ariaLabel": "specify the source URL of the book",
+            "placeholder": "source URL"
+        }
+    },
+
+    "bookIconImageSelector": {
+        "label": "Book Icon",
+        "description": "The image to be used as the icon for the book."
+    },
+
+    "bookSplashImageImageSelector": {
+        "label": "Book Splash Image",
+        "description": "The image to be shown when first launching the book."
+    },
+
+    "delays": {
+        "label": "Delays",
+
+        "delayBeforePlayingPageAudio": {
+            "label": "Before Page Audio",
+            "description": "The number of milliseconds to wait before playing page audio.",
+            "ariaLabel": "specify the milliseconds of delay before playing page audio",
+            "placeholder": "delay in milliseconds"
+        },
+
+        "delayBeforePlayingPageChangeAudio": {
+            "label": "Before Page Change Audio",
+            "description": "The number of milliseconds to wait before playing page change audio.",
+            "ariaLabel": "specify the milliseconds of delay before playing page change audio",
+            "placeholder": "delay in milliseconds"
+        },
+
+        "delayAfterPlayingPageChangeAudio": {
+            "label": "After Page Change Audio",
+            "description": "The number of milliseconds to wait after playing page change audio.",
+            "ariaLabel": "specify the milliseconds of delay after playing page change audio",
+            "placeholder": "delay in milliseconds"
+        }
+    },
+
+    "pageChangeAudio": {
+        "label": "Page Change Audio",
+        "description": "The audio to play when it's time to change the page.",
+
+        "presetAudioModalPicker": {
+            "ariaLabel": "select from the list of preset page change audio options",
+            "headerLabel": "Select Page Change Audio"
+        }
+    },
+
+    "readers": {
+        "label": "Readers",
+
+        "addReaderButton": {
+            "ariaLabel": "add new reader",
+
+            "prompt": {
+                "title": "Add New Reader",
+                "description": "Please provide the display name for this new reader.",
+
+                "buttons": {
+                    "cancel": {
+                        "ariaLabel": "cancel adding the new reader"
+                    },
+
+                    "add": {
+                        "ariaLabel": "add the new reader"
+                    }
+                }
+            }
+        }
+    },
+
+    "bookPages": {
+        "label": "Pages",
+
+        "addPageButton": {
+            "ariaLabel": "add new page"
+        }
+    }
+}

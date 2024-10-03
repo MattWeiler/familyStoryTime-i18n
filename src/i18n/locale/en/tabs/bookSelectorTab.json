@@ -1,0 +1,171 @@
+{
+    "title": "Reading Corner",
+    "subtitle": "Let's enjoy reading some stories.",
+
+    "actionButton": {
+        "mainIcon": {
+            "ariaLabel": "add a book"
+        },
+
+        "subIcons": {
+            "bookStore": {
+                "label": "visit book store",
+                "ariaLabel": "visit our book store"
+            },
+
+            "createBook": {
+                "label": "create a book",
+                "ariaLabel": "create a new book"
+            },
+
+            "importBooks": {
+                "label": "import books",
+                "ariaLabel": "import one or more books"
+            }
+        }
+    },
+
+    "confirmations": {
+        "deleteBook": {
+            "title": "Deletion Confirmation",
+            "message": "Are you sure you want to delete the book \"%{bookTitle}?\""
+        }
+    },
+
+    "installedBooks": {
+        "loadError": {
+            "text": "Failed to load books.",
+            "ariaLabel": "failed to load books"
+        },
+
+        "noBooksFound": {
+            "message": "No books found :(",
+
+            "recommendations": {
+                "availableBooks": {
+                    "message": "Checkout our ",
+                    "linkName": "book store"
+                },
+
+                "creatingABook": {
+                    "message": "Try our ",
+                    "linkName": "book builder"
+                }
+            }
+        },
+
+        "buttons": {
+            "searchField": {
+                "placeholder": {
+                    "focused": "search your books",
+                    "notFocused": "🔎"
+                }
+            },
+
+            "sortBookTitleButton": {
+                "ariaLabel": {
+                    "descending": "sort by book title in ascending order",
+                    "ascending": "sort by book title in descending order"
+                }
+            },
+
+            "sortPageCountButton": {
+                "ariaLabel": {
+                    "descending": "sort by page count in ascending order",
+                    "ascending": "sort by page count in descending order"
+                }
+            },
+
+            "sortReaderCountButton": {
+                "ariaLabel": {
+                    "descending": "sort by reader count in ascending order",
+                    "ascending": "sort by reader count in descending order"
+                }
+            },
+
+            "contextMenuButton": {
+                "ariaLabel": "open the context menu for the selected books",
+
+                "options": {
+                    "export": {
+                        "label": "Export",
+                        "ariaLabel": "export the selected books"
+                    },
+
+                    "delete": {
+                        "label": "Delete",
+                        "ariaLabel": "delete the selected books",
+
+                        "confirmation": {
+                            "title": "Confirm Deletion",
+                            "message": {
+                                "one": "Are you sure that you want to delete the selected book?",
+                                "other": "Are you sure that you want to delete the %{count} selected books?"
+                            },
+
+                            "buttons": {
+                                "no": {
+                                    "ariaLabel": "no, do not delete the selected books"
+                                },
+
+                                "yes": {
+                                    "ariaLabel": "yes, delete the selected books"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+
+            "zoomButton": {
+                "ariaLabel": {
+                    "zoomedOut": "zoom in to view larger images",
+                    "zoomedIn": "zoom out to view more items at once"
+                }
+            }
+        }
+    },
+
+    "processing": {
+        "pending": {
+            "delete": {
+                "label": {
+                    "none": "deleting ...",
+                    "one": "deleting ...\nI promise",
+                    "other": "deleting ...\nOk, speeding it up."
+                }
+            },
+
+            "export": {
+                "label": {
+                    "none": "exporting ...",
+                    "one": "exporting ...\nI promise",
+                    "other": "exporting ...\nOk, speeding it up."
+                }
+            }
+        }
+    },
+
+    "toasts": {
+        "bookLoading": {
+            "failure": "loading books failed"
+        },
+        "delete": {
+            "failure": "delete failed",
+            "success": "deleted book \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "one": "failed to delete 1 book",
+                "other": "failed to delete %{count} books"
+            },
+            "success": {
+                "one": "deleted 1 book",
+                "other": "deleted %{count} books"
+            }
+        },
+        "import": {
+            "failure": "import failed"
+        }
+    }
+}

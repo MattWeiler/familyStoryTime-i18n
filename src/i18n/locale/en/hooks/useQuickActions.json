@@ -1,0 +1,16 @@
+{
+    "bookBuilder": {
+        "title": "Create a Book",
+        "subtitle": "Create a new book"
+    },
+
+    "settings": {
+        "title": "Settings",
+        "subtitle": "Change your settings"
+    },
+
+    "feedback": {
+        "title": "Leave Feedback",
+        "subtitle": "Tell us how we can improve"
+    }
+}

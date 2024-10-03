@@ -1,0 +1,42 @@
+{
+    "summary": "Before handing your device to your child, you can lock-down the application to prevent kids from deleting any books or making other changes.",
+
+    "enabling": {
+        "title": "Enable Parental Lock",
+
+        "messages": {
+            "1": "To enable the parental locking feature, open the hamburger menu and press the open lock icon at the top-right.",
+            "2": "This will prompt you to provide your biometric confirmation which will initialize the parental locking feature.",
+            "3": "Now that the parental locking feature has been enabled, pressing the open lock icon will lock-down the application.",
+            "4": "When the parental locking feature is enabled, each time that the application is launched, it will be in locked-down mode."
+        }
+    },
+
+    "disabling": {
+        "title": "Disable Parental Lock",
+
+        "messages": {
+            "1": "To diable the parental locking feature, open the hamburger menu and press the settings item at the bottom.",
+            "2": "On the settings page, unselect the \"Parental Locking\" feature."
+        }
+    },
+
+    "locked": {
+        "title": "Unlock Application",
+
+        "messages": {
+            "1": "To unlock the application, open the hamburger menu and press the closed lock icon at the top-right.",
+            "2": "This will prompt you to provide your biometric confirmation which will unlock the application."
+        }
+    },
+
+    "lockedBookSelector": {
+        "title": "Locked Features",
+
+        "messages": {
+            "1": "When the application is locked-down, several features of the application won't be shown such as context menus or buttons which allow you to add/remove books.",
+            "2": "This puts the application into a read-only mode which is safe for kids to use.",
+            "3": "In order to access those hidden features, you will have to unlock the application."
+        }
+    }
+}

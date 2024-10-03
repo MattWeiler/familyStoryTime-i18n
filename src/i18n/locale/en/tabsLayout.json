@@ -1,0 +1,11 @@
+{
+    "bookSelector": {
+        "text": "Reading Corner",
+        "ariaLabel": "read your books here"
+    },
+
+    "bookStore": {
+        "text": "Book Store",
+        "ariaLabel": "visit the book store"
+    }
+}

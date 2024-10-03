@@ -1,0 +1,49 @@
+{
+    "ariaLabel": "read the story: %{storyName}",
+    "text": "%{bookTitle}",
+
+    "pageCountLabel": {
+        "ariaLabel": {
+            "one": "%{count} page",
+            "other": "%{count} pages"
+        },
+
+        "text": {
+            "one": "%{count} page",
+            "other": "%{count} pages"
+        }
+    },
+
+    "readerCountLabel": {
+        "ariaLabel": {
+            "one": "this book has %{count} reader",
+            "other": "this book has %{count} readers"
+        },
+
+        "text": {
+            "one": "%{count} reader",
+            "other": "%{count} readers"
+        }
+    },
+
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Select",
+                "ariaLabel": "select the book \"%{bookTitle}\""
+            },
+            "delete": {
+                "title": "Delete",
+                "ariaLabel": "delete the book \"%{bookTitle}\""
+            },
+            "edit": {
+                "title": "Edit",
+                "ariaLabel": "edit the book \"%{bookTitle}\""
+            },
+            "export": {
+                "title": "Export",
+                "ariaLabel": "export the book \"%{bookTitle}\""
+            }
+        }
+    }
+}

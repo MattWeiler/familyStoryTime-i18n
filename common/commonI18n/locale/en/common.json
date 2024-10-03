@@ -1,0 +1,27 @@
+{
+    "backButton": {
+        "label": "Back",
+        "ariaLabel": "go back to last page",
+        "title": "go back to last page"
+    },
+
+    "settingsButton": {
+        "text": "Settings",
+        "ariaLabel": "go to applications settings page"
+    },
+
+    "loading": "loading ...",
+    "saving": "saving ...",
+    "sending": "sending ...",
+    "verifying": "verifying ...",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "Ok",
+    "set": "Set",
+    "add": "Add",
+    "create": "Create",
+    "cancel": "Cancel",
+    "acknowledgeError": "acknowledge the error",
+    "required": "required",
+    "back": "Back"
+}

@@ -1,0 +1,21 @@
+{
+    "summary": "You can find public domain books in our book store.",
+
+    "downloadingBook": {
+        "title": "Installing Books",
+
+        "messages": {
+            "1": "You can choose which of the available books you want to download.",
+            "2": "Doing so will install the book(s) onto your device, allowing you to play them and even add your own readers."
+        }
+    },
+
+    "installedBook": {
+        "title": "Managing Books",
+
+        "messages": {
+            "1": "You can also view which books you have already installed from our book store.",
+            "2": "From here, you can delete previously installed books or check for available updates."
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "summary": "You can playback books that you have installed on your device.",
+
+    "splashScreen": {
+        "title": "Splash Screen",
+
+        "messages": {
+            "1": "From the splash screen you can choose how you want the book to playback and select which reader should read the book, if applicable.",
+            "2": "If the book has readers added to it, you will be able to select between the \"Auto Play\", \"Read To Me\" and \"Read It Myself\" modes.",
+            "3": "The \"Auto Play\" mode will have the selected reader read the book and the pages will be changed automatically.",
+            "4": "The \"Read To Me\" mode will have the selected reader read the book, but the pages will have to be changed manually. This allows you more time to look at the images.",
+            "5": "The \"Read It Myself\" mode will allow you to read the book yourself.",
+            "6": "If the book contains source information, there will be an icon which when clicked will display that source information. The source information can be copied and pasted elsewhere."
+        }
+    },
+
+    "player": {
+        "title": "Book Player",
+
+        "messages": {
+            "1": "When playing a book, navigation buttons will be displayed which will allow you to pause/play the reader audio as well as navigate between pages.",
+            "2": "The navigation buttons can be hidden/shown by single-pressing the image.",
+            "3": "Some gestures can also be used to navigate.",
+            "4": "Swiping left/right will navigate between pages.",
+            "5": "Double tapping or pinching will zoom in/out. This zooming will alternate between fully filling the screen with the image or ensuring that the entire image is shown on the screen."
+        }
+    }
+}

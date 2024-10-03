@@ -1,0 +1,5 @@
+{
+    "initParentModePrompt": "Enable parental locking?",
+    "disableParentModePrompt": "Disable parental locking?",
+    "unlockParentModePrompt": "Unlock application?"
+}

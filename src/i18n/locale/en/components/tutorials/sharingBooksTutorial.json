@@ -1,0 +1,32 @@
+{
+    "summary": "After you've created a book, you can share it with family and friends.",
+
+    "exporting": {
+        "title": "Exporting",
+
+        "messages": {
+            "1": "You can either export a single book, via it's context menu, or several books at once, by long-holding to select multiple books.",
+            "2": "Once you have chosen the book(s) to export, you can then select exactly what should be exported.",
+            "3": "By default, the entire book will be exported, but you can pick-and-choose which readers are to be included with the book content or you can select to only export specific readers.",
+            "4": "When you just want to send the reader information that you recorded to someone who already has the book, you can create a much smaller file to share by only including the specific reader(s)."
+        }
+    },
+
+    "importing": {
+        "title": "Importing",
+
+        "messages": {
+            "1": "From the \"Reading Corner\" page, you can select which books to import by selecting the \"import books\" option when pressing the (+) button at the bottom-right of the screen.",
+            "2": "Alternatively, you can send a book file to the \"Family Story Time\" application.",
+            "3": "When importing a book that is not already installed on your device, the book will be installed."
+        }
+    },
+
+    "importingMerging": {
+        "messages": {
+            "1": "When importing a book that is already installed on your device, you will be able to select if the importing book should overwrite the already installed book or if a merge should be performed.",
+            "2": "When merging, only the selected readers will be added to the already installed book.",
+            "3": "If those readers being merged are already installed on the device, they will be replaced."
+        }
+    }
+}

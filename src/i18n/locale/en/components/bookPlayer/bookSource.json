@@ -1,0 +1,33 @@
+{
+    "showHideBookSource": {
+        "hideSource": {
+            "ariaLabel": "hide the book source information"
+        },
+
+        "showSource": {
+            "ariaLabel": "show the book source information"
+        }
+    },
+
+    "sourceAuthor": {
+        "label": "Author:"
+    },
+
+    "sourceIllustrator": {
+        "label": "Illustrator:"
+    },
+
+    "sourcePublisher": {
+        "label": "Publisher:"
+    },
+
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "open ISBN search for the book ISBN"
+    },
+
+    "sourceUrl": {
+        "label": "view book source",
+        "ariaLabel": "open book source URL"
+    }
+}
