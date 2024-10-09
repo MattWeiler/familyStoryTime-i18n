@@ -4,7 +4,10 @@
 
     "actionButton": {
         "mainIcon": {
-            "ariaLabel": "add a book"
+            "ariaLabel": {
+                "collapsed": "open add a book menu",
+                "expanded": "close add a book menu"
+            }
         },
 
         "subIcons": {
@@ -56,10 +59,8 @@
 
         "buttons": {
             "searchField": {
-                "placeholder": {
-                    "focused": "search your books",
-                    "notFocused": "🔎"
-                }
+                "ariaLabel": "search your books",
+                "placeholder": "search your books"
             },
 
             "sortBookTitleButton": {

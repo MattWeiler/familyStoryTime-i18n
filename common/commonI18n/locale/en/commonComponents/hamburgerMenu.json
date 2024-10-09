@@ -1,9 +1,6 @@
 {
     "hamburgerButton": {
-        "ariaLabel": {
-            "menuShowing": "hide hamburger menu",
-            "menuHidden": "show hamburger menu"
-        }
+        "ariaLabel": "show hamburger menu"
     },
 
     "applicationSecurityButton": {

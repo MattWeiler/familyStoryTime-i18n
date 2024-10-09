@@ -20,13 +20,13 @@
         },
 
         "modifyAttachmentsButton": {
-            "ariaLabel": "make changes to the book attached to your bug feedback"
+            "ariaLabel": "make changes to the books attached to your bug feedback"
         }
     },
 
     "bugDetailsInput": {
         "label": "Bug Details",
-        "ariaLabel": "describe the bug",
+        "ariaLabel": "description of the bug",
         "description": "Provide details about the bug.",
         "errorMessage": "Please provide some details about the bug."
     },

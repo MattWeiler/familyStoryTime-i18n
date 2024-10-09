@@ -1,0 +1,6 @@
+{
+    "ariaLabel": {
+        "expanded": "collapse %{title}",
+        "collapsed": "expand %{title}"
+    }
+}

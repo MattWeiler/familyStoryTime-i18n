@@ -1,6 +1,18 @@
 {
-    "ariaLabel": "read the story: %{storyName}",
+    "ariaLabel": {
+        "regularMode": "read the story: %{bookTitle}",
+
+        "selectionMode": "%{bookTitle} book"
+    },
+
     "text": "%{bookTitle}",
+
+    "selectionDot": {
+        "ariaLabel": {
+            "selected": "unselect the %{bookTitle} book",
+            "unselected": "select the %{bookTitle} book"
+        }
+    },
 
     "pageCountLabel": {
         "ariaLabel": {
@@ -16,8 +28,8 @@
 
     "readerCountLabel": {
         "ariaLabel": {
-            "one": "this book has %{count} reader",
-            "other": "this book has %{count} readers"
+            "one": "the book %{bookTitle} has %{count} reader",
+            "other": "the book %{bookTitle} has %{count} readers"
         },
 
         "text": {
@@ -27,22 +39,24 @@
     },
 
     "contextMenu": {
+        "ariaLabel": "open the context menu for book %{bookTitle}",
+
         "items": {
             "select": {
                 "title": "Select",
-                "ariaLabel": "select the book \"%{bookTitle}\""
+                "ariaLabel": "select the book %{bookTitle}"
             },
             "delete": {
                 "title": "Delete",
-                "ariaLabel": "delete the book \"%{bookTitle}\""
+                "ariaLabel": "delete the book %{bookTitle}"
             },
             "edit": {
                 "title": "Edit",
-                "ariaLabel": "edit the book \"%{bookTitle}\""
+                "ariaLabel": "edit the book %{bookTitle}"
             },
             "export": {
                 "title": "Export",
-                "ariaLabel": "export the book \"%{bookTitle}\""
+                "ariaLabel": "export the book %{bookTitle}"
             }
         }
     }

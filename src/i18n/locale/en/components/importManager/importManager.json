@@ -28,7 +28,7 @@
 
         "install": {
             "textLabel": "Install",
-            "ariaLabel": "install selected books"
+            "ariaLabel": "install selected books: %{bookNames}"
         }
     },
 
@@ -43,12 +43,7 @@
 
     "booksToInstall": {
         "checkbox": {
-            "checked": {
-                "ariaLabel": "remove this book from the import"
-            },
-            "unchecked": {
-                "ariaLabel": "include this book in the import"
-            }
+            "ariaLabel": "to include %{bookName} book in the import"
         },
 
         "bookTooltip": {
@@ -86,25 +81,24 @@
         },
 
         "existingBookStrategy": {
-            "overwrite": {
-                "label": "overwrite",
-                "ariaLabel": "overwrite existing book"
-            },
+            "ariaLabel": "select what import strategy to use for book %{bookName}",
 
-            "merge": {
-                "label": "merge",
-                "ariaLabel": "merge the books by adding new readers and overwriting existing readers with new readers"
+            "strategies": {
+                "overwrite": {
+                    "label": "overwrite",
+                    "ariaLabel": "overwrite existing book %{bookName}"
+                },
+
+                "merge": {
+                    "label": "merge",
+                    "ariaLabel": "merge the book %{bookName} by adding new readers and overwriting existing readers with new readers"
+                }
             }
         },
 
         "readers": {
             "checkbox": {
-                "checked": {
-                    "ariaLabel": "remove this reader from the import"
-                },
-                "unchecked": {
-                    "ariaLabel": "include this reader in the import"
-                }
+                "ariaLabel": "to include reader %{readerDisplayName} in the import"
             },
 
             "existingBookReaderTooltip": {

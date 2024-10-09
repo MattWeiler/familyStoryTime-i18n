@@ -162,7 +162,7 @@
 
     "commentInput": {
         "label": "Comment",
-        "ariaLabel": "optionally provide any additional comments that you have",
+        "ariaLabel": "optionally, additional comments",
         "description": "Optionally provide any additional comments that you have."
     }
 }

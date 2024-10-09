@@ -1,0 +1,5 @@
+{
+    "dataElement": {
+        "ariaLabel": "select %{displayName}"
+    }
+}

@@ -1,15 +1,19 @@
 {
-    "readModeItems": {
-        "autoRead": {
-            "ariaLabel": "each page will be read to the user in the voice of their choosing"
-        },
+    "readMode": {
+        "ariaLabel": "select which reading mode to use",
 
-        "pageRead": {
-            "ariaLabel": "each page will be read to the user in the voice of their choosing, but the user is responsible for changing the page"
-        },
+        "items": {
+            "autoRead": {
+                "ariaLabel": "each page will be read to the user in the voice of their choosing"
+            },
 
-        "selfRead": {
-            "ariaLabel": "the user will read each page"
+            "pageRead": {
+                "ariaLabel": "each page will be read to the user in the voice of their choosing, but the user is responsible for changing the page"
+            },
+
+            "selfRead": {
+                "ariaLabel": "the user will read each page"
+            }
         }
     },
 

@@ -2,11 +2,15 @@
     "label": "%{readerDisplayName}",
 
     "readerImage": {
-        "description": "The image to display for this reader."
+        "description": "The image to display for this reader.",
+        "accessibleImageDisplayName": "image of reader %{readerDisplayName}"
     },
 
     "changeDisplayNameButton": {
-        "ariaLabel": "change this readers display name",
+        "ariaLabel": {
+            "noDisplayName": "change the display name for the reader with ID %{readerId}",
+            "withDisplayName": "change the display name for reader %{readerDisplayName}"
+        },
 
         "confirmation": {
             "title": {
@@ -17,12 +21,22 @@
             "message": {
                 "noDisplayName": "What is the display name for this reader?",
                 "withDisplayName": "What would you like to change this readers display name to?"
+            },
+
+            "inputPlaceholder": "reader name",
+
+            "inputAriaLabel": {
+                "noDisplayName": "display name for the reader",
+                "withDisplayName": "display name for the reader"
             }
         }
     },
 
     "removeButton": {
-        "ariaLabel": "remove this reader",
+        "ariaLabel": {
+            "noDisplayName": "remove the reader with ID %{readerId}",
+            "withDisplayName": "remove the reader %{readerDisplayName}"
+        },
 
         "confirmation": {
             "title": "Deletion Confirmation",
@@ -42,6 +56,12 @@
             "withDisplayName": "%{readerDisplayName}'s Intro Audio",
             "noDisplayName": "Intro Audio"
         },
-        "description": "The optional audio to play before reading the 1st page."
+
+        "description": "The optional audio to play before reading the 1st page.",
+
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} reader intro",
+            "noDisplayName": "reader with ID %{readerId} intro"
+        }
     }
 }

@@ -1,11 +1,18 @@
 {
-    "nextPageButton": {
-        "hasNextPage": {
-            "ariaLabel": "go to next page",
-            "title": "go to next page"
+    "zoomButton": {
+        "ariaLabel": {
+            "zoomedIn": "zoom out to show the entire image, there may be black bars at the sides",
+            "zoomedOut": "zoom in to ensure the whole screen is filled with the image, some of the image may not be visible"
+        }
+    },
+
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "ariaLabel": "go to previous page",
+            "title": "go to previous page"
         },
 
-        "noNextPage": {
+        "noPreviousPage": {
             "ariaLabel": "go back to book selection",
             "title": "go back to book selection"
         }
@@ -23,13 +30,13 @@
         }
     },
 
-    "previousPageButton": {
-        "hasPreviousPage": {
-            "ariaLabel": "go to previous page",
-            "title": "go to previous page"
+    "nextPageButton": {
+        "hasNextPage": {
+            "ariaLabel": "go to next page",
+            "title": "go to next page"
         },
 
-        "noPreviousPage": {
+        "noNextPage": {
             "ariaLabel": "go back to book selection",
             "title": "go back to book selection"
         }

@@ -53,7 +53,7 @@
     "bookTitleInput": {
         "label": "Book Title",
         "description": "The title of the book.",
-        "ariaLabel": "specify the title of the book",
+        "ariaLabel": "title of the book",
         "placeholder": "title of book"
     },
 
@@ -63,47 +63,49 @@
         "authorInput": {
             "label": "Author Name",
             "description": "The name of the author of the book.",
-            "ariaLabel": "specify the name of the author of the book",
+            "ariaLabel": "name of the author of the book",
             "placeholder": "author of book"
         },
 
         "illustratorInput": {
             "label": "Illustrator Name",
             "description": "The name of the illustrator of the book.",
-            "ariaLabel": "specify the name of the illustrator of the book",
+            "ariaLabel": "name of the illustrator of the book",
             "placeholder": "illustrator of book"
         },
 
         "publisherInput": {
             "label": "Publisher Name",
             "description": "The name of the publisher of the book.",
-            "ariaLabel": "specify the name of the publisher of the book",
+            "ariaLabel": "name of the publisher of the book",
             "placeholder": "publisher of book"
         },
 
         "isbnInput": {
             "label": "ISBN",
             "description": "The international standard book number of the book.",
-            "ariaLabel": "specify the international standard book number of the book",
+            "ariaLabel": "international standard book number of the book",
             "placeholder": "ISBN of book"
         },
 
         "sourceUrl": {
             "label": "Source URL",
             "description": "The source URL of the book.",
-            "ariaLabel": "specify the source URL of the book",
+            "ariaLabel": "source URL of the book",
             "placeholder": "source URL"
         }
     },
 
     "bookIconImageSelector": {
         "label": "Book Icon",
-        "description": "The image to be used as the icon for the book."
+        "description": "The image to be used as the icon for the book.",
+        "accessibleImageDisplayName": "book icon"
     },
 
     "bookSplashImageImageSelector": {
         "label": "Book Splash Image",
-        "description": "The image to be shown when first launching the book."
+        "description": "The image to be shown when first launching the book.",
+        "accessibleImageDisplayName": "book splash"
     },
 
     "delays": {
@@ -112,22 +114,22 @@
         "delayBeforePlayingPageAudio": {
             "label": "Before Page Audio",
             "description": "The number of milliseconds to wait before playing page audio.",
-            "ariaLabel": "specify the milliseconds of delay before playing page audio",
-            "placeholder": "delay in milliseconds"
+            "ariaLabel": "milliseconds to wait before playing page audio",
+            "placeholder": "milliseconds before playing page audio"
         },
 
         "delayBeforePlayingPageChangeAudio": {
             "label": "Before Page Change Audio",
             "description": "The number of milliseconds to wait before playing page change audio.",
-            "ariaLabel": "specify the milliseconds of delay before playing page change audio",
-            "placeholder": "delay in milliseconds"
+            "ariaLabel": "milliseconds to wait before playing page change audio",
+            "placeholder": "milliseconds before playing page change audio"
         },
 
         "delayAfterPlayingPageChangeAudio": {
             "label": "After Page Change Audio",
             "description": "The number of milliseconds to wait after playing page change audio.",
-            "ariaLabel": "specify the milliseconds of delay after playing page change audio",
-            "placeholder": "delay in milliseconds"
+            "ariaLabel": "milliseconds to wait after playing page change audio",
+            "placeholder": "milliseconds after playing page change audio"
         }
     },
 
@@ -137,7 +139,8 @@
 
         "presetAudioModalPicker": {
             "ariaLabel": "select from the list of preset page change audio options",
-            "headerLabel": "Select Page Change Audio"
+            "headerLabel": "Select Page Change Audio",
+            "accessibleAudioDisplayName": "page change"
         }
     },
 
@@ -150,6 +153,8 @@
             "prompt": {
                 "title": "Add New Reader",
                 "description": "Please provide the display name for this new reader.",
+                "inputAriaLabel": "display name for this new reader",
+                "inputPlaceholder": "reader name",
 
                 "buttons": {
                     "cancel": {

@@ -36,6 +36,18 @@
             "settings": {
                 "text": "Settings",
                 "ariaLabel": "go to the settings screen"
+            },
+
+            "developerStatus": {
+                "showing": {
+                    "text": "Hide Developer Status",
+                    "ariaLabel": "hide the developer status"
+                },
+
+                "hidden": {
+                    "text": "Show Developer Status",
+                    "ariaLabel": "show the developer status"
+                }
             }
         }
     }

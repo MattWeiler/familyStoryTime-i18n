@@ -1,13 +1,13 @@
 {
     "previewImage": {
         "ariaLabel": {
-            "controlsHidden": "show the image controls",
-            "controlsVisible": "hide the image controls"
+            "controlsHidden": "show the %{imageDisplayName} image controls",
+            "controlsVisible": "hide the %{imageDisplayName} image controls"
         }
     },
 
     "fullscreenButton": {
-        "ariaLabel": "show image in fullscreen"
+        "ariaLabel": "show %{imageDisplayName} image in fullscreen"
     },
 
     "closeFullscreenButton": {
@@ -15,22 +15,22 @@
     },
 
     "editSelectedImageButton": {
-        "ariaLabel": "edit the image",
+        "ariaLabel": "edit the %{imageDisplayName} image",
         "title": "edit the image"
     },
 
     "browseFileButton": {
-        "ariaLabel": "browse for an image file",
+        "ariaLabel": "browse for an image file for %{imageDisplayName} image",
         "title": "browse for an image file"
     },
 
     "browseImageGalleryButton": {
-        "ariaLabel": "browse image gallery",
+        "ariaLabel": "browse image gallery for %{imageDisplayName} image",
         "title": "browse image gallery"
     },
 
     "takePhotoButton": {
-        "ariaLabel": "take picture",
+        "ariaLabel": "take picture for %{imageDisplayName} image",
         "title": "take picture"
     },
 

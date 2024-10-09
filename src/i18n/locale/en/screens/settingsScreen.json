@@ -42,6 +42,7 @@
 
     "themeSelection": {
         "displayName": "Theme Selection",
+        "ariaLabel": "select the theme that should be used by the application",
         "shortDescription": "Select the theme that should be used by the application.",
         "longDescription": "If a theme is selected here, it will override whatever device theme settings you may have.",
 
@@ -63,6 +64,7 @@
 
     "audioVideoSelection": {
         "displayName": "Audio & Video",
+
         "ariaLabel": {
             "collapsed": "expand the audio video selection section",
             "expanded": "collapse the audio video selection section"
@@ -79,11 +81,16 @@
             "highLabel": "High"
         },
 
-        "testLabel": "Test Camera"
+        "testLabel": "Test Camera",
+
+        "testImage": {
+            "accessibleImageDisplayName": "test camera quality image"
+        }
     },
 
     "microphoneAudioQuality": {
         "displayName": "Microphone Quality",
+        "ariaLabel": "select the audio quality of recordings taken with the microphone",
         "shortDescription": "Select the audio quality of recordings taken with the microphone.",
         "longDescription": "This audio quality will be used when recording with the device microphone.",
 
@@ -98,11 +105,16 @@
             }
         },
 
-        "testLabel": "Test Microphone"
+        "testLabel": "Test Microphone",
+
+        "testAudioSelector": {
+            "accessibleAudioDisplayName": "test microphone quailty"
+        }
     },
 
     "imageEditor": {
         "displayName": "Image Editor",
+        "ariaLabel": "select which image editor should be used",
         "shortDescription": "Select which image editor should be used.",
         "longDescription": "This image editor will be used when new book images are being taken or an existing book image is being edited.",
 
@@ -117,13 +129,22 @@
             }
         },
 
-        "testLabel": "Test Image Editor"
+        "testLabel": "Test Image Editor",
+
+        "testImage": {
+            "accessibleImageDisplayName": "test image editor image"
+        }
     },
 
     "parentalLocking": {
         "displayName": "Parental Locking",
         "shortDescription": "Parental locking can be useful when children are using the application.",
-        "longDescription": "When enabled, the device owners biometric data is required to unlock advanced features in the application."
+        "longDescription": "When enabled, the device owners biometric data is required to unlock advanced features in the application.",
+
+        "ariaLabel": {
+            "enabled": "parental locking is enabled",
+            "disabled": "parental locking is disabled"
+        }
     },
 
     "exportAllBooks": {

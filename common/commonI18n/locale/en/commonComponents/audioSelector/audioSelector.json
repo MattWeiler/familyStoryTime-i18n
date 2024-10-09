@@ -7,18 +7,18 @@
 
     "playButton": {
         "playing": {
-            "ariaLabel": "stop the playing audio"
+            "ariaLabel": "stop the playing %{audioDisplayName} audio"
         },
         "stopped": {
-            "ariaLabel": "play the audio"
+            "ariaLabel": "play the %{audioDisplayName} audio"
         },
         "recording": {
-            "ariaLabel": "stop recording"
+            "ariaLabel": "stop the %{audioDisplayName} recording"
         }
     },
 
     "editAudioButton": {
-        "ariaLabel": "edit the currently loaded audio",
+        "ariaLabel": "edit the currently loaded %{audioDisplayName} audio",
 
         "cancelConfirmation": {
             "title": "Discard Editing",
@@ -32,19 +32,19 @@
     },
 
     "selectPresetAudioButton": {
-        "ariaLabel": "select a preset page change audio"
+        "ariaLabel": "select a preset %{audioDisplayName} audio"
     },
 
     "selectAudioFileButton": {
-        "ariaLabel": "select your own audio file"
+        "ariaLabel": "select your own %{audioDisplayName} audio file"
     },
 
     "recordAudioButton": {
-        "ariaLabel": "record your own audio"
+        "ariaLabel": "record your own %{audioDisplayName} audio"
     },
 
     "clearAudioButton": {
-        "ariaLabel": "clear the selected audio",
+        "ariaLabel": "clear the selected %{audioDisplayName} audio",
 
         "confirmation": {
             "title": "Clear Confirmation",

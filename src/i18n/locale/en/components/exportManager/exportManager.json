@@ -37,7 +37,7 @@
 
     "outputFilenameField": {
         "label": "Output File Name",
-        "ariaLabel": "specify the expected output filename"
+        "ariaLabel": "expected output filename"
     },
 
     "errors": {
@@ -57,12 +57,7 @@
 
     "booksToExport": {
         "checkbox": {
-            "checked": {
-                "ariaLabel": "remove this book from the export"
-            },
-            "unchecked": {
-                "ariaLabel": "include this book in the export"
-            }
+            "ariaLabel": "to include the book %{bookTitle} in the export"
         },
 
         "bookReadersTooltip": {
@@ -70,25 +65,24 @@
         },
 
         "exportMode": {
-            "full": {
-                "label": "full",
-                "ariaLabel": "export the entire book"
-            },
+            "ariaLabel": "select how to export book %{bookTitle}",
 
-            "audioOnly": {
-                "label": "readers",
-                "ariaLabel": "only export the reader information"
+            "modes": {
+                "full": {
+                    "label": "full",
+                    "ariaLabel": "export the entire book %{bookTitle}"
+                },
+
+                "audioOnly": {
+                    "label": "readers",
+                    "ariaLabel": "only export the reader information for book %{bookTitle}"
+                }
             }
         },
 
         "readers": {
             "checkbox": {
-                "checked": {
-                    "ariaLabel": "remove this reader from the export"
-                },
-                "unchecked": {
-                    "ariaLabel": "include this reader in the export"
-                }
+                "ariaLabel": "to include the reader %{readerDisplayName} in the export"
             }
         }
     },
