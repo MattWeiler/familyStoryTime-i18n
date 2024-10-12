@@ -62,6 +62,86 @@
         }
     },
 
+    "parentalLocking": {
+        "displayName": "Parental Locking",
+        "shortDescription": "Parental locking can be useful when children are using the application.",
+        "longDescription": "When enabled, the device owners biometric data is required to unlock advanced features in the application.",
+
+        "ariaLabel": {
+            "enabled": "parental locking is enabled",
+            "disabled": "parental locking is disabled"
+        }
+    },
+
+    "textToSpeechEnabled": {
+        "displayName": "AI Reader",
+        "description": "When enabled, the \"AI Reader\" will be available as a reader when playing back books.",
+
+        "ariaLabel": {
+            "enabled": "\"AI Reader\" is enabled",
+            "disabled": "\"AI Reader\" is disabled",
+
+            "collapsed": "expand the \"AI Reader\" selection section",
+            "expanded": "collapse the \"AI Reader\" selection section"
+        },
+
+        "testLabel": "Test Voice",
+        "testPhrase": "Hello, I would love to read your favorite stories with you.",
+
+        "testAriaLabel": {
+            "playing": "stop the \"AI Reader\" voice test",
+            "stopped": "test \"AI Reader\" voice"
+        }
+    },
+
+    "textToSpeechPreferredVoice": {
+        "displayName": "Preferred Voice",
+        "shortDescription": "Select the voice to be used by the \"AI Reader\".",
+        "longDescription": "This voice will be used when the \"AI Reader\" reader reads books.",
+
+        "selectorButton": {
+            "defaultLabel": "default",
+            "ariaLabel": "select an \"AI Reader\" voice"
+        },
+
+        "picker": {
+            "label": "AI Reader Voices",
+            "ariaLabel": "select an \"AI Reader\" voice",
+
+            "networkActionIcon": {
+                "ariaLabel": "show local and network based voices"
+            },
+
+            "globalActionIcon": {
+                "ariaLabel": "show all languages"
+            }
+        }
+    },
+
+    "textToSpeechVoicePitch": {
+        "displayName": "Voice Pitch %{value}%",
+        "shortDescription": "Select the pitch of the voice to be used by the \"AI Reader\".",
+        "longDescription": "This denotes the pitch of the voice used when the \"AI Reader\" reader reads books.",
+
+        "slider": {
+            "ariaLabel": "voice pitch of the \"AI Reader\"",
+            "lowLabel": "Low",
+            "highLabel": "High"
+        }
+    },
+
+    "textToSpeechSpeechRate": {
+        "displayName": "Speech Rate %{value}%",
+        "shortDescription": "Select the rate of the voice to be used by the \"AI Reader\".",
+        "longDescription": "This denotes the rate of the voice used when the \"AI Reader\" reader reads books.",
+
+        "slider": {
+            "ariaLabel": "speech rate of the \"AI Reader\"",
+            "lowLabel": "Slow",
+            "highLabel": "Fast"
+        }
+    },
+
     "audioVideoSelection": {
         "displayName": "Audio & Video",
 
@@ -72,11 +152,12 @@
     },
 
     "cameraImageQuality": {
-        "displayName": "Camera Quality",
+        "displayName": "Camera Quality %{value}%",
         "shortDescription": "Select the image quality of pictures taken with the camera.",
         "longDescription": "This image quality will be used when taking pictures with the device camera(s).",
 
         "slider": {
+            "ariaLabel": "image quality of pictures",
             "lowLabel": "Low",
             "highLabel": "High"
         },
@@ -133,17 +214,6 @@
 
         "testImage": {
             "accessibleImageDisplayName": "test image editor image"
-        }
-    },
-
-    "parentalLocking": {
-        "displayName": "Parental Locking",
-        "shortDescription": "Parental locking can be useful when children are using the application.",
-        "longDescription": "When enabled, the device owners biometric data is required to unlock advanced features in the application.",
-
-        "ariaLabel": {
-            "enabled": "parental locking is enabled",
-            "disabled": "parental locking is disabled"
         }
     },
 

@@ -1,0 +1,13 @@
+{
+    "simpleVoiceDisplayName": "[%{voiceLanguage}] %{voiceName}",
+
+    "voiceDisplayName": {
+        "networkVoice": "[%{voiceLanguage}] %{voiceName} (%{voiceQuality}) [network]",
+        "localVoice": "[%{voiceLanguage}] %{voiceName} (%{voiceQuality})"
+    },
+
+    "voiceQuality": {
+        "enhanced": "enhanced",
+        "default": "basic"
+    }
+}
