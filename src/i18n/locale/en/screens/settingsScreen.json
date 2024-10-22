@@ -107,6 +107,7 @@
         "picker": {
             "label": "AI Reader Voices",
             "ariaLabel": "select an \"AI Reader\" voice",
+            "default": "default",
 
             "networkActionIcon": {
                 "ariaLabel": "show local and network based voices"
