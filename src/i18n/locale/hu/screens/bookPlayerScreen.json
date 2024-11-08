@@ -1,0 +1,4 @@
+{
+    "aiReader": {"displayName": "AI olvasó"},
+    "errors": {"bookLoadFailure": "Nem sikerült betölteni a könyvet."}
+}

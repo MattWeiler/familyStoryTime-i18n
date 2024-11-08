@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Nome",
+        "placeholder": "John Doe",
+        "ariaLabel": "opcionalmente, seu nome"
+    },
+    "emailInput": {
+        "description": "Forneça se quiser receber uma resposta nossa.",
+        "label": "Endereço de email",
+        "placeholder": "alguém@gmail.com",
+        "ariaLabel": "opcionalmente, seu endereço de e-mail"
+    }
+}

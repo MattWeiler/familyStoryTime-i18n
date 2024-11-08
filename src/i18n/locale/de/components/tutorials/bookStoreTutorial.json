@@ -1,0 +1,17 @@
+{
+    "summary": "In unserem Buchladen finden Sie gemeinfreie Bücher.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Sie können auswählen, welches der verfügbaren Bücher Sie herunterladen möchten.",
+            "2": "Dadurch werden die Bücher auf Ihrem Gerät installiert, sodass Sie sie abspielen und sogar Ihre eigenen Leser hinzufügen können."
+        },
+        "title": "Bücher installieren"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Außerdem können Sie in unserem Buchshop einsehen, welche Bücher Sie bereits installiert haben.",
+            "2": "Von hier aus können Sie zuvor installierte Bücher löschen oder nach verfügbaren Updates suchen."
+        },
+        "title": "Bücher verwalten"
+    }
+}

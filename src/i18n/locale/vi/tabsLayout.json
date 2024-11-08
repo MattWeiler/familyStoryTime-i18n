@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Góc đọc sách",
+        "ariaLabel": "đọc sách của bạn ở đây"
+    },
+    "bookStore": {
+        "text": "Cửa hàng sách",
+        "ariaLabel": "ghé thăm cửa hàng sách"
+    }
+}

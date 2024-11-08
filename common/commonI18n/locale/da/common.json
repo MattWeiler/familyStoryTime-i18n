@@ -1,0 +1,25 @@
+{
+    "add": "Tilføje",
+    "cancel": "Ophæve",
+    "no": "Ingen",
+    "verifying": "bekræfter...",
+    "set": "Sæt",
+    "yes": "Ja",
+    "back": "Tilbage",
+    "loading": "indlæser ...",
+    "required": "påkrævet",
+    "acknowledgeError": "anerkend fejlen",
+    "saving": "sparer...",
+    "settingsButton": {
+        "text": "Indstillinger",
+        "ariaLabel": "gå til siden med applikationsindstillinger"
+    },
+    "backButton": {
+        "label": "Tilbage",
+        "title": "gå tilbage til sidste side",
+        "ariaLabel": "gå tilbage til sidste side"
+    },
+    "sending": "sender...",
+    "create": "Skabe",
+    "ok": "Okay"
+}

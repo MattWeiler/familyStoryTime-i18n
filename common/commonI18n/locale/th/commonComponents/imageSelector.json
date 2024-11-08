@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "เรียกดูไฟล์รูปภาพ",
+        "ariaLabel": "เรียกดูไฟล์รูปภาพสำหรับรูปภาพ %{imageDisplayName}"
+    },
+    "takePhotoButton": {
+        "title": "ถ่ายรูป",
+        "ariaLabel": "ถ่ายภาพสำหรับ %{imageDisplayName} ภาพ"
+    },
+    "browseImageGalleryButton": {
+        "title": "เรียกดูแกลเลอรี่ภาพ",
+        "ariaLabel": "เรียกดูแกลเลอรีรูปภาพสำหรับรูปภาพ %{imageDisplayName}"
+    },
+    "fullscreenButton": {"ariaLabel": "แสดงรูปภาพ %{imageDisplayName} แบบเต็มจอ"},
+    "imageEditor": {
+        "cropButton": {"text": "ครอบตัด"},
+        "cancelButton": {"text": "ยกเลิก"},
+        "backButton": {"text": "กลับ"},
+        "saveButton": {"text": "บันทึก"}
+    },
+    "editSelectedImageButton": {
+        "title": "แก้ไขภาพ",
+        "ariaLabel": "แก้ไขรูปภาพ %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "แสดงตัวควบคุมรูปภาพ %{imageDisplayName}",
+        "controlsVisible": "ซ่อนตัวควบคุมรูปภาพ %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "การอนุญาตถูกปฏิเสธ",
+            "message": "คุณได้ปฏิเสธการอนุญาตให้เข้าถึงกล้องของคุณ"
+        },
+        "browseImages": {
+            "title": "การอนุญาตถูกปฏิเสธ",
+            "message": "คุณได้ปฏิเสธการอนุญาตให้เข้าถึงรูปภาพของคุณ"
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "ปิดเต็มหน้าจอ"}
+}

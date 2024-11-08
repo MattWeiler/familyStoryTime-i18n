@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "Das Laden der Bücher ist fehlgeschlagen"},
+        "import": {"failure": "Import fehlgeschlagen"},
+        "delete": {
+            "failure": "Löschen fehlgeschlagen",
+            "success": "Buch \u201e%{bookTitle}\u201c gelöscht"
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "%{count} Bücher konnten nicht gelöscht werden",
+                "one": "1 Buch konnte nicht gelöscht werden"
+            },
+            "success": {
+                "other": "%{count} Bücher gelöscht",
+                "one": "1 Buch gelöscht"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "Sortiert nach Seitenanzahl in absteigender Reihenfolge",
+                "descending": "Sortieren Sie nach Seitenanzahl in aufsteigender Reihenfolge"
+            }},
+            "searchField": {
+                "placeholder": "Durchsuchen Sie Ihre Bücher",
+                "ariaLabel": "Durchsuchen Sie Ihre Bücher"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Export",
+                        "ariaLabel": "Exportieren Sie die ausgewählten Bücher"
+                    },
+                    "delete": {
+                        "label": "Löschen",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "Nein, die ausgewählten Bücher werden nicht gelöscht"},
+                                "yes": {"ariaLabel": "Ja, die ausgewählten Bücher löschen"}
+                            },
+                            "title": "Bestätigen Sie den Löschvorgang",
+                            "message": {
+                                "other": "Sind Sie sicher, dass Sie die %{count} ausgewählten Bücher löschen möchten?",
+                                "one": "Sind Sie sicher, dass Sie das ausgewählte Buch löschen möchten?"
+                            }
+                        },
+                        "ariaLabel": "Löschen Sie die ausgewählten Bücher"
+                    }
+                },
+                "ariaLabel": "Öffnen Sie das Kontextmenü für die ausgewählten Bücher"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "Sortierung nach Buchtitel in absteigender Reihenfolge",
+                "descending": "Sortierung nach Buchtitel in aufsteigender Reihenfolge"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "Sortierung nach Leseranzahl in absteigender Reihenfolge",
+                "descending": "Sortierung nach Leseranzahl in aufsteigender Reihenfolge"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "Verkleinern Sie die Ansicht, um mehr Elemente gleichzeitig anzuzeigen",
+                "zoomedOut": "Zoomen Sie hinein, um größere Bilder anzuzeigen"
+            }}
+        },
+        "loadError": {
+            "text": "Bücher konnten nicht geladen werden.",
+            "ariaLabel": "Bücher konnten nicht geladen werden"
+        },
+        "noBooksFound": {
+            "message": "Keine Bücher gefunden :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Probieren Sie unser",
+                    "linkName": "Buchbauer"
+                },
+                "availableBooks": {
+                    "message": "Schauen Sie sich unsere an",
+                    "linkName": "Buchladen"
+                }
+            }
+        }
+    },
+    "subtitle": "Viel Spaß beim Lesen einiger Geschichten.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "ein Buch erstellen",
+                "ariaLabel": "ein neues Buch erstellen"
+            },
+            "importBooks": {
+                "label": "Bücher importieren",
+                "ariaLabel": "Importieren Sie ein oder mehrere Bücher"
+            },
+            "bookStore": {
+                "label": "Besuchen Sie den Buchladen",
+                "ariaLabel": "Besuchen Sie unseren Buchladen"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "Schließen Sie ein Buchmenü hinzufügen",
+            "collapsed": "Öffnen Sie das Menü \u201eEin Buch hinzufügen\u201c."
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "löschen ...\n",
+            "one": "löschen ...\n",
+            "none": "löschen ..."
+        }},
+        "export": {"label": {
+            "other": "exportieren ...\n",
+            "one": "exportieren ...\n",
+            "none": "exportieren ..."
+        }}
+    }},
+    "title": "Leseecke",
+    "confirmations": {"deleteBook": {
+        "title": "Löschbestätigung",
+        "message": "Sind Sie sicher, dass Sie das Buch \u201e%{bookTitle}\u201c löschen möchten?"
+    }}
+}

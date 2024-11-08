@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "pagina %{pageNum} immagine"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Eseguire nuovamente la scansione del testo della pagina",
+                "message": "Sei sicuro di voler scansionare il testo dell'immagine e sostituire il testo della pagina esistente?"
+            },
+            "ariaLabel": "estrai il testo dall'immagine per la pagina %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "testo da aggiungere alla pagina %{pageNum}",
+                    "withPageText": "testo da aggiornare sulla pagina %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Imposta il testo della pagina",
+                    "withPageText": "Aggiorna il testo della pagina"
+                },
+                "message": {
+                    "noPageText": "Qual è il testo della pagina?",
+                    "withPageText": "In cosa desideri modificare il testo della pagina?"
+                },
+                "inputPlaceholder": "testo da aggiungere"
+            },
+            "ariaLabel": "modifica il testo \"%{pageText}\" dalla pagina %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "sposta il testo \"%{pageText}\" dalla pagina %{pageNum} verso l'alto"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Conferma di cancellazione",
+                "message": "Sei sicuro di voler eliminare il testo di questa pagina?"
+            },
+            "ariaLabel": "rimuovi il testo \"%{pageText}\" dalla pagina %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "testo da aggiungere alla pagina %{pageNum}",
+                "title": "Imposta il testo della pagina",
+                "message": "Qual è il testo della pagina?",
+                "inputPlaceholder": "testo da aggiungere"
+            },
+            "ariaLabel": "aggiungi nuovo testo alla pagina %{pageNum}"
+        },
+        "label": "Testo",
+        "showHideButton": {"ariaLabel": {
+            "visible": "nascondi il testo \"%{pageText}\" dalla pagina %{pageNum}",
+            "hidden": "mostra il testo \"%{pageText}\" dalla pagina %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "sposta il testo \"%{pageText}\" dalla pagina %{pageNum} verso il basso"}
+    },
+    "moveUpButton": {"ariaLabel": "sposta la pagina %{pageNum} in alto"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "L'audio da riprodurre quando \"%{readerDisplayName}\" legge la pagina %{pageNum}.",
+                "noDisplayName": "L'audio da riprodurre quando questo lettore legge la pagina %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "lettore della pagina %{pageNum} %{readerDisplayName}"
+        },
+        "label": "Lettori"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Ciò rimuoverà tutto l'audio della pagina registrato per questa pagina.",
+            "additionalMessage2": "QUESTO NON PUÒ ESSERE ANNULLATO!",
+            "title": "Conferma di cancellazione",
+            "message": "Sei sicuro di voler eliminare la pagina %{pageNum}?"
+        },
+        "ariaLabel": "rimuovi la pagina %{pageNum}"
+    },
+    "description": "L'immagine da visualizzare sulla pagina %{pageNum}.",
+    "label": "Pagina %{pageNum}",
+    "moveDownButton": {"ariaLabel": "sposta la pagina %{pageNum} in basso"}
+}

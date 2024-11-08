@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Phản hồi cho chúng tôi"},
+        "intro": {"displayName": "Giới thiệu"},
+        "createBooks": {"displayName": "Tạo sách"},
+        "parentalLocking": {"displayName": "Khóa của phụ huynh"},
+        "sharingBooks": {"displayName": "Chia sẻ sách"},
+        "bookPlayback": {"displayName": "Chơi Sách"},
+        "bookStore": {"displayName": "Cửa hàng sách"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "xem trang %{pageName}"},
+        "backPageButton": {"ariaLabel": "quay lại 1 trang"},
+        "forwardPageButton": {"ariaLabel": "tiến tới 1 trang"}
+    },
+    "startLink": {
+        "label": "Bắt đầu",
+        "ariaLabel": "đi đến trang chủ"
+    }
+}

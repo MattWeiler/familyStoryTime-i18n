@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "gửi email không được hỗ trợ",
+        "submissionFailed": "lỗi gửi không thành công",
+        "submissionSuccess": "lỗi đã được gửi"
+    },
+    "submitButton": {
+        "text": "Gửi lỗi",
+        "ariaLabel": "gửi lỗi"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Thêm (các) cuốn sách có thể gây ra sự cố.",
+            "label": "Sách để đính kèm"
+        },
+        "loadFailed": "tải sách không thành công",
+        "noBooksInstalled": "chưa cài đặt sách",
+        "picker": {
+            "header": "Chọn (các) sách",
+            "ariaLabel": "chọn những cuốn sách sẽ được đính kèm vào phản hồi lỗi"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "thực hiện thay đổi đối với những cuốn sách được đính kèm với phản hồi về lỗi của bạn"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Vui lòng cung cấp một số chi tiết về lỗi.",
+        "description": "Cung cấp thông tin chi tiết về lỗi.",
+        "label": "Chi tiết lỗi",
+        "ariaLabel": "mô tả lỗi"
+    }
+}

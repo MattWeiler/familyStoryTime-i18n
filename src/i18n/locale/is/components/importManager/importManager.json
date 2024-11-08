@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "innflutningur er þegar í gangi, reyndu aftur síðar",
+        "download": {"failed": "tókst ekki að hlaða niður \u201e%{bookName}\u201c."},
+        "install": {
+            "failed": "tókst ekki að flytja inn \u201e%{bookName}\u201c",
+            "successful": "flutti inn \u201e%{bookName}\u201c"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Hætta við",
+            "ariaLabel": "hætta við innflutninginn"
+        },
+        "install": {
+            "textLabel": "Settu upp",
+            "ariaLabel": "settu upp valdar bækur: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "að greina...",
+        "downloading": "niðurhal...",
+        "installing": "setur upp...",
+        "cancelling": "hætta við..."
+    },
+    "nothingToInstall": "Ekkert að flytja inn :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Þessi lesandi er nú þegar hluti af uppsettu bókinni.\n\n"},
+            "checkbox": {"ariaLabel": "að innihalda lesandann %{readerDisplayName} í innflutningnum"}
+        },
+        "checkbox": {"ariaLabel": "að innihalda %{bookName} bók í innflutningnum"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Þessi bók er nú þegar í tækinu þínu.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Ef þú velur að skrifa yfir verður núverandi bók skipt út fyrir nýja.\n\n"},
+                    "noReaders": {"label": "Þessi bók er nú þegar í tækinu þínu.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Þessi skrá inniheldur aðeins hljóð og bókin er ekki uppsett á tækinu þínu.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Þessi bók er ekki í tækinu þínu.\n\n"},
+                    "noReaders": {"label": "Þessi bók er ekki í tækinu þínu.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "sameinast",
+                    "ariaLabel": "sameina bókina %{bookName} með því að bæta við nýjum lesendum og skrifa yfir núverandi lesendur með nýjum lesendum"
+                },
+                "overwrite": {
+                    "label": "skrifa yfir",
+                    "ariaLabel": "skrifa yfir núverandi bók %{bookName}"
+                }
+            },
+            "ariaLabel": "veldu hvaða innflutningsaðferð á að nota fyrir bókina %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "ekki hætta við innflutninginn"},
+            "yes": {"ariaLabel": "hætta við innflutninginn"}
+        },
+        "title": "Staðfestu Hætta við innflutning",
+        "message": "Ertu viss um að þú viljir hætta við innflutninginn?"
+    }},
+    "titles": {
+        "booksToInstall": "Bækur til að setja upp",
+        "failedToInstall": "Mistókst að setja upp bækur"
+    }
+}

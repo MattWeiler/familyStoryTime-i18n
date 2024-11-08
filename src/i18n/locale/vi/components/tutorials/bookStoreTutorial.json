@@ -1,0 +1,17 @@
+{
+    "summary": "Bạn có thể tìm thấy sách thuộc phạm vi công cộng trong cửa hàng sách của chúng tôi.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Bạn có thể chọn những cuốn sách có sẵn mà bạn muốn tải xuống.",
+            "2": "Làm như vậy sẽ cài đặt (các) sách vào thiết bị của bạn, cho phép bạn phát chúng và thậm chí thêm người đọc của riêng bạn."
+        },
+        "title": "Cài đặt sách"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Bạn cũng có thể xem những cuốn sách bạn đã cài đặt từ cửa hàng sách của chúng tôi.",
+            "2": "Từ đây, bạn có thể xóa sách đã cài đặt trước đó hoặc kiểm tra các bản cập nhật có sẵn."
+        },
+        "title": "Quản lý sách"
+    }
+}

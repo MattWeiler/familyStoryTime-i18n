@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "könyvek betöltése nem sikerült"},
+        "import": {"failure": "az importálás sikertelen"},
+        "delete": {
+            "failure": "törlés nem sikerült",
+            "success": "törölt \"%{bookTitle}\" könyv"
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "%{count} könyv törlése nem sikerült",
+                "one": "1 könyv törlése nem sikerült"
+            },
+            "success": {
+                "other": "%{count} könyv törölve",
+                "one": "törölt 1 könyvet"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "oldalszám szerinti rendezés csökkenő sorrendben",
+                "descending": "oldalszám szerint rendezni növekvő sorrendben"
+            }},
+            "searchField": {
+                "placeholder": "keressen a könyveiben",
+                "ariaLabel": "keressen a könyveiben"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Export",
+                        "ariaLabel": "exportálja a kiválasztott könyveket"
+                    },
+                    "delete": {
+                        "label": "Töröl",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "nem, ne törölje a kiválasztott könyveket"},
+                                "yes": {"ariaLabel": "igen, törölje a kiválasztott könyveket"}
+                            },
+                            "title": "Erősítse meg a törlést",
+                            "message": {
+                                "other": "Biztos benne, hogy törölni szeretné a %{count} kiválasztott könyvet?",
+                                "one": "Biztos benne, hogy törölni szeretné a kiválasztott könyvet?"
+                            }
+                        },
+                        "ariaLabel": "törölje a kiválasztott könyveket"
+                    }
+                },
+                "ariaLabel": "nyissa meg a kiválasztott könyvek helyi menüjét"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "rendezd a könyv címe szerint csökkenő sorrendbe",
+                "descending": "rendezd a könyv címe szerint növekvő sorrendben"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "rendezze az olvasók száma szerint csökkenő sorrendbe",
+                "descending": "rendezni az olvasók száma szerint növekvő sorrendben"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "kicsinyítsen, hogy egyszerre több elemet is megtekinthessen",
+                "zoomedOut": "nagyítson rá a nagyobb képek megtekintéséhez"
+            }}
+        },
+        "loadError": {
+            "text": "Nem sikerült betölteni a könyveket.",
+            "ariaLabel": "nem sikerült betölteni a könyveket"
+        },
+        "noBooksFound": {
+            "message": "Nem található könyv :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Próbálja ki a mi",
+                    "linkName": "könyvépítő"
+                },
+                "availableBooks": {
+                    "message": "Nézze meg nálunk",
+                    "linkName": "könyvesbolt"
+                }
+            }
+        }
+    },
+    "subtitle": "Olvassunk szívesen néhány történetet.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "hozzon létre egy könyvet",
+                "ariaLabel": "hozzon létre egy új könyvet"
+            },
+            "importBooks": {
+                "label": "könyvek importálása",
+                "ariaLabel": "importálni egy vagy több könyvet"
+            },
+            "bookStore": {
+                "label": "látogassa meg a könyvesboltot",
+                "ariaLabel": "látogasson el könyvesboltunkba"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "zárja be a könyvmenü hozzáadása",
+            "collapsed": "nyissa meg a könyv hozzáadása menüt"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "törlés...\n",
+            "one": "törlés...\n",
+            "none": "törlés..."
+        }},
+        "export": {"label": {
+            "other": "exportál...\n",
+            "one": "exportál...\n",
+            "none": "exportál..."
+        }}
+    }},
+    "title": "Olvasósarok",
+    "confirmations": {"deleteBook": {
+        "title": "Törlés megerősítése",
+        "message": "Biztosan törli a(z) \"%{bookTitle}\" könyvet?"
+    }}
+}

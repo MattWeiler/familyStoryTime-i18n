@@ -1,0 +1,34 @@
+{
+    "summary": "Avant de remettre votre appareil à votre enfant, vous pouvez verrouiller l'application pour empêcher les enfants de supprimer des livres ou d'apporter d'autres modifications.",
+    "enabling": {
+        "messages": {
+            "1": "Pour activer la fonction de verrouillage parental, ouvrez le menu hamburger et appuyez sur l'icône de verrouillage ouvert en haut à droite.",
+            "2": "Cela vous demandera de fournir votre confirmation biométrique qui initialisera la fonction de verrouillage parental.",
+            "3": "Maintenant que la fonction de verrouillage parental est activée, appuyer sur l'icône de verrouillage ouvert verrouillera l'application.",
+            "4": "Lorsque la fonction de verrouillage parental est activée, à chaque lancement de l'application, elle sera en mode verrouillé."
+        },
+        "title": "Activer le verrouillage parental"
+    },
+    "disabling": {
+        "messages": {
+            "1": "Pour désactiver la fonction de verrouillage parental, ouvrez le menu hamburger et appuyez sur l'élément de paramètres en bas.",
+            "2": "Sur la page des paramètres, désélectionnez la fonction « Verrouillage parental »."
+        },
+        "title": "Désactiver le verrouillage parental"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Lorsque l'application est verrouillée, plusieurs fonctionnalités de l'application ne seront pas affichées telles que les menus contextuels ou les boutons permettant d'ajouter/supprimer des livres.",
+            "2": "Cela place l'application dans un mode lecture seule qui peut être utilisé en toute sécurité par les enfants.",
+            "3": "Afin d'accéder à ces fonctionnalités cachées, vous devrez déverrouiller l'application."
+        },
+        "title": "Fonctionnalités verrouillées"
+    },
+    "locked": {
+        "messages": {
+            "1": "Pour déverrouiller l'application, ouvrez le menu hamburger et appuyez sur l'icône de verrouillage fermé en haut à droite.",
+            "2": "Cela vous demandera de fournir votre confirmation biométrique qui débloquera l'application."
+        },
+        "title": "Déverrouiller l'application"
+    }
+}

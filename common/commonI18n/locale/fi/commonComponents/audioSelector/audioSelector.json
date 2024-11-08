@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "äänitä oma %{audioDisplayName} ääni"},
+    "toasts": {
+        "audioFileLoading": {"failure": "äänen lataaminen epäonnistui"},
+        "editInitFailed": "äänen muokkaaminen epäonnistui",
+        "recordingFailed": "äänen tallentaminen epäonnistui"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Tyhjennä vahvistus",
+            "message": "Haluatko varmasti tyhjentää valitun äänen?"
+        },
+        "ariaLabel": "tyhjennä valittu %{audioDisplayName} ääni"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "valitse esiasetettu %{audioDisplayName} ääni"},
+    "selectAudioFileButton": {"ariaLabel": "valitse oma äänitiedostosi %{audioDisplayName}"},
+    "playButton": {
+        "stopped": {"ariaLabel": "toistaa äänen %{audioDisplayName}"},
+        "recording": {"ariaLabel": "lopeta %{audioDisplayName} -nauhoitus"},
+        "playing": {"ariaLabel": "lopeta äänen %{audioDisplayName} toisto"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "muokkaa ladattua %{audioDisplayName} ääntä",
+        "cancelConfirmation": {
+            "title": "Hylkää muokkaus",
+            "message": "Haluatko varmasti hylätä tekemäsi muutokset?",
+            "buttonAriaLabels": {
+                "no": "ei, pysy ja jatka muokkaamista",
+                "yes": "kyllä, hylkää muokkaukset"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Ladattu tiedosto: %{filename}",
+        "recording": "Tallennus",
+        "preset": "Esiasetus: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Lupa evätty",
+        "message": "Olet evännyt mikrofonin käyttöoikeuden."
+    }}
+}

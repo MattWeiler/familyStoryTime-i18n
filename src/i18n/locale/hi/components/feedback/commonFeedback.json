@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "नाम",
+        "placeholder": "जॉन डो",
+        "ariaLabel": "वैकल्पिक रूप से, आपका नाम"
+    },
+    "emailInput": {
+        "description": "यदि आप हमसे जवाब सुनना चाहते हैं तो प्रदान करें।",
+        "label": "मेल पता",
+        "placeholder": "none@gmail.com",
+        "ariaLabel": "वैकल्पिक रूप से, आपका ईमेल पता"
+    }
+}

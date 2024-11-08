@@ -1,0 +1,24 @@
+{
+    "summary": "Voit toistaa kirjoja, jotka olet asentanut laitteellesi.",
+    "splashScreen": {
+        "messages": {
+            "1": "Aloitusnäytöstä voit valita kirjan toistotavan ja valita, kenen lukijan tulee lukea kirja, jos mahdollista.",
+            "2": "Jos kirjaan on lisätty lukijoita, voit valita \"Automaattinen toisto\", \"Lue minulle\" ja \"Lue se itse\" -tilojen välillä.",
+            "3": "\"Automaattinen toisto\" -tilassa valittu lukija lukee kirjan ja sivut vaihtuvat automaattisesti.",
+            "4": "\"Read To Me\" -tilassa valittu lukija lukee kirjan, mutta sivut on vaihdettava manuaalisesti. ",
+            "5": "\"Lue se itse\" -tilassa voit lukea kirjan itse.",
+            "6": "Jos kirja sisältää lähdetietoja, siellä on kuvake, jota napsautettuna näyttää kyseiset lähdetiedot. "
+        },
+        "title": "Aloitusnäyttö"
+    },
+    "player": {
+        "messages": {
+            "1": "Kun toistat kirjaa, näyttöön tulee navigointipainikkeet, joiden avulla voit keskeyttää/toistaa lukijan äänen sekä navigoida sivujen välillä.",
+            "2": "Navigointipainikkeet voidaan piilottaa/näyttää yhdellä painalluksella kuvaa.",
+            "3": "Joitakin eleitä voidaan käyttää myös navigointiin.",
+            "4": "Pyyhkäisemällä vasemmalle/oikealle voit siirtyä sivujen välillä.",
+            "5": "Kaksoisnapauttaminen tai nipistäminen lähentää/loitontaa. "
+        },
+        "title": "Kirja-soitin"
+    }
+}

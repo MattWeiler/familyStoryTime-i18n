@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "오디오 재생",
+            "ariaLabel": "오디오 재생"
+        },
+        "playing": {
+            "title": "오디오 일시중지",
+            "ariaLabel": "오디오 일시중지"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "전체 이미지를 보려면 축소하세요. 측면에 검은색 막대가 있을 수 있습니다.",
+        "zoomedOut": "전체 화면이 이미지로 채워지도록 확대하세요. 일부 이미지는 보이지 않을 수 있습니다."
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "이전 페이지로 이동",
+            "ariaLabel": "이전 페이지로 이동"
+        },
+        "noPreviousPage": {
+            "title": "도서 선택으로 돌아가기",
+            "ariaLabel": "도서 선택으로 돌아가기"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "다음 페이지로 이동",
+            "ariaLabel": "다음 페이지로 이동"
+        },
+        "noNextPage": {
+            "title": "도서 선택으로 돌아가기",
+            "ariaLabel": "도서 선택으로 돌아가기"
+        }
+    }
+}

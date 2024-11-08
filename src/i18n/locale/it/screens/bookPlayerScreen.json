@@ -1,0 +1,4 @@
+{
+    "aiReader": {"displayName": "Lettore di intelligenza artificiale"},
+    "errors": {"bookLoadFailure": "Impossibile caricare il libro."}
+}

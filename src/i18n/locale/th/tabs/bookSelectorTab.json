@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "การโหลดหนังสือล้มเหลว"},
+        "import": {"failure": "การนำเข้าล้มเหลว"},
+        "delete": {
+            "failure": "ลบไม่สำเร็จ",
+            "success": "หนังสือที่ถูกลบ \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "ไม่สามารถลบหนังสือ %{count} เล่ม",
+                "one": "ไม่สามารถลบหนังสือ 1 เล่ม"
+            },
+            "success": {
+                "other": "ลบหนังสือแล้ว %{count} เล่ม",
+                "one": "ลบไปแล้ว 1 เล่ม"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "จัดเรียงตามจำนวนหน้าตามลำดับจากมากไปน้อย",
+                "descending": "จัดเรียงตามจำนวนหน้าตามลำดับจากน้อยไปมาก"
+            }},
+            "searchField": {
+                "placeholder": "ค้นหาหนังสือของคุณ",
+                "ariaLabel": "ค้นหาหนังสือของคุณ"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "ส่งออก",
+                        "ariaLabel": "ส่งออกหนังสือที่เลือก"
+                    },
+                    "delete": {
+                        "label": "ลบ",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "ไม่ อย่าลบหนังสือที่เลือก"},
+                                "yes": {"ariaLabel": "ใช่ ลบหนังสือที่เลือก"}
+                            },
+                            "title": "ยืนยันการลบ",
+                            "message": {
+                                "other": "คุณแน่ใจหรือไม่ว่าต้องการลบหนังสือที่เลือก %{count} เล่ม",
+                                "one": "คุณแน่ใจหรือไม่ว่าต้องการลบหนังสือที่เลือก"
+                            }
+                        },
+                        "ariaLabel": "ลบหนังสือที่เลือก"
+                    }
+                },
+                "ariaLabel": "เปิดเมนูบริบทสำหรับหนังสือที่เลือก"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "เรียงตามชื่อหนังสือจากมากไปน้อย",
+                "descending": "เรียงตามชื่อหนังสือจากน้อยไปหามาก"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "จัดเรียงตามจำนวนผู้อ่านจากมากไปน้อย",
+                "descending": "จัดเรียงตามจำนวนผู้อ่านจากน้อยไปหามาก"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "ซูมออกเพื่อดูรายการเพิ่มเติมในคราวเดียว",
+                "zoomedOut": "ซูมเข้าเพื่อดูภาพขนาดใหญ่"
+            }}
+        },
+        "loadError": {
+            "text": "โหลดหนังสือไม่สำเร็จ",
+            "ariaLabel": "ไม่สามารถโหลดหนังสือได้"
+        },
+        "noBooksFound": {
+            "message": "ไม่พบหนังสือ :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "ลองของเรา",
+                    "linkName": "ผู้สร้างหนังสือ"
+                },
+                "availableBooks": {
+                    "message": "ชำระเงินของเรา",
+                    "linkName": "ร้านหนังสือ"
+                }
+            }
+        }
+    },
+    "subtitle": "มาสนุกกับการอ่านเรื่องราวต่างๆ กัน",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "สร้างหนังสือ",
+                "ariaLabel": "สร้างหนังสือเล่มใหม่"
+            },
+            "importBooks": {
+                "label": "หนังสือนำเข้า",
+                "ariaLabel": "นำเข้าหนังสือหนึ่งเล่มขึ้นไป"
+            },
+            "bookStore": {
+                "label": "เยี่ยมชมร้านหนังสือ",
+                "ariaLabel": "เยี่ยมชมร้านหนังสือของเรา"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "ปิดเพิ่มเมนูหนังสือ",
+            "collapsed": "เปิดเพิ่มเมนูหนังสือ"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "กำลังลบ ...\n",
+            "one": "กำลังลบ ...\n",
+            "none": "กำลังลบ ..."
+        }},
+        "export": {"label": {
+            "other": "ส่งออก ...\n",
+            "one": "ส่งออก ...\n",
+            "none": "ส่งออก ..."
+        }}
+    }},
+    "title": "มุมอ่านหนังสือ",
+    "confirmations": {"deleteBook": {
+        "title": "การยืนยันการลบ",
+        "message": "คุณแน่ใจหรือไม่ว่าต้องการลบหนังสือ \"%{bookTitle}\""
+    }}
+}

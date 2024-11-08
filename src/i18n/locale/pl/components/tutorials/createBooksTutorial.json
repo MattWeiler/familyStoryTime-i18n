@@ -1,0 +1,96 @@
+{
+    "summary": "Możesz zdigitalizować ulubione książki swojej rodziny i uwzględnić tylu czytelników, ilu zechce to nagrać.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "Otwieranie \u201eKreatora książek\u201d",
+            "ariaLabel": {
+                "expanded": "zwiń sekcję otwierającą narzędzie do tworzenia książek",
+                "collapsed": "otwórz sekcję otwierającą książkę do tworzenia książek"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Z dowolnej strony możesz uzyskać dostęp do \u201eKreatora książek\u201d poprzez menu hamburgerów w lewym górnym rogu ekranu.",
+                    "2": "Stamtąd naciśnij opcję \u201eKreator książek\u201d."
+                },
+                "title": "Menu Hamburgera"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "Ze strony \u201eKącik czytelniczy\u201d możesz uzyskać dostęp do \u201eKreatora książek\u201d, naciskając przycisk (+) w prawym dolnym rogu ekranu.",
+                    "2": "Stamtąd naciśnij opcję \u201eutwórz książkę\u201d."
+                },
+                "title": "Przycisk akcji"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "Korzystanie z \u201eKreatora książek\u201d",
+            "ariaLabel": {
+                "expanded": "zwiń sekcję dotyczącą korzystania z narzędzia do tworzenia książek",
+                "collapsed": "otwórz sekcję korzystania z narzędzia do tworzenia książek"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "Książka musi zawierać co najmniej 1 stronę, ale nie ma górnego limitu.",
+                    "2": "Podczas przechwytywania lub przesyłania obrazu do wykorzystania na stronie sztuczna inteligencja zostanie wykorzystana do wyodrębnienia tekstu z obrazu. "
+                },
+                "title": "Strony książek"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "W \u201eKreatorze książek\u201d będziesz mógł określić kilka atrybutów związanych z książką.",
+                    "2": "Można tutaj podać tytuł książki, kilka obrazów, informacje o źródle, opóźnieniach, czytelnikach i stronach."
+                },
+                "title": "Konstruktor książek"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Po wypełnieniu wszystkich pól książki należy ją zapisać na urządzeniu.",
+                    "2": "Po zapisaniu dane książki zostaną sprawdzone pod kątem poprawności; "
+                },
+                "title": "Zapisywanie książki"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Obrazy można wykonać za pomocą aparatu urządzenia lub załadować z galerii.",
+                    "2": "Po wybraniu obrazu można go edytować, aby wyglądał jak najlepiej.",
+                    "3": "Naciśnięcie istniejącego obrazu spowoduje wyświetlenie przycisków obrazu."
+                },
+                "title": "Obrazy książkowe"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Można zdefiniować opóźnienia, które będą miały wpływ na odtwarzanie książki.",
+                    "2": "Opóźnienia te mogą zapewnić, że odtwarzanie dźwięku nie będzie brzmiało zbyt gwałtownie."
+                },
+                "title": "Opóźnienia w książkach"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Gdy książka jest odtwarzana automatycznie, można odtworzyć określony dźwięk, gdy strona się zakończy i będzie można rozpocząć następną.",
+                    "2": "Można wybrać zestaw predefiniowanych dźwięków lub przesłać lub nagrać dźwięk niestandardowy."
+                },
+                "title": "Zmiana strony Dźwięk"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "Książka może zawierać dowolną liczbę czytelników.",
+                    "2": "Każdy czytelnik nagra siebie, czytając każdą stronę książki, dzięki czemu będzie mógł przeczytać książkę podczas jej odtwarzania."
+                },
+                "title": "Czytelnicy książek"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "Można podać źródło informacji o książce.",
+                    "2": "Chociaż te informacje o źródle są opcjonalne, mogą pomóc w śledzeniu Twoich ulubionych historii."
+                },
+                "title": "Informacje o źródle książki"
+            }
+        }
+    }
+}

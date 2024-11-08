@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "不，不要卸载可用的图书",
+            "yesButtonAriaLabel": "是的，卸载可用的书",
+            "title": "卸载确认",
+            "message": "您确定要卸载这本可用的图书吗？\n"
+        },
+        "ariaLabel": "卸载可用的图书 %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "自由的"},
+        "newerVersionAvailableMessage": "可用更新"
+    },
+    "subtitle": "让我们找一些好故事来读。",
+    "loadingFailedMessage": "无法加载可用书籍。\n",
+    "title": "书店",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "不，不要安装可用的书籍",
+            "yesButtonAriaLabel": "是的，安装可用的书",
+            "title": "安装确认",
+            "message": "您确定要安装这本可用的书吗？\n这样做将使用 %{fileSize} 的数据。"
+        },
+        "ariaLabel": "安装可用的图书 %{bookName}"
+    }
+}

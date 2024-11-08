@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Wybierać",
+                "ariaLabel": "wybierz książkę %{bookTitle}"
+            },
+            "edit": {
+                "title": "Redagować",
+                "ariaLabel": "edytować książkę %{bookTitle}"
+            },
+            "delete": {
+                "title": "Usuwać",
+                "ariaLabel": "usuń książkę %{bookTitle}"
+            },
+            "export": {
+                "title": "Eksport",
+                "ariaLabel": "wyeksportuj książkę %{bookTitle}"
+            }
+        },
+        "ariaLabel": "otwórz menu kontekstowe książki %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} stron",
+            "one": "%{count} strona"
+        },
+        "ariaLabel": {
+            "other": "%{count} stron",
+            "one": "%{count} strona"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "wybierz książkę %{bookTitle}",
+        "selected": "odznacz książkę %{bookTitle}"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} czytelników",
+            "one": "%{count} czytelnika"
+        },
+        "ariaLabel": {
+            "other": "książka %{bookTitle} ma %{count} czytelników",
+            "one": "książka %{bookTitle} ma %{count} czytelnika"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "przeczytaj historię: %{bookTitle}",
+        "selectionMode": "Książka %{bookTitle}"
+    }
+}

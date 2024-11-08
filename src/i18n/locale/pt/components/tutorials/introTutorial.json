@@ -1,0 +1,9 @@
+{
+    "mission": "Queremos ajudar a preservar suas histórias favoritas, lidas por seus entes queridos.",
+    "subtitle": "Um aplicativo divertido para ajudar as crianças a ler.",
+    "paragraphs": {"1": "As crianças podem ouvir suas histórias favoritas lidas por entes queridos, mesmo que esses entes queridos estejam longe ou já tenham falecido."},
+    "accessTutorial": {
+        "messages": {"1": "Você pode acessar este tutorial a qualquer momento através do menu hambúrguer no canto superior esquerdo do aplicativo."},
+        "title": "Tutorial de acesso"
+    }
+}

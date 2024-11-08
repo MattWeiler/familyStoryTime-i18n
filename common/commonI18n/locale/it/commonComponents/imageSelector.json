@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "cercare un file immagine",
+        "ariaLabel": "cercare un file immagine per l'immagine %{imageDisplayName}"
+    },
+    "takePhotoButton": {
+        "title": "scattare una foto",
+        "ariaLabel": "scatta una foto per l'immagine %{imageDisplayName}"
+    },
+    "browseImageGalleryButton": {
+        "title": "sfoglia la galleria di immagini",
+        "ariaLabel": "sfoglia la galleria immagini per l'immagine %{imageDisplayName}"
+    },
+    "fullscreenButton": {"ariaLabel": "mostra l'immagine %{imageDisplayName} a schermo intero"},
+    "imageEditor": {
+        "cropButton": {"text": "Raccolto"},
+        "cancelButton": {"text": "Cancellare"},
+        "backButton": {"text": "Indietro"},
+        "saveButton": {"text": "Salva"}
+    },
+    "editSelectedImageButton": {
+        "title": "modificare l'immagine",
+        "ariaLabel": "modifica l'immagine %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "mostra i controlli immagine %{imageDisplayName}",
+        "controlsVisible": "nascondi i controlli immagine %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Autorizzazione negata",
+            "message": "Hai negato il permesso di accedere alla tua fotocamera."
+        },
+        "browseImages": {
+            "title": "Autorizzazione negata",
+            "message": "Hai negato il permesso di accedere alle tue foto."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "chiudi a schermo intero"}
+}

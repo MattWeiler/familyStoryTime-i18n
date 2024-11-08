@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "阅读第一页之前播放的可选音频。",
+        "label": {
+            "withDisplayName": "%{readerDisplayName} 的介绍音频",
+            "noDisplayName": "介绍音频"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} 读者简介",
+            "noDisplayName": "ID 为 %{readerId} 的读者简介"
+        }
+    },
+    "readerImage": {
+        "description": "要向该读者显示的图像。",
+        "accessibleImageDisplayName": "阅读器 %{readerDisplayName} 的图像"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "这将删除为此阅读器录制的所有页面音频。",
+            "additionalMessage2": "这无法撤销！",
+            "title": "删除确认",
+            "message": {
+                "withDisplayName": "您确定要删除\u201c%{readerDisplayName}\u201d阅读器吗？",
+                "noDisplayName": "您确定要删除该阅读器吗？"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "删除阅读器 %{readerDisplayName}",
+            "noDisplayName": "删除 ID 为 %{readerId} 的阅读器"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "读者的显示名称",
+                "noDisplayName": "读者的显示名称"
+            },
+            "title": {
+                "withDisplayName": "更新显示名称",
+                "noDisplayName": "设置显示名称"
+            },
+            "message": {
+                "withDisplayName": "您想将此读者的显示名称更改为什么？",
+                "noDisplayName": "该阅读器的显示名称是什么？"
+            },
+            "inputPlaceholder": "读者姓名"
+        },
+        "ariaLabel": {
+            "withDisplayName": "更改阅读器 %{readerDisplayName} 的显示名称",
+            "noDisplayName": "更改 ID 为 %{readerId} 的阅读器的显示名称"
+        }
+    }
+}

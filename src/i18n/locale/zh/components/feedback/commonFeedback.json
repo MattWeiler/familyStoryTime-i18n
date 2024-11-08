@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "姓名",
+        "placeholder": "约翰·多伊",
+        "ariaLabel": "可选地，你的名字"
+    },
+    "emailInput": {
+        "description": "如果您想收到我们的回复，请提供。",
+        "label": "电子邮件",
+        "placeholder": "某人@gmail.com",
+        "ariaLabel": "（可选）您的电子邮件地址"
+    }
+}

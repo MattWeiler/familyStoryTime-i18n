@@ -1,0 +1,24 @@
+{
+    "summary": "Puede reproducir libros que haya instalado en su dispositivo.",
+    "splashScreen": {
+        "messages": {
+            "1": "Desde la pantalla de inicio puede elegir cómo desea que se reproduzca el libro y seleccionar qué lector debe leerlo, si corresponde.",
+            "2": "Si el libro tiene lectores agregados, podrá seleccionar entre los modos \"Reproducción automática\", \"Léame\" y \"Léelo yo mismo\".",
+            "3": "El modo \"Reproducción automática\" hará que el lector seleccionado lea el libro y las páginas cambiarán automáticamente.",
+            "4": "El modo \"Léame\" hará que el lector seleccionado lea el libro, pero las páginas deberán cambiarse manualmente. ",
+            "5": "El modo \"Léelo yo mismo\" te permitirá leer el libro tú mismo.",
+            "6": "Si el libro contiene información fuente, habrá un icono que, al hacer clic, mostrará esa información fuente. "
+        },
+        "title": "Pantalla de bienvenida"
+    },
+    "player": {
+        "messages": {
+            "1": "Al reproducir un libro, se mostrarán botones de navegación que le permitirán pausar/reproducir el audio del lector, así como navegar entre páginas.",
+            "2": "Los botones de navegación se pueden ocultar/mostrar presionando una vez la imagen.",
+            "3": "También se pueden utilizar algunos gestos para navegar.",
+            "4": "Al deslizar el dedo hacia la izquierda o hacia la derecha se navegará entre páginas.",
+            "5": "Al tocar dos veces o pellizcar, se acercará o alejará la imagen. "
+        },
+        "title": "Reproductor de libros"
+    }
+}

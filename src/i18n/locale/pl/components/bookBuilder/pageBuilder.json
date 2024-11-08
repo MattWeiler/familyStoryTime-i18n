@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "strona %{pageNum} obraz"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Zeskanuj ponownie tekst strony",
+                "message": "Czy na pewno chcesz przeskanować obraz w poszukiwaniu tekstu i zastąpić istniejący tekst strony?"
+            },
+            "ariaLabel": "wyodrębnij tekst z obrazu dla strony %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "tekst do dodania do strony %{pageNum}",
+                    "withPageText": "tekst do aktualizacji na stronie %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Ustaw tekst strony",
+                    "withPageText": "Zaktualizuj tekst strony"
+                },
+                "message": {
+                    "noPageText": "Jaki jest tekst strony?",
+                    "withPageText": "Na co chcesz zmienić tekst strony?"
+                },
+                "inputPlaceholder": "tekst do dodania"
+            },
+            "ariaLabel": "edytuj tekst \u201e%{pageText}\u201d ze strony %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "przenieś tekst \u201e%{pageText}\u201d ze strony %{pageNum} w górę"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Potwierdzenie usunięcia",
+                "message": "Czy na pewno chcesz usunąć tekst tej strony?"
+            },
+            "ariaLabel": "usuń tekst \u201e%{pageText}\u201d ze strony %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "tekst do dodania do strony %{pageNum}",
+                "title": "Ustaw tekst strony",
+                "message": "Jaki jest tekst strony?",
+                "inputPlaceholder": "tekst do dodania"
+            },
+            "ariaLabel": "dodaj nowy tekst do strony %{pageNum}"
+        },
+        "label": "Tekst",
+        "showHideButton": {"ariaLabel": {
+            "visible": "ukryj tekst \u201e%{pageText}\u201d na stronie %{pageNum}",
+            "hidden": "pokaż tekst \u201e%{pageText}\u201d ze strony %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "przenieś tekst \u201e%{pageText}\u201d ze strony %{pageNum} w dół"}
+    },
+    "moveUpButton": {"ariaLabel": "przesuń stronę %{pageNum} w górę"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "Dźwięk odtwarzany, gdy \u201e%{readerDisplayName}\u201d czyta stronę %{pageNum}.",
+                "noDisplayName": "Dźwięk odtwarzany, gdy ten czytnik czyta stronę %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "strona %{pageNum} %{readerDisplayName} czytelnik"
+        },
+        "label": "Czytelnicy"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Spowoduje to usunięcie całego dźwięku strony nagranego dla tej strony.",
+            "additionalMessage2": "TEGO NIE MOŻNA COFNĄĆ!",
+            "title": "Potwierdzenie usunięcia",
+            "message": "Czy na pewno chcesz usunąć stronę %{pageNum}?"
+        },
+        "ariaLabel": "usuń stronę %{pageNum}"
+    },
+    "description": "Obraz do wyświetlenia na stronie %{pageNum}.",
+    "label": "Strona %{pageNum}",
+    "moveDownButton": {"ariaLabel": "przesuń stronę %{pageNum} w dół"}
+}

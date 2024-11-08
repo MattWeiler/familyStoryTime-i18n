@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "播放修剪后的音频以收听样本"},
+    "playbackPositionLabel": "播放位置",
+    "discardButton": {
+        "label": "丢弃",
+        "title": "丢弃修剪后的音频",
+        "ariaLabel": "丢弃修剪后的音频"
+    },
+    "saveButton": {
+        "label": "节省",
+        "title": "使用修剪后的音频",
+        "ariaLabel": "使用修剪后的音频"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "给我们反馈"},
+        "intro": {"displayName": "介绍"},
+        "createBooks": {"displayName": "创作书籍"},
+        "parentalLocking": {"displayName": "家长锁定"},
+        "sharingBooks": {"displayName": "分享书籍"},
+        "bookPlayback": {"displayName": "玩书"},
+        "bookStore": {"displayName": "书店"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "查看 %{pageName} 页面"},
+        "backPageButton": {"ariaLabel": "返回 1 页"},
+        "forwardPageButton": {"ariaLabel": "前进 1 页"}
+    },
+    "startLink": {
+        "label": "开始使用",
+        "ariaLabel": "转到主页"
+    }
+}

@@ -1,0 +1,4 @@
+{
+    "aiReader": {"displayName": "AI-læser"},
+    "errors": {"bookLoadFailure": "Bogen kunne ikke indlæses."}
+}

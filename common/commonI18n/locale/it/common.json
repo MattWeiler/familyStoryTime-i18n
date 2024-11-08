@@ -1,0 +1,25 @@
+{
+    "add": "Aggiungere",
+    "cancel": "Cancellare",
+    "no": "NO",
+    "verifying": "verificando...",
+    "set": "Impostato",
+    "yes": "SÌ",
+    "back": "Indietro",
+    "loading": "caricamento ...",
+    "required": "necessario",
+    "acknowledgeError": "riconoscere l'errore",
+    "saving": "risparmiando...",
+    "settingsButton": {
+        "text": "Impostazioni",
+        "ariaLabel": "vai alla pagina delle impostazioni delle applicazioni"
+    },
+    "backButton": {
+        "label": "Indietro",
+        "title": "tornare all'ultima pagina",
+        "ariaLabel": "tornare all'ultima pagina"
+    },
+    "sending": "invio...",
+    "create": "Creare",
+    "ok": "OK"
+}

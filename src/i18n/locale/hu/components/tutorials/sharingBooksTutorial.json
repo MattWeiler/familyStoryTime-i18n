@@ -1,0 +1,25 @@
+{
+    "summary": "Miután elkészített egy könyvet, megoszthatja azt családjával és barátaival.",
+    "exporting": {
+        "messages": {
+            "1": "Exportálhat egyetlen könyvet a helyi menüjéből, vagy több könyvet egyszerre, ha hosszan lenyomva tartja több könyvet.",
+            "2": "Miután kiválasztotta az exportálandó könyv(eke)t, kiválaszthatja, hogy pontosan mit is szeretne exportálni.",
+            "3": "Alapértelmezés szerint a rendszer a teljes könyvet exportálja, de kiválaszthatja, hogy mely olvasók szerepeljenek a könyv tartalmában, vagy kiválaszthatja, hogy csak bizonyos olvasókat exportáljon.",
+            "4": "Ha csak el szeretné küldeni a rögzített olvasói információkat valakinek, aki már rendelkezik a könyvvel, létrehozhat egy sokkal kisebb fájlt, amelyet megoszthat, csak az adott olvasó(ka)t."
+        },
+        "title": "Exportálás"
+    },
+    "importingMerging": {"messages": {
+        "1": "A készülékére már telepített könyv importálásakor kiválaszthatja, hogy az importáló könyv felülírja-e a már telepített könyvet, vagy egyesítést kell végrehajtani.",
+        "2": "Egyesítéskor csak a kiválasztott olvasók kerülnek be a már telepített könyvbe.",
+        "3": "Ha az összevont olvasók már telepítve vannak az eszközön, akkor lecserélik őket."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Az \u201eOlvasósarok\u201d oldalon kiválaszthatja, hogy mely könyveket szeretné importálni. Ehhez válassza a \u201eKönyvek importálása\u201d lehetőséget, amikor megnyomja a (+) gombot a képernyő jobb alsó sarkában.",
+            "2": "Alternatív megoldásként könyvfájlt küldhet a \u201eCsaládi történet idő\u201d alkalmazásba.",
+            "3": "Ha olyan könyvet importál, amely még nincs telepítve az eszközére, a könyv telepítve lesz."
+        },
+        "title": "Importálás"
+    }
+}

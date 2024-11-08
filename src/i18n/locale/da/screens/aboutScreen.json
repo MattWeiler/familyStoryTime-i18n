@@ -1,0 +1,33 @@
+{
+    "intro": "Jeg oprettede denne applikation for at hjælpe børn i deres læserejse, men også for at kunne få læst historier for dem af kære, der ikke kan være der.",
+    "title": "Familiehistorie",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Få dine historier læst for dig af din yndlingsfortæller, selvom de ikke kan være der.",
+            "title": "Kendte stemmer"
+        },
+        "paragraph_3": {
+            "content_1": "Bøgerne kan automatisk læses, mens du læser med.",
+            "title": "Øv læsning"
+        },
+        "paragraph_2": {
+            "content_1": "Digitaliser dine yndlingsbøger, så de holder i mange år fremover.",
+            "title": "Behold dine favoritter"
+        },
+        "paragraph_1": {
+            "content_2": "Opbevar alle dine yndlingsbøger ét sted for nem adgang derhjemme eller på farten.",
+            "content_1": "Nyd at læse som familie.",
+            "title": "Nyd at læse"
+        },
+        "paragraph_6": {
+            "content_2": "Når den er aktiveret, skal enhedsejeren låse applikationen op ved hjælp af deres biometriske data (afhængigt af enheden) for at få adgang til de følsomme aspekter af applikationen.",
+            "content_1": "Applikationen har en forældrelåsfunktion.",
+            "title": "Forældrelås"
+        },
+        "paragraph_5": {
+            "content_2": "Historier kan eksporteres enten enkeltvis eller alle på én gang.",
+            "content_1": "Lav dine egne historier og del dem med venner og familie.",
+            "title": "Dele"
+        }
+    }
+}

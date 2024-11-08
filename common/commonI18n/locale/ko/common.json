@@ -1,0 +1,25 @@
+{
+    "add": "추가하다",
+    "cancel": "취소",
+    "no": "아니요",
+    "verifying": "확인 중 ...",
+    "set": "세트",
+    "yes": "예",
+    "back": "뒤쪽에",
+    "loading": "로드 중 ...",
+    "required": "필수의",
+    "acknowledgeError": "오류를 인정하다",
+    "saving": "저장 중 ...",
+    "settingsButton": {
+        "text": "설정",
+        "ariaLabel": "애플리케이션 설정 페이지로 이동"
+    },
+    "backButton": {
+        "label": "뒤쪽에",
+        "title": "마지막 페이지로 돌아가기",
+        "ariaLabel": "마지막 페이지로 돌아가기"
+    },
+    "sending": "보내는 중 ...",
+    "create": "만들다",
+    "ok": "좋아요"
+}

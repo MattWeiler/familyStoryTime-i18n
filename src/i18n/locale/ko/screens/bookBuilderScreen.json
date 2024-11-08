@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "저장된 책 \"%{bookTitle}\"",
+        "validationFailed": "유효성 검사 실패",
+        "bookSaveFailed": "책 저장 실패"
+    },
+    "bookTitleInput": {
+        "description": "책의 제목입니다.",
+        "label": "책 제목",
+        "placeholder": "책 제목",
+        "ariaLabel": "책 제목"
+    },
+    "readers": {
+        "label": "독자",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "이 새 리더의 표시 이름",
+                "buttons": {
+                    "cancel": {"ariaLabel": "새 리더 추가 취소"},
+                    "add": {"ariaLabel": "새 리더 추가"}
+                },
+                "description": "이 새 리더의 표시 이름을 입력하세요.",
+                "title": "새 리더 추가",
+                "inputPlaceholder": "독자 이름"
+            },
+            "ariaLabel": "새 리더 추가"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "페이지 변경 오디오를 재생하기 전에 대기할 시간(밀리초)입니다.",
+            "label": "페이지 변경 전 오디오",
+            "placeholder": "페이지 변경 오디오를 재생하기 전 밀리초",
+            "ariaLabel": "페이지 변경 오디오를 재생하기 전에 기다리는 시간(밀리초)"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "페이지 변경 오디오 재생 후 대기할 시간(밀리초)입니다.",
+            "label": "페이지 변경 후 오디오",
+            "placeholder": "페이지 변경 오디오 재생 후 밀리초",
+            "ariaLabel": "페이지 변경 오디오 재생 후 대기 시간(밀리초)"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "페이지 오디오를 재생하기 전에 기다려야 하는 시간(밀리초)입니다.",
+            "label": "페이지 오디오 전",
+            "placeholder": "페이지 오디오 재생 전 밀리초",
+            "ariaLabel": "페이지 오디오를 재생하기 전에 기다리는 시간(밀리초)"
+        },
+        "label": "지연"
+    },
+    "bookIconImageSelector": {
+        "description": "책의 아이콘으로 사용될 이미지입니다.",
+        "label": "책 아이콘",
+        "accessibleImageDisplayName": "책 아이콘"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "책을 처음 펼칠 때 표시되는 이미지입니다.",
+        "label": "도서 스플래시 이미지",
+        "accessibleImageDisplayName": "책이 튀다"
+    },
+    "confirmations": {"goBack": {
+        "title": "변경 사항 남기기",
+        "message": "저장하기 전에 종료하시겠습니까?"
+    }},
+    "pageChangeAudio": {
+        "description": "페이지를 변경할 때 재생할 오디오입니다.",
+        "label": "페이지 변경 오디오",
+        "presetAudioModalPicker": {
+            "headerLabel": "페이지 변경 오디오 선택",
+            "ariaLabel": "사전 설정 페이지 변경 오디오 옵션 목록에서 선택",
+            "accessibleAudioDisplayName": "페이지 변경"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "책을 로드하지 못했습니다.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "지연은 음수일 수 없습니다.",
+            "bookTitleMissing": "책 제목은 필수입니다",
+            "readerDisplayNameMissing": "독자 표시 이름이 필요합니다",
+            "bookIconNotValid": "책 아이콘이 필요합니다",
+            "pageTextMissing": "페이지 텍스트가 필요합니다",
+            "delayBeforePlayingPageAudioNegative": "지연은 음수일 수 없습니다.",
+            "pagesMissing": "최소 1페이지가 필요합니다.",
+            "pageImageNotValid": "페이지 이미지가 필요합니다",
+            "delayBeforePlayingPageChangeAudioNegative": "지연은 음수일 수 없습니다.",
+            "bookSplashImageNotValid": "북 스플래시 이미지가 필요합니다",
+            "readerIntroAudioNotValid": "리더 소개 오디오는 유효한 파일이 아닙니다.",
+            "pageAudioNotValid": "페이지 오디오가 필요합니다",
+            "pageChangeAudioNotValid": "페이지 변경 오디오가 필요합니다",
+            "delayAfterPlayingPageChangeAudioNotInteger": "지연은 정수여야 합니다.",
+            "delayBeforePlayingPageAudioNotInteger": "지연은 정수여야 합니다.",
+            "delayBeforePlayingPageChangeAudioNotInteger": "지연은 정수여야 합니다.",
+            "delayBeforePlayingPageAudioRequired": "지연이 필요합니다",
+            "readerImageNotValid": "리더 이미지가 필요합니다",
+            "delayBeforePlayingPageChangeAudioRequired": "지연이 필요합니다",
+            "delayAfterPlayingPageChangeAudioRequired": "지연이 필요합니다"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "책의 출처 URL입니다.",
+            "label": "소스 URL",
+            "placeholder": "소스 URL",
+            "ariaLabel": "책의 출처 URL"
+        },
+        "authorInput": {
+            "description": "책의 저자 이름입니다.",
+            "label": "작성자 이름",
+            "placeholder": "책의 저자",
+            "ariaLabel": "책의 저자 이름"
+        },
+        "illustratorInput": {
+            "description": "책의 일러스트레이터 이름입니다.",
+            "label": "일러스트레이터 이름",
+            "placeholder": "책의 일러스트레이터",
+            "ariaLabel": "책의 일러스트레이터 이름"
+        },
+        "publisherInput": {
+            "description": "책의 출판사 이름입니다.",
+            "label": "출판사 이름",
+            "placeholder": "책 출판사",
+            "ariaLabel": "책 출판사 이름"
+        },
+        "label": "원천",
+        "isbnInput": {
+            "description": "해당 도서의 국제표준 도서번호입니다.",
+            "label": "ISBN",
+            "placeholder": "책의 ISBN",
+            "ariaLabel": "도서의 국제 표준 도서 번호"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "새 페이지 추가"},
+        "label": "페이지"
+    }
+}

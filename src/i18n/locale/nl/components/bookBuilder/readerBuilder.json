@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "De optionele audio om af te spelen voordat u de eerste pagina leest.",
+        "label": {
+            "withDisplayName": "%{readerDisplayName}'s introductieaudio",
+            "noDisplayName": "Intro-audio"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} lezerintroductie",
+            "noDisplayName": "reader met ID %{readerId} intro"
+        }
+    },
+    "readerImage": {
+        "description": "De afbeelding die voor deze lezer moet worden weergegeven.",
+        "accessibleImageDisplayName": "afbeelding van lezer %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Hiermee wordt alle pagina-audio verwijderd die voor deze lezer is opgenomen.",
+            "additionalMessage2": "DIT KAN NIET ONGEDAAN WORDEN!",
+            "title": "Bevestiging van verwijdering",
+            "message": {
+                "withDisplayName": "Weet u zeker dat u de lezer \"%{readerDisplayName}\" wilt verwijderen?",
+                "noDisplayName": "Weet u zeker dat u deze reader wilt verwijderen?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "verwijder de lezer %{readerDisplayName}",
+            "noDisplayName": "verwijder de lezer met ID %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "weergavenaam voor de lezer",
+                "noDisplayName": "weergavenaam voor de lezer"
+            },
+            "title": {
+                "withDisplayName": "Weergavenaam bijwerken",
+                "noDisplayName": "Weergavenaam instellen"
+            },
+            "message": {
+                "withDisplayName": "Waarin wilt u de weergavenaam van deze lezer wijzigen?",
+                "noDisplayName": "Wat is de weergavenaam voor deze lezer?"
+            },
+            "inputPlaceholder": "naam van lezer"
+        },
+        "ariaLabel": {
+            "withDisplayName": "wijzig de weergavenaam voor lezer %{readerDisplayName}",
+            "noDisplayName": "wijzig de weergavenaam voor de lezer met ID %{readerId}"
+        }
+    }
+}

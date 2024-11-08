@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "hang lejátszása",
+            "ariaLabel": "hang lejátszása"
+        },
+        "playing": {
+            "title": "szüneteltesse a hangot",
+            "ariaLabel": "szüneteltesse a hangot"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "kicsinyítsen a teljes kép megjelenítéséhez, oldalt fekete sávok jelenhetnek meg",
+        "zoomedOut": "nagyítson, hogy az egész képernyőt megtöltse a kép, előfordulhat, hogy a kép egy része nem látható"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "lépjen az előző oldalra",
+            "ariaLabel": "lépjen az előző oldalra"
+        },
+        "noPreviousPage": {
+            "title": "vissza a könyvválasztáshoz",
+            "ariaLabel": "vissza a könyvválasztáshoz"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "lépjen a következő oldalra",
+            "ariaLabel": "lépjen a következő oldalra"
+        },
+        "noNextPage": {
+            "title": "vissza a könyvválasztáshoz",
+            "ariaLabel": "vissza a könyvválasztáshoz"
+        }
+    }
+}

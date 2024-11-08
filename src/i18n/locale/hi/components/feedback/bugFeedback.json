@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "ईमेल करना समर्थित नहीं है",
+        "submissionFailed": "बग भेजना विफल रहा",
+        "submissionSuccess": "बग भेजा गया"
+    },
+    "submitButton": {
+        "text": "बग सबमिट करें",
+        "ariaLabel": "बग सबमिट करें"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "वह पुस्तकें जोड़ें जो समस्या का कारण हो सकती हैं।",
+            "label": "संलग्न करने हेतु पुस्तकें"
+        },
+        "loadFailed": "पुस्तकें लोड करना विफल रहा",
+        "noBooksInstalled": "कोई पुस्तकें स्थापित नहीं",
+        "picker": {
+            "header": "पुस्तक(पुस्तकें) चुनें",
+            "ariaLabel": "चुनें कि कौन सी पुस्तकें बग फीडबैक के साथ संलग्न की जानी चाहिए"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "अपने बग फीडबैक से जुड़ी पुस्तकों में परिवर्तन करें"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "कृपया बग के बारे में कुछ विवरण प्रदान करें।",
+        "description": "बग के बारे में विवरण प्रदान करें.",
+        "label": "बग विवरण",
+        "ariaLabel": "बग का विवरण"
+    }
+}

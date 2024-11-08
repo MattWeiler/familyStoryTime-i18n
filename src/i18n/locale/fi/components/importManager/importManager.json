@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "tuonti on jo käynnissä, yritä myöhemmin uudelleen",
+        "download": {"failed": "\"%{bookName}\" ei voitu ladata."},
+        "install": {
+            "failed": "\"%{bookName}\" ei onnistunut tuomaan",
+            "successful": "\"%{bookName}\" tuotiin onnistuneesti"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Peruuttaa",
+            "ariaLabel": "peruuttaa tuonti"
+        },
+        "install": {
+            "textLabel": "Asentaa",
+            "ariaLabel": "asenna valitut kirjat: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "analysoidaan...",
+        "downloading": "ladataan...",
+        "installing": "asennus...",
+        "cancelling": "peruutetaan..."
+    },
+    "nothingToInstall": "Ei mitään tuotavaa :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Tämä lukija on jo osa asennettua kirjaa.\n\n"},
+            "checkbox": {"ariaLabel": "sisällyttääksesi lukijan %{readerDisplayName} tuontiin"}
+        },
+        "checkbox": {"ariaLabel": "sisällyttääksesi %{bookName} kirjan tuontiin"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Tämä kirja on jo laitteellasi.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Jos päätät korvata, nykyinen kirja korvataan uudella.\n\n"},
+                    "noReaders": {"label": "Tämä kirja on jo laitteellasi.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Tämä tiedosto sisältää vain ääntä, eikä kirjaa ole asennettu laitteellesi.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Tämä kirja ei ole laitteellasi.\n\n"},
+                    "noReaders": {"label": "Tämä kirja ei ole laitteellasi.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "yhdistää",
+                    "ariaLabel": "yhdistä kirja %{bookName} lisäämällä uusia lukijoita ja korvaamalla olemassa olevat lukijat uusilla lukijoilla"
+                },
+                "overwrite": {
+                    "label": "päälle",
+                    "ariaLabel": "korvaa olemassa oleva kirja %{bookName}"
+                }
+            },
+            "ariaLabel": "valitse mitä tuontistrategiaa käytetään kirjalle %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "älä peruuta tuontia"},
+            "yes": {"ariaLabel": "peruuttaa tuonti"}
+        },
+        "title": "Vahvista Peruuta tuonti",
+        "message": "Haluatko varmasti peruuttaa tuonnin?"
+    }},
+    "titles": {
+        "booksToInstall": "Asennettavat kirjat",
+        "failedToInstall": "Kirjojen asentaminen epäonnistui"
+    }
+}

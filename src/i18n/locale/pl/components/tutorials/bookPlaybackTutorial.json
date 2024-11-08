@@ -1,0 +1,24 @@
+{
+    "summary": "Możesz odtwarzać książki zainstalowane na swoim urządzeniu.",
+    "splashScreen": {
+        "messages": {
+            "1": "Na ekranie powitalnym możesz wybrać sposób odtwarzania książki i wybrać czytelnika, który powinien ją przeczytać, jeśli ma to zastosowanie.",
+            "2": "Jeśli do książki dodano czytelników, będziesz mógł wybierać pomiędzy trybami \u201eAutoodtwarzanie\u201d, \u201ePrzeczytaj mi\u201d i \u201ePrzeczytaj to sam\u201d.",
+            "3": "W trybie \u201eAuto Play\u201d wybrany czytnik przeczyta książkę, a strony zostaną zmienione automatycznie.",
+            "4": "W trybie \u201ePrzeczytaj mi\u201d wybrany czytelnik przeczyta książkę, ale strony będą musiały zostać zmienione ręcznie. ",
+            "5": "Tryb \u201ePrzeczytaj sam\u201d umożliwi Ci samodzielne przeczytanie książki.",
+            "6": "Jeśli książka zawiera informacje o źródle, pojawi się ikona, której kliknięcie spowoduje wyświetlenie informacji o źródle. "
+        },
+        "title": "Ekran powitalny"
+    },
+    "player": {
+        "messages": {
+            "1": "Podczas odtwarzania książki zostaną wyświetlone przyciski nawigacyjne, które pozwolą Ci wstrzymać/odtworzyć dźwięk czytnika, a także nawigować pomiędzy stronami.",
+            "2": "Przyciski nawigacyjne można ukryć/pokazać poprzez pojedyncze naciśnięcie obrazu.",
+            "3": "Do nawigacji można używać także niektórych gestów.",
+            "4": "Przesuwanie w lewo/prawo umożliwia nawigację pomiędzy stronami.",
+            "5": "Podwójne dotknięcie lub ściśnięcie spowoduje powiększenie/pomniejszenie. "
+        },
+        "title": "Gracz książek"
+    }
+}

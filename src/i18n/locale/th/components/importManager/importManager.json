@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "การนำเข้ากำลังทำงานอยู่ โปรดลองอีกครั้งในภายหลัง",
+        "download": {"failed": "ดาวน์โหลด \"%{bookName}\" ไม่สำเร็จ"},
+        "install": {
+            "failed": "ไม่สามารถนำเข้า \"%{bookName}\"",
+            "successful": "นำเข้า \"%{bookName}\" สำเร็จแล้ว"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "ยกเลิก",
+            "ariaLabel": "ยกเลิกการนำเข้า"
+        },
+        "install": {
+            "textLabel": "ติดตั้ง",
+            "ariaLabel": "ติดตั้งหนังสือที่เลือก: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "กำลังวิเคราะห์ ...",
+        "downloading": "กำลังดาวน์โหลด ...",
+        "installing": "กำลังติดตั้ง ...",
+        "cancelling": "กำลังยกเลิก ..."
+    },
+    "nothingToInstall": "ไม่มีอะไรจะนำเข้า :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "โปรแกรมอ่านนี้เป็นส่วนหนึ่งของหนังสือที่ติดตั้งแล้ว\n\n"},
+            "checkbox": {"ariaLabel": "เพื่อรวมผู้อ่าน %{readerDisplayName} ในการนำเข้า"}
+        },
+        "checkbox": {"ariaLabel": "เพื่อรวมหนังสือ %{bookName} ในการนำเข้า"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "หนังสือเล่มนี้อยู่ในอุปกรณ์ของคุณแล้ว\n\n"},
+                "full": {
+                    "withReaders": {"label": "หากคุณเลือกที่จะเขียนทับ หนังสือเล่มปัจจุบันจะถูกแทนที่ด้วยหนังสือเล่มใหม่\n\n"},
+                    "noReaders": {"label": "หนังสือเล่มนี้อยู่ในอุปกรณ์ของคุณแล้ว\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "ไฟล์นี้มีเฉพาะเสียง และหนังสือไม่ได้ติดตั้งลงในอุปกรณ์ของคุณ\n\n"},
+                "full": {
+                    "withReaders": {"label": "หนังสือเล่มนี้ไม่ได้อยู่ในอุปกรณ์ของคุณ\n\n"},
+                    "noReaders": {"label": "หนังสือเล่มนี้ไม่ได้อยู่ในอุปกรณ์ของคุณ\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "ผสาน",
+                    "ariaLabel": "รวมหนังสือ %{bookName} โดยการเพิ่มผู้อ่านใหม่และเขียนทับผู้อ่านที่มีอยู่ด้วยผู้อ่านใหม่"
+                },
+                "overwrite": {
+                    "label": "เขียนทับ",
+                    "ariaLabel": "เขียนทับหนังสือที่มีอยู่ %{bookName}"
+                }
+            },
+            "ariaLabel": "เลือกกลยุทธ์การนำเข้าที่จะใช้สำหรับหนังสือ %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "อย่ายกเลิกการนำเข้า"},
+            "yes": {"ariaLabel": "ยกเลิกการนำเข้า"}
+        },
+        "title": "ยืนยันยกเลิกการนำเข้า",
+        "message": "คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการนำเข้า"
+    }},
+    "titles": {
+        "booksToInstall": "หนังสือที่จะติดตั้ง",
+        "failedToInstall": "ไม่สามารถติดตั้งหนังสือ"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "applicationSecurityButton": {"ariaLabel": {
+        "unlockParentMode": "ontgrendel applicatie voor ouderlijk gebruik",
+        "initParentMode": "schakel ouderlijk toezicht in",
+        "lockParentMode": "schakel ouderslot in"
+    }},
+    "hamburgerButton": {"ariaLabel": "hamburgermenu tonen"}
+}

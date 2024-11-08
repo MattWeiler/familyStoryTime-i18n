@@ -1,0 +1,25 @@
+{
+    "summary": "Nachdem Sie ein Buch erstellt haben, können Sie es mit Familie und Freunden teilen.",
+    "exporting": {
+        "messages": {
+            "1": "Sie können entweder ein einzelnes Buch über das Kontextmenü oder mehrere Bücher gleichzeitig exportieren, indem Sie lange gedrückt halten, um mehrere Bücher auszuwählen.",
+            "2": "Nachdem Sie die zu exportierenden Bücher ausgewählt haben, können Sie genau auswählen, was exportiert werden soll.",
+            "3": "Standardmäßig wird das gesamte Buch exportiert, Sie können jedoch auswählen, welche Leser in den Buchinhalt einbezogen werden sollen, oder Sie können festlegen, dass nur bestimmte Leser exportiert werden.",
+            "4": "Wenn Sie nur die von Ihnen aufgezeichneten Leserinformationen an jemanden senden möchten, der das Buch bereits besitzt, können Sie eine viel kleinere Datei zum Teilen erstellen, indem Sie nur die spezifischen Leser einbeziehen."
+        },
+        "title": "Exportieren"
+    },
+    "importingMerging": {"messages": {
+        "1": "Wenn Sie ein Buch importieren, das bereits auf Ihrem Gerät installiert ist, können Sie auswählen, ob das importierende Buch das bereits installierte Buch überschreiben soll oder ob eine Zusammenführung durchgeführt werden soll.",
+        "2": "Beim Zusammenführen werden nur die ausgewählten Reader zum bereits installierten Buch hinzugefügt.",
+        "3": "Wenn die zusammenzuführenden Leser bereits auf dem Gerät installiert sind, werden sie ersetzt."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Auf der Seite \u201eLeseecke\u201c können Sie auswählen, welche Bücher importiert werden sollen, indem Sie die Option \u201eBücher importieren\u201c auswählen, indem Sie unten rechts auf dem Bildschirm auf die Schaltfläche (+) klicken.",
+            "2": "Alternativ können Sie eine Buchdatei an die Anwendung \u201eFamily Story Time\u201c senden.",
+            "3": "Wenn Sie ein Buch importieren, das noch nicht auf Ihrem Gerät installiert ist, wird das Buch installiert."
+        },
+        "title": "Importieren"
+    }
+}

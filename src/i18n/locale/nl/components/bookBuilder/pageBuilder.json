@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "pagina %{pageNum} afbeelding"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Paginatekst opnieuw scannen",
+                "message": "Weet u zeker dat u de afbeelding op tekst wilt scannen en uw bestaande paginatekst wilt vervangen?"
+            },
+            "ariaLabel": "extraheer tekst uit afbeelding voor pagina %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "tekst om toe te voegen aan pagina %{pageNum}",
+                    "withPageText": "tekst die moet worden bijgewerkt op pagina %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Paginatekst instellen",
+                    "withPageText": "Paginatekst bijwerken"
+                },
+                "message": {
+                    "noPageText": "Wat is de paginatekst?",
+                    "withPageText": "Waarin wilt u de paginatekst wijzigen?"
+                },
+                "inputPlaceholder": "tekst toe te voegen"
+            },
+            "ariaLabel": "bewerk de tekst \"%{pageText}\" van pagina %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "verplaats de tekst \"%{pageText}\" van pagina %{pageNum} naar boven"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Bevestiging van verwijdering",
+                "message": "Weet u zeker dat u deze paginatekst wilt verwijderen?"
+            },
+            "ariaLabel": "verwijder de tekst \"%{pageText}\" van pagina %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "tekst om toe te voegen aan pagina %{pageNum}",
+                "title": "Paginatekst instellen",
+                "message": "Wat is de paginatekst?",
+                "inputPlaceholder": "tekst toe te voegen"
+            },
+            "ariaLabel": "nieuwe tekst toevoegen aan pagina %{pageNum}"
+        },
+        "label": "Tekst",
+        "showHideButton": {"ariaLabel": {
+            "visible": "verberg de tekst \"%{pageText}\" van pagina %{pageNum}",
+            "hidden": "toon de tekst \"%{pageText}\" van pagina %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "verplaats de tekst \"%{pageText}\" van pagina %{pageNum} naar beneden"}
+    },
+    "moveUpButton": {"ariaLabel": "verplaats pagina %{pageNum} omhoog"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "De audio die wordt afgespeeld wanneer \"%{readerDisplayName}\" pagina %{pageNum} leest.",
+                "noDisplayName": "De audio die wordt afgespeeld wanneer deze lezer pagina %{pageNum} leest."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "pagina %{pageNum} %{readerDisplayName} lezer"
+        },
+        "label": "Lezers"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Hiermee wordt alle pagina-audio verwijderd die voor deze pagina is opgenomen.",
+            "additionalMessage2": "DIT KAN NIET ONGEDAAN WORDEN!",
+            "title": "Bevestiging van verwijdering",
+            "message": "Weet u zeker dat u pagina %{pageNum} wilt verwijderen?"
+        },
+        "ariaLabel": "verwijder pagina %{pageNum}"
+    },
+    "description": "De afbeelding die moet worden weergegeven op pagina %{pageNum}.",
+    "label": "Pagina %{pageNum}",
+    "moveDownButton": {"ariaLabel": "verplaats pagina %{pageNum} naar beneden"}
+}

@@ -1,0 +1,17 @@
+{
+    "summary": "Löydät vapaasti jaettavia kirjoja kirjakaupastamme.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Voit valita, mitkä saatavilla olevista kirjoista haluat ladata.",
+            "2": "Näin tekemällä kirjat asennetaan laitteellesi, jolloin voit toistaa niitä ja jopa lisätä omia lukijoita."
+        },
+        "title": "Kirjojen asentaminen"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Voit myös katsoa kirjakaupastamme mitkä kirjat olet jo asentanut.",
+            "2": "Täältä voit poistaa aiemmin asennettuja kirjoja tai tarkistaa saatavilla olevat päivitykset."
+        },
+        "title": "Kirjojen hallinta"
+    }
+}

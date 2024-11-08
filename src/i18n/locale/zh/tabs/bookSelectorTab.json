@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "加载书籍失败"},
+        "import": {"failure": "导入失败"},
+        "delete": {
+            "failure": "删除失败",
+            "success": "已删除图书\u201c%{bookTitle}\u201d"
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "未能删除 %{count} 本书",
+                "one": "删除 1 本书失败"
+            },
+            "success": {
+                "other": "已删除 %{count} 本书",
+                "one": "已删除 1 本书"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "按页数降序排序",
+                "descending": "按页数升序排序"
+            }},
+            "searchField": {
+                "placeholder": "搜索你的书",
+                "ariaLabel": "搜索你的书"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "出口",
+                        "ariaLabel": "导出选定的书籍"
+                    },
+                    "delete": {
+                        "label": "删除",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "不，不要删除选定的书籍"},
+                                "yes": {"ariaLabel": "是的，删除选定的书籍"}
+                            },
+                            "title": "确认删除",
+                            "message": {
+                                "other": "您确定要删除所选的 %{count} 本书吗？",
+                                "one": "您确定要删除所选的图书吗？"
+                            }
+                        },
+                        "ariaLabel": "删除选定的书籍"
+                    }
+                },
+                "ariaLabel": "打开所选书籍的上下文菜单"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "按书名降序排序",
+                "descending": "按书名升序排序"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "按读者数量降序排列",
+                "descending": "按读者数量升序排序"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "缩小以一次查看更多项目",
+                "zoomedOut": "放大以查看更大的图像"
+            }}
+        },
+        "loadError": {
+            "text": "加载书籍失败。",
+            "ariaLabel": "加载书籍失败"
+        },
+        "noBooksFound": {
+            "message": "没有找到书:(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "试试我们的",
+                    "linkName": "书籍制作者"
+                },
+                "availableBooks": {
+                    "message": "结帐我们的",
+                    "linkName": "书店"
+                }
+            }
+        }
+    },
+    "subtitle": "让我们一起来欣赏一些故事吧。",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "创建一本书",
+                "ariaLabel": "创建一本新书"
+            },
+            "importBooks": {
+                "label": "进口书籍",
+                "ariaLabel": "导入一本或多本书籍"
+            },
+            "bookStore": {
+                "label": "参观书店",
+                "ariaLabel": "参观我们的书店"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "关闭添加图书菜单",
+            "collapsed": "打开添加图书菜单"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "删除...\n",
+            "one": "删除...\n",
+            "none": "删除..."
+        }},
+        "export": {"label": {
+            "other": "正在出口...\n",
+            "one": "正在出口...\n",
+            "none": "正在出口..."
+        }}
+    }},
+    "title": "读书角",
+    "confirmations": {"deleteBook": {
+        "title": "删除确认",
+        "message": "您确定要删除图书\u201c%{bookTitle}\u201d吗？"
+    }}
+}

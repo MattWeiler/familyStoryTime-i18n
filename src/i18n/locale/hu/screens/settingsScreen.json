@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "Ezzel törli az eszközre telepített összes könyvet.\n\n",
+        "button": {
+            "label": "Töröl",
+            "title": "törölje az összes könyvet",
+            "ariaLabel": "törölje az összes könyvet"
+        },
+        "displayName": "Az összes könyv törlése",
+        "processingMessage": "törlés...",
+        "shortDescription": {
+            "disabled": "Törölje az összes könyvét, de jelenleg nincs telepítve könyve.",
+            "enabled": "Törölje az összes könyvét."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} ",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "Hűtők",
+                "someFontsBy": "Betűtípusok:"
+            },
+            "label": "Külön köszönet",
+            "icons": {
+                "ionicIcons": "IonIcons",
+                "someIconsBy": "Ikonok szerzője:",
+                "icons8": "Ikonok8",
+                "iconArchive": "Ikonarchívum"
+            }
+        },
+        "version": "Verzió: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Ez a képszerkesztő új könyvképek készítése vagy egy meglévő könyvkép szerkesztésekor használatos.",
+        "displayName": "Képszerkesztő",
+        "testLabel": "Képszerkesztő tesztelése",
+        "testImage": {"accessibleImageDisplayName": "teszt képszerkesztő kép"},
+        "options": {
+            "advanced": {
+                "label": "Fejlett",
+                "ariaLabel": "használja a fejlett képszerkesztőt"
+            },
+            "simple": {
+                "label": "Egyszerű",
+                "ariaLabel": "használjon egyszerű képszerkesztőt"
+            }
+        },
+        "shortDescription": "Válassza ki a használni kívánt képszerkesztőt.",
+        "ariaLabel": "válassza ki a használni kívánt képszerkesztőt"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Ezt a hangot akkor fogja használni, amikor az \"AI Reader\" olvasó könyveket olvas.",
+        "displayName": "Preferált hang",
+        "selectorButton": {
+            "defaultLabel": "alapértelmezett",
+            "ariaLabel": "válasszon egy \u201eAI Reader\u201d hangot"
+        },
+        "shortDescription": "Válassza ki az \u201eAI Reader\u201d által használni kívánt hangot.",
+        "picker": {
+            "default": "alapértelmezett",
+            "networkActionIcon": {"ariaLabel": "helyi és hálózati alapú hangok megjelenítése"},
+            "label": "AI Reader Voices",
+            "ariaLabel": "válasszon egy \u201eAI Reader\u201d hangot",
+            "globalActionIcon": {"ariaLabel": "az összes nyelv megjelenítése"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Hang és videó",
+        "ariaLabel": {
+            "expanded": "csukja össze az audio-videó kiválasztási részt",
+            "collapsed": "bontsa ki az audio-videó kiválasztási részt"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Ezt a képminőséget használja a rendszer, amikor az eszköz kamerájával/kameráival készít képeket.",
+        "slider": {
+            "highLabel": "Magas",
+            "ariaLabel": "képek képminősége",
+            "lowLabel": "Alacsony"
+        },
+        "displayName": "Kamera minőség %{value}%",
+        "testLabel": "Teszt kamera",
+        "testImage": {"accessibleImageDisplayName": "tesztelje a kamera minőségi képét"},
+        "shortDescription": "Válassza ki a fényképezőgéppel készített képek képminőségét."
+    },
+    "title": "Beállítások elemre",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Törlés megerősítése",
+        "message": "Biztosan törli az összes telepített könyvet?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "Ez akkor lehet hasznos, ha új eszközre költözik, vagy könyveit több eszközhöz is hozzáadja.",
+        "button": {
+            "label": "Export",
+            "title": "exportálja az összes könyvet",
+            "ariaLabel": "exportálja az összes könyvet"
+        },
+        "displayName": "Minden könyv exportálása",
+        "shortDescription": {
+            "disabled": "Exportálja az összes könyvét egyetlen fájlba, és mentse/ossza meg, de jelenleg nincs telepítve könyve.",
+            "enabled": "Exportálja az összes könyvét egyetlen fájlba, és mentse/ossza meg."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "törlés nem sikerült",
+        "success": {
+            "other": "%{count} könyv törölve",
+            "one": "törölt 1 könyvet"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "AI olvasó",
+        "testLabel": "Hang tesztelése",
+        "testAriaLabel": {
+            "stopped": "tesztelje az \"AI Reader\" hangját",
+            "playing": "állítsa le az \"AI Reader\" hangtesztet"
+        },
+        "testPhrase": "Szia, szívesen olvasnám veled a kedvenc történeteidet.",
+        "description": "Ha engedélyezve van, az \"AI Reader\" olvasóként elérhető lesz könyvek lejátszásakor.",
+        "ariaLabel": {
+            "expanded": "csukja össze az \"AI Reader\" kiválasztási részt",
+            "collapsed": "bontsa ki az \"AI Reader\" kiválasztási részt",
+            "disabled": "Az \u201eAI Reader\u201d le van tiltva",
+            "enabled": "Az \u201eAI Reader\u201d engedélyezve van"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "Ez a hang magasságát jelöli, amikor az \"AI Reader\" olvasó könyveket olvas.",
+        "slider": {
+            "highLabel": "Magas",
+            "ariaLabel": "az \"AI Reader\" hangmagassága",
+            "lowLabel": "Alacsony"
+        },
+        "displayName": "Hangmagasság %{value}%",
+        "shortDescription": "Válassza ki az \u201eAI Reader\u201d által használni kívánt hang magasságát."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Ezt a hangminőséget használja az eszköz mikrofonjával történő rögzítéskor.",
+        "displayName": "Mikrofon minőség",
+        "testLabel": "Teszt mikrofon",
+        "options": {
+            "high": {
+                "label": "Magas",
+                "ariaLabel": "használjon kiváló hangminőséget"
+            },
+            "low": {
+                "label": "Alacsony",
+                "ariaLabel": "alacsony hangminőséget használjon"
+            }
+        },
+        "shortDescription": "Válassza ki a mikrofonnal készített felvételek hangminőségét.",
+        "ariaLabel": "válassza ki a mikrofonnal készített felvételek hangminőségét",
+        "testAudioSelector": {"accessibleAudioDisplayName": "tesztelje a mikrofon minőségét"}
+    },
+    "subtitle": "Itt frissítheti az alkalmazás beállításait.",
+    "themeSelection": {
+        "longDescription": "Ha itt kiválaszt egy témát, az felülírja az eszköztéma esetleges beállításait.",
+        "displayName": "Téma kiválasztása",
+        "options": {
+            "default": {
+                "label": "Rendszer",
+                "ariaLabel": "használja a rendszer által meghatározott témát"
+            },
+            "light": {
+                "label": "Fény",
+                "ariaLabel": "használja a világos témát"
+            },
+            "dark": {
+                "label": "Sötét",
+                "ariaLabel": "használja a sötét témát"
+            }
+        },
+        "shortDescription": "Válassza ki az alkalmazás által használni kívánt témát.",
+        "ariaLabel": "válassza ki az alkalmazás által használni kívánt témát"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "Ez a hang sebességét jelzi, amikor az \"AI Reader\" olvasó könyveket olvas.",
+        "slider": {
+            "highLabel": "Gyors",
+            "ariaLabel": "az \"AI Reader\" beszédsebessége",
+            "lowLabel": "Lassú"
+        },
+        "displayName": "Beszédsebesség %{value}%",
+        "shortDescription": "Válassza ki az \"AI Reader\" által használni kívánt hang sebességét."
+    },
+    "parentalLocking": {
+        "longDescription": "Ha engedélyezve van, az eszköz tulajdonosának biometrikus adataira van szükség az alkalmazás speciális funkcióinak feloldásához.",
+        "displayName": "Szülői zárolás",
+        "shortDescription": "A szülői zárolás hasznos lehet, ha gyerekek használják az alkalmazást.",
+        "ariaLabel": {
+            "disabled": "a szülői zár le van tiltva",
+            "enabled": "a szülői zár be van kapcsolva"
+        }
+    }
+}

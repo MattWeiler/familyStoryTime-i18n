@@ -1,0 +1,25 @@
+{
+    "summary": "Po utworzeniu książki możesz udostępnić ją rodzinie i znajomym.",
+    "exporting": {
+        "messages": {
+            "1": "Możesz wyeksportować pojedynczą książkę za pomocą menu kontekstowego lub kilka książek na raz, przytrzymując i wybierając wiele książek.",
+            "2": "Po wybraniu książek do wyeksportowania możesz dokładnie wybrać, co ma zostać wyeksportowane.",
+            "3": "Domyślnie eksportowana będzie cała książka, ale możesz wybrać, którzy czytelnicy mają zostać uwzględnieni w treści książki, lub możesz wyeksportować tylko wybranych czytelników.",
+            "4": "Jeśli chcesz po prostu wysłać zapisane informacje o czytelniku osobie, która już ma tę książkę, możesz utworzyć znacznie mniejszy plik do udostępnienia, uwzględniając tylko określonych czytelników."
+        },
+        "title": "Eksportowanie"
+    },
+    "importingMerging": {"messages": {
+        "1": "Importując książkę, która jest już zainstalowana na Twoim urządzeniu, będziesz mógł wybrać, czy importowana książka ma zastąpić książkę już zainstalowaną, czy też ma zostać przeprowadzone scalanie.",
+        "2": "Podczas łączenia tylko wybrane czytniki zostaną dodane do już zainstalowanej książki.",
+        "3": "Jeżeli łączone czytniki są już zainstalowane na urządzeniu, zostaną wymienione."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Na stronie \u201eKącik czytelniczy\u201d możesz wybrać książki do zaimportowania, wybierając opcję \u201eImportuj książki\u201d po naciśnięciu przycisku (+) w prawym dolnym rogu ekranu.",
+            "2": "Alternatywnie możesz wysłać plik książki do aplikacji \u201eCzas na opowieści rodzinne\u201d.",
+            "3": "Podczas importowania książki, która nie jest jeszcze zainstalowana na Twoim urządzeniu, książka zostanie zainstalowana."
+        },
+        "title": "Importowanie"
+    }
+}

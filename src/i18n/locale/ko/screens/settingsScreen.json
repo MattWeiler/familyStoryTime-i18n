@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "이 기기에 설치된 모든 책이 삭제됩니다.\n\n",
+        "button": {
+            "label": "삭제",
+            "title": "모든 책 삭제",
+            "ariaLabel": "모든 책 삭제"
+        },
+        "displayName": "모든 도서 삭제",
+        "processingMessage": "삭제 중 ...",
+        "shortDescription": {
+            "disabled": "모든 책을 삭제하지만 현재 설치된 책은 없습니다.",
+            "enabled": "모든 책을 삭제하세요."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} ",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "냉각기",
+                "someFontsBy": "글꼴 작성자:"
+            },
+            "label": "특별한 감사",
+            "icons": {
+                "ionicIcons": "이온아이콘",
+                "someIconsBy": "아이콘 작성자:",
+                "icons8": "아이콘8",
+                "iconArchive": "아이콘 아카이브"
+            }
+        },
+        "version": "버전: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "이 이미지 편집기는 새로운 책 이미지를 촬영하거나 기존 책 이미지를 편집할 때 사용됩니다.",
+        "displayName": "이미지 편집기",
+        "testLabel": "테스트 이미지 편집기",
+        "testImage": {"accessibleImageDisplayName": "테스트 이미지 편집기 이미지"},
+        "options": {
+            "advanced": {
+                "label": "고급의",
+                "ariaLabel": "고급 이미지 편집기를 사용하세요"
+            },
+            "simple": {
+                "label": "단순한",
+                "ariaLabel": "간단한 이미지 편집기 사용"
+            }
+        },
+        "shortDescription": "어떤 이미지 편집기를 사용해야 하는지 선택하세요.",
+        "ariaLabel": "어떤 이미지 편집기를 사용해야 하는지 선택하세요"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "이 음성은 \"AI 리더\" 리더가 책을 읽을 때 사용됩니다.",
+        "displayName": "선호하는 목소리",
+        "selectorButton": {
+            "defaultLabel": "기본",
+            "ariaLabel": "\"AI 리더\" 음성을 선택하세요"
+        },
+        "shortDescription": "\"AI 리더\"에서 사용할 음성을 선택하세요.",
+        "picker": {
+            "default": "기본",
+            "networkActionIcon": {"ariaLabel": "로컬 및 네트워크 기반 음성 표시"},
+            "label": "AI 리더의 목소리",
+            "ariaLabel": "\"AI 리더\" 음성을 선택하세요",
+            "globalActionIcon": {"ariaLabel": "모든 언어 표시"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "오디오 및 비디오",
+        "ariaLabel": {
+            "expanded": "오디오 비디오 선택 섹션 접기",
+            "collapsed": "오디오 비디오 선택 섹션 확장"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "이 이미지 품질은 장치 카메라로 사진을 찍을 때 사용됩니다.",
+        "slider": {
+            "highLabel": "높은",
+            "ariaLabel": "사진의 화질",
+            "lowLabel": "낮은"
+        },
+        "displayName": "카메라 품질 %{value}%",
+        "testLabel": "테스트 카메라",
+        "testImage": {"accessibleImageDisplayName": "카메라 품질 이미지 테스트"},
+        "shortDescription": "카메라로 촬영한 사진의 화질을 선택합니다."
+    },
+    "title": "설정",
+    "confirmations": {"deleteAllBooks": {
+        "title": "삭제 확인",
+        "message": "설치된 모든 책을 삭제하시겠습니까?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "이는 새 기기로 이전하거나 책을 여러 기기에 추가할 때 유용할 수 있습니다.",
+        "button": {
+            "label": "내보내다",
+            "title": "모든 책 내보내기",
+            "ariaLabel": "모든 책 내보내기"
+        },
+        "displayName": "모든 도서 내보내기",
+        "shortDescription": {
+            "disabled": "모든 책을 단일 파일로 내보내고 저장/공유하지만 현재 설치된 책이 없습니다.",
+            "enabled": "모든 책을 단일 파일로 내보내고 저장/공유하세요."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "삭제 실패",
+        "success": {
+            "other": "%{count}권 삭제됨",
+            "one": "책 1권을 삭제했습니다"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "AI 리더",
+        "testLabel": "음성 테스트",
+        "testAriaLabel": {
+            "stopped": "\"AI 리더\" 음성 테스트",
+            "playing": "\"AI 리더\" 음성 테스트 중지해 줘"
+        },
+        "testPhrase": "안녕하세요, 저는 당신이 좋아하는 이야기를 당신과 함께 읽고 싶습니다.",
+        "description": "활성화되면 책을 재생할 때 \"AI 리더\"를 리더로 사용할 수 있습니다.",
+        "ariaLabel": {
+            "expanded": "\"AI 리더\" 선택 섹션 접기",
+            "collapsed": "\"AI 리더\" 선택 섹션 확장",
+            "disabled": "\"AI 리더\"가 비활성화되었습니다",
+            "enabled": "\"AI 리더\"가 활성화되었습니다"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "'AI 리더' 리더가 책을 읽을 때 사용하는 음성의 높낮이를 나타냅니다.",
+        "slider": {
+            "highLabel": "높은",
+            "ariaLabel": "\"AI 리더\"의 음성 피치",
+            "lowLabel": "낮은"
+        },
+        "displayName": "음성 피치 %{value}%",
+        "shortDescription": "\"AI 리더\"에서 사용할 음성의 음높이를 선택합니다."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "이 오디오 품질은 장치 마이크로 녹음할 때 사용됩니다.",
+        "displayName": "마이크 품질",
+        "testLabel": "테스트 마이크",
+        "options": {
+            "high": {
+                "label": "높은",
+                "ariaLabel": "높은 오디오 품질을 사용하세요"
+            },
+            "low": {
+                "label": "낮은",
+                "ariaLabel": "낮은 오디오 품질을 사용하세요"
+            }
+        },
+        "shortDescription": "마이크로 녹음한 오디오 품질을 선택합니다.",
+        "ariaLabel": "마이크로 녹음한 오디오 품질을 선택하세요.",
+        "testAudioSelector": {"accessibleAudioDisplayName": "마이크 품질 테스트"}
+    },
+    "subtitle": "여기에서 애플리케이션 설정을 업데이트하세요.",
+    "themeSelection": {
+        "longDescription": "여기에서 테마를 선택하면 모든 장치 테마 설정이 무시됩니다.",
+        "displayName": "테마 선택",
+        "options": {
+            "default": {
+                "label": "체계",
+                "ariaLabel": "시스템 정의 테마 사용"
+            },
+            "light": {
+                "label": "빛",
+                "ariaLabel": "밝은 테마를 사용하세요"
+            },
+            "dark": {
+                "label": "어두운",
+                "ariaLabel": "어두운 테마를 사용하세요"
+            }
+        },
+        "shortDescription": "애플리케이션에서 사용해야 하는 테마를 선택합니다.",
+        "ariaLabel": "애플리케이션에서 사용해야 하는 테마를 선택하세요."
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "'AI 리더' 리더가 책을 읽을 때 사용하는 음성의 비율을 나타냅니다.",
+        "slider": {
+            "highLabel": "빠른",
+            "ariaLabel": "\"AI 리더\"의 말하기 속도",
+            "lowLabel": "느린"
+        },
+        "displayName": "말하는 속도 %{value}%",
+        "shortDescription": "\"AI 리더\"에서 사용할 음성의 속도를 선택합니다."
+    },
+    "parentalLocking": {
+        "longDescription": "활성화되면 애플리케이션의 고급 기능을 잠금 해제하려면 장치 소유자의 생체 인식 데이터가 필요합니다.",
+        "displayName": "보호자 잠금",
+        "shortDescription": "자녀 보호 기능은 자녀가 애플리케이션을 사용할 때 유용할 수 있습니다.",
+        "ariaLabel": {
+            "disabled": "자녀 보호 잠금이 비활성화되었습니다",
+            "enabled": "자녀 보호 잠금이 활성화되었습니다"
+        }
+    }
+}

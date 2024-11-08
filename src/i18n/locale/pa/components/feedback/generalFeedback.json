@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "ਈਮੇਲ ਕਰਨਾ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ",
+        "submissionFailed": "ਫੀਡਬੈਕ ਭੇਜਣਾ ਅਸਫਲ ਰਿਹਾ",
+        "submissionSuccess": "ਫੀਡਬੈਕ ਭੇਜਿਆ"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "ਕਿਰਪਾ ਕਰਕੇ ਸੰਤੁਸ਼ਟੀ ਦਾ ਪੱਧਰ ਚੁਣੋ।",
+        "description": "ਤੁਸੀਂ ਸਾਡੀ ਐਪ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਦੀ ਕਿੰਨੀ ਸੰਭਾਵਨਾ ਰੱਖਦੇ ਹੋ?",
+        "label": "ਦੂਜਿਆਂ ਨਾਲ ਸਾਂਝਾ ਕਰਨਾ",
+        "levels": {
+            "1": {
+                "displayName": "ਹੋ ਨਹੀਂ ਸਕਦਾ",
+                "ariaLabel": "ਹੋ ਨਹੀਂ ਸਕਦਾ"
+            },
+            "2": {
+                "displayName": "ਸੰਭਾਵਨਾ ਨਹੀਂ",
+                "ariaLabel": "ਸੰਭਾਵਨਾ ਨਹੀਂ"
+            },
+            "3": {
+                "displayName": "ਸ਼ਾਇਦ",
+                "ariaLabel": "ਸ਼ਾਇਦ"
+            },
+            "4": {
+                "displayName": "ਹਾਂ",
+                "ariaLabel": "ਹਾਂ"
+            },
+            "5": {
+                "displayName": "ਪਹਿਲਾਂ ਹੀ ਹੈ",
+                "ariaLabel": "ਪਹਿਲਾਂ ਹੀ ਹੈ"
+            }
+        },
+        "ariaLabel": "ਚੁਣੋ ਕਿ ਤੁਸੀਂ ਇਸ ਮੋਬਾਈਲ ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਦੂਜਿਆਂ ਨਾਲ ਸਾਂਝਾ ਕਰਨ ਦੀ ਕਿੰਨੀ ਸੰਭਾਵਨਾ ਰੱਖਦੇ ਹੋ"
+    },
+    "submitButton": {
+        "text": "ਫੀਡਬੈਕ ਸਪੁਰਦ ਕਰੋ",
+        "ariaLabel": "ਆਪਣਾ ਫੀਡਬੈਕ ਦਰਜ ਕਰੋ"
+    },
+    "satisfactionInput": {
+        "errorMessage": "ਕਿਰਪਾ ਕਰਕੇ ਸੰਤੁਸ਼ਟੀ ਦਾ ਪੱਧਰ ਚੁਣੋ।",
+        "description": "ਤੁਸੀਂ ਸਾਡੀ ਐਪ ਨੂੰ ਕਿੰਨਾ ਪਸੰਦ/ਨਾਪਸੰਦ ਕੀਤਾ ਹੈ?",
+        "label": "ਐਪ ਸੰਤੁਸ਼ਟੀ",
+        "levels": {
+            "1": {
+                "displayName": "ਇਸ ਨੂੰ ਨਫ਼ਰਤ ਕਰੋ",
+                "ariaLabel": "ਇਸ ਨੂੰ ਨਫ਼ਰਤ"
+            },
+            "2": {
+                "displayName": "ਨਿਰਾਸ਼",
+                "ariaLabel": "ਨਿਰਾਸ਼"
+            },
+            "3": {
+                "displayName": "ਨਿਰਪੱਖ",
+                "ariaLabel": "ਨਿਰਪੱਖ"
+            },
+            "4": {
+                "displayName": "ਮਹਾਨ",
+                "ariaLabel": "ਮਹਾਨ"
+            },
+            "5": {
+                "displayName": "ਪਿਆਰਾ ਹੈ",
+                "ariaLabel": "ਪਿਆਰਾ ਹੈ"
+            }
+        },
+        "ariaLabel": "ਇਸ ਮੋਬਾਈਲ ਐਪਲੀਕੇਸ਼ਨ ਨਾਲ ਆਪਣੀ ਸੰਤੁਸ਼ਟੀ ਦਾ ਪੱਧਰ ਚੁਣੋ"
+    },
+    "commentInput": {
+        "description": "ਵਿਕਲਪਿਕ ਤੌਰ 'ਤੇ ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਵੀ ਵਾਧੂ ਟਿੱਪਣੀਆਂ ਪ੍ਰਦਾਨ ਕਰੋ।",
+        "label": "ਟਿੱਪਣੀ",
+        "ariaLabel": "ਵਿਕਲਪਿਕ ਤੌਰ 'ਤੇ, ਵਾਧੂ ਟਿੱਪਣੀਆਂ"
+    },
+    "playingBooksInput": {
+        "errorMessage": "ਕਿਰਪਾ ਕਰਕੇ ਸੰਤੁਸ਼ਟੀ ਦਾ ਪੱਧਰ ਚੁਣੋ।",
+        "description": "ਤੁਸੀਂ ਖੇਡਣ ਵਾਲੀਆਂ ਕਿਤਾਬਾਂ ਕਿਵੇਂ ਲੱਭੀਆਂ?",
+        "label": "ਕਿਤਾਬਾਂ ਚਲਾਉਣਾ",
+        "levels": {
+            "1": {
+                "displayName": "ਕੰਮ ਨਹੀਂ ਕੀਤਾ",
+                "ariaLabel": "ਕੰਮ ਨਹੀਂ ਕੀਤਾ"
+            },
+            "2": {
+                "displayName": "ਮਹਾਨ ਨਹੀਂ",
+                "ariaLabel": "ਮਹਾਨ ਨਹੀਂ"
+            },
+            "3": {
+                "displayName": "ਠੀਕ ਹੈ",
+                "ariaLabel": "ਠੀਕ ਹੈ"
+            },
+            "4": {
+                "displayName": "ਇਹ ਆਸਾਨ ਹੈ",
+                "ariaLabel": "ਇਹ ਆਸਾਨ ਹੈ"
+            },
+            "5": {
+                "displayName": "ਪਿਆਰਾ ਹੈ",
+                "ariaLabel": "ਪਿਆਰਾ ਹੈ"
+            }
+        },
+        "ariaLabel": "ਕਿਤਾਬ ਦੇ ਪਲੇਬੈਕ ਨਾਲ ਆਪਣੀ ਸੰਤੁਸ਼ਟੀ ਦੀ ਚੋਣ ਕਰੋ"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "ਕਿਰਪਾ ਕਰਕੇ ਸੰਤੁਸ਼ਟੀ ਦਾ ਪੱਧਰ ਚੁਣੋ।",
+        "description": "ਤੁਹਾਨੂੰ ਇੱਕ ਤੋਂ ਵੱਧ ਪਾਠਕ ਕਿਵੇਂ ਪਸੰਦ ਆਏ?",
+        "label": "ਕਈ ਪਾਠਕ",
+        "levels": {
+            "1": {
+                "displayName": "ਕੰਮ ਨਹੀਂ ਕੀਤਾ",
+                "ariaLabel": "ਕੰਮ ਨਹੀਂ ਕੀਤਾ"
+            },
+            "2": {
+                "displayName": "ਮਹਾਨ ਨਹੀਂ",
+                "ariaLabel": "ਮਹਾਨ ਨਹੀਂ"
+            },
+            "3": {
+                "displayName": "ਠੀਕ ਹੈ",
+                "ariaLabel": "ਠੀਕ ਹੈ"
+            },
+            "4": {
+                "displayName": "ਇਹ ਆਸਾਨ ਹੈ",
+                "ariaLabel": "ਇਹ ਆਸਾਨ ਹੈ"
+            },
+            "5": {
+                "displayName": "ਪਿਆਰਾ ਹੈ",
+                "ariaLabel": "ਪਿਆਰਾ ਹੈ"
+            }
+        },
+        "ariaLabel": "ਪ੍ਰਤੀ ਕਿਤਾਬ ਕਈ ਪਾਠਕ ਹੋਣ ਨਾਲ ਆਪਣੀ ਸੰਤੁਸ਼ਟੀ ਦੀ ਚੋਣ ਕਰੋ"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "ਕਿਰਪਾ ਕਰਕੇ ਸੰਤੁਸ਼ਟੀ ਦਾ ਪੱਧਰ ਚੁਣੋ।",
+        "description": "ਤੁਹਾਨੂੰ ਕਿਤਾਬਾਂ ਬਣਾਉਣ ਦਾ ਪਤਾ ਕਿਵੇਂ ਲੱਗਿਆ?",
+        "label": "ਕਿਤਾਬਾਂ ਬਣਾਉਣਾ",
+        "levels": {
+            "1": {
+                "displayName": "ਕੰਮ ਨਹੀਂ ਕੀਤਾ",
+                "ariaLabel": "ਕੰਮ ਨਹੀਂ ਕੀਤਾ"
+            },
+            "2": {
+                "displayName": "ਮਹਾਨ ਨਹੀਂ",
+                "ariaLabel": "ਮਹਾਨ ਨਹੀਂ"
+            },
+            "3": {
+                "displayName": "ਠੀਕ ਹੈ",
+                "ariaLabel": "ਠੀਕ ਹੈ"
+            },
+            "4": {
+                "displayName": "ਇਹ ਆਸਾਨ ਹੈ",
+                "ariaLabel": "ਇਹ ਆਸਾਨ ਹੈ"
+            },
+            "5": {
+                "displayName": "ਪਿਆਰਾ ਹੈ",
+                "ariaLabel": "ਪਿਆਰਾ ਹੈ"
+            }
+        },
+        "ariaLabel": "ਕਿਤਾਬ ਬਣਾਉਣ ਦੀ ਪ੍ਰਕਿਰਿਆ ਨਾਲ ਆਪਣੀ ਸੰਤੁਸ਼ਟੀ ਦੀ ਚੋਣ ਕਰੋ"
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "保存された本「%{bookTitle}」",
+        "validationFailed": "検証に失敗しました",
+        "bookSaveFailed": "本の保存に失敗しました"
+    },
+    "bookTitleInput": {
+        "description": "本のタイトル。",
+        "label": "本のタイトル",
+        "placeholder": "本のタイトル",
+        "ariaLabel": "本のタイトル"
+    },
+    "readers": {
+        "label": "読者",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "この新しいリーダーの表示名",
+                "buttons": {
+                    "cancel": {"ariaLabel": "新しいリーダーの追加をキャンセルします"},
+                    "add": {"ariaLabel": "新しいリーダーを追加する"}
+                },
+                "description": "この新しいリーダーの表示名を入力してください。",
+                "title": "新しいリーダーを追加",
+                "inputPlaceholder": "読者名"
+            },
+            "ariaLabel": "新しいリーダーを追加する"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "ページ変更オーディオを再生する前に待機するミリ秒数。",
+            "label": "ページ変更前の音声",
+            "placeholder": "ページ変更オーディオを再生する前のミリ秒数",
+            "ariaLabel": "ページ変更オーディオを再生する前に待機するミリ秒数"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "ページ変更オーディオの再生後に待機するミリ秒数。",
+            "label": "ページ変更後の音声",
+            "placeholder": "ページ変更オーディオを再生してからのミリ秒数",
+            "ariaLabel": "ページ変更オーディオの再生後に待機するミリ秒数"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "ページオーディオを再生する前に待機するミリ秒数。",
+            "label": "ページオーディオの前",
+            "placeholder": "ページの音声を再生する前のミリ秒数",
+            "ariaLabel": "ページの音声を再生する前に待機するミリ秒数"
+        },
+        "label": "遅延"
+    },
+    "bookIconImageSelector": {
+        "description": "本のアイコンとして使用する画像。",
+        "label": "本のアイコン",
+        "accessibleImageDisplayName": "本のアイコン"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "初めて本を起動したときに表示される画像。",
+        "label": "本のスプラッシュ画像",
+        "accessibleImageDisplayName": "本のスプラッシュ"
+    },
+    "confirmations": {"goBack": {
+        "title": "変更を残す",
+        "message": "保存する前に終了してもよろしいですか?"
+    }},
+    "pageChangeAudio": {
+        "description": "ページを変更するときに再生されるオーディオ。",
+        "label": "ページ変更音声",
+        "presetAudioModalPicker": {
+            "headerLabel": "ページを選択 音声を変更",
+            "ariaLabel": "プリセットページのリストから選択します オーディオオプションを変更します",
+            "accessibleAudioDisplayName": "ページ変更"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "本の読み込みに失敗しました。",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "遅延を負の値にすることはできません",
+            "bookTitleMissing": "本のタイトルは必須です",
+            "readerDisplayNameMissing": "リーダーの表示名は必須です",
+            "bookIconNotValid": "本のアイコンは必須です",
+            "pageTextMissing": "ページテキストは必須です",
+            "delayBeforePlayingPageAudioNegative": "遅延を負の値にすることはできません",
+            "pagesMissing": "少なくとも 1 ページが必要です",
+            "pageImageNotValid": "ページ画像は必須です",
+            "delayBeforePlayingPageChangeAudioNegative": "遅延を負の値にすることはできません",
+            "bookSplashImageNotValid": "本のスプラッシュ画像は必須です",
+            "readerIntroAudioNotValid": "リーダーのイントロ音声は有効なファイルではありません",
+            "pageAudioNotValid": "ページ音声は必須です",
+            "pageChangeAudioNotValid": "ページ切り替え音声が必要です",
+            "delayAfterPlayingPageChangeAudioNotInteger": "遅延は整数でなければなりません",
+            "delayBeforePlayingPageAudioNotInteger": "遅延は整数でなければなりません",
+            "delayBeforePlayingPageChangeAudioNotInteger": "遅延は整数でなければなりません",
+            "delayBeforePlayingPageAudioRequired": "遅延が必要です",
+            "readerImageNotValid": "リーダー画像は必須です",
+            "delayBeforePlayingPageChangeAudioRequired": "遅延が必要です",
+            "delayAfterPlayingPageChangeAudioRequired": "遅延が必要です"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "本のソース URL。",
+            "label": "ソースURL",
+            "placeholder": "ソースURL",
+            "ariaLabel": "本のソースURL"
+        },
+        "authorInput": {
+            "description": "本の著者の名前。",
+            "label": "著者名",
+            "placeholder": "本の著者",
+            "ariaLabel": "本の著者の名前"
+        },
+        "illustratorInput": {
+            "description": "その本のイラストレーターの名前。",
+            "label": "イラストレーター名",
+            "placeholder": "本のイラストレーター",
+            "ariaLabel": "その本のイラストレーターの名前"
+        },
+        "publisherInput": {
+            "description": "本の出版社の名前。",
+            "label": "出版社名",
+            "placeholder": "本の出版社",
+            "ariaLabel": "本の出版社の名前"
+        },
+        "label": "ソース",
+        "isbnInput": {
+            "description": "書籍の国際標準書籍番号。",
+            "label": "ISBN",
+            "placeholder": "本のISBN",
+            "ariaLabel": "国際標準図書番号"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "新しいページを追加する"},
+        "label": "ページ"
+    }
+}

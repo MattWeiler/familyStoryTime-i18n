@@ -1,0 +1,33 @@
+{
+    "intro": "Stworzyłem tę aplikację, aby pomóc dzieciom w ich czytelniczej podróży, ale także aby móc czytać im historie przez bliskich, którzy nie mogą być przy nich.",
+    "title": "Czas opowieści rodzinnej",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Niech Twoje historie będą czytane przez Twojego ulubionego gawędziarza, nawet jeśli nie może go tam być.",
+            "title": "Znane głosy"
+        },
+        "paragraph_3": {
+            "content_1": "Książki mogą być automatycznie czytane podczas czytania.",
+            "title": "Ćwicz czytanie"
+        },
+        "paragraph_2": {
+            "content_1": "Digitalizuj swoje ulubione książki, aby przetrwały lata.",
+            "title": "Zachowaj ulubione"
+        },
+        "paragraph_1": {
+            "content_2": "Trzymaj wszystkie swoje ulubione książki w jednym miejscu, aby mieć do nich łatwy dostęp w domu lub w podróży.",
+            "content_1": "Miłej lektury w gronie rodziny.",
+            "title": "Miłego czytania"
+        },
+        "paragraph_6": {
+            "content_2": "Po włączeniu właściciel urządzenia musi odblokować aplikację przy użyciu swoich danych biometrycznych (w zależności od urządzenia), aby uzyskać dostęp do wrażliwych aspektów aplikacji.",
+            "content_1": "Aplikacja posiada funkcję blokady rodzicielskiej.",
+            "title": "Blokada rodzicielska"
+        },
+        "paragraph_5": {
+            "content_2": "Historie można eksportować pojedynczo lub wszystkie na raz.",
+            "content_1": "Twórz własne historie i udostępniaj je znajomym i rodzinie.",
+            "title": "Udział"
+        }
+    }
+}

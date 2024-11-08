@@ -1,0 +1,9 @@
+{
+    "mission": "Wir möchten dazu beitragen, Ihre Lieblingsgeschichten zu bewahren, die Ihre Lieben lesen.",
+    "subtitle": "Eine unterhaltsame Anwendung, die Kindern das Lesen erleichtert.",
+    "paragraphs": {"1": "Kinder können sich ihre Lieblingsgeschichten anhören, die von geliebten Menschen vorgelesen werden, auch wenn diese weit weg sind oder verstorben sind."},
+    "accessTutorial": {
+        "messages": {"1": "Sie können jederzeit über das Hamburger-Menü oben links in der Anwendung auf dieses Tutorial zugreifen."},
+        "title": "Greifen Sie auf das Tutorial zu"
+    }
+}

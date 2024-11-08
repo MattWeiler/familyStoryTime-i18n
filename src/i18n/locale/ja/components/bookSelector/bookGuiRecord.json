@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "選択",
+                "ariaLabel": "本 %{bookTitle} を選択してください"
+            },
+            "edit": {
+                "title": "編集",
+                "ariaLabel": "本 %{bookTitle} を編集してください"
+            },
+            "delete": {
+                "title": "消去",
+                "ariaLabel": "本 %{bookTitle} を削除します"
+            },
+            "export": {
+                "title": "輸出",
+                "ariaLabel": "本 %{bookTitle} をエクスポートします"
+            }
+        },
+        "ariaLabel": "本 %{bookTitle} のコンテキスト メニューを開きます"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} ページ",
+            "one": "%{count} ページ"
+        },
+        "ariaLabel": {
+            "other": "%{count} ページ",
+            "one": "%{count} ページ"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "%{bookTitle} の本を選択してください",
+        "selected": "%{bookTitle} 書籍の選択を解除します"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} 人の読者",
+            "one": "%{count} 人の読者"
+        },
+        "ariaLabel": {
+            "other": "この本 %{bookTitle} には %{count} 人の読者がいます",
+            "one": "本 %{bookTitle} には %{count} 人の読者がいます"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "ストーリーを読む: %{bookTitle}",
+        "selectionMode": "%{bookTitle} 本"
+    }
+}

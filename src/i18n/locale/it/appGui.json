@@ -1,0 +1,43 @@
+{"hamburgerMenu": {
+    "applicationTitle": "Tempo di storie di famiglia",
+    "links": {
+        "feedback": {
+            "text": "Feedback",
+            "ariaLabel": "vai alla schermata di feedback"
+        },
+        "settings": {
+            "text": "Impostazioni",
+            "ariaLabel": "vai alla schermata delle impostazioni"
+        },
+        "bookSelector": {
+            "text": "Angolo lettura",
+            "ariaLabel": "vai alla schermata dell'angolo lettura"
+        },
+        "bookBuilder": {
+            "text": "Costruttore di libri",
+            "ariaLabel": "vai alla schermata di creazione del libro"
+        },
+        "about": {
+            "text": "Chi siamo",
+            "ariaLabel": "vai alla schermata Chi siamo"
+        },
+        "developerStatus": {
+            "hidden": {
+                "text": "Mostra lo stato dello sviluppatore",
+                "ariaLabel": "mostra lo stato dello sviluppatore"
+            },
+            "showing": {
+                "text": "Nascondi stato sviluppatore",
+                "ariaLabel": "nascondere lo stato di sviluppatore"
+            }
+        },
+        "tutorial": {
+            "text": "Esercitazione",
+            "ariaLabel": "visualizzare l'esercitazione"
+        },
+        "bookStore": {
+            "text": "Negozio di libri",
+            "ariaLabel": "vai alla schermata del negozio di libri"
+        }
+    }
+}}

@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "Nehmen Sie Ihr eigenes %{audioDisplayName}-Audio auf"},
+    "toasts": {
+        "audioFileLoading": {"failure": "Audio konnte nicht geladen werden"},
+        "editInitFailed": "Audio konnte nicht bearbeitet werden",
+        "recordingFailed": "Audio konnte nicht aufgenommen werden"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Klare Bestätigung",
+            "message": "Sind Sie sicher, dass Sie das ausgewählte Audio löschen möchten?"
+        },
+        "ariaLabel": "Löschen Sie das ausgewählte %{audioDisplayName}-Audio"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "Wählen Sie ein voreingestelltes %{audioDisplayName}-Audio aus"},
+    "selectAudioFileButton": {"ariaLabel": "Wählen Sie Ihre eigene %{audioDisplayName}-Audiodatei aus"},
+    "playButton": {
+        "stopped": {"ariaLabel": "Spielen Sie das %{audioDisplayName}-Audio ab"},
+        "recording": {"ariaLabel": "Stoppen Sie die Aufnahme von %{audioDisplayName}"},
+        "playing": {"ariaLabel": "Stoppen Sie die Wiedergabe von %{audioDisplayName} Audio"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "Bearbeiten Sie das aktuell geladene %{audioDisplayName}-Audio",
+        "cancelConfirmation": {
+            "title": "Bearbeitung verwerfen",
+            "message": "Sind Sie sicher, dass Sie alle von Ihnen vorgenommenen Änderungen verwerfen möchten?",
+            "buttonAriaLabels": {
+                "no": "Nein, bleiben Sie und bearbeiten Sie weiter",
+                "yes": "Ja, Änderungen verwerfen"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Hochgeladene Datei: %{filename}",
+        "recording": "Aufnahme",
+        "preset": "Voreinstellung: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Zugriff verweigert",
+        "message": "Sie haben die Berechtigung zum Zugriff auf Ihr Mikrofon verweigert."
+    }}
+}

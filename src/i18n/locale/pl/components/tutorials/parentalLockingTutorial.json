@@ -1,0 +1,34 @@
+{
+    "summary": "Przed przekazaniem urządzenia dziecku możesz zablokować aplikację, aby uniemożliwić dzieciom usunięcie jakichkolwiek książek lub wprowadzenie innych zmian.",
+    "enabling": {
+        "messages": {
+            "1": "Aby włączyć funkcję blokady rodzicielskiej, otwórz menu hamburgera i naciśnij ikonę otwartej kłódki w prawym górnym rogu.",
+            "2": "Spowoduje to wyświetlenie monitu o podanie potwierdzenia biometrycznego, co zainicjuje funkcję blokady rodzicielskiej.",
+            "3": "Teraz, gdy funkcja blokady rodzicielskiej została włączona, naciśnięcie ikony otwartej kłódki spowoduje zablokowanie aplikacji.",
+            "4": "Gdy funkcja blokady rodzicielskiej jest włączona, przy każdym uruchomieniu aplikacji będzie ona w trybie zablokowanym."
+        },
+        "title": "Włącz blokadę rodzicielską"
+    },
+    "disabling": {
+        "messages": {
+            "1": "Aby wyłączyć funkcję blokady rodzicielskiej, otwórz menu hamburgera i naciśnij element ustawień na dole.",
+            "2": "Na stronie ustawień odznacz opcję \u201eBlokada rodzicielska\u201d."
+        },
+        "title": "Wyłącz blokadę rodzicielską"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Gdy aplikacja jest zablokowana, niektóre funkcje aplikacji, takie jak menu kontekstowe lub przyciski umożliwiające dodawanie/usuwanie książek, nie będą wyświetlane.",
+            "2": "Spowoduje to przejście aplikacji w tryb tylko do odczytu, który jest bezpieczny dla dzieci.",
+            "3": "Aby uzyskać dostęp do tych ukrytych funkcji, musisz odblokować aplikację."
+        },
+        "title": "Zablokowane funkcje"
+    },
+    "locked": {
+        "messages": {
+            "1": "Aby odblokować aplikację, otwórz menu hamburgera i naciśnij ikonę zamkniętej kłódki w prawym górnym rogu.",
+            "2": "Spowoduje to wyświetlenie monitu o podanie potwierdzenia biometrycznego, które odblokuje aplikację."
+        },
+        "title": "Odblokuj aplikację"
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "invio di posta elettronica non supportato",
+        "submissionFailed": "invio feedback non riuscito",
+        "submissionSuccess": "feedback inviato"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Seleziona un livello di soddisfazione.",
+        "description": "Con quale probabilità condividerai la nostra app?",
+        "label": "Condivisione con gli altri",
+        "levels": {
+            "1": {
+                "displayName": "Non c'è modo",
+                "ariaLabel": "non c'è modo"
+            },
+            "2": {
+                "displayName": "Non probabile",
+                "ariaLabel": "non probabile"
+            },
+            "3": {
+                "displayName": "Forse",
+                "ariaLabel": "Forse"
+            },
+            "4": {
+                "displayName": "SÌ",
+                "ariaLabel": "SÌ"
+            },
+            "5": {
+                "displayName": "Già",
+                "ariaLabel": "già"
+            }
+        },
+        "ariaLabel": "seleziona la probabilità che hai di condividere questa applicazione mobile con altri"
+    },
+    "submitButton": {
+        "text": "Invia feedback",
+        "ariaLabel": "invia il tuo feedback"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Seleziona un livello di soddisfazione.",
+        "description": "Quanto ti è piaciuta/non ti è piaciuta la nostra app?",
+        "label": "Soddisfazione dell'app",
+        "levels": {
+            "1": {
+                "displayName": "Lo odio",
+                "ariaLabel": "lo odio"
+            },
+            "2": {
+                "displayName": "Deluso",
+                "ariaLabel": "deluso"
+            },
+            "3": {
+                "displayName": "Neutro",
+                "ariaLabel": "neutro"
+            },
+            "4": {
+                "displayName": "Grande",
+                "ariaLabel": "Grande"
+            },
+            "5": {
+                "displayName": "Lo adoro",
+                "ariaLabel": "lo adoro"
+            }
+        },
+        "ariaLabel": "seleziona il tuo livello di soddisfazione con questa applicazione mobile"
+    },
+    "commentInput": {
+        "description": "Facoltativamente, fornisci eventuali commenti aggiuntivi.",
+        "label": "Commento",
+        "ariaLabel": "facoltativamente, commenti aggiuntivi"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Seleziona un livello di soddisfazione.",
+        "description": "Come hai scoperto i libri che giocano?",
+        "label": "Giocare a libri",
+        "levels": {
+            "1": {
+                "displayName": "Non ha funzionato",
+                "ariaLabel": "non ha funzionato"
+            },
+            "2": {
+                "displayName": "Non eccezionale",
+                "ariaLabel": "non eccezionale"
+            },
+            "3": {
+                "displayName": "Va bene",
+                "ariaLabel": "va bene"
+            },
+            "4": {
+                "displayName": "È facile",
+                "ariaLabel": "è facile"
+            },
+            "5": {
+                "displayName": "Lo adoro",
+                "ariaLabel": "lo adoro"
+            }
+        },
+        "ariaLabel": "seleziona il tuo grado di soddisfazione rispetto alla riproduzione del libro"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Seleziona un livello di soddisfazione.",
+        "description": "Ti è piaciuto avere più lettori?",
+        "label": "Lettori multipli",
+        "levels": {
+            "1": {
+                "displayName": "Non ha funzionato",
+                "ariaLabel": "non ha funzionato"
+            },
+            "2": {
+                "displayName": "Non eccezionale",
+                "ariaLabel": "non eccezionale"
+            },
+            "3": {
+                "displayName": "Va bene",
+                "ariaLabel": "va bene"
+            },
+            "4": {
+                "displayName": "È facile",
+                "ariaLabel": "è facile"
+            },
+            "5": {
+                "displayName": "Lo adoro",
+                "ariaLabel": "lo adoro"
+            }
+        },
+        "ariaLabel": "seleziona il tuo grado di soddisfazione nell'avere più lettori per libro"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Seleziona un livello di soddisfazione.",
+        "description": "Come ti sei trovato a creare libri?",
+        "label": "Creazione di libri",
+        "levels": {
+            "1": {
+                "displayName": "Non ha funzionato",
+                "ariaLabel": "non ha funzionato"
+            },
+            "2": {
+                "displayName": "Non eccezionale",
+                "ariaLabel": "non eccezionale"
+            },
+            "3": {
+                "displayName": "Va bene",
+                "ariaLabel": "va bene"
+            },
+            "4": {
+                "displayName": "È facile",
+                "ariaLabel": "è facile"
+            },
+            "5": {
+                "displayName": "Lo adoro",
+                "ariaLabel": "lo adoro"
+            }
+        },
+        "ariaLabel": "seleziona il tuo grado di soddisfazione riguardo al processo di creazione del libro"
+    }
+}

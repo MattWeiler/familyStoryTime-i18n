@@ -1,0 +1,8 @@
+{
+    "applicationSecurityButton": {"ariaLabel": {
+        "unlockParentMode": "ปลดล็อคแอปพลิเคชั่นเพื่อใช้งานโดยผู้ปกครอง",
+        "initParentMode": "เปิดใช้งานการล็อคโดยผู้ปกครอง",
+        "lockParentMode": "เปิดใช้งานการล็อคผู้ปกครอง"
+    }},
+    "hamburgerButton": {"ariaLabel": "แสดงเมนูแฮมเบอร์เกอร์"}
+}

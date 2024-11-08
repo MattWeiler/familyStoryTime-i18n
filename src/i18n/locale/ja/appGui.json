@@ -1,0 +1,43 @@
+{"hamburgerMenu": {
+    "applicationTitle": "家族の物語の時間",
+    "links": {
+        "feedback": {
+            "text": "フィードバック",
+            "ariaLabel": "フィードバック画面に移動します"
+        },
+        "settings": {
+            "text": "設定",
+            "ariaLabel": "設定画面に行く"
+        },
+        "bookSelector": {
+            "text": "読書コーナー",
+            "ariaLabel": "読書コーナー画面へ"
+        },
+        "bookBuilder": {
+            "text": "ブックビルダー",
+            "ariaLabel": "ブックビルダー画面に移動します"
+        },
+        "about": {
+            "text": "私たちについて",
+            "ariaLabel": "私たちについての画面に移動します"
+        },
+        "developerStatus": {
+            "hidden": {
+                "text": "開発者のステータスを表示",
+                "ariaLabel": "開発者のステータスを表示する"
+            },
+            "showing": {
+                "text": "開発者ステータスを非表示にする",
+                "ariaLabel": "開発者ステータスを非表示にする"
+            }
+        },
+        "tutorial": {
+            "text": "チュートリアル",
+            "ariaLabel": "チュートリアルを見る"
+        },
+        "bookStore": {
+            "text": "本屋",
+            "ariaLabel": "ブックストア画面に移動します"
+        }
+    }
+}}

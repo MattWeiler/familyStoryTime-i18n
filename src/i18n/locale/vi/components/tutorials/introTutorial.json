@@ -1,0 +1,9 @@
+{
+    "mission": "Chúng tôi muốn giúp lưu giữ những câu chuyện yêu thích của bạn, được những người thân yêu của bạn đọc.",
+    "subtitle": "Một ứng dụng thú vị để giúp trẻ đọc.",
+    "paragraphs": {"1": "Trẻ em có thể nghe những câu chuyện yêu thích của mình được đọc bởi những người thân yêu, ngay cả khi những người thân yêu đó ở xa hoặc đã qua đời."},
+    "accessTutorial": {
+        "messages": {"1": "Bạn có thể truy cập hướng dẫn này bất cứ lúc nào thông qua menu hamburger ở phía trên bên trái của ứng dụng."},
+        "title": "Hướng dẫn truy cập"
+    }
+}

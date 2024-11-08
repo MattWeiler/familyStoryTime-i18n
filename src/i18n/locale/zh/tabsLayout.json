@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "读书角",
+        "ariaLabel": "在这里阅读你的书"
+    },
+    "bookStore": {
+        "text": "书店",
+        "ariaLabel": "参观书店"
+    }
+}

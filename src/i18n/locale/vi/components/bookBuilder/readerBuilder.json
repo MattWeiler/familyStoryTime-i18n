@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Âm thanh tùy chọn để phát trước khi đọc trang 1.",
+        "label": {
+            "withDisplayName": "Âm thanh giới thiệu của %{readerDisplayName}",
+            "noDisplayName": "Âm thanh giới thiệu"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "Giới thiệu về người đọc %{readerDisplayName}",
+            "noDisplayName": "phần giới thiệu về trình đọc có ID %{readerId}"
+        }
+    },
+    "readerImage": {
+        "description": "Hình ảnh để hiển thị cho người đọc này.",
+        "accessibleImageDisplayName": "hình ảnh của đầu đọc %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Thao tác này sẽ xóa tất cả âm thanh trang được ghi cho trình đọc này.",
+            "additionalMessage2": "ĐIỀU NÀY KHÔNG THỂ HOÀN TÁC!",
+            "title": "Xác nhận xóa",
+            "message": {
+                "withDisplayName": "Bạn có chắc chắn muốn xóa trình đọc \"%{readerDisplayName}\" không?",
+                "noDisplayName": "Bạn có chắc chắn muốn xóa trình đọc này không?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "xóa đầu đọc %{readerDisplayName}",
+            "noDisplayName": "xóa đầu đọc có ID %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "tên hiển thị cho người đọc",
+                "noDisplayName": "tên hiển thị cho người đọc"
+            },
+            "title": {
+                "withDisplayName": "Cập nhật tên hiển thị",
+                "noDisplayName": "Đặt tên hiển thị"
+            },
+            "message": {
+                "withDisplayName": "Bạn muốn thay đổi tên hiển thị của độc giả này thành gì?",
+                "noDisplayName": "Tên hiển thị của đầu đọc này là gì?"
+            },
+            "inputPlaceholder": "tên người đọc"
+        },
+        "ariaLabel": {
+            "withDisplayName": "thay đổi tên hiển thị cho đầu đọc %{readerDisplayName}",
+            "noDisplayName": "thay đổi tên hiển thị cho đầu đọc bằng ID %{readerId}"
+        }
+    }
+}

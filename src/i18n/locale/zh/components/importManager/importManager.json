@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "导入已在运行，请稍后再试",
+        "download": {"failed": "下载\u201c%{bookName}\u201d失败。"},
+        "install": {
+            "failed": "导入\u201c%{bookName}\u201d失败",
+            "successful": "成功导入\u201c%{bookName}\u201d"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "取消",
+            "ariaLabel": "取消导入"
+        },
+        "install": {
+            "textLabel": "安装",
+            "ariaLabel": "安装选定的图书：%{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "分析...",
+        "downloading": "正在下载...",
+        "installing": "安装...",
+        "cancelling": "取消..."
+    },
+    "nothingToInstall": "没有什么可导入的:(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "该阅读器已经是已安装书籍的一部分。\n\n"},
+            "checkbox": {"ariaLabel": "在导入中包含阅读器 %{readerDisplayName}"}
+        },
+        "checkbox": {"ariaLabel": "在导入中包含 %{bookName} 本书"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "这本书已经在您的设备上。\n\n"},
+                "full": {
+                    "withReaders": {"label": "如果您选择覆盖，当前的书将被新书替换。\n\n"},
+                    "noReaders": {"label": "这本书已经在您的设备上。\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "该文件仅包含音频，并且该书未安装在您的设备上。\n\n"},
+                "full": {
+                    "withReaders": {"label": "您的设备上没有这本书。\n\n"},
+                    "noReaders": {"label": "您的设备上没有这本书。\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "合并",
+                    "ariaLabel": "通过添加新读者并用新读者覆盖现有读者来合并图书 %{bookName}"
+                },
+                "overwrite": {
+                    "label": "覆盖",
+                    "ariaLabel": "覆盖现有图书 %{bookName}"
+                }
+            },
+            "ariaLabel": "选择图书 %{bookName} 使用的导入策略"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "不要取消导入"},
+            "yes": {"ariaLabel": "取消导入"}
+        },
+        "title": "确认 取消 导入",
+        "message": "您确定要取消导入吗？"
+    }},
+    "titles": {
+        "booksToInstall": "要安装的书籍",
+        "failedToInstall": "书籍安装失败"
+    }
+}

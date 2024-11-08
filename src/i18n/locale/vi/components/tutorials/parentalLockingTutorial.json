@@ -1,0 +1,34 @@
+{
+    "summary": "Trước khi giao thiết bị cho con, bạn có thể khóa ứng dụng để ngăn trẻ xóa bất kỳ cuốn sách nào hoặc thực hiện các thay đổi khác.",
+    "enabling": {
+        "messages": {
+            "1": "Để bật tính năng khóa của phụ huynh, hãy mở menu hamburger và nhấn biểu tượng khóa mở ở trên cùng bên phải.",
+            "2": "Thao tác này sẽ nhắc bạn cung cấp xác nhận sinh trắc học để khởi chạy tính năng khóa dành cho phụ huynh.",
+            "3": "Bây giờ tính năng khóa của phụ huynh đã được bật, nhấn biểu tượng khóa mở sẽ khóa ứng dụng.",
+            "4": "Khi bật tính năng khóa của phụ huynh, mỗi lần khởi chạy ứng dụng sẽ ở chế độ khóa."
+        },
+        "title": "Kích hoạt khóa cha mẹ"
+    },
+    "disabling": {
+        "messages": {
+            "1": "Để tắt tính năng khóa của phụ huynh, hãy mở menu hamburger và nhấn mục cài đặt ở dưới cùng.",
+            "2": "Trên trang cài đặt, bỏ chọn tính năng \"Khóa cha mẹ\"."
+        },
+        "title": "Tắt khóa của cha mẹ"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Khi ứng dụng bị khóa, một số tính năng của ứng dụng sẽ không được hiển thị, chẳng hạn như menu ngữ cảnh hoặc các nút cho phép bạn thêm/xóa sách.",
+            "2": "Điều này đặt ứng dụng ở chế độ chỉ đọc, an toàn cho trẻ em sử dụng.",
+            "3": "Để truy cập các tính năng ẩn đó, bạn sẽ phải mở khóa ứng dụng."
+        },
+        "title": "Tính năng bị khóa"
+    },
+    "locked": {
+        "messages": {
+            "1": "Để mở khóa ứng dụng, hãy mở menu hamburger và nhấn biểu tượng khóa đóng ở trên cùng bên phải.",
+            "2": "Điều này sẽ nhắc bạn cung cấp xác nhận sinh trắc học để mở khóa ứng dụng."
+        },
+        "title": "Mở khóa ứng dụng"
+    }
+}

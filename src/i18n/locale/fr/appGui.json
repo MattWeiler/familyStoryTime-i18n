@@ -1,0 +1,43 @@
+{"hamburgerMenu": {
+    "applicationTitle": "L\u2019heure du conte en famille",
+    "links": {
+        "feedback": {
+            "text": "Retour",
+            "ariaLabel": "accéder à l'écran de commentaires"
+        },
+        "settings": {
+            "text": "Paramètres",
+            "ariaLabel": "allez à l'écran des paramètres"
+        },
+        "bookSelector": {
+            "text": "Coin lecture",
+            "ariaLabel": "accéder à l'écran du coin lecture"
+        },
+        "bookBuilder": {
+            "text": "Générateur de livres",
+            "ariaLabel": "accéder à l'écran de création de livre"
+        },
+        "about": {
+            "text": "À propos de nous",
+            "ariaLabel": "allez à l'écran à propos de nous"
+        },
+        "developerStatus": {
+            "hidden": {
+                "text": "Afficher le statut du développeur",
+                "ariaLabel": "afficher le statut du développeur"
+            },
+            "showing": {
+                "text": "Masquer le statut du développeur",
+                "ariaLabel": "masquer le statut de développeur"
+            }
+        },
+        "tutorial": {
+            "text": "Tutoriel",
+            "ariaLabel": "voir le tutoriel"
+        },
+        "bookStore": {
+            "text": "Librairie",
+            "ariaLabel": "aller à l'écran de la librairie"
+        }
+    }
+}}

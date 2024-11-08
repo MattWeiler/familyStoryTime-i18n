@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "quá trình nhập đã chạy, hãy thử lại sau",
+        "download": {"failed": "không tải xuống được \"%{bookName}\"."},
+        "install": {
+            "failed": "không nhập được \"%{bookName}\"",
+            "successful": "đã nhập thành công \"%{bookName}\""
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Hủy bỏ",
+            "ariaLabel": "hủy nhập khẩu"
+        },
+        "install": {
+            "textLabel": "Cài đặt",
+            "ariaLabel": "cài đặt những cuốn sách đã chọn: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "phân tích...",
+        "downloading": "đang tải xuống...",
+        "installing": "cài đặt ...",
+        "cancelling": "hủy bỏ..."
+    },
+    "nothingToInstall": "Không có gì để nhập :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Trình đọc này đã là một phần của cuốn sách được cài đặt.\n\n"},
+            "checkbox": {"ariaLabel": "để đưa trình đọc %{readerDisplayName} vào quá trình nhập"}
+        },
+        "checkbox": {"ariaLabel": "để đưa sách %{bookName} vào quá trình nhập"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Cuốn sách này đã có trên thiết bị của bạn.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Nếu bạn chọn ghi đè, sách hiện tại sẽ được thay thế bằng sách mới.\n\n"},
+                    "noReaders": {"label": "Cuốn sách này đã có trên thiết bị của bạn.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Tệp này chỉ chứa âm thanh và sách chưa được cài đặt trên thiết bị của bạn.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Cuốn sách này không có trên thiết bị của bạn.\n\n"},
+                    "noReaders": {"label": "Cuốn sách này không có trên thiết bị của bạn.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "hợp nhất",
+                    "ariaLabel": "hợp nhất sách %{bookName} bằng cách thêm người đọc mới và ghi đè người đọc hiện có bằng người đọc mới"
+                },
+                "overwrite": {
+                    "label": "ghi đè lên",
+                    "ariaLabel": "ghi đè lên cuốn sách hiện có %{bookName}"
+                }
+            },
+            "ariaLabel": "chọn chiến lược nhập nào sẽ sử dụng cho sách %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "đừng hủy việc nhập khẩu"},
+            "yes": {"ariaLabel": "hủy nhập khẩu"}
+        },
+        "title": "Xác nhận Hủy nhập",
+        "message": "Bạn có chắc chắn muốn hủy quá trình nhập không?"
+    }},
+    "titles": {
+        "booksToInstall": "Sách để cài đặt",
+        "failedToInstall": "Không cài đặt được sách"
+    }
+}

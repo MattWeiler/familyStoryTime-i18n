@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "독서코너",
+        "ariaLabel": "여기서 책을 읽어보세요"
+    },
+    "bookStore": {
+        "text": "서점",
+        "ariaLabel": "서점을 방문하다"
+    }
+}

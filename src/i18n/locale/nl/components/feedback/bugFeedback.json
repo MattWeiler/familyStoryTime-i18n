@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "e-mailen wordt niet ondersteund",
+        "submissionFailed": "bugverzending mislukt",
+        "submissionSuccess": "bug verzonden"
+    },
+    "submitButton": {
+        "text": "Bug indienen",
+        "ariaLabel": "geef de fout door"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Voeg de boeken toe die het probleem mogelijk veroorzaken.",
+            "label": "Boeken om bij te voegen"
+        },
+        "loadFailed": "het laden van boeken is mislukt",
+        "noBooksInstalled": "geen boeken geïnstalleerd",
+        "picker": {
+            "header": "Selecteer Boek(en)",
+            "ariaLabel": "selecteer welke boeken bij de bugfeedback moeten worden gevoegd"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "breng wijzigingen aan in de boeken die aan uw bugfeedback zijn gekoppeld"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Geef wat details over de bug.",
+        "description": "Geef details over de bug.",
+        "label": "Bugdetails",
+        "ariaLabel": "beschrijving van de fout"
+    }
+}

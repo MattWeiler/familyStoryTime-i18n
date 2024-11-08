@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "importen kører allerede, prøv igen senere",
+        "download": {"failed": "kunne ikke downloade \"%{bookName}\"."},
+        "install": {
+            "failed": "kunne ikke importere \"%{bookName}\"",
+            "successful": "importeret \"%{bookName}\""
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Ophæve",
+            "ariaLabel": "annullere importen"
+        },
+        "install": {
+            "textLabel": "Installere",
+            "ariaLabel": "installer valgte bøger: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "analyserer...",
+        "downloading": "downloader...",
+        "installing": "installerer...",
+        "cancelling": "annullerer..."
+    },
+    "nothingToInstall": "Intet at importere :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Denne læser er allerede en del af den installerede bog.\n\n"},
+            "checkbox": {"ariaLabel": "at inkludere læseren %{readerDisplayName} i importen"}
+        },
+        "checkbox": {"ariaLabel": "at inkludere %{bookName} bog i importen"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Denne bog er allerede på din enhed.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Hvis du vælger at overskrive, vil den nuværende bog blive erstattet med den nye.\n\n"},
+                    "noReaders": {"label": "Denne bog er allerede på din enhed.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Denne fil indeholder kun lyd, og bogen er ikke installeret på din enhed.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Denne bog er ikke på din enhed.\n\n"},
+                    "noReaders": {"label": "Denne bog er ikke på din enhed.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "fusionere",
+                    "ariaLabel": "flet bogen %{bookName} ved at tilføje nye læsere og overskrive eksisterende læsere med nye læsere"
+                },
+                "overwrite": {
+                    "label": "overskrive",
+                    "ariaLabel": "overskriv eksisterende bog %{bookName}"
+                }
+            },
+            "ariaLabel": "vælg hvilken importstrategi, der skal bruges til bogen %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "annuller ikke importen"},
+            "yes": {"ariaLabel": "annullere importen"}
+        },
+        "title": "Bekræft Annuller import",
+        "message": "Er du sikker på, at du vil annullere importen?"
+    }},
+    "titles": {
+        "booksToInstall": "Bøger der skal installeres",
+        "failedToInstall": "Kunne ikke installere bøger"
+    }
+}

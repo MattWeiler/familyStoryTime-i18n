@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Veldu",
+                "ariaLabel": "veldu bókina %{bookTitle}"
+            },
+            "edit": {
+                "title": "Breyta",
+                "ariaLabel": "breyta bókinni %{bookTitle}"
+            },
+            "delete": {
+                "title": "Eyða",
+                "ariaLabel": "eyða bókinni %{bookTitle}"
+            },
+            "export": {
+                "title": "Útflutningur",
+                "ariaLabel": "flytja út bókina %{bookTitle}"
+            }
+        },
+        "ariaLabel": "opnaðu samhengisvalmyndina fyrir bókina %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} síður",
+            "one": "%{count} síða"
+        },
+        "ariaLabel": {
+            "other": "%{count} síður",
+            "one": "%{count} síða"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "veldu %{bookTitle} bókina",
+        "selected": "afvelja %{bookTitle} bókina"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} lesendur",
+            "one": "%{count} lesandi"
+        },
+        "ariaLabel": {
+            "other": "bókin %{bookTitle} hefur %{count} lesendur",
+            "one": "bókin %{bookTitle} hefur %{count} lesanda"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "lestu söguna: %{bookTitle}",
+        "selectionMode": "%{bookTitle} bók"
+    }
+}

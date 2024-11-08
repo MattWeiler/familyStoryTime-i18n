@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "オーディオを再生する",
+            "ariaLabel": "オーディオを再生する"
+        },
+        "playing": {
+            "title": "音声を一時停止する",
+            "ariaLabel": "音声を一時停止する"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "画像全体を表示するにはズームアウトします。側面に黒いバーが表示される場合があります。",
+        "zoomedOut": "画面全体が画像で満たされていることを確認するためにズームインします。画像の一部が表示されない場合があります。"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "前のページに戻る",
+            "ariaLabel": "前のページに戻る"
+        },
+        "noPreviousPage": {
+            "title": "本の選択に戻る",
+            "ariaLabel": "本の選択に戻る"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "次のページに行く",
+            "ariaLabel": "次のページに行く"
+        },
+        "noNextPage": {
+            "title": "本の選択に戻る",
+            "ariaLabel": "本の選択に戻る"
+        }
+    }
+}

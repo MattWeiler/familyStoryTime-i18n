@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "tải sách không thành công"},
+        "import": {"failure": "nhập không thành công"},
+        "delete": {
+            "failure": "xóa không thành công",
+            "success": "cuốn sách đã xóa \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "không xóa được %{count} sách",
+                "one": "không xóa được 1 cuốn sách"
+            },
+            "success": {
+                "other": "đã xóa %{count} sách",
+                "one": "đã xóa 1 cuốn sách"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "sắp xếp theo số trang theo thứ tự giảm dần",
+                "descending": "sắp xếp theo số trang theo thứ tự tăng dần"
+            }},
+            "searchField": {
+                "placeholder": "tìm kiếm sách của bạn",
+                "ariaLabel": "tìm kiếm sách của bạn"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Xuất khẩu",
+                        "ariaLabel": "xuất sách đã chọn"
+                    },
+                    "delete": {
+                        "label": "Xóa bỏ",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "không, không xóa những cuốn sách đã chọn"},
+                                "yes": {"ariaLabel": "vâng, xóa những cuốn sách đã chọn"}
+                            },
+                            "title": "Xác nhận xóa",
+                            "message": {
+                                "other": "Bạn có chắc chắn muốn xóa %{count} sách đã chọn không?",
+                                "one": "Bạn có chắc chắn muốn xóa sách đã chọn không?"
+                            }
+                        },
+                        "ariaLabel": "xóa những cuốn sách đã chọn"
+                    }
+                },
+                "ariaLabel": "mở menu ngữ cảnh cho những cuốn sách đã chọn"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "sắp xếp theo tên sách giảm dần",
+                "descending": "sắp xếp theo tên sách tăng dần"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "sắp xếp theo số lượng người đọc theo thứ tự giảm dần",
+                "descending": "sắp xếp theo số lượng người đọc theo thứ tự tăng dần"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "thu nhỏ để xem nhiều mục cùng một lúc",
+                "zoomedOut": "phóng to để xem hình ảnh lớn hơn"
+            }}
+        },
+        "loadError": {
+            "text": "Không thể tải sách.",
+            "ariaLabel": "không tải được sách"
+        },
+        "noBooksFound": {
+            "message": "Không tìm thấy sách :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Hãy thử của chúng tôi",
+                    "linkName": "người xây dựng cuốn sách"
+                },
+                "availableBooks": {
+                    "message": "Kiểm tra của chúng tôi",
+                    "linkName": "cửa hàng sách"
+                }
+            }
+        }
+    },
+    "subtitle": "Mời các bạn đọc truyện vui vẻ nhé.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "tạo một cuốn sách",
+                "ariaLabel": "tạo một cuốn sách mới"
+            },
+            "importBooks": {
+                "label": "nhập khẩu sách",
+                "ariaLabel": "nhập một hoặc nhiều sách"
+            },
+            "bookStore": {
+                "label": "ghé thăm cửa hàng sách",
+                "ariaLabel": "ghé thăm cửa hàng sách của chúng tôi"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "đóng thêm menu sách",
+            "collapsed": "mở thêm menu sách"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "xóa ...\n",
+            "one": "xóa ...\n",
+            "none": "xóa ..."
+        }},
+        "export": {"label": {
+            "other": "xuất khẩu...\n",
+            "one": "xuất khẩu...\n",
+            "none": "xuất khẩu..."
+        }}
+    }},
+    "title": "Góc đọc sách",
+    "confirmations": {"deleteBook": {
+        "title": "Xác nhận xóa",
+        "message": "Bạn có chắc chắn muốn xóa cuốn sách \"%{bookTitle}?\""
+    }}
+}

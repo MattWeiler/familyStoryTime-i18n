@@ -1,0 +1,25 @@
+{
+    "summary": "Kun olet luonut kirjan, voit jakaa sen perheen ja ystävien kanssa.",
+    "exporting": {
+        "messages": {
+            "1": "Voit viedä yhden kirjan sen kontekstivalikon kautta tai useita kirjoja kerralla pitämällä pitkään painettuna valitaksesi useita kirjoja.",
+            "2": "Kun olet valinnut vietävät kirjat, voit valita tarkalleen, mitä viedään.",
+            "3": "Oletuksena koko kirja viedään, mutta voit valita, mitkä lukijat sisällytetään kirjan sisältöön, tai voit valita viedäksesi vain tietyt lukijat.",
+            "4": "Kun haluat vain lähettää tallentamasi lukijatiedot jollekulle, jolla on jo kirja, voit luoda paljon pienemmän tiedoston jaettavaksi sisällyttämällä vain tietyt lukijat."
+        },
+        "title": "Vientiä"
+    },
+    "importingMerging": {"messages": {
+        "1": "Kun tuot kirjan, joka on jo asennettu laitteellesi, voit valita, korvaako tuova kirja jo asennetun kirjan vai suoritetaanko yhdistäminen.",
+        "2": "Yhdistettäessä vain valitut lukijat lisätään jo asennettuun kirjaan.",
+        "3": "Jos yhdistettävät lukijat on jo asennettu laitteeseen, ne korvataan."
+    }},
+    "importing": {
+        "messages": {
+            "1": "\"Lukukulma\"-sivulla voit valita tuotavat kirjat valitsemalla \"tuo kirjoja\" -vaihtoehdon painamalla (+) -painiketta näytön oikeassa alakulmassa.",
+            "2": "Vaihtoehtoisesti voit lähettää kirjatiedoston \"Family Story Time\" -sovellukseen.",
+            "3": "Kun tuot kirjan, jota ei ole vielä asennettu laitteellesi, kirja asennetaan."
+        },
+        "title": "Tuodaan"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "intro": "Loin tämän sovelluksen auttaakseni lapsia heidän lukumatkallaan, mutta myös saadakseni tarinoita heidän läheisilleen, jotka eivät voi olla paikalla.",
+    "title": "Perhetarinoiden aika",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Pyydä suosikki tarinankertojasi lukemaan sinulle tarinasi, vaikka he eivät olisikaan paikalla.",
+            "title": "Tutut äänet"
+        },
+        "paragraph_3": {
+            "content_1": "Kirjat voivat lukea automaattisesti, kun luet mukana.",
+            "title": "Harjoittele lukemista"
+        },
+        "paragraph_2": {
+            "content_1": "Digitoi suosikkikirjasi, jotta ne kestävät vuosia.",
+            "title": "Pidä suosikkisi"
+        },
+        "paragraph_1": {
+            "content_2": "Pidä kaikki suosikkikirjasi yhdessä paikassa, jotta voit käyttää niitä helposti kotona tai tien päällä.",
+            "content_1": "Nauti lukemisesta perheenä.",
+            "title": "Nauti lukemisesta"
+        },
+        "paragraph_6": {
+            "content_2": "Kun tämä on käytössä, laitteen omistajan on avattava sovelluksen lukitus biometristen tietojensa avulla (riippuen laitteesta) päästäkseen sovelluksen arkaluontoisiin osiin.",
+            "content_1": "Sovelluksessa on lapsilukkotoiminto.",
+            "title": "Lapsilukko"
+        },
+        "paragraph_5": {
+            "content_2": "Tarinat voidaan viedä joko yksittäin tai kaikki kerralla.",
+            "content_1": "Luo omia tarinoita ja jaa ne ystävien ja perheen kanssa.",
+            "title": "Jakaa"
+        }
+    }
+}

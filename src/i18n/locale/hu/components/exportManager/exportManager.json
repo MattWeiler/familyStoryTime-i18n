@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "az exportálás már fut, próbálkozzon újra később"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "Mégsem",
+            "ariaLabel": "törölje az exportálást"
+        },
+        "export": {
+            "textLabel": "Export",
+            "ariaLabel": "kiválasztott könyvek exportálása"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "Mentse el %{count} könyvét",
+        "one": "Könyv mentése: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "elemezve...",
+        "packaging": "csomagolás...",
+        "cancelling": "lemondás..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "olvasók",
+                    "ariaLabel": "csak a %{bookTitle} könyv olvasó információit exportálja"
+                },
+                "full": {
+                    "label": "tele",
+                    "ariaLabel": "exportálja a teljes könyvet %{bookTitle}"
+                }
+            },
+            "ariaLabel": "válassza ki a %{bookTitle} könyv exportálásának módját"
+        },
+        "readers": {"checkbox": {"ariaLabel": "hogy a(z) %{readerDisplayName} olvasó szerepeljen az exportálásban"}},
+        "checkbox": {"ariaLabel": "hogy a %{bookTitle} könyvet belefoglalja az exportálásba"},
+        "bookReadersTooltip": {"label": "Az \"olvasók\" opció kiválasztásával csak a kiválasztott olvasókat exportálja.\n\n"}
+    },
+    "packagedMultiBookFileName": "Könyvek",
+    "nothingToExport": "Nincs mit exportálni :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "ne szakítsa meg az exportálást"},
+            "yes": {"ariaLabel": "törölje az exportálást"}
+        },
+        "title": "Erősítse meg az Exportálás megszakítását",
+        "message": "Biztosan megszakítja az exportálást?"
+    }},
+    "titles": {
+        "booksToExport": "Exportálandó könyvek",
+        "failedToExport": "Nem sikerült a könyvek exportálása"
+    },
+    "outputFilenameField": {
+        "label": "Kimeneti fájl neve",
+        "ariaLabel": "várt kimeneti fájlnév"
+    },
+    "errors": {"invalidOutputFilename": "érvénytelen fájlnév"}
+}

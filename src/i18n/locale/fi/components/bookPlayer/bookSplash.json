@@ -1,0 +1,19 @@
+{
+    "startButton": {
+        "title": "aloita kirja",
+        "ariaLabel": "aloita kirja"
+    },
+    "selectedReaderImage": {"ariaLabel": "valitse ääni lukeaksesi kirjaa"},
+    "skipIntroButton": {
+        "title": "ohita johdanto",
+        "ariaLabel": "ohita johdanto"
+    },
+    "readMode": {
+        "items": {
+            "autoRead": {"ariaLabel": "jokainen sivu luetaan käyttäjälle hänen valitsemallaan äänellä"},
+            "pageRead": {"ariaLabel": "jokainen sivu luetaan käyttäjälle hänen valitsemallaan äänellä, mutta käyttäjä on vastuussa sivun muuttamisesta"},
+            "selfRead": {"ariaLabel": "käyttäjä lukee jokaisen sivun"}
+        },
+        "ariaLabel": "valitse käytettävä lukutila"
+    }
+}

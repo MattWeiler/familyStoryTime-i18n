@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Válassza ki",
+                "ariaLabel": "válaszd ki a könyvet %{bookTitle}"
+            },
+            "edit": {
+                "title": "Szerkesztés",
+                "ariaLabel": "szerkessze a könyvet %{bookTitle}"
+            },
+            "delete": {
+                "title": "Töröl",
+                "ariaLabel": "törölje a könyvet %{bookTitle}"
+            },
+            "export": {
+                "title": "Export",
+                "ariaLabel": "exportálja a könyvet %{bookTitle}"
+            }
+        },
+        "ariaLabel": "nyissa meg a(z) %{bookTitle} könyv helyi menüjét"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} oldal",
+            "one": "%{count} oldal"
+        },
+        "ariaLabel": {
+            "other": "%{count} oldal",
+            "one": "%{count} oldal"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "válaszd ki a %{bookTitle} könyvet",
+        "selected": "törölje a %{bookTitle} könyv kijelölését"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} olvasó",
+            "one": "%{count} olvasó"
+        },
+        "ariaLabel": {
+            "other": "a %{bookTitle} könyvnek %{count} olvasója van",
+            "one": "a %{bookTitle} könyvnek %{count} olvasója van"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "olvasd el a történetet: %{bookTitle}",
+        "selectionMode": "%{bookTitle} könyv"
+    }
+}

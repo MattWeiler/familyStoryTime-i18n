@@ -1,0 +1,33 @@
+{
+    "intro": "Tôi đã tạo ra ứng dụng này để giúp trẻ em trong hành trình đọc sách của mình nhưng cũng để có thể nhờ những người thân yêu không thể ở đó đọc truyện cho chúng nghe.",
+    "title": "Giờ kể chuyện gia đình",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Hãy nhờ người kể chuyện yêu thích của bạn đọc cho bạn nghe những câu chuyện của bạn, ngay cả khi họ không thể có mặt ở đó.",
+            "title": "Giọng nói quen thuộc"
+        },
+        "paragraph_3": {
+            "content_1": "Những cuốn sách có thể tự động đọc trong khi bạn đọc theo.",
+            "title": "Luyện đọc"
+        },
+        "paragraph_2": {
+            "content_1": "Số hóa những cuốn sách yêu thích của bạn để chúng có thể tồn tại trong nhiều năm tới.",
+            "title": "Giữ mục yêu thích của bạn"
+        },
+        "paragraph_1": {
+            "content_2": "Giữ tất cả các cuốn sách yêu thích của bạn ở một nơi để dễ dàng truy cập ở nhà hoặc khi đang di chuyển.",
+            "content_1": "Thích đọc sách như một gia đình.",
+            "title": "Thích đọc sách"
+        },
+        "paragraph_6": {
+            "content_2": "Khi được bật, chủ sở hữu thiết bị phải mở khóa ứng dụng bằng dữ liệu sinh trắc học của họ (tùy thuộc vào thiết bị) để truy cập vào các khía cạnh nhạy cảm của ứng dụng.",
+            "content_1": "Ứng dụng này có tính năng khóa cha mẹ.",
+            "title": "Khóa của phụ huynh"
+        },
+        "paragraph_5": {
+            "content_2": "Các câu chuyện có thể được xuất riêng lẻ hoặc tất cả cùng một lúc.",
+            "content_1": "Tạo câu chuyện của riêng bạn và chia sẻ chúng với bạn bè và gia đình.",
+            "title": "Chia sẻ"
+        }
+    }
+}

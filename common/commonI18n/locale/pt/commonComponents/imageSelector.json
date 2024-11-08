@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "procure um arquivo de imagem",
+        "ariaLabel": "procure um arquivo de imagem para a imagem %{imageDisplayName}"
+    },
+    "takePhotoButton": {
+        "title": "tirar foto",
+        "ariaLabel": "tire uma foto da imagem %{imageDisplayName}"
+    },
+    "browseImageGalleryButton": {
+        "title": "navegar na galeria de imagens",
+        "ariaLabel": "navegue na galeria de imagens para a imagem %{imageDisplayName}"
+    },
+    "fullscreenButton": {"ariaLabel": "mostrar a imagem %{imageDisplayName} em tela cheia"},
+    "imageEditor": {
+        "cropButton": {"text": "Cortar"},
+        "cancelButton": {"text": "Cancelar"},
+        "backButton": {"text": "Voltar"},
+        "saveButton": {"text": "Salvar"}
+    },
+    "editSelectedImageButton": {
+        "title": "edite a imagem",
+        "ariaLabel": "edite a imagem %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "mostrar os controles de imagem %{imageDisplayName}",
+        "controlsVisible": "ocultar os controles de imagem %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Permissão negada",
+            "message": "Você negou permissão para acessar sua câmera."
+        },
+        "browseImages": {
+            "title": "Permissão negada",
+            "message": "Você negou permissão para acessar suas fotos."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "fechar tela cheia"}
+}

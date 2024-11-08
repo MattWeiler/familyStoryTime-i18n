@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "Comentários sobre o aplicativo",
+            "ariaLabel": "fornecer feedback sobre nosso aplicativo"
+        },
+        "description": "Adoraríamos ouvir o que você tem a dizer."
+    },
+    "title": "Deixar feedback",
+    "bugFeedback": {
+        "tab": {
+            "title": "Reportar bug",
+            "ariaLabel": "reportar um bug que você encontrou em nosso aplicativo"
+        },
+        "description": "Lamentamos saber que você encontrou um bug, mas faremos o possível para corrigi-lo :)"
+    }
+}

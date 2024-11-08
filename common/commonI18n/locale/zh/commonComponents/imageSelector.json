@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "浏览图像文件",
+        "ariaLabel": "浏览 %{imageDisplayName} 图像的图像文件"
+    },
+    "takePhotoButton": {
+        "title": "拍照",
+        "ariaLabel": "为 %{imageDisplayName} 图片拍照"
+    },
+    "browseImageGalleryButton": {
+        "title": "浏览图片库",
+        "ariaLabel": "浏览图片库以查找 %{imageDisplayName} 图片"
+    },
+    "fullscreenButton": {"ariaLabel": "全屏显示 %{imageDisplayName} 图像"},
+    "imageEditor": {
+        "cropButton": {"text": "庄稼"},
+        "cancelButton": {"text": "取消"},
+        "backButton": {"text": "后退"},
+        "saveButton": {"text": "节省"}
+    },
+    "editSelectedImageButton": {
+        "title": "编辑图像",
+        "ariaLabel": "编辑 %{imageDisplayName} 图像"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "显示 %{imageDisplayName} 图像控件",
+        "controlsVisible": "隐藏 %{imageDisplayName} 图像控件"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "没有权限",
+            "message": "您已拒绝访问您的相机的权限。"
+        },
+        "browseImages": {
+            "title": "没有权限",
+            "message": "您已拒绝访问您的照片的权限。"
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "关闭全屏"}
+}

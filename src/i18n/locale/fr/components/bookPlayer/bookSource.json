@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "afficher les informations sur la source du livre"},
+        "hideSource": {"ariaLabel": "masquer les informations sur la source du livre"}
+    },
+    "sourceUrl": {
+        "label": "voir la source du livre",
+        "ariaLabel": "URL de la source du livre ouvert"
+    },
+    "sourceIllustrator": {"label": "Illustrateur :"},
+    "sourceAuthor": {"label": "Auteur:"},
+    "sourcePublisher": {"label": "Éditeur:"},
+    "sourceIsbn": {
+        "label": "ISBN :",
+        "ariaLabel": "ouvrir la recherche ISBN du livre ISBN"
+    }
+}

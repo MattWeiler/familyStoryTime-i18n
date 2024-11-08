@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "e-mailen wordt niet ondersteund",
+        "submissionFailed": "Feedback verzenden is mislukt",
+        "submissionSuccess": "feedback verzonden"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Selecteer een tevredenheidsniveau.",
+        "description": "Hoe waarschijnlijk is het dat u onze app deelt?",
+        "label": "Delen met anderen",
+        "levels": {
+            "1": {
+                "displayName": "Echt niet",
+                "ariaLabel": "op geen enkele manier"
+            },
+            "2": {
+                "displayName": "Niet waarschijnlijk",
+                "ariaLabel": "niet waarschijnlijk"
+            },
+            "3": {
+                "displayName": "Misschien",
+                "ariaLabel": "misschien"
+            },
+            "4": {
+                "displayName": "Ja",
+                "ariaLabel": "Ja"
+            },
+            "5": {
+                "displayName": "Heb het al",
+                "ariaLabel": "al hebben"
+            }
+        },
+        "ariaLabel": "Selecteer hoe waarschijnlijk het is dat u deze mobiele applicatie met anderen deelt"
+    },
+    "submitButton": {
+        "text": "Feedback indienen",
+        "ariaLabel": "geef uw feedback door"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Selecteer een tevredenheidsniveau.",
+        "description": "Hoe leuk/niet leuk vond je onze app?",
+        "label": "App-tevredenheid",
+        "levels": {
+            "1": {
+                "displayName": "Haat het",
+                "ariaLabel": "haat het"
+            },
+            "2": {
+                "displayName": "Teleurgesteld",
+                "ariaLabel": "teleurgesteld"
+            },
+            "3": {
+                "displayName": "Neutrale",
+                "ariaLabel": "neutrale"
+            },
+            "4": {
+                "displayName": "Geweldig",
+                "ariaLabel": "Geweldig"
+            },
+            "5": {
+                "displayName": "Ik hou ervan",
+                "ariaLabel": "hou ervan"
+            }
+        },
+        "ariaLabel": "selecteer uw tevredenheidsniveau met deze mobiele applicatie"
+    },
+    "commentInput": {
+        "description": "Geef optioneel eventuele aanvullende opmerkingen op die u heeft.",
+        "label": "Opmerking",
+        "ariaLabel": "eventueel aanvullende opmerkingen"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Selecteer een tevredenheidsniveau.",
+        "description": "Hoe vond jij speelboeken?",
+        "label": "Boeken spelen",
+        "levels": {
+            "1": {
+                "displayName": "Werkte niet",
+                "ariaLabel": "werkte niet"
+            },
+            "2": {
+                "displayName": "Niet geweldig",
+                "ariaLabel": "niet geweldig"
+            },
+            "3": {
+                "displayName": "Het is oké",
+                "ariaLabel": "het is oké"
+            },
+            "4": {
+                "displayName": "Het is gemakkelijk",
+                "ariaLabel": "het is gemakkelijk"
+            },
+            "5": {
+                "displayName": "Ik hou ervan",
+                "ariaLabel": "hou ervan"
+            }
+        },
+        "ariaLabel": "selecteer uw tevredenheid over het afspelen van het boek"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Selecteer een tevredenheidsniveau.",
+        "description": "Hoe vond je het om meerdere lezers te hebben?",
+        "label": "Meerdere lezers",
+        "levels": {
+            "1": {
+                "displayName": "Werkte niet",
+                "ariaLabel": "werkte niet"
+            },
+            "2": {
+                "displayName": "Niet geweldig",
+                "ariaLabel": "niet geweldig"
+            },
+            "3": {
+                "displayName": "Het is oké",
+                "ariaLabel": "het is oké"
+            },
+            "4": {
+                "displayName": "Het is gemakkelijk",
+                "ariaLabel": "het is gemakkelijk"
+            },
+            "5": {
+                "displayName": "Ik hou ervan",
+                "ariaLabel": "hou ervan"
+            }
+        },
+        "ariaLabel": "Selecteer uw tevredenheid over het hebben van meerdere lezers per boek"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Selecteer een tevredenheidsniveau.",
+        "description": "Hoe vond je het maken van boeken?",
+        "label": "Boeken maken",
+        "levels": {
+            "1": {
+                "displayName": "Werkte niet",
+                "ariaLabel": "werkte niet"
+            },
+            "2": {
+                "displayName": "Niet geweldig",
+                "ariaLabel": "niet geweldig"
+            },
+            "3": {
+                "displayName": "Het is oké",
+                "ariaLabel": "het is oké"
+            },
+            "4": {
+                "displayName": "Het is gemakkelijk",
+                "ariaLabel": "het is gemakkelijk"
+            },
+            "5": {
+                "displayName": "Ik hou ervan",
+                "ariaLabel": "hou ervan"
+            }
+        },
+        "ariaLabel": "Selecteer uw tevredenheid over het boekcreatieproces"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "spila hljóð",
+            "ariaLabel": "spila hljóð"
+        },
+        "playing": {
+            "title": "gera hlé á hljóði",
+            "ariaLabel": "gera hlé á hljóði"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "aðdráttur út til að sýna alla myndina, það gætu verið svartir strikar á hliðunum",
+        "zoomedOut": "stækkaðu til að tryggja að allur skjárinn sé fylltur af myndinni, eitthvað af myndinni gæti ekki verið sýnilegt"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "farðu á fyrri síðu",
+            "ariaLabel": "farðu á fyrri síðu"
+        },
+        "noPreviousPage": {
+            "title": "fara aftur í bókaval",
+            "ariaLabel": "fara aftur í bókaval"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "farðu á næstu síðu",
+            "ariaLabel": "farðu á næstu síðu"
+        },
+        "noNextPage": {
+            "title": "fara aftur í bókaval",
+            "ariaLabel": "fara aftur í bókaval"
+        }
+    }
+}

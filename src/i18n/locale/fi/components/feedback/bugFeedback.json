@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "sähköpostin lähettämistä ei tueta",
+        "submissionFailed": "virheen lähetys epäonnistui",
+        "submissionSuccess": "bugi lähetetty"
+    },
+    "submitButton": {
+        "text": "Lähetä virhe",
+        "ariaLabel": "lähetä vika"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Lisää kirjat, jotka saattavat aiheuttaa ongelman.",
+            "label": "Kiinnitettävät kirjat"
+        },
+        "loadFailed": "kirjojen lataus epäonnistui",
+        "noBooksInstalled": "kirjoja ei ole asennettu",
+        "picker": {
+            "header": "Valitse kirja(t)",
+            "ariaLabel": "valitse, mitkä kirjat liitetään virhepalautteeseen"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "tehdä muutoksia virhepalautteesi liitteenä oleviin kirjoihin"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Anna joitain tietoja virheestä.",
+        "description": "Anna tiedot virheestä.",
+        "label": "Virheen tiedot",
+        "ariaLabel": "vian kuvaus"
+    }
+}

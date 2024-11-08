@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "電子メールはサポートされていません",
+        "submissionFailed": "フィードバックの送信に失敗しました",
+        "submissionSuccess": "フィードバックが送信されました"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "満足度を選択してください。",
+        "description": "私たちのアプリを共有する可能性はどのくらいですか?",
+        "label": "他の人と共有する",
+        "levels": {
+            "1": {
+                "displayName": "とんでもない",
+                "ariaLabel": "とんでもない"
+            },
+            "2": {
+                "displayName": "可能性は低い",
+                "ariaLabel": "ありそうもない"
+            },
+            "3": {
+                "displayName": "多分",
+                "ariaLabel": "多分"
+            },
+            "4": {
+                "displayName": "はい",
+                "ariaLabel": "はい"
+            },
+            "5": {
+                "displayName": "すでに持っている",
+                "ariaLabel": "すでに持っています"
+            }
+        },
+        "ariaLabel": "このモバイル アプリケーションを他の人と共有する可能性を選択してください"
+    },
+    "submitButton": {
+        "text": "フィードバックを送信する",
+        "ariaLabel": "フィードバックを送信してください"
+    },
+    "satisfactionInput": {
+        "errorMessage": "満足度を選択してください。",
+        "description": "私たちのアプリがどのくらい好き/嫌いですか?",
+        "label": "アプリの満足度",
+        "levels": {
+            "1": {
+                "displayName": "嫌い",
+                "ariaLabel": "それが嫌い"
+            },
+            "2": {
+                "displayName": "がっかりした",
+                "ariaLabel": "がっかりした"
+            },
+            "3": {
+                "displayName": "中性",
+                "ariaLabel": "中性"
+            },
+            "4": {
+                "displayName": "素晴らしい",
+                "ariaLabel": "素晴らしい"
+            },
+            "5": {
+                "displayName": "大好きです",
+                "ariaLabel": "大好きです。"
+            }
+        },
+        "ariaLabel": "このモバイル アプリケーションの満足度を選択してください"
+    },
+    "commentInput": {
+        "description": "必要に応じて、追加のコメントを入力します。",
+        "label": "コメント",
+        "ariaLabel": "オプションで追加のコメント"
+    },
+    "playingBooksInput": {
+        "errorMessage": "満足度を選択してください。",
+        "description": "どうやって遊びの本を見つけたのですか？",
+        "label": "本で遊ぶ",
+        "levels": {
+            "1": {
+                "displayName": "うまくいかなかった",
+                "ariaLabel": "機能しませんでした"
+            },
+            "2": {
+                "displayName": "あまり良くない",
+                "ariaLabel": "良くない"
+            },
+            "3": {
+                "displayName": "大丈夫です",
+                "ariaLabel": "大丈夫です"
+            },
+            "4": {
+                "displayName": "簡単です",
+                "ariaLabel": "簡単です"
+            },
+            "5": {
+                "displayName": "大好きです",
+                "ariaLabel": "大好きです。"
+            }
+        },
+        "ariaLabel": "本の再生に対する満足度を選択してください"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "満足度を選択してください。",
+        "description": "複数の読者がいるのはいかがでしたか?",
+        "label": "複数のリーダー",
+        "levels": {
+            "1": {
+                "displayName": "うまくいかなかった",
+                "ariaLabel": "機能しませんでした"
+            },
+            "2": {
+                "displayName": "あまり良くない",
+                "ariaLabel": "良くない"
+            },
+            "3": {
+                "displayName": "大丈夫です",
+                "ariaLabel": "大丈夫です"
+            },
+            "4": {
+                "displayName": "簡単です",
+                "ariaLabel": "簡単です"
+            },
+            "5": {
+                "displayName": "大好きです",
+                "ariaLabel": "大好きです。"
+            }
+        },
+        "ariaLabel": "1 冊の本に複数の読者がいることに対する満足度を選択してください"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "満足度を選択してください。",
+        "description": "本を作るきっかけは何ですか？",
+        "label": "本の作成",
+        "levels": {
+            "1": {
+                "displayName": "うまくいかなかった",
+                "ariaLabel": "機能しませんでした"
+            },
+            "2": {
+                "displayName": "あまり良くない",
+                "ariaLabel": "良くない"
+            },
+            "3": {
+                "displayName": "大丈夫です",
+                "ariaLabel": "大丈夫です"
+            },
+            "4": {
+                "displayName": "簡単です",
+                "ariaLabel": "簡単です"
+            },
+            "5": {
+                "displayName": "大好きです",
+                "ariaLabel": "大好きです。"
+            }
+        },
+        "ariaLabel": "本の作成プロセスに対する満足度を選択してください"
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "het laden van boeken is mislukt"},
+        "import": {"failure": "importeren is mislukt"},
+        "delete": {
+            "failure": "verwijderen is mislukt",
+            "success": "boek \"%{bookTitle}\" verwijderd"
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "Kan %{count} boeken niet verwijderen",
+                "one": "Kan 1 boek niet verwijderen"
+            },
+            "success": {
+                "other": "%{count} boeken verwijderd",
+                "one": "1 boek verwijderd"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "sorteer op paginaaantal in aflopende volgorde",
+                "descending": "sorteer op aantal pagina's in oplopende volgorde"
+            }},
+            "searchField": {
+                "placeholder": "zoek in uw boeken",
+                "ariaLabel": "zoek in uw boeken"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Exporteren",
+                        "ariaLabel": "exporteer de geselecteerde boeken"
+                    },
+                    "delete": {
+                        "label": "Verwijderen",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "nee, verwijder de geselecteerde boeken niet"},
+                                "yes": {"ariaLabel": "ja, verwijder de geselecteerde boeken"}
+                            },
+                            "title": "Bevestig verwijdering",
+                            "message": {
+                                "other": "Weet u zeker dat u de %{count} geselecteerde boeken wilt verwijderen?",
+                                "one": "Weet u zeker dat u het geselecteerde boek wilt verwijderen?"
+                            }
+                        },
+                        "ariaLabel": "verwijder de geselecteerde boeken"
+                    }
+                },
+                "ariaLabel": "open het contextmenu voor de geselecteerde boeken"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "sorteer op boektitel in aflopende volgorde",
+                "descending": "sorteer op boektitel in oplopende volgorde"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "sorteer op aantal lezers in aflopende volgorde",
+                "descending": "sorteer op aantal lezers in oplopende volgorde"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "zoom uit om meer items tegelijk te bekijken",
+                "zoomedOut": "zoom in om grotere afbeeldingen te bekijken"
+            }}
+        },
+        "loadError": {
+            "text": "Kan boeken niet laden.",
+            "ariaLabel": "Kan boeken niet laden"
+        },
+        "noBooksFound": {
+            "message": "Geen boeken gevonden :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Probeer onze",
+                    "linkName": "boeken bouwer"
+                },
+                "availableBooks": {
+                    "message": "Bekijk onze",
+                    "linkName": "boekwinkel"
+                }
+            }
+        }
+    },
+    "subtitle": "Laten we genieten van het lezen van enkele verhalen.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "maak een boek",
+                "ariaLabel": "maak een nieuw boek"
+            },
+            "importBooks": {
+                "label": "boeken importeren",
+                "ariaLabel": "importeer een of meer boeken"
+            },
+            "bookStore": {
+                "label": "boekwinkel bezoeken",
+                "ariaLabel": "bezoek onze boekhandel"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "sluiten voeg een boekmenu toe",
+            "collapsed": "open een boekmenu toevoegen"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "verwijderen...\n",
+            "one": "verwijderen...\n",
+            "none": "verwijderen..."
+        }},
+        "export": {"label": {
+            "other": "exporteren...\n",
+            "one": "exporteren...\n",
+            "none": "exporteren..."
+        }}
+    }},
+    "title": "Leeshoek",
+    "confirmations": {"deleteBook": {
+        "title": "Bevestiging van verwijdering",
+        "message": "Weet u zeker dat u het boek \"%{bookTitle}\" wilt verwijderen?"
+    }}
+}

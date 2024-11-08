@@ -1,0 +1,14 @@
+{
+    "feedback": {
+        "subtitle": "개선할 수 있는 방법을 알려주세요.",
+        "title": "피드백을 남겨주세요"
+    },
+    "settings": {
+        "subtitle": "설정 변경",
+        "title": "설정"
+    },
+    "bookBuilder": {
+        "subtitle": "새 책 만들기",
+        "title": "책 만들기"
+    }
+}

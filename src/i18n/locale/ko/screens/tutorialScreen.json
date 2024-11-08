@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "피드백 제공"},
+        "intro": {"displayName": "소개"},
+        "createBooks": {"displayName": "책 만들기"},
+        "parentalLocking": {"displayName": "보호자 잠금"},
+        "sharingBooks": {"displayName": "책을 공유하다"},
+        "bookPlayback": {"displayName": "책놀이"},
+        "bookStore": {"displayName": "서점"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "%{pageName} 페이지 보기"},
+        "backPageButton": {"ariaLabel": "1페이지 뒤로 가기"},
+        "forwardPageButton": {"ariaLabel": "1페이지 앞으로 이동"}
+    },
+    "startLink": {
+        "label": "시작하기",
+        "ariaLabel": "홈페이지로 이동"
+    }
+}

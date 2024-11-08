@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "เสียงเสริมที่จะเล่นก่อนอ่านหน้าที่ 1",
+        "label": {
+            "withDisplayName": "เสียงแนะนำของ %{readerDisplayName}",
+            "noDisplayName": "เสียงแนะนำ"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} บทนำของผู้อ่าน",
+            "noDisplayName": "ผู้อ่านที่มี ID %{readerId} บทนำ"
+        }
+    },
+    "readerImage": {
+        "description": "รูปภาพที่จะแสดงสำหรับผู้อ่านรายนี้",
+        "accessibleImageDisplayName": "รูปภาพของผู้อ่าน %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "การดำเนินการนี้จะลบเสียงหน้าเว็บทั้งหมดที่บันทึกไว้สำหรับโปรแกรมอ่านนี้",
+            "additionalMessage2": "สิ่งนี้ไม่สามารถยกเลิกได้!",
+            "title": "การยืนยันการลบ",
+            "message": {
+                "withDisplayName": "คุณแน่ใจหรือไม่ว่าต้องการลบโปรแกรมอ่าน \"%{readerDisplayName}\"",
+                "noDisplayName": "คุณแน่ใจหรือไม่ว่าต้องการลบโปรแกรมอ่านนี้"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "ลบตัวอ่าน %{readerDisplayName}",
+            "noDisplayName": "ลบเครื่องอ่านที่มี ID %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "ชื่อที่แสดงสำหรับผู้อ่าน",
+                "noDisplayName": "ชื่อที่แสดงสำหรับผู้อ่าน"
+            },
+            "title": {
+                "withDisplayName": "อัปเดตชื่อที่แสดง",
+                "noDisplayName": "ตั้งชื่อที่แสดง"
+            },
+            "message": {
+                "withDisplayName": "คุณต้องการเปลี่ยนชื่อที่แสดงของผู้อ่านรายนี้เป็นชื่ออะไร",
+                "noDisplayName": "ชื่อที่แสดงสำหรับผู้อ่านรายนี้คืออะไร?"
+            },
+            "inputPlaceholder": "ชื่อผู้อ่าน"
+        },
+        "ariaLabel": {
+            "withDisplayName": "เปลี่ยนชื่อที่แสดงสำหรับผู้อ่าน %{readerDisplayName}",
+            "noDisplayName": "เปลี่ยนชื่อที่แสดงสำหรับผู้อ่านด้วย ID %{readerId}"
+        }
+    }
+}

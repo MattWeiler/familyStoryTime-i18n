@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "आयात पहले से ही चल रहा है, बाद में पुनः प्रयास करें",
+        "download": {"failed": "\"%{bookName}\" डाउनलोड करने में विफल।"},
+        "install": {
+            "failed": "\"%{bookName}\" आयात करने में विफल",
+            "successful": "\"%{bookName}\" सफलतापूर्वक आयात किया गया"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "रद्द करना",
+            "ariaLabel": "आयात रद्द करें"
+        },
+        "install": {
+            "textLabel": "स्थापित करना",
+            "ariaLabel": "चयनित पुस्तकें स्थापित करें: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "विश्लेषण ...",
+        "downloading": "डाउनलोड हो रहा है...",
+        "installing": "स्थापित करना...",
+        "cancelling": "रद्द किया जा रहा है..."
+    },
+    "nothingToInstall": "आयात करने के लिए कुछ भी नहीं :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "यह रीडर पहले से ही स्थापित पुस्तक का हिस्सा है।\n\n"},
+            "checkbox": {"ariaLabel": "आयात में रीडर %{readerDisplayName} को शामिल करने के लिए"}
+        },
+        "checkbox": {"ariaLabel": "आयात में %{bookName} पुस्तक को शामिल करने के लिए"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "यह पुस्तक आपके डिवाइस पर पहले से ही मौजूद है.\n\n"},
+                "full": {
+                    "withReaders": {"label": "यदि आप अधिलेखित करना चुनते हैं, तो वर्तमान पुस्तक को नई पुस्तक से बदल दिया जाएगा।\n\n"},
+                    "noReaders": {"label": "यह पुस्तक आपके डिवाइस पर पहले से ही मौजूद है.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "इस फ़ाइल में केवल ऑडियो है, और पुस्तक आपके डिवाइस पर इंस्टॉल नहीं है।\n\n"},
+                "full": {
+                    "withReaders": {"label": "यह किताब आपके डिवाइस पर नहीं है.\n\n"},
+                    "noReaders": {"label": "यह किताब आपके डिवाइस पर नहीं है.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "मर्ज",
+                    "ariaLabel": "नए पाठकों को जोड़कर और मौजूदा पाठकों को नए पाठकों के साथ अधिलेखित करके पुस्तक %{bookName} को मर्ज करें"
+                },
+                "overwrite": {
+                    "label": "अधिलेखित",
+                    "ariaLabel": "मौजूदा पुस्तक %{bookName} को अधिलेखित करें"
+                }
+            },
+            "ariaLabel": "पुस्तक %{bookName} के लिए उपयोग की जाने वाली आयात रणनीति चुनें"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "आयात रद्द न करें"},
+            "yes": {"ariaLabel": "आयात रद्द करें"}
+        },
+        "title": "आयात रद्द करने की पुष्टि करें",
+        "message": "क्या आप वाकई आयात रद्द करना चाहते हैं?"
+    }},
+    "titles": {
+        "booksToInstall": "स्थापित करने के लिए पुस्तकें",
+        "failedToInstall": "पुस्तकें स्थापित करने में विफल"
+    }
+}

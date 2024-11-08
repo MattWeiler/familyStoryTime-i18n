@@ -1,0 +1,33 @@
+{
+    "intro": "Ezt az alkalmazást azért hoztam létre, hogy segítsem a gyerekeket az olvasási útjukban, de azért is, hogy olyan szeretteiket is felolvashassák nekik, akik nem lehetnek ott.",
+    "title": "Családi történetek ideje",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Olvassa fel történeteit kedvenc mesemondójával, még akkor is, ha nem lehet ott.",
+            "title": "Ismerős hangok"
+        },
+        "paragraph_3": {
+            "content_1": "A könyvek automatikusan olvashatók, miközben Ön együtt olvas.",
+            "title": "Olvasás gyakorlása"
+        },
+        "paragraph_2": {
+            "content_1": "Digitalizálja kedvenc könyveit, hogy évekig kitartson.",
+            "title": "Tartsa meg kedvenceit"
+        },
+        "paragraph_1": {
+            "content_2": "Tartsa az összes kedvenc könyvét egy helyen, hogy könnyen hozzáférhessen otthon vagy útközben.",
+            "content_1": "Élvezze az olvasást családként.",
+            "title": "Élvezze az olvasást"
+        },
+        "paragraph_6": {
+            "content_2": "Ha engedélyezve van, az eszköz tulajdonosának fel kell oldania az alkalmazás zárolását biometrikus adataival (az eszköztől függően), hogy hozzáférjen az alkalmazás érzékeny aspektusaihoz.",
+            "content_1": "Az alkalmazás szülői zár funkcióval rendelkezik.",
+            "title": "Szülői zár"
+        },
+        "paragraph_5": {
+            "content_2": "A történetek egyenként vagy egyszerre exportálhatók.",
+            "content_1": "Hozzon létre saját történeteit, és ossza meg őket barátaival és családjával.",
+            "title": "Részesedés"
+        }
+    }
+}

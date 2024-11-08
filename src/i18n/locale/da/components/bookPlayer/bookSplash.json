@@ -1,0 +1,19 @@
+{
+    "startButton": {
+        "title": "starte bogen",
+        "ariaLabel": "starte bogen"
+    },
+    "selectedReaderImage": {"ariaLabel": "vælg stemmen for at læse bogen"},
+    "skipIntroButton": {
+        "title": "spring introen over",
+        "ariaLabel": "spring introen over"
+    },
+    "readMode": {
+        "items": {
+            "autoRead": {"ariaLabel": "hver side vil blive læst op for brugeren med stemmen efter eget valg"},
+            "pageRead": {"ariaLabel": "hver side vil blive læst for brugeren med stemmen efter eget valg, men brugeren er ansvarlig for at ændre siden"},
+            "selfRead": {"ariaLabel": "brugeren vil læse hver side"}
+        },
+        "ariaLabel": "vælg hvilken læsetilstand der skal bruges"
+    }
+}

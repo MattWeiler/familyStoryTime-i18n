@@ -1,0 +1,33 @@
+{
+    "intro": "Ho creato questa applicazione per aiutare i bambini nel loro percorso di lettura, ma anche per poter far leggere loro le storie dai propri cari che non possono essere presenti.",
+    "title": "Tempo di storie di famiglia",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Fatti leggere le storie dal tuo narratore preferito, anche se non può essere presente.",
+            "title": "Voci familiari"
+        },
+        "paragraph_3": {
+            "content_1": "I libri possono essere letti automaticamente mentre leggi.",
+            "title": "Esercitati nella lettura"
+        },
+        "paragraph_2": {
+            "content_1": "Digitalizza i tuoi libri preferiti in modo che durino per gli anni a venire.",
+            "title": "Mantieni i tuoi preferiti"
+        },
+        "paragraph_1": {
+            "content_2": "Conserva tutti i tuoi libri preferiti in un unico posto per un facile accesso a casa o in viaggio.",
+            "content_1": "Godetevi la lettura in famiglia.",
+            "title": "Buona lettura"
+        },
+        "paragraph_6": {
+            "content_2": "Se abilitato, il proprietario del dispositivo deve sbloccare l'applicazione utilizzando i propri dati biometrici (a seconda del dispositivo) per accedere agli aspetti sensibili dell'applicazione.",
+            "content_1": "L'applicazione dispone di una funzione di blocco parentale.",
+            "title": "Blocco parentale"
+        },
+        "paragraph_5": {
+            "content_2": "Le storie possono essere esportate singolarmente o tutte in una volta.",
+            "content_1": "Crea le tue storie e condividile con amici e familiari.",
+            "title": "Condividere"
+        }
+    }
+}

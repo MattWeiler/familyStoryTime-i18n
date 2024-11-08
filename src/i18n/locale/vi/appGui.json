@@ -1,0 +1,43 @@
+{"hamburgerMenu": {
+    "applicationTitle": "Giờ kể chuyện gia đình",
+    "links": {
+        "feedback": {
+            "text": "Nhận xét",
+            "ariaLabel": "đi tới màn hình phản hồi"
+        },
+        "settings": {
+            "text": "Cài đặt",
+            "ariaLabel": "đi tới màn hình cài đặt"
+        },
+        "bookSelector": {
+            "text": "Góc đọc sách",
+            "ariaLabel": "đi tới màn hình góc đọc sách"
+        },
+        "bookBuilder": {
+            "text": "Trình tạo sách",
+            "ariaLabel": "đi tới màn hình tạo sách"
+        },
+        "about": {
+            "text": "Về chúng tôi",
+            "ariaLabel": "đi tới màn hình giới thiệu về chúng tôi"
+        },
+        "developerStatus": {
+            "hidden": {
+                "text": "Hiển thị trạng thái nhà phát triển",
+                "ariaLabel": "hiển thị trạng thái nhà phát triển"
+            },
+            "showing": {
+                "text": "Ẩn trạng thái nhà phát triển",
+                "ariaLabel": "ẩn trạng thái nhà phát triển"
+            }
+        },
+        "tutorial": {
+            "text": "Hướng dẫn",
+            "ariaLabel": "xem hướng dẫn"
+        },
+        "bookStore": {
+            "text": "Cửa hàng sách",
+            "ariaLabel": "đi tới màn hình cửa hàng sách"
+        }
+    }
+}}

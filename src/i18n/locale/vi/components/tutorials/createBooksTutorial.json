@@ -1,0 +1,96 @@
+{
+    "summary": "Bạn có thể số hóa những cuốn sách yêu thích của gia đình mình và thu hút càng nhiều độc giả sẵn sàng ghi lại.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "Mở \"Trình tạo sách\"",
+            "ariaLabel": {
+                "expanded": "thu gọn phần mở phần xây dựng sách",
+                "collapsed": "mở phần mở đầu phần tạo sách"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Từ bất kỳ trang nào, bạn có thể truy cập \"Trình tạo sách\" thông qua menu hamburger ở phía trên bên trái màn hình.",
+                    "2": "Từ đó nhấn tùy chọn \"Trình tạo sách\"."
+                },
+                "title": "Thực đơn hamburger"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "Từ trang \"Góc đọc\", bạn có thể truy cập \"Trình tạo sách\" bằng cách nhấn nút (+) ở phía dưới bên phải màn hình.",
+                    "2": "Từ đó nhấn tùy chọn \"tạo sách\"."
+                },
+                "title": "Nút hành động"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "Sử dụng \"Trình tạo sách\"",
+            "ariaLabel": {
+                "expanded": "thu gọn phần sử dụng phần xây dựng sách",
+                "collapsed": "mở phần sử dụng phần xây dựng sách"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "Một cuốn sách phải có ít nhất 1 trang nhưng không có giới hạn trên.",
+                    "2": "Khi chụp hoặc tải hình ảnh lên để sử dụng cho một trang, AI sẽ được sử dụng để trích xuất văn bản từ hình ảnh. "
+                },
+                "title": "Trang sách"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "Trong \"Trình tạo sách\", bạn sẽ có thể chỉ định một số thuộc tính liên quan đến sách.",
+                    "2": "Tiêu đề của cuốn sách, một số hình ảnh, thông tin nguồn, độ trễ, người đọc và trang đều có thể được chỉ định ở đây."
+                },
+                "title": "Trình tạo sách"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Khi tất cả các trường của sách đã được điền đầy đủ, sách đó phải được lưu vào thiết bị.",
+                    "2": "Khi lưu, dữ liệu sách sẽ được kiểm tra để đảm bảo rằng tất cả đều hợp lệ; "
+                },
+                "title": "Lưu một cuốn sách"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Hình ảnh có thể được chụp bằng camera của thiết bị hoặc có thể được tải từ thư viện của bạn.",
+                    "2": "Khi một hình ảnh đã được chọn, nó có thể được chỉnh sửa để đảm bảo nó trông đẹp nhất có thể.",
+                    "3": "Nhấn vào một hình ảnh hiện có sẽ xuất hiện các nút hình ảnh."
+                },
+                "title": "Hình ảnh sách"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Độ trễ có thể được xác định sẽ ảnh hưởng đến việc phát lại sách.",
+                    "2": "Những độ trễ này có thể đảm bảo rằng âm thanh phát lại không quá đột ngột."
+                },
+                "title": "Trì hoãn sách"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Khi một cuốn sách đang được tự động phát, một âm thanh cụ thể có thể được phát khi một trang hoàn thành và trang tiếp theo sẵn sàng bắt đầu.",
+                    "2": "Một tập hợp các âm thanh được xác định trước có thể được chọn hoặc âm thanh tùy chỉnh có thể được tải lên hoặc ghi lại."
+                },
+                "title": "Âm thanh thay đổi trang"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "Một cuốn sách có thể chứa bất kỳ số lượng độc giả.",
+                    "2": "Mỗi độc giả sẽ ghi lại chính mình đang đọc từng trang của cuốn sách và do đó sẽ có thể đọc sách trong khi phát lại sách."
+                },
+                "title": "Người đọc sách"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "Thông tin nguồn có thể được cung cấp về cuốn sách.",
+                    "2": "Mặc dù thông tin nguồn này là tùy chọn nhưng nó có thể giúp theo dõi những câu chuyện yêu thích của bạn."
+                },
+                "title": "Thông tin nguồn sách"
+            }
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "afspille lyd",
+            "ariaLabel": "afspille lyd"
+        },
+        "playing": {
+            "title": "pause lyd",
+            "ariaLabel": "pause lyd"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "zoom ud for at vise hele billedet, der kan være sorte bjælker i siderne",
+        "zoomedOut": "zoom ind for at sikre, at hele skærmen er fyldt med billedet, noget af billedet er muligvis ikke synligt"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "gå til forrige side",
+            "ariaLabel": "gå til forrige side"
+        },
+        "noPreviousPage": {
+            "title": "gå tilbage til bogvalg",
+            "ariaLabel": "gå tilbage til bogvalg"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "gå til næste side",
+            "ariaLabel": "gå til næste side"
+        },
+        "noNextPage": {
+            "title": "gå tilbage til bogvalg",
+            "ariaLabel": "gå tilbage til bogvalg"
+        }
+    }
+}

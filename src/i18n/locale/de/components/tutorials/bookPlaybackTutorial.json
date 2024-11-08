@@ -1,0 +1,24 @@
+{
+    "summary": "Sie können Bücher wiedergeben, die Sie auf Ihrem Gerät installiert haben.",
+    "splashScreen": {
+        "messages": {
+            "1": "Auf dem Begrüßungsbildschirm können Sie auswählen, wie das Buch wiedergegeben werden soll, und ggf. auswählen, welcher Leser das Buch lesen soll.",
+            "2": "Wenn dem Buch Leser hinzugefügt wurden, können Sie zwischen den Modi \u201eAuto Play\u201c, \u201eRead To Me\u201c und \u201eRead It Myself\u201c wählen.",
+            "3": "Im Modus \u201eAuto Play\u201c liest der ausgewählte Leser das Buch vor und die Seiten werden automatisch gewechselt.",
+            "4": "Im \u201eRead To Me\u201c-Modus liest der ausgewählte Leser das Buch vor, die Seiten müssen jedoch manuell geändert werden. ",
+            "5": "Der Modus \u201eSelbst lesen\u201c ermöglicht es Ihnen, das Buch selbst zu lesen.",
+            "6": "Wenn das Buch Quelleninformationen enthält, wird ein Symbol angezeigt, das beim Anklicken diese Quelleninformationen anzeigt. "
+        },
+        "title": "Begrüßungsbildschirm"
+    },
+    "player": {
+        "messages": {
+            "1": "Beim Abspielen eines Buchs werden Navigationsschaltflächen angezeigt, mit denen Sie die Audioausgabe des Readers anhalten/abspielen und zwischen den Seiten navigieren können.",
+            "2": "Die Navigationsschaltflächen können durch einmaliges Drücken des Bildes ausgeblendet/angezeigt werden.",
+            "3": "Einige Gesten können auch zum Navigieren verwendet werden.",
+            "4": "Durch Wischen nach links/rechts wird zwischen den Seiten navigiert.",
+            "5": "Durch Doppeltippen oder Kneifen wird vergrößert/verkleinert. "
+        },
+        "title": "Buchspieler"
+    }
+}

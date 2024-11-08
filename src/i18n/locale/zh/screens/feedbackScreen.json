@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "应用程序反馈",
+            "ariaLabel": "对我们的申请提供反馈"
+        },
+        "description": "我们很想听听您的意见。"
+    },
+    "title": "留下反馈",
+    "bugFeedback": {
+        "tab": {
+            "title": "报告错误",
+            "ariaLabel": "报告您在我们的应用程序中发现的错误"
+        },
+        "description": "得知您发现错误，我们深表遗憾，但我们会尽力修复它:)"
+    }
+}

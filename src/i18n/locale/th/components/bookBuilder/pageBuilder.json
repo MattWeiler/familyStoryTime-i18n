@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "รูปภาพหน้า %{pageNum}"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "สแกนข้อความหน้าอีกครั้ง",
+                "message": "คุณแน่ใจหรือไม่ว่าต้องการสแกนรูปภาพเพื่อหาข้อความและแทนที่ข้อความบนหน้าที่มีอยู่"
+            },
+            "ariaLabel": "แยกข้อความจากรูปภาพสำหรับหน้า %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "ข้อความที่จะเพิ่มในหน้า %{pageNum}",
+                    "withPageText": "ข้อความที่จะอัปเดตในหน้า %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "ตั้งค่าข้อความหน้า",
+                    "withPageText": "อัพเดตข้อความเพจ"
+                },
+                "message": {
+                    "noPageText": "ข้อความหน้าคืออะไร?",
+                    "withPageText": "คุณต้องการเปลี่ยนข้อความหน้าเป็นอะไร"
+                },
+                "inputPlaceholder": "ข้อความที่จะเพิ่ม"
+            },
+            "ariaLabel": "แก้ไขข้อความ \"%{pageText}\" จากหน้า %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "ย้ายข้อความ \"%{pageText}\" จากหน้า %{pageNum} ขึ้น"},
+        "removeButton": {
+            "confirmation": {
+                "title": "การยืนยันการลบ",
+                "message": "คุณแน่ใจหรือไม่ว่าต้องการลบข้อความของหน้านี้"
+            },
+            "ariaLabel": "ลบข้อความ \"%{pageText}\" ออกจากหน้า %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "ข้อความที่จะเพิ่มในหน้า %{pageNum}",
+                "title": "ตั้งค่าข้อความหน้า",
+                "message": "ข้อความหน้าคืออะไร?",
+                "inputPlaceholder": "ข้อความที่จะเพิ่ม"
+            },
+            "ariaLabel": "เพิ่มข้อความใหม่ไปที่หน้า %{pageNum}"
+        },
+        "label": "ข้อความ",
+        "showHideButton": {"ariaLabel": {
+            "visible": "ซ่อนข้อความ \"%{pageText}\" จากหน้า %{pageNum}",
+            "hidden": "แสดงข้อความ \"%{pageText}\" จากหน้า %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "ย้ายข้อความ \"%{pageText}\" จากหน้า %{pageNum} ลง"}
+    },
+    "moveUpButton": {"ariaLabel": "ย้ายหน้า %{pageNum} ขึ้น"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "เสียงที่จะเล่นเมื่อ \"%{readerDisplayName}\" กำลังอ่านหน้า %{pageNum}",
+                "noDisplayName": "เสียงที่จะเล่นเมื่อโปรแกรมอ่านนี้กำลังอ่านหน้า %{pageNum}"
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "หน้า %{pageNum} %{readerDisplayName} ผู้อ่าน"
+        },
+        "label": "ผู้อ่าน"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "การดำเนินการนี้จะลบเสียงเพจทั้งหมดที่บันทึกไว้สำหรับเพจนี้",
+            "additionalMessage2": "สิ่งนี้ไม่สามารถยกเลิกได้!",
+            "title": "การยืนยันการลบ",
+            "message": "คุณแน่ใจหรือไม่ว่าต้องการลบหน้า %{pageNum}"
+        },
+        "ariaLabel": "ลบหน้า %{pageNum}"
+    },
+    "description": "รูปภาพที่จะแสดงบนหน้า %{pageNum}",
+    "label": "หน้า %{pageNum}",
+    "moveDownButton": {"ariaLabel": "ย้ายหน้า %{pageNum} ลง"}
+}

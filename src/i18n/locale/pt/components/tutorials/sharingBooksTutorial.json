@@ -1,0 +1,25 @@
+{
+    "summary": "Depois de criar um livro, você poderá compartilhá-lo com familiares e amigos.",
+    "exporting": {
+        "messages": {
+            "1": "Você pode exportar um único livro, através do menu de contexto, ou vários livros de uma vez, mantendo pressionado para selecionar vários livros.",
+            "2": "Depois de escolher o(s) livro(s) para exportar, você poderá selecionar exatamente o que deve ser exportado.",
+            "3": "Por padrão, o livro inteiro será exportado, mas você pode escolher quais leitores serão incluídos no conteúdo do livro ou pode optar por exportar apenas leitores específicos.",
+            "4": "Quando você deseja apenas enviar ao leitor as informações que você gravou para alguém que já possui o livro, você pode criar um arquivo muito menor para compartilhar, incluindo apenas o(s) leitor(es) específico(s)."
+        },
+        "title": "Exportador"
+    },
+    "importingMerging": {"messages": {
+        "1": "Ao importar um livro que já está instalado no seu dispositivo, você poderá selecionar se o livro importado deve substituir o livro já instalado ou se uma mesclagem deve ser realizada.",
+        "2": "Ao mesclar, apenas os leitores selecionados serão adicionados ao livro já instalado.",
+        "3": "Se os leitores mesclados já estiverem instalados no dispositivo, eles serão substituídos."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Na página \u201cCantinho de Leitura\u201d, você pode selecionar quais livros importar selecionando a opção \u201cimportar livros\u201d ao pressionar o botão (+) no canto inferior direito da tela.",
+            "2": "Alternativamente, você pode enviar um arquivo de livro para o aplicativo \"Family Story Time\".",
+            "3": "Ao importar um livro que ainda não esteja instalado no seu dispositivo, o livro será instalado."
+        },
+        "title": "Importando"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "चुनना",
+                "ariaLabel": "पुस्तक %{bookTitle} चुनें"
+            },
+            "edit": {
+                "title": "संपादन करना",
+                "ariaLabel": "पुस्तक संपादित करें %{bookTitle}"
+            },
+            "delete": {
+                "title": "मिटाना",
+                "ariaLabel": "पुस्तक हटाएं %{bookTitle}"
+            },
+            "export": {
+                "title": "निर्यात",
+                "ariaLabel": "पुस्तक निर्यात करें %{bookTitle}"
+            }
+        },
+        "ariaLabel": "पुस्तक %{bookTitle} के लिए संदर्भ मेनू खोलें"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} ",
+            "one": "%{count} "
+        },
+        "ariaLabel": {
+            "other": "%{count} ",
+            "one": "%{count} "
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "%{bookTitle} पुस्तक का चयन करें",
+        "selected": "%{bookTitle} पुस्तक का चयन रद्द करें"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} ",
+            "one": "%{count} "
+        },
+        "ariaLabel": {
+            "other": "पुस्तक %{bookTitle} में %{count} पाठक हैं",
+            "one": "पुस्तक %{bookTitle} में %{count} रीडर है"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "कहानी पढ़ें: %{bookTitle}",
+        "selectionMode": "%{bookTitle} पुस्तक"
+    }
+}

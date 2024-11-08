@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Nimi",
+        "placeholder": "John Doe",
+        "ariaLabel": "valinnaisesti nimesi"
+    },
+    "emailInput": {
+        "description": "Kerro, jos haluat kuulla meistä.",
+        "label": "Sähköpostiosoite",
+        "placeholder": "joku@gmail.com",
+        "ariaLabel": "valinnaisesti sähköpostiosoitteesi"
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "本の読み込みに失敗しました"},
+        "import": {"failure": "インポートに失敗しました"},
+        "delete": {
+            "failure": "削除に失敗しました",
+            "success": "本「%{bookTitle}」を削除しました"
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "%{count} 冊の本を削除できませんでした",
+                "one": "1 冊の本を削除できませんでした"
+            },
+            "success": {
+                "other": "%{count} 冊の本を削除しました",
+                "one": "1冊削除しました"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "ページ数で降順に並べ替えます",
+                "descending": "ページ数で昇順に並べ替えます"
+            }},
+            "searchField": {
+                "placeholder": "本を検索する",
+                "ariaLabel": "本を検索する"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "輸出",
+                        "ariaLabel": "選択した本をエクスポートする"
+                    },
+                    "delete": {
+                        "label": "消去",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "いいえ、選択した本は削除しないでください"},
+                                "yes": {"ariaLabel": "はい、選択した本を削除します"}
+                            },
+                            "title": "削除の確認",
+                            "message": {
+                                "other": "選択した %{count} 冊の書籍を削除してもよろしいですか?",
+                                "one": "選択した本を削除してもよろしいですか?"
+                            }
+                        },
+                        "ariaLabel": "選択した本を削除します"
+                    }
+                },
+                "ariaLabel": "選択した書籍のコンテキスト メニューを開きます"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "本のタイトルで降順に並べ替える",
+                "descending": "本のタイトルで昇順に並べ替えます"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "読者数の降順で並べ替えます",
+                "descending": "リーダー数で昇順に並べ替えます"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "ズームアウトすると、より多くのアイテムを一度に表示できます",
+                "zoomedOut": "拡大して大きな画像を表示します"
+            }}
+        },
+        "loadError": {
+            "text": "本の読み込みに失敗しました。",
+            "ariaLabel": "本の読み込みに失敗しました"
+        },
+        "noBooksFound": {
+            "message": "本が見つかりません:(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "私たちのを試してみてください",
+                    "linkName": "ブックビルダー"
+                },
+                "availableBooks": {
+                    "message": "チェックアウトしてください",
+                    "linkName": "本屋"
+                }
+            }
+        }
+    },
+    "subtitle": "いくつかの物語を読んで楽しみましょう。",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "本を作る",
+                "ariaLabel": "新しい本を作成する"
+            },
+            "importBooks": {
+                "label": "本を輸入する",
+                "ariaLabel": "1 つ以上の本をインポートする"
+            },
+            "bookStore": {
+                "label": "本屋に行く",
+                "ariaLabel": "私たちの書店にアクセスしてください"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "閉じる ブックメニューを追加",
+            "collapsed": "「本の追加」メニューを開く"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "削除しています ...\n",
+            "one": "削除しています ...\n",
+            "none": "削除しています ..."
+        }},
+        "export": {"label": {
+            "other": "輸出しています ...\n",
+            "one": "輸出しています ...\n",
+            "none": "輸出しています ..."
+        }}
+    }},
+    "title": "読書コーナー",
+    "confirmations": {"deleteBook": {
+        "title": "削除の確認",
+        "message": "書籍「%{bookTitle}」を削除してもよろしいですか?"
+    }}
+}

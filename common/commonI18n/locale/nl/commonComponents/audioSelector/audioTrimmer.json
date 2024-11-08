@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "speel de bijgesneden audio af om een \u200b\u200bvoorbeeld te horen"},
+    "playbackPositionLabel": "Afspeelpositie",
+    "discardButton": {
+        "label": "Weggooien",
+        "title": "gooi de bijgesneden audio weg",
+        "ariaLabel": "gooi de bijgesneden audio weg"
+    },
+    "saveButton": {
+        "label": "Redden",
+        "title": "gebruik de bijgesneden audio",
+        "ariaLabel": "gebruik de bijgesneden audio"
+    }
+}

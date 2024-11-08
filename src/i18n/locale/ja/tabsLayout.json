@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "読書コーナー",
+        "ariaLabel": "ここで本を読んでください"
+    },
+    "bookStore": {
+        "text": "本屋",
+        "ariaLabel": "本屋に行く"
+    }
+}

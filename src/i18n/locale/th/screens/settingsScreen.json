@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "การดำเนินการนี้จะลบหนังสือทั้งหมดที่ติดตั้งบนอุปกรณ์นี้\n\n",
+        "button": {
+            "label": "ลบ",
+            "title": "ลบหนังสือทั้งหมด",
+            "ariaLabel": "ลบหนังสือทั้งหมด"
+        },
+        "displayName": "ลบหนังสือทั้งหมด",
+        "processingMessage": "กำลังลบ ...",
+        "shortDescription": {
+            "disabled": "ลบหนังสือทั้งหมดของคุณ แต่คุณไม่ได้ติดตั้งหนังสือไว้เลย",
+            "enabled": "ลบหนังสือทั้งหมดของคุณ"
+        }
+    },
+    "footer": {
+        "copyright": "%{year} ไวเลอร์เฮาส์",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "คูลเลอร์",
+                "someFontsBy": "แบบอักษรโดย:"
+            },
+            "label": "ขอขอบคุณเป็นพิเศษ",
+            "icons": {
+                "ionicIcons": "ไอออนไอคอน",
+                "someIconsBy": "ไอคอนโดย:",
+                "icons8": "ไอคอน8",
+                "iconArchive": "คลังไอคอน"
+            }
+        },
+        "version": "เวอร์ชัน: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "โปรแกรมแก้ไขรูปภาพนี้จะใช้เมื่อมีการถ่ายภาพหนังสือใหม่หรือภาพหนังสือที่มีอยู่กำลังแก้ไข",
+        "displayName": "โปรแกรมแก้ไขรูปภาพ",
+        "testLabel": "ทดสอบโปรแกรมแก้ไขรูปภาพ",
+        "testImage": {"accessibleImageDisplayName": "ทดสอบโปรแกรมแก้ไขรูปภาพ"},
+        "options": {
+            "advanced": {
+                "label": "ขั้นสูง",
+                "ariaLabel": "ใช้โปรแกรมแก้ไขรูปภาพขั้นสูง"
+            },
+            "simple": {
+                "label": "เรียบง่าย",
+                "ariaLabel": "ใช้โปรแกรมแก้ไขรูปภาพอย่างง่าย"
+            }
+        },
+        "shortDescription": "เลือกโปรแกรมแก้ไขภาพที่ควรใช้",
+        "ariaLabel": "เลือกว่าควรใช้โปรแกรมแก้ไขรูปภาพใด"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "เสียงนี้จะถูกใช้เมื่อเครื่องอ่าน \"AI Reader\" อ่านหนังสือ",
+        "displayName": "เสียงที่ต้องการ",
+        "selectorButton": {
+            "defaultLabel": "ค่าเริ่มต้น",
+            "ariaLabel": "เลือกเสียง \"AI Reader\""
+        },
+        "shortDescription": "เลือกเสียงที่จะใช้โดย \"AI Reader\"",
+        "picker": {
+            "default": "ค่าเริ่มต้น",
+            "networkActionIcon": {"ariaLabel": "แสดงเสียงท้องถิ่นและตามเครือข่าย"},
+            "label": "เสียงของผู้อ่าน AI",
+            "ariaLabel": "เลือกเสียง \"AI Reader\"",
+            "globalActionIcon": {"ariaLabel": "แสดงทุกภาษา"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "เสียงและวิดีโอ",
+        "ariaLabel": {
+            "expanded": "ยุบส่วนการเลือกวิดีโอเสียง",
+            "collapsed": "ขยายส่วนการเลือกวิดีโอเสียง"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "คุณภาพของภาพนี้จะถูกนำมาใช้เมื่อถ่ายภาพด้วยกล้องของอุปกรณ์",
+        "slider": {
+            "highLabel": "สูง",
+            "ariaLabel": "คุณภาพของภาพ",
+            "lowLabel": "ต่ำ"
+        },
+        "displayName": "คุณภาพกล้อง %{value}%",
+        "testLabel": "ทดสอบกล้อง",
+        "testImage": {"accessibleImageDisplayName": "ทดสอบคุณภาพของภาพกล้อง"},
+        "shortDescription": "เลือกคุณภาพของภาพที่ถ่ายด้วยกล้อง"
+    },
+    "title": "การตั้งค่า",
+    "confirmations": {"deleteAllBooks": {
+        "title": "การยืนยันการลบ",
+        "message": "คุณแน่ใจหรือไม่ว่าต้องการลบหนังสือที่ติดตั้งไว้ทั้งหมด"
+    }},
+    "exportAllBooks": {
+        "longDescription": "สิ่งนี้มีประโยชน์เมื่อย้ายไปยังอุปกรณ์ใหม่หรือเพิ่มหนังสือของคุณไปยังอุปกรณ์หลายเครื่อง",
+        "button": {
+            "label": "ส่งออก",
+            "title": "ส่งออกหนังสือทั้งหมด",
+            "ariaLabel": "ส่งออกหนังสือทั้งหมด"
+        },
+        "displayName": "ส่งออกหนังสือทั้งหมด",
+        "shortDescription": {
+            "disabled": "ส่งออกหนังสือทั้งหมดของคุณเป็นไฟล์เดียวและบันทึก/แบ่งปัน แต่ขณะนี้คุณไม่ได้ติดตั้งหนังสือไว้เลย",
+            "enabled": "ส่งออกหนังสือทั้งหมดของคุณเป็นไฟล์เดียวและบันทึก/แชร์"
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "ลบไม่สำเร็จ",
+        "success": {
+            "other": "ลบหนังสือแล้ว %{count} เล่ม",
+            "one": "ลบไปแล้ว 1 เล่ม"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "เครื่องอ่านเอไอ",
+        "testLabel": "ทดสอบเสียง",
+        "testAriaLabel": {
+            "stopped": "ทดสอบเสียง \"AI Reader\"",
+            "playing": "หยุดการทดสอบเสียง \"AI Reader\""
+        },
+        "testPhrase": "สวัสดี ฉันอยากจะอ่านเรื่องราวที่คุณชื่นชอบกับคุณ",
+        "description": "เมื่อเปิดใช้งาน \"AI Reader\" จะสามารถใช้เป็นเครื่องอ่านได้เมื่อเล่นหนังสือ",
+        "ariaLabel": {
+            "expanded": "ยุบส่วนการเลือก \"AI Reader\"",
+            "collapsed": "ขยายส่วนการเลือก \"AI Reader\"",
+            "disabled": "\"AI Reader\" ถูกปิดใช้งาน",
+            "enabled": "เปิดใช้งาน \"AI Reader\" แล้ว"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "ซึ่งแสดงถึงระดับเสียงที่ใช้เมื่อเครื่องอ่าน \"AI Reader\" อ่านหนังสือ",
+        "slider": {
+            "highLabel": "สูง",
+            "ariaLabel": "ระดับเสียงของ \"AI Reader\"",
+            "lowLabel": "ต่ำ"
+        },
+        "displayName": "ระดับเสียง %{value}%",
+        "shortDescription": "เลือกระดับเสียงที่จะใช้โดย \"AI Reader\""
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "คุณภาพเสียงนี้จะถูกนำมาใช้เมื่อบันทึกด้วยไมโครโฟนของอุปกรณ์",
+        "displayName": "คุณภาพไมโครโฟน",
+        "testLabel": "ทดสอบไมโครโฟน",
+        "options": {
+            "high": {
+                "label": "สูง",
+                "ariaLabel": "ใช้คุณภาพเสียงสูง"
+            },
+            "low": {
+                "label": "ต่ำ",
+                "ariaLabel": "ใช้คุณภาพเสียงต่ำ"
+            }
+        },
+        "shortDescription": "เลือกคุณภาพเสียงของการบันทึกที่ถ่ายด้วยไมโครโฟน",
+        "ariaLabel": "เลือกคุณภาพเสียงของการบันทึกที่ถ่ายด้วยไมโครโฟน",
+        "testAudioSelector": {"accessibleAudioDisplayName": "ทดสอบคุณภาพไมโครโฟน"}
+    },
+    "subtitle": "อัปเดตการตั้งค่าแอปพลิเคชันของคุณที่นี่",
+    "themeSelection": {
+        "longDescription": "หากเลือกธีมที่นี่ ธีมจะแทนที่การตั้งค่าธีมของอุปกรณ์ใดๆ ก็ตามที่คุณอาจมี",
+        "displayName": "การเลือกธีม",
+        "options": {
+            "default": {
+                "label": "ระบบ",
+                "ariaLabel": "ใช้ธีมที่ระบบกำหนด"
+            },
+            "light": {
+                "label": "แสงสว่าง",
+                "ariaLabel": "ใช้ธีมสว่าง"
+            },
+            "dark": {
+                "label": "มืด",
+                "ariaLabel": "ใช้ธีมสีเข้ม"
+            }
+        },
+        "shortDescription": "เลือกธีมที่แอปพลิเคชันควรใช้",
+        "ariaLabel": "เลือกธีมที่แอปพลิเคชันควรใช้"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "นี่แสดงถึงอัตราของเสียงที่ใช้เมื่อเครื่องอ่าน \"AI Reader\" อ่านหนังสือ",
+        "slider": {
+            "highLabel": "เร็ว",
+            "ariaLabel": "อัตราการพูดของ \"AI Reader\"",
+            "lowLabel": "ช้า"
+        },
+        "displayName": "อัตราคำพูด %{value}%",
+        "shortDescription": "เลือกอัตราเสียงที่จะใช้โดย \"AI Reader\""
+    },
+    "parentalLocking": {
+        "longDescription": "เมื่อเปิดใช้งาน จำเป็นต้องใช้ข้อมูลไบโอเมตริกซ์ของเจ้าของอุปกรณ์เพื่อปลดล็อกคุณสมบัติขั้นสูงในแอปพลิเคชัน",
+        "displayName": "การล็อคโดยผู้ปกครอง",
+        "shortDescription": "การล็อคโดยผู้ปกครองจะมีประโยชน์เมื่อเด็ก ๆ ใช้แอพพลิเคชั่น",
+        "ariaLabel": {
+            "disabled": "การล็อคโดยผู้ปกครองถูกปิดใช้งาน",
+            "enabled": "เปิดใช้งานการล็อคโดยผู้ปกครองแล้ว"
+        }
+    }
+}

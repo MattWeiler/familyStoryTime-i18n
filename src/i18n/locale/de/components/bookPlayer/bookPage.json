@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "Audio abspielen",
+            "ariaLabel": "Audio abspielen"
+        },
+        "playing": {
+            "title": "Audio anhalten",
+            "ariaLabel": "Audio anhalten"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "Wenn Sie herauszoomen, um das gesamte Bild anzuzeigen, können an den Seiten schwarze Balken vorhanden sein",
+        "zoomedOut": "Zoomen Sie hinein, um sicherzustellen, dass der gesamte Bildschirm mit dem Bild ausgefüllt ist. Möglicherweise ist ein Teil des Bildes nicht sichtbar"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "Gehe zur vorherigen Seite",
+            "ariaLabel": "Gehe zur vorherigen Seite"
+        },
+        "noPreviousPage": {
+            "title": "Zurück zur Buchauswahl",
+            "ariaLabel": "Zurück zur Buchauswahl"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "gehe zur nächsten Seite",
+            "ariaLabel": "gehe zur nächsten Seite"
+        },
+        "noNextPage": {
+            "title": "Zurück zur Buchauswahl",
+            "ariaLabel": "Zurück zur Buchauswahl"
+        }
+    }
+}

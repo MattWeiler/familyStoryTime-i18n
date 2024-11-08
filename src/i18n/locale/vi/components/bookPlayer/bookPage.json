@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "phát âm thanh",
+            "ariaLabel": "phát âm thanh"
+        },
+        "playing": {
+            "title": "tạm dừng âm thanh",
+            "ariaLabel": "tạm dừng âm thanh"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "thu nhỏ để hiển thị toàn bộ hình ảnh, có thể có các thanh màu đen ở hai bên",
+        "zoomedOut": "phóng to để đảm bảo toàn bộ màn hình được lấp đầy hình ảnh, một số hình ảnh có thể không hiển thị"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "đi tới trang trước",
+            "ariaLabel": "đi tới trang trước"
+        },
+        "noPreviousPage": {
+            "title": "quay lại phần chọn sách",
+            "ariaLabel": "quay lại phần chọn sách"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "đi tới trang tiếp theo",
+            "ariaLabel": "đi tới trang tiếp theo"
+        },
+        "noNextPage": {
+            "title": "quay lại phần chọn sách",
+            "ariaLabel": "quay lại phần chọn sách"
+        }
+    }
+}

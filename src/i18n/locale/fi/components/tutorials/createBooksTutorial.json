@@ -1,0 +1,96 @@
+{
+    "summary": "Voit digitoida perheesi suosikkikirjat ja ottaa mukaan niin monta lukijaa kuin haluaa tallentaa itsensä.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "\"Kirjarakentajan\" avaaminen",
+            "ariaLabel": {
+                "expanded": "tiivistä kirjanrakennusosion avaaminen",
+                "collapsed": "avaa kirjanrakennusosion avaaminen"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Voit käyttää \"Book Builder\" -ohjelmaa miltä tahansa sivulta näytön vasemmassa yläkulmassa olevan hampurilaisvalikon kautta.",
+                    "2": "Paina sieltä \"Book Builder\" -vaihtoehtoa."
+                },
+                "title": "Hampurilainen menu"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "\"Lukukulma\"-sivulta pääset \"Book Builderiin\" painamalla (+) -painiketta näytön oikeassa alakulmassa.",
+                    "2": "Paina sieltä \"luo kirja\" -vaihtoehtoa."
+                },
+                "title": "Toimintopainike"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "\"Book Builderin\" käyttäminen",
+            "ariaLabel": {
+                "expanded": "tiivistä käyttämällä kirjanrakennusosia",
+                "collapsed": "avaa kirjanrakennusosio"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "Kirjassa on oltava vähintään yksi sivu, mutta siinä ei ole ylärajaa.",
+                    "2": "Kun kaapataan tai ladataan kuvaa käytettäväksi sivulla, tekoälyä käytetään tekstin poimimiseen kuvasta. "
+                },
+                "title": "Kirjan sivut"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "\"Book Builderissa\" voit määrittää useita kirjaan liittyviä attribuutteja.",
+                    "2": "Kirjan nimi, useita kuvia, lähdetiedot, viiveet, lukijat ja sivut voidaan määrittää tähän."
+                },
+                "title": "Kirjanrakentaja"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Kun kaikki kirjan kentät on täytetty, kirja on tallennettava laitteelle.",
+                    "2": "Tallennettaessa kirjatiedot tarkistetaan sen varmistamiseksi, että ne ovat kaikki oikein; "
+                },
+                "title": "Kirjan tallentaminen"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Kuvia voidaan ottaa joko laitteesi kameralla tai ne voidaan ladata galleriastasi.",
+                    "2": "Kun kuva on valittu, sitä voidaan muokata niin, että se näyttää mahdollisimman hyvältä.",
+                    "3": "Olemassa olevan kuvan painaminen tuo esiin kuvapainikkeet."
+                },
+                "title": "Kirja kuvat"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Voidaan määrittää viiveitä, jotka vaikuttavat kirjan toistoon.",
+                    "2": "Nämä viiveet voivat varmistaa, että äänen toisto ei kuulosta liian äkilliseltä."
+                },
+                "title": "Kirjan viivästykset"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Kun kirjaa toistetaan automaattisesti, tietty ääni voidaan toistaa, kun sivu on valmis ja seuraava sivu on valmis alkamaan.",
+                    "2": "Joukko ennalta määritettyjä ääniä voidaan valita tai mukautettu ääni voidaan ladata tai tallentaa."
+                },
+                "title": "Sivun vaihto Audio"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "Kirjassa voi olla kuinka monta lukijaa tahansa.",
+                    "2": "Jokainen lukija tallentaa itsensä lukevansa kirjan jokaista sivua ja on siten käytettävissä kirjan lukemiseen kirjan toiston aikana."
+                },
+                "title": "Kirjan lukijat"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "Kirjasta voidaan antaa lähdetiedot.",
+                    "2": "Vaikka nämä lähdetiedot ovat valinnaisia, ne voivat auttaa pitämään kirjaa suosikkitarinoistasi."
+                },
+                "title": "Kirjan lähdetiedot"
+            }
+        }
+    }
+}

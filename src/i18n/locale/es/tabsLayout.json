@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Rincón de lectura",
+        "ariaLabel": "lee tus libros aquí"
+    },
+    "bookStore": {
+        "text": "Librería",
+        "ariaLabel": "visita la librería"
+    }
+}

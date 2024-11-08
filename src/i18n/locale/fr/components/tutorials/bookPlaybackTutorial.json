@@ -1,0 +1,24 @@
+{
+    "summary": "Vous pouvez lire les livres que vous avez installés sur votre appareil.",
+    "splashScreen": {
+        "messages": {
+            "1": "À partir de l'écran de démarrage, vous pouvez choisir la manière dont vous souhaitez que le livre soit lu et sélectionner le lecteur qui doit lire le livre, le cas échéant.",
+            "2": "Si le livre comporte des lecteurs ajoutés, vous pourrez choisir entre les modes « Lecture automatique », « Lisez-moi » et « Lisez-le moi-même ».",
+            "3": "Le mode \"Auto Play\" permettra au lecteur sélectionné de lire le livre et les pages seront modifiées automatiquement.",
+            "4": "Le mode \"Read To Me\" permettra au lecteur sélectionné de lire le livre, mais les pages devront être modifiées manuellement. ",
+            "5": "Le mode \"Read It Myself\" vous permettra de lire le livre vous-même.",
+            "6": "Si le livre contient des informations sur la source, il y aura une icône qui, une fois cliquée, affichera ces informations sur la source. "
+        },
+        "title": "Écran de démarrage"
+    },
+    "player": {
+        "messages": {
+            "1": "Lors de la lecture d'un livre, des boutons de navigation seront affichés qui vous permettront de mettre en pause/lire l'audio du lecteur ainsi que de naviguer entre les pages.",
+            "2": "Les boutons de navigation peuvent être masqués/affichés en appuyant une fois sur l'image.",
+            "3": "Certains gestes peuvent également être utilisés pour naviguer.",
+            "4": "Faire glisser votre doigt vers la gauche/droite vous permettra de naviguer entre les pages.",
+            "5": "Appuyez deux fois ou pincez pour effectuer un zoom avant/arrière. "
+        },
+        "title": "Lecteur de livres"
+    }
+}

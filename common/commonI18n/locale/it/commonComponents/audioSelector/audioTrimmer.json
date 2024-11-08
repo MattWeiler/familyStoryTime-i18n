@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "riprodurre l'audio tagliato per ascoltare un campione"},
+    "playbackPositionLabel": "Posizione di riproduzione",
+    "discardButton": {
+        "label": "Scartare",
+        "title": "scartare l'audio tagliato",
+        "ariaLabel": "scartare l'audio tagliato"
+    },
+    "saveButton": {
+        "label": "Salva",
+        "title": "utilizzare l'audio tagliato",
+        "ariaLabel": "utilizzare l'audio tagliato"
+    }
+}

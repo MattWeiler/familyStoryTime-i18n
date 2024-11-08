@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "这将删除该设备上安装的所有书籍。\n\n",
+        "button": {
+            "label": "删除",
+            "title": "删除所有书籍",
+            "ariaLabel": "删除所有书籍"
+        },
+        "displayName": "删除所有书籍",
+        "processingMessage": "删除...",
+        "shortDescription": {
+            "disabled": "删除所有图书，但您当前没有安装任何图书。",
+            "enabled": "删除你所有的书。"
+        }
+    },
+    "footer": {
+        "copyright": "%{year} 韦勒豪斯",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "冷却器",
+                "someFontsBy": "字体由："
+            },
+            "label": "特别感谢",
+            "icons": {
+                "ionicIcons": "离子图标",
+                "someIconsBy": "图标：",
+                "icons8": "图标8",
+                "iconArchive": "图标档案"
+            }
+        },
+        "version": "版本：%{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "当拍摄新的书籍图像或编辑现有的书籍图像时，将使用此图像编辑器。",
+        "displayName": "图像编辑器",
+        "testLabel": "测试图像编辑器",
+        "testImage": {"accessibleImageDisplayName": "测试图像编辑器图像"},
+        "options": {
+            "advanced": {
+                "label": "先进的",
+                "ariaLabel": "使用高级图像编辑器"
+            },
+            "simple": {
+                "label": "简单的",
+                "ariaLabel": "使用简单的图像编辑器"
+            }
+        },
+        "shortDescription": "选择应使用的图像编辑器。",
+        "ariaLabel": "选择应使用的图像编辑器"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "\u201cAI阅读器\u201d阅读器读书时会使用此语音。",
+        "displayName": "首选声音",
+        "selectorButton": {
+            "defaultLabel": "默认",
+            "ariaLabel": "选择\u201cAI Reader\u201d语音"
+        },
+        "shortDescription": "选择\u201cAI Reader\u201d要使用的语音。",
+        "picker": {
+            "default": "默认",
+            "networkActionIcon": {"ariaLabel": "显示本地和基于网络的声音"},
+            "label": "AI读者之声",
+            "ariaLabel": "选择\u201cAI Reader\u201d语音",
+            "globalActionIcon": {"ariaLabel": "显示所有语言"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "音频和视频",
+        "ariaLabel": {
+            "expanded": "折叠音频视频选择部分",
+            "collapsed": "展开音频视频选择部分"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "使用设备相机拍照时将使用此图像质量。",
+        "slider": {
+            "highLabel": "高的",
+            "ariaLabel": "图片的图像质量",
+            "lowLabel": "低的"
+        },
+        "displayName": "相机质量%{value}%",
+        "testLabel": "测试相机",
+        "testImage": {"accessibleImageDisplayName": "测试相机质量图像"},
+        "shortDescription": "选择用相机拍摄的照片的图像质量。"
+    },
+    "title": "设置",
+    "confirmations": {"deleteAllBooks": {
+        "title": "删除确认",
+        "message": "您确定要删除所有已安装的图书吗？"
+    }},
+    "exportAllBooks": {
+        "longDescription": "当迁移到新设备或将图书添加到多个设备时，这非常有用。",
+        "button": {
+            "label": "出口",
+            "title": "导出所有书籍",
+            "ariaLabel": "导出所有书籍"
+        },
+        "displayName": "导出所有书籍",
+        "shortDescription": {
+            "disabled": "将所有图书导出到单个文件并保存/共享它，但您当前尚未安装任何图书。",
+            "enabled": "将所有书籍导出到一个文件并保存/共享。"
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "删除失败",
+        "success": {
+            "other": "已删除 %{count} 本书",
+            "one": "已删除 1 本书"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "人工智能阅读器",
+        "testLabel": "测试语音",
+        "testAriaLabel": {
+            "stopped": "测试\u201cAI阅读器\u201d语音",
+            "playing": "停止\u201cAI阅读器\u201d语音测试"
+        },
+        "testPhrase": "你好，我很想和你一起读你最喜欢的故事。",
+        "description": "启用后，\u201cAI阅读器\u201d将在播放书籍时作为阅读器使用。",
+        "ariaLabel": {
+            "expanded": "折叠\u201cAI Reader\u201d选择部分",
+            "collapsed": "展开\u201cAI Reader\u201d选择部分",
+            "disabled": "\u201cAI阅读器\u201d已禁用",
+            "enabled": "\u201cAI阅读器\u201d已启用"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "表示\u201cAI Reader\u201d读者读书时使用的声音音调。",
+        "slider": {
+            "highLabel": "高的",
+            "ariaLabel": "\u201cAI阅读器\u201d的音调",
+            "lowLabel": "低的"
+        },
+        "displayName": "音调%{value}%",
+        "shortDescription": "选择\u201cAI Reader\u201d使用的语音音调。"
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "使用设备麦克风录制时将使用此音频质量。",
+        "displayName": "麦克风质量",
+        "testLabel": "测试麦克风",
+        "options": {
+            "high": {
+                "label": "高的",
+                "ariaLabel": "使用高音频质量"
+            },
+            "low": {
+                "label": "低的",
+                "ariaLabel": "使用低音频质量"
+            }
+        },
+        "shortDescription": "选择使用麦克风录制的音频质量。",
+        "ariaLabel": "选择使用麦克风录制的音频质量",
+        "testAudioSelector": {"accessibleAudioDisplayName": "测试麦克风质量"}
+    },
+    "subtitle": "在此处更新您的应用程序设置。",
+    "themeSelection": {
+        "longDescription": "如果在此处选择主题，它将覆盖您可能拥有的任何设备主题设置。",
+        "displayName": "主题选择",
+        "options": {
+            "default": {
+                "label": "系统",
+                "ariaLabel": "使用系统定义的主题"
+            },
+            "light": {
+                "label": "光",
+                "ariaLabel": "使用浅色主题"
+            },
+            "dark": {
+                "label": "黑暗的",
+                "ariaLabel": "使用深色主题"
+            }
+        },
+        "shortDescription": "选择应用程序应使用的主题。",
+        "ariaLabel": "选择应用程序应使用的主题"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "表示\u201cAI阅读器\u201d阅读器阅读书籍时使用的语音速率。",
+        "slider": {
+            "highLabel": "快速地",
+            "ariaLabel": "\u201cAI阅读器\u201d的语速",
+            "lowLabel": "慢的"
+        },
+        "displayName": "语速%{value}%",
+        "shortDescription": "选择\u201cAI Reader\u201d使用的语音速率。"
+    },
+    "parentalLocking": {
+        "longDescription": "启用后，设备所有者需要生物识别数据才能解锁应用程序中的高级功能。",
+        "displayName": "家长锁定",
+        "shortDescription": "当孩子使用该应用程序时，家长锁定会很有用。",
+        "ariaLabel": {
+            "disabled": "家长锁定已禁用",
+            "enabled": "家长锁定已启用"
+        }
+    }
+}

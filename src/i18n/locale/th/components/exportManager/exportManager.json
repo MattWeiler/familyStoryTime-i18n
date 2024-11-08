@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "กำลังส่งออกอยู่ โปรดลองอีกครั้งในภายหลัง"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "ยกเลิก",
+            "ariaLabel": "ยกเลิกการส่งออก"
+        },
+        "export": {
+            "textLabel": "ส่งออก",
+            "ariaLabel": "ส่งออกหนังสือที่เลือก"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "บันทึกหนังสือ %{count} ของคุณ",
+        "one": "บันทึกหนังสือ: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "กำลังวิเคราะห์ ...",
+        "packaging": "บรรจุภัณฑ์ ...",
+        "cancelling": "กำลังยกเลิก ..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "ผู้อ่าน",
+                    "ariaLabel": "ส่งออกข้อมูลผู้อ่านสำหรับหนังสือ %{bookTitle} เท่านั้น"
+                },
+                "full": {
+                    "label": "เต็ม",
+                    "ariaLabel": "ส่งออกหนังสือทั้งเล่ม %{bookTitle}"
+                }
+            },
+            "ariaLabel": "เลือกวิธีการส่งออกหนังสือ %{bookTitle}"
+        },
+        "readers": {"checkbox": {"ariaLabel": "เพื่อรวมเครื่องอ่าน %{readerDisplayName} ในการส่งออก"}},
+        "checkbox": {"ariaLabel": "เพื่อรวมหนังสือ %{bookTitle} ในการส่งออก"},
+        "bookReadersTooltip": {"label": "การเลือกตัวเลือก \"ผู้อ่าน\" จะส่งออกเฉพาะผู้อ่านที่เลือกเท่านั้น\n\n"}
+    },
+    "packagedMultiBookFileName": "หนังสือ",
+    "nothingToExport": "ไม่มีสิ่งใดที่จะส่งออก :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "อย่ายกเลิกการส่งออก"},
+            "yes": {"ariaLabel": "ยกเลิกการส่งออก"}
+        },
+        "title": "ยืนยันการยกเลิกการส่งออก",
+        "message": "คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการส่งออก"
+    }},
+    "titles": {
+        "booksToExport": "หนังสือที่จะส่งออก",
+        "failedToExport": "ไม่สามารถส่งออกหนังสือได้"
+    },
+    "outputFilenameField": {
+        "label": "ชื่อไฟล์เอาท์พุต",
+        "ariaLabel": "ชื่อไฟล์เอาต์พุตที่คาดหวัง"
+    },
+    "errors": {"invalidOutputFilename": "ชื่อไฟล์ไม่ถูกต้อง"}
+}

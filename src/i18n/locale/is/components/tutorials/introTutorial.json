@@ -1,0 +1,9 @@
+{
+    "mission": "Við viljum hjálpa til við að varðveita uppáhaldssögurnar þínar, lesnar af ástvinum þínum.",
+    "subtitle": "Skemmtilegt forrit til að hjálpa krökkum að lesa.",
+    "paragraphs": {"1": "Krakkar geta hlustað á uppáhaldssögurnar sínar lesnar af ástvinum, jafnvel þótt þeir séu langt í burtu eða séu látnir."},
+    "accessTutorial": {
+        "messages": {"1": "Þú getur nálgast þessa kennslu hvenær sem er í hamborgaravalmyndinni efst til vinstri í forritinu."},
+        "title": "Aðgangur kennslu"
+    }
+}

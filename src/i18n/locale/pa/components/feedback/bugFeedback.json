@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "ਈਮੇਲ ਕਰਨਾ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ",
+        "submissionFailed": "ਬੱਗ ਭੇਜਣਾ ਅਸਫਲ ਰਿਹਾ",
+        "submissionSuccess": "ਬੱਗ ਭੇਜਿਆ"
+    },
+    "submitButton": {
+        "text": "ਬੱਗ ਸਪੁਰਦ ਕਰੋ",
+        "ariaLabel": "ਬੱਗ ਦਰਜ ਕਰੋ"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "ਉਹ ਕਿਤਾਬ(ਕਿਤਾਬਾਂ) ਸ਼ਾਮਲ ਕਰੋ ਜੋ ਸਮੱਸਿਆ ਦਾ ਕਾਰਨ ਬਣ ਸਕਦੀ ਹੈ।",
+            "label": "ਨੱਥੀ ਕਰਨ ਲਈ ਕਿਤਾਬਾਂ"
+        },
+        "loadFailed": "ਕਿਤਾਬਾਂ ਨੂੰ ਲੋਡ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ",
+        "noBooksInstalled": "ਕੋਈ ਕਿਤਾਬਾਂ ਨਹੀਂ ਲਗਾਈਆਂ ਗਈਆਂ",
+        "picker": {
+            "header": "ਕਿਤਾਬਾਂ ਚੁਣੋ",
+            "ariaLabel": "ਚੁਣੋ ਕਿ ਕਿਹੜੀਆਂ ਕਿਤਾਬਾਂ ਬੱਗ ਫੀਡਬੈਕ ਨਾਲ ਜੁੜੀਆਂ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "ਆਪਣੇ ਬੱਗ ਫੀਡਬੈਕ ਨਾਲ ਜੁੜੀਆਂ ਕਿਤਾਬਾਂ ਵਿੱਚ ਬਦਲਾਅ ਕਰੋ"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "ਕਿਰਪਾ ਕਰਕੇ ਬੱਗ ਬਾਰੇ ਕੁਝ ਵੇਰਵੇ ਪ੍ਰਦਾਨ ਕਰੋ।",
+        "description": "ਬੱਗ ਬਾਰੇ ਵੇਰਵੇ ਪ੍ਰਦਾਨ ਕਰੋ।",
+        "label": "ਬੱਗ ਵੇਰਵੇ",
+        "ariaLabel": "ਬੱਗ ਦਾ ਵੇਰਵਾ"
+    }
+}

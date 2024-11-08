@@ -1,0 +1,96 @@
+{
+    "summary": "U kunt de favoriete boeken van uw gezin digitaliseren en er zoveel lezers bij betrekken als ze zelf willen opnemen.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "De \"Boekbouwer\" openen",
+            "ariaLabel": {
+                "expanded": "vouw de opening van het boekbouwergedeelte samen",
+                "collapsed": "open de opening van de sectie Boekbouwer"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Vanaf elke pagina heeft u toegang tot de \"Book Builder\" via het hamburgermenu linksboven in het scherm.",
+                    "2": "Vanaf daar drukt u op de optie \"Book Builder\"."
+                },
+                "title": "Hamburgermenu"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "Vanaf de pagina \"Leeshoek\" kunt u toegang krijgen tot de \"Book Builder\" door op de knop (+) rechtsonder in het scherm te drukken.",
+                    "2": "Vanaf daar drukt u op de optie \"een boek maken\"."
+                },
+                "title": "Actieknop"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "De \"Boekbouwer\" gebruiken",
+            "ariaLabel": {
+                "expanded": "vouw het gedeelte met de boekbouwer samen",
+                "collapsed": "open het gedeelte met de boekbouwer"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "Een boek moet minimaal 1 pagina bevatten, maar kent geen bovengrens.",
+                    "2": "Bij het vastleggen of uploaden van een afbeelding die voor een pagina moet worden gebruikt, wordt AI gebruikt om de tekst uit de afbeelding te extraheren. "
+                },
+                "title": "Boekpagina's"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "In de \"Book Builder\" kunt u verschillende attributen opgeven die verband houden met het boek.",
+                    "2": "Hier kunt u de titel van het boek, enkele afbeeldingen, broninformatie, vertragingen, lezers en pagina's opgeven."
+                },
+                "title": "Boekenbouwer"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Wanneer alle velden van een boek zijn ingevuld, moet het boek op het apparaat worden opgeslagen.",
+                    "2": "Bij het opslaan worden de boekgegevens gecontroleerd om er zeker van te zijn dat ze allemaal geldig zijn; "
+                },
+                "title": "Een boek opslaan"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Afbeeldingen kunnen worden vastgelegd met de camera van uw apparaat, of ze kunnen vanuit uw galerij worden geladen.",
+                    "2": "Wanneer een afbeelding is geselecteerd, kan deze worden bewerkt om ervoor te zorgen dat deze er zo goed mogelijk uitziet.",
+                    "3": "Als u op een bestaande afbeelding drukt, verschijnen de afbeeldingsknoppen."
+                },
+                "title": "Boek afbeeldingen"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Er kunnen vertragingen worden gedefinieerd die van invloed zijn op het afspelen van het boek.",
+                    "2": "Deze vertragingen kunnen ervoor zorgen dat het afspelen van audio niet te abrupt klinkt."
+                },
+                "title": "Boek vertragingen"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Wanneer een boek automatisch wordt afgespeeld, kan een specifiek geluid worden afgespeeld wanneer een pagina is voltooid en de volgende pagina klaar is om te beginnen.",
+                    "2": "Er kan een reeks vooraf gedefinieerde geluiden worden geselecteerd of een aangepast geluid kan worden geüpload of opgenomen."
+                },
+                "title": "Audio van paginawijziging"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "Een boek kan een willekeurig aantal lezers bevatten.",
+                    "2": "Elke lezer neemt zichzelf op terwijl hij elke pagina van het boek leest en is dus beschikbaar om het boek te lezen tijdens het afspelen van het boek."
+                },
+                "title": "Boeklezers"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "Er kan broninformatie over het boek worden verstrekt.",
+                    "2": "Hoewel deze broninformatie optioneel is, kan deze u helpen uw favoriete verhalen bij te houden."
+                },
+                "title": "Broninformatie van boek"
+            }
+        }
+    }
+}

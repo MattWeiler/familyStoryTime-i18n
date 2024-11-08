@@ -1,0 +1,25 @@
+{
+    "add": "添加",
+    "cancel": "取消",
+    "no": "不",
+    "verifying": "正在验证...",
+    "set": "放",
+    "yes": "是的",
+    "back": "后退",
+    "loading": "加载中 ...",
+    "required": "必需的",
+    "acknowledgeError": "承认错误",
+    "saving": "节省...",
+    "settingsButton": {
+        "text": "设置",
+        "ariaLabel": "转到应用程序设置页面"
+    },
+    "backButton": {
+        "label": "后退",
+        "title": "返回最后一页",
+        "ariaLabel": "返回最后一页"
+    },
+    "sending": "发送...",
+    "create": "创造",
+    "ok": "好的"
+}

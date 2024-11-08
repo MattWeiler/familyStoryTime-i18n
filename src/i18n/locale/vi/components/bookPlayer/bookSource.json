@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "hiển thị thông tin nguồn sách"},
+        "hideSource": {"ariaLabel": "ẩn thông tin nguồn sách"}
+    },
+    "sourceUrl": {
+        "label": "xem nguồn sách",
+        "ariaLabel": "URL nguồn sách mở"
+    },
+    "sourceIllustrator": {"label": "Người minh họa:"},
+    "sourceAuthor": {"label": "Tác giả:"},
+    "sourcePublisher": {"label": "Nhà xuất bản:"},
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "mở ISBN tìm kiếm ISBN sách"
+    }
+}

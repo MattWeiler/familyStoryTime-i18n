@@ -1,0 +1,19 @@
+{
+    "startButton": {
+        "title": "开始读书",
+        "ariaLabel": "开始读书"
+    },
+    "selectedReaderImage": {"ariaLabel": "选择语音来读书"},
+    "skipIntroButton": {
+        "title": "跳过简介",
+        "ariaLabel": "跳过简介"
+    },
+    "readMode": {
+        "items": {
+            "autoRead": {"ariaLabel": "每个页面都将以用户选择的声音朗读给用户"},
+            "pageRead": {"ariaLabel": "每个页面都会以用户选择的声音朗读给用户，但用户负责更改页面"},
+            "selfRead": {"ariaLabel": "用户将阅读每一页"}
+        },
+        "ariaLabel": "选择要使用的阅读模式"
+    }
+}

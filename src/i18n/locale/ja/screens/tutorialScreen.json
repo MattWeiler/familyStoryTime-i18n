@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "フィードバックをお寄せください"},
+        "intro": {"displayName": "導入"},
+        "createBooks": {"displayName": "本の作成"},
+        "parentalLocking": {"displayName": "ペアレンタルロック"},
+        "sharingBooks": {"displayName": "本を共有する"},
+        "bookPlayback": {"displayName": "本で遊ぶ"},
+        "bookStore": {"displayName": "本屋"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "%{pageName} ページを表示する"},
+        "backPageButton": {"ariaLabel": "1ページ戻る"},
+        "forwardPageButton": {"ariaLabel": "1ページ進む"}
+    },
+    "startLink": {
+        "label": "始めましょう",
+        "ariaLabel": "ホームページに行く"
+    }
+}

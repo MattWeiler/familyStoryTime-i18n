@@ -1,0 +1,22 @@
+{"durations": {
+    "hours": {
+        "other": "%{displayValue} horas",
+        "one": "%{displayValue} hora"
+    },
+    "mins": {
+        "other": "%{displayValue} minutos",
+        "one": "%{displayValue} min"
+    },
+    "ms": {
+        "other": "%{displayValue} ms",
+        "one": "%{displayValue} ms"
+    },
+    "secs": {
+        "other": "%{displayValue} segundos",
+        "one": "%{displayValue} segundos"
+    },
+    "days": {
+        "other": "%{displayValue} dias",
+        "one": "%{displayValue} dia"
+    }
+}}

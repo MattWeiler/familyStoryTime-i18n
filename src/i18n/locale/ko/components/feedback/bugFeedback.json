@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "이메일 전송이 지원되지 않습니다",
+        "submissionFailed": "버그 전송 실패",
+        "submissionSuccess": "버그가 전송되었습니다"
+    },
+    "submitButton": {
+        "text": "버그 제출",
+        "ariaLabel": "버그를 제출하다"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "문제를 일으킬 수 있는 책을 추가하세요.",
+            "label": "첨부할 도서"
+        },
+        "loadFailed": "책을 로드하지 못했습니다.",
+        "noBooksInstalled": "설치된 책 없음",
+        "picker": {
+            "header": "도서 선택",
+            "ariaLabel": "버그 피드백에 어떤 책을 첨부할지 선택하세요"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "버그 피드백에 첨부된 책을 변경합니다."}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "버그에 대한 세부정보를 제공해 주세요.",
+        "description": "버그에 대한 세부정보를 제공하세요.",
+        "label": "버그 세부정보",
+        "ariaLabel": "버그에 대한 설명"
+    }
+}

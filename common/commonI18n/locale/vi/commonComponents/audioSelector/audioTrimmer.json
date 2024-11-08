@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "phát âm thanh đã được cắt bớt để nghe mẫu"},
+    "playbackPositionLabel": "Vị trí phát lại",
+    "discardButton": {
+        "label": "Loại bỏ",
+        "title": "loại bỏ âm thanh đã cắt",
+        "ariaLabel": "loại bỏ âm thanh đã cắt"
+    },
+    "saveButton": {
+        "label": "Cứu",
+        "title": "sử dụng âm thanh đã được cắt bớt",
+        "ariaLabel": "sử dụng âm thanh đã được cắt bớt"
+    }
+}

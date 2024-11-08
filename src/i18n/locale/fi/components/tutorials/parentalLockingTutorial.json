@@ -1,0 +1,34 @@
+{
+    "summary": "Ennen kuin annat laitteesi lapsellesi, voit lukita sovelluksen estääksesi lapsia poistamasta kirjoja tai tekemästä muita muutoksia.",
+    "enabling": {
+        "messages": {
+            "1": "Ota lapsilukko käyttöön avaamalla hampurilaisvalikko ja painamalla oikeassa yläkulmassa olevaa avauslukkokuvaketta.",
+            "2": "Tämä pyytää sinua antamaan biometrisen vahvistuksen, joka käynnistää lapsilukkotoiminnon.",
+            "3": "Nyt kun lapsilukkotoiminto on otettu käyttöön, avaa lukkokuvakkeen painaminen lukitsee sovelluksen.",
+            "4": "Kun lapsilukkotoiminto on käytössä, se on lukittu-tilassa joka kerta, kun sovellus käynnistetään."
+        },
+        "title": "Ota lapsilukko käyttöön"
+    },
+    "disabling": {
+        "messages": {
+            "1": "Poista lapsilukko käytöstä avaamalla hampurilaisvalikko ja painamalla alareunassa olevaa asetuskohtaa.",
+            "2": "Poista asetussivulla \"Parental Locking\" -ominaisuuden valinta."
+        },
+        "title": "Poista lapsilukko käytöstä"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Kun sovellus on lukittu, useat sovelluksen ominaisuudet eivät näy, kuten kontekstivalikot tai painikkeet, joiden avulla voit lisätä/poistaa kirjoja.",
+            "2": "Tämä asettaa sovelluksen vain luku -tilaan, joka on lasten turvallinen käyttää.",
+            "3": "Jotta voit käyttää näitä piilotettuja ominaisuuksia, sinun on avattava sovelluksen lukitus."
+        },
+        "title": "Lukitut ominaisuudet"
+    },
+    "locked": {
+        "messages": {
+            "1": "Avaa sovelluksen lukitus avaamalla hampurilaisvalikko ja painamalla suljetun lukon kuvaketta oikeassa yläkulmassa.",
+            "2": "Tämä pyytää sinua antamaan biometrisen vahvistuksen, joka avaa sovelluksen lukituksen."
+        },
+        "title": "Avaa sovellus"
+    }
+}

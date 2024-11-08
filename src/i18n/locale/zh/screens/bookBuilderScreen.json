@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "已保存的图书\u201c%{bookTitle}\u201d",
+        "validationFailed": "验证失败",
+        "bookSaveFailed": "保存书籍失败"
+    },
+    "bookTitleInput": {
+        "description": "书名。",
+        "label": "书名",
+        "placeholder": "书名",
+        "ariaLabel": "书名"
+    },
+    "readers": {
+        "label": "读者",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "这位新读者的显示名称",
+                "buttons": {
+                    "cancel": {"ariaLabel": "取消添加新读者"},
+                    "add": {"ariaLabel": "添加新读者"}
+                },
+                "description": "请提供该新读者的显示名称。",
+                "title": "添加新读者",
+                "inputPlaceholder": "读者姓名"
+            },
+            "ariaLabel": "添加新读者"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "播放页面更改音频之前等待的毫秒数。",
+            "label": "页面更改音频之前",
+            "placeholder": "播放页面更改音频之前的毫秒数",
+            "ariaLabel": "播放页面更改音频之前等待的毫秒数"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "播放页面更改音频后等待的毫秒数。",
+            "label": "页面更改后音频",
+            "placeholder": "播放页面更改音频后的毫秒数",
+            "ariaLabel": "播放页面更改音频后等待的毫秒数"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "播放页面音频之前等待的毫秒数。",
+            "label": "页前音频",
+            "placeholder": "播放页面音频之前的毫秒数",
+            "ariaLabel": "播放页面音频之前等待的毫秒数"
+        },
+        "label": "延误"
+    },
+    "bookIconImageSelector": {
+        "description": "用作书籍图标的图像。",
+        "label": "书本图标",
+        "accessibleImageDisplayName": "书本图标"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "首次启动书籍时显示的图像。",
+        "label": "书籍启动图像",
+        "accessibleImageDisplayName": "书溅"
+    },
+    "confirmations": {"goBack": {
+        "title": "休假变更",
+        "message": "您确定要在保存之前离开吗？"
+    }},
+    "pageChangeAudio": {
+        "description": "需要更改页面时播放的音频。",
+        "label": "页面更改音频",
+        "presetAudioModalPicker": {
+            "headerLabel": "选择页面更改音频",
+            "ariaLabel": "从预设页面列表中选择更改音频选项",
+            "accessibleAudioDisplayName": "页面变更"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "无法加载书籍。",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "延迟不能为负数",
+            "bookTitleMissing": "书名为必填项",
+            "readerDisplayNameMissing": "阅读器显示名称为必填项",
+            "bookIconNotValid": "需要书本图标",
+            "pageTextMissing": "页面文字为必填项",
+            "delayBeforePlayingPageAudioNegative": "延迟不能为负数",
+            "pagesMissing": "至少需要 1 页",
+            "pageImageNotValid": "需要页面图片",
+            "delayBeforePlayingPageChangeAudioNegative": "延迟不能为负数",
+            "bookSplashImageNotValid": "需要书籍启动图像",
+            "readerIntroAudioNotValid": "阅读器介绍音频不是有效文件",
+            "pageAudioNotValid": "需要页面音频",
+            "pageChangeAudioNotValid": "需要换页音频",
+            "delayAfterPlayingPageChangeAudioNotInteger": "延迟必须是整数",
+            "delayBeforePlayingPageAudioNotInteger": "延迟必须是整数",
+            "delayBeforePlayingPageChangeAudioNotInteger": "延迟必须是整数",
+            "delayBeforePlayingPageAudioRequired": "需要延迟",
+            "readerImageNotValid": "需要读者图像",
+            "delayBeforePlayingPageChangeAudioRequired": "需要延迟",
+            "delayAfterPlayingPageChangeAudioRequired": "需要延迟"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "本书的来源 URL。",
+            "label": "来源网址",
+            "placeholder": "源网址",
+            "ariaLabel": "本书的来源网址"
+        },
+        "authorInput": {
+            "description": "这本书的作者的名字。",
+            "label": "作者姓名",
+            "placeholder": "书的作者",
+            "ariaLabel": "该书作者的姓名"
+        },
+        "illustratorInput": {
+            "description": "这本书的插画家的名字。",
+            "label": "插画师姓名",
+            "placeholder": "书的插画家",
+            "ariaLabel": "这本书的插画家的名字"
+        },
+        "publisherInput": {
+            "description": "该书的出版商的名称。",
+            "label": "出版商名称",
+            "placeholder": "图书出版商",
+            "ariaLabel": "图书出版商名称"
+        },
+        "label": "来源",
+        "isbnInput": {
+            "description": "书籍的国际标准书号。",
+            "label": "国际标准书号",
+            "placeholder": "书的 ISBN",
+            "ariaLabel": "图书的国际标准书号"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "添加新页面"},
+        "label": "页数"
+    }
+}

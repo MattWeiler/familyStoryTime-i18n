@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "Thao tác này sẽ xóa tất cả sách được cài đặt trên thiết bị này.\n\n",
+        "button": {
+            "label": "Xóa bỏ",
+            "title": "xóa tất cả sách",
+            "ariaLabel": "xóa tất cả sách"
+        },
+        "displayName": "Xóa tất cả sách",
+        "processingMessage": "xóa ...",
+        "shortDescription": {
+            "disabled": "Xóa tất cả sách của bạn nhưng hiện tại bạn chưa cài đặt bất kỳ cuốn sách nào.",
+            "enabled": "Xóa tất cả sách của bạn."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} ",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "Máy làm mát",
+                "someFontsBy": "Phông chữ theo:"
+            },
+            "label": "Cảm ơn đặc biệt",
+            "icons": {
+                "ionicIcons": "IonBiểu tượng",
+                "someIconsBy": "Biểu tượng bởi:",
+                "icons8": "Biểu tượng8",
+                "iconArchive": "Lưu trữ biểu tượng"
+            }
+        },
+        "version": "Phiên bản: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Trình chỉnh sửa hình ảnh này sẽ được sử dụng khi hình ảnh cuốn sách mới đang được chụp hoặc hình ảnh cuốn sách hiện có đang được chỉnh sửa.",
+        "displayName": "Trình chỉnh sửa hình ảnh",
+        "testLabel": "Kiểm tra trình chỉnh sửa hình ảnh",
+        "testImage": {"accessibleImageDisplayName": "thử nghiệm trình chỉnh sửa hình ảnh"},
+        "options": {
+            "advanced": {
+                "label": "Trình độ cao",
+                "ariaLabel": "sử dụng trình chỉnh sửa hình ảnh nâng cao"
+            },
+            "simple": {
+                "label": "Đơn giản",
+                "ariaLabel": "sử dụng trình chỉnh sửa hình ảnh đơn giản"
+            }
+        },
+        "shortDescription": "Chọn trình chỉnh sửa hình ảnh nào sẽ được sử dụng.",
+        "ariaLabel": "chọn trình chỉnh sửa hình ảnh nào sẽ được sử dụng"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Giọng nói này sẽ được sử dụng khi đầu đọc \"AI Reader\" đọc sách.",
+        "displayName": "Giọng nói ưa thích",
+        "selectorButton": {
+            "defaultLabel": "mặc định",
+            "ariaLabel": "chọn giọng nói \"AI Reader\""
+        },
+        "shortDescription": "Chọn giọng nói sẽ được \"AI Reader\" sử dụng.",
+        "picker": {
+            "default": "mặc định",
+            "networkActionIcon": {"ariaLabel": "hiển thị tiếng nói dựa trên mạng và cục bộ"},
+            "label": "Giọng đọc AI",
+            "ariaLabel": "chọn giọng nói \"AI Reader\"",
+            "globalActionIcon": {"ariaLabel": "hiển thị tất cả các ngôn ngữ"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Âm thanh & Video",
+        "ariaLabel": {
+            "expanded": "thu gọn phần lựa chọn âm thanh video",
+            "collapsed": "mở rộng phần lựa chọn video âm thanh"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Chất lượng hình ảnh này sẽ được sử dụng khi chụp ảnh bằng (các) camera của thiết bị.",
+        "slider": {
+            "highLabel": "Cao",
+            "ariaLabel": "chất lượng hình ảnh của hình ảnh",
+            "lowLabel": "Thấp"
+        },
+        "displayName": "Chất lượng máy ảnh %{value}%",
+        "testLabel": "Máy ảnh thử nghiệm",
+        "testImage": {"accessibleImageDisplayName": "test chất lượng ảnh chụp từ camera"},
+        "shortDescription": "Chọn chất lượng ảnh chụp bằng camera."
+    },
+    "title": "Cài đặt",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Xác nhận xóa",
+        "message": "Bạn có chắc chắn muốn xóa tất cả sách đã cài đặt không?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "Điều này có thể hữu ích khi di chuyển sang thiết bị mới hoặc thêm sách của bạn vào nhiều thiết bị.",
+        "button": {
+            "label": "Xuất khẩu",
+            "title": "xuất tất cả sách",
+            "ariaLabel": "xuất tất cả sách"
+        },
+        "displayName": "Xuất tất cả sách",
+        "shortDescription": {
+            "disabled": "Xuất tất cả sách của bạn sang một tệp duy nhất và lưu/chia sẻ nó, nhưng hiện tại bạn chưa cài đặt bất kỳ cuốn sách nào.",
+            "enabled": "Xuất tất cả sách của bạn sang một tệp duy nhất và lưu/chia sẻ nó."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "xóa không thành công",
+        "success": {
+            "other": "đã xóa %{count} sách",
+            "one": "đã xóa 1 cuốn sách"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "Trình đọc AI",
+        "testLabel": "Kiểm tra giọng nói",
+        "testAriaLabel": {
+            "stopped": "kiểm tra giọng nói \"AI Reader\"",
+            "playing": "dừng bài kiểm tra giọng nói \"AI Reader\""
+        },
+        "testPhrase": "Xin chào, tôi rất muốn cùng bạn đọc những câu chuyện yêu thích của bạn.",
+        "description": "Khi được bật, \"AI Reader\" sẽ có sẵn dưới dạng trình đọc khi phát lại sách.",
+        "ariaLabel": {
+            "expanded": "thu gọn phần lựa chọn \"AI Reader\"",
+            "collapsed": "mở rộng phần lựa chọn \"AI Reader\"",
+            "disabled": "\"Trình đọc AI\" bị tắt",
+            "enabled": "\"Trình đọc AI\" được bật"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "Điều này biểu thị cao độ của giọng nói được sử dụng khi trình đọc \"AI Reader\" đọc sách.",
+        "slider": {
+            "highLabel": "Cao",
+            "ariaLabel": "cao độ giọng nói của \"AI Reader\"",
+            "lowLabel": "Thấp"
+        },
+        "displayName": "Cao độ giọng nói %{value}%",
+        "shortDescription": "Chọn cao độ của giọng nói mà \"AI Reader\" sẽ sử dụng."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Chất lượng âm thanh này sẽ được sử dụng khi ghi âm bằng micro của thiết bị.",
+        "displayName": "Chất lượng micro",
+        "testLabel": "Kiểm tra micrô",
+        "options": {
+            "high": {
+                "label": "Cao",
+                "ariaLabel": "sử dụng chất lượng âm thanh cao"
+            },
+            "low": {
+                "label": "Thấp",
+                "ariaLabel": "sử dụng chất lượng âm thanh thấp"
+            }
+        },
+        "shortDescription": "Chọn chất lượng âm thanh của bản ghi được ghi bằng micrô.",
+        "ariaLabel": "chọn chất lượng âm thanh của bản ghi được ghi bằng micrô",
+        "testAudioSelector": {"accessibleAudioDisplayName": "kiểm tra chất lượng micro"}
+    },
+    "subtitle": "Cập nhật cài đặt ứng dụng của bạn tại đây.",
+    "themeSelection": {
+        "longDescription": "Nếu một chủ đề được chọn ở đây, nó sẽ ghi đè mọi cài đặt chủ đề thiết bị mà bạn có thể có.",
+        "displayName": "Lựa chọn chủ đề",
+        "options": {
+            "default": {
+                "label": "Hệ thống",
+                "ariaLabel": "sử dụng chủ đề do hệ thống xác định"
+            },
+            "light": {
+                "label": "Ánh sáng",
+                "ariaLabel": "sử dụng chủ đề ánh sáng"
+            },
+            "dark": {
+                "label": "Tối tăm",
+                "ariaLabel": "sử dụng chủ đề tối"
+            }
+        },
+        "shortDescription": "Chọn chủ đề mà ứng dụng sẽ sử dụng.",
+        "ariaLabel": "chọn chủ đề nên được ứng dụng sử dụng"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "Điều này biểu thị tốc độ giọng nói được sử dụng khi trình đọc \"AI Reader\" đọc sách.",
+        "slider": {
+            "highLabel": "Nhanh",
+            "ariaLabel": "tốc độ nói của \"AI Reader\"",
+            "lowLabel": "Chậm"
+        },
+        "displayName": "Tốc độ nói %{value}%",
+        "shortDescription": "Chọn tốc độ giọng nói sẽ được \"AI Reader\" sử dụng."
+    },
+    "parentalLocking": {
+        "longDescription": "Khi được bật, dữ liệu sinh trắc học của chủ sở hữu thiết bị được yêu cầu để mở khóa các tính năng nâng cao trong ứng dụng.",
+        "displayName": "Khóa của phụ huynh",
+        "shortDescription": "Tính năng khóa của cha mẹ có thể hữu ích khi trẻ em sử dụng ứng dụng.",
+        "ariaLabel": {
+            "disabled": "khóa của phụ huynh bị vô hiệu hóa",
+            "enabled": "khóa của phụ huynh đã được bật"
+        }
+    }
+}

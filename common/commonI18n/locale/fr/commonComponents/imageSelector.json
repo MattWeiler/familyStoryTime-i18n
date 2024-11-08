@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "rechercher un fichier image",
+        "ariaLabel": "recherchez un fichier image pour l'image %{imageDisplayName}"
+    },
+    "takePhotoButton": {
+        "title": "prendre une photo",
+        "ariaLabel": "prendre une photo pour l'image %{imageDisplayName}"
+    },
+    "browseImageGalleryButton": {
+        "title": "parcourir la galerie d'images",
+        "ariaLabel": "parcourir la galerie d'images pour l'image %{imageDisplayName}"
+    },
+    "fullscreenButton": {"ariaLabel": "afficher l'image %{imageDisplayName} en plein écran"},
+    "imageEditor": {
+        "cropButton": {"text": "Recadrer"},
+        "cancelButton": {"text": "Annuler"},
+        "backButton": {"text": "Dos"},
+        "saveButton": {"text": "Sauvegarder"}
+    },
+    "editSelectedImageButton": {
+        "title": "modifier l'image",
+        "ariaLabel": "modifier l'image %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "afficher les contrôles d'image %{imageDisplayName}",
+        "controlsVisible": "masquer les contrôles d'image %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Autorisation refusée",
+            "message": "Vous avez refusé l'autorisation d'accéder à votre caméra."
+        },
+        "browseImages": {
+            "title": "Autorisation refusée",
+            "message": "Vous avez refusé l'autorisation d'accéder à vos photos."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "fermer le plein écran"}
+}

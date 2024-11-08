@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "책을 로드하지 못했습니다."},
+        "import": {"failure": "가져오기 실패"},
+        "delete": {
+            "failure": "삭제 실패",
+            "success": "삭제된 책 \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "%{count}권의 도서를 삭제하지 못했습니다.",
+                "one": "도서 1권을 삭제하지 못했습니다."
+            },
+            "success": {
+                "other": "%{count}권 삭제됨",
+                "one": "책 1권을 삭제했습니다"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "페이지 수를 기준으로 내림차순으로 정렬",
+                "descending": "페이지 수 기준 오름차순 정렬"
+            }},
+            "searchField": {
+                "placeholder": "책을 검색해 보세요",
+                "ariaLabel": "책을 검색해 보세요"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "내보내다",
+                        "ariaLabel": "선택한 책 내보내기"
+                    },
+                    "delete": {
+                        "label": "삭제",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "아니요, 선택한 책을 삭제하지 마세요"},
+                                "yes": {"ariaLabel": "네, 선택한 책을 삭제하겠습니다"}
+                            },
+                            "title": "삭제 확인",
+                            "message": {
+                                "other": "선택한 %{count}권의 도서를 삭제하시겠습니까?",
+                                "one": "선택한 책을 삭제하시겠습니까?"
+                            }
+                        },
+                        "ariaLabel": "선택한 책 삭제"
+                    }
+                },
+                "ariaLabel": "선택한 책에 대한 상황에 맞는 메뉴를 엽니다"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "책 제목을 기준으로 내림차순으로 정렬",
+                "descending": "책 제목을 기준으로 오름차순으로 정렬"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "독자 수 기준 내림차순 정렬",
+                "descending": "독자 수 기준 오름차순 정렬"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "한 번에 더 많은 항목을 보려면 축소하세요.",
+                "zoomedOut": "더 큰 이미지를 보려면 확대하세요."
+            }}
+        },
+        "loadError": {
+            "text": "책을 로드하지 못했습니다.",
+            "ariaLabel": "책을 로드하지 못했습니다."
+        },
+        "noBooksFound": {
+            "message": "책을 찾을 수 없습니다 :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "우리의",
+                    "linkName": "책을 만드는 사람"
+                },
+                "availableBooks": {
+                    "message": "우리를 확인해 보세요",
+                    "linkName": "서점"
+                }
+            }
+        }
+    },
+    "subtitle": "몇 가지 이야기를 재미있게 읽어 봅시다.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "책을 만들다",
+                "ariaLabel": "새 책을 만들다"
+            },
+            "importBooks": {
+                "label": "수입 도서",
+                "ariaLabel": "하나 이상의 도서 가져오기"
+            },
+            "bookStore": {
+                "label": "서점을 방문하다",
+                "ariaLabel": "우리 서점을 방문하세요"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "책 메뉴 추가 닫기",
+            "collapsed": "책 추가 메뉴 열기"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "삭제 중 ...\n",
+            "one": "삭제 중 ...\n",
+            "none": "삭제 중 ..."
+        }},
+        "export": {"label": {
+            "other": "수출 중 ...\n",
+            "one": "수출 중 ...\n",
+            "none": "수출 중 ..."
+        }}
+    }},
+    "title": "독서코너",
+    "confirmations": {"deleteBook": {
+        "title": "삭제 확인",
+        "message": "\"%{bookTitle}\" 책을 삭제하시겠습니까?"
+    }}
+}

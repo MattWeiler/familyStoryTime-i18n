@@ -1,0 +1,22 @@
+{"durations": {
+    "hours": {
+        "other": "%{displayValue} ชั่วโมง",
+        "one": "%{displayValue} ชั่วโมง"
+    },
+    "mins": {
+        "other": "%{displayValue} นาที",
+        "one": "%{displayValue} นาที"
+    },
+    "ms": {
+        "other": "%{displayValue} มิลลิวินาที",
+        "one": "%{displayValue} มิลลิวินาที"
+    },
+    "secs": {
+        "other": "%{displayValue} วินาที",
+        "one": "%{displayValue} วินาที"
+    },
+    "days": {
+        "other": "%{displayValue} วัน",
+        "one": "%{displayValue} วัน"
+    }
+}}

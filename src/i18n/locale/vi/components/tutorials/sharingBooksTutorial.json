@@ -1,0 +1,25 @@
+{
+    "summary": "Sau khi tạo sách, bạn có thể chia sẻ sách đó với gia đình và bạn bè.",
+    "exporting": {
+        "messages": {
+            "1": "Bạn có thể xuất một cuốn sách thông qua menu ngữ cảnh hoặc nhiều cuốn sách cùng lúc bằng cách giữ lâu để chọn nhiều cuốn sách.",
+            "2": "Khi bạn đã chọn (các) sách để xuất, bạn có thể chọn chính xác những gì sẽ được xuất.",
+            "3": "Theo mặc định, toàn bộ sách sẽ được xuất nhưng bạn có thể chọn và chọn những độc giả nào sẽ được đưa vào nội dung sách hoặc bạn có thể chọn chỉ xuất những độc giả cụ thể.",
+            "4": "Khi bạn chỉ muốn gửi thông tin về người đọc mà bạn đã ghi lại cho người đã có sách, bạn có thể tạo một tệp nhỏ hơn nhiều để chia sẻ bằng cách chỉ bao gồm (những) người đọc cụ thể."
+        },
+        "title": "Xuất khẩu"
+    },
+    "importingMerging": {"messages": {
+        "1": "Khi nhập sách đã được cài đặt trên thiết bị của bạn, bạn sẽ có thể chọn xem sách đang nhập có ghi đè lên sách đã cài đặt hay không hoặc có nên thực hiện hợp nhất hay không.",
+        "2": "Khi hợp nhất, chỉ những độc giả được chọn mới được thêm vào sách đã được cài đặt.",
+        "3": "Nếu những đầu đọc được hợp nhất đã được cài đặt trên thiết bị, chúng sẽ được thay thế."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Từ trang \"Góc đọc\", bạn có thể chọn sách cần nhập bằng cách chọn tùy chọn \"nhập sách\" khi nhấn nút (+) ở dưới cùng bên phải màn hình.",
+            "2": "Ngoài ra, bạn có thể gửi tệp sách đến ứng dụng \"Thời gian kể chuyện gia đình\".",
+            "3": "Khi nhập sách chưa được cài đặt trên thiết bị của bạn, sách đó sẽ được cài đặt."
+        },
+        "title": "Nhập khẩu"
+    }
+}

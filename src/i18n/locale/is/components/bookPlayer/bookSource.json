@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "sýna heimildarupplýsingar bókarinnar"},
+        "hideSource": {"ariaLabel": "fela heimildarupplýsingar bókarinnar"}
+    },
+    "sourceUrl": {
+        "label": "skoða heimild bókarinnar",
+        "ariaLabel": "vefslóð opinnar bókar"
+    },
+    "sourceIllustrator": {"label": "Myndskreytir:"},
+    "sourceAuthor": {"label": "Höfundur:"},
+    "sourcePublisher": {"label": "Útgefandi:"},
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "opna ISBN leit að bókinni ISBN"
+    }
+}

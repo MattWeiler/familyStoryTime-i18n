@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "nee, verwijder het Beschikbare boek niet",
+            "yesButtonAriaLabel": "ja, verwijder het beschikbare boek",
+            "title": "Bevestiging verwijderen",
+            "message": "Weet u zeker dat u dit beschikbare boek wilt verwijderen?\n"
+        },
+        "ariaLabel": "verwijder het beschikbare boek %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "vrij"},
+        "newerVersionAvailableMessage": "Update beschikbaar"
+    },
+    "subtitle": "Laten we een paar goede verhalen zoeken om te lezen.",
+    "loadingFailedMessage": "Kan beschikbare boeken niet laden.\n",
+    "title": "Boekwinkel",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "nee, installeer het beschikbare boek niet",
+            "yesButtonAriaLabel": "ja, installeer het beschikbare boek",
+            "title": "Installatiebevestiging",
+            "message": "Weet u zeker dat u dit beschikbare boek wilt installeren?\nAls u dit doet, wordt %{fileSize} aan gegevens gebruikt."
+        },
+        "ariaLabel": "installeer het beschikbare boek %{bookName}"
+    }
+}

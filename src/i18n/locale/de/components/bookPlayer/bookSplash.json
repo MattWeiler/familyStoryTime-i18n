@@ -1,0 +1,19 @@
+{
+    "startButton": {
+        "title": "Beginnen Sie mit dem Buch",
+        "ariaLabel": "Beginnen Sie mit dem Buch"
+    },
+    "selectedReaderImage": {"ariaLabel": "Wählen Sie die Stimme aus, um das Buch zu lesen"},
+    "skipIntroButton": {
+        "title": "Überspringe das Intro",
+        "ariaLabel": "Überspringe das Intro"
+    },
+    "readMode": {
+        "items": {
+            "autoRead": {"ariaLabel": "Jede Seite wird dem Benutzer mit der Stimme seiner Wahl vorgelesen"},
+            "pageRead": {"ariaLabel": "Jede Seite wird dem Benutzer mit der Stimme seiner Wahl vorgelesen, aber der Benutzer ist für das Ändern der Seite verantwortlich"},
+            "selfRead": {"ariaLabel": "Der Benutzer liest jede Seite"}
+        },
+        "ariaLabel": "Wählen Sie den zu verwendenden Lesemodus aus"
+    }
+}

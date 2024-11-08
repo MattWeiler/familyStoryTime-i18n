@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "sähköpostin lähettämistä ei tueta",
+        "submissionFailed": "palautteen lähetys epäonnistui",
+        "submissionSuccess": "palaute lähetetty"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Valitse tyytyväisyystaso.",
+        "description": "Kuinka todennäköisesti jaat sovelluksemme?",
+        "label": "Jakaminen muiden kanssa",
+        "levels": {
+            "1": {
+                "displayName": "Ei tapaa",
+                "ariaLabel": "ei mitenkään"
+            },
+            "2": {
+                "displayName": "Ei todennäköistä",
+                "ariaLabel": "ei todennäköistä"
+            },
+            "3": {
+                "displayName": "Ehkä",
+                "ariaLabel": "ehkä"
+            },
+            "4": {
+                "displayName": "Kyllä",
+                "ariaLabel": "kyllä"
+            },
+            "5": {
+                "displayName": "On jo",
+                "ariaLabel": "on jo"
+            }
+        },
+        "ariaLabel": "Valitse, kuinka todennäköisesti jaat tämän mobiilisovelluksen muiden kanssa"
+    },
+    "submitButton": {
+        "text": "Lähetä palautetta",
+        "ariaLabel": "lähetä palautettasi"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Valitse tyytyväisyystaso.",
+        "description": "Kuinka paljon olet pitänyt/en pitänyt sovelluksestamme?",
+        "label": "Sovelluksen tyytyväisyys",
+        "levels": {
+            "1": {
+                "displayName": "Vihaan sitä",
+                "ariaLabel": "vihaa sitä"
+            },
+            "2": {
+                "displayName": "Pettynyt",
+                "ariaLabel": "pettynyt"
+            },
+            "3": {
+                "displayName": "Neutraali",
+                "ariaLabel": "neutraali"
+            },
+            "4": {
+                "displayName": "Hienoa",
+                "ariaLabel": "hienoa"
+            },
+            "5": {
+                "displayName": "Rakasta sitä",
+                "ariaLabel": "rakastan sitä"
+            }
+        },
+        "ariaLabel": "Valitse tyytyväisyystasosi tähän mobiilisovellukseen"
+    },
+    "commentInput": {
+        "description": "Voit halutessasi antaa lisäkommentteja.",
+        "label": "Kommentti",
+        "ariaLabel": "valinnaisesti lisäkommentteja"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Valitse tyytyväisyystaso.",
+        "description": "Miten löysit pelikirjat?",
+        "label": "Kirjojen pelaaminen",
+        "levels": {
+            "1": {
+                "displayName": "Ei toiminut",
+                "ariaLabel": "ei toiminut"
+            },
+            "2": {
+                "displayName": "Ei hienoa",
+                "ariaLabel": "ei hienoa"
+            },
+            "3": {
+                "displayName": "Se on ok",
+                "ariaLabel": "se on ok"
+            },
+            "4": {
+                "displayName": "Se on helppoa",
+                "ariaLabel": "se on helppoa"
+            },
+            "5": {
+                "displayName": "Rakasta sitä",
+                "ariaLabel": "rakastan sitä"
+            }
+        },
+        "ariaLabel": "valitse tyytyväisyytesi kirjan toistoon"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Valitse tyytyväisyystaso.",
+        "description": "Mitä pidit siitä, että sinulla on useita lukijoita?",
+        "label": "Useita lukijoita",
+        "levels": {
+            "1": {
+                "displayName": "Ei toiminut",
+                "ariaLabel": "ei toiminut"
+            },
+            "2": {
+                "displayName": "Ei hienoa",
+                "ariaLabel": "ei hienoa"
+            },
+            "3": {
+                "displayName": "Se on ok",
+                "ariaLabel": "se on ok"
+            },
+            "4": {
+                "displayName": "Se on helppoa",
+                "ariaLabel": "se on helppoa"
+            },
+            "5": {
+                "displayName": "Rakasta sitä",
+                "ariaLabel": "rakastan sitä"
+            }
+        },
+        "ariaLabel": "Valitse, oletko tyytyväinen siihen, että kirjaa kohden on useita lukijoita"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Valitse tyytyväisyystaso.",
+        "description": "Miten löysit kirjojen luomisen?",
+        "label": "Kirjojen luominen",
+        "levels": {
+            "1": {
+                "displayName": "Ei toiminut",
+                "ariaLabel": "ei toiminut"
+            },
+            "2": {
+                "displayName": "Ei hienoa",
+                "ariaLabel": "ei hienoa"
+            },
+            "3": {
+                "displayName": "Se on ok",
+                "ariaLabel": "se on ok"
+            },
+            "4": {
+                "displayName": "Se on helppoa",
+                "ariaLabel": "se on helppoa"
+            },
+            "5": {
+                "displayName": "Rakasta sitä",
+                "ariaLabel": "rakastan sitä"
+            }
+        },
+        "ariaLabel": "valitse tyytyväisyytesi kirjan luomisprosessiin"
+    }
+}

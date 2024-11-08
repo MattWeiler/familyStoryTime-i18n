@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "ਆਡੀਓ ਚਲਾਓ",
+            "ariaLabel": "ਆਡੀਓ ਚਲਾਓ"
+        },
+        "playing": {
+            "title": "ਆਡੀਓ ਨੂੰ ਰੋਕੋ",
+            "ariaLabel": "ਆਡੀਓ ਨੂੰ ਰੋਕੋ"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "ਪੂਰੇ ਚਿੱਤਰ ਨੂੰ ਦਿਖਾਉਣ ਲਈ ਜ਼ੂਮ ਆਉਟ ਕਰੋ, ਪਾਸੇ 'ਤੇ ਕਾਲੀਆਂ ਪੱਟੀਆਂ ਹੋ ਸਕਦੀਆਂ ਹਨ",
+        "zoomedOut": "ਇਹ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਜ਼ੂਮ ਇਨ ਕਰੋ ਕਿ ਪੂਰੀ ਸਕ੍ਰੀਨ ਚਿੱਤਰ ਨਾਲ ਭਰੀ ਹੋਈ ਹੈ, ਕੁਝ ਚਿੱਤਰ ਦਿਖਾਈ ਨਹੀਂ ਦੇ ਸਕਦੇ ਹਨ"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "ਪਿਛਲੇ ਪੰਨੇ 'ਤੇ ਜਾਓ",
+            "ariaLabel": "ਪਿਛਲੇ ਪੰਨੇ 'ਤੇ ਜਾਓ"
+        },
+        "noPreviousPage": {
+            "title": "ਕਿਤਾਬ ਦੀ ਚੋਣ 'ਤੇ ਵਾਪਸ ਜਾਓ",
+            "ariaLabel": "ਕਿਤਾਬ ਦੀ ਚੋਣ 'ਤੇ ਵਾਪਸ ਜਾਓ"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "ਅਗਲੇ ਪੰਨੇ 'ਤੇ ਜਾਓ",
+            "ariaLabel": "ਅਗਲੇ ਪੰਨੇ 'ਤੇ ਜਾਓ"
+        },
+        "noNextPage": {
+            "title": "ਕਿਤਾਬ ਦੀ ਚੋਣ 'ਤੇ ਵਾਪਸ ਜਾਓ",
+            "ariaLabel": "ਕਿਤਾਬ ਦੀ ਚੋਣ 'ਤੇ ਵਾਪਸ ਜਾਓ"
+        }
+    }
+}

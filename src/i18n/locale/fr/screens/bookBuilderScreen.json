@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "livre enregistré \"%{bookTitle}\"",
+        "validationFailed": "échec de la validation",
+        "bookSaveFailed": "livret d'épargne échoué"
+    },
+    "bookTitleInput": {
+        "description": "Le titre du livre.",
+        "label": "Titre du livre",
+        "placeholder": "titre du livre",
+        "ariaLabel": "titre du livre"
+    },
+    "readers": {
+        "label": "Lecteurs",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "nom d'affichage pour ce nouveau lecteur",
+                "buttons": {
+                    "cancel": {"ariaLabel": "annuler l'ajout du nouveau lecteur"},
+                    "add": {"ariaLabel": "ajouter le nouveau lecteur"}
+                },
+                "description": "Veuillez fournir le nom d'affichage de ce nouveau lecteur.",
+                "title": "Ajouter un nouveau lecteur",
+                "inputPlaceholder": "nom du lecteur"
+            },
+            "ariaLabel": "ajouter un nouveau lecteur"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Le nombre de millisecondes à attendre avant de lire l'audio du changement de page.",
+            "label": "Avant le changement de page audio",
+            "placeholder": "millisecondes avant la lecture de l'audio de changement de page",
+            "ariaLabel": "millisecondes à attendre avant de lire l'audio de changement de page"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Le nombre de millisecondes à attendre après la lecture de l'audio du changement de page.",
+            "label": "Après le changement de page audio",
+            "placeholder": "millisecondes après la lecture de l'audio du changement de page",
+            "ariaLabel": "millisecondes à attendre après la lecture de l'audio de changement de page"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Le nombre de millisecondes à attendre avant de lire l'audio de la page.",
+            "label": "Avant la page audio",
+            "placeholder": "millisecondes avant la lecture de l'audio de la page",
+            "ariaLabel": "millisecondes à attendre avant de lire l'audio de la page"
+        },
+        "label": "Retards"
+    },
+    "bookIconImageSelector": {
+        "description": "L'image à utiliser comme icône du livre.",
+        "label": "Icône de livre",
+        "accessibleImageDisplayName": "icône de livre"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "L'image à afficher lors du premier lancement du livre.",
+        "label": "Image de démarrage du livre",
+        "accessibleImageDisplayName": "éclaboussure de livre"
+    },
+    "confirmations": {"goBack": {
+        "title": "Laisser les modifications",
+        "message": "Etes-vous sûr de vouloir quitter avant d'enregistrer ?"
+    }},
+    "pageChangeAudio": {
+        "description": "L'audio à jouer lorsqu'il est temps de changer de page.",
+        "label": "Changement de page audio",
+        "presetAudioModalPicker": {
+            "headerLabel": "Sélectionnez l'audio de changement de page",
+            "ariaLabel": "sélectionnez dans la liste des options audio de changement de page prédéfinies",
+            "accessibleAudioDisplayName": "changement de page"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Échec du chargement du livre.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "le retard ne peut pas être négatif",
+            "bookTitleMissing": "le titre du livre est obligatoire",
+            "readerDisplayNameMissing": "le nom d\u2019affichage du lecteur est requis",
+            "bookIconNotValid": "l'icône du livre est obligatoire",
+            "pageTextMissing": "le texte de la page est requis",
+            "delayBeforePlayingPageAudioNegative": "le retard ne peut pas être négatif",
+            "pagesMissing": "au moins 1 page est requise",
+            "pageImageNotValid": "l'image de la page est requise",
+            "delayBeforePlayingPageChangeAudioNegative": "le retard ne peut pas être négatif",
+            "bookSplashImageNotValid": "L'image de démarrage du livre est requise",
+            "readerIntroAudioNotValid": "L'audio d'introduction du lecteur n'est pas un fichier valide",
+            "pageAudioNotValid": "l'audio de la page est requis",
+            "pageChangeAudioNotValid": "L'audio de changement de page est requis",
+            "delayAfterPlayingPageChangeAudioNotInteger": "le délai doit être un nombre entier",
+            "delayBeforePlayingPageAudioNotInteger": "le délai doit être un nombre entier",
+            "delayBeforePlayingPageChangeAudioNotInteger": "le délai doit être un nombre entier",
+            "delayBeforePlayingPageAudioRequired": "un délai est nécessaire",
+            "readerImageNotValid": "l'image du lecteur est requise",
+            "delayBeforePlayingPageChangeAudioRequired": "un délai est nécessaire",
+            "delayAfterPlayingPageChangeAudioRequired": "un délai est nécessaire"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "L'URL source du livre.",
+            "label": "URL source",
+            "placeholder": "URL source",
+            "ariaLabel": "URL source du livre"
+        },
+        "authorInput": {
+            "description": "Le nom de l'auteur du livre.",
+            "label": "Nom de l'auteur",
+            "placeholder": "auteur du livre",
+            "ariaLabel": "nom de l'auteur du livre"
+        },
+        "illustratorInput": {
+            "description": "Le nom de l'illustrateur du livre.",
+            "label": "Nom de l'illustrateur",
+            "placeholder": "illustrateur de livre",
+            "ariaLabel": "nom de l'illustrateur du livre"
+        },
+        "publisherInput": {
+            "description": "Le nom de l'éditeur du livre.",
+            "label": "Nom de l'éditeur",
+            "placeholder": "éditeur de livre",
+            "ariaLabel": "nom de l'éditeur du livre"
+        },
+        "label": "Source",
+        "isbnInput": {
+            "description": "Le numéro standard international du livre.",
+            "label": "ISBN",
+            "placeholder": "ISBN du livre",
+            "ariaLabel": "numéro de livre standard international du livre"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "ajouter une nouvelle page"},
+        "label": "Pages"
+    }
+}

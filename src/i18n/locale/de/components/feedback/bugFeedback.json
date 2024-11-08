@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "E-Mail-Versand wird nicht unterstützt",
+        "submissionFailed": "Das Senden des Fehlers ist fehlgeschlagen",
+        "submissionSuccess": "Fehler gesendet"
+    },
+    "submitButton": {
+        "text": "Fehler einreichen",
+        "ariaLabel": "Senden Sie den Fehler"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Fügen Sie die Bücher hinzu, die das Problem verursachen könnten.",
+            "label": "Bücher zum Anhängen"
+        },
+        "loadFailed": "Das Laden der Bücher ist fehlgeschlagen",
+        "noBooksInstalled": "Keine Bücher installiert",
+        "picker": {
+            "header": "Buch(er) auswählen",
+            "ariaLabel": "Wählen Sie aus, welche Bücher dem Bug-Feedback beigefügt werden sollen"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "Nehmen Sie Änderungen an den Büchern vor, die Ihrem Bug-Feedback beigefügt sind"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Bitte geben Sie einige Details zum Fehler an.",
+        "description": "Geben Sie Details zum Fehler an.",
+        "label": "Fehlerdetails",
+        "ariaLabel": "Beschreibung des Fehlers"
+    }
+}

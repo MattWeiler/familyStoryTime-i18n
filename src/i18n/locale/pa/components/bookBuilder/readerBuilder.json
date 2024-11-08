@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "1 ਪੰਨੇ ਨੂੰ ਪੜ੍ਹਨ ਤੋਂ ਪਹਿਲਾਂ ਚਲਾਉਣ ਲਈ ਵਿਕਲਪਿਕ ਆਡੀਓ।",
+        "label": {
+            "withDisplayName": "%{readerDisplayName} ਦਾ ਇੰਟਰੋ ਆਡੀਓ",
+            "noDisplayName": "ਇੰਟਰੋ ਆਡੀਓ"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} ਰੀਡਰ ਦੀ ਜਾਣ-ਪਛਾਣ",
+            "noDisplayName": "ID %{readerId} ਪਛਾਣ ਵਾਲਾ ਰੀਡਰ"
+        }
+    },
+    "readerImage": {
+        "description": "ਇਸ ਪਾਠਕ ਲਈ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨ ਲਈ ਚਿੱਤਰ।",
+        "accessibleImageDisplayName": "ਰੀਡਰ %{readerDisplayName} ਦਾ ਚਿੱਤਰ"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "ਇਹ ਇਸ ਪਾਠਕ ਲਈ ਰਿਕਾਰਡ ਕੀਤੇ ਸਾਰੇ ਪੰਨੇ ਆਡੀਓ ਨੂੰ ਹਟਾ ਦੇਵੇਗਾ।",
+            "additionalMessage2": "ਇਸ ਨੂੰ ਅਣਡਿੱਠ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ!",
+            "title": "ਮਿਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ",
+            "message": {
+                "withDisplayName": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ \"%{readerDisplayName}\" ਰੀਡਰ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
+                "noDisplayName": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਇਸ ਰੀਡਰ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "ਰੀਡਰ %{readerDisplayName} ਨੂੰ ਹਟਾਓ",
+            "noDisplayName": "ID %{readerId} ਵਾਲੇ ਰੀਡਰ ਨੂੰ ਹਟਾਓ"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "ਪਾਠਕ ਲਈ ਡਿਸਪਲੇ ਨਾਮ",
+                "noDisplayName": "ਪਾਠਕ ਲਈ ਡਿਸਪਲੇ ਨਾਮ"
+            },
+            "title": {
+                "withDisplayName": "ਡਿਸਪਲੇ ਨਾਮ ਅੱਪਡੇਟ ਕਰੋ",
+                "noDisplayName": "ਡਿਸਪਲੇ ਨਾਮ ਸੈੱਟ ਕਰੋ"
+            },
+            "message": {
+                "withDisplayName": "ਤੁਸੀਂ ਇਸ ਪਾਠਕਾਂ ਦੇ ਡਿਸਪਲੇ ਨਾਮ ਨੂੰ ਕਿਸ ਵਿੱਚ ਬਦਲਣਾ ਚਾਹੋਗੇ?",
+                "noDisplayName": "ਇਸ ਪਾਠਕ ਲਈ ਡਿਸਪਲੇ ਨਾਮ ਕੀ ਹੈ?"
+            },
+            "inputPlaceholder": "ਪਾਠਕ ਦਾ ਨਾਮ"
+        },
+        "ariaLabel": {
+            "withDisplayName": "ਰੀਡਰ %{readerDisplayName} ਲਈ ਡਿਸਪਲੇ ਨਾਮ ਬਦਲੋ",
+            "noDisplayName": "ID %{readerId} ਨਾਲ ਰੀਡਰ ਲਈ ਡਿਸਪਲੇ ਨਾਮ ਬਦਲੋ"
+        }
+    }
+}

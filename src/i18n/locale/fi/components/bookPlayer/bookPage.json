@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "toistaa ääntä",
+            "ariaLabel": "toistaa ääntä"
+        },
+        "playing": {
+            "title": "keskeyttää äänen",
+            "ariaLabel": "keskeyttää äänen"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "loitonna näyttääksesi koko kuvan, sivuilla saattaa olla mustia palkkeja",
+        "zoomedOut": "lähennä varmistaaksesi, että koko näyttö on täynnä kuvaa, osa kuvasta ei ehkä näy"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "siirry edelliselle sivulle",
+            "ariaLabel": "siirry edelliselle sivulle"
+        },
+        "noPreviousPage": {
+            "title": "palaa kirjavalikoimaan",
+            "ariaLabel": "palaa kirjavalikoimaan"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "siirry seuraavalle sivulle",
+            "ariaLabel": "siirry seuraavalle sivulle"
+        },
+        "noNextPage": {
+            "title": "palaa kirjavalikoimaan",
+            "ariaLabel": "palaa kirjavalikoimaan"
+        }
+    }
+}

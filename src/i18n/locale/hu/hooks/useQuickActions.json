@@ -1,0 +1,14 @@
+{
+    "feedback": {
+        "subtitle": "Mondja el, hogyan javíthatunk",
+        "title": "Hagyjon visszajelzést"
+    },
+    "settings": {
+        "subtitle": "Módosítsa a beállításokat",
+        "title": "Beállítások elemre"
+    },
+    "bookBuilder": {
+        "subtitle": "Hozzon létre egy új könyvet",
+        "title": "Hozzon létre egy Könyvet"
+    }
+}

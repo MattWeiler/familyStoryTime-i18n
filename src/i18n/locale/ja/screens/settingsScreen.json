@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "これにより、このデバイスにインストールされているすべての書籍が削除されます。\n\n",
+        "button": {
+            "label": "消去",
+            "title": "すべての本を削除する",
+            "ariaLabel": "すべての本を削除する"
+        },
+        "displayName": "すべての書籍を削除",
+        "processingMessage": "削除しています ...",
+        "shortDescription": {
+            "disabled": "すべてのブックを削除しますが、現在インストールされているブックはありません。",
+            "enabled": "すべての書籍を削除します。"
+        }
+    },
+    "footer": {
+        "copyright": "%{year}",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "クーラー",
+                "someFontsBy": "フォントの作者:"
+            },
+            "label": "特別な感謝",
+            "icons": {
+                "ionicIcons": "イオンアイコン",
+                "someIconsBy": "アイコンの作者:",
+                "icons8": "アイコン8",
+                "iconArchive": "アイコンアーカイブ"
+            }
+        },
+        "version": "バージョン: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "この画像エディタは、新しい本の画像が撮影されるとき、または既存の本の画像が編集されるときに使用されます。",
+        "displayName": "画像エディター",
+        "testLabel": "テスト画像エディター",
+        "testImage": {"accessibleImageDisplayName": "テスト画像エディターの画像"},
+        "options": {
+            "advanced": {
+                "label": "高度な",
+                "ariaLabel": "高度な画像エディタを使用する"
+            },
+            "simple": {
+                "label": "単純",
+                "ariaLabel": "シンプルな画像エディタを使用する"
+            }
+        },
+        "shortDescription": "どの画像エディタを使用するかを選択します。",
+        "ariaLabel": "どの画像エディタを使用するかを選択します"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "この音声は、「AIリーダー」が本を読む際に使用されます。",
+        "displayName": "好みの声",
+        "selectorButton": {
+            "defaultLabel": "デフォルト",
+            "ariaLabel": "「AIリーダー」の音声を選択"
+        },
+        "shortDescription": "「AI Reader」で使用する音声を選択します。",
+        "picker": {
+            "default": "デフォルト",
+            "networkActionIcon": {"ariaLabel": "ローカルおよびネットワークベースの音声を表示します"},
+            "label": "AI読者の声",
+            "ariaLabel": "「AIリーダー」の音声を選択",
+            "globalActionIcon": {"ariaLabel": "すべての言語を表示"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "オーディオとビデオ",
+        "ariaLabel": {
+            "expanded": "オーディオビデオ選択セクションを折りたたむ",
+            "collapsed": "オーディオビデオ選択セクションを展開します"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "この画質は、デバイスのカメラで写真を撮るときに使用されます。",
+        "slider": {
+            "highLabel": "高い",
+            "ariaLabel": "写真の画質",
+            "lowLabel": "低い"
+        },
+        "displayName": "カメラの品質 %{value}%",
+        "testLabel": "テストカメラ",
+        "testImage": {"accessibleImageDisplayName": "テストカメラの品質画像"},
+        "shortDescription": "カメラで撮影した写真の画質を選択します。"
+    },
+    "title": "設定",
+    "confirmations": {"deleteAllBooks": {
+        "title": "削除の確認",
+        "message": "インストールされているブックをすべて削除してもよろしいですか?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "これは、新しいデバイスに移行するとき、または書籍を複数のデバイスに追加するときに役立ちます。",
+        "button": {
+            "label": "輸出",
+            "title": "すべての書籍をエクスポートする",
+            "ariaLabel": "すべての書籍をエクスポートする"
+        },
+        "displayName": "すべての書籍をエクスポート",
+        "shortDescription": {
+            "disabled": "すべての書籍を 1 つのファイルにエクスポートして保存/共有しますが、現在書籍がインストールされていません。",
+            "enabled": "すべての書籍を 1 つのファイルにエクスポートし、保存/共有します。"
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "削除に失敗しました",
+        "success": {
+            "other": "%{count} 冊の本を削除しました",
+            "one": "1冊削除しました"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "AIリーダー",
+        "testLabel": "テストボイス",
+        "testAriaLabel": {
+            "stopped": "「AIリーダー」の音声をテストする",
+            "playing": "「AI Reader」音声テストを停止する"
+        },
+        "testPhrase": "こんにちは、あなたのお気に入りの物語を一緒に読みたいです。",
+        "description": "有効にすると、書籍再生時のリーダーとして「AI Reader」が利用できるようになります。",
+        "ariaLabel": {
+            "expanded": "「AI Reader」選択セクションを折りたたむ",
+            "collapsed": "「AI Reader」選択セクションを展開します",
+            "disabled": "「AIリーダー」が無効になっています",
+            "enabled": "「AIリーダー」が有効になっています"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "「AIリーダー」が本を読むときの音声の高さを表します。",
+        "slider": {
+            "highLabel": "高い",
+            "ariaLabel": "「AIリーダー」の声のピッチ",
+            "lowLabel": "低い"
+        },
+        "displayName": "声のピッチ %{value}%",
+        "shortDescription": "「AIリーダー」が使用する音声のピッチを選択します。"
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "このオーディオ品質は、デバイスのマイクで録音するときに使用されます。",
+        "displayName": "マイクの品質",
+        "testLabel": "テストマイク",
+        "options": {
+            "high": {
+                "label": "高い",
+                "ariaLabel": "高音質を使用する"
+            },
+            "low": {
+                "label": "低い",
+                "ariaLabel": "低音質を使用する"
+            }
+        },
+        "shortDescription": "マイクで撮影した録音の音質を選択します。",
+        "ariaLabel": "マイクで撮影した録音の音質を選択します",
+        "testAudioSelector": {"accessibleAudioDisplayName": "テストマイクの品質"}
+    },
+    "subtitle": "ここでアプリケーション設定を更新します。",
+    "themeSelection": {
+        "longDescription": "ここでテーマを選択すると、デバイスのテーマ設定がすべてオーバーライドされます。",
+        "displayName": "テーマの選択",
+        "options": {
+            "default": {
+                "label": "システム",
+                "ariaLabel": "システム定義のテーマを使用する"
+            },
+            "light": {
+                "label": "ライト",
+                "ariaLabel": "ライトテーマを使用する"
+            },
+            "dark": {
+                "label": "暗い",
+                "ariaLabel": "ダークテーマを使用する"
+            }
+        },
+        "shortDescription": "アプリケーションで使用するテーマを選択します。",
+        "ariaLabel": "アプリケーションで使用するテーマを選択します"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "「AIリーダー」が本を読み上げる際の音声の割合を表します。",
+        "slider": {
+            "highLabel": "速い",
+            "ariaLabel": "「AIリーダー」の発話速度",
+            "lowLabel": "遅い"
+        },
+        "displayName": "発話率 %{value}%",
+        "shortDescription": "「AIリーダー」が使用する音声の速度を選択します。"
+    },
+    "parentalLocking": {
+        "longDescription": "有効にすると、アプリケーションの高度な機能のロックを解除するには、デバイス所有者の生体認証データが必要になります。",
+        "displayName": "ペアレンタルロック",
+        "shortDescription": "ペアレンタルロックは、子供がアプリケーションを使用しているときに便利です。",
+        "ariaLabel": {
+            "disabled": "ペアレンタルロックが無効になっています",
+            "enabled": "ペアレンタルロックが有効になっています"
+        }
+    }
+}

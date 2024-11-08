@@ -1,0 +1,18 @@
+{"prettyPrintByteSize": {
+    "kilobytes": {
+        "other": "%{count} kt",
+        "one": "1 kt"
+    },
+    "bytes": {
+        "other": "%{count} tavua",
+        "one": "1 tavu"
+    },
+    "megabytes": {
+        "other": "%{count} Mt",
+        "one": "1 Mt"
+    },
+    "gigabytes": {
+        "other": "%{count} Gt",
+        "one": "1 Gt"
+    }
+}}

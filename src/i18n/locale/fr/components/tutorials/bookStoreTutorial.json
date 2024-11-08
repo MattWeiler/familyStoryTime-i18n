@@ -1,0 +1,17 @@
+{
+    "summary": "Vous pouvez trouver des livres du domaine public dans notre librairie.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Vous pouvez choisir lequel des livres disponibles vous souhaitez télécharger.",
+            "2": "Cela installera le(s) livre(s) sur votre appareil, vous permettant de les lire et même d'ajouter vos propres lecteurs."
+        },
+        "title": "Installation de livres"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Vous pouvez également voir les livres que vous avez déjà installés depuis notre librairie.",
+            "2": "À partir de là, vous pouvez supprimer les livres précédemment installés ou rechercher les mises à jour disponibles."
+        },
+        "title": "Gestion des livres"
+    }
+}

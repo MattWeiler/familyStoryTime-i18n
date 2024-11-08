@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "mistókst að hlaða bókum"},
+        "import": {"failure": "innflutningur mistókst"},
+        "delete": {
+            "failure": "mistókst að eyða",
+            "success": "eytt bók \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "tókst ekki að eyða %{count} bókum",
+                "one": "tókst ekki að eyða einni bók"
+            },
+            "success": {
+                "other": "eytt %{count} bókum",
+                "one": "eytt 1 bók"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "flokka eftir síðufjölda í lækkandi röð",
+                "descending": "flokka eftir blaðsíðufjölda í hækkandi röð"
+            }},
+            "searchField": {
+                "placeholder": "leitaðu í bókunum þínum",
+                "ariaLabel": "leitaðu í bókunum þínum"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Útflutningur",
+                        "ariaLabel": "flytja út valdar bækur"
+                    },
+                    "delete": {
+                        "label": "Eyða",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "nei, ekki eyða völdum bókum"},
+                                "yes": {"ariaLabel": "já, eyða völdum bókum"}
+                            },
+                            "title": "Staðfestu eyðingu",
+                            "message": {
+                                "other": "Ertu viss um að þú viljir eyða %{count} völdum bókum?",
+                                "one": "Ertu viss um að þú viljir eyða völdu bókinni?"
+                            }
+                        },
+                        "ariaLabel": "eyða völdum bókum"
+                    }
+                },
+                "ariaLabel": "opnaðu samhengisvalmyndina fyrir valdar bækur"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "raða eftir bókartitli í lækkandi röð",
+                "descending": "raða eftir bókartitli í hækkandi röð"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "flokka eftir fjölda lesenda í lækkandi röð",
+                "descending": "flokka eftir fjölda lesenda í hækkandi röð"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "minnka aðdrátt til að skoða fleiri hluti í einu",
+                "zoomedOut": "stækkaðu til að skoða stærri myndir"
+            }}
+        },
+        "loadError": {
+            "text": "Mistókst að hlaða bókum.",
+            "ariaLabel": "tókst ekki að hlaða bókum"
+        },
+        "noBooksFound": {
+            "message": "Engar bækur fundust :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Prófaðu okkar",
+                    "linkName": "bókasmiður"
+                },
+                "availableBooks": {
+                    "message": "Skoðaðu okkar",
+                    "linkName": "bókabúð"
+                }
+            }
+        }
+    },
+    "subtitle": "Við skulum njóta þess að lesa nokkrar sögur.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "búa til bók",
+                "ariaLabel": "búa til nýja bók"
+            },
+            "importBooks": {
+                "label": "flytja inn bækur",
+                "ariaLabel": "flytja inn eina eða fleiri bækur"
+            },
+            "bookStore": {
+                "label": "heimsækja bókabúð",
+                "ariaLabel": "heimsækja bókabúðina okkar"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "loka bæta við bókavalmynd",
+            "collapsed": "opna bæta við bókavalmynd"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "eyðir...\n",
+            "one": "eyðir...\n",
+            "none": "eyðir..."
+        }},
+        "export": {"label": {
+            "other": "flytja út...\n",
+            "one": "flytja út...\n",
+            "none": "flytja út..."
+        }}
+    }},
+    "title": "Lestrarhorn",
+    "confirmations": {"deleteBook": {
+        "title": "Staðfesting á eyðingu",
+        "message": "Ertu viss um að þú viljir eyða bókinni \"%{bookTitle}?\""
+    }}
+}

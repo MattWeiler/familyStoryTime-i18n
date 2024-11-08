@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "side %{pageNum} billede"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Scan sidetekst igen",
+                "message": "Er du sikker på, at du vil scanne billedet for tekst og erstatte din eksisterende sidetekst?"
+            },
+            "ariaLabel": "udtræk tekst fra billede til side %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "tekst, der skal tilføjes til side %{pageNum}",
+                    "withPageText": "tekst til opdatering på side %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Indstil sidetekst",
+                    "withPageText": "Opdater sidetekst"
+                },
+                "message": {
+                    "noPageText": "Hvad er sideteksten?",
+                    "withPageText": "Hvad vil du gerne ændre sideteksten til?"
+                },
+                "inputPlaceholder": "tekst at tilføje"
+            },
+            "ariaLabel": "rediger teksten \"%{pageText}\" fra side %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "flyt teksten \"%{pageText}\" fra side %{pageNum} op"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Bekræftelse af sletning",
+                "message": "Er du sikker på, at du vil slette denne sidetekst?"
+            },
+            "ariaLabel": "fjern teksten \"%{pageText}\" fra siden %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "tekst, der skal tilføjes til side %{pageNum}",
+                "title": "Indstil sidetekst",
+                "message": "Hvad er sideteksten?",
+                "inputPlaceholder": "tekst at tilføje"
+            },
+            "ariaLabel": "føj ny tekst til side %{pageNum}"
+        },
+        "label": "Tekst",
+        "showHideButton": {"ariaLabel": {
+            "visible": "skjul teksten \"%{pageText}\" fra side %{pageNum}",
+            "hidden": "vis teksten \"%{pageText}\" fra side %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "flyt teksten \"%{pageText}\" fra side %{pageNum} ned"}
+    },
+    "moveUpButton": {"ariaLabel": "flyt side %{pageNum} op"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "Lyden, der skal afspilles, når \"%{readerDisplayName}\" læser siden %{pageNum}.",
+                "noDisplayName": "Lyden, der skal afspilles, når denne læser læser side %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "side %{pageNum} %{readerDisplayName}-læser"
+        },
+        "label": "Læsere"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Dette vil fjerne al sidelyd, der er optaget for denne side.",
+            "additionalMessage2": "DETTE KAN IKKE FORTRYDS!",
+            "title": "Bekræftelse af sletning",
+            "message": "Er du sikker på, at du vil slette siden %{pageNum}?"
+        },
+        "ariaLabel": "fjern side %{pageNum}"
+    },
+    "description": "Billedet, der skal vises på side %{pageNum}.",
+    "label": "Side %{pageNum}",
+    "moveDownButton": {"ariaLabel": "flyt side %{pageNum} ned"}
+}

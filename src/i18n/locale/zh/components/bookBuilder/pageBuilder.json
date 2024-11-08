@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "第 %{pageNum} 页图像"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "重新扫描页面文本",
+                "message": "您确定要扫描图像中的文本并替换现有的页面文本吗？"
+            },
+            "ariaLabel": "从页面 %{pageNum} 的图像中提取文本"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "要添加到页面 %{pageNum} 的文本",
+                    "withPageText": "要在第 %{pageNum} 页上更新的文本"
+                },
+                "title": {
+                    "noPageText": "设置页面文本",
+                    "withPageText": "更新页面文本"
+                },
+                "message": {
+                    "noPageText": "页面文字是什么？",
+                    "withPageText": "您想将页面文本更改为什么？"
+                },
+                "inputPlaceholder": "要添加的文本"
+            },
+            "ariaLabel": "编辑第 %{pageNum} 页中的文本\u201c%{pageText}\u201d"
+        },
+        "moveUpButton": {"ariaLabel": "将文本\u201c%{pageText}\u201d从第 %{pageNum} 页向上移动"},
+        "removeButton": {
+            "confirmation": {
+                "title": "删除确认",
+                "message": "您确定要删除此页面文本吗？"
+            },
+            "ariaLabel": "从页 %{pageNum} 中删除文本\u201c%{pageText}\u201d"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "要添加到页面 %{pageNum} 的文本",
+                "title": "设置页面文本",
+                "message": "页面文字是什么？",
+                "inputPlaceholder": "要添加的文本"
+            },
+            "ariaLabel": "将新文本添加到第 %{pageNum} 页"
+        },
+        "label": "文本",
+        "showHideButton": {"ariaLabel": {
+            "visible": "隐藏第 %{pageNum} 页中的文本\u201c%{pageText}\u201d",
+            "hidden": "显示第 %{pageNum} 页中的文本\u201c%{pageText}\u201d"
+        }},
+        "moveDownButton": {"ariaLabel": "将第 %{pageNum} 页中的文本\u201c%{pageText}\u201d向下移动"}
+    },
+    "moveUpButton": {"ariaLabel": "上移第 %{pageNum} 页"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "当\u201c%{readerDisplayName}\u201d正在阅读第 %{pageNum} 页时播放的音频。",
+                "noDisplayName": "当该读者正在阅读第 %{pageNum} 页时要播放的音频。"
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "页 %{pageNum} %{readerDisplayName} 读者"
+        },
+        "label": "读者"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "这将删除为此页面录制的所有页面音频。",
+            "additionalMessage2": "这无法撤销！",
+            "title": "删除确认",
+            "message": "您确定要删除第 %{pageNum} 页吗？"
+        },
+        "ariaLabel": "删除页 %{pageNum}"
+    },
+    "description": "要在第 %{pageNum} 页上显示的图像。",
+    "label": "页码 %{pageNum}",
+    "moveDownButton": {"ariaLabel": "向下移动第 %{pageNum} 页"}
+}

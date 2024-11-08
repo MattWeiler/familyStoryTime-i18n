@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "Error al cargar libros"},
+        "import": {"failure": "importación fallida"},
+        "delete": {
+            "failure": "error de eliminación",
+            "success": "libro eliminado \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "No se pudieron eliminar %{count} libros",
+                "one": "no se pudo eliminar 1 libro"
+            },
+            "success": {
+                "other": "%{count} libros eliminados",
+                "one": "eliminado 1 libro"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "ordenar por recuento de páginas en orden descendente",
+                "descending": "ordenar por recuento de páginas en orden ascendente"
+            }},
+            "searchField": {
+                "placeholder": "busca tus libros",
+                "ariaLabel": "busca tus libros"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Exportar",
+                        "ariaLabel": "exportar los libros seleccionados"
+                    },
+                    "delete": {
+                        "label": "Borrar",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "no, no elimines los libros seleccionados"},
+                                "yes": {"ariaLabel": "sí, eliminar los libros seleccionados"}
+                            },
+                            "title": "Confirmar eliminación",
+                            "message": {
+                                "other": "¿Estás seguro de que deseas eliminar los %{count} libros seleccionados?",
+                                "one": "¿Estás seguro de que deseas eliminar el libro seleccionado?"
+                            }
+                        },
+                        "ariaLabel": "eliminar los libros seleccionados"
+                    }
+                },
+                "ariaLabel": "abrir el menú contextual de los libros seleccionados"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "ordenar por título del libro en orden descendente",
+                "descending": "ordenar por título del libro en orden ascendente"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "ordenar por recuento de lectores en orden descendente",
+                "descending": "ordenar por recuento de lectores en orden ascendente"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "alejar para ver más elementos a la vez",
+                "zoomedOut": "acercar para ver imágenes más grandes"
+            }}
+        },
+        "loadError": {
+            "text": "No se pudieron cargar los libros.",
+            "ariaLabel": "no se pudieron cargar los libros"
+        },
+        "noBooksFound": {
+            "message": "No se encontraron libros :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Pruebe nuestro",
+                    "linkName": "constructor de libros"
+                },
+                "availableBooks": {
+                    "message": "Consulte nuestro",
+                    "linkName": "librería"
+                }
+            }
+        }
+    },
+    "subtitle": "Disfrutemos leyendo algunas historias.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "crear un libro",
+                "ariaLabel": "crear un nuevo libro"
+            },
+            "importBooks": {
+                "label": "importar libros",
+                "ariaLabel": "importar uno o más libros"
+            },
+            "bookStore": {
+                "label": "visitar librería",
+                "ariaLabel": "visita nuestra librería"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "cerrar agregar un menú de libro",
+            "collapsed": "abrir agregar un menú de libro"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "eliminando...\n",
+            "one": "eliminando...\n",
+            "none": "eliminando..."
+        }},
+        "export": {"label": {
+            "other": "exportando...\n",
+            "one": "exportando...\n",
+            "none": "exportando..."
+        }}
+    }},
+    "title": "Rincón de lectura",
+    "confirmations": {"deleteBook": {
+        "title": "Confirmación de eliminación",
+        "message": "¿Está seguro de que desea eliminar el libro \"%{bookTitle}?\""
+    }}
+}

@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "Dette vil slette alle de bøger, der er installeret på denne enhed.\n\n",
+        "button": {
+            "label": "Slet",
+            "title": "slette alle bøger",
+            "ariaLabel": "slette alle bøger"
+        },
+        "displayName": "Slet alle bøger",
+        "processingMessage": "sletter...",
+        "shortDescription": {
+            "disabled": "Slet alle dine bøger, men du har i øjeblikket ingen bøger installeret.",
+            "enabled": "Slet alle dine bøger."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} ",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "Kølere",
+                "someFontsBy": "Skrifttyper af:"
+            },
+            "label": "Særlig tak",
+            "icons": {
+                "ionicIcons": "IonIcons",
+                "someIconsBy": "Ikoner af:",
+                "icons8": "Ikoner 8",
+                "iconArchive": "Ikonarkiv"
+            }
+        },
+        "version": "Version: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Dette billedredigeringsprogram vil blive brugt, når der tages nye bogbilleder, eller et eksisterende bogbillede redigeres.",
+        "displayName": "Billededitor",
+        "testLabel": "Test billededitor",
+        "testImage": {"accessibleImageDisplayName": "test billede editor billede"},
+        "options": {
+            "advanced": {
+                "label": "Fremskreden",
+                "ariaLabel": "brug det avancerede billedredigeringsprogram"
+            },
+            "simple": {
+                "label": "Enkel",
+                "ariaLabel": "brug simpel billededitor"
+            }
+        },
+        "shortDescription": "Vælg hvilken billededitor der skal bruges.",
+        "ariaLabel": "vælg hvilken billededitor der skal bruges"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Denne stemme vil blive brugt, når \"AI Reader\"-læseren læser bøger.",
+        "displayName": "Foretrukken stemme",
+        "selectorButton": {
+            "defaultLabel": "misligholdelse",
+            "ariaLabel": "vælg en \"AI Reader\"-stemme"
+        },
+        "shortDescription": "Vælg den stemme, der skal bruges af \"AI Reader\".",
+        "picker": {
+            "default": "misligholdelse",
+            "networkActionIcon": {"ariaLabel": "vise lokale og netværksbaserede stemmer"},
+            "label": "AI-læserstemmer",
+            "ariaLabel": "vælg en \"AI Reader\"-stemme",
+            "globalActionIcon": {"ariaLabel": "vis alle sprog"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Lyd og video",
+        "ariaLabel": {
+            "expanded": "skjule sektionen for valg af lyd og video",
+            "collapsed": "Udvid sektionen for valg af lyd og video"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Denne billedkvalitet vil blive brugt, når du tager billeder med enhedens kamera(er).",
+        "slider": {
+            "highLabel": "Høj",
+            "ariaLabel": "billedkvalitet af billeder",
+            "lowLabel": "Lav"
+        },
+        "displayName": "Kamerakvalitet %{value}%",
+        "testLabel": "Test kamera",
+        "testImage": {"accessibleImageDisplayName": "test kamerakvalitetsbillede"},
+        "shortDescription": "Vælg billedkvaliteten for billeder taget med kameraet."
+    },
+    "title": "Indstillinger",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Bekræftelse af sletning",
+        "message": "Er du sikker på, at du vil slette alle installerede bøger?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "Dette kan være nyttigt, når du migrerer til en ny enhed eller tilføjer dine bøger til flere enheder.",
+        "button": {
+            "label": "Eksportere",
+            "title": "eksportere alle bøger",
+            "ariaLabel": "eksportere alle bøger"
+        },
+        "displayName": "Eksporter alle bøger",
+        "shortDescription": {
+            "disabled": "Eksporter alle dine bøger til en enkelt fil og gem/del den, men du har i øjeblikket ingen bøger installeret.",
+            "enabled": "Eksporter alle dine bøger til en enkelt fil og gem/del den."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "sletning mislykkedes",
+        "success": {
+            "other": "slettede %{count} bøger",
+            "one": "slettet 1 bog"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "AI-læser",
+        "testLabel": "Test stemme",
+        "testAriaLabel": {
+            "stopped": "test \"AI Reader\"-stemmen",
+            "playing": "stoppe \"AI Reader\"-stemmetesten"
+        },
+        "testPhrase": "Hej, jeg ville elske at læse dine yndlingshistorier med dig.",
+        "description": "Når den er aktiveret, vil \"AI Reader\" være tilgængelig som læser, når bøger afspilles.",
+        "ariaLabel": {
+            "expanded": "skjule sektionen \"AI Reader\".",
+            "collapsed": "udvide sektionen \"AI Reader\".",
+            "disabled": "\"AI Reader\" er deaktiveret",
+            "enabled": "\"AI Reader\" er aktiveret"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "Dette angiver tonehøjden af \u200b\u200bstemmen, der bruges, når \"AI Reader\"-læseren læser bøger.",
+        "slider": {
+            "highLabel": "Høj",
+            "ariaLabel": "stemme for \"AI Reader\"",
+            "lowLabel": "Lav"
+        },
+        "displayName": "Stemmehøjde %{value}%",
+        "shortDescription": "Vælg tonehøjden for stemmen, der skal bruges af \"AI Reader\"."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Denne lydkvalitet vil blive brugt, når du optager med enhedens mikrofon.",
+        "displayName": "Mikrofon kvalitet",
+        "testLabel": "Test mikrofon",
+        "options": {
+            "high": {
+                "label": "Høj",
+                "ariaLabel": "bruge høj lydkvalitet"
+            },
+            "low": {
+                "label": "Lav",
+                "ariaLabel": "bruge lav lydkvalitet"
+            }
+        },
+        "shortDescription": "Vælg lydkvaliteten for optagelser taget med mikrofonen.",
+        "ariaLabel": "vælge lydkvaliteten for optagelser taget med mikrofonen",
+        "testAudioSelector": {"accessibleAudioDisplayName": "test mikrofonens kvalitet"}
+    },
+    "subtitle": "Opdater dine applikationsindstillinger her.",
+    "themeSelection": {
+        "longDescription": "Hvis et tema er valgt her, vil det tilsidesætte alle enhedstemaindstillinger, du måtte have.",
+        "displayName": "Valg af tema",
+        "options": {
+            "default": {
+                "label": "System",
+                "ariaLabel": "bruge det systemdefinerede tema"
+            },
+            "light": {
+                "label": "Lys",
+                "ariaLabel": "brug lystemaet"
+            },
+            "dark": {
+                "label": "Mørk",
+                "ariaLabel": "brug det mørke tema"
+            }
+        },
+        "shortDescription": "Vælg det tema, der skal bruges af applikationen.",
+        "ariaLabel": "vælg det tema, der skal bruges af applikationen"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "Dette angiver hastigheden af \u200b\u200bstemmen, der bruges, når \"AI Reader\"-læseren læser bøger.",
+        "slider": {
+            "highLabel": "Hurtig",
+            "ariaLabel": "talehastighed af \"AI Reader\"",
+            "lowLabel": "Langsom"
+        },
+        "displayName": "Talehastighed %{value}%",
+        "shortDescription": "Vælg den stemmehastighed, der skal bruges af \"AI Reader\"."
+    },
+    "parentalLocking": {
+        "longDescription": "Når det er aktiveret, er enhedsejerens biometriske data påkrævet for at låse op for avancerede funktioner i applikationen.",
+        "displayName": "Forældrelåsning",
+        "shortDescription": "Forældrelåsning kan være nyttig, når børn bruger applikationen.",
+        "ariaLabel": {
+            "disabled": "forældrelåsning er deaktiveret",
+            "enabled": "forældrelås er aktiveret"
+        }
+    }
+}

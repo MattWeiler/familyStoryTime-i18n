@@ -1,0 +1,25 @@
+{
+    "summary": "Una vez que haya creado un libro, podrá compartirlo con familiares y amigos.",
+    "exporting": {
+        "messages": {
+            "1": "Puede exportar un solo libro, a través de su menú contextual, o varios libros a la vez, manteniendo presionado para seleccionar varios libros.",
+            "2": "Una vez que haya elegido los libros que desea exportar, podrá seleccionar exactamente qué desea exportar.",
+            "3": "De forma predeterminada, se exportará el libro completo, pero puede elegir qué lectores se incluirán en el contenido del libro o puede seleccionar exportar solo lectores específicos.",
+            "4": "Cuando solo desee enviar la información del lector que registró a alguien que ya tiene el libro, puede crear un archivo mucho más pequeño para compartir incluyendo solo los lectores específicos."
+        },
+        "title": "Exportador"
+    },
+    "importingMerging": {"messages": {
+        "1": "Al importar un libro que ya está instalado en su dispositivo, podrá seleccionar si el libro importado debe sobrescribir el libro ya instalado o si se debe realizar una fusión.",
+        "2": "Al fusionar, solo los lectores seleccionados se agregarán al libro ya instalado.",
+        "3": "Si los lectores que se fusionarán ya están instalados en el dispositivo, serán reemplazados."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Desde la página \"Rincón de lectura\", puede seleccionar qué libros importar seleccionando la opción \"importar libros\" al presionar el botón (+) en la parte inferior derecha de la pantalla.",
+            "2": "Alternativamente, puede enviar un archivo de libro a la aplicación \"Family Story Time\".",
+            "3": "Al importar un libro que aún no está instalado en su dispositivo, el libro se instalará."
+        },
+        "title": "Importador"
+    }
+}

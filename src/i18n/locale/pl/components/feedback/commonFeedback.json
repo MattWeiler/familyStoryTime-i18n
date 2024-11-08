@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Nazwa",
+        "placeholder": "nieznany z nazwiska",
+        "ariaLabel": "opcjonalnie Twoje imię i nazwisko"
+    },
+    "emailInput": {
+        "description": "Podaj, jeśli chcesz otrzymać od nas odpowiedź.",
+        "label": "Adres e-mail",
+        "placeholder": "ktoś@gmail.com",
+        "ariaLabel": "opcjonalnie Twój adres e-mail"
+    }
+}

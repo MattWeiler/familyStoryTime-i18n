@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "ਨਾਮ",
+        "placeholder": "ਜੌਹਨ ਡੋ",
+        "ariaLabel": "ਵਿਕਲਪਿਕ ਤੌਰ 'ਤੇ, ਤੁਹਾਡਾ ਨਾਮ"
+    },
+    "emailInput": {
+        "description": "ਪ੍ਰਦਾਨ ਕਰੋ ਜੇਕਰ ਤੁਸੀਂ ਸਾਡੇ ਤੋਂ ਵਾਪਸ ਸੁਣਨਾ ਚਾਹੁੰਦੇ ਹੋ।",
+        "label": "ਈਮੇਲ ਪਤਾ",
+        "placeholder": "someone@gmail.com",
+        "ariaLabel": "ਵਿਕਲਪਿਕ ਤੌਰ 'ਤੇ, ਤੁਹਾਡਾ ਈਮੇਲ ਪਤਾ"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "add": "Toevoegen",
+    "cancel": "Annuleren",
+    "no": "Nee",
+    "verifying": "verifiëren...",
+    "set": "Set",
+    "yes": "Ja",
+    "back": "Rug",
+    "loading": "laden...",
+    "required": "vereist",
+    "acknowledgeError": "erken de fout",
+    "saving": "sparen...",
+    "settingsButton": {
+        "text": "Instellingen",
+        "ariaLabel": "ga naar de pagina met applicatie-instellingen"
+    },
+    "backButton": {
+        "label": "Rug",
+        "title": "ga terug naar de laatste pagina",
+        "ariaLabel": "ga terug naar de laatste pagina"
+    },
+    "sending": "verzenden...",
+    "create": "Creëren",
+    "ok": "OK"
+}

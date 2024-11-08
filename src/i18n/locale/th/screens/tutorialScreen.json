@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "ให้ข้อเสนอแนะกับเรา"},
+        "intro": {"displayName": "การแนะนำ"},
+        "createBooks": {"displayName": "การสร้างหนังสือ"},
+        "parentalLocking": {"displayName": "การล็อคโดยผู้ปกครอง"},
+        "sharingBooks": {"displayName": "แบ่งปันหนังสือ"},
+        "bookPlayback": {"displayName": "การเล่นหนังสือ"},
+        "bookStore": {"displayName": "ร้านหนังสือ"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "ดูหน้า %{pageName}"},
+        "backPageButton": {"ariaLabel": "ย้อนกลับไป 1 หน้า"},
+        "forwardPageButton": {"ariaLabel": "ไปข้างหน้า 1 หน้า"}
+    },
+    "startLink": {
+        "label": "เริ่มต้นเลย",
+        "ariaLabel": "ไปที่หน้าแรก"
+    }
+}

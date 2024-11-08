@@ -1,0 +1,4 @@
+{"screens": {
+    "bookBuilder": {"headerTitle": "Générateur de livres"},
+    "notFound": {"headerTitle": "Oups !"}
+}}

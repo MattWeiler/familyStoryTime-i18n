@@ -1,0 +1,96 @@
+{
+    "summary": "Puoi digitalizzare i libri preferiti della tua famiglia e includere tutti i lettori che desiderano registrarsi.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "Apertura del \"Costruttore di libri\"",
+            "ariaLabel": {
+                "expanded": "comprimere l'apertura della sezione di creazione libri",
+                "collapsed": "aprire la sezione di apertura della creazione del libro"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Da qualsiasi pagina puoi accedere al \"Book Builder\" tramite il menu hamburger nella parte superiore sinistra dello schermo.",
+                    "2": "Da lì premi l'opzione \"Book Builder\"."
+                },
+                "title": "Menù Hamburger"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "Dalla pagina \"Angolo lettura\", puoi accedere al \"Creatore di libri\" premendo il pulsante (+) nella parte inferiore destra dello schermo.",
+                    "2": "Da lì premi l'opzione \"crea un libro\"."
+                },
+                "title": "Pulsante di azione"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "Utilizzo del \"Costruttore di libri\"",
+            "ariaLabel": {
+                "expanded": "comprimere la sezione utilizzando la creazione del libro",
+                "collapsed": "aprire la sezione utilizzando il generatore di libri"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "Un libro deve contenere almeno 1 pagina, ma non ha un limite superiore.",
+                    "2": "Quando si acquisisce o si carica un'immagine da utilizzare per una pagina, l'intelligenza artificiale verrà utilizzata per estrarre il testo dall'immagine. "
+                },
+                "title": "Pagine del libro"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "Nel \"Book Builder\", sarai in grado di specificare diversi attributi relativi al libro.",
+                    "2": "Qui è possibile specificare il titolo del libro, diverse immagini, informazioni sulla fonte, ritardi, lettori e pagine."
+                },
+                "title": "Costruttore di libri"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Una volta compilati tutti i campi di un libro, il libro deve essere salvato sul dispositivo.",
+                    "2": "Al momento del salvataggio verranno controllati i dati del libro per verificare che siano tutti validi; "
+                },
+                "title": "Salvare un libro"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Le immagini possono essere catturate utilizzando la fotocamera del tuo dispositivo oppure possono essere caricate dalla tua galleria.",
+                    "2": "Quando un'immagine è stata selezionata, può essere modificata per garantire che appaia al meglio.",
+                    "3": "Premendo su un'immagine esistente verranno visualizzati i pulsanti dell'immagine."
+                },
+                "title": "Immagini del libro"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "È possibile definire dei ritardi che influenzeranno la riproduzione del libro.",
+                    "2": "Questi ritardi possono garantire che la riproduzione audio non sembri troppo brusca."
+                },
+                "title": "Ritardi nei libri"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Durante la riproduzione automatica di un libro, è possibile riprodurre un suono specifico quando una pagina viene completata e la pagina successiva è pronta per iniziare.",
+                    "2": "È possibile selezionare una serie di suoni predefiniti oppure caricare o registrare un suono personalizzato."
+                },
+                "title": "Audio cambio pagina"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "Un libro può contenere un numero qualsiasi di lettori.",
+                    "2": "Ogni lettore registrerà se stesso leggendo ogni pagina del libro e quindi sarà disponibile per leggere il libro durante la riproduzione del libro."
+                },
+                "title": "Lettori di libri"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "È possibile fornire informazioni sulla fonte del libro.",
+                    "2": "Sebbene queste informazioni sulla fonte siano facoltative, possono aiutarti a tenere traccia delle tue storie preferite."
+                },
+                "title": "Informazioni sulla fonte del libro"
+            }
+        }
+    }
+}

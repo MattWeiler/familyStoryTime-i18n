@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "Nein, deinstallieren Sie das verfügbare Buch nicht",
+            "yesButtonAriaLabel": "Ja, deinstallieren Sie das verfügbare Buch",
+            "title": "Deinstallationsbestätigung",
+            "message": "Sind Sie sicher, dass Sie dieses verfügbare Buch deinstallieren möchten?\n"
+        },
+        "ariaLabel": "Deinstallieren Sie das verfügbare Buch %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "frei"},
+        "newerVersionAvailableMessage": "Update verfügbar"
+    },
+    "subtitle": "Lassen Sie uns einige gute Geschichten zum Lesen finden.",
+    "loadingFailedMessage": "Die verfügbaren Bücher konnten nicht geladen werden.\n",
+    "title": "Buchladen",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "Nein, installieren Sie das verfügbare Buch nicht",
+            "yesButtonAriaLabel": "Ja, installieren Sie das verfügbare Buch",
+            "title": "Installationsbestätigung",
+            "message": "Möchten Sie dieses verfügbare Buch wirklich installieren?\nDabei werden %{fileSize} Daten verbraucht."
+        },
+        "ariaLabel": "Installieren Sie das verfügbare Buch %{bookName}"
+    }
+}

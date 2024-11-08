@@ -1,0 +1,14 @@
+{
+    "feedback": {
+        "subtitle": "Cuéntanos cómo podemos mejorar",
+        "title": "Deja un comentario"
+    },
+    "settings": {
+        "subtitle": "Cambia tu configuración",
+        "title": "Ajustes"
+    },
+    "bookBuilder": {
+        "subtitle": "Crear un nuevo libro",
+        "title": "Crear un libro"
+    }
+}

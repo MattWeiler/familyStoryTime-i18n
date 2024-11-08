@@ -1,0 +1,34 @@
+{
+    "summary": "Voordat u uw apparaat aan uw kind overhandigt, kunt u de applicatie vergrendelen om te voorkomen dat kinderen boeken verwijderen of andere wijzigingen aanbrengen.",
+    "enabling": {
+        "messages": {
+            "1": "Om de functie voor ouderlijk toezicht in te schakelen, opent u het hamburgermenu en drukt u rechtsboven op het open slotpictogram.",
+            "2": "Hierdoor wordt u gevraagd uw biometrische bevestiging in te voeren, waarmee de functie voor ouderlijk toezicht wordt geïnitialiseerd.",
+            "3": "Nu de functie voor ouderlijk toezicht is ingeschakeld, wordt de toepassing vergrendeld door op het pictogram voor het openen van het slot te drukken.",
+            "4": "Wanneer de functie voor ouderlijk toezicht is ingeschakeld, bevindt de toepassing zich elke keer dat deze wordt gestart in de vergrendelde modus."
+        },
+        "title": "Schakel Ouderlijk toezicht in"
+    },
+    "disabling": {
+        "messages": {
+            "1": "Om de functie voor ouderlijk toezicht uit te schakelen, opent u het hamburgermenu en drukt u op het instellingenitem onderaan.",
+            "2": "Schakel op de instellingenpagina de functie 'Ouderlijk toezicht' uit."
+        },
+        "title": "Schakel ouderlijk toezicht uit"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Wanneer de applicatie is vergrendeld, worden verschillende functies van de applicatie niet weergegeven, zoals contextmenu's of knoppen waarmee u boeken kunt toevoegen/verwijderen.",
+            "2": "Hierdoor wordt de applicatie in een alleen-lezen-modus gezet die veilig is voor kinderen om te gebruiken.",
+            "3": "Om toegang te krijgen tot deze verborgen functies, moet u de applicatie ontgrendelen."
+        },
+        "title": "Vergrendelde functies"
+    },
+    "locked": {
+        "messages": {
+            "1": "Om de applicatie te ontgrendelen, opent u het hamburgermenu en drukt u rechtsboven op het gesloten slotpictogram.",
+            "2": "U wordt dan gevraagd uw biometrische bevestiging op te geven, waarmee de applicatie wordt ontgrendeld."
+        },
+        "title": "Ontgrendel applicatie"
+    }
+}

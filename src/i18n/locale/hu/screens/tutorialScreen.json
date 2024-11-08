@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Visszajelzés küldése"},
+        "intro": {"displayName": "Bevezetés"},
+        "createBooks": {"displayName": "Könyvek készítése"},
+        "parentalLocking": {"displayName": "Szülői zárolás"},
+        "sharingBooks": {"displayName": "Könyvek megosztása"},
+        "bookPlayback": {"displayName": "Könyvek lejátszása"},
+        "bookStore": {"displayName": "A Könyvesbolt"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "tekintse meg a %{pageName} oldalt"},
+        "backPageButton": {"ariaLabel": "menj vissza 1 oldalt"},
+        "forwardPageButton": {"ariaLabel": "előre 1 oldal"}
+    },
+    "startLink": {
+        "label": "Kezdje el",
+        "ariaLabel": "menjen a kezdőlapra"
+    }
+}

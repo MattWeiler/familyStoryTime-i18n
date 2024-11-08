@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Lestrarhorn",
+        "ariaLabel": "lestu bækurnar þínar hér"
+    },
+    "bookStore": {
+        "text": "Bókabúð",
+        "ariaLabel": "heimsækja bókabúðina"
+    }
+}

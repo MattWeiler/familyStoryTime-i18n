@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "ਕਿਤਾਬ ਦੇ ਸਰੋਤ ਦੀ ਜਾਣਕਾਰੀ ਦਿਖਾਓ"},
+        "hideSource": {"ariaLabel": "ਕਿਤਾਬ ਦੇ ਸਰੋਤ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਲੁਕਾਓ"}
+    },
+    "sourceUrl": {
+        "label": "ਕਿਤਾਬ ਸਰੋਤ ਵੇਖੋ",
+        "ariaLabel": "ਓਪਨ ਕਿਤਾਬ ਸਰੋਤ URL"
+    },
+    "sourceIllustrator": {"label": "ਚਿੱਤਰਕਾਰ:"},
+    "sourceAuthor": {"label": "ਲੇਖਕ:"},
+    "sourcePublisher": {"label": "ਪ੍ਰਕਾਸ਼ਕ:"},
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "ISBN ਕਿਤਾਬ ਲਈ ISBN ਖੋਜ ਖੋਲ੍ਹੋ"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Nombre",
+        "placeholder": "Juan Pérez",
+        "ariaLabel": "opcionalmente, tu nombre"
+    },
+    "emailInput": {
+        "description": "Proporcione si desea recibir noticias nuestras.",
+        "label": "Dirección de correo electrónico",
+        "placeholder": "alguien@gmail.com",
+        "ariaLabel": "opcionalmente, su dirección de correo electrónico"
+    }
+}

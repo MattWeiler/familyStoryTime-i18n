@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Das optionale Audio, das Sie vor dem Lesen der ersten Seite abspielen können.",
+        "label": {
+            "withDisplayName": "%{readerDisplayName}s Intro-Audio",
+            "noDisplayName": "Intro-Audio"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName}-Lesereinführung",
+            "noDisplayName": "Leser mit der ID %{readerId} intro"
+        }
+    },
+    "readerImage": {
+        "description": "Das für diesen Leser anzuzeigende Bild.",
+        "accessibleImageDisplayName": "Bild des Lesers %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Dadurch werden alle für diesen Reader aufgezeichneten Seitenaudios entfernt.",
+            "additionalMessage2": "Dies kann nicht rückgängig gemacht werden!",
+            "title": "Löschbestätigung",
+            "message": {
+                "withDisplayName": "Sind Sie sicher, dass Sie den Reader \u201e%{readerDisplayName}\u201c löschen möchten?",
+                "noDisplayName": "Sind Sie sicher, dass Sie diesen Leser löschen möchten?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "Entfernen Sie den Leser %{readerDisplayName}",
+            "noDisplayName": "Entfernen Sie den Leser mit der ID %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "Anzeigename für den Leser",
+                "noDisplayName": "Anzeigename für den Leser"
+            },
+            "title": {
+                "withDisplayName": "Anzeigenamen aktualisieren",
+                "noDisplayName": "Legen Sie den Anzeigenamen fest"
+            },
+            "message": {
+                "withDisplayName": "In was möchten Sie den Anzeigenamen dieses Lesers ändern?",
+                "noDisplayName": "Wie lautet der Anzeigename für diesen Reader?"
+            },
+            "inputPlaceholder": "Lesername"
+        },
+        "ariaLabel": {
+            "withDisplayName": "Ändern Sie den Anzeigenamen für Leser %{readerDisplayName}",
+            "noDisplayName": "Ändern Sie den Anzeigenamen für den Leser mit der ID %{readerId}"
+        }
+    }
+}

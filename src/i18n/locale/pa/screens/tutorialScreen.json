@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "ਸਾਨੂੰ ਫੀਡਬੈਕ ਦੇਣਾ"},
+        "intro": {"displayName": "ਜਾਣ-ਪਛਾਣ"},
+        "createBooks": {"displayName": "ਕਿਤਾਬਾਂ ਬਣਾਉਣਾ"},
+        "parentalLocking": {"displayName": "ਪੇਰੈਂਟਲ ਲਾਕਿੰਗ"},
+        "sharingBooks": {"displayName": "ਕਿਤਾਬਾਂ ਸਾਂਝੀਆਂ ਕਰਨਾ"},
+        "bookPlayback": {"displayName": "ਕਿਤਾਬਾਂ ਚਲਾਉਣਾ"},
+        "bookStore": {"displayName": "ਕਿਤਾਬਾਂ ਦੀ ਦੁਕਾਨ"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "%{pageName} ਪੰਨਾ ਵੇਖੋ"},
+        "backPageButton": {"ariaLabel": "1 ਪੰਨੇ 'ਤੇ ਵਾਪਸ ਜਾਓ"},
+        "forwardPageButton": {"ariaLabel": "1 ਪੰਨਾ ਅੱਗੇ ਜਾਓ"}
+    },
+    "startLink": {
+        "label": "ਸ਼ੁਰੂ ਕਰੋ",
+        "ariaLabel": "ਹੋਮ ਪੇਜ 'ਤੇ ਜਾਓ"
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "sách đã lưu \"%{bookTitle}\"",
+        "validationFailed": "xác thực không thành công",
+        "bookSaveFailed": "sổ tiết kiệm thất bại"
+    },
+    "bookTitleInput": {
+        "description": "Tiêu đề của cuốn sách.",
+        "label": "Tên sách",
+        "placeholder": "tựa đề cuốn sách",
+        "ariaLabel": "tiêu đề của cuốn sách"
+    },
+    "readers": {
+        "label": "độc giả",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "tên hiển thị cho người đọc mới này",
+                "buttons": {
+                    "cancel": {"ariaLabel": "hủy việc thêm đầu đọc mới"},
+                    "add": {"ariaLabel": "thêm người đọc mới"}
+                },
+                "description": "Vui lòng cung cấp tên hiển thị cho người đọc mới này.",
+                "title": "Thêm trình đọc mới",
+                "inputPlaceholder": "tên người đọc"
+            },
+            "ariaLabel": "thêm người đọc mới"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Số mili giây chờ trước khi phát âm thanh thay đổi trang.",
+            "label": "Âm thanh trước khi thay đổi trang",
+            "placeholder": "mili giây trước khi phát âm thanh thay đổi trang",
+            "ariaLabel": "mili giây chờ trước khi phát âm thanh thay đổi trang"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Số mili giây chờ sau khi phát âm thanh thay đổi trang.",
+            "label": "Âm thanh sau khi thay đổi trang",
+            "placeholder": "mili giây sau khi phát âm thanh thay đổi trang",
+            "ariaLabel": "mili giây chờ sau khi phát âm thanh thay đổi trang"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Số mili giây chờ trước khi phát âm thanh trang.",
+            "label": "Âm thanh trước trang",
+            "placeholder": "mili giây trước khi phát âm thanh trang",
+            "ariaLabel": "mili giây chờ trước khi phát âm thanh trang"
+        },
+        "label": "Sự chậm trễ"
+    },
+    "bookIconImageSelector": {
+        "description": "Hình ảnh được sử dụng làm biểu tượng cho cuốn sách.",
+        "label": "Biểu tượng cuốn sách",
+        "accessibleImageDisplayName": "biểu tượng cuốn sách"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "Hình ảnh hiển thị khi lần đầu ra mắt sách.",
+        "label": "Hình ảnh giật gân sách",
+        "accessibleImageDisplayName": "cuốn sách giật gân"
+    },
+    "confirmations": {"goBack": {
+        "title": "Thay đổi nghỉ phép",
+        "message": "Bạn có chắc chắn muốn thoát trước khi lưu không?"
+    }},
+    "pageChangeAudio": {
+        "description": "Âm thanh sẽ phát khi đến lúc thay đổi trang.",
+        "label": "Âm thanh thay đổi trang",
+        "presetAudioModalPicker": {
+            "headerLabel": "Chọn trang Thay đổi âm thanh",
+            "ariaLabel": "chọn từ danh sách các tùy chọn âm thanh thay đổi trang cài sẵn",
+            "accessibleAudioDisplayName": "thay đổi trang"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Không thể tải sách.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "độ trễ không thể âm",
+            "bookTitleMissing": "tên sách là bắt buộc",
+            "readerDisplayNameMissing": "tên hiển thị của đầu đọc là bắt buộc",
+            "bookIconNotValid": "biểu tượng cuốn sách là bắt buộc",
+            "pageTextMissing": "văn bản trang là bắt buộc",
+            "delayBeforePlayingPageAudioNegative": "độ trễ không thể âm",
+            "pagesMissing": "cần ít nhất 1 trang",
+            "pageImageNotValid": "hình ảnh trang là bắt buộc",
+            "delayBeforePlayingPageChangeAudioNegative": "độ trễ không thể âm",
+            "bookSplashImageNotValid": "hình ảnh giật gân của cuốn sách là bắt buộc",
+            "readerIntroAudioNotValid": "Âm thanh giới thiệu của trình đọc không phải là tệp hợp lệ",
+            "pageAudioNotValid": "âm thanh trang là bắt buộc",
+            "pageChangeAudioNotValid": "cần có âm thanh thay đổi trang",
+            "delayAfterPlayingPageChangeAudioNotInteger": "độ trễ phải là số nguyên",
+            "delayBeforePlayingPageAudioNotInteger": "độ trễ phải là số nguyên",
+            "delayBeforePlayingPageChangeAudioNotInteger": "độ trễ phải là số nguyên",
+            "delayBeforePlayingPageAudioRequired": "sự chậm trễ là cần thiết",
+            "readerImageNotValid": "hình ảnh đầu đọc là cần thiết",
+            "delayBeforePlayingPageChangeAudioRequired": "sự chậm trễ là cần thiết",
+            "delayAfterPlayingPageChangeAudioRequired": "sự chậm trễ là cần thiết"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "URL nguồn của cuốn sách.",
+            "label": "URL nguồn",
+            "placeholder": "URL nguồn",
+            "ariaLabel": "URL nguồn của cuốn sách"
+        },
+        "authorInput": {
+            "description": "Tên của tác giả cuốn sách.",
+            "label": "Tên tác giả",
+            "placeholder": "tác giả cuốn sách",
+            "ariaLabel": "tên tác giả của cuốn sách"
+        },
+        "illustratorInput": {
+            "description": "Tên người minh họa cuốn sách.",
+            "label": "Tên minh họa",
+            "placeholder": "họa sĩ minh họa cuốn sách",
+            "ariaLabel": "tên người minh họa cuốn sách"
+        },
+        "publisherInput": {
+            "description": "Tên nhà xuất bản sách.",
+            "label": "Tên nhà xuất bản",
+            "placeholder": "nhà xuất bản sách",
+            "ariaLabel": "tên nhà xuất bản sách"
+        },
+        "label": "Nguồn",
+        "isbnInput": {
+            "description": "Số sách chuẩn quốc tế của sách.",
+            "label": "ISBN",
+            "placeholder": "ISBN của sách",
+            "ariaLabel": "số sách tiêu chuẩn quốc tế của cuốn sách"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "thêm trang mới"},
+        "label": "Trang"
+    }
+}

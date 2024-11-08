@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Nome",
+        "placeholder": "John Do",
+        "ariaLabel": "facoltativamente, il tuo nome"
+    },
+    "emailInput": {
+        "description": "Fornisci se desideri ricevere una nostra risposta.",
+        "label": "Indirizzo e-mail",
+        "placeholder": "qualcuno@gmail.com",
+        "ariaLabel": "facoltativamente, il tuo indirizzo email"
+    }
+}

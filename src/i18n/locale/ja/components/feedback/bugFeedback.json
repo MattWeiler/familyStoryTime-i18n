@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "電子メールはサポートされていません",
+        "submissionFailed": "バグの送信に失敗しました",
+        "submissionSuccess": "バグが送信されました"
+    },
+    "submitButton": {
+        "text": "バグを送信する",
+        "ariaLabel": "バグを提出する"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "問題の原因となっている可能性のある書籍を追加します。",
+            "label": "添付する本"
+        },
+        "loadFailed": "本の読み込みに失敗しました",
+        "noBooksInstalled": "本がインストールされていません",
+        "picker": {
+            "header": "本を選択してください",
+            "ariaLabel": "バグフィードバックにどの書籍を添付するかを選択します"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "バグフィードバックに添付された書籍を変更する"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "バグについての詳細を提供してください。",
+        "description": "バグの詳細を提供します。",
+        "label": "バグの詳細",
+        "ariaLabel": "バグの説明"
+    }
+}

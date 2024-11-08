@@ -1,0 +1,4 @@
+{
+    "aiReader": {"displayName": "AIリーダー"},
+    "errors": {"bookLoadFailure": "本を読み込めません。"}
+}

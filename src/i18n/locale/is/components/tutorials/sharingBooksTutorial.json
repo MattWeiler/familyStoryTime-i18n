@@ -1,0 +1,25 @@
+{
+    "summary": "Eftir að þú hefur búið til bók geturðu deilt henni með fjölskyldu og vinum.",
+    "exporting": {
+        "messages": {
+            "1": "Þú getur annað hvort flutt út eina bók, í gegnum samhengisvalmynd hennar, eða nokkrar bækur í einu, með því að halda inni lengi til að velja margar bækur.",
+            "2": "Þegar þú hefur valið bækurnar til að flytja út geturðu valið nákvæmlega hvað á að flytja út.",
+            "3": "Sjálfgefið er að öll bókin verði flutt út, en þú getur valið og valið hvaða lesendur eiga að vera með í bókinni eða þú getur valið að flytja aðeins út tiltekna lesendur.",
+            "4": "Þegar þú vilt bara senda lesandaupplýsingarnar sem þú skráðir til einhvers sem þegar á bókina geturðu búið til miklu minni skrá til að deila með því að taka aðeins tiltekna lesandann(a)."
+        },
+        "title": "Flytur út"
+    },
+    "importingMerging": {"messages": {
+        "1": "Þegar þú flytur inn bók sem þegar er uppsett á tækinu þínu geturðu valið hvort innflutningsbókin eigi að skrifa yfir bókina sem þegar er uppsett eða hvort sameining eigi að fara fram.",
+        "2": "Við sameiningu verður aðeins völdum lesendum bætt við bókina sem þegar hefur verið uppsett.",
+        "3": "Ef þessir lesendur sem verið er að sameina eru þegar uppsettir á tækinu verður þeim skipt út."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Á síðunni \u201eLestrarhornið\u201c geturðu valið hvaða bækur á að flytja inn með því að velja valkostinn \u201eflytja inn bækur\u201c þegar ýtt er á (+) hnappinn neðst til hægri á skjánum.",
+            "2": "Að öðrum kosti geturðu sent bókaskrá í \"Fjölskyldusögustund\" forritið.",
+            "3": "Þegar þú flytur inn bók sem er ekki þegar uppsett á tækinu þínu verður bókin sett upp."
+        },
+        "title": "Innflutningur"
+    }
+}

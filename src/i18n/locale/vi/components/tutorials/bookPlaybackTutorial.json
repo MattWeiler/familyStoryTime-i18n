@@ -1,0 +1,24 @@
+{
+    "summary": "Bạn có thể phát lại sách mà bạn đã cài đặt trên thiết bị của mình.",
+    "splashScreen": {
+        "messages": {
+            "1": "Từ màn hình giới thiệu, bạn có thể chọn cách bạn muốn phát lại sách và chọn người đọc nào sẽ đọc sách, nếu có.",
+            "2": "Nếu sách đã được thêm người đọc vào, bạn sẽ có thể chọn giữa các chế độ \"Tự động phát\", \"Đọc cho tôi\" và \"Tự đọc\".",
+            "3": "Chế độ \"Tự động phát\" sẽ yêu cầu người đọc được chọn đọc sách và các trang sẽ được thay đổi tự động.",
+            "4": "Chế độ \"Đọc cho tôi\" sẽ yêu cầu người đọc được chọn đọc sách nhưng các trang sẽ phải được thay đổi theo cách thủ công. ",
+            "5": "Chế độ \"Tự đọc\" sẽ cho phép bạn tự đọc sách.",
+            "6": "Nếu sách chứa thông tin nguồn thì sẽ có biểu tượng mà khi bấm vào sẽ hiển thị thông tin nguồn đó. "
+        },
+        "title": "màn hình giật gân"
+    },
+    "player": {
+        "messages": {
+            "1": "Khi phát sách, các nút điều hướng sẽ được hiển thị cho phép bạn tạm dừng/phát âm thanh của trình đọc cũng như điều hướng giữa các trang.",
+            "2": "Các nút điều hướng có thể được ẩn/hiển thị bằng cách nhấn một lần vào hình ảnh.",
+            "3": "Một số cử chỉ cũng có thể được sử dụng để điều hướng.",
+            "4": "Vuốt sang trái/phải sẽ điều hướng giữa các trang.",
+            "5": "Nhấn đúp hoặc chụm sẽ phóng to/thu nhỏ. "
+        },
+        "title": "Máy chơi sách"
+    }
+}

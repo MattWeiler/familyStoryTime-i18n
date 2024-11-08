@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "tölvupóstur ekki studdur",
+        "submissionFailed": "sendingu ábendinga mistókst",
+        "submissionSuccess": "endurgjöf send"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Vinsamlegast veldu ánægjustig.",
+        "description": "Hversu líklegt er að þú deilir appinu okkar?",
+        "label": "Að deila með öðrum",
+        "levels": {
+            "1": {
+                "displayName": "Engin leið",
+                "ariaLabel": "engan veginn"
+            },
+            "2": {
+                "displayName": "Ekki líklegt",
+                "ariaLabel": "ekki líklegt"
+            },
+            "3": {
+                "displayName": "Kannski",
+                "ariaLabel": "kannski"
+            },
+            "4": {
+                "displayName": "Já",
+                "ariaLabel": "já"
+            },
+            "5": {
+                "displayName": "Nú þegar",
+                "ariaLabel": "hafa nú þegar"
+            }
+        },
+        "ariaLabel": "veldu hversu líklegt er að þú deilir þessu farsímaforriti með öðrum"
+    },
+    "submitButton": {
+        "text": "Sendu athugasemd",
+        "ariaLabel": "sendu álit þitt"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Vinsamlegast veldu ánægjustig.",
+        "description": "Hversu mikið hefur þér líkað/mislíkað við appið okkar?",
+        "label": "Appánægja",
+        "levels": {
+            "1": {
+                "displayName": "Hata það",
+                "ariaLabel": "hata það"
+            },
+            "2": {
+                "displayName": "Vonbrigði",
+                "ariaLabel": "vonsvikinn"
+            },
+            "3": {
+                "displayName": "Hlutlaus",
+                "ariaLabel": "hlutlaus"
+            },
+            "4": {
+                "displayName": "Frábært",
+                "ariaLabel": "frábært"
+            },
+            "5": {
+                "displayName": "Elska það",
+                "ariaLabel": "elska það"
+            }
+        },
+        "ariaLabel": "veldu ánægjustig þitt með þetta farsímaforrit"
+    },
+    "commentInput": {
+        "description": "Gefðu valfrjálst allar frekari athugasemdir sem þú hefur.",
+        "label": "Athugasemd",
+        "ariaLabel": "valkvætt, viðbótarathugasemdir"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Vinsamlegast veldu ánægjustig.",
+        "description": "Hvernig fannst þér að spila bækur?",
+        "label": "Að spila bækur",
+        "levels": {
+            "1": {
+                "displayName": "Virkaði ekki",
+                "ariaLabel": "virkaði ekki"
+            },
+            "2": {
+                "displayName": "Ekki frábært",
+                "ariaLabel": "ekki frábært"
+            },
+            "3": {
+                "displayName": "Það er allt í lagi",
+                "ariaLabel": "það er allt í lagi"
+            },
+            "4": {
+                "displayName": "Það er auðvelt",
+                "ariaLabel": "það er auðvelt"
+            },
+            "5": {
+                "displayName": "Elska það",
+                "ariaLabel": "elska það"
+            }
+        },
+        "ariaLabel": "veldu ánægju þína með spilun bókarinnar"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Vinsamlegast veldu ánægjustig.",
+        "description": "Hvernig fannst þér að hafa marga lesendur?",
+        "label": "Margir lesendur",
+        "levels": {
+            "1": {
+                "displayName": "Virkaði ekki",
+                "ariaLabel": "virkaði ekki"
+            },
+            "2": {
+                "displayName": "Ekki frábært",
+                "ariaLabel": "ekki frábært"
+            },
+            "3": {
+                "displayName": "Það er allt í lagi",
+                "ariaLabel": "það er allt í lagi"
+            },
+            "4": {
+                "displayName": "Það er auðvelt",
+                "ariaLabel": "það er auðvelt"
+            },
+            "5": {
+                "displayName": "Elska það",
+                "ariaLabel": "elska það"
+            }
+        },
+        "ariaLabel": "veldu ánægju þína með að hafa marga lesendur á hverja bók"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Vinsamlegast veldu ánægjustig.",
+        "description": "Hvernig fannst þér að búa til bækur?",
+        "label": "Að búa til bækur",
+        "levels": {
+            "1": {
+                "displayName": "Virkaði ekki",
+                "ariaLabel": "virkaði ekki"
+            },
+            "2": {
+                "displayName": "Ekki frábært",
+                "ariaLabel": "ekki frábært"
+            },
+            "3": {
+                "displayName": "Það er allt í lagi",
+                "ariaLabel": "það er allt í lagi"
+            },
+            "4": {
+                "displayName": "Það er auðvelt",
+                "ariaLabel": "það er auðvelt"
+            },
+            "5": {
+                "displayName": "Elska það",
+                "ariaLabel": "elska það"
+            }
+        },
+        "ariaLabel": "veldu ánægju þína með sköpunarferlið bóka"
+    }
+}

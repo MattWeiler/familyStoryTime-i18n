@@ -1,0 +1,24 @@
+{
+    "summary": "Lejátszhatja az eszközére telepített könyveket.",
+    "splashScreen": {
+        "messages": {
+            "1": "A nyitóképernyőn kiválaszthatja, hogyan szeretné lejátszani a könyvet, és kiválaszthatja, hogy melyik olvasó olvassa el a könyvet, ha van ilyen.",
+            "2": "Ha a könyvhöz vannak olvasók hozzáadva, akkor választhat az \"Automatikus lejátszás\", \"Olvass nekem\" és \"Olvasd el magam\" módok között.",
+            "3": "Az \"Auto Play\" módban a kiválasztott olvasó elolvassa a könyvet, és az oldalak automatikusan megváltoznak.",
+            "4": "A \"Read To Me\" módban a kiválasztott olvasó elolvassa a könyvet, de az oldalakat kézzel kell módosítani. ",
+            "5": "Az \"Olvasd el magam\" mód lehetővé teszi, hogy magad is elolvasd a könyvet.",
+            "6": "Ha a könyv forrásinformációkat tartalmaz, megjelenik egy ikon, amelyre kattintva megjelennek a forrásadatok. "
+        },
+        "title": "Splash Screen"
+    },
+    "player": {
+        "messages": {
+            "1": "Könyv lejátszásakor megjelennek a navigációs gombok, amelyek lehetővé teszik az olvasó hangjának szüneteltetését/lejátszását, valamint az oldalak közötti navigálást.",
+            "2": "A navigációs gombok a kép egyszeri megnyomásával elrejthetők/megjeleníthetők.",
+            "3": "Egyes gesztusok is használhatók a navigációhoz.",
+            "4": "A balra/jobbra csúsztatással navigálhat az oldalak között.",
+            "5": "A dupla koppintással vagy összecsípéssel nagyít/kicsinyít. "
+        },
+        "title": "Könyvlejátszó"
+    }
+}

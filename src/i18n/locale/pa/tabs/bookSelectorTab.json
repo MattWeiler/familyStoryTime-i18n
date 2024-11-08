@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "ਕਿਤਾਬਾਂ ਨੂੰ ਲੋਡ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ"},
+        "import": {"failure": "ਆਯਾਤ ਅਸਫਲ"},
+        "delete": {
+            "failure": "ਮਿਟਾਉਣਾ ਅਸਫਲ ਰਿਹਾ",
+            "success": "ਮਿਟਾਈ ਗਈ ਕਿਤਾਬ \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "%{count} ਕਿਤਾਬਾਂ ਨੂੰ ਮਿਟਾਉਣ ਵਿੱਚ ਅਸਫਲ",
+                "one": "1 ਕਿਤਾਬ ਨੂੰ ਮਿਟਾਉਣ ਵਿੱਚ ਅਸਫਲ"
+            },
+            "success": {
+                "other": "%{count} ਕਿਤਾਬਾਂ ਨੂੰ ਹਟਾਇਆ ਗਿਆ",
+                "one": "1 ਕਿਤਾਬ ਨੂੰ ਮਿਟਾਇਆ"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "ਘਟਦੇ ਕ੍ਰਮ ਵਿੱਚ ਪੰਨੇ ਦੀ ਗਿਣਤੀ ਦੁਆਰਾ ਕ੍ਰਮਬੱਧ ਕਰੋ",
+                "descending": "ਵਧਦੇ ਕ੍ਰਮ ਵਿੱਚ ਪੰਨਾ ਗਿਣਤੀ ਦੁਆਰਾ ਕ੍ਰਮਬੱਧ ਕਰੋ"
+            }},
+            "searchField": {
+                "placeholder": "ਆਪਣੀਆਂ ਕਿਤਾਬਾਂ ਦੀ ਖੋਜ ਕਰੋ",
+                "ariaLabel": "ਆਪਣੀਆਂ ਕਿਤਾਬਾਂ ਦੀ ਖੋਜ ਕਰੋ"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "ਨਿਰਯਾਤ",
+                        "ariaLabel": "ਚੁਣੀਆਂ ਗਈਆਂ ਕਿਤਾਬਾਂ ਨੂੰ ਨਿਰਯਾਤ ਕਰੋ"
+                    },
+                    "delete": {
+                        "label": "ਮਿਟਾਓ",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "ਨਹੀਂ, ਚੁਣੀਆਂ ਗਈਆਂ ਕਿਤਾਬਾਂ ਨੂੰ ਨਾ ਮਿਟਾਓ"},
+                                "yes": {"ariaLabel": "ਹਾਂ, ਚੁਣੀਆਂ ਗਈਆਂ ਕਿਤਾਬਾਂ ਨੂੰ ਮਿਟਾਓ"}
+                            },
+                            "title": "ਮਿਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+                            "message": {
+                                "other": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਚੁਣੀਆਂ ਗਈਆਂ %{count} ਕਿਤਾਬਾਂ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
+                                "one": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਚੁਣੀ ਹੋਈ ਕਿਤਾਬ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+                            }
+                        },
+                        "ariaLabel": "ਚੁਣੀਆਂ ਗਈਆਂ ਕਿਤਾਬਾਂ ਨੂੰ ਮਿਟਾਓ"
+                    }
+                },
+                "ariaLabel": "ਚੁਣੀਆਂ ਕਿਤਾਬਾਂ ਲਈ ਸੰਦਰਭ ਮੀਨੂ ਖੋਲ੍ਹੋ"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "ਘਟਦੇ ਕ੍ਰਮ ਵਿੱਚ ਕਿਤਾਬ ਦੇ ਸਿਰਲੇਖ ਦੁਆਰਾ ਕ੍ਰਮਬੱਧ ਕਰੋ",
+                "descending": "ਵਧਦੇ ਕ੍ਰਮ ਵਿੱਚ ਕਿਤਾਬ ਦੇ ਸਿਰਲੇਖ ਦੁਆਰਾ ਕ੍ਰਮਬੱਧ ਕਰੋ"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "ਘਟਦੇ ਕ੍ਰਮ ਵਿੱਚ ਪਾਠਕਾਂ ਦੀ ਗਿਣਤੀ ਦੁਆਰਾ ਕ੍ਰਮਬੱਧ ਕਰੋ",
+                "descending": "ਵਧਦੇ ਕ੍ਰਮ ਵਿੱਚ ਪਾਠਕ ਗਿਣਤੀ ਦੁਆਰਾ ਕ੍ਰਮਬੱਧ ਕਰੋ"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "ਇੱਕ ਵਾਰ ਵਿੱਚ ਹੋਰ ਆਈਟਮਾਂ ਦੇਖਣ ਲਈ ਜ਼ੂਮ ਆਉਟ ਕਰੋ",
+                "zoomedOut": "ਵੱਡੀਆਂ ਤਸਵੀਰਾਂ ਦੇਖਣ ਲਈ ਜ਼ੂਮ ਇਨ ਕਰੋ"
+            }}
+        },
+        "loadError": {
+            "text": "ਕਿਤਾਬਾਂ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ।",
+            "ariaLabel": "ਕਿਤਾਬਾਂ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ"
+        },
+        "noBooksFound": {
+            "message": "ਕੋਈ ਕਿਤਾਬ ਨਹੀਂ ਮਿਲੀ :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "ਸਾਡੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+                    "linkName": "ਕਿਤਾਬ ਨਿਰਮਾਤਾ"
+                },
+                "availableBooks": {
+                    "message": "ਸਾਡੇ ਚੈੱਕਆਉਟ",
+                    "linkName": "ਕਿਤਾਬ ਦੀ ਦੁਕਾਨ"
+                }
+            }
+        }
+    },
+    "subtitle": "ਆਓ ਕੁਝ ਕਹਾਣੀਆਂ ਪੜ੍ਹ ਕੇ ਆਨੰਦ ਮਾਣੀਏ।",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "ਇੱਕ ਕਿਤਾਬ ਬਣਾਓ",
+                "ariaLabel": "ਇੱਕ ਨਵੀਂ ਕਿਤਾਬ ਬਣਾਓ"
+            },
+            "importBooks": {
+                "label": "ਕਿਤਾਬਾਂ ਆਯਾਤ ਕਰੋ",
+                "ariaLabel": "ਇੱਕ ਜਾਂ ਵੱਧ ਕਿਤਾਬਾਂ ਆਯਾਤ ਕਰੋ"
+            },
+            "bookStore": {
+                "label": "ਕਿਤਾਬਾਂ ਦੀ ਦੁਕਾਨ 'ਤੇ ਜਾਓ",
+                "ariaLabel": "ਸਾਡੇ ਬੁੱਕ ਸਟੋਰ 'ਤੇ ਜਾਓ"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "ਇੱਕ ਕਿਤਾਬ ਮੇਨੂ ਜੋੜੋ ਬੰਦ ਕਰੋ",
+            "collapsed": "ਇੱਕ ਕਿਤਾਬ ਜੋੜ ਮੇਨੂ ਖੋਲ੍ਹੋ"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "ਮਿਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ...\n",
+            "one": "ਮਿਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ...\n",
+            "none": "ਮਿਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ..."
+        }},
+        "export": {"label": {
+            "other": "ਨਿਰਯਾਤ...\n",
+            "one": "ਨਿਰਯਾਤ...\n",
+            "none": "ਨਿਰਯਾਤ..."
+        }}
+    }},
+    "title": "ਰੀਡਿੰਗ ਕੋਨਰ",
+    "confirmations": {"deleteBook": {
+        "title": "ਮਿਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ",
+        "message": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ \"%{bookTitle}\" ਕਿਤਾਬ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    }}
+}

@@ -1,0 +1,34 @@
+{
+    "summary": "Antes de entregar seu dispositivo ao seu filho, você pode bloquear o aplicativo para evitar que as crianças excluam livros ou façam outras alterações.",
+    "enabling": {
+        "messages": {
+            "1": "Para ativar o recurso de bloqueio parental, abra o menu de hambúrguer e pressione o ícone de cadeado aberto no canto superior direito.",
+            "2": "Isso solicitará que você forneça sua confirmação biométrica, que inicializará o recurso de bloqueio parental.",
+            "3": "Agora que o recurso de bloqueio parental foi ativado, pressionar o ícone de cadeado aberto bloqueará o aplicativo.",
+            "4": "Quando o recurso de bloqueio parental estiver ativado, sempre que o aplicativo for iniciado, ele estará no modo bloqueado."
+        },
+        "title": "Ativar bloqueio parental"
+    },
+    "disabling": {
+        "messages": {
+            "1": "Para desativar o recurso de bloqueio parental, abra o menu hambúrguer e pressione o item de configurações na parte inferior.",
+            "2": "Na página de configurações, desmarque o recurso \"Bloqueio parental\"."
+        },
+        "title": "Desativar bloqueio parental"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Quando o aplicativo está bloqueado, vários recursos do aplicativo não serão mostrados, como menus de contexto ou botões que permitem adicionar/remover livros.",
+            "2": "Isso coloca o aplicativo em modo somente leitura, seguro para uso por crianças.",
+            "3": "Para acessar esses recursos ocultos, você terá que desbloquear o aplicativo."
+        },
+        "title": "Recursos bloqueados"
+    },
+    "locked": {
+        "messages": {
+            "1": "Para desbloquear o aplicativo, abra o menu hambúrguer e pressione o ícone de cadeado fechado no canto superior direito.",
+            "2": "Isso solicitará que você forneça sua confirmação biométrica, que desbloqueará o aplicativo."
+        },
+        "title": "Desbloquear aplicativo"
+    }
+}

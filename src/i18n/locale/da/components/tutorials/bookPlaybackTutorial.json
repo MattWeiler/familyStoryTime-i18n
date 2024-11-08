@@ -1,0 +1,24 @@
+{
+    "summary": "Du kan afspille bøger, som du har installeret på din enhed.",
+    "splashScreen": {
+        "messages": {
+            "1": "Fra startskærmen kan du vælge, hvordan du ønsker, at bogen skal afspilles og vælge, hvilken læser der skal læse bogen, hvis det er relevant.",
+            "2": "Hvis bogen har tilføjet læsere, vil du være i stand til at vælge mellem tilstandene \"Auto Play\", \"Læs for mig\" og \"Læs det selv\".",
+            "3": "\"Auto Play\"-tilstanden vil få den valgte læser til at læse bogen, og siderne vil automatisk blive ændret.",
+            "4": "\"Læs for mig\"-tilstanden vil få den valgte læser til at læse bogen, men siderne skal ændres manuelt. ",
+            "5": "\"Læs det selv\"-tilstanden giver dig mulighed for selv at læse bogen.",
+            "6": "Hvis bogen indeholder kildeoplysninger, vil der være et ikon, som, når der klikkes på det, viser kildeoplysningerne. "
+        },
+        "title": "Splash Screen"
+    },
+    "player": {
+        "messages": {
+            "1": "Når du afspiller en bog, vil der blive vist navigationsknapper, som giver dig mulighed for at pause/afspille læserens lyd samt navigere mellem sider.",
+            "2": "Navigationsknapperne kan skjules/vises ved et enkelt tryk på billedet.",
+            "3": "Nogle bevægelser kan også bruges til at navigere.",
+            "4": "Hvis du stryger til venstre/højre, kan du navigere mellem siderne.",
+            "5": "Dobbelttryk eller knibning zoomer ind/ud. "
+        },
+        "title": "Bogspiller"
+    }
+}

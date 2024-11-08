@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "ページ %{pageNum} の画像"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "ページテキストを再スキャンする",
+                "message": "画像のテキストをスキャンして、既存のページのテキストを置き換えてもよろしいですか?"
+            },
+            "ariaLabel": "ページ %{pageNum} の画像からテキストを抽出します"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "ページ %{pageNum} に追加するテキスト",
+                    "withPageText": "ページ %{pageNum} で更新するテキスト"
+                },
+                "title": {
+                    "noPageText": "ページテキストの設定",
+                    "withPageText": "ページテキストを更新"
+                },
+                "message": {
+                    "noPageText": "ページのテキストは何ですか?",
+                    "withPageText": "ページのテキストを何に変更しますか?"
+                },
+                "inputPlaceholder": "追加するテキスト"
+            },
+            "ariaLabel": "ページ %{pageNum} のテキスト「%{pageText}」を編集します"
+        },
+        "moveUpButton": {"ariaLabel": "テキスト「%{pageText}」をページ %{pageNum} から上に移動します"},
+        "removeButton": {
+            "confirmation": {
+                "title": "削除の確認",
+                "message": "このページのテキストを削除してもよろしいですか?"
+            },
+            "ariaLabel": "ページ %{pageNum} からテキスト「%{pageText}」を削除します"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "ページ %{pageNum} に追加するテキスト",
+                "title": "ページテキストの設定",
+                "message": "ページのテキストは何ですか?",
+                "inputPlaceholder": "追加するテキスト"
+            },
+            "ariaLabel": "新しいテキストをページ %{pageNum} に追加します"
+        },
+        "label": "文章",
+        "showHideButton": {"ariaLabel": {
+            "visible": "ページ %{pageNum} からテキスト「%{pageText}」を非表示にします",
+            "hidden": "ページ %{pageNum} のテキスト「%{pageText}」を表示します"
+        }},
+        "moveDownButton": {"ariaLabel": "テキスト「%{pageText}」をページ %{pageNum} から下に移動します"}
+    },
+    "moveUpButton": {"ariaLabel": "ページ %{pageNum} を上に移動"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "「%{readerDisplayName}」がページ %{pageNum} を読み取っているときに再生する音声。",
+                "noDisplayName": "このリーダーがページ %{pageNum} を読んでいるときに再生する音声。"
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "ページ %{pageNum} %{readerDisplayName} リーダー"
+        },
+        "label": "読者"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "これにより、このページに記録されたすべてのページ音声が削除されます。",
+            "additionalMessage2": "これは取り消しできません!",
+            "title": "削除の確認",
+            "message": "ページ %{pageNum} を削除してもよろしいですか?"
+        },
+        "ariaLabel": "ページ %{pageNum} を削除します"
+    },
+    "description": "ページ %{pageNum} に表示する画像。",
+    "label": "ページ %{pageNum}",
+    "moveDownButton": {"ariaLabel": "ページ %{pageNum} を下に移動します"}
+}

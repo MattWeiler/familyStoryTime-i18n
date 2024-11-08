@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "hình ảnh trang %{pageNum}"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Quét lại văn bản trang",
+                "message": "Bạn có chắc chắn muốn quét hình ảnh để tìm văn bản và thay thế văn bản trang hiện có của mình không?"
+            },
+            "ariaLabel": "trích xuất văn bản từ hình ảnh cho trang %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "văn bản để thêm vào trang %{pageNum}",
+                    "withPageText": "văn bản cần cập nhật trên trang %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Đặt văn bản trang",
+                    "withPageText": "Cập nhật văn bản trang"
+                },
+                "message": {
+                    "noPageText": "Văn bản trang là gì?",
+                    "withPageText": "Bạn muốn thay đổi văn bản trang thành gì?"
+                },
+                "inputPlaceholder": "văn bản để thêm"
+            },
+            "ariaLabel": "chỉnh sửa văn bản \"%{pageText}\" từ trang %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "di chuyển văn bản \"%{pageText}\" từ trang %{pageNum} lên"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Xác nhận xóa",
+                "message": "Bạn có chắc chắn muốn xóa văn bản trang này?"
+            },
+            "ariaLabel": "xóa văn bản \"%{pageText}\" khỏi trang %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "văn bản để thêm vào trang %{pageNum}",
+                "title": "Đặt văn bản trang",
+                "message": "Văn bản trang là gì?",
+                "inputPlaceholder": "văn bản để thêm"
+            },
+            "ariaLabel": "thêm văn bản mới vào trang %{pageNum}"
+        },
+        "label": "Chữ",
+        "showHideButton": {"ariaLabel": {
+            "visible": "ẩn văn bản \"%{pageText}\" khỏi trang %{pageNum}",
+            "hidden": "hiển thị văn bản \"%{pageText}\" từ trang %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "di chuyển văn bản \"%{pageText}\" từ trang %{pageNum} xuống"}
+    },
+    "moveUpButton": {"ariaLabel": "di chuyển trang %{pageNum} lên"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "Âm thanh sẽ phát khi \"%{readerDisplayName}\" đang đọc trang %{pageNum}.",
+                "noDisplayName": "Âm thanh sẽ phát khi trình đọc này đang đọc trang %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "trang %{pageNum} %{readerDisplayName} người đọc"
+        },
+        "label": "độc giả"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Thao tác này sẽ xóa tất cả âm thanh trang được ghi cho trang này.",
+            "additionalMessage2": "ĐIỀU NÀY KHÔNG THỂ HOÀN TÁC!",
+            "title": "Xác nhận xóa",
+            "message": "Bạn có chắc chắn muốn xóa trang %{pageNum} không?"
+        },
+        "ariaLabel": "xóa trang %{pageNum}"
+    },
+    "description": "Hình ảnh hiển thị trên trang %{pageNum}.",
+    "label": "Trang %{pageNum}",
+    "moveDownButton": {"ariaLabel": "di chuyển trang %{pageNum} xuống"}
+}

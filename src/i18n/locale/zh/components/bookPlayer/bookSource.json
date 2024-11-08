@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "显示书籍来源信息"},
+        "hideSource": {"ariaLabel": "隐藏图书来源信息"}
+    },
+    "sourceUrl": {
+        "label": "查看书本来源",
+        "ariaLabel": "打开书源网址"
+    },
+    "sourceIllustrator": {"label": "插画家："},
+    "sourceAuthor": {"label": "作者："},
+    "sourcePublisher": {"label": "出版商："},
+    "sourceIsbn": {
+        "label": "国际标准书号：",
+        "ariaLabel": "打开 ISBN 搜索图书 ISBN"
+    }
+}

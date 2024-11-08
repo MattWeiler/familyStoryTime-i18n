@@ -1,0 +1,96 @@
+{
+    "summary": "Sie können die Lieblingsbücher Ihrer Familie digitalisieren und so viele Leser einbeziehen, wie bereit sind, sich selbst aufzuzeichnen.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "Öffnen des \u201eBook Builders\u201c",
+            "ariaLabel": {
+                "expanded": "Reduzieren Sie die Öffnung des Book Builder-Bereichs",
+                "collapsed": "Öffnen Sie den Abschnitt \u201eBook Builder öffnen\u201c."
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Von jeder Seite aus können Sie über das Hamburger-Menü oben links auf dem Bildschirm auf den \u201eBook Builder\u201c zugreifen.",
+                    "2": "Klicken Sie dort auf die Option \u201eBook Builder\u201c."
+                },
+                "title": "Hamburger-Menü"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "Von der Seite \u201eLeseecke\u201c aus können Sie auf den \u201eBook Builder\u201c zugreifen, indem Sie unten rechts auf dem Bildschirm auf die Schaltfläche (+) klicken.",
+                    "2": "Klicken Sie dort auf die Option \u201eBuch erstellen\u201c."
+                },
+                "title": "Aktionsschaltfläche"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "Verwendung des \u201eBook Builders\u201c",
+            "ariaLabel": {
+                "expanded": "Reduzieren Sie den Abschnitt \u201eVerwenden des Book Builders\u201c.",
+                "collapsed": "Öffnen Sie den Abschnitt \u201eVerwenden des Book Builders\u201c."
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "Ein Buch muss mindestens 1 Seite umfassen, es gibt aber keine Obergrenze.",
+                    "2": "Beim Aufnehmen oder Hochladen eines Bildes zur Verwendung für eine Seite wird KI verwendet, um den Text aus dem Bild zu extrahieren. "
+                },
+                "title": "Buchseiten"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "Im \u201eBook Builder\u201c können Sie mehrere Attribute im Zusammenhang mit dem Buch angeben.",
+                    "2": "Hier können der Titel des Buches, mehrere Bilder, Quellenangaben, Verzögerungen, Leser und Seiten angegeben werden."
+                },
+                "title": "Buchersteller"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Wenn alle Felder eines Buchs ausgefüllt sind, muss das Buch auf dem Gerät gespeichert werden.",
+                    "2": "Beim Speichern werden die Buchdaten überprüft, um sicherzustellen, dass sie alle gültig sind; "
+                },
+                "title": "Ein Buch retten"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Bilder können entweder mit der Kamera Ihres Geräts aufgenommen oder aus Ihrer Galerie geladen werden.",
+                    "2": "Wenn ein Bild ausgewählt wurde, kann es bearbeitet werden, um sicherzustellen, dass es optimal aussieht.",
+                    "3": "Durch Drücken auf ein vorhandenes Bild werden die Bildschaltflächen angezeigt."
+                },
+                "title": "Buchbilder"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Es können Verzögerungen definiert werden, die sich auf die Wiedergabe des Buches auswirken.",
+                    "2": "Diese Verzögerungen können dafür sorgen, dass die Audiowiedergabe nicht zu abrupt klingt."
+                },
+                "title": "Buchverzögerungen"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Wenn ein Buch automatisch abgespielt wird, kann ein bestimmter Ton abgespielt werden, wenn eine Seite fertig ist und die nächste Seite beginnen kann.",
+                    "2": "Es kann eine Reihe vordefinierter Sounds ausgewählt oder ein benutzerdefinierter Sound hochgeladen oder aufgezeichnet werden."
+                },
+                "title": "Seitenwechsel-Audio"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "Ein Buch kann beliebig viele Leser enthalten.",
+                    "2": "Jeder Leser zeichnet auf, wie er jede Seite des Buches liest, und steht somit zur Verfügung, um das Buch während der Buchwiedergabe zu lesen."
+                },
+                "title": "Buchleser"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "Es können Quellenangaben zum Buch gemacht werden.",
+                    "2": "Obwohl diese Quellenangaben optional sind, können sie Ihnen dabei helfen, den Überblick über Ihre Lieblingsgeschichten zu behalten."
+                },
+                "title": "Informationen zur Buchquelle"
+            }
+        }
+    }
+}

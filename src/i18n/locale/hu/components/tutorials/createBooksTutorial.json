@@ -1,0 +1,96 @@
+{
+    "summary": "Digitalizálhatja családja kedvenc könyveit, és annyi olvasót vonhat be, amennyit hajlandó felvenni.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "A \"Könyvépítő\" megnyitása",
+            "ariaLabel": {
+                "expanded": "csukja össze a könyvkészítő szakasz megnyitóját",
+                "collapsed": "nyissa meg a könyvkészítő részt"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Bármely oldalról elérheti a \"Könyvkészítőt\" a képernyő bal felső sarkában található hamburger menün keresztül.",
+                    "2": "Innen nyomja meg a \"Könyvkészítő\" opciót."
+                },
+                "title": "Hamburger menü"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "Az \"Olvasósarok\" oldalról a képernyő jobb alsó sarkában található (+) gomb megnyomásával érheti el a \"Könyvkészítőt\".",
+                    "2": "Innen nyomja meg a \"könyv létrehozása\" lehetőséget."
+                },
+                "title": "Művelet gomb"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "A \"Book Builder\" használata",
+            "ariaLabel": {
+                "expanded": "csukja össze a könyvkészítő használatával részt",
+                "collapsed": "nyissa meg a könyvkészítő részt"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "Egy könyvnek legalább 1 oldalasnak kell lennie, de nincs felső határa.",
+                    "2": "Az oldalhoz használandó kép rögzítésekor vagy feltöltésekor a mesterséges intelligencia segítségével kinyerhető a szöveg a képből. "
+                },
+                "title": "Könyvoldalak"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "A \u201eKönyvkészítőben\u201d több, a könyvhöz kapcsolódó attribútumot is megadhat.",
+                    "2": "Itt megadható a könyv címe, több kép, forrásinformáció, késések, olvasók és oldalak."
+                },
+                "title": "Könyvépítő"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Ha egy könyv összes mezője ki van töltve, a könyvet el kell menteni a készülékre.",
+                    "2": "Mentéskor ellenőrzik a könyvadatokat, hogy megbizonyosodjanak arról, hogy azok mind érvényesek; "
+                },
+                "title": "Könyv mentése"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "A képeket az eszköz kamerájával rögzítheti, vagy betöltheti a galériából.",
+                    "2": "A kiválasztott kép szerkeszthető, hogy a lehető legjobban nézzen ki.",
+                    "3": "Meglévő kép megnyomására megjelennek a képgombok."
+                },
+                "title": "Könyv képek"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Meghatározhatók késleltetések, amelyek befolyásolják a könyv lejátszását.",
+                    "2": "Ezek a késleltetések biztosíthatják, hogy a hanglejátszás ne szóljon túl hirtelen."
+                },
+                "title": "Könyvkésések"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Amikor egy könyvet automatikusan lejátszanak, egy adott hang szólal meg, amikor egy oldal befejeződik, és a következő oldal készen áll a kezdésre.",
+                    "2": "Előre definiált hangok készlete kiválasztható, vagy egyéni hang feltölthető vagy rögzíthető."
+                },
+                "title": "Oldal módosítása Hang"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "Egy könyv tetszőleges számú olvasót tartalmazhat.",
+                    "2": "Minden olvasó rögzíti, hogy elolvassa a könyv minden oldalát, így a könyv lejátszása közben is elolvashatja a könyvet."
+                },
+                "title": "Könyvolvasók"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "A könyvről forrásinformációkat lehet megadni.",
+                    "2": "Bár ez a forrásinformáció nem kötelező, segíthet nyomon követni kedvenc történeteit."
+                },
+                "title": "A könyv forrásinformációi"
+            }
+        }
+    }
+}

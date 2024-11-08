@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "ऑडियो चलाएं",
+            "ariaLabel": "ऑडियो चलाएं"
+        },
+        "playing": {
+            "title": "ऑडियो रोकें",
+            "ariaLabel": "ऑडियो रोकें"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "पूरी छवि दिखाने के लिए ज़ूम आउट करें, किनारों पर काली पट्टियाँ हो सकती हैं",
+        "zoomedOut": "यह सुनिश्चित करने के लिए ज़ूम इन करें कि पूरी स्क्रीन छवि से भर गई है, हो सकता है कि छवि का कुछ भाग दिखाई न दे"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "पिछले पृष्ठ पर जाएं",
+            "ariaLabel": "पिछले पृष्ठ पर जाएं"
+        },
+        "noPreviousPage": {
+            "title": "पुस्तक चयन पर वापस जाएँ",
+            "ariaLabel": "पुस्तक चयन पर वापस जाएँ"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "अगले पृष्ठ पर जाएँ",
+            "ariaLabel": "अगले पृष्ठ पर जाएँ"
+        },
+        "noNextPage": {
+            "title": "पुस्तक चयन पर वापस जाएँ",
+            "ariaLabel": "पुस्तक चयन पर वापस जाएँ"
+        }
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "Tämä poistaa kaikki tälle laitteelle asennetut kirjat.\n\n",
+        "button": {
+            "label": "Poistaa",
+            "title": "poistaa kaikki kirjat",
+            "ariaLabel": "poistaa kaikki kirjat"
+        },
+        "displayName": "Poista kaikki kirjat",
+        "processingMessage": "poistaminen...",
+        "shortDescription": {
+            "disabled": "Poista kaikki kirjasi, mutta sinulla ei ole tällä hetkellä yhtään kirjaa asennettuna.",
+            "enabled": "Poista kaikki kirjasi."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} ",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "jäähdyttimet",
+                "someFontsBy": "Fontit tekijä:"
+            },
+            "label": "Erityinen kiitos",
+            "icons": {
+                "ionicIcons": "IonIcons",
+                "someIconsBy": "Kuvakkeet kirjoittaja:",
+                "icons8": "Kuvakkeet 8",
+                "iconArchive": "Kuvakearkisto"
+            }
+        },
+        "version": "Versio: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Tätä kuvankäsittelyohjelmaa käytetään, kun uusia kirjakuvia otetaan tai olemassa olevaa kirjakuvaa muokataan.",
+        "displayName": "Kuvaeditori",
+        "testLabel": "Testaa kuvaeditoria",
+        "testImage": {"accessibleImageDisplayName": "testaa kuvankäsittelyn kuvaa"},
+        "options": {
+            "advanced": {
+                "label": "Edistynyt",
+                "ariaLabel": "käytä kehittynyttä kuvankäsittelyohjelmaa"
+            },
+            "simple": {
+                "label": "Yksinkertainen",
+                "ariaLabel": "käytä yksinkertaista kuvankäsittelyohjelmaa"
+            }
+        },
+        "shortDescription": "Valitse käytettävä kuvankäsittelyohjelma.",
+        "ariaLabel": "valitse käytettävä kuvankäsittelyohjelma"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Tätä ääntä käytetään, kun \"AI Reader\" -lukija lukee kirjoja.",
+        "displayName": "Ensisijainen ääni",
+        "selectorButton": {
+            "defaultLabel": "oletuksena",
+            "ariaLabel": "valitse \"AI Reader\" -ääni"
+        },
+        "shortDescription": "Valitse ääni, jota \"AI Reader\" käyttää.",
+        "picker": {
+            "default": "oletuksena",
+            "networkActionIcon": {"ariaLabel": "näyttää paikallisia ja verkkopohjaisia \u200b\u200bääniä"},
+            "label": "AI Reader Voices",
+            "ariaLabel": "valitse \"AI Reader\" -ääni",
+            "globalActionIcon": {"ariaLabel": "näytä kaikki kielet"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Audio & Video",
+        "ariaLabel": {
+            "expanded": "tiivistä äänivideon valintaosio",
+            "collapsed": "laajenna äänivideon valintaosaa"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Tätä kuvanlaatua käytetään otettaessa kuvia laitteen kameroilla.",
+        "slider": {
+            "highLabel": "Korkea",
+            "ariaLabel": "kuvien kuvanlaatu",
+            "lowLabel": "Matala"
+        },
+        "displayName": "Kameran laatu %{value} %",
+        "testLabel": "Testaa kameraa",
+        "testImage": {"accessibleImageDisplayName": "testaa kameran kuvanlaatua"},
+        "shortDescription": "Valitse kameralla otettujen kuvien kuvanlaatu."
+    },
+    "title": "Asetukset",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Poiston vahvistus",
+        "message": "Haluatko varmasti poistaa kaikki asennetut kirjat?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "Tästä voi olla hyötyä, kun siirryt uuteen laitteeseen tai lisäät kirjojasi useisiin laitteisiin.",
+        "button": {
+            "label": "Viedä",
+            "title": "viedä kaikki kirjat",
+            "ariaLabel": "viedä kaikki kirjat"
+        },
+        "displayName": "Vie kaikki kirjat",
+        "shortDescription": {
+            "disabled": "Vie kaikki kirjasi yhteen tiedostoon ja tallenna/jaa se, mutta sinulla ei ole tällä hetkellä asennettuna yhtään kirjaa.",
+            "enabled": "Vie kaikki kirjasi yhteen tiedostoon ja tallenna/jaa se."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "poistaminen epäonnistui",
+        "success": {
+            "other": "poistettu %{count} kirjaa",
+            "one": "poistettu 1 kirja"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "AI-lukija",
+        "testLabel": "Testaa ääntä",
+        "testAriaLabel": {
+            "stopped": "testaa \"AI Reader\" -ääntä",
+            "playing": "lopeta \"AI Reader\" -äänitesti"
+        },
+        "testPhrase": "Hei, haluaisin mielelläni lukea suosikkitarinoitasi kanssasi.",
+        "description": "Kun \"AI Reader\" on käytössä, se on käytettävissä lukijana kirjoja toistettaessa.",
+        "ariaLabel": {
+            "expanded": "tiivistä \"AI Reader\" -valintaosio",
+            "collapsed": "laajentaa \"AI Reader\" -valintaosaa",
+            "disabled": "\"AI Reader\" on poistettu käytöstä",
+            "enabled": "\"AI Reader\" on käytössä"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "Tämä ilmaisee äänenkorkeuden, jota käytetään, kun \"AI Reader\" -lukija lukee kirjoja.",
+        "slider": {
+            "highLabel": "Korkea",
+            "ariaLabel": "\"AI Readerin\" äänenkorkeus",
+            "lowLabel": "Matala"
+        },
+        "displayName": "Äänenkorkeus %{value} %",
+        "shortDescription": "Valitse \"AI Reader\" -sovelluksen käyttämä äänen korkeus."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Tätä äänenlaatua käytetään äänitettäessä laitteen mikrofonilla.",
+        "displayName": "Mikrofonin laatu",
+        "testLabel": "Testimikrofoni",
+        "options": {
+            "high": {
+                "label": "Korkea",
+                "ariaLabel": "käytä korkeaa äänenlaatua"
+            },
+            "low": {
+                "label": "Matala",
+                "ariaLabel": "käytä huonoa äänenlaatua"
+            }
+        },
+        "shortDescription": "Valitse mikrofonilla otettujen tallenteiden äänenlaatu.",
+        "ariaLabel": "valitse mikrofonilla otettujen tallenteiden äänenlaatu",
+        "testAudioSelector": {"accessibleAudioDisplayName": "testaa mikrofonin laatua"}
+    },
+    "subtitle": "Päivitä sovellusasetukset täällä.",
+    "themeSelection": {
+        "longDescription": "Jos teema valitaan tässä, se ohittaa mahdolliset laitteen teema-asetukset.",
+        "displayName": "Teeman valinta",
+        "options": {
+            "default": {
+                "label": "Järjestelmä",
+                "ariaLabel": "käytä järjestelmän määrittelemää teemaa"
+            },
+            "light": {
+                "label": "Kevyt",
+                "ariaLabel": "käytä valoteemaa"
+            },
+            "dark": {
+                "label": "Tumma",
+                "ariaLabel": "käytä tummaa teemaa"
+            }
+        },
+        "shortDescription": "Valitse teema, jota sovelluksen tulee käyttää.",
+        "ariaLabel": "valitse teema, jota sovelluksen tulee käyttää"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "Tämä ilmaisee äänen nopeuden, jota käytetään, kun \"AI Reader\" -lukija lukee kirjoja.",
+        "slider": {
+            "highLabel": "Nopeasti",
+            "ariaLabel": "\"AI Readerin\" puhenopeus",
+            "lowLabel": "Hidas"
+        },
+        "displayName": "Puhenopeus %{value} %",
+        "shortDescription": "Valitse \"AI Readerin\" käyttämän äänen nopeus."
+    },
+    "parentalLocking": {
+        "longDescription": "Kun tämä on käytössä, laitteen omistajien biometrisiä tietoja tarvitaan sovelluksen lisäominaisuuksien avaamiseen.",
+        "displayName": "Lapsilukko",
+        "shortDescription": "Lapsilukko voi olla hyödyllinen, kun lapset käyttävät sovellusta.",
+        "ariaLabel": {
+            "disabled": "lapsilukko on poistettu käytöstä",
+            "enabled": "lapsilukko on käytössä"
+        }
+    }
+}

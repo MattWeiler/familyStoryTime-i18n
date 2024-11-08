@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Valitse",
+                "ariaLabel": "valitse kirja %{bookTitle}"
+            },
+            "edit": {
+                "title": "Muokata",
+                "ariaLabel": "muokkaa kirjaa %{bookTitle}"
+            },
+            "delete": {
+                "title": "Poistaa",
+                "ariaLabel": "poista kirja %{bookTitle}"
+            },
+            "export": {
+                "title": "Viedä",
+                "ariaLabel": "vie kirja %{bookTitle}"
+            }
+        },
+        "ariaLabel": "avaa kirjan %{bookTitle} kontekstivalikko"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} sivua",
+            "one": "%{count} sivu"
+        },
+        "ariaLabel": {
+            "other": "%{count} sivua",
+            "one": "%{count} sivu"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "valitse kirja %{bookTitle}",
+        "selected": "poista kirjan %{bookTitle} valinta"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} lukijaa",
+            "one": "%{count} lukija"
+        },
+        "ariaLabel": {
+            "other": "kirjalla %{bookTitle} on %{count} lukijaa",
+            "one": "kirjassa %{bookTitle} on %{count} lukija"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "lue tarina: %{bookTitle}",
+        "selectionMode": "%{bookTitle} kirja"
+    }
+}

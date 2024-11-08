@@ -1,0 +1,96 @@
+{
+    "summary": "Vous pouvez numériser les livres préférés de votre famille et inclure autant de lecteurs que ceux qui souhaitent s'enregistrer.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "Ouverture du \"Book Builder\"",
+            "ariaLabel": {
+                "expanded": "réduire la section d'ouverture du créateur de livre",
+                "collapsed": "ouvrir la section d'ouverture du créateur de livre"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Depuis n'importe quelle page, vous pouvez accéder au \"Book Builder\" via le menu hamburger en haut à gauche de l'écran.",
+                    "2": "À partir de là, appuyez sur l'option \"Book Builder\"."
+                },
+                "title": "Menu de hamburgers"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "Depuis la page « Coin lecture », vous pouvez accéder au « Book Builder » en appuyant sur le bouton (+) en bas à droite de l'écran.",
+                    "2": "À partir de là, appuyez sur l'option \"Créer un livre\"."
+                },
+                "title": "Bouton d'action"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "Utiliser le \"Book Builder\"",
+            "ariaLabel": {
+                "expanded": "réduire la section Utilisation du générateur de livres",
+                "collapsed": "ouvrez la section Utilisation du générateur de livres"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "Un livre doit contenir au moins 1 page, mais n'a pas de limite supérieure.",
+                    "2": "Lors de la capture ou du téléchargement d\u2019une image à utiliser pour une page, l\u2019IA sera utilisée pour extraire le texte de l\u2019image. "
+                },
+                "title": "Pages de livre"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "Dans le \"Book Builder\", vous pourrez spécifier plusieurs attributs liés au livre.",
+                    "2": "Le titre du livre, plusieurs images, les informations sur la source, les délais, les lecteurs et les pages peuvent tous être spécifiés ici."
+                },
+                "title": "Générateur de livres"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Lorsque tous les champs d'un livre ont été remplis, le livre doit être enregistré sur l'appareil.",
+                    "2": "Lors de l'enregistrement, les données du livre seront vérifiées pour s'assurer qu'elles sont toutes valides ; "
+                },
+                "title": "Enregistrer un livre"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Les images peuvent être capturées à l'aide de l'appareil photo de votre appareil ou chargées à partir de votre galerie.",
+                    "2": "Lorsqu'une image a été sélectionnée, elle peut être modifiée pour garantir qu'elle soit la meilleure possible.",
+                    "3": "Appuyer sur une image existante fera apparaître les boutons d\u2019image."
+                },
+                "title": "Images de livres"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Des retards peuvent être définis qui affecteront la lecture du livre.",
+                    "2": "Ces retards peuvent garantir que la lecture audio ne semble pas trop brusque."
+                },
+                "title": "Retards de réservation"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Lorsqu'un livre est en lecture automatique, un son spécifique peut être joué lorsqu'une page est terminée et que la page suivante est prête à commencer.",
+                    "2": "Un ensemble de sons prédéfinis peut être sélectionné ou un son personnalisé peut être téléchargé ou enregistré."
+                },
+                "title": "Changement de page audio"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "Un livre peut contenir n'importe quel nombre de lecteurs.",
+                    "2": "Chaque lecteur s'enregistrera en train de lire chaque page du livre et sera ainsi disponible pour lire le livre pendant la lecture du livre."
+                },
+                "title": "Lecteurs de livres"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "Des informations sur la source peuvent être fournies sur le livre.",
+                    "2": "Bien que ces informations sur la source soient facultatives, elles peuvent vous aider à suivre vos histoires préférées."
+                },
+                "title": "Informations sur la source du livre"
+            }
+        }
+    }
+}

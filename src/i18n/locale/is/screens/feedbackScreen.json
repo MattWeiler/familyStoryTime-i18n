@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "App Feedback",
+            "ariaLabel": "veita endurgjöf um umsókn okkar"
+        },
+        "description": "Okkur þætti vænt um að heyra hvað þú hefur að segja."
+    },
+    "title": "Skildu eftir athugasemdir",
+    "bugFeedback": {
+        "tab": {
+            "title": "Tilkynna villu",
+            "ariaLabel": "tilkynntu villu sem þú fannst í forritinu okkar"
+        },
+        "description": "Okkur þykir leitt að heyra að þú hafir fundið villu en við munum gera okkar besta til að laga hana :)"
+    }
+}

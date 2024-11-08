@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "e-mailezés nem támogatott",
+        "submissionFailed": "visszajelzés küldése sikertelen",
+        "submissionSuccess": "visszajelzés küldve"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Kérjük, válasszon elégedettségi szintet.",
+        "description": "Mennyire valószínű, hogy megosztja alkalmazásunkat?",
+        "label": "Megosztás másokkal",
+        "levels": {
+            "1": {
+                "displayName": "Szó sem lehet róla",
+                "ariaLabel": "Szó sem lehet róla"
+            },
+            "2": {
+                "displayName": "Nem valószínű",
+                "ariaLabel": "nem valószínű"
+            },
+            "3": {
+                "displayName": "Talán",
+                "ariaLabel": "talán"
+            },
+            "4": {
+                "displayName": "Igen",
+                "ariaLabel": "igen"
+            },
+            "5": {
+                "displayName": "Már van",
+                "ariaLabel": "már megvan"
+            }
+        },
+        "ariaLabel": "válassza ki, mekkora valószínűséggel osztja meg ezt a mobilalkalmazást másokkal"
+    },
+    "submitButton": {
+        "text": "Visszajelzés küldése",
+        "ariaLabel": "küldje el visszajelzését"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Kérjük, válasszon elégedettségi szintet.",
+        "description": "Mennyire tetszett/nem tetszett az alkalmazásunk?",
+        "label": "Alkalmazás elégedettsége",
+        "levels": {
+            "1": {
+                "displayName": "Hate It",
+                "ariaLabel": "utálom"
+            },
+            "2": {
+                "displayName": "Csalódott",
+                "ariaLabel": "csalódottan"
+            },
+            "3": {
+                "displayName": "Semleges",
+                "ariaLabel": "semleges"
+            },
+            "4": {
+                "displayName": "Nagy",
+                "ariaLabel": "nagy"
+            },
+            "5": {
+                "displayName": "Szeretem",
+                "ariaLabel": "szeretem"
+            }
+        },
+        "ariaLabel": "válassza ki az elégedettségi szintjét ezzel a mobilalkalmazással"
+    },
+    "commentInput": {
+        "description": "Opcionálisan adja meg további megjegyzéseit.",
+        "label": "Megjegyzés",
+        "ariaLabel": "opcionálisan további megjegyzések"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Kérjük, válasszon elégedettségi szintet.",
+        "description": "Hogyan találtál rá a játékkönyvekre?",
+        "label": "Könyvek lejátszása",
+        "levels": {
+            "1": {
+                "displayName": "Nem működött",
+                "ariaLabel": "nem működött"
+            },
+            "2": {
+                "displayName": "Nem nagyszerű",
+                "ariaLabel": "nem nagyszerű"
+            },
+            "3": {
+                "displayName": "Rendben van",
+                "ariaLabel": "rendben van"
+            },
+            "4": {
+                "displayName": "Ez könnyű",
+                "ariaLabel": "ez könnyű"
+            },
+            "5": {
+                "displayName": "Szeretem",
+                "ariaLabel": "szeretem"
+            }
+        },
+        "ariaLabel": "válassza ki, mennyire elégedett a könyv lejátszásával"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Kérjük, válasszon elégedettségi szintet.",
+        "description": "Hogy tetszett, hogy több olvasód van?",
+        "label": "Több olvasó",
+        "levels": {
+            "1": {
+                "displayName": "Nem működött",
+                "ariaLabel": "nem működött"
+            },
+            "2": {
+                "displayName": "Nem nagyszerű",
+                "ariaLabel": "nem nagyszerű"
+            },
+            "3": {
+                "displayName": "Rendben van",
+                "ariaLabel": "rendben van"
+            },
+            "4": {
+                "displayName": "Ez könnyű",
+                "ariaLabel": "ez könnyű"
+            },
+            "5": {
+                "displayName": "Szeretem",
+                "ariaLabel": "szeretem"
+            }
+        },
+        "ariaLabel": "válassza ki, mennyire elégedett azzal, hogy könyvenként több olvasója van"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Kérjük, válasszon elégedettségi szintet.",
+        "description": "Hogyan talált rá a könyvírásra?",
+        "label": "Könyvek készítése",
+        "levels": {
+            "1": {
+                "displayName": "Nem működött",
+                "ariaLabel": "nem működött"
+            },
+            "2": {
+                "displayName": "Nem nagyszerű",
+                "ariaLabel": "nem nagyszerű"
+            },
+            "3": {
+                "displayName": "Rendben van",
+                "ariaLabel": "rendben van"
+            },
+            "4": {
+                "displayName": "Ez könnyű",
+                "ariaLabel": "ez könnyű"
+            },
+            "5": {
+                "displayName": "Szeretem",
+                "ariaLabel": "szeretem"
+            }
+        },
+        "ariaLabel": "válassza ki, mennyire elégedett a könyvkészítés folyamatával"
+    }
+}

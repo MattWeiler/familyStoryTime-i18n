@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "Visszajelzés az alkalmazásról",
+            "ariaLabel": "visszajelzést adni pályázatunkról"
+        },
+        "description": "Szeretnénk hallani, mit kell mondanod."
+    },
+    "title": "Hagyjon visszajelzést",
+    "bugFeedback": {
+        "tab": {
+            "title": "Hiba bejelentése",
+            "ariaLabel": "jelentse az alkalmazásunkban talált hibát"
+        },
+        "description": "Sajnálattal halljuk, hogy hibát talált, de mi mindent megteszünk a javítása érdekében :)"
+    }
+}

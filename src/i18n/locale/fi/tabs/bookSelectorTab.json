@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "kirjojen lataus epäonnistui"},
+        "import": {"failure": "tuonti epäonnistui"},
+        "delete": {
+            "failure": "poistaminen epäonnistui",
+            "success": "poistettu kirja \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "%{count} kirjaa ei voitu poistaa",
+                "one": "1 kirjan poistaminen epäonnistui"
+            },
+            "success": {
+                "other": "poistettu %{count} kirjaa",
+                "one": "poistettu 1 kirja"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "lajitella sivumäärän mukaan laskevassa järjestyksessä",
+                "descending": "lajitella sivumäärän mukaan nousevaan järjestykseen"
+            }},
+            "searchField": {
+                "placeholder": "etsi kirjojasi",
+                "ariaLabel": "etsi kirjojasi"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Viedä",
+                        "ariaLabel": "viedä valitut kirjat"
+                    },
+                    "delete": {
+                        "label": "Poistaa",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "ei, älä poista valittuja kirjoja"},
+                                "yes": {"ariaLabel": "kyllä, poista valitut kirjat"}
+                            },
+                            "title": "Vahvista poisto",
+                            "message": {
+                                "other": "Oletko varma, että haluat poistaa %{count} valittua kirjaa?",
+                                "one": "Oletko varma, että haluat poistaa valitun kirjan?"
+                            }
+                        },
+                        "ariaLabel": "poista valitut kirjat"
+                    }
+                },
+                "ariaLabel": "avaa valittujen kirjojen kontekstivalikko"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "lajitella kirjan nimen mukaan laskevaan järjestykseen",
+                "descending": "lajitella kirjan nimen mukaan nousevaan järjestykseen"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "Lajittele lukijamäärän mukaan laskevaan järjestykseen",
+                "descending": "lajitella lukijamäärän mukaan nousevaan järjestykseen"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "loitonna nähdäksesi lisää kohteita kerralla",
+                "zoomedOut": "lähennä nähdäksesi suurempia kuvia"
+            }}
+        },
+        "loadError": {
+            "text": "Kirjojen lataaminen epäonnistui.",
+            "ariaLabel": "kirjojen lataaminen epäonnistui"
+        },
+        "noBooksFound": {
+            "message": "Kirjoja ei löytynyt :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Kokeile meidän",
+                    "linkName": "kirjanrakentaja"
+                },
+                "availableBooks": {
+                    "message": "Tutustu meidän",
+                    "linkName": "kirjakauppa"
+                }
+            }
+        }
+    },
+    "subtitle": "Nautitaan tarinoiden lukemisesta.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "luo kirja",
+                "ariaLabel": "luoda uusi kirja"
+            },
+            "importBooks": {
+                "label": "kirjojen maahantuonti",
+                "ariaLabel": "tuoda yksi tai useampi kirja"
+            },
+            "bookStore": {
+                "label": "vierailla kirjakaupassa",
+                "ariaLabel": "vieraile kirjakaupassamme"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "sulje lisää kirjavalikko",
+            "collapsed": "avaa Lisää kirja -valikko"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "poistaminen...\n",
+            "one": "poistaminen...\n",
+            "none": "poistaminen..."
+        }},
+        "export": {"label": {
+            "other": "vientiä...\n",
+            "one": "vientiä...\n",
+            "none": "vientiä..."
+        }}
+    }},
+    "title": "Lukunurkkaus",
+    "confirmations": {"deleteBook": {
+        "title": "Poiston vahvistus",
+        "message": "Haluatko varmasti poistaa kirjan \"%{bookTitle}?\""
+    }}
+}

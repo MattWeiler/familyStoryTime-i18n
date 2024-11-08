@@ -1,0 +1,33 @@
+{
+    "intro": "Ich habe diese Anwendung erstellt, um Kindern auf ihrer Lesereise zu helfen, aber auch, um ihnen Geschichten von geliebten Menschen vorlesen zu lassen, die nicht dabei sein können.",
+    "title": "Familiengeschichtenzeit",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Lassen Sie sich Ihre Geschichten von Ihrem Lieblingsgeschichtenerzähler vorlesen, auch wenn dieser nicht dabei sein kann.",
+            "title": "Bekannte Stimmen"
+        },
+        "paragraph_3": {
+            "content_1": "Die Bücher können automatisch vorgelesen werden, während Sie mitlesen.",
+            "title": "Übe das Lesen"
+        },
+        "paragraph_2": {
+            "content_1": "Digitalisieren Sie Ihre Lieblingsbücher, damit sie jahrelang Freude bereiten.",
+            "title": "Behalten Sie Ihre Favoriten"
+        },
+        "paragraph_1": {
+            "content_2": "Bewahren Sie alle Ihre Lieblingsbücher an einem Ort auf, damit Sie zu Hause oder unterwegs problemlos darauf zugreifen können.",
+            "content_1": "Viel Spaß beim Lesen als Familie.",
+            "title": "Viel Spaß beim Lesen"
+        },
+        "paragraph_6": {
+            "content_2": "Bei Aktivierung muss der Gerätebesitzer die Anwendung mithilfe seiner biometrischen Daten (je nach Gerät) entsperren, um auf die sensiblen Aspekte der Anwendung zugreifen zu können.",
+            "content_1": "Die Anwendung verfügt über eine Kindersicherungsfunktion.",
+            "title": "Kindersicherung"
+        },
+        "paragraph_5": {
+            "content_2": "Geschichten können entweder einzeln oder alle auf einmal exportiert werden.",
+            "content_1": "Erstelle deine eigenen Geschichten und teile sie mit Freunden und Familie.",
+            "title": "Aktie"
+        }
+    }
+}

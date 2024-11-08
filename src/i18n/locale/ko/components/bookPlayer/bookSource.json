@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "도서 출처 정보 표시"},
+        "hideSource": {"ariaLabel": "도서 출처 정보 숨기기"}
+    },
+    "sourceUrl": {
+        "label": "책 출처 보기",
+        "ariaLabel": "오픈북 출처 URL"
+    },
+    "sourceIllustrator": {"label": "일러스트레이터:"},
+    "sourceAuthor": {"label": "작가:"},
+    "sourcePublisher": {"label": "발행자:"},
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "ISBN 열기 책 ISBN 검색"
+    }
+}

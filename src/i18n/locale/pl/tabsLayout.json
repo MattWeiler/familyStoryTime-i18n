@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Kącik czytelniczy",
+        "ariaLabel": "czytaj tutaj swoje książki"
+    },
+    "bookStore": {
+        "text": "Księgarnia",
+        "ariaLabel": "odwiedź księgarnię"
+    }
+}

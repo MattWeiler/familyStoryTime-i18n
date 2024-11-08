@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "gửi email không được hỗ trợ",
+        "submissionFailed": "gửi phản hồi không thành công",
+        "submissionSuccess": "phản hồi đã được gửi"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Vui lòng chọn mức độ hài lòng.",
+        "description": "Khả năng bạn chia sẻ ứng dụng của chúng tôi là bao nhiêu?",
+        "label": "Chia sẻ với người khác",
+        "levels": {
+            "1": {
+                "displayName": "Không đời nào",
+                "ariaLabel": "không đời nào"
+            },
+            "2": {
+                "displayName": "Không có khả năng",
+                "ariaLabel": "không có khả năng"
+            },
+            "3": {
+                "displayName": "Có lẽ",
+                "ariaLabel": "Có lẽ"
+            },
+            "4": {
+                "displayName": "Đúng",
+                "ariaLabel": "Đúng"
+            },
+            "5": {
+                "displayName": "Đã có",
+                "ariaLabel": "đã có rồi"
+            }
+        },
+        "ariaLabel": "chọn khả năng bạn chia sẻ ứng dụng di động này với người khác"
+    },
+    "submitButton": {
+        "text": "Gửi phản hồi",
+        "ariaLabel": "gửi phản hồi của bạn"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Vui lòng chọn mức độ hài lòng.",
+        "description": "Bạn thích/không thích ứng dụng của chúng tôi đến mức nào?",
+        "label": "Sự hài lòng của ứng dụng",
+        "levels": {
+            "1": {
+                "displayName": "Ghét nó",
+                "ariaLabel": "ghét nó"
+            },
+            "2": {
+                "displayName": "Thất vọng",
+                "ariaLabel": "thất vọng"
+            },
+            "3": {
+                "displayName": "Trung lập",
+                "ariaLabel": "trung lập"
+            },
+            "4": {
+                "displayName": "Tuyệt",
+                "ariaLabel": "Tuyệt"
+            },
+            "5": {
+                "displayName": "yêu nó",
+                "ariaLabel": "yêu nó"
+            }
+        },
+        "ariaLabel": "chọn mức độ hài lòng của bạn với ứng dụng di động này"
+    },
+    "commentInput": {
+        "description": "Tùy chọn cung cấp bất kỳ nhận xét bổ sung nào mà bạn có.",
+        "label": "Bình luận",
+        "ariaLabel": "tùy chọn, ý kiến \u200b\u200b\u200b\u200bbổ sung"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Vui lòng chọn mức độ hài lòng.",
+        "description": "Bạn thấy việc chơi sách như thế nào?",
+        "label": "Chơi Sách",
+        "levels": {
+            "1": {
+                "displayName": "không hoạt động",
+                "ariaLabel": "không hoạt động"
+            },
+            "2": {
+                "displayName": "Không tuyệt vời",
+                "ariaLabel": "không tuyệt vời"
+            },
+            "3": {
+                "displayName": "Không sao đâu",
+                "ariaLabel": "không sao đâu"
+            },
+            "4": {
+                "displayName": "Thật dễ dàng",
+                "ariaLabel": "thật dễ dàng"
+            },
+            "5": {
+                "displayName": "yêu nó",
+                "ariaLabel": "yêu nó"
+            }
+        },
+        "ariaLabel": "chọn sự hài lòng của bạn với việc phát lại cuốn sách"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Vui lòng chọn mức độ hài lòng.",
+        "description": "Bạn thích có nhiều độc giả như thế nào?",
+        "label": "Nhiều người đọc",
+        "levels": {
+            "1": {
+                "displayName": "không hoạt động",
+                "ariaLabel": "không hoạt động"
+            },
+            "2": {
+                "displayName": "Không tuyệt vời",
+                "ariaLabel": "không tuyệt vời"
+            },
+            "3": {
+                "displayName": "Không sao đâu",
+                "ariaLabel": "không sao đâu"
+            },
+            "4": {
+                "displayName": "Thật dễ dàng",
+                "ariaLabel": "thật dễ dàng"
+            },
+            "5": {
+                "displayName": "yêu nó",
+                "ariaLabel": "yêu nó"
+            }
+        },
+        "ariaLabel": "chọn sự hài lòng của bạn với việc có nhiều độc giả cho mỗi cuốn sách"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Vui lòng chọn mức độ hài lòng.",
+        "description": "Bạn thấy việc tạo sách như thế nào?",
+        "label": "Tạo sách",
+        "levels": {
+            "1": {
+                "displayName": "không hoạt động",
+                "ariaLabel": "không hoạt động"
+            },
+            "2": {
+                "displayName": "Không tuyệt vời",
+                "ariaLabel": "không tuyệt vời"
+            },
+            "3": {
+                "displayName": "Không sao đâu",
+                "ariaLabel": "không sao đâu"
+            },
+            "4": {
+                "displayName": "Thật dễ dàng",
+                "ariaLabel": "thật dễ dàng"
+            },
+            "5": {
+                "displayName": "yêu nó",
+                "ariaLabel": "yêu nó"
+            }
+        },
+        "ariaLabel": "chọn sự hài lòng của bạn với quá trình tạo sách"
+    }
+}

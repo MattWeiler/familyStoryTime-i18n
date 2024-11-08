@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "\"%{bookTitle}\" mentett könyv",
+        "validationFailed": "érvényesítés sikertelen",
+        "bookSaveFailed": "könyv mentése sikertelen"
+    },
+    "bookTitleInput": {
+        "description": "A könyv címe.",
+        "label": "Könyv címe",
+        "placeholder": "könyv címe",
+        "ariaLabel": "a könyv címe"
+    },
+    "readers": {
+        "label": "Olvasók",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "az új olvasó megjelenített neve",
+                "buttons": {
+                    "cancel": {"ariaLabel": "törölje az új olvasó hozzáadását"},
+                    "add": {"ariaLabel": "add hozzá az új olvasót"}
+                },
+                "description": "Kérjük, adja meg ennek az új olvasónak a megjelenített nevét.",
+                "title": "Új olvasó hozzáadása",
+                "inputPlaceholder": "olvasó neve"
+            },
+            "ariaLabel": "új olvasó hozzáadása"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Az ezredmásodpercek száma, amennyit várni kell az oldalváltás hangjának lejátszása előtt.",
+            "label": "Oldalváltás előtt Hang",
+            "placeholder": "ezredmásodperccel az oldalváltás hangjának lejátszása előtt",
+            "ariaLabel": "ezredmásodpercet várni, mielőtt lejátssza az oldalváltási hangot"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Az oldalváltás hangjának lejátszása után várakozni kívánt ezredmásodpercek száma.",
+            "label": "Oldalváltás után hang",
+            "placeholder": "ezredmásodperccel az oldalváltás hangjának lejátszása után",
+            "ariaLabel": "ezredmásodpercet várni az oldalváltás hangjának lejátszása után"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Az oldal hangjának lejátszása előtt várakozni kívánt ezredmásodpercek száma.",
+            "label": "Az oldal hangja előtt",
+            "placeholder": "ezredmásodperccel az oldal hangjának lejátszása előtt",
+            "ariaLabel": "ezredmásodpercet várni az oldal hangjának lejátszása előtt"
+        },
+        "label": "Késések"
+    },
+    "bookIconImageSelector": {
+        "description": "A könyv ikonjaként használandó kép.",
+        "label": "könyv ikon",
+        "accessibleImageDisplayName": "könyv ikonra"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "A könyv első indításakor megjelenítendő kép.",
+        "label": "Book Splash kép",
+        "accessibleImageDisplayName": "könyvfröccs"
+    },
+    "confirmations": {"goBack": {
+        "title": "Hagyja el a Módosításokat",
+        "message": "Biztos benne, hogy ki akar menni a mentés előtt?"
+    }},
+    "pageChangeAudio": {
+        "description": "A lejátszandó hang, amikor eljön az ideje az oldalváltásnak.",
+        "label": "Oldal módosítása Hang",
+        "presetAudioModalPicker": {
+            "headerLabel": "Válassza az Oldal módosítása Hang lehetőséget",
+            "ariaLabel": "válasszon az előre beállított oldalmódosítási hangbeállítások listájából",
+            "accessibleAudioDisplayName": "oldalváltás"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Nem sikerült betölteni a könyvet.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "a késleltetés nem lehet negatív",
+            "bookTitleMissing": "könyv címe kötelező",
+            "readerDisplayNameMissing": "olvasó megjelenített neve kötelező",
+            "bookIconNotValid": "könyv ikonra van szükség",
+            "pageTextMissing": "oldal szövege kötelező",
+            "delayBeforePlayingPageAudioNegative": "a késleltetés nem lehet negatív",
+            "pagesMissing": "legalább 1 oldal szükséges",
+            "pageImageNotValid": "oldalkép szükséges",
+            "delayBeforePlayingPageChangeAudioNegative": "a késleltetés nem lehet negatív",
+            "bookSplashImageNotValid": "könyvcseppkép szükséges",
+            "readerIntroAudioNotValid": "Az olvasó bevezető hangja nem érvényes fájl",
+            "pageAudioNotValid": "oldal hangja szükséges",
+            "pageChangeAudioNotValid": "oldalváltás hangja szükséges",
+            "delayAfterPlayingPageChangeAudioNotInteger": "a késleltetésnek egész számnak kell lennie",
+            "delayBeforePlayingPageAudioNotInteger": "a késleltetésnek egész számnak kell lennie",
+            "delayBeforePlayingPageChangeAudioNotInteger": "a késleltetésnek egész számnak kell lennie",
+            "delayBeforePlayingPageAudioRequired": "késedelem szükséges",
+            "readerImageNotValid": "olvasókép szükséges",
+            "delayBeforePlayingPageChangeAudioRequired": "késedelem szükséges",
+            "delayAfterPlayingPageChangeAudioRequired": "késedelem szükséges"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "A könyv forrás URL-je.",
+            "label": "Forrás URL",
+            "placeholder": "forrás URL",
+            "ariaLabel": "a könyv forrás URL-je"
+        },
+        "authorInput": {
+            "description": "A könyv szerzőjének neve.",
+            "label": "Szerző neve",
+            "placeholder": "könyv szerzője",
+            "ariaLabel": "a könyv szerzőjének neve"
+        },
+        "illustratorInput": {
+            "description": "A könyv illusztrátorának neve.",
+            "label": "Illusztrátor neve",
+            "placeholder": "könyv illusztrátora",
+            "ariaLabel": "a könyv illusztrátorának neve"
+        },
+        "publisherInput": {
+            "description": "A könyv kiadójának neve.",
+            "label": "Kiadó neve",
+            "placeholder": "könyv kiadója",
+            "ariaLabel": "a könyv kiadójának neve"
+        },
+        "label": "Forrás",
+        "isbnInput": {
+            "description": "A könyv nemzetközi szabványos könyvszáma.",
+            "label": "ISBN",
+            "placeholder": "könyv ISBN-je",
+            "ariaLabel": "a könyv nemzetközi szabványos könyvszáma"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "új oldal hozzáadása"},
+        "label": "Oldalak"
+    }
+}

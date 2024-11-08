@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "sivu %{pageNum} kuva"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Skannaa sivun teksti uudelleen",
+                "message": "Oletko varma, että haluat skannata kuvan tekstin varalta ja korvata olemassa olevan sivun tekstin?"
+            },
+            "ariaLabel": "poimi tekstiä kuvasta sivulle %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "teksti lisättäväksi sivulle %{pageNum}",
+                    "withPageText": "päivitettävä teksti sivulla %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Aseta sivuteksti",
+                    "withPageText": "Päivitä sivun teksti"
+                },
+                "message": {
+                    "noPageText": "Mikä on sivun teksti?",
+                    "withPageText": "Mihin haluat muuttaa sivun tekstin?"
+                },
+                "inputPlaceholder": "lisättävä teksti"
+            },
+            "ariaLabel": "muokkaa tekstiä \"%{pageText}\" sivulta %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "siirrä teksti \"%{pageText}\" sivulta %{pageNum} ylöspäin"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Poiston vahvistus",
+                "message": "Haluatko varmasti poistaa tämän sivutekstin?"
+            },
+            "ariaLabel": "poista teksti \"%{pageText}\" sivulta %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "teksti lisättäväksi sivulle %{pageNum}",
+                "title": "Aseta sivuteksti",
+                "message": "Mikä on sivun teksti?",
+                "inputPlaceholder": "lisättävä teksti"
+            },
+            "ariaLabel": "lisää uusi teksti sivulle %{pageNum}"
+        },
+        "label": "Teksti",
+        "showHideButton": {"ariaLabel": {
+            "visible": "piilota teksti \"%{pageText}\" sivulta %{pageNum}",
+            "hidden": "näytä teksti \"%{pageText}\" sivulta %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "siirrä teksti \"%{pageText}\" sivulta %{pageNum} alaspäin"}
+    },
+    "moveUpButton": {"ariaLabel": "siirrä sivu %{pageNum} ylöspäin"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "Ääni, joka toistetaan, kun \"%{readerDisplayName}\" lukee sivua %{pageNum}.",
+                "noDisplayName": "Ääni, joka toistetaan, kun tämä lukija lukee sivua %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "sivu %{pageNum} %{readerDisplayName} lukija"
+        },
+        "label": "Lukijat"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Tämä poistaa kaiken tälle sivulle tallennetun sivun äänen.",
+            "additionalMessage2": "TÄTÄ EI VOI PERUUTA!",
+            "title": "Poiston vahvistus",
+            "message": "Haluatko varmasti poistaa sivun %{pageNum}?"
+        },
+        "ariaLabel": "poista sivu %{pageNum}"
+    },
+    "description": "Sivulla %{pageNum} näytettävä kuva.",
+    "label": "Sivu %{pageNum}",
+    "moveDownButton": {"ariaLabel": "siirrä sivu %{pageNum} alas"}
+}

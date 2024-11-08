@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "हमें प्रतिक्रिया दे रहे हैं"},
+        "intro": {"displayName": "परिचय"},
+        "createBooks": {"displayName": "पुस्तकें बनाना"},
+        "parentalLocking": {"displayName": "माता-पिता का ताला"},
+        "sharingBooks": {"displayName": "पुस्तकें साझा करना"},
+        "bookPlayback": {"displayName": "किताबें बजाना"},
+        "bookStore": {"displayName": "दी बुकस्टोर"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "%{pageName} पृष्ठ देखें"},
+        "backPageButton": {"ariaLabel": "1 पृष्ठ पीछे जाएँ"},
+        "forwardPageButton": {"ariaLabel": "1 पेज आगे बढ़ें"}
+    },
+    "startLink": {
+        "label": "शुरू हो जाओ",
+        "ariaLabel": "होम पेज़ पर जाएं"
+    }
+}

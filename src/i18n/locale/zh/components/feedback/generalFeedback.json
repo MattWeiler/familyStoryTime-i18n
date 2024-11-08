@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "不支持电子邮件发送",
+        "submissionFailed": "反馈发送失败",
+        "submissionSuccess": "已发送反馈"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "请选择满意度。",
+        "description": "您分享我们的应用程序的可能性有多大？",
+        "label": "与他人分享",
+        "levels": {
+            "1": {
+                "displayName": "决不",
+                "ariaLabel": "决不"
+            },
+            "2": {
+                "displayName": "不太可能",
+                "ariaLabel": "不太可能"
+            },
+            "3": {
+                "displayName": "或许",
+                "ariaLabel": "或许"
+            },
+            "4": {
+                "displayName": "是的",
+                "ariaLabel": "是的"
+            },
+            "5": {
+                "displayName": "已经有",
+                "ariaLabel": "已经有"
+            }
+        },
+        "ariaLabel": "选择您与他人共享此移动应用程序的可能性"
+    },
+    "submitButton": {
+        "text": "提交反馈",
+        "ariaLabel": "提交您的反馈"
+    },
+    "satisfactionInput": {
+        "errorMessage": "请选择满意度。",
+        "description": "您有多喜欢/不喜欢我们的应用程序？",
+        "label": "应用满意度",
+        "levels": {
+            "1": {
+                "displayName": "讨厌它",
+                "ariaLabel": "讨厌它"
+            },
+            "2": {
+                "displayName": "失望",
+                "ariaLabel": "失望的"
+            },
+            "3": {
+                "displayName": "中性的",
+                "ariaLabel": "中性的"
+            },
+            "4": {
+                "displayName": "伟大的",
+                "ariaLabel": "伟大的"
+            },
+            "5": {
+                "displayName": "爱它",
+                "ariaLabel": "爱它"
+            }
+        },
+        "ariaLabel": "选择您对此移动应用程序的满意度"
+    },
+    "commentInput": {
+        "description": "（可选）提供您的任何其他意见。",
+        "label": "评论",
+        "ariaLabel": "可选地，附加评论"
+    },
+    "playingBooksInput": {
+        "errorMessage": "请选择满意度。",
+        "description": "你是怎么找到玩书的？",
+        "label": "玩书",
+        "levels": {
+            "1": {
+                "displayName": "没用",
+                "ariaLabel": "没用"
+            },
+            "2": {
+                "displayName": "不太好",
+                "ariaLabel": "不太好"
+            },
+            "3": {
+                "displayName": "没关系",
+                "ariaLabel": "没关系"
+            },
+            "4": {
+                "displayName": "这很容易",
+                "ariaLabel": "这很容易"
+            },
+            "5": {
+                "displayName": "爱它",
+                "ariaLabel": "爱它"
+            }
+        },
+        "ariaLabel": "选择您对图书播放的满意度"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "请选择满意度。",
+        "description": "您喜欢拥有多个读者吗？",
+        "label": "多个读者",
+        "levels": {
+            "1": {
+                "displayName": "没用",
+                "ariaLabel": "没用"
+            },
+            "2": {
+                "displayName": "不太好",
+                "ariaLabel": "不太好"
+            },
+            "3": {
+                "displayName": "没关系",
+                "ariaLabel": "没关系"
+            },
+            "4": {
+                "displayName": "这很容易",
+                "ariaLabel": "这很容易"
+            },
+            "5": {
+                "displayName": "爱它",
+                "ariaLabel": "爱它"
+            }
+        },
+        "ariaLabel": "选择您对每本书拥有多个读者的满意度"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "请选择满意度。",
+        "description": "你是如何发现创作书籍的？",
+        "label": "创作书籍",
+        "levels": {
+            "1": {
+                "displayName": "没用",
+                "ariaLabel": "没用"
+            },
+            "2": {
+                "displayName": "不太好",
+                "ariaLabel": "不太好"
+            },
+            "3": {
+                "displayName": "没关系",
+                "ariaLabel": "没关系"
+            },
+            "4": {
+                "displayName": "这很容易",
+                "ariaLabel": "这很容易"
+            },
+            "5": {
+                "displayName": "爱它",
+                "ariaLabel": "爱它"
+            }
+        },
+        "ariaLabel": "选择您对图书创作过程的满意度"
+    }
+}

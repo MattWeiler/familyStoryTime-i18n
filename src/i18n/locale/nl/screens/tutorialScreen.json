@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Geef ons feedback"},
+        "intro": {"displayName": "Invoering"},
+        "createBooks": {"displayName": "Boeken maken"},
+        "parentalLocking": {"displayName": "Ouderlijk toezicht"},
+        "sharingBooks": {"displayName": "Boeken delen"},
+        "bookPlayback": {"displayName": "Boeken spelen"},
+        "bookStore": {"displayName": "De Boekwinkel"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "bekijk de %{pageName} pagina"},
+        "backPageButton": {"ariaLabel": "ga 1 pagina terug"},
+        "forwardPageButton": {"ariaLabel": "ga 1 pagina vooruit"}
+    },
+    "startLink": {
+        "label": "Aan de slag",
+        "ariaLabel": "ga naar de startpagina"
+    }
+}

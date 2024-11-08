@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Navn",
+        "placeholder": "John Doe",
+        "ariaLabel": "eventuelt dit navn"
+    },
+    "emailInput": {
+        "description": "Giv besked, hvis du vil høre fra os.",
+        "label": "Email adresse",
+        "placeholder": "nogen@gmail.com",
+        "ariaLabel": "eventuelt din e-mailadresse"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "página %{pageNum} imagen"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Volver a escanear el texto de la página",
+                "message": "¿Está seguro de que desea escanear la imagen en busca de texto y reemplazar el texto de la página existente?"
+            },
+            "ariaLabel": "extraer texto de la imagen de la página %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "texto para agregar a la página %{pageNum}",
+                    "withPageText": "texto para actualizar en la página %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Establecer texto de página",
+                    "withPageText": "Actualizar texto de la página"
+                },
+                "message": {
+                    "noPageText": "¿Cuál es el texto de la página?",
+                    "withPageText": "¿A qué le gustaría cambiar el texto de la página?"
+                },
+                "inputPlaceholder": "texto para agregar"
+            },
+            "ariaLabel": "editar el texto \"%{pageText}\" de la página %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "mover el texto \"%{pageText}\" de la página %{pageNum} hacia arriba"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Confirmación de eliminación",
+                "message": "¿Está seguro de que desea eliminar el texto de esta página?"
+            },
+            "ariaLabel": "eliminar el texto \"%{pageText}\" de la página %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "texto para agregar a la página %{pageNum}",
+                "title": "Establecer texto de página",
+                "message": "¿Cuál es el texto de la página?",
+                "inputPlaceholder": "texto para agregar"
+            },
+            "ariaLabel": "agregar nuevo texto a la página %{pageNum}"
+        },
+        "label": "Texto",
+        "showHideButton": {"ariaLabel": {
+            "visible": "ocultar el texto \"%{pageText}\" de la página %{pageNum}",
+            "hidden": "muestra el texto \"%{pageText}\" de la página %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "mover el texto \"%{pageText}\" de la página %{pageNum} hacia abajo"}
+    },
+    "moveUpButton": {"ariaLabel": "mover la página %{pageNum} hacia arriba"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "El audio que se reproducirá cuando \"%{readerDisplayName}\" esté leyendo la página %{pageNum}.",
+                "noDisplayName": "El audio que se reproducirá cuando este lector esté leyendo la página %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "lector de página %{pageNum} %{readerDisplayName}"
+        },
+        "label": "Lectores"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Esto eliminará todo el audio de la página grabado para esta página.",
+            "additionalMessage2": "¡ESTO NO SE PUEDE DESHACER!",
+            "title": "Confirmación de eliminación",
+            "message": "¿Está seguro de que desea eliminar la página %{pageNum}?"
+        },
+        "ariaLabel": "eliminar página %{pageNum}"
+    },
+    "description": "La imagen que se mostrará en la página %{pageNum}.",
+    "label": "Página %{pageNum}",
+    "moveDownButton": {"ariaLabel": "mover la página %{pageNum} hacia abajo"}
+}

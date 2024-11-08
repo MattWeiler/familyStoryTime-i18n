@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "wysyłanie e-maili nie jest obsługiwane",
+        "submissionFailed": "wysłanie błędu nie powiodło się",
+        "submissionSuccess": "błąd wysłany"
+    },
+    "submitButton": {
+        "text": "Prześlij błąd",
+        "ariaLabel": "zgłoś błąd"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Dodaj książki, które mogą być przyczyną problemu.",
+            "label": "Książki do dołączenia"
+        },
+        "loadFailed": "ładowanie książek nie powiodło się",
+        "noBooksInstalled": "nie zainstalowano żadnych książek",
+        "picker": {
+            "header": "Wybierz książkę(i)",
+            "ariaLabel": "wybierz, które książki mają zostać dołączone do opinii o błędzie"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "wprowadź zmiany w książkach dołączonych do Twojej opinii o błędach"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Podaj kilka szczegółów na temat błędu.",
+        "description": "Podaj szczegółowe informacje o błędzie.",
+        "label": "Szczegóły błędu",
+        "ariaLabel": "opis błędu"
+    }
+}

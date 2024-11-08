@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Az 1. oldal olvasása előtt lejátszható opcionális hang.",
+        "label": {
+            "withDisplayName": "%{readerDisplayName} bevezető hangja",
+            "noDisplayName": "Bevezető hang"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} olvasói bevezető",
+            "noDisplayName": "olvasó azonosítóval %{readerId} intro"
+        }
+    },
+    "readerImage": {
+        "description": "Az olvasó számára megjelenítendő kép.",
+        "accessibleImageDisplayName": "%{readerDisplayName} olvasó képe"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Ezzel eltávolítja az olvasóhoz rögzített összes oldalhangot.",
+            "additionalMessage2": "EZ NEM VISSZAVONHATÓ!",
+            "title": "Törlés megerősítése",
+            "message": {
+                "withDisplayName": "Biztosan törli a \"%{readerDisplayName}\" olvasót?",
+                "noDisplayName": "Biztosan törli ezt az olvasót?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "távolítsa el a(z) %{readerDisplayName} olvasót",
+            "noDisplayName": "távolítsa el a %{readerId} azonosítójú olvasót"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "megjelenített név az olvasó számára",
+                "noDisplayName": "megjelenített név az olvasó számára"
+            },
+            "title": {
+                "withDisplayName": "Frissítse a megjelenített nevet",
+                "noDisplayName": "Megjelenítési név beállítása"
+            },
+            "message": {
+                "withDisplayName": "Mire szeretné megváltoztatni ezt az olvasói megjelenített nevet?",
+                "noDisplayName": "Mi ennek az olvasónak a megjelenített neve?"
+            },
+            "inputPlaceholder": "olvasó neve"
+        },
+        "ariaLabel": {
+            "withDisplayName": "módosítsa a %{readerDisplayName} olvasó megjelenített nevét",
+            "noDisplayName": "módosítsa a %{readerId} azonosítójú olvasó megjelenített nevét"
+        }
+    }
+}

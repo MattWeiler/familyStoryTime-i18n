@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "ไม่ ไม่ต้องถอนการติดตั้งหนังสือที่มีอยู่",
+            "yesButtonAriaLabel": "ใช่ ถอนการติดตั้งหนังสือที่มีอยู่",
+            "title": "ถอนการติดตั้งการยืนยัน",
+            "message": "คุณแน่ใจหรือไม่ว่าต้องการถอนการติดตั้งหนังสือที่มีอยู่นี้\n"
+        },
+        "ariaLabel": "ถอนการติดตั้งหนังสือที่มีอยู่ %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "ฟรี"},
+        "newerVersionAvailableMessage": "อัปเดตพร้อมใช้งาน"
+    },
+    "subtitle": "เรามาหาเรื่องดีๆให้อ่านกัน",
+    "loadingFailedMessage": "ไม่สามารถโหลดหนังสือที่มีอยู่\n",
+    "title": "ร้านหนังสือ",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "ไม่ ไม่ต้องติดตั้งหนังสือที่มีอยู่",
+            "yesButtonAriaLabel": "ใช่ ติดตั้งหนังสือที่มีอยู่",
+            "title": "ยืนยันการติดตั้ง",
+            "message": "คุณแน่ใจหรือไม่ว่าต้องการติดตั้งหนังสือที่มีอยู่นี้\nการทำเช่นนี้จะใช้ข้อมูล %{fileSize}"
+        },
+        "ariaLabel": "ติดตั้งหนังสือที่มีอยู่ %{bookName}"
+    }
+}

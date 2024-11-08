@@ -1,0 +1,43 @@
+{"hamburgerMenu": {
+    "applicationTitle": "Családi történetek ideje",
+    "links": {
+        "feedback": {
+            "text": "Visszacsatolás",
+            "ariaLabel": "lépjen a visszajelzés képernyőre"
+        },
+        "settings": {
+            "text": "Beállítások elemre",
+            "ariaLabel": "lépjen a beállítások képernyőre"
+        },
+        "bookSelector": {
+            "text": "Olvasósarok",
+            "ariaLabel": "lépjen az olvasósarok képernyőjére"
+        },
+        "bookBuilder": {
+            "text": "Könyvépítő",
+            "ariaLabel": "lépjen a könyvkészítő képernyőjére"
+        },
+        "about": {
+            "text": "Rólunk",
+            "ariaLabel": "lépjen a rólunk képernyőre"
+        },
+        "developerStatus": {
+            "hidden": {
+                "text": "Fejlesztői állapot megjelenítése",
+                "ariaLabel": "mutassa meg a fejlesztői állapotot"
+            },
+            "showing": {
+                "text": "Fejlesztői állapot elrejtése",
+                "ariaLabel": "a fejlesztői állapot elrejtése"
+            }
+        },
+        "tutorial": {
+            "text": "Oktatóanyag",
+            "ariaLabel": "tekintse meg az oktatóanyagot"
+        },
+        "bookStore": {
+            "text": "Könyvesbolt",
+            "ariaLabel": "lépjen a könyvesbolt képernyőjére"
+        }
+    }
+}}

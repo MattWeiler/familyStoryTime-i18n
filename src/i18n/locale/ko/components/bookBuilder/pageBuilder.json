@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "페이지 %{pageNum} 이미지"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "페이지 텍스트 다시 스캔",
+                "message": "이미지에서 텍스트를 검색하고 기존 페이지 텍스트를 바꾸시겠습니까?"
+            },
+            "ariaLabel": "%{pageNum} 페이지의 이미지에서 텍스트 추출"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "%{pageNum} 페이지에 추가할 텍스트",
+                    "withPageText": "%{pageNum} 페이지에서 업데이트할 텍스트"
+                },
+                "title": {
+                    "noPageText": "페이지 텍스트 설정",
+                    "withPageText": "페이지 텍스트 업데이트"
+                },
+                "message": {
+                    "noPageText": "페이지 텍스트가 무엇인가요?",
+                    "withPageText": "페이지 텍스트를 무엇으로 변경하시겠습니까?"
+                },
+                "inputPlaceholder": "추가할 텍스트"
+            },
+            "ariaLabel": "%{pageNum} 페이지에서 \"%{pageText}\" 텍스트를 편집하세요"
+        },
+        "moveUpButton": {"ariaLabel": "%{pageNum} 페이지에서 \"%{pageText}\" 텍스트를 위로 이동합니다."},
+        "removeButton": {
+            "confirmation": {
+                "title": "삭제 확인",
+                "message": "이 페이지 텍스트를 삭제하시겠습니까?"
+            },
+            "ariaLabel": "%{pageNum} 페이지에서 \"%{pageText}\" 텍스트를 제거하세요."
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "%{pageNum} 페이지에 추가할 텍스트",
+                "title": "페이지 텍스트 설정",
+                "message": "페이지 텍스트가 무엇인가요?",
+                "inputPlaceholder": "추가할 텍스트"
+            },
+            "ariaLabel": "%{pageNum} 페이지에 새 텍스트 추가"
+        },
+        "label": "텍스트",
+        "showHideButton": {"ariaLabel": {
+            "visible": "%{pageNum} 페이지에서 \"%{pageText}\" 텍스트 숨기기",
+            "hidden": "%{pageNum} 페이지의 \"%{pageText}\" 텍스트 표시"
+        }},
+        "moveDownButton": {"ariaLabel": "%{pageNum} 페이지에서 \"%{pageText}\" 텍스트를 아래로 이동합니다."}
+    },
+    "moveUpButton": {"ariaLabel": "페이지 %{pageNum} 위로 이동"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "\"%{readerDisplayName}\"이(가) %{pageNum} 페이지를 읽고 있을 때 재생할 오디오입니다.",
+                "noDisplayName": "이 독자가 %{pageNum} 페이지를 읽을 때 재생할 오디오입니다."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "페이지 %{pageNum} %{readerDisplayName} 리더"
+        },
+        "label": "독자"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "이 페이지에 대해 녹음된 모든 페이지 오디오가 제거됩니다.",
+            "additionalMessage2": "이 작업은 취소할 수 없습니다!",
+            "title": "삭제 확인",
+            "message": "%{pageNum} 페이지를 삭제하시겠습니까?"
+        },
+        "ariaLabel": "%{pageNum} 페이지 삭제"
+    },
+    "description": "%{pageNum} 페이지에 표시할 이미지입니다.",
+    "label": "페이지 %{pageNum}",
+    "moveDownButton": {"ariaLabel": "페이지 %{pageNum} 아래로 이동"}
+}

@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Tên",
+        "placeholder": "John Doe",
+        "ariaLabel": "tùy chọn, tên của bạn"
+    },
+    "emailInput": {
+        "description": "Hãy cung cấp nếu bạn muốn nhận phản hồi từ chúng tôi.",
+        "label": "Địa chỉ email",
+        "placeholder": "ai đó@gmail.com",
+        "ariaLabel": "tùy chọn, địa chỉ email của bạn"
+    }
+}

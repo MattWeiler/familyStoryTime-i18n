@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Dandoci feedback"},
+        "intro": {"displayName": "Introduzione"},
+        "createBooks": {"displayName": "Creazione di libri"},
+        "parentalLocking": {"displayName": "Blocco parentale"},
+        "sharingBooks": {"displayName": "Condivisione di libri"},
+        "bookPlayback": {"displayName": "Giocare a libri"},
+        "bookStore": {"displayName": "Il negozio di libri"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "visualizza la pagina %{pageName}"},
+        "backPageButton": {"ariaLabel": "tornare indietro di 1 pagina"},
+        "forwardPageButton": {"ariaLabel": "andare avanti di 1 pagina"}
+    },
+    "startLink": {
+        "label": "Inizia",
+        "ariaLabel": "vai alla home page"
+    }
+}

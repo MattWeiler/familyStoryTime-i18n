@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "播放音频",
+            "ariaLabel": "播放音频"
+        },
+        "playing": {
+            "title": "暂停音频",
+            "ariaLabel": "暂停音频"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "缩小以显示整个图像，两侧可能会有黑条",
+        "zoomedOut": "放大以确保整个屏幕充满图像，某些图像可能不可见"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "转到上一页",
+            "ariaLabel": "转到上一页"
+        },
+        "noPreviousPage": {
+            "title": "返回选书",
+            "ariaLabel": "返回选书"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "转到下一页",
+            "ariaLabel": "转到下一页"
+        },
+        "noNextPage": {
+            "title": "返回选书",
+            "ariaLabel": "返回选书"
+        }
+    }
+}

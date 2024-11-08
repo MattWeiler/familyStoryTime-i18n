@@ -1,0 +1,25 @@
+{
+    "add": "Ajouter",
+    "cancel": "Annuler",
+    "no": "Non",
+    "verifying": "vérifier...",
+    "set": "Ensemble",
+    "yes": "Oui",
+    "back": "Dos",
+    "loading": "chargement ...",
+    "required": "requis",
+    "acknowledgeError": "reconnaître l'erreur",
+    "saving": "économiser...",
+    "settingsButton": {
+        "text": "Paramètres",
+        "ariaLabel": "aller à la page des paramètres des applications"
+    },
+    "backButton": {
+        "label": "Dos",
+        "title": "revenir à la dernière page",
+        "ariaLabel": "revenir à la dernière page"
+    },
+    "sending": "envoi...",
+    "create": "Créer",
+    "ok": "D'accord"
+}

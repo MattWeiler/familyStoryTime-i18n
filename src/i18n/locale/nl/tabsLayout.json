@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Leeshoek",
+        "ariaLabel": "lees hier uw boeken"
+    },
+    "bookStore": {
+        "text": "Boekwinkel",
+        "ariaLabel": "bezoek de boekwinkel"
+    }
+}

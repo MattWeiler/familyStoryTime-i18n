@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "falha ao carregar livros"},
+        "import": {"failure": "falha na importação"},
+        "delete": {
+            "failure": "exclusão falhou",
+            "success": "livro excluído \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "falha ao excluir %{count} livros",
+                "one": "não foi possível excluir 1 livro"
+            },
+            "success": {
+                "other": "%{count} livros excluídos",
+                "one": "excluiu 1 livro"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "classificar por contagem de páginas em ordem decrescente",
+                "descending": "classificar por contagem de páginas em ordem crescente"
+            }},
+            "searchField": {
+                "placeholder": "pesquise seus livros",
+                "ariaLabel": "pesquise seus livros"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Exportar",
+                        "ariaLabel": "exportar os livros selecionados"
+                    },
+                    "delete": {
+                        "label": "Excluir",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "não, não exclua os livros selecionados"},
+                                "yes": {"ariaLabel": "sim, exclua os livros selecionados"}
+                            },
+                            "title": "Confirmar exclusão",
+                            "message": {
+                                "other": "Tem certeza de que deseja excluir os %{count} livros selecionados?",
+                                "one": "Tem certeza de que deseja excluir o livro selecionado?"
+                            }
+                        },
+                        "ariaLabel": "excluir os livros selecionados"
+                    }
+                },
+                "ariaLabel": "abra o menu de contexto dos livros selecionados"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "classificar por título do livro em ordem decrescente",
+                "descending": "classificar por título do livro em ordem crescente"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "classificar por contagem de leitores em ordem decrescente",
+                "descending": "classificar por contagem de leitores em ordem crescente"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "diminua o zoom para ver mais itens de uma vez",
+                "zoomedOut": "amplie para ver imagens maiores"
+            }}
+        },
+        "loadError": {
+            "text": "Falha ao carregar livros.",
+            "ariaLabel": "não foi possível carregar os livros"
+        },
+        "noBooksFound": {
+            "message": "Nenhum livro encontrado :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Experimente o nosso",
+                    "linkName": "construtor de livros"
+                },
+                "availableBooks": {
+                    "message": "Confira nosso",
+                    "linkName": "livraria"
+                }
+            }
+        }
+    },
+    "subtitle": "Vamos aproveitar a leitura de algumas histórias.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "criar um livro",
+                "ariaLabel": "criar um novo livro"
+            },
+            "importBooks": {
+                "label": "importar livros",
+                "ariaLabel": "importar um ou mais livros"
+            },
+            "bookStore": {
+                "label": "visite a livraria",
+                "ariaLabel": "visite nossa livraria"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "fechar adicionar um menu de livro",
+            "collapsed": "abrir adicionar um menu de livro"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "excluindo...\n",
+            "one": "excluindo...\n",
+            "none": "excluindo..."
+        }},
+        "export": {"label": {
+            "other": "exportando ...\n",
+            "one": "exportando ...\n",
+            "none": "exportando ..."
+        }}
+    }},
+    "title": "Canto de leitura",
+    "confirmations": {"deleteBook": {
+        "title": "Confirmação de exclusão",
+        "message": "Tem certeza de que deseja excluir o livro \"%{bookTitle}?\""
+    }}
+}

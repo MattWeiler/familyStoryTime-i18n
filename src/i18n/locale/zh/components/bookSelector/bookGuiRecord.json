@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "选择",
+                "ariaLabel": "选择图书 %{bookTitle}"
+            },
+            "edit": {
+                "title": "编辑",
+                "ariaLabel": "编辑图书 %{bookTitle}"
+            },
+            "delete": {
+                "title": "删除",
+                "ariaLabel": "删除图书 %{bookTitle}"
+            },
+            "export": {
+                "title": "出口",
+                "ariaLabel": "导出图书 %{bookTitle}"
+            }
+        },
+        "ariaLabel": "打开图书 %{bookTitle} 的上下文菜单"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} 页",
+            "one": "%{count} 页"
+        },
+        "ariaLabel": {
+            "other": "%{count} 页",
+            "one": "%{count} 页"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "选择 %{bookTitle} 本书",
+        "selected": "取消选择%{bookTitle}图书"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} 位读者",
+            "one": "%{count} 位读者"
+        },
+        "ariaLabel": {
+            "other": "%{bookTitle} 书有 %{count} 位读者",
+            "one": "%{bookTitle} 本书有 %{count} 位读者"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "阅读故事：%{bookTitle}",
+        "selectionMode": "%{bookTitle} 本书"
+    }
+}

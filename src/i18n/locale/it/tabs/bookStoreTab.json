@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "no, non disinstallare il libro Disponibile",
+            "yesButtonAriaLabel": "sì, disinstalla il libro disponibile",
+            "title": "Conferma disinstallazione",
+            "message": "Sei sicuro di voler disinstallare questo libro disponibile?\n"
+        },
+        "ariaLabel": "disinstalla il libro disponibile %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "gratuito"},
+        "newerVersionAvailableMessage": "Aggiornamento disponibile"
+    },
+    "subtitle": "Troviamo alcune belle storie da leggere.",
+    "loadingFailedMessage": "Impossibile caricare i libri disponibili.\n",
+    "title": "Negozio di libri",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "no, non installare il libro disponibile",
+            "yesButtonAriaLabel": "sì, installa il libro disponibile",
+            "title": "Conferma installazione",
+            "message": "Vuoi davvero installare questo libro disponibile?\nQuesta operazione utilizzerà %{fileSize} di dati."
+        },
+        "ariaLabel": "installa il libro disponibile %{bookName}"
+    }
+}

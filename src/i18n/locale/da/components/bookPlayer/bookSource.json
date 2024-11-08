@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "vis bogens kildeoplysninger"},
+        "hideSource": {"ariaLabel": "skjule bogens kildeoplysninger"}
+    },
+    "sourceUrl": {
+        "label": "se bogkilde",
+        "ariaLabel": "open book source URL"
+    },
+    "sourceIllustrator": {"label": "Illustrator:"},
+    "sourceAuthor": {"label": "Forfatter:"},
+    "sourcePublisher": {"label": "Forlægger:"},
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "åben ISBN-søgning efter bogens ISBN"
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "oldal %{pageNum} kép"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Oldalszöveg újraolvasása",
+                "message": "Biztos benne, hogy be akarja szkennelni a képet szövegért, és lecseréli a meglévő oldalszöveget?"
+            },
+            "ariaLabel": "szöveg kibontása a képből a %{pageNum} oldalhoz"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "szöveg a(z) %{pageNum} oldalhoz",
+                    "withPageText": "frissítendő szöveg a %{pageNum} oldalon"
+                },
+                "title": {
+                    "noPageText": "Oldalszöveg beállítása",
+                    "withPageText": "Frissítse az oldal szövegét"
+                },
+                "message": {
+                    "noPageText": "Mi az oldal szövege?",
+                    "withPageText": "Mire szeretné módosítani az oldal szövegét?"
+                },
+                "inputPlaceholder": "hozzáadandó szöveg"
+            },
+            "ariaLabel": "szerkessze a \"%{pageText}\" szöveget a %{pageNum} oldalról"
+        },
+        "moveUpButton": {"ariaLabel": "mozgassa a \"%{pageText}\" szöveget a %{pageNum} oldalról felfelé"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Törlés megerősítése",
+                "message": "Biztosan törli ezt az oldal szövegét?"
+            },
+            "ariaLabel": "távolítsa el a \"%{pageText}\" szöveget a %{pageNum} oldalról"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "szöveg a(z) %{pageNum} oldalhoz",
+                "title": "Oldalszöveg beállítása",
+                "message": "Mi az oldal szövege?",
+                "inputPlaceholder": "hozzáadandó szöveg"
+            },
+            "ariaLabel": "új szöveg hozzáadása a %{pageNum} oldalhoz"
+        },
+        "label": "Szöveg",
+        "showHideButton": {"ariaLabel": {
+            "visible": "a \"%{pageText}\" szöveg elrejtése a %{pageNum} oldalról",
+            "hidden": "mutasd a \"%{pageText}\" szöveget a %{pageNum} oldalról"
+        }},
+        "moveDownButton": {"ariaLabel": "mozgassa a \"%{pageText}\" szöveget a %{pageNum} oldalról lefelé"}
+    },
+    "moveUpButton": {"ariaLabel": "mozgassa felfelé a(z) %{pageNum} oldalt"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "A lejátszandó hang, amikor \"%{readerDisplayName}\" olvassa a %{pageNum} oldalt.",
+                "noDisplayName": "A lejátszandó hang, amikor az olvasó olvassa a %{pageNum} oldalt."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "%{pageNum} %{readerDisplayName} olvasó"
+        },
+        "label": "Olvasók"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Ezzel eltávolítja az oldalhoz rögzített összes hangot.",
+            "additionalMessage2": "EZ NEM VISSZAVONHATÓ!",
+            "title": "Törlés megerősítése",
+            "message": "Biztosan törli a %{pageNum} oldalt?"
+        },
+        "ariaLabel": "%{pageNum} oldal eltávolítása"
+    },
+    "description": "A(z) %{pageNum} oldalon megjelenítendő kép.",
+    "label": "%{pageNum}. oldal",
+    "moveDownButton": {"ariaLabel": "mozgassa lefelé a %{pageNum} oldalt"}
+}

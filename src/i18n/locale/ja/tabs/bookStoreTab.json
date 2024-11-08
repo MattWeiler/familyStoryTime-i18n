@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "いいえ、利用可能なブックをアンインストールしないでください",
+            "yesButtonAriaLabel": "はい、利用可能な書籍をアンインストールします",
+            "title": "アンインストールの確認",
+            "message": "この利用可能な書籍をアンインストールしてもよろしいですか?\n"
+        },
+        "ariaLabel": "利用可能な書籍 %{bookName} をアンインストールします"
+    },
+    "books": {
+        "badges": {"free": "無料"},
+        "newerVersionAvailableMessage": "利用可能なアップデート"
+    },
+    "subtitle": "読みやすい物語をいくつか見つけてみましょう。",
+    "loadingFailedMessage": "利用可能な書籍をロードできませんでした。\n",
+    "title": "本屋",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "いいえ、利用可能な本をインストールしないでください",
+            "yesButtonAriaLabel": "はい、利用可能な本をインストールします",
+            "title": "インストールの確認",
+            "message": "この利用可能な書籍をインストールしてもよろしいですか?\nインストールすると、%{fileSize} のデータが使用されます。"
+        },
+        "ariaLabel": "利用可能な書籍 %{bookName} をインストールします"
+    }
+}

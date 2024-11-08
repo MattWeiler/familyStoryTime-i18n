@@ -1,0 +1,17 @@
+{
+    "summary": "W naszej księgarni znajdziesz książki należące do domeny publicznej.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Możesz wybrać, którą z dostępnych książek chcesz pobrać.",
+            "2": "Spowoduje to zainstalowanie książek na Twoim urządzeniu i umożliwienie odtwarzania ich, a nawet dodawania własnych czytelników."
+        },
+        "title": "Instalowanie książek"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "W naszej księgarni możesz także sprawdzić, które książki już zainstalowałeś.",
+            "2": "W tym miejscu możesz usunąć wcześniej zainstalowane książki lub sprawdzić dostępność aktualizacji."
+        },
+        "title": "Zarządzanie książkami"
+    }
+}

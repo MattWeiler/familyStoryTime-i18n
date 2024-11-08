@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Valfrjálst hljóð til að spila áður en þú lest fyrstu síðu.",
+        "label": {
+            "withDisplayName": "Kynningarhljóð frá %{readerDisplayName}",
+            "noDisplayName": "Intro hljóð"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} lesandakynning",
+            "noDisplayName": "lesandi með auðkenni %{readerId} kynningu"
+        }
+    },
+    "readerImage": {
+        "description": "Myndin sem á að sýna fyrir þennan lesanda.",
+        "accessibleImageDisplayName": "mynd af lesandanum %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Þetta mun fjarlægja allt hljóð sem tekið er upp fyrir þennan lesanda.",
+            "additionalMessage2": "ÞETTA ER EKKI ENDURLAGT!",
+            "title": "Staðfesting á eyðingu",
+            "message": {
+                "withDisplayName": "Ertu viss um að þú viljir eyða \u201e%{readerDisplayName}\u201c lesandanum?",
+                "noDisplayName": "Ertu viss um að þú viljir eyða þessum lesanda?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "fjarlægðu lesandann %{readerDisplayName}",
+            "noDisplayName": "fjarlægðu lesandann með auðkenninu %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "skjánafn fyrir lesandann",
+                "noDisplayName": "skjánafn fyrir lesandann"
+            },
+            "title": {
+                "withDisplayName": "Uppfærðu skjánafn",
+                "noDisplayName": "Stilltu skjánafn"
+            },
+            "message": {
+                "withDisplayName": "Í hvað viltu breyta skjánafni þessa lesenda?",
+                "noDisplayName": "Hvað er skjáheitið fyrir þennan lesanda?"
+            },
+            "inputPlaceholder": "nafn lesanda"
+        },
+        "ariaLabel": {
+            "withDisplayName": "breyttu skjáheitinu fyrir lesandann %{readerDisplayName}",
+            "noDisplayName": "breyttu skjáheitinu fyrir lesandann með auðkenninu %{readerId}"
+        }
+    }
+}

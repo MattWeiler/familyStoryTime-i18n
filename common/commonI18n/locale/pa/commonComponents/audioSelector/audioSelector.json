@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "ਆਪਣੀ ਖੁਦ ਦੀ %{audioDisplayName} ਆਡੀਓ ਰਿਕਾਰਡ ਕਰੋ"},
+    "toasts": {
+        "audioFileLoading": {"failure": "ਆਡੀਓ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ"},
+        "editInitFailed": "ਆਡੀਓ ਸੰਪਾਦਿਤ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
+        "recordingFailed": "ਆਡੀਓ ਰਿਕਾਰਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "ਪੁਸ਼ਟੀਕਰਨ ਸਾਫ਼ ਕਰੋ",
+            "message": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਚੁਣੇ ਹੋਏ ਆਡੀਓ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
+        },
+        "ariaLabel": "ਚੁਣੇ ਗਏ %{audioDisplayName} ਆਡੀਓ ਨੂੰ ਕਲੀਅਰ ਕਰੋ"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "ਇੱਕ ਪ੍ਰੀ-ਸੈੱਟ %{audioDisplayName} ਆਡੀਓ ਚੁਣੋ"},
+    "selectAudioFileButton": {"ariaLabel": "ਆਪਣੀ ਖੁਦ ਦੀ %{audioDisplayName} ਆਡੀਓ ਫਾਈਲ ਚੁਣੋ"},
+    "playButton": {
+        "stopped": {"ariaLabel": "%{audioDisplayName} ਆਡੀਓ ਚਲਾਓ"},
+        "recording": {"ariaLabel": "%{audioDisplayName} ਰਿਕਾਰਡਿੰਗ ਨੂੰ ਰੋਕੋ"},
+        "playing": {"ariaLabel": "%{audioDisplayName} ਆਡੀਓ ਚਲਾਉਣਾ ਬੰਦ ਕਰੋ"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "ਵਰਤਮਾਨ ਵਿੱਚ ਲੋਡ ਕੀਤੇ %{audioDisplayName} ਆਡੀਓ ਨੂੰ ਸੋਧੋ",
+        "cancelConfirmation": {
+            "title": "ਸੰਪਾਦਨ ਰੱਦ ਕਰੋ",
+            "message": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਤੁਹਾਡੇ ਦੁਆਰਾ ਕੀਤੇ ਗਏ ਕਿਸੇ ਵੀ ਸੰਪਾਦਨ ਨੂੰ ਰੱਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?",
+            "buttonAriaLabels": {
+                "no": "ਨਹੀਂ, ਰਹੋ ਅਤੇ ਸੰਪਾਦਨ ਜਾਰੀ ਰੱਖੋ",
+                "yes": "ਹਾਂ, ਸੰਪਾਦਨਾਂ ਨੂੰ ਰੱਦ ਕਰੋ"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "ਅੱਪਲੋਡ ਕੀਤੀ ਫ਼ਾਈਲ: %{filename}",
+        "recording": "ਰਿਕਾਰਡਿੰਗ",
+        "preset": "ਪ੍ਰੀਸੈਟ: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "ਆਗਿਆ ਤੋਂ ਇਨਕਾਰ",
+        "message": "ਤੁਸੀਂ ਆਪਣੇ ਮਾਈਕ੍ਰੋਫ਼ੋਨ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਤੋਂ ਇਨਕਾਰ ਕਰ ਦਿੱਤਾ ਹੈ।"
+    }}
+}

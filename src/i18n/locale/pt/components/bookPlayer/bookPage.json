@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "reproduzir áudio",
+            "ariaLabel": "reproduzir áudio"
+        },
+        "playing": {
+            "title": "pausar áudio",
+            "ariaLabel": "pausar áudio"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "diminua o zoom para mostrar a imagem inteira, pode haver barras pretas nas laterais",
+        "zoomedOut": "amplie para garantir que toda a tela seja preenchida com a imagem, parte da imagem pode não estar visível"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "ir para a página anterior",
+            "ariaLabel": "ir para a página anterior"
+        },
+        "noPreviousPage": {
+            "title": "voltar para a seleção do livro",
+            "ariaLabel": "voltar para a seleção do livro"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "ir para a próxima página",
+            "ariaLabel": "ir para a próxima página"
+        },
+        "noNextPage": {
+            "title": "voltar para a seleção do livro",
+            "ariaLabel": "voltar para a seleção do livro"
+        }
+    }
+}

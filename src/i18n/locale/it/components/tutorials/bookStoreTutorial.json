@@ -1,0 +1,17 @@
+{
+    "summary": "Puoi trovare libri di pubblico dominio nella nostra libreria.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Puoi scegliere quale dei libri disponibili desideri scaricare.",
+            "2": "In questo modo installerai i libri sul tuo dispositivo, permettendoti di riprodurli e persino di aggiungere i tuoi lettori."
+        },
+        "title": "Installazione di libri"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Puoi anche visualizzare quali libri hai già installato dal nostro negozio di libri.",
+            "2": "Da qui puoi eliminare i libri installati in precedenza o verificare la disponibilità di aggiornamenti."
+        },
+        "title": "Gestire i libri"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "nem, ne távolítsa el az Elérhető könyvet",
+            "yesButtonAriaLabel": "igen, távolítsa el az elérhető könyvet",
+            "title": "Eltávolítás megerősítése",
+            "message": "Biztos benne, hogy el kívánja távolítani ezt az elérhető könyvet?\n"
+        },
+        "ariaLabel": "távolítsa el az elérhető könyvet %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "ingyenes"},
+        "newerVersionAvailableMessage": "Frissítés elérhető"
+    },
+    "subtitle": "Keressünk néhány jó olvasnivaló történetet.",
+    "loadingFailedMessage": "Nem sikerült betölteni az elérhető könyveket.\n",
+    "title": "Könyvesbolt",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "nem, ne telepítse a rendelkezésre álló könyvet",
+            "yesButtonAriaLabel": "igen, telepítse a rendelkezésre álló könyvet",
+            "title": "Telepítés megerősítése",
+            "message": "Biztos benne, hogy telepíteni kívánja ezt a rendelkezésre álló könyvet?\nHa ezt megteszi, akkor az adatmennyiség %{fileSize} lesz."
+        },
+        "ariaLabel": "telepítse az elérhető könyvet %{bookName}"
+    }
+}

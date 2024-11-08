@@ -1,0 +1,17 @@
+{
+    "summary": "Du kan finde public domain bøger i vores boghandel.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Du kan vælge, hvilken af \u200b\u200bde tilgængelige bøger, du vil downloade.",
+            "2": "Hvis du gør det, installeres bogen/bøgerne på din enhed, så du kan afspille dem og endda tilføje dine egne læsere."
+        },
+        "title": "Installation af bøger"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Du kan også se, hvilke bøger du allerede har installeret fra vores boghandel.",
+            "2": "Herfra kan du slette tidligere installerede bøger eller se efter tilgængelige opdateringer."
+        },
+        "title": "Håndtering af bøger"
+    }
+}

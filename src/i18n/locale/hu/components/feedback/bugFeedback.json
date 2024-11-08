@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "e-mailezés nem támogatott",
+        "submissionFailed": "hibaküldés sikertelen",
+        "submissionSuccess": "hiba küldve"
+    },
+    "submitButton": {
+        "text": "Bug elküldése",
+        "ariaLabel": "küldje be a hibát"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Adja hozzá a problémát okozó könyv(eke)t.",
+            "label": "Csatolandó könyvek"
+        },
+        "loadFailed": "könyvek betöltése nem sikerült",
+        "noBooksInstalled": "nincsenek telepítve könyvek",
+        "picker": {
+            "header": "Könyv(ek) kiválasztása",
+            "ariaLabel": "válassza ki, mely könyveket csatolja a hibajelzéshez"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "módosítsa a hibajelentéshez csatolt könyveket"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Kérjük, adjon meg néhány részletet a hibáról.",
+        "description": "Adjon meg részleteket a hibáról.",
+        "label": "Hiba részletei",
+        "ariaLabel": "a hiba leírása"
+    }
+}

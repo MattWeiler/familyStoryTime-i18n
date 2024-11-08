@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "पहला पेज पढ़ने से पहले चलाने के लिए वैकल्पिक ऑडियो।",
+        "label": {
+            "withDisplayName": "%{readerDisplayName} का परिचय ऑडियो",
+            "noDisplayName": "परिचय ऑडियो"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} पाठक परिचय",
+            "noDisplayName": "आईडी %{readerId} परिचय के साथ रीडर"
+        }
+    },
+    "readerImage": {
+        "description": "इस पाठक के लिए प्रदर्शित की जाने वाली छवि.",
+        "accessibleImageDisplayName": "पाठक की छवि %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "यह इस रीडर के लिए रिकॉर्ड किए गए सभी पेज ऑडियो को हटा देगा।",
+            "additionalMessage2": "इसे असंपादित नहीं किया जा सकता है!",
+            "title": "हटाने की पुष्टि",
+            "message": {
+                "withDisplayName": "क्या आप वाकई \"%{readerDisplayName}\" रीडर को हटाना चाहते हैं?",
+                "noDisplayName": "क्या आप वाकई इस रीडर को हटाना चाहते हैं?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "रीडर %{readerDisplayName} को हटा दें",
+            "noDisplayName": "आईडी %{readerId} वाले रीडर को हटा दें"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "पाठक के लिए प्रदर्शन नाम",
+                "noDisplayName": "पाठक के लिए प्रदर्शन नाम"
+            },
+            "title": {
+                "withDisplayName": "प्रदर्शन नाम अपडेट करें",
+                "noDisplayName": "प्रदर्शन नाम सेट करें"
+            },
+            "message": {
+                "withDisplayName": "आप इस पाठक प्रदर्शन नाम को किसमें बदलना चाहेंगे?",
+                "noDisplayName": "इस रीडर का प्रदर्शन नाम क्या है?"
+            },
+            "inputPlaceholder": "पाठक का नाम"
+        },
+        "ariaLabel": {
+            "withDisplayName": "रीडर %{readerDisplayName} के लिए प्रदर्शन नाम बदलें",
+            "noDisplayName": "आईडी %{readerId} वाले रीडर का प्रदर्शन नाम बदलें"
+        }
+    }
+}

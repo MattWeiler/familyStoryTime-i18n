@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "import is al actief, probeer het later opnieuw",
+        "download": {"failed": "Kan \"%{bookName}\" niet downloaden."},
+        "install": {
+            "failed": "Kan \"%{bookName}\" niet importeren",
+            "successful": "succesvol geïmporteerd \"%{bookName}\""
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Annuleren",
+            "ariaLabel": "annuleer de import"
+        },
+        "install": {
+            "textLabel": "Installeren",
+            "ariaLabel": "installeer geselecteerde boeken: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "analyseren...",
+        "downloading": "downloaden...",
+        "installing": "installeren...",
+        "cancelling": "annuleren..."
+    },
+    "nothingToInstall": "Niets om te importeren :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Deze reader maakt al deel uit van het geïnstalleerde boek.\n\n"},
+            "checkbox": {"ariaLabel": "om lezer %{readerDisplayName} op te nemen in de import"}
+        },
+        "checkbox": {"ariaLabel": "om %{bookName} boek op te nemen in de import"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Dit boek staat al op uw apparaat.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Als u ervoor kiest om te overschrijven, wordt het huidige boek vervangen door het nieuwe.\n\n"},
+                    "noReaders": {"label": "Dit boek staat al op uw apparaat.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Dit bestand bevat alleen audio en het boek is niet op uw apparaat geïnstalleerd.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Dit boek staat niet op uw apparaat.\n\n"},
+                    "noReaders": {"label": "Dit boek staat niet op uw apparaat.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "samenvoegen",
+                    "ariaLabel": "voeg het boek %{bookName} samen door nieuwe lezers toe te voegen en bestaande lezers te overschrijven met nieuwe lezers"
+                },
+                "overwrite": {
+                    "label": "overschrijven",
+                    "ariaLabel": "overschrijf bestaand boek %{bookName}"
+                }
+            },
+            "ariaLabel": "selecteer welke importstrategie u wilt gebruiken voor boek %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "annuleer de import niet"},
+            "yes": {"ariaLabel": "annuleer de import"}
+        },
+        "title": "Bevestig Import annuleren",
+        "message": "Weet u zeker dat u het importeren wilt annuleren?"
+    }},
+    "titles": {
+        "booksToInstall": "Boeken om te installeren",
+        "failedToInstall": "Kan boeken niet installeren"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "mission": "Szeretnénk megőrizni kedvenc történeteit, amelyeket szerettei olvasnak.",
+    "subtitle": "Egy szórakoztató alkalmazás, amely segít a gyerekeknek olvasni.",
+    "paragraphs": {"1": "A gyerekek meghallgathatják szeretteik által felolvasott kedvenc történeteiket, még akkor is, ha a szeretteik távol vannak, vagy elhunytak."},
+    "accessTutorial": {
+        "messages": {"1": "Ezt az oktatóanyagot bármikor elérheti az alkalmazás bal felső sarkában található hamburger menüből."},
+        "title": "Access Tutorial"
+    }
+}

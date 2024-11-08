@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "envío de correo electrónico no compatible",
+        "submissionFailed": "Error al enviar error",
+        "submissionSuccess": "error enviado"
+    },
+    "submitButton": {
+        "text": "Enviar error",
+        "ariaLabel": "enviar el error"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Agregue los libros que pueden estar causando el problema.",
+            "label": "Libros para adjuntar"
+        },
+        "loadFailed": "Error al cargar libros",
+        "noBooksInstalled": "no hay libros instalados",
+        "picker": {
+            "header": "Seleccionar libro(s)",
+            "ariaLabel": "seleccione qué libros deben adjuntarse a los comentarios sobre errores"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "realizar cambios en los libros adjuntos a sus comentarios sobre errores"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Proporcione algunos detalles sobre el error.",
+        "description": "Proporcione detalles sobre el error.",
+        "label": "Detalles del error",
+        "ariaLabel": "descripción del error"
+    }
+}

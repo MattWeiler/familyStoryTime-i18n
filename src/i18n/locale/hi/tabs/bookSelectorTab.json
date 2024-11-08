@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "पुस्तकें लोड करना विफल रहा"},
+        "import": {"failure": "आयात विफल"},
+        "delete": {
+            "failure": "हटाना विफल",
+            "success": "हटाई गई पुस्तक \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "हटाने में विफल %{count} ",
+                "one": "1 पुस्तक हटाने में विफल"
+            },
+            "success": {
+                "other": "हटा दिया गया %{count} ",
+                "one": "1 किताब हटा दी गई"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "पृष्ठ संख्या के अनुसार अवरोही क्रम में क्रमबद्ध करें",
+                "descending": "पृष्ठ संख्या के अनुसार आरोही क्रम में क्रमबद्ध करें"
+            }},
+            "searchField": {
+                "placeholder": "अपनी किताबें खोजें",
+                "ariaLabel": "अपनी किताबें खोजें"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "निर्यात",
+                        "ariaLabel": "चयनित पुस्तकें निर्यात करें"
+                    },
+                    "delete": {
+                        "label": "मिटाना",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "नहीं, चयनित पुस्तकें न हटाएँ"},
+                                "yes": {"ariaLabel": "हाँ, चयनित पुस्तकें हटा दें"}
+                            },
+                            "title": "हटाने की पुष्टि करें",
+                            "message": {
+                                "other": "क्या आप निश्चित हैं कि आप %{count} को हटाना चाहते हैं ",
+                                "one": "क्या आप वाकई चयनित पुस्तक को हटाना चाहते हैं?"
+                            }
+                        },
+                        "ariaLabel": "चयनित पुस्तकें हटाएँ"
+                    }
+                },
+                "ariaLabel": "चयनित पुस्तकों के लिए संदर्भ मेनू खोलें"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "पुस्तक के शीर्षक के अनुसार अवरोही क्रम में क्रमबद्ध करें",
+                "descending": "पुस्तक के शीर्षक के अनुसार आरोही क्रम में क्रमबद्ध करें"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "पाठकों की संख्या के अनुसार अवरोही क्रम में क्रमबद्ध करें",
+                "descending": "पाठकों की संख्या के अनुसार आरोही क्रम में क्रमबद्ध करें"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "एक साथ अधिक आइटम देखने के लिए ज़ूम आउट करें",
+                "zoomedOut": "बड़ी छवियाँ देखने के लिए ज़ूम इन करें"
+            }}
+        },
+        "loadError": {
+            "text": "पुस्तकें लोड करने में विफल.",
+            "ariaLabel": "पुस्तकें लोड करने में विफल"
+        },
+        "noBooksFound": {
+            "message": "कोई किताब नहीं मिली :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "हमारा प्रयास करें",
+                    "linkName": "पुस्तक निर्माता"
+                },
+                "availableBooks": {
+                    "message": "हमारा चेकआउट करें",
+                    "linkName": "किताब की दुकान"
+                }
+            }
+        }
+    },
+    "subtitle": "आइए कुछ कहानियाँ पढ़ने का आनंद लें।",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "एक किताब बनाओ",
+                "ariaLabel": "एक नई किताब बनाएं"
+            },
+            "importBooks": {
+                "label": "पुस्तकें आयात करें",
+                "ariaLabel": "एक या अधिक पुस्तकें आयात करें"
+            },
+            "bookStore": {
+                "label": "किताब की दुकान पर जाएँ",
+                "ariaLabel": "हमारे पुस्तक भंडार पर जाएँ"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "पुस्तक मेनू जोड़ें बंद करें",
+            "collapsed": "पुस्तक जोड़ें मेनू खोलें"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "मिटाया जा रहा है...\n",
+            "one": "मिटाया जा रहा है...\n",
+            "none": "मिटाया जा रहा है..."
+        }},
+        "export": {"label": {
+            "other": "निर्यात ...\n",
+            "one": "निर्यात ...\n",
+            "none": "निर्यात ..."
+        }}
+    }},
+    "title": "पढ़ने का कोना",
+    "confirmations": {"deleteBook": {
+        "title": "हटाने की पुष्टि",
+        "message": "क्या आप वाकई \"%{bookTitle}?\" पुस्तक को हटाना चाहते हैं?"
+    }}
+}

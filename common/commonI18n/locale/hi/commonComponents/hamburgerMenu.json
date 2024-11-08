@@ -1,0 +1,8 @@
+{
+    "applicationSecurityButton": {"ariaLabel": {
+        "unlockParentMode": "माता-पिता के उपयोग के लिए एप्लिकेशन अनलॉक करें",
+        "initParentMode": "पेरेंटल लॉकिंग सक्षम करें",
+        "lockParentMode": "पैरेंट लॉक सक्षम करें"
+    }},
+    "hamburgerButton": {"ariaLabel": "हैमबर्गर मेनू दिखाएँ"}
+}

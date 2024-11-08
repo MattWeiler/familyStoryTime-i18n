@@ -1,0 +1,34 @@
+{
+    "summary": "Mielőtt átadná eszközét gyermekének, lezárhatja az alkalmazást, így megakadályozhatja, hogy a gyerekek könyveket töröljenek vagy más módosításokat hajtsanak végre.",
+    "enabling": {
+        "messages": {
+            "1": "A szülői zár funkció engedélyezéséhez nyissa meg a hamburger menüt, és nyomja meg a jobb felső sarokban található zár megnyitása ikont.",
+            "2": "Ekkor meg kell adnia biometrikus megerősítését, amely inicializálja a szülői zár funkciót.",
+            "3": "Most, hogy a szülői zárolás funkció engedélyezve van, a nyitott lakat ikon megnyomásával az alkalmazás zárolható.",
+            "4": "Ha a szülői zár funkció engedélyezve van, az alkalmazás minden indításakor zárolt módban lesz."
+        },
+        "title": "Szülői zár engedélyezése"
+    },
+    "disabling": {
+        "messages": {
+            "1": "A szülői zárolás funkció letiltásához nyissa meg a hamburger menüt, és nyomja meg a beállítások elemet alul.",
+            "2": "A beállítások oldalon törölje a \u201eSzülői zár\u201d funkció kijelölését."
+        },
+        "title": "Szülői zár letiltása"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Amikor az alkalmazás le van zárva, az alkalmazás számos funkciója nem jelenik meg, például a helyi menük vagy a könyvek hozzáadását/eltávolítását lehetővé tevő gombok.",
+            "2": "Ez az alkalmazást írásvédett módba helyezi, amely biztonságos a gyerekek számára.",
+            "3": "A rejtett funkciók eléréséhez fel kell oldania az alkalmazás zárolását."
+        },
+        "title": "Zárolt funkciók"
+    },
+    "locked": {
+        "messages": {
+            "1": "Az alkalmazás zárolásának feloldásához nyissa meg a hamburger menüt, és nyomja meg a zárt lakat ikont a jobb felső sarokban.",
+            "2": "Ekkor meg kell adnia biometrikus megerősítését, amely feloldja az alkalmazás zárolását."
+        },
+        "title": "Oldja fel az alkalmazást"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "feedback": {
+        "subtitle": "改善方法を教えてください",
+        "title": "フィードバックを残す"
+    },
+    "settings": {
+        "subtitle": "設定を変更する",
+        "title": "設定"
+    },
+    "bookBuilder": {
+        "subtitle": "新しい本を作成する",
+        "title": "本を作成する"
+    }
+}

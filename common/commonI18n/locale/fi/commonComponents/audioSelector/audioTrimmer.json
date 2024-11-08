@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "toista leikattu ääni kuullaksesi näytteen"},
+    "playbackPositionLabel": "Toistopaikka",
+    "discardButton": {
+        "label": "Hävitä",
+        "title": "hylkää leikattu ääni",
+        "ariaLabel": "hylkää leikattu ääni"
+    },
+    "saveButton": {
+        "label": "Tallentaa",
+        "title": "käytä leikattua ääntä",
+        "ariaLabel": "käytä leikattua ääntä"
+    }
+}

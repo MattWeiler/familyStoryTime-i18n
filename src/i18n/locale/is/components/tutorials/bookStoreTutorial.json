@@ -1,0 +1,17 @@
+{
+    "summary": "Þú getur fundið bækur í almenningseign í bókabúðinni okkar.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Þú getur valið hvaða af tiltækum bókum þú vilt hlaða niður.",
+            "2": "Með því að gera það verður bókin/bækurnar settar upp á tækið þitt, sem gerir þér kleift að spila þær og jafnvel bæta við þínum eigin lesendum."
+        },
+        "title": "Að setja upp bækur"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Þú getur líka skoðað hvaða bækur þú hefur þegar sett upp í bókabúðinni okkar.",
+            "2": "Héðan geturðu eytt áður uppsettum bókum eða leitað að tiltækum uppfærslum."
+        },
+        "title": "Umsjón með bókum"
+    }
+}

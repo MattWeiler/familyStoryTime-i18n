@@ -1,0 +1,34 @@
+{
+    "summary": "Áður en þú afhendir barninu þínu tækið geturðu læst forritinu til að koma í veg fyrir að börn eyði bókum eða geri aðrar breytingar.",
+    "enabling": {
+        "messages": {
+            "1": "Til að virkja barnalæsingaraðgerðina skaltu opna hamborgaravalmyndina og ýta á opna læsingartáknið efst til hægri.",
+            "2": "Þetta mun hvetja þig til að gefa upp líffræðileg tölfræði staðfestingu sem mun frumstilla foreldralæsingareiginleikann.",
+            "3": "Nú þegar foreldralæsingareiginleikinn hefur verið virkjaður, mun það læsa forritinu með því að ýta á opna læsingartáknið.",
+            "4": "Þegar foreldralæsingareiginleikinn er virkur, í hvert skipti sem forritið er ræst, verður það í læstri stillingu."
+        },
+        "title": "Virkjaðu foreldralás"
+    },
+    "disabling": {
+        "messages": {
+            "1": "Til að slökkva á barnalæsingunni skaltu opna hamborgaravalmyndina og ýta á stillingaratriðið neðst.",
+            "2": "Á stillingasíðunni skaltu afvelja eiginleikann \u201eForeldralæsing\u201c."
+        },
+        "title": "Slökktu á foreldralás"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Þegar forritið er læst verða nokkrir eiginleikar forritsins ekki sýndir eins og samhengisvalmyndir eða hnappar sem gera þér kleift að bæta við/fjarlægja bækur.",
+            "2": "Þetta setur forritið í skrifvarinn ham sem er öruggt fyrir börn að nota.",
+            "3": "Til þess að fá aðgang að þessum földum eiginleikum þarftu að opna forritið."
+        },
+        "title": "Læstir eiginleikar"
+    },
+    "locked": {
+        "messages": {
+            "1": "Til að opna forritið, opnaðu hamborgaravalmyndina og ýttu á lokaðan lástáknið efst til hægri.",
+            "2": "Þetta mun hvetja þig til að gefa upp líffræðileg tölfræði staðfestingu sem mun opna forritið."
+        },
+        "title": "Opnaðu forrit"
+    }
+}

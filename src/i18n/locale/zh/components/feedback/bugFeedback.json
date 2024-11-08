@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "不支持电子邮件发送",
+        "submissionFailed": "错误发送失败",
+        "submissionSuccess": "已发送错误"
+    },
+    "submitButton": {
+        "text": "提交错误",
+        "ariaLabel": "提交错误"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "添加可能导致问题的书籍。",
+            "label": "要附加的书籍"
+        },
+        "loadFailed": "加载书籍失败",
+        "noBooksInstalled": "没有安装书籍",
+        "picker": {
+            "header": "选择书籍",
+            "ariaLabel": "选择错误反馈中应附加哪些书籍"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "对错误反馈所附的书籍进行更改"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "请提供有关该错误的一些详细信息。",
+        "description": "提供有关该错误的详细信息。",
+        "label": "错误详情",
+        "ariaLabel": "错误描述"
+    }
+}

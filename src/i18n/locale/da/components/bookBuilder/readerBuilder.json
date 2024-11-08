@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Den valgfrie lyd, der skal afspilles før læsning af 1. side.",
+        "label": {
+            "withDisplayName": "%{readerDisplayName}s introlyd",
+            "noDisplayName": "Intro lyd"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} læserintro",
+            "noDisplayName": "læser med ID %{readerId} intro"
+        }
+    },
+    "readerImage": {
+        "description": "Billedet, der skal vises for denne læser.",
+        "accessibleImageDisplayName": "billede af læseren %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Dette vil fjerne al sidelyd, der er optaget for denne læser.",
+            "additionalMessage2": "DETTE KAN IKKE FORTRYDS!",
+            "title": "Bekræftelse af sletning",
+            "message": {
+                "withDisplayName": "Er du sikker på, at du vil slette \"%{readerDisplayName}\"-læseren?",
+                "noDisplayName": "Er du sikker på, at du vil slette denne læser?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "fjern læseren %{readerDisplayName}",
+            "noDisplayName": "fjern læseren med ID %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "visningsnavn for læseren",
+                "noDisplayName": "visningsnavn for læseren"
+            },
+            "title": {
+                "withDisplayName": "Opdater visningsnavn",
+                "noDisplayName": "Indstil visningsnavn"
+            },
+            "message": {
+                "withDisplayName": "Hvad vil du gerne ændre dette læserens visningsnavn til?",
+                "noDisplayName": "Hvad er visningsnavnet for denne læser?"
+            },
+            "inputPlaceholder": "læsers navn"
+        },
+        "ariaLabel": {
+            "withDisplayName": "ændre visningsnavnet for læseren %{readerDisplayName}",
+            "noDisplayName": "ændre visningsnavnet for læseren med ID %{readerId}"
+        }
+    }
+}

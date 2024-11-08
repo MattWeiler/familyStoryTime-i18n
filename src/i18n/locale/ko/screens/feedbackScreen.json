@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "앱 피드백",
+            "ariaLabel": "우리의 지원서에 대한 피드백을 제공해주세요"
+        },
+        "description": "우리는 당신의 의견을 듣고 싶습니다."
+    },
+    "title": "피드백을 남겨주세요",
+    "bugFeedback": {
+        "tab": {
+            "title": "버그 신고",
+            "ariaLabel": "우리 애플리케이션에서 발견한 버그를 신고하세요"
+        },
+        "description": "버그를 발견하셨다니 안타깝지만, 최선을 다해 고치도록 하겠습니다 :)"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "startButton": {
+        "title": "byrja á bókinni",
+        "ariaLabel": "byrja á bókinni"
+    },
+    "selectedReaderImage": {"ariaLabel": "veldu röddina til að lesa bókina"},
+    "skipIntroButton": {
+        "title": "slepptu innganginum",
+        "ariaLabel": "slepptu innganginum"
+    },
+    "readMode": {
+        "items": {
+            "autoRead": {"ariaLabel": "hver síða verður lesin fyrir notandann í þeirri rödd sem hann kýs"},
+            "pageRead": {"ariaLabel": "hver síða verður lesin fyrir notandann í þeirri rödd sem hann velur, en notandinn ber ábyrgð á að breyta síðunni"},
+            "selfRead": {"ariaLabel": "notandinn mun lesa hverja síðu"}
+        },
+        "ariaLabel": "veldu hvaða lestrarstillingu á að nota"
+    }
+}

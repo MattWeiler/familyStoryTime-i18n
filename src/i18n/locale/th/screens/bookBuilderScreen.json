@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "หนังสือที่บันทึกไว้ \"%{bookTitle}\"",
+        "validationFailed": "การตรวจสอบล้มเหลว",
+        "bookSaveFailed": "การบันทึกสมุดล้มเหลว"
+    },
+    "bookTitleInput": {
+        "description": "ชื่อหนังสือ",
+        "label": "ชื่อหนังสือ",
+        "placeholder": "ชื่อหนังสือ",
+        "ariaLabel": "ชื่อหนังสือ"
+    },
+    "readers": {
+        "label": "ผู้อ่าน",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "ชื่อที่แสดงสำหรับผู้อ่านใหม่นี้",
+                "buttons": {
+                    "cancel": {"ariaLabel": "ยกเลิกการเพิ่มตัวอ่านใหม่"},
+                    "add": {"ariaLabel": "เพิ่มเครื่องอ่านใหม่"}
+                },
+                "description": "โปรดระบุชื่อที่แสดงสำหรับโปรแกรมอ่านใหม่นี้",
+                "title": "เพิ่มผู้อ่านใหม่",
+                "inputPlaceholder": "ชื่อผู้อ่าน"
+            },
+            "ariaLabel": "เพิ่มเครื่องอ่านใหม่"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "จำนวนมิลลิวินาทีที่ต้องรอก่อนที่จะเล่นหน้าเปลี่ยนเสียง",
+            "label": "ก่อนเปลี่ยนหน้าเสียง",
+            "placeholder": "มิลลิวินาทีก่อนเล่นหน้าเปลี่ยนเสียง",
+            "ariaLabel": "มิลลิวินาทีที่ต้องรอก่อนที่จะเล่นหน้าเปลี่ยนเสียง"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "จำนวนมิลลิวินาทีที่รอหลังจากเล่นหน้าเปลี่ยนเสียง",
+            "label": "หลังจากเปลี่ยนหน้าเสียง",
+            "placeholder": "มิลลิวินาทีหลังจากเล่นหน้าเปลี่ยนเสียง",
+            "ariaLabel": "มิลลิวินาทีเพื่อรอหลังจากเล่นหน้าเปลี่ยนเสียง"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "จำนวนมิลลิวินาทีที่ต้องรอก่อนเล่นเสียงเพจ",
+            "label": "ก่อนเพจออดิโอ",
+            "placeholder": "มิลลิวินาทีก่อนเล่นเสียงเพจ",
+            "ariaLabel": "มิลลิวินาทีเพื่อรอก่อนเล่นเสียงเพจ"
+        },
+        "label": "ความล่าช้า"
+    },
+    "bookIconImageSelector": {
+        "description": "รูปภาพที่จะใช้เป็นไอคอนสำหรับหนังสือ",
+        "label": "ไอคอนหนังสือ",
+        "accessibleImageDisplayName": "ไอคอนหนังสือ"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "รูปภาพที่จะแสดงเมื่อเปิดตัวหนังสือครั้งแรก",
+        "label": "รูปภาพสแปลชหนังสือ",
+        "accessibleImageDisplayName": "หนังสือสาด"
+    },
+    "confirmations": {"goBack": {
+        "title": "ออกจากการเปลี่ยนแปลง",
+        "message": "คุณแน่ใจหรือไม่ว่าต้องการออกก่อนที่จะบันทึก"
+    }},
+    "pageChangeAudio": {
+        "description": "เสียงที่จะเล่นเมื่อถึงเวลาเปลี่ยนหน้า",
+        "label": "หน้าเปลี่ยนเสียง",
+        "presetAudioModalPicker": {
+            "headerLabel": "เลือกเปลี่ยนเสียงหน้า",
+            "ariaLabel": "เลือกจากรายการตัวเลือกเสียงเปลี่ยนหน้าที่กำหนดไว้ล่วงหน้า",
+            "accessibleAudioDisplayName": "เปลี่ยนหน้า"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "ไม่สามารถโหลดหนังสือได้",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "ความล่าช้าไม่สามารถเป็นลบได้",
+            "bookTitleMissing": "ต้องระบุชื่อหนังสือ",
+            "readerDisplayNameMissing": "ต้องระบุชื่อที่แสดงของผู้อ่าน",
+            "bookIconNotValid": "ต้องมีไอคอนหนังสือ",
+            "pageTextMissing": "ต้องระบุข้อความหน้า",
+            "delayBeforePlayingPageAudioNegative": "ความล่าช้าไม่สามารถเป็นลบได้",
+            "pagesMissing": "ต้องมีอย่างน้อย 1 หน้า",
+            "pageImageNotValid": "จำเป็นต้องมีรูปภาพหน้า",
+            "delayBeforePlayingPageChangeAudioNegative": "ความล่าช้าไม่สามารถเป็นลบได้",
+            "bookSplashImageNotValid": "ต้องมีภาพสแปลชหนังสือ",
+            "readerIntroAudioNotValid": "เสียงแนะนำตัวอ่านไม่ใช่ไฟล์ที่ถูกต้อง",
+            "pageAudioNotValid": "จำเป็นต้องมีเสียงหน้า",
+            "pageChangeAudioNotValid": "จำเป็นต้องมีเสียงเปลี่ยนหน้า",
+            "delayAfterPlayingPageChangeAudioNotInteger": "ความล่าช้าต้องเป็นจำนวนเต็ม",
+            "delayBeforePlayingPageAudioNotInteger": "ความล่าช้าต้องเป็นจำนวนเต็ม",
+            "delayBeforePlayingPageChangeAudioNotInteger": "ความล่าช้าต้องเป็นจำนวนเต็ม",
+            "delayBeforePlayingPageAudioRequired": "จำเป็นต้องมีความล่าช้า",
+            "readerImageNotValid": "จำเป็นต้องมีรูปภาพของโปรแกรมอ่าน",
+            "delayBeforePlayingPageChangeAudioRequired": "จำเป็นต้องมีความล่าช้า",
+            "delayAfterPlayingPageChangeAudioRequired": "จำเป็นต้องมีความล่าช้า"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "URL แหล่งที่มาของหนังสือ",
+            "label": "URL แหล่งที่มา",
+            "placeholder": "URL แหล่งที่มา",
+            "ariaLabel": "URL แหล่งที่มาของหนังสือ"
+        },
+        "authorInput": {
+            "description": "ชื่อของผู้แต่งหนังสือ",
+            "label": "ชื่อผู้แต่ง",
+            "placeholder": "ผู้แต่งหนังสือ",
+            "ariaLabel": "ชื่อของผู้แต่งหนังสือ"
+        },
+        "illustratorInput": {
+            "description": "ชื่อผู้วาดภาพประกอบหนังสือ",
+            "label": "ชื่อผู้วาดภาพประกอบ",
+            "placeholder": "นักวาดภาพประกอบหนังสือ",
+            "ariaLabel": "ชื่อผู้วาดภาพประกอบหนังสือ"
+        },
+        "publisherInput": {
+            "description": "ชื่อผู้จัดพิมพ์หนังสือ",
+            "label": "ชื่อผู้จัดพิมพ์",
+            "placeholder": "ผู้จัดพิมพ์หนังสือ",
+            "ariaLabel": "ชื่อของผู้จัดพิมพ์หนังสือ"
+        },
+        "label": "แหล่งที่มา",
+        "isbnInput": {
+            "description": "หมายเลขหนังสือมาตรฐานสากลของหนังสือ",
+            "label": "ไอเอสบีเอ็น",
+            "placeholder": "ISBN ของหนังสือ",
+            "ariaLabel": "หมายเลขหนังสือมาตรฐานสากลของหนังสือ"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "เพิ่มหน้าใหม่"},
+        "label": "หน้า"
+    }
+}

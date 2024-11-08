@@ -1,0 +1,43 @@
+{"hamburgerMenu": {
+    "applicationTitle": "ਪਰਿਵਾਰਕ ਕਹਾਣੀ ਸਮਾਂ",
+    "links": {
+        "feedback": {
+            "text": "ਫੀਡਬੈਕ",
+            "ariaLabel": "ਫੀਡਬੈਕ ਸਕ੍ਰੀਨ 'ਤੇ ਜਾਓ"
+        },
+        "settings": {
+            "text": "ਸੈਟਿੰਗਾਂ",
+            "ariaLabel": "ਸੈਟਿੰਗ ਸਕਰੀਨ 'ਤੇ ਜਾਓ"
+        },
+        "bookSelector": {
+            "text": "ਰੀਡਿੰਗ ਕੋਨਰ",
+            "ariaLabel": "ਰੀਡਿੰਗ ਕੋਨੇ ਦੀ ਸਕਰੀਨ 'ਤੇ ਜਾਓ"
+        },
+        "bookBuilder": {
+            "text": "ਬੁੱਕ ਬਿਲਡਰ",
+            "ariaLabel": "ਬੁੱਕ ਬਿਲਡਰ ਸਕ੍ਰੀਨ 'ਤੇ ਜਾਓ"
+        },
+        "about": {
+            "text": "ਸਾਡੇ ਬਾਰੇ",
+            "ariaLabel": "ਸਾਡੇ ਬਾਰੇ ਸਕ੍ਰੀਨ 'ਤੇ ਜਾਓ"
+        },
+        "developerStatus": {
+            "hidden": {
+                "text": "ਵਿਕਾਸਕਾਰ ਸਥਿਤੀ ਦਿਖਾਓ",
+                "ariaLabel": "ਡਿਵੈਲਪਰ ਸਥਿਤੀ ਦਿਖਾਓ"
+            },
+            "showing": {
+                "text": "ਵਿਕਾਸਕਾਰ ਸਥਿਤੀ ਨੂੰ ਲੁਕਾਓ",
+                "ariaLabel": "ਡਿਵੈਲਪਰ ਸਥਿਤੀ ਨੂੰ ਲੁਕਾਓ"
+            }
+        },
+        "tutorial": {
+            "text": "ਟਿਊਟੋਰਿਅਲ",
+            "ariaLabel": "ਟਿਊਟੋਰਿਅਲ ਵੇਖੋ"
+        },
+        "bookStore": {
+            "text": "ਕਿਤਾਬਾਂ ਦੀ ਦੁਕਾਨ",
+            "ariaLabel": "ਬੁੱਕ ਸਟੋਰ ਸਕ੍ਰੀਨ ਤੇ ਜਾਓ"
+        }
+    }
+}}

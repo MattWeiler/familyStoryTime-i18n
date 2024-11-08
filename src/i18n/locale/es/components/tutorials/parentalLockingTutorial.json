@@ -1,0 +1,34 @@
+{
+    "summary": "Antes de entregarle su dispositivo a su hijo, puede bloquear la aplicación para evitar que los niños borren libros o realicen otros cambios.",
+    "enabling": {
+        "messages": {
+            "1": "Para habilitar la función de bloqueo parental, abra el menú de hamburguesas y presione el ícono de candado abierto en la parte superior derecha.",
+            "2": "Esto le pedirá que proporcione su confirmación biométrica, lo que inicializará la función de bloqueo parental.",
+            "3": "Ahora que se ha habilitado la función de bloqueo parental, al presionar el icono de candado abierto se bloqueará la aplicación.",
+            "4": "Cuando la función de bloqueo parental está habilitada, cada vez que se inicia la aplicación, estará en modo bloqueado."
+        },
+        "title": "Habilitar bloqueo parental"
+    },
+    "disabling": {
+        "messages": {
+            "1": "Para desactivar la función de bloqueo parental, abra el menú de hamburguesas y presione el elemento de configuración en la parte inferior.",
+            "2": "En la página de configuración, anule la selección de la función \"Bloqueo parental\"."
+        },
+        "title": "Desactivar el bloqueo parental"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Cuando la aplicación está bloqueada, varias funciones de la aplicación no se mostrarán, como menús contextuales o botones que le permiten agregar o quitar libros.",
+            "2": "Esto coloca la aplicación en modo de solo lectura, que es seguro para que lo usen los niños.",
+            "3": "Para acceder a esas funciones ocultas, deberá desbloquear la aplicación."
+        },
+        "title": "Funciones bloqueadas"
+    },
+    "locked": {
+        "messages": {
+            "1": "Para desbloquear la aplicación, abra el menú de hamburguesas y presione el ícono de candado cerrado en la parte superior derecha.",
+            "2": "Esto le pedirá que proporcione su confirmación biométrica que desbloqueará la aplicación."
+        },
+        "title": "Desbloquear aplicación"
+    }
+}

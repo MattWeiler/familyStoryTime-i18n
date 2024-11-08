@@ -1,0 +1,17 @@
+{
+    "summary": "Könyvesboltunkban köztulajdonban lévő könyveket találhat.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Kiválaszthatja, hogy a rendelkezésre álló könyvek közül melyiket szeretné letölteni.",
+            "2": "Ezzel a könyv(ek)et telepíti az eszközére, így lejátszhatja őket, és akár saját olvasókat is hozzáadhat."
+        },
+        "title": "Könyvek telepítése"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Azt is megtekintheti, hogy mely könyveket telepítette már a könyvesboltunkból.",
+            "2": "Innen törölheti a korábban telepített könyveket, vagy ellenőrizheti az elérhető frissítéseket."
+        },
+        "title": "Könyvek kezelése"
+    }
+}

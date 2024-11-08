@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "Þetta mun eyða öllum bókunum sem eru uppsettar á þessu tæki.\n\n",
+        "button": {
+            "label": "Eyða",
+            "title": "eyða öllum bókum",
+            "ariaLabel": "eyða öllum bókum"
+        },
+        "displayName": "Eyða öllum bókum",
+        "processingMessage": "eyðir...",
+        "shortDescription": {
+            "disabled": "Eyddu öllum bókunum þínum, en þú ert ekki með neinar bækur uppsettar.",
+            "enabled": "Eyddu öllum bókunum þínum."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} ",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "Kælir",
+                "someFontsBy": "Leturgerðir eftir:"
+            },
+            "label": "Sérstakar þakkir",
+            "icons": {
+                "ionicIcons": "IonIcons",
+                "someIconsBy": "Tákn eftir:",
+                "icons8": "Tákn 8",
+                "iconArchive": "Táknasafn"
+            }
+        },
+        "version": "Útgáfa: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Þessi myndaritill verður notaður þegar verið er að taka nýjar bókamyndir eða þegar verið er að breyta núverandi bókamynd.",
+        "displayName": "Image Editor",
+        "testLabel": "Próf mynd ritstjóri",
+        "testImage": {"accessibleImageDisplayName": "próf mynd ritstjóra mynd"},
+        "options": {
+            "advanced": {
+                "label": "Ítarlegri",
+                "ariaLabel": "notaðu háþróaða myndvinnsluforritið"
+            },
+            "simple": {
+                "label": "Einfalt",
+                "ariaLabel": "notaðu einfaldan myndvinnsluforrit"
+            }
+        },
+        "shortDescription": "Veldu hvaða myndvinnsluforrit á að nota.",
+        "ariaLabel": "veldu hvaða myndvinnsluforrit á að nota"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Þessi rödd verður notuð þegar \u201eAI Reader\u201c lesandinn les bækur.",
+        "displayName": "Valin rödd",
+        "selectorButton": {
+            "defaultLabel": "sjálfgefið",
+            "ariaLabel": "veldu \"AI Reader\" rödd"
+        },
+        "shortDescription": "Veldu röddina sem \"AI Reader\" á að nota.",
+        "picker": {
+            "default": "sjálfgefið",
+            "networkActionIcon": {"ariaLabel": "sýna staðbundnar og nettengdar raddir"},
+            "label": "AI Reader Raddir",
+            "ariaLabel": "veldu \"AI Reader\" rödd",
+            "globalActionIcon": {"ariaLabel": "sýna öll tungumál"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Hljóð og mynd",
+        "ariaLabel": {
+            "expanded": "draga saman hljóðmyndvalshlutann",
+            "collapsed": "stækkaðu hlutann fyrir hljóðmyndval"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Þessi myndgæði verða notuð þegar myndir eru teknar með myndavél(um) tækisins.",
+        "slider": {
+            "highLabel": "Hátt",
+            "ariaLabel": "myndgæði mynda",
+            "lowLabel": "Lágt"
+        },
+        "displayName": "Myndavélagæði %{value}%",
+        "testLabel": "Prófa myndavél",
+        "testImage": {"accessibleImageDisplayName": "prófa gæði myndavélarinnar"},
+        "shortDescription": "Veldu myndgæði mynda sem teknar eru með myndavélinni."
+    },
+    "title": "Stillingar",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Staðfesting á eyðingu",
+        "message": "Ertu viss um að þú viljir eyða öllum uppsettum bókum?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "Þetta getur verið gagnlegt þegar þú ferð yfir í nýtt tæki eða bætir bókunum þínum við mörg tæki.",
+        "button": {
+            "label": "Útflutningur",
+            "title": "flytja allar bækur út",
+            "ariaLabel": "flytja allar bækur út"
+        },
+        "displayName": "Flytja út allar bækur",
+        "shortDescription": {
+            "disabled": "Flyttu út allar bækurnar þínar í eina skrá og vistaðu/deildu henni, en þú ert ekki með neinar bækur uppsettar.",
+            "enabled": "Flyttu út allar bækurnar þínar í eina skrá og vistaðu/deildu henni."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "mistókst að eyða",
+        "success": {
+            "other": "eytt %{count} bókum",
+            "one": "eytt 1 bók"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "AI lesandi",
+        "testLabel": "Prófa rödd",
+        "testAriaLabel": {
+            "stopped": "prófaðu \"AI Reader\" rödd",
+            "playing": "stöðva \"AI Reader\" raddprófið"
+        },
+        "testPhrase": "Halló, mér þætti gaman að lesa uppáhaldssögurnar þínar með þér.",
+        "description": "Þegar kveikt er á því verður \u201eAI Reader\u201c tiltækur sem lesandi þegar þú spilar bækur.",
+        "ariaLabel": {
+            "expanded": "draga saman \"AI Reader\" valhlutann",
+            "collapsed": "stækkaðu valhlutann \u201eAI Reader\u201c",
+            "disabled": "\u201eAI Reader\u201c er óvirkt",
+            "enabled": "\u201eAI Reader\u201c er virkt"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "Þetta táknar tónhæð raddarinnar sem notuð er þegar \u201eAI Reader\u201c lesandinn les bækur.",
+        "slider": {
+            "highLabel": "Hátt",
+            "ariaLabel": "raddhæð \"AI Reader\"",
+            "lowLabel": "Lágt"
+        },
+        "displayName": "Raddhæð %{value}%",
+        "shortDescription": "Veldu tónhæð raddarinnar sem \u201eAI Reader\u201c á að nota."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Þessi hljóðgæði verða notuð þegar tekið er upp með hljóðnema tækisins.",
+        "displayName": "Gæði hljóðnema",
+        "testLabel": "Prófa hljóðnema",
+        "options": {
+            "high": {
+                "label": "Hátt",
+                "ariaLabel": "nota mikil hljóðgæði"
+            },
+            "low": {
+                "label": "Lágt",
+                "ariaLabel": "nota lág hljóðgæði"
+            }
+        },
+        "shortDescription": "Veldu hljóðgæði upptaka sem teknar eru með hljóðnemanum.",
+        "ariaLabel": "velja hljóðgæði upptaka sem teknar eru með hljóðnemanum",
+        "testAudioSelector": {"accessibleAudioDisplayName": "prófa eiginleika hljóðnema"}
+    },
+    "subtitle": "Uppfærðu forritastillingarnar þínar hér.",
+    "themeSelection": {
+        "longDescription": "Ef þema er valið hér mun það hnekkja hvaða þemastillingum tækisins sem þú gætir haft.",
+        "displayName": "Þemaval",
+        "options": {
+            "default": {
+                "label": "Kerfi",
+                "ariaLabel": "nota kerfisskilgreint þema"
+            },
+            "light": {
+                "label": "Ljós",
+                "ariaLabel": "notaðu ljósþemað"
+            },
+            "dark": {
+                "label": "Myrkur",
+                "ariaLabel": "notaðu myrka þemað"
+            }
+        },
+        "shortDescription": "Veldu þema sem ætti að nota af forritinu.",
+        "ariaLabel": "veldu þema sem ætti að nota af forritinu"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "Þetta gefur til kynna hraða raddarinnar sem notuð er þegar \u201eAI Reader\u201c lesandinn les bækur.",
+        "slider": {
+            "highLabel": "Hratt",
+            "ariaLabel": "talhraði \"AI Reader\"",
+            "lowLabel": "Hægur"
+        },
+        "displayName": "Talhraði %{value}%",
+        "shortDescription": "Veldu hraða raddarinnar sem \"AI Reader\" á að nota."
+    },
+    "parentalLocking": {
+        "longDescription": "Þegar það er virkt þarf líffræðileg tölfræðigögn eiganda tækisins til að opna háþróaða eiginleika í forritinu.",
+        "displayName": "Foreldralæsing",
+        "shortDescription": "Foreldralæsing getur verið gagnleg þegar börn eru að nota forritið.",
+        "ariaLabel": {
+            "disabled": "foreldralæsing er óvirk",
+            "enabled": "foreldralæsing er virkjuð"
+        }
+    }
+}

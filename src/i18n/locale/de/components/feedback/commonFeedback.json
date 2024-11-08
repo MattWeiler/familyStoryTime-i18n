@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Name",
+        "placeholder": "John Doe",
+        "ariaLabel": "optional Ihr Name"
+    },
+    "emailInput": {
+        "description": "Geben Sie an, ob Sie eine Rückmeldung von uns wünschen.",
+        "label": "E-Mail-Adresse",
+        "placeholder": "jemand@gmail.com",
+        "ariaLabel": "optional Ihre E-Mail-Adresse"
+    }
+}

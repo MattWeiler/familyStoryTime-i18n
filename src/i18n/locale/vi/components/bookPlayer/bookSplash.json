@@ -1,0 +1,19 @@
+{
+    "startButton": {
+        "title": "bắt đầu cuốn sách",
+        "ariaLabel": "bắt đầu cuốn sách"
+    },
+    "selectedReaderImage": {"ariaLabel": "chọn giọng nói để đọc sách"},
+    "skipIntroButton": {
+        "title": "bỏ qua phần giới thiệu",
+        "ariaLabel": "bỏ qua phần giới thiệu"
+    },
+    "readMode": {
+        "items": {
+            "autoRead": {"ariaLabel": "mỗi trang sẽ được đọc cho người dùng bằng giọng nói họ chọn"},
+            "pageRead": {"ariaLabel": "mỗi trang sẽ được đọc cho người dùng bằng giọng nói họ chọn, nhưng người dùng có trách nhiệm thay đổi trang"},
+            "selfRead": {"ariaLabel": "người dùng sẽ đọc từng trang"}
+        },
+        "ariaLabel": "chọn chế độ đọc nào sẽ sử dụng"
+    }
+}

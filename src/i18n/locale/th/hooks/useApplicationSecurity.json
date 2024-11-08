@@ -1,0 +1,5 @@
+{
+    "disableParentModePrompt": "ปิดการใช้งานการล็อคโดยผู้ปกครอง?",
+    "initParentModePrompt": "เปิดใช้งานการล็อคโดยผู้ปกครองหรือไม่",
+    "unlockParentModePrompt": "ปลดล็อคแอปพลิเคชั่น?"
+}

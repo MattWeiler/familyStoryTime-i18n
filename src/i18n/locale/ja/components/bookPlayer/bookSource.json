@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "書籍の出典情報を表示する"},
+        "hideSource": {"ariaLabel": "書籍の出典情報を隠す"}
+    },
+    "sourceUrl": {
+        "label": "本のソースを見る",
+        "ariaLabel": "ブックのソース URL を開く"
+    },
+    "sourceIllustrator": {"label": "イラストレーター:"},
+    "sourceAuthor": {"label": "著者："},
+    "sourcePublisher": {"label": "出版社:"},
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "ISBN を開く 本の ISBN 検索を開く"
+    }
+}

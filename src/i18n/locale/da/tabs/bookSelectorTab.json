@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "indlæsning af bøger mislykkedes"},
+        "import": {"failure": "import mislykkedes"},
+        "delete": {
+            "failure": "sletning mislykkedes",
+            "success": "slettede bog \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "kunne ikke slette %{count} bøger",
+                "one": "kunne ikke slette 1 bog"
+            },
+            "success": {
+                "other": "slettede %{count} bøger",
+                "one": "slettet 1 bog"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "sorter efter sideantal i faldende rækkefølge",
+                "descending": "sorter efter sideantal i stigende rækkefølge"
+            }},
+            "searchField": {
+                "placeholder": "søg i dine bøger",
+                "ariaLabel": "søg i dine bøger"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Eksportere",
+                        "ariaLabel": "eksportere de valgte bøger"
+                    },
+                    "delete": {
+                        "label": "Slet",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "nej, slet ikke de valgte bøger"},
+                                "yes": {"ariaLabel": "ja, slet de valgte bøger"}
+                            },
+                            "title": "Bekræft sletning",
+                            "message": {
+                                "other": "Er du sikker på, at du vil slette de %{count} valgte bøger?",
+                                "one": "Er du sikker på, at du vil slette den valgte bog?"
+                            }
+                        },
+                        "ariaLabel": "slette de valgte bøger"
+                    }
+                },
+                "ariaLabel": "åbne kontekstmenuen for de valgte bøger"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "sorter efter bogtitel i faldende rækkefølge",
+                "descending": "sorter efter bogtitel i stigende rækkefølge"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "sorter efter læserantal i faldende rækkefølge",
+                "descending": "sorter efter læserantal i stigende rækkefølge"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "zoom ud for at se flere elementer på én gang",
+                "zoomedOut": "zoom ind for at se større billeder"
+            }}
+        },
+        "loadError": {
+            "text": "Kunne ikke indlæse bøger.",
+            "ariaLabel": "kunne ikke indlæse bøger"
+        },
+        "noBooksFound": {
+            "message": "Ingen bøger fundet :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Prøv vores",
+                    "linkName": "bogbygger"
+                },
+                "availableBooks": {
+                    "message": "Tjek vores",
+                    "linkName": "boghandel"
+                }
+            }
+        }
+    },
+    "subtitle": "Lad os nyde at læse nogle historier.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "lave en bog",
+                "ariaLabel": "oprette en ny bog"
+            },
+            "importBooks": {
+                "label": "importere bøger",
+                "ariaLabel": "importere en eller flere bøger"
+            },
+            "bookStore": {
+                "label": "besøg boghandel",
+                "ariaLabel": "besøg vores boghandel"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "luk tilføj en bogmenu",
+            "collapsed": "åbne tilføj en bogmenu"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "sletter...\n",
+            "one": "sletter...\n",
+            "none": "sletter..."
+        }},
+        "export": {"label": {
+            "other": "eksporterer...\n",
+            "one": "eksporterer...\n",
+            "none": "eksporterer..."
+        }}
+    }},
+    "title": "Læsehjørne",
+    "confirmations": {"deleteBook": {
+        "title": "Bekræftelse af sletning",
+        "message": "Er du sikker på, at du vil slette bogen \"%{bookTitle}?\""
+    }}
+}

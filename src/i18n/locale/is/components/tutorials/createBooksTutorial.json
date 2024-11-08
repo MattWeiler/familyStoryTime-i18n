@@ -1,0 +1,96 @@
+{
+    "summary": "Þú getur stafrænt uppáhaldsbækur fjölskyldunnar þinnar og haft eins marga lesendur með og eru tilbúnir til að taka upp sjálfir.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "Opnun \"Bókasmiður\"",
+            "ariaLabel": {
+                "expanded": "draga saman opnunarhluta bókasmiðsins",
+                "collapsed": "opnaðu hlutann sem opnar bókasmiðinn"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Frá hvaða síðu sem er geturðu nálgast \u201eBókasmiðinn\u201c í gegnum hamborgaravalmyndina efst til vinstri á skjánum.",
+                    "2": "Þaðan ýttu á \"Book Builder\" valkostinn."
+                },
+                "title": "Hamborgara matseðill"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "Á síðunni \u201eLestrarhornið\u201c geturðu nálgast \u201eBókasmiðinn\u201c með því að ýta á (+) hnappinn neðst til hægri á skjánum.",
+                    "2": "Þaðan ýttu á \"búa til bók\" valkostinn."
+                },
+                "title": "Aðgerðarhnappur"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "Að nota \"Bókasmiðinn\"",
+            "ariaLabel": {
+                "expanded": "draga saman hlutann með því að nota bókasmiðinn",
+                "collapsed": "opnaðu hlutann með því að nota bókasmiðinn"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "Bók verður að innihalda að minnsta kosti 1 blaðsíðu, en hefur engin efri mörk.",
+                    "2": "Þegar mynd er tekin eða hlaðið upp til að nota fyrir síðu verður gervigreind notuð til að draga textann úr myndinni. "
+                },
+                "title": "Bókasíður"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "Í \u201eBook Builder\u201c muntu geta tilgreint nokkra eiginleika sem tengjast bókinni.",
+                    "2": "Hér má tilgreina titil bókarinnar, nokkrar myndir, heimildarupplýsingar, tafir, lesendur og síður."
+                },
+                "title": "Bókasmiður"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Þegar allir reiti bókarinnar hafa verið fylltir út verður að vista bókina í tækinu.",
+                    "2": "Við vistun verða bókunargögnin skoðuð til að ganga úr skugga um að þau séu öll gild; "
+                },
+                "title": "Að vista bók"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Hægt er að taka myndir með myndavél tækisins eða hlaða þeim úr myndasafni þínu.",
+                    "2": "Þegar mynd hefur verið valin er hægt að breyta henni til að tryggja að hún líti sem best út.",
+                    "3": "Með því að ýta á núverandi mynd koma upp myndhnapparnir."
+                },
+                "title": "Bóka myndir"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Hægt er að skilgreina tafir sem hafa áhrif á spilun bókarinnar.",
+                    "2": "Þessar tafir geta tryggt að hljóðspilun hljómi ekki of snögglega."
+                },
+                "title": "Tafir á bókum"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Þegar verið er að spila bók sjálfkrafa er hægt að spila ákveðið hljóð þegar síðu lýkur og næsta síða er tilbúin til að byrja.",
+                    "2": "Hægt er að velja sett af fyrirfram skilgreindum hljóðum eða hægt er að hlaða upp sérsniðnu hljóði eða taka upp."
+                },
+                "title": "Page Change Audio"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "Bók getur innihaldið hvaða fjölda lesenda sem er.",
+                    "2": "Hver lesandi mun taka upp sjálfan sig þegar hann les hverja síðu bókarinnar og verður því tiltækur til að lesa bókina meðan á bókinni stendur."
+                },
+                "title": "Bókalesarar"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "Hægt er að veita heimildarupplýsingar um bókina.",
+                    "2": "Þó að þessar heimildarupplýsingar séu valfrjálsar, geta þær hjálpað til við að halda utan um uppáhaldssögurnar þínar."
+                },
+                "title": "Uppruni bókarinnar"
+            }
+        }
+    }
+}

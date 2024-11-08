@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "vistuð bók \"%{bookTitle}\"",
+        "validationFailed": "staðfesting mistókst",
+        "bookSaveFailed": "mistókst að vista bók"
+    },
+    "bookTitleInput": {
+        "description": "Titill bókarinnar.",
+        "label": "Bókartitill",
+        "placeholder": "titill bókar",
+        "ariaLabel": "titill bókarinnar"
+    },
+    "readers": {
+        "label": "Lesendur",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "birtingarheiti fyrir þennan nýja lesanda",
+                "buttons": {
+                    "cancel": {"ariaLabel": "hætta við að bæta við nýjum lesanda"},
+                    "add": {"ariaLabel": "bæta við nýja lesandanum"}
+                },
+                "description": "Vinsamlegast gefðu upp skjáheitið fyrir þennan nýja lesanda.",
+                "title": "Bæta við nýjum lesanda",
+                "inputPlaceholder": "nafn lesanda"
+            },
+            "ariaLabel": "bæta við nýjum lesanda"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Fjöldi millisekúndna sem þarf að bíða áður en þú spilar síðubreytingarhljóð.",
+            "label": "Áður en síðu skipta um hljóð",
+            "placeholder": "millisekúndum áður en þú spilar síðubreytingarhljóð",
+            "ariaLabel": "millisekúndur til að bíða áður en þú spilar síðubreytingarhljóð"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Fjöldi millisekúndna sem þarf að bíða eftir að spila síðubreytingarhljóð.",
+            "label": "Eftir síðubreytingu hljóð",
+            "placeholder": "millisekúndum eftir að hafa spilað síðubreytingarhljóð",
+            "ariaLabel": "millisekúndur til að bíða eftir að hafa spilað síðubreytingarhljóð"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Fjöldi millisekúndna sem þarf að bíða áður en hljóð síðu er spilað.",
+            "label": "Fyrir síðu hljóð",
+            "placeholder": "millisekúndum áður en þú spilar hljóð síðu",
+            "ariaLabel": "millisekúndur til að bíða áður en þú spilar hljóð síðu"
+        },
+        "label": "Tafir"
+    },
+    "bookIconImageSelector": {
+        "description": "Myndin sem á að nota sem tákn fyrir bókina.",
+        "label": "Bókatákn",
+        "accessibleImageDisplayName": "bókatákn"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "Myndin sem á að sýna þegar bókin er fyrst sett á markað.",
+        "label": "Bók Splash mynd",
+        "accessibleImageDisplayName": "bókaskvetta"
+    },
+    "confirmations": {"goBack": {
+        "title": "Skildu eftir breytingar",
+        "message": "Ertu viss um að þú viljir fara áður en þú vistar?"
+    }},
+    "pageChangeAudio": {
+        "description": "Hljóðið til að spila þegar það er kominn tími til að skipta um síðu.",
+        "label": "Page Change Audio",
+        "presetAudioModalPicker": {
+            "headerLabel": "Veldu Page Change Audio",
+            "ariaLabel": "veldu af listanum yfir forstillta hljóðvalkosti fyrir síðubreytingar",
+            "accessibleAudioDisplayName": "síðubreyting"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Ekki tókst að hlaða bókinni.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "seinkun getur ekki verið neikvæð",
+            "bookTitleMissing": "bókartitill er áskilinn",
+            "readerDisplayNameMissing": "skjánafn lesanda er krafist",
+            "bookIconNotValid": "bókatákn er áskilið",
+            "pageTextMissing": "síðutexti er nauðsynlegur",
+            "delayBeforePlayingPageAudioNegative": "seinkun getur ekki verið neikvæð",
+            "pagesMissing": "að minnsta kosti 1 síðu er krafist",
+            "pageImageNotValid": "síðumynd er nauðsynleg",
+            "delayBeforePlayingPageChangeAudioNegative": "seinkun getur ekki verið neikvæð",
+            "bookSplashImageNotValid": "bók skvetta mynd er nauðsynleg",
+            "readerIntroAudioNotValid": "lesandi kynningarhljóð er ekki gild skrá",
+            "pageAudioNotValid": "síðu hljóð er krafist",
+            "pageChangeAudioNotValid": "síðubreytingarhljóð er krafist",
+            "delayAfterPlayingPageChangeAudioNotInteger": "seinkun verður að vera heil tala",
+            "delayBeforePlayingPageAudioNotInteger": "seinkun verður að vera heil tala",
+            "delayBeforePlayingPageChangeAudioNotInteger": "seinkun verður að vera heil tala",
+            "delayBeforePlayingPageAudioRequired": "tafar er krafist",
+            "readerImageNotValid": "lesandamynd er áskilin",
+            "delayBeforePlayingPageChangeAudioRequired": "tafar er krafist",
+            "delayAfterPlayingPageChangeAudioRequired": "tafar er krafist"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "Heimildarslóð bókarinnar.",
+            "label": "Heimildarslóð",
+            "placeholder": "upprunaslóð",
+            "ariaLabel": "upprunaslóð bókarinnar"
+        },
+        "authorInput": {
+            "description": "Nafn höfundar bókarinnar.",
+            "label": "Nafn höfundar",
+            "placeholder": "höfundur bókar",
+            "ariaLabel": "nafn höfundar bókarinnar"
+        },
+        "illustratorInput": {
+            "description": "Nafn teiknara bókarinnar.",
+            "label": "Nafn teiknara",
+            "placeholder": "teiknari bókarinnar",
+            "ariaLabel": "nafn teiknara bókarinnar"
+        },
+        "publisherInput": {
+            "description": "Nafn útgefanda bókarinnar.",
+            "label": "Nafn útgefanda",
+            "placeholder": "útgefandi bók",
+            "ariaLabel": "nafn útgefanda bókarinnar"
+        },
+        "label": "Heimild",
+        "isbnInput": {
+            "description": "Alþjóðlegt staðlað bókanúmer bókarinnar.",
+            "label": "ISBN",
+            "placeholder": "ISBN bókarinnar",
+            "ariaLabel": "alþjóðlegt staðlað bókanúmer bókarinnar"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "bæta við nýrri síðu"},
+        "label": "Síður"
+    }
+}

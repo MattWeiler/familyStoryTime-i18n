@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "导出已在运行，请稍后再试"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "取消",
+            "ariaLabel": "取消导出"
+        },
+        "export": {
+            "textLabel": "出口",
+            "ariaLabel": "导出选定的书籍"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "保存您的 %{count} 本书",
+        "one": "保存书籍：%{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "分析...",
+        "packaging": "包装 ...",
+        "cancelling": "取消..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "读者",
+                    "ariaLabel": "仅导出图书 %{bookTitle} 的读者信息"
+                },
+                "full": {
+                    "label": "满的",
+                    "ariaLabel": "导出整本书 %{bookTitle}"
+                }
+            },
+            "ariaLabel": "选择如何导出图书 %{bookTitle}"
+        },
+        "readers": {"checkbox": {"ariaLabel": "将阅读器 %{readerDisplayName} 包含在导出中"}},
+        "checkbox": {"ariaLabel": "将图书 %{bookTitle} 包含在导出中"},
+        "bookReadersTooltip": {"label": "选择\u201c读者\u201d选项将仅导出选定的读者。\n\n"}
+    },
+    "packagedMultiBookFileName": "图书",
+    "nothingToExport": "没有什么可导出的:(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "不要取消导出"},
+            "yes": {"ariaLabel": "取消导出"}
+        },
+        "title": "确认 取消 导出",
+        "message": "您确定要取消导出吗？"
+    }},
+    "titles": {
+        "booksToExport": "要出口的书籍",
+        "failedToExport": "导出图书失败"
+    },
+    "outputFilenameField": {
+        "label": "输出文件名",
+        "ariaLabel": "预期输出文件名"
+    },
+    "errors": {"invalidOutputFilename": "文件名无效"}
+}

@@ -1,0 +1,34 @@
+{
+    "summary": "Prima di consegnare il tuo dispositivo a tuo figlio, puoi bloccare l'applicazione per impedire ai bambini di eliminare libri o apportare altre modifiche.",
+    "enabling": {
+        "messages": {
+            "1": "Per abilitare la funzione di blocco parentale, apri il menu hamburger e premi l'icona del lucchetto aperto in alto a destra.",
+            "2": "Ciò ti chiederà di fornire la conferma biometrica che inizializzerà la funzione di blocco parentale.",
+            "3": "Ora che la funzione di blocco parentale è stata abilitata, premendo l'icona del lucchetto aperto si bloccherà l'applicazione.",
+            "4": "Quando la funzione di blocco parentale è abilitata, ogni volta che l'applicazione viene avviata, sarà in modalità bloccata."
+        },
+        "title": "Abilita il blocco genitori"
+    },
+    "disabling": {
+        "messages": {
+            "1": "Per disattivare la funzione di blocco parentale, apri il menu hamburger e premi la voce Impostazioni in basso.",
+            "2": "Nella pagina delle impostazioni, deseleziona la funzione \"Blocco parentale\"."
+        },
+        "title": "Disabilita il blocco parentale"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Quando l'applicazione è bloccata, diverse funzionalità dell'applicazione non verranno visualizzate, come i menu contestuali o i pulsanti che consentono di aggiungere/rimuovere libri.",
+            "2": "Ciò mette l'applicazione in una modalità di sola lettura che è sicura da usare per i bambini.",
+            "3": "Per accedere a queste funzionalità nascoste, dovrai sbloccare l'applicazione."
+        },
+        "title": "Funzionalità bloccate"
+    },
+    "locked": {
+        "messages": {
+            "1": "Per sbloccare l'applicazione, apri il menu hamburger e premi l'icona del lucchetto chiuso in alto a destra.",
+            "2": "Ciò ti chiederà di fornire la conferma biometrica che sbloccherà l'applicazione."
+        },
+        "title": "Sblocca l'applicazione"
+    }
+}

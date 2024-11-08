@@ -1,0 +1,43 @@
+{"hamburgerMenu": {
+    "applicationTitle": "Czas opowieści rodzinnej",
+    "links": {
+        "feedback": {
+            "text": "Informacja zwrotna",
+            "ariaLabel": "przejdź do ekranu opinii"
+        },
+        "settings": {
+            "text": "Ustawienia",
+            "ariaLabel": "przejdź do ekranu ustawień"
+        },
+        "bookSelector": {
+            "text": "Kącik czytelniczy",
+            "ariaLabel": "przejdź do ekranu kącika czytelniczego"
+        },
+        "bookBuilder": {
+            "text": "Konstruktor książek",
+            "ariaLabel": "przejdź do ekranu narzędzia do tworzenia książek"
+        },
+        "about": {
+            "text": "O nas",
+            "ariaLabel": "przejdź do ekranu o nas"
+        },
+        "developerStatus": {
+            "hidden": {
+                "text": "Pokaż status programisty",
+                "ariaLabel": "pokaż status programisty"
+            },
+            "showing": {
+                "text": "Ukryj status programisty",
+                "ariaLabel": "ukryj status programisty"
+            }
+        },
+        "tutorial": {
+            "text": "Seminarium",
+            "ariaLabel": "obejrzyj tutorial"
+        },
+        "bookStore": {
+            "text": "Księgarnia",
+            "ariaLabel": "przejdź do ekranu księgarni"
+        }
+    }
+}}

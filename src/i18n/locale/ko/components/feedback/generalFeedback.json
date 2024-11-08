@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "이메일 전송이 지원되지 않습니다",
+        "submissionFailed": "피드백 보내기 실패",
+        "submissionSuccess": "피드백 전송됨"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "만족도를 선택해 주세요.",
+        "description": "우리 앱을 공유할 가능성은 얼마나 되나요?",
+        "label": "다른 사람과 공유",
+        "levels": {
+            "1": {
+                "displayName": "안 돼요",
+                "ariaLabel": "안 돼요"
+            },
+            "2": {
+                "displayName": "가능성 없음",
+                "ariaLabel": "그럴 것 같지 않다"
+            },
+            "3": {
+                "displayName": "아마도",
+                "ariaLabel": "아마도"
+            },
+            "4": {
+                "displayName": "예",
+                "ariaLabel": "예"
+            },
+            "5": {
+                "displayName": "이미 가지고 있다",
+                "ariaLabel": "이미 가지고 있다"
+            }
+        },
+        "ariaLabel": "이 모바일 애플리케이션을 다른 사람과 공유할 가능성을 선택하세요."
+    },
+    "submitButton": {
+        "text": "피드백 제출",
+        "ariaLabel": "피드백을 제출하세요"
+    },
+    "satisfactionInput": {
+        "errorMessage": "만족도를 선택해 주세요.",
+        "description": "우리 앱을 얼마나 좋아하거나 싫어하셨나요?",
+        "label": "앱 만족도",
+        "levels": {
+            "1": {
+                "displayName": "싫어",
+                "ariaLabel": "싫어"
+            },
+            "2": {
+                "displayName": "실망하다",
+                "ariaLabel": "실망한"
+            },
+            "3": {
+                "displayName": "중립적",
+                "ariaLabel": "중립적"
+            },
+            "4": {
+                "displayName": "엄청난",
+                "ariaLabel": "엄청난"
+            },
+            "5": {
+                "displayName": "사랑해",
+                "ariaLabel": "좋아해"
+            }
+        },
+        "ariaLabel": "이 모바일 애플리케이션에 대한 만족도를 선택하세요"
+    },
+    "commentInput": {
+        "description": "선택적으로 추가 의견을 제공하세요.",
+        "label": "논평",
+        "ariaLabel": "선택적으로 추가 설명"
+    },
+    "playingBooksInput": {
+        "errorMessage": "만족도를 선택해 주세요.",
+        "description": "놀이책을 어떻게 찾았나요?",
+        "label": "책놀이",
+        "levels": {
+            "1": {
+                "displayName": "작동하지 않음",
+                "ariaLabel": "작동하지 않았다"
+            },
+            "2": {
+                "displayName": "좋지 않음",
+                "ariaLabel": "좋지 않다"
+            },
+            "3": {
+                "displayName": "괜찮아요",
+                "ariaLabel": "괜찮아요"
+            },
+            "4": {
+                "displayName": "그것은 쉽다",
+                "ariaLabel": "그것은 쉽다"
+            },
+            "5": {
+                "displayName": "사랑해",
+                "ariaLabel": "좋아해"
+            }
+        },
+        "ariaLabel": "책 재생에 대한 만족도를 선택하세요."
+    },
+    "multipleReadersInput": {
+        "errorMessage": "만족도를 선택해 주세요.",
+        "description": "독자가 여러 명 있다는 점은 어땠나요?",
+        "label": "다중 독자",
+        "levels": {
+            "1": {
+                "displayName": "작동하지 않음",
+                "ariaLabel": "작동하지 않았다"
+            },
+            "2": {
+                "displayName": "좋지 않음",
+                "ariaLabel": "좋지 않다"
+            },
+            "3": {
+                "displayName": "괜찮아요",
+                "ariaLabel": "괜찮아요"
+            },
+            "4": {
+                "displayName": "그것은 쉽다",
+                "ariaLabel": "그것은 쉽다"
+            },
+            "5": {
+                "displayName": "사랑해",
+                "ariaLabel": "좋아해"
+            }
+        },
+        "ariaLabel": "책당 여러 명의 독자가 있는 것에 대한 만족도를 선택하세요."
+    },
+    "creatingBooksInput": {
+        "errorMessage": "만족도를 선택해 주세요.",
+        "description": "책을 만들게 된 계기는 무엇인가요?",
+        "label": "책 만들기",
+        "levels": {
+            "1": {
+                "displayName": "작동하지 않음",
+                "ariaLabel": "작동하지 않았다"
+            },
+            "2": {
+                "displayName": "좋지 않음",
+                "ariaLabel": "좋지 않다"
+            },
+            "3": {
+                "displayName": "괜찮아요",
+                "ariaLabel": "괜찮아요"
+            },
+            "4": {
+                "displayName": "그것은 쉽다",
+                "ariaLabel": "그것은 쉽다"
+            },
+            "5": {
+                "displayName": "사랑해",
+                "ariaLabel": "좋아해"
+            }
+        },
+        "ariaLabel": "책 제작 과정에 대한 만족도를 선택해 주세요."
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "Questa operazione eliminerà tutti i libri installati su questo dispositivo.\n\n",
+        "button": {
+            "label": "Eliminare",
+            "title": "eliminare tutti i libri",
+            "ariaLabel": "eliminare tutti i libri"
+        },
+        "displayName": "Elimina tutti i libri",
+        "processingMessage": "eliminando...",
+        "shortDescription": {
+            "disabled": "Elimina tutti i tuoi libri, ma al momento non ne hai installato alcuno.",
+            "enabled": "Elimina tutti i tuoi libri."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} ",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "Raffreddatori",
+                "someFontsBy": "Caratteri per:"
+            },
+            "label": "Un ringraziamento speciale",
+            "icons": {
+                "ionicIcons": "Icone di ioni",
+                "someIconsBy": "Icone di:",
+                "icons8": "Icone8",
+                "iconArchive": "Archivio di icone"
+            }
+        },
+        "version": "Versione: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Questo editor di immagini verrà utilizzato quando vengono scattate nuove immagini del libro o quando viene modificata un'immagine del libro esistente.",
+        "displayName": "Editor di immagini",
+        "testLabel": "Prova l'editor di immagini",
+        "testImage": {"accessibleImageDisplayName": "testare l'immagine dell'editor di immagini"},
+        "options": {
+            "advanced": {
+                "label": "Avanzato",
+                "ariaLabel": "utilizzare l'editor di immagini avanzato"
+            },
+            "simple": {
+                "label": "Semplice",
+                "ariaLabel": "utilizzare un semplice editor di immagini"
+            }
+        },
+        "shortDescription": "Seleziona quale editor di immagini deve essere utilizzato.",
+        "ariaLabel": "selezionare quale editor di immagini deve essere utilizzato"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Questa voce verrà utilizzata quando il lettore \"AI Reader\" legge i libri.",
+        "displayName": "Voce preferita",
+        "selectorButton": {
+            "defaultLabel": "predefinito",
+            "ariaLabel": "seleziona una voce \"AI Reader\"."
+        },
+        "shortDescription": "Seleziona la voce che verrà utilizzata da \"AI Reader\".",
+        "picker": {
+            "default": "predefinito",
+            "networkActionIcon": {"ariaLabel": "mostrare voci locali e basate sulla rete"},
+            "label": "Voci dei lettori AI",
+            "ariaLabel": "seleziona una voce \"AI Reader\".",
+            "globalActionIcon": {"ariaLabel": "mostra tutte le lingue"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Audio e video",
+        "ariaLabel": {
+            "expanded": "comprimere la sezione di selezione audio video",
+            "collapsed": "espandere la sezione di selezione audio video"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Questa qualità dell'immagine verrà utilizzata quando si scattano foto con le fotocamere del dispositivo.",
+        "slider": {
+            "highLabel": "Alto",
+            "ariaLabel": "qualità dell'immagine delle immagini",
+            "lowLabel": "Basso"
+        },
+        "displayName": "Qualità della fotocamera %{value}%",
+        "testLabel": "Prova fotocamera",
+        "testImage": {"accessibleImageDisplayName": "testare la qualità dell'immagine della fotocamera"},
+        "shortDescription": "Selezionare la qualità dell'immagine delle foto scattate con la fotocamera."
+    },
+    "title": "Impostazioni",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Conferma di cancellazione",
+        "message": "Sei sicuro di voler eliminare tutti i libri installati?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "Ciò può essere utile durante la migrazione a un nuovo dispositivo o l'aggiunta dei tuoi libri a più dispositivi.",
+        "button": {
+            "label": "Esportare",
+            "title": "esportare tutti i libri",
+            "ariaLabel": "esportare tutti i libri"
+        },
+        "displayName": "Esporta tutti i libri",
+        "shortDescription": {
+            "disabled": "Esporta tutti i tuoi libri in un singolo file e salvalo/condividi, ma al momento non hai nessun libro installato.",
+            "enabled": "Esporta tutti i tuoi libri in un unico file e salvalo/condividilo."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "eliminazione non riuscita",
+        "success": {
+            "other": "%{count} libri eliminati",
+            "one": "eliminato 1 libro"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "Lettore di intelligenza artificiale",
+        "testLabel": "Prova la voce",
+        "testAriaLabel": {
+            "stopped": "prova la voce \"AI Reader\".",
+            "playing": "interrompere il test vocale \"AI Reader\"."
+        },
+        "testPhrase": "Ciao, mi piacerebbe leggere con te le tue storie preferite.",
+        "description": "Se abilitato, \"AI Reader\" sarà disponibile come lettore durante la riproduzione di libri.",
+        "ariaLabel": {
+            "expanded": "comprimere la sezione di selezione \"AI Reader\".",
+            "collapsed": "espandere la sezione di selezione \"AI Reader\".",
+            "disabled": "\"Lettore AI\" è disabilitato",
+            "enabled": "\"Lettore AI\" è abilitato"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "Ciò denota il tono della voce utilizzata quando il lettore \"AI Reader\" legge i libri.",
+        "slider": {
+            "highLabel": "Alto",
+            "ariaLabel": "tono vocale di \"AI Reader\"",
+            "lowLabel": "Basso"
+        },
+        "displayName": "Tono della voce %{value}%",
+        "shortDescription": "Selezionare il tono della voce che verrà utilizzato da \"AI Reader\"."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Questa qualità audio verrà utilizzata durante la registrazione con il microfono del dispositivo.",
+        "displayName": "Qualità del microfono",
+        "testLabel": "Prova il microfono",
+        "options": {
+            "high": {
+                "label": "Alto",
+                "ariaLabel": "utilizzare un'alta qualità audio"
+            },
+            "low": {
+                "label": "Basso",
+                "ariaLabel": "utilizzare una qualità audio bassa"
+            }
+        },
+        "shortDescription": "Seleziona la qualità audio delle registrazioni effettuate con il microfono.",
+        "ariaLabel": "selezionare la qualità audio delle registrazioni effettuate con il microfono",
+        "testAudioSelector": {"accessibleAudioDisplayName": "testare la qualità del microfono"}
+    },
+    "subtitle": "Aggiorna le impostazioni dell'applicazione qui.",
+    "themeSelection": {
+        "longDescription": "Se un tema è selezionato qui, sovrascriverà qualsiasi impostazione del tema del dispositivo che potresti avere.",
+        "displayName": "Selezione del tema",
+        "options": {
+            "default": {
+                "label": "Sistema",
+                "ariaLabel": "utilizzare il tema definito dal sistema"
+            },
+            "light": {
+                "label": "Leggero",
+                "ariaLabel": "utilizzare il tema chiaro"
+            },
+            "dark": {
+                "label": "Buio",
+                "ariaLabel": "usa il tema scuro"
+            }
+        },
+        "shortDescription": "Seleziona il tema che deve essere utilizzato dall'applicazione.",
+        "ariaLabel": "selezionare il tema che deve essere utilizzato dall'applicazione"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "Ciò indica la velocità della voce utilizzata quando il lettore \"AI Reader\" legge i libri.",
+        "slider": {
+            "highLabel": "Veloce",
+            "ariaLabel": "velocità del parlato di \"AI Reader\"",
+            "lowLabel": "Lento"
+        },
+        "displayName": "Velocità di parola %{value}%",
+        "shortDescription": "Selezionare la velocità della voce che verrà utilizzata da \"AI Reader\"."
+    },
+    "parentalLocking": {
+        "longDescription": "Se abilitati, sono necessari i dati biometrici del proprietario del dispositivo per sbloccare funzionalità avanzate nell'applicazione.",
+        "displayName": "Blocco parentale",
+        "shortDescription": "Il blocco parentale può essere utile quando i bambini utilizzano l'applicazione.",
+        "ariaLabel": {
+            "disabled": "il blocco parentale è disabilitato",
+            "enabled": "il blocco parentale è abilitato"
+        }
+    }
+}

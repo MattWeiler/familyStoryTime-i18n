@@ -1,0 +1,17 @@
+{
+    "summary": "Boeken uit het publieke domein vindt u in onze boekwinkel.",
+    "downloadingBook": {
+        "messages": {
+            "1": "U kunt kiezen welke van de beschikbare boeken u wilt downloaden.",
+            "2": "Als u dit doet, worden de boeken op uw apparaat geïnstalleerd, zodat u ze kunt afspelen en zelfs uw eigen lezers kunt toevoegen."
+        },
+        "title": "Boeken installeren"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Vanuit onze boekwinkel kunt u ook bekijken welke boeken u al heeft geïnstalleerd.",
+            "2": "Vanaf hier kunt u eerder geïnstalleerde boeken verwijderen of controleren op beschikbare updates."
+        },
+        "title": "Boeken beheren"
+    }
+}

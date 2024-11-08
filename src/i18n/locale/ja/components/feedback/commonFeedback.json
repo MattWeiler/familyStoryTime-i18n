@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "名前",
+        "placeholder": "ジョン・ドゥ",
+        "ariaLabel": "オプションであなたの名前"
+    },
+    "emailInput": {
+        "description": "私たちからの返信をご希望の場合はご記入ください。",
+        "label": "電子メールアドレス",
+        "placeholder": "誰か@gmail.com",
+        "ariaLabel": "オプションで、あなたの電子メールアドレス"
+    }
+}

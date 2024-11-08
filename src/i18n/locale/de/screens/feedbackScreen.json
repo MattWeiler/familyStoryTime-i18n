@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "App-Feedback",
+            "ariaLabel": "Feedback zu unserer Bewerbung geben"
+        },
+        "description": "Wir würden gerne hören, was Sie zu sagen haben."
+    },
+    "title": "Hinterlasse Kommentar",
+    "bugFeedback": {
+        "tab": {
+            "title": "Fehler melden",
+            "ariaLabel": "Melden Sie einen Fehler, den Sie in unserer Anwendung gefunden haben"
+        },
+        "description": "Es tut uns leid, dass Sie einen Fehler gefunden haben, aber wir werden unser Bestes tun, um ihn zu beheben :)"
+    }
+}

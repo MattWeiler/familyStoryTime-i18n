@@ -1,0 +1,96 @@
+{
+    "summary": "Du kan digitalisere din families yndlingsbøger og inkludere så mange læsere, som er villige til at optage sig selv.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "Åbning af \"Bogbyggeren\"",
+            "ariaLabel": {
+                "expanded": "skjule åbningen af \u200b\u200bbogbyggersektionen",
+                "collapsed": "åbn åbningen af \u200b\u200bbogbyggersektionen"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Fra enhver side kan du få adgang til \"Bogbyggeren\" via hamburgermenuen øverst til venstre på skærmen.",
+                    "2": "Derfra skal du trykke på \"Bogbygger\"."
+                },
+                "title": "Hamburger menu"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "Fra siden \"Læsehjørnet\" kan du få adgang til \"Bogbyggeren\" ved at trykke på knappen (+) nederst til højre på skærmen.",
+                    "2": "Derfra skal du trykke på \"opret en bog\"."
+                },
+                "title": "Handlingsknap"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "Brug af \"Book Builder\"",
+            "ariaLabel": {
+                "expanded": "skjule sektionen ved hjælp af bogbygger",
+                "collapsed": "åbne sektionen ved at bruge bogbyggeren"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "En bog skal indeholde mindst 1 side, men har ingen øvre grænse.",
+                    "2": "Når du tager eller uploader et billede, der skal bruges til en side, vil AI blive brugt til at udtrække teksten fra billedet. "
+                },
+                "title": "Bogsider"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "I \"Bogbyggeren\" vil du kunne angive flere attributter relateret til bogen.",
+                    "2": "Bogens titel, flere billeder, kildeoplysninger, forsinkelser, læsere og sider kan alle angives her."
+                },
+                "title": "Bogbygger"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Når alle felterne i en bog er udfyldt, skal bogen gemmes på enheden.",
+                    "2": "Ved lagring vil bogdataene blive kontrolleret for at sikre, at det hele er gyldigt; "
+                },
+                "title": "Gem en bog"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Billeder kan enten tages med enhedens kamera, eller de kan indlæses fra dit galleri.",
+                    "2": "Når et billede er blevet valgt, kan det redigeres for at sikre, at det ser bedst muligt ud.",
+                    "3": "Ved at trykke på et eksisterende billede vises billedknapperne."
+                },
+                "title": "Bogbilleder"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Forsinkelser kan defineres, som vil påvirke afspilningen af \u200b\u200bbogen.",
+                    "2": "Disse forsinkelser kan sikre, at lydafspilningen ikke lyder for brat."
+                },
+                "title": "Book forsinkelser"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Når en bog afspilles automatisk, kan en bestemt lyd afspilles, når en side er færdig, og den næste side er klar til at begynde.",
+                    "2": "Et sæt foruddefinerede lyde kan vælges, eller en brugerdefineret lyd kan uploades eller optages."
+                },
+                "title": "Sideskift lyd"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "En bog kan indeholde et vilkårligt antal læsere.",
+                    "2": "Hver læser vil optage sig selv, når de læser hver side i bogen og vil således være tilgængelig for at læse bogen under afspilning af bogen."
+                },
+                "title": "Boglæsere"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "Der kan gives kildeoplysninger om bogen.",
+                    "2": "Selvom denne kildeinformation er valgfri, kan den hjælpe med at holde styr på dine yndlingshistorier."
+                },
+                "title": "Bogkildeoplysninger"
+            }
+        }
+    }
+}

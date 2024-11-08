@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "インポートはすでに実行中です。後でもう一度お試しください",
+        "download": {"failed": "「%{bookName}」をダウンロードできませんでした。"},
+        "install": {
+            "failed": "「%{bookName}」のインポートに失敗しました",
+            "successful": "「%{bookName}」が正常にインポートされました"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "キャンセル",
+            "ariaLabel": "インポートをキャンセルする"
+        },
+        "install": {
+            "textLabel": "インストール",
+            "ariaLabel": "選択した書籍をインストールします: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "...を分析しています",
+        "downloading": "ダウンロード中 ...",
+        "installing": "インストール中...",
+        "cancelling": "キャンセルしています..."
+    },
+    "nothingToInstall": "インポートするものがありません:(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "このリーダーは、すでにインストールされているブックの一部です。\n\n"},
+            "checkbox": {"ariaLabel": "インポートにリーダー %{readerDisplayName} を含めるには"}
+        },
+        "checkbox": {"ariaLabel": "%{bookName} の本をインポートに含めるには"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "この本はすでにデバイス上にあります。\n\n"},
+                "full": {
+                    "withReaders": {"label": "上書きを選択すると、現在のブックが新しいブックに置き換えられます。\n\n"},
+                    "noReaders": {"label": "この本はすでにデバイス上にあります。\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "このファイルには音声のみが含まれており、書籍はお使いのデバイスにインストールされていません。\n\n"},
+                "full": {
+                    "withReaders": {"label": "この本はお使いのデバイス上にありません。\n\n"},
+                    "noReaders": {"label": "この本はお使いのデバイス上にありません。\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "マージ",
+                    "ariaLabel": "新しいリーダーを追加し、既存のリーダーを新しいリーダーで上書きすることにより、ブック %{bookName} を結合します"
+                },
+                "overwrite": {
+                    "label": "上書きする",
+                    "ariaLabel": "既存の書籍 %{bookName} を上書きします"
+                }
+            },
+            "ariaLabel": "書籍 %{bookName} に使用するインポート戦略を選択してください"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "インポートをキャンセルしないでください"},
+            "yes": {"ariaLabel": "インポートをキャンセルする"}
+        },
+        "title": "インポートのキャンセルを確認",
+        "message": "インポートをキャンセルしてもよろしいですか?"
+    }},
+    "titles": {
+        "booksToInstall": "インストールする書籍",
+        "failedToInstall": "書籍のインストールに失敗しました"
+    }
+}

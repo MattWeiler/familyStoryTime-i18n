@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Geben Sie uns Feedback"},
+        "intro": {"displayName": "Einführung"},
+        "createBooks": {"displayName": "Bücher erstellen"},
+        "parentalLocking": {"displayName": "Kindersicherung"},
+        "sharingBooks": {"displayName": "Bücher teilen"},
+        "bookPlayback": {"displayName": "Bücher spielen"},
+        "bookStore": {"displayName": "Der Buchladen"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "Sehen Sie sich die Seite %{pageName} an"},
+        "backPageButton": {"ariaLabel": "gehe 1 Seite zurück"},
+        "forwardPageButton": {"ariaLabel": "gehe 1 Seite weiter"}
+    },
+    "startLink": {
+        "label": "Legen Sie los",
+        "ariaLabel": "Gehen Sie zur Startseite"
+    }
+}

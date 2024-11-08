@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "Hiermee worden alle boeken verwijderd die op dit apparaat zijn geïnstalleerd.\n\n",
+        "button": {
+            "label": "Verwijderen",
+            "title": "verwijder alle boeken",
+            "ariaLabel": "verwijder alle boeken"
+        },
+        "displayName": "Verwijder alle boeken",
+        "processingMessage": "verwijderen...",
+        "shortDescription": {
+            "disabled": "Verwijder al uw boeken, maar er zijn momenteel geen boeken geïnstalleerd.",
+            "enabled": "Verwijder al uw boeken."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} ",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "Koelers",
+                "someFontsBy": "Lettertypen door:"
+            },
+            "label": "Speciale dank",
+            "icons": {
+                "ionicIcons": "IonIconen",
+                "someIconsBy": "Iconen door:",
+                "icons8": "Pictogrammen8",
+                "iconArchive": "Icoonarchief"
+            }
+        },
+        "version": "Versie: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Deze afbeeldingseditor wordt gebruikt wanneer er nieuwe boekafbeeldingen worden gemaakt of een bestaande boekafbeelding wordt bewerkt.",
+        "displayName": "Afbeeldingseditor",
+        "testLabel": "Afbeeldingseditor testen",
+        "testImage": {"accessibleImageDisplayName": "afbeelding van de afbeeldingseditor testen"},
+        "options": {
+            "advanced": {
+                "label": "Geavanceerd",
+                "ariaLabel": "gebruik de geavanceerde afbeeldingseditor"
+            },
+            "simple": {
+                "label": "Eenvoudig",
+                "ariaLabel": "gebruik een eenvoudige afbeeldingseditor"
+            }
+        },
+        "shortDescription": "Selecteer welke afbeeldingseditor moet worden gebruikt.",
+        "ariaLabel": "selecteer welke afbeeldingseditor moet worden gebruikt"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Deze stem wordt gebruikt wanneer de \"AI Reader\"-lezer boeken leest.",
+        "displayName": "Voorkeursstem",
+        "selectorButton": {
+            "defaultLabel": "standaard",
+            "ariaLabel": "selecteer een \"AI Reader\"-stem"
+        },
+        "shortDescription": "Selecteer de stem die door de \"AI Reader\" moet worden gebruikt.",
+        "picker": {
+            "default": "standaard",
+            "networkActionIcon": {"ariaLabel": "toon lokale en netwerkgebaseerde stemmen"},
+            "label": "AI-lezerstemmen",
+            "ariaLabel": "selecteer een \"AI Reader\"-stem",
+            "globalActionIcon": {"ariaLabel": "toon alle talen"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Audio en video",
+        "ariaLabel": {
+            "expanded": "vouw het audio-videoselectiegedeelte samen",
+            "collapsed": "vouw het gedeelte voor audio-videoselectie uit"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Deze beeldkwaliteit wordt gebruikt bij het maken van foto's met de camera('s) van het apparaat.",
+        "slider": {
+            "highLabel": "Hoog",
+            "ariaLabel": "beeldkwaliteit van foto's",
+            "lowLabel": "Laag"
+        },
+        "displayName": "Camerakwaliteit %{value}%",
+        "testLabel": "Testcamera",
+        "testImage": {"accessibleImageDisplayName": "test camerakwaliteit beeld"},
+        "shortDescription": "Selecteer de beeldkwaliteit van foto's die met de camera zijn gemaakt."
+    },
+    "title": "Instellingen",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Bevestiging van verwijdering",
+        "message": "Weet u zeker dat u alle geïnstalleerde boeken wilt verwijderen?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "Dit kan handig zijn als u naar een nieuw apparaat migreert of uw boeken aan meerdere apparaten toevoegt.",
+        "button": {
+            "label": "Exporteren",
+            "title": "exporteer alle boeken",
+            "ariaLabel": "exporteer alle boeken"
+        },
+        "displayName": "Exporteer alle boeken",
+        "shortDescription": {
+            "disabled": "Exporteer al uw boeken naar één bestand en sla het op/deel het, maar er zijn momenteel geen boeken geïnstalleerd.",
+            "enabled": "Exporteer al uw boeken naar één bestand en sla het op/deel het."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "verwijderen is mislukt",
+        "success": {
+            "other": "%{count} boeken verwijderd",
+            "one": "1 boek verwijderd"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "AI-lezer",
+        "testLabel": "Stem testen",
+        "testAriaLabel": {
+            "stopped": "test de stem van \"AI Reader\".",
+            "playing": "stop de stemtest \"AI Reader\"."
+        },
+        "testPhrase": "Hallo, ik zou graag jouw favoriete verhalen met je willen lezen.",
+        "description": "Indien ingeschakeld, zal de \"AI Reader\" beschikbaar zijn als lezer bij het afspelen van boeken.",
+        "ariaLabel": {
+            "expanded": "vouw de selectiesectie \"AI Reader\" samen",
+            "collapsed": "vouw het selectiegedeelte \"AI Reader\" uit",
+            "disabled": "\"AI-lezer\" is uitgeschakeld",
+            "enabled": "\"AI-lezer\" is ingeschakeld"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "Dit geeft de toonhoogte aan van de stem die wordt gebruikt wanneer de \"AI Reader\" -lezer boeken leest.",
+        "slider": {
+            "highLabel": "Hoog",
+            "ariaLabel": "stemhoogte van de \"AI Reader\"",
+            "lowLabel": "Laag"
+        },
+        "displayName": "Stemhoogte %{value}%",
+        "shortDescription": "Selecteer de toonhoogte van de stem die door de \"AI Reader\" moet worden gebruikt."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Deze audiokwaliteit wordt gebruikt bij het opnemen met de microfoon van het apparaat.",
+        "displayName": "Microfoonkwaliteit",
+        "testLabel": "Microfoon testen",
+        "options": {
+            "high": {
+                "label": "Hoog",
+                "ariaLabel": "gebruik een hoge audiokwaliteit"
+            },
+            "low": {
+                "label": "Laag",
+                "ariaLabel": "gebruik een lage audiokwaliteit"
+            }
+        },
+        "shortDescription": "Selecteer de audiokwaliteit van opnamen gemaakt met de microfoon.",
+        "ariaLabel": "selecteer de audiokwaliteit van opnamen die met de microfoon zijn gemaakt",
+        "testAudioSelector": {"accessibleAudioDisplayName": "microfoonkwaliteit testen"}
+    },
+    "subtitle": "Update hier uw applicatie-instellingen.",
+    "themeSelection": {
+        "longDescription": "Als hier een thema wordt geselecteerd, overschrijft dit de thema-instellingen van uw apparaat.",
+        "displayName": "Thema Selectie",
+        "options": {
+            "default": {
+                "label": "Systeem",
+                "ariaLabel": "gebruik het door het systeem gedefinieerde thema"
+            },
+            "light": {
+                "label": "Licht",
+                "ariaLabel": "gebruik het lichtthema"
+            },
+            "dark": {
+                "label": "Donker",
+                "ariaLabel": "gebruik het donkere thema"
+            }
+        },
+        "shortDescription": "Selecteer het thema dat door de applicatie moet worden gebruikt.",
+        "ariaLabel": "selecteer het thema dat door de applicatie moet worden gebruikt"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "Dit geeft de snelheid aan van de stem die wordt gebruikt wanneer de \"AI Reader\" -lezer boeken leest.",
+        "slider": {
+            "highLabel": "Snel",
+            "ariaLabel": "spreeksnelheid van de \"AI Reader\"",
+            "lowLabel": "Langzaam"
+        },
+        "displayName": "Spraaksnelheid %{value}%",
+        "shortDescription": "Selecteer de snelheid van de stem die door de \"AI Reader\" moet worden gebruikt."
+    },
+    "parentalLocking": {
+        "longDescription": "Indien ingeschakeld, zijn biometrische gegevens van de apparaateigenaar vereist om geavanceerde functies in de applicatie te ontgrendelen.",
+        "displayName": "Ouderlijk toezicht",
+        "shortDescription": "Ouderlijk toezicht kan handig zijn als kinderen de applicatie gebruiken.",
+        "ariaLabel": {
+            "disabled": "ouderlijk toezicht is uitgeschakeld",
+            "enabled": "ouderlijk toezicht is ingeschakeld"
+        }
+    }
+}

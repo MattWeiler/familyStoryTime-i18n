@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "最初のページを読む前に再生するオプションの音声。",
+        "label": {
+            "withDisplayName": "%{readerDisplayName} のイントロ音声",
+            "noDisplayName": "イントロオーディオ"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} リーダーの紹介",
+            "noDisplayName": "ID %{readerId} のリーダーの紹介"
+        }
+    },
+    "readerImage": {
+        "description": "このリーダーに表示する画像。",
+        "accessibleImageDisplayName": "リーダー %{readerDisplayName} の画像"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "これにより、このリーダーに対して記録されたすべてのページ音声が削除されます。",
+            "additionalMessage2": "これは取り消しできません!",
+            "title": "削除の確認",
+            "message": {
+                "withDisplayName": "「%{readerDisplayName}」リーダーを削除してもよろしいですか?",
+                "noDisplayName": "このリーダーを削除してもよろしいですか?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "リーダー %{readerDisplayName} を削除します",
+            "noDisplayName": "ID %{readerId} のリーダーを削除します"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "リーダーの表示名",
+                "noDisplayName": "リーダーの表示名"
+            },
+            "title": {
+                "withDisplayName": "表示名の更新",
+                "noDisplayName": "表示名の設定"
+            },
+            "message": {
+                "withDisplayName": "この読者の表示名を何に変更しますか?",
+                "noDisplayName": "このリーダーの表示名は何ですか?"
+            },
+            "inputPlaceholder": "読者名"
+        },
+        "ariaLabel": {
+            "withDisplayName": "リーダー %{readerDisplayName} の表示名を変更します",
+            "noDisplayName": "ID %{readerId} のリーダーの表示名を変更します"
+        }
+    }
+}

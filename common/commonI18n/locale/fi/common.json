@@ -1,0 +1,25 @@
+{
+    "add": "Lisätä",
+    "cancel": "Peruuttaa",
+    "no": "Ei",
+    "verifying": "tarkistetaan...",
+    "set": "Sarja",
+    "yes": "Kyllä",
+    "back": "Takaisin",
+    "loading": "ladataan...",
+    "required": "vaaditaan",
+    "acknowledgeError": "kuittaa virhe",
+    "saving": "säästää...",
+    "settingsButton": {
+        "text": "Asetukset",
+        "ariaLabel": "mene sovellusten asetussivulle"
+    },
+    "backButton": {
+        "label": "Takaisin",
+        "title": "palaa viimeiselle sivulle",
+        "ariaLabel": "palaa viimeiselle sivulle"
+    },
+    "sending": "lähetetään...",
+    "create": "Luoda",
+    "ok": "Ok"
+}

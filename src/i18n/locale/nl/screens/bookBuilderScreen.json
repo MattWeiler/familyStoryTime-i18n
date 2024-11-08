@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "opgeslagen boek \"%{bookTitle}\"",
+        "validationFailed": "validatie is mislukt",
+        "bookSaveFailed": "het opslaan van het boek is mislukt"
+    },
+    "bookTitleInput": {
+        "description": "De titel van het boek.",
+        "label": "Titel van boek",
+        "placeholder": "titel van boek",
+        "ariaLabel": "titel van het boek"
+    },
+    "readers": {
+        "label": "Lezers",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "weergavenaam voor deze nieuwe lezer",
+                "buttons": {
+                    "cancel": {"ariaLabel": "annuleer het toevoegen van de nieuwe lezer"},
+                    "add": {"ariaLabel": "voeg de nieuwe lezer toe"}
+                },
+                "description": "Geef de weergavenaam op voor deze nieuwe lezer.",
+                "title": "Nieuwe lezer toevoegen",
+                "inputPlaceholder": "naam van lezer"
+            },
+            "ariaLabel": "nieuwe lezer toevoegen"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Het aantal milliseconden dat moet worden gewacht voordat de paginawijzigingsaudio wordt afgespeeld.",
+            "label": "Audio vóór paginawijziging",
+            "placeholder": "milliseconden voordat de paginawijzigingsaudio wordt afgespeeld",
+            "ariaLabel": "milliseconden om te wachten voordat audio voor paginawijziging wordt afgespeeld"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Het aantal milliseconden dat moet worden gewacht na het afspelen van paginawijzigingsaudio.",
+            "label": "Audio na paginawijziging",
+            "placeholder": "milliseconden na het afspelen van paginawijzigingsaudio",
+            "ariaLabel": "milliseconden om te wachten na het afspelen van paginawijzigingsaudio"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Het aantal milliseconden dat moet worden gewacht voordat pagina-audio wordt afgespeeld.",
+            "label": "Vóór pagina-audio",
+            "placeholder": "milliseconden voordat pagina-audio wordt afgespeeld",
+            "ariaLabel": "milliseconden om te wachten voordat pagina-audio wordt afgespeeld"
+        },
+        "label": "Vertragingen"
+    },
+    "bookIconImageSelector": {
+        "description": "De afbeelding die moet worden gebruikt als pictogram voor het boek.",
+        "label": "Boekpictogram",
+        "accessibleImageDisplayName": "boek icoon"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "De afbeelding die wordt weergegeven wanneer u het boek voor het eerst opent.",
+        "label": "Boek Splash-afbeelding",
+        "accessibleImageDisplayName": "boek plons"
+    },
+    "confirmations": {"goBack": {
+        "title": "Wijzigingen achterlaten",
+        "message": "Weet u zeker dat u wilt vertrekken voordat u opslaat?"
+    }},
+    "pageChangeAudio": {
+        "description": "De audio die wordt afgespeeld wanneer het tijd is om de pagina te wijzigen.",
+        "label": "Audio van paginawijziging",
+        "presetAudioModalPicker": {
+            "headerLabel": "Selecteer Paginawijzigingsaudio",
+            "ariaLabel": "selecteer uit de lijst met vooraf ingestelde audio-opties voor het wijzigen van pagina's",
+            "accessibleAudioDisplayName": "pagina wijzigen"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Kan het boek niet laden.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "vertraging kan niet negatief zijn",
+            "bookTitleMissing": "boektitel is vereist",
+            "readerDisplayNameMissing": "Weergavenaam van lezer is vereist",
+            "bookIconNotValid": "boekpictogram is vereist",
+            "pageTextMissing": "paginatekst is vereist",
+            "delayBeforePlayingPageAudioNegative": "vertraging kan niet negatief zijn",
+            "pagesMissing": "Er is minimaal 1 pagina vereist",
+            "pageImageNotValid": "pagina-afbeelding is vereist",
+            "delayBeforePlayingPageChangeAudioNegative": "vertraging kan niet negatief zijn",
+            "bookSplashImageNotValid": "boek splash-afbeelding is vereist",
+            "readerIntroAudioNotValid": "reader intro audio is geen geldig bestand",
+            "pageAudioNotValid": "pagina-audio is vereist",
+            "pageChangeAudioNotValid": "Audio voor paginawijziging is vereist",
+            "delayAfterPlayingPageChangeAudioNotInteger": "vertraging moet een geheel getal zijn",
+            "delayBeforePlayingPageAudioNotInteger": "vertraging moet een geheel getal zijn",
+            "delayBeforePlayingPageChangeAudioNotInteger": "vertraging moet een geheel getal zijn",
+            "delayBeforePlayingPageAudioRequired": "vertraging is vereist",
+            "readerImageNotValid": "Er is een lezerafbeelding vereist",
+            "delayBeforePlayingPageChangeAudioRequired": "vertraging is vereist",
+            "delayAfterPlayingPageChangeAudioRequired": "vertraging is vereist"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "De bron-URL van het boek.",
+            "label": "Bron-URL",
+            "placeholder": "bron-URL",
+            "ariaLabel": "bron-URL van het boek"
+        },
+        "authorInput": {
+            "description": "De naam van de auteur van het boek.",
+            "label": "Auteur Naam",
+            "placeholder": "auteur van boek",
+            "ariaLabel": "naam van de auteur van het boek"
+        },
+        "illustratorInput": {
+            "description": "De naam van de illustrator van het boek.",
+            "label": "Naam illustrator",
+            "placeholder": "illustrator van boek",
+            "ariaLabel": "naam van de illustrator van het boek"
+        },
+        "publisherInput": {
+            "description": "De naam van de uitgever van het boek.",
+            "label": "Uitgeversnaam",
+            "placeholder": "uitgever van boek",
+            "ariaLabel": "naam van de uitgever van het boek"
+        },
+        "label": "Bron",
+        "isbnInput": {
+            "description": "Het internationale standaardboeknummer van het boek.",
+            "label": "ISBN-nummer",
+            "placeholder": "ISBN van boek",
+            "ariaLabel": "internationaal standaardboeknummer van het boek"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "nieuwe pagina toevoegen"},
+        "label": "Pagina's"
+    }
+}

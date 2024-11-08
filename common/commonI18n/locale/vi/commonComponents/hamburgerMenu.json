@@ -1,0 +1,8 @@
+{
+    "applicationSecurityButton": {"ariaLabel": {
+        "unlockParentMode": "mở khóa ứng dụng để phụ huynh sử dụng",
+        "initParentMode": "bật tính năng khóa của phụ huynh",
+        "lockParentMode": "bật khóa cha mẹ"
+    }},
+    "hamburgerButton": {"ariaLabel": "hiển thị thực đơn hamburger"}
+}

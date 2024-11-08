@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "エクスポートはすでに実行中です。後でもう一度お試しください"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "キャンセル",
+            "ariaLabel": "エクスポートをキャンセルする"
+        },
+        "export": {
+            "textLabel": "輸出",
+            "ariaLabel": "選択した書籍をエクスポートする"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "%{count} 冊の本を保存します",
+        "one": "本を保存: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "...を分析しています",
+        "packaging": "梱包...",
+        "cancelling": "キャンセルしています..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "読者",
+                    "ariaLabel": "書籍 %{bookTitle} の読者情報のみをエクスポートします"
+                },
+                "full": {
+                    "label": "満杯",
+                    "ariaLabel": "本全体 %{bookTitle} をエクスポートします"
+                }
+            },
+            "ariaLabel": "本 %{bookTitle} をエクスポートする方法を選択してください"
+        },
+        "readers": {"checkbox": {"ariaLabel": "リーダー %{readerDisplayName} をエクスポートに含めるには"}},
+        "checkbox": {"ariaLabel": "ブック %{bookTitle} をエクスポートに含めるには"},
+        "bookReadersTooltip": {"label": "「リーダー」オプションを選択すると、選択したリーダーのみがエクスポートされます。\n\n"}
+    },
+    "packagedMultiBookFileName": "本",
+    "nothingToExport": "エクスポートするものがありません:(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "エクスポートをキャンセルしないでください"},
+            "yes": {"ariaLabel": "エクスポートをキャンセルする"}
+        },
+        "title": "エクスポートのキャンセルを確認",
+        "message": "エクスポートをキャンセルしてもよろしいですか?"
+    }},
+    "titles": {
+        "booksToExport": "輸出する書籍",
+        "failedToExport": "書籍のエクスポートに失敗しました"
+    },
+    "outputFilenameField": {
+        "label": "出力ファイル名",
+        "ariaLabel": "予想される出力ファイル名"
+    },
+    "errors": {"invalidOutputFilename": "無効なファイル名"}
+}

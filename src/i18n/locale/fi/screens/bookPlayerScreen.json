@@ -1,0 +1,4 @@
+{
+    "aiReader": {"displayName": "AI-lukija"},
+    "errors": {"bookLoadFailure": "Kirjaa ei voi ladata."}
+}

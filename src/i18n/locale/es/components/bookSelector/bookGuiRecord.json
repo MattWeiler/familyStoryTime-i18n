@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Seleccionar",
+                "ariaLabel": "seleccione el libro %{bookTitle}"
+            },
+            "edit": {
+                "title": "Editar",
+                "ariaLabel": "editar el libro %{bookTitle}"
+            },
+            "delete": {
+                "title": "Borrar",
+                "ariaLabel": "eliminar el libro %{bookTitle}"
+            },
+            "export": {
+                "title": "Exportar",
+                "ariaLabel": "exportar el libro %{bookTitle}"
+            }
+        },
+        "ariaLabel": "abra el menú contextual del libro %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} páginas",
+            "one": "%{count} página"
+        },
+        "ariaLabel": {
+            "other": "%{count} páginas",
+            "one": "%{count} página"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "seleccione el libro %{bookTitle}",
+        "selected": "deseleccionar el libro %{bookTitle}"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} lectores",
+            "one": "%{count} lector"
+        },
+        "ariaLabel": {
+            "other": "el libro %{bookTitle} tiene %{count} lectores",
+            "one": "el libro %{bookTitle} tiene %{count} lector"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "lee la historia: %{bookTitle}",
+        "selectionMode": "%{bookTitle} libro"
+    }
+}

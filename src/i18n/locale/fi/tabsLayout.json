@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Lukunurkkaus",
+        "ariaLabel": "lue kirjojasi täältä"
+    },
+    "bookStore": {
+        "text": "Kirjakauppa",
+        "ariaLabel": "vierailla kirjakaupassa"
+    }
+}

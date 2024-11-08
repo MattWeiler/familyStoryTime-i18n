@@ -1,0 +1,43 @@
+{"hamburgerMenu": {
+    "applicationTitle": "Familiengeschichtenzeit",
+    "links": {
+        "feedback": {
+            "text": "Rückmeldung",
+            "ariaLabel": "Gehen Sie zum Feedback-Bildschirm"
+        },
+        "settings": {
+            "text": "Einstellungen",
+            "ariaLabel": "Gehen Sie zum Einstellungsbildschirm"
+        },
+        "bookSelector": {
+            "text": "Leseecke",
+            "ariaLabel": "Gehen Sie zum Lese-Eckbildschirm"
+        },
+        "bookBuilder": {
+            "text": "Buchersteller",
+            "ariaLabel": "Gehen Sie zum Book Builder-Bildschirm"
+        },
+        "about": {
+            "text": "Über uns",
+            "ariaLabel": "Gehen Sie zum Bildschirm \u201eÜber uns\u201c."
+        },
+        "developerStatus": {
+            "hidden": {
+                "text": "Entwicklerstatus anzeigen",
+                "ariaLabel": "Zeigt den Entwicklerstatus an"
+            },
+            "showing": {
+                "text": "Entwicklerstatus ausblenden",
+                "ariaLabel": "Den Entwicklerstatus ausblenden"
+            }
+        },
+        "tutorial": {
+            "text": "Anleitung",
+            "ariaLabel": "Sehen Sie sich das Tutorial an"
+        },
+        "bookStore": {
+            "text": "Buchladen",
+            "ariaLabel": "Gehen Sie zum Buchladen-Bildschirm"
+        }
+    }
+}}

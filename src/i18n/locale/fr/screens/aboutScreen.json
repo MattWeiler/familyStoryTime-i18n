@@ -1,0 +1,33 @@
+{
+    "intro": "J'ai créé cette application pour aider les enfants dans leur parcours de lecture, mais aussi pour pouvoir se faire lire des histoires par des proches qui ne peuvent être là.",
+    "title": "L\u2019heure du conte en famille",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Faites lire vos histoires par votre conteur préféré, même s'il ne peut pas être là.",
+            "title": "Voix familières"
+        },
+        "paragraph_3": {
+            "content_1": "Les livres peuvent être lus automatiquement pendant que vous lisez.",
+            "title": "Pratiquer la lecture"
+        },
+        "paragraph_2": {
+            "content_1": "Numérisez vos livres préférés pour qu\u2019ils durent des années.",
+            "title": "Gardez vos favoris"
+        },
+        "paragraph_1": {
+            "content_2": "Conservez tous vos livres préférés au même endroit pour un accès facile à la maison ou en déplacement.",
+            "content_1": "Profitez de la lecture en famille.",
+            "title": "Bonne lecture"
+        },
+        "paragraph_6": {
+            "content_2": "Lorsqu'il est activé, le propriétaire de l'appareil doit déverrouiller l'application à l'aide de ses données biométriques (en fonction de l'appareil) pour accéder aux aspects sensibles de l'application.",
+            "content_1": "L'application dispose d'une fonction de verrouillage parental.",
+            "title": "Verrouillage parental"
+        },
+        "paragraph_5": {
+            "content_2": "Les histoires peuvent être exportées individuellement ou toutes en même temps.",
+            "content_1": "Créez vos propres histoires et partagez-les avec vos amis et votre famille.",
+            "title": "Partager"
+        }
+    }
+}

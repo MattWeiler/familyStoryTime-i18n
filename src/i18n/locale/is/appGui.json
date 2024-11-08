@@ -1,0 +1,43 @@
+{"hamburgerMenu": {
+    "applicationTitle": "Sögustund fjölskyldunnar",
+    "links": {
+        "feedback": {
+            "text": "Endurgjöf",
+            "ariaLabel": "farðu á endurgjöfarskjáinn"
+        },
+        "settings": {
+            "text": "Stillingar",
+            "ariaLabel": "farðu á stillingaskjáinn"
+        },
+        "bookSelector": {
+            "text": "Lestrarhorn",
+            "ariaLabel": "farðu á leshornsskjáinn"
+        },
+        "bookBuilder": {
+            "text": "Bókasmiður",
+            "ariaLabel": "farðu á bókasmíðaskjáinn"
+        },
+        "about": {
+            "text": "Um okkur",
+            "ariaLabel": "farðu á um okkur skjáinn"
+        },
+        "developerStatus": {
+            "hidden": {
+                "text": "Sýna stöðu þróunaraðila",
+                "ariaLabel": "sýna þróunarstöðu"
+            },
+            "showing": {
+                "text": "Fela stöðu þróunaraðila",
+                "ariaLabel": "fela stöðu þróunaraðila"
+            }
+        },
+        "tutorial": {
+            "text": "Kennsla",
+            "ariaLabel": "skoða kennsluna"
+        },
+        "bookStore": {
+            "text": "Bókabúð",
+            "ariaLabel": "farðu á skjá bókabúðarinnar"
+        }
+    }
+}}

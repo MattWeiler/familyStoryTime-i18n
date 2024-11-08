@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "Phản hồi về ứng dụng",
+            "ariaLabel": "cung cấp phản hồi về ứng dụng của chúng tôi"
+        },
+        "description": "Chúng tôi rất muốn nghe những gì bạn nói."
+    },
+    "title": "Để lại phản hồi",
+    "bugFeedback": {
+        "tab": {
+            "title": "Báo cáo lỗi",
+            "ariaLabel": "báo cáo lỗi mà bạn tìm thấy trong ứng dụng của chúng tôi"
+        },
+        "description": "Chúng tôi rất tiếc khi biết rằng bạn đã phát hiện ra lỗi nhưng chúng tôi sẽ cố gắng hết sức để khắc phục nó :)"
+    }
+}

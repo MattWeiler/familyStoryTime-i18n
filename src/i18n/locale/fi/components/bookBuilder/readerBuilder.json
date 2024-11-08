@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Valinnainen ääni, joka toistetaan ennen ensimmäisen sivun lukemista.",
+        "label": {
+            "withDisplayName": "Käyttäjän %{readerDisplayName} esittelyääni",
+            "noDisplayName": "Intro Audio"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} lukijan esittely",
+            "noDisplayName": "lukija, jonka tunnus on %{readerId} intro"
+        }
+    },
+    "readerImage": {
+        "description": "Tälle lukijalle näytettävä kuva.",
+        "accessibleImageDisplayName": "lukijan %{readerDisplayName} kuva"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Tämä poistaa kaiken tälle lukijalle tallennetun sivun äänen.",
+            "additionalMessage2": "TÄTÄ EI VOI PERUUTA!",
+            "title": "Poiston vahvistus",
+            "message": {
+                "withDisplayName": "Haluatko varmasti poistaa \"%{readerDisplayName}\" -lukijan?",
+                "noDisplayName": "Haluatko varmasti poistaa tämän lukijan?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "poista lukija %{readerDisplayName}",
+            "noDisplayName": "poista lukija tunnuksella %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "lukijan näyttönimi",
+                "noDisplayName": "lukijan näyttönimi"
+            },
+            "title": {
+                "withDisplayName": "Päivitä näyttönimi",
+                "noDisplayName": "Aseta näyttönimi"
+            },
+            "message": {
+                "withDisplayName": "Mihin haluaisit muuttaa tämän lukijoiden näyttönimen?",
+                "noDisplayName": "Mikä on tämän lukijan näyttönimi?"
+            },
+            "inputPlaceholder": "lukijan nimi"
+        },
+        "ariaLabel": {
+            "withDisplayName": "muuta näyttönimi lukijalle %{readerDisplayName}",
+            "noDisplayName": "muuta näyttönimeä lukijalle, jonka tunnus on %{readerId}"
+        }
+    }
+}

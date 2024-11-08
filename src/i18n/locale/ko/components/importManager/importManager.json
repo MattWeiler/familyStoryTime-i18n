@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "가져오기가 이미 실행 중입니다. 나중에 다시 시도하세요.",
+        "download": {"failed": "\"%{bookName}\"을(를) 다운로드하지 못했습니다."},
+        "install": {
+            "failed": "\"%{bookName}\"을(를) 가져오지 못했습니다.",
+            "successful": "\"%{bookName}\"을(를) 성공적으로 가져왔습니다."
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "취소",
+            "ariaLabel": "가져오기 취소"
+        },
+        "install": {
+            "textLabel": "설치하다",
+            "ariaLabel": "선택한 도서 설치: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "분석하다 ...",
+        "downloading": "다운로드 중 ...",
+        "installing": "설치 중 ...",
+        "cancelling": "취소 중 ..."
+    },
+    "nothingToInstall": "가져올 것이 없습니다 :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "이 리더는 이미 설치된 책의 일부입니다.\n\n"},
+            "checkbox": {"ariaLabel": "가져오기에 %{readerDisplayName} 리더를 포함하려면"}
+        },
+        "checkbox": {"ariaLabel": "가져오기에 %{bookName} 도서를 포함하려면"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "이 책은 이미 귀하의 기기에 있습니다.\n\n"},
+                "full": {
+                    "withReaders": {"label": "덮어쓰기를 선택하면 현재 책이 새 책으로 교체됩니다.\n\n"},
+                    "noReaders": {"label": "이 책은 이미 귀하의 기기에 있습니다.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "이 파일에는 오디오만 포함되어 있으며 책이 기기에 설치되어 있지 않습니다.\n\n"},
+                "full": {
+                    "withReaders": {"label": "이 책이 귀하의 기기에 없습니다.\n\n"},
+                    "noReaders": {"label": "이 책이 귀하의 기기에 없습니다.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "병합",
+                    "ariaLabel": "새 독자를 추가하고 기존 독자를 새 독자로 덮어써 %{bookName} 책을 병합합니다."
+                },
+                "overwrite": {
+                    "label": "덮어쓰기",
+                    "ariaLabel": "기존 도서 %{bookName} 덮어쓰기"
+                }
+            },
+            "ariaLabel": "%{bookName} 책에 사용할 가져오기 전략을 선택하세요."
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "가져오기를 취소하지 마세요"},
+            "yes": {"ariaLabel": "가져오기 취소"}
+        },
+        "title": "확인 가져오기 취소",
+        "message": "가져오기를 취소하시겠습니까?"
+    }},
+    "titles": {
+        "booksToInstall": "설치할 책",
+        "failedToInstall": "도서를 설치하지 못했습니다."
+    }
+}

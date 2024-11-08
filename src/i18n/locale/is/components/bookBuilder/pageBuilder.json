@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "síða %{pageNum} mynd"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Skanna síðutexta aftur",
+                "message": "Ertu viss um að þú viljir skanna myndina fyrir texta og skipta út núverandi síðutexta?"
+            },
+            "ariaLabel": "draga texta úr mynd fyrir síðu %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "texti til að bæta við síðu %{pageNum}",
+                    "withPageText": "texti til að uppfæra á síðu %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Stilla síðutexta",
+                    "withPageText": "Uppfærðu texta síðunnar"
+                },
+                "message": {
+                    "noPageText": "Hver er síðutextinn?",
+                    "withPageText": "Hvað viltu breyta síðutextanum í?"
+                },
+                "inputPlaceholder": "texta til að bæta við"
+            },
+            "ariaLabel": "breyttu textanum \"%{pageText}\" af síðunni %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "færðu textann \u201e%{pageText}\u201c af síðu %{pageNum} upp"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Staðfesting á eyðingu",
+                "message": "Ertu viss um að þú viljir eyða þessum síðutexta?"
+            },
+            "ariaLabel": "fjarlægðu textann \u201e%{pageText}\u201c af síðunni %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "texti til að bæta við síðu %{pageNum}",
+                "title": "Stilla síðutexta",
+                "message": "Hver er síðutextinn?",
+                "inputPlaceholder": "texta til að bæta við"
+            },
+            "ariaLabel": "bæta nýjum texta við síðu %{pageNum}"
+        },
+        "label": "Texti",
+        "showHideButton": {"ariaLabel": {
+            "visible": "fela textann \u201e%{pageText}\u201c af síðunni %{pageNum}",
+            "hidden": "sýndu textann \u201e%{pageText}\u201c frá síðu %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "færðu textann \u201e%{pageText}\u201c af síðu %{pageNum} niður"}
+    },
+    "moveUpButton": {"ariaLabel": "færa síðu %{pageNum} upp"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "Hljóðið sem á að spila þegar \u201e%{readerDisplayName}\u201c er að lesa síðu %{pageNum}.",
+                "noDisplayName": "Hljóðið sem á að spila þegar þessi lesandi er að lesa síðu %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "síða %{pageNum} %{readerDisplayName} lesandi"
+        },
+        "label": "Lesendur"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Þetta mun fjarlægja allt hljóð sem tekið er upp fyrir þessa síðu.",
+            "additionalMessage2": "ÞETTA ER EKKI ENDURLAGT!",
+            "title": "Staðfesting á eyðingu",
+            "message": "Ertu viss um að þú viljir eyða síðu %{pageNum}?"
+        },
+        "ariaLabel": "fjarlægja síðu %{pageNum}"
+    },
+    "description": "Myndin sem á að birta á síðu %{pageNum}.",
+    "label": "Síða %{pageNum}",
+    "moveDownButton": {"ariaLabel": "færa síðu %{pageNum} niður"}
+}

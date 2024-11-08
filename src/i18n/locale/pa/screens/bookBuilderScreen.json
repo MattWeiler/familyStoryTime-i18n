@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "ਸੁਰੱਖਿਅਤ ਕੀਤੀ ਕਿਤਾਬ \"%{bookTitle}\"",
+        "validationFailed": "ਪ੍ਰਮਾਣਿਕਤਾ ਅਸਫਲ ਰਹੀ",
+        "bookSaveFailed": "ਕਿਤਾਬ ਨੂੰ ਸੰਭਾਲਣ ਵਿੱਚ ਅਸਫਲ"
+    },
+    "bookTitleInput": {
+        "description": "ਕਿਤਾਬ ਦਾ ਸਿਰਲੇਖ।",
+        "label": "ਕਿਤਾਬ ਦਾ ਸਿਰਲੇਖ",
+        "placeholder": "ਕਿਤਾਬ ਦਾ ਸਿਰਲੇਖ",
+        "ariaLabel": "ਕਿਤਾਬ ਦਾ ਸਿਰਲੇਖ"
+    },
+    "readers": {
+        "label": "ਪਾਠਕ",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "ਇਸ ਨਵੇਂ ਰੀਡਰ ਲਈ ਡਿਸਪਲੇ ਨਾਮ",
+                "buttons": {
+                    "cancel": {"ariaLabel": "ਨਵੇਂ ਪਾਠਕ ਨੂੰ ਸ਼ਾਮਲ ਕਰਨਾ ਰੱਦ ਕਰੋ"},
+                    "add": {"ariaLabel": "ਨਵਾਂ ਪਾਠਕ ਸ਼ਾਮਲ ਕਰੋ"}
+                },
+                "description": "ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਨਵੇਂ ਪਾਠਕ ਲਈ ਡਿਸਪਲੇ ਨਾਮ ਪ੍ਰਦਾਨ ਕਰੋ।",
+                "title": "ਨਵਾਂ ਰੀਡਰ ਸ਼ਾਮਲ ਕਰੋ",
+                "inputPlaceholder": "ਪਾਠਕ ਦਾ ਨਾਮ"
+            },
+            "ariaLabel": "ਨਵਾਂ ਪਾਠਕ ਸ਼ਾਮਲ ਕਰੋ"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "ਪੰਨਾ ਤਬਦੀਲੀ ਆਡੀਓ ਚਲਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਉਡੀਕ ਕਰਨ ਲਈ ਮਿਲੀਸਕਿੰਟ ਦੀ ਸੰਖਿਆ।",
+            "label": "ਪੰਨਾ ਬਦਲਣ ਤੋਂ ਪਹਿਲਾਂ ਆਡੀਓ",
+            "placeholder": "ਪੰਨਾ ਬਦਲਣ ਵਾਲੀ ਆਡੀਓ ਚਲਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਮਿਲੀਸਕਿੰਟ",
+            "ariaLabel": "ਪੰਨਾ ਤਬਦੀਲੀ ਆਡੀਓ ਚਲਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਉਡੀਕ ਕਰਨ ਲਈ ਮਿਲੀਸਕਿੰਟ"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "ਪੰਨਾ ਤਬਦੀਲੀ ਆਡੀਓ ਚਲਾਉਣ ਤੋਂ ਬਾਅਦ ਉਡੀਕ ਕਰਨ ਲਈ ਮਿਲੀਸਕਿੰਟ ਦੀ ਸੰਖਿਆ।",
+            "label": "ਪੰਨਾ ਤਬਦੀਲੀ ਆਡੀਓ ਦੇ ਬਾਅਦ",
+            "placeholder": "ਪੰਨਾ ਬਦਲਣ ਵਾਲੀ ਆਡੀਓ ਚਲਾਉਣ ਤੋਂ ਬਾਅਦ ਮਿਲੀਸਕਿੰਟ",
+            "ariaLabel": "ਪੰਨਾ ਤਬਦੀਲੀ ਆਡੀਓ ਚਲਾਉਣ ਤੋਂ ਬਾਅਦ ਉਡੀਕ ਕਰਨ ਲਈ ਮਿਲੀਸਕਿੰਟ"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "ਪੰਨਾ ਆਡੀਓ ਚਲਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਉਡੀਕ ਕਰਨ ਲਈ ਮਿਲੀਸਕਿੰਟ ਦੀ ਸੰਖਿਆ।",
+            "label": "ਪੰਨਾ ਆਡੀਓ ਤੋਂ ਪਹਿਲਾਂ",
+            "placeholder": "ਪੰਨਾ ਆਡੀਓ ਚਲਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਮਿਲੀਸਕਿੰਟ",
+            "ariaLabel": "ਪੰਨਾ ਆਡੀਓ ਚਲਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਉਡੀਕ ਕਰਨ ਲਈ ਮਿਲੀਸਕਿੰਟ"
+        },
+        "label": "ਦੇਰੀ"
+    },
+    "bookIconImageSelector": {
+        "description": "ਕਿਤਾਬ ਲਈ ਆਈਕਨ ਵਜੋਂ ਵਰਤਿਆ ਜਾਣ ਵਾਲਾ ਚਿੱਤਰ।",
+        "label": "ਕਿਤਾਬ ਦਾ ਪ੍ਰਤੀਕ",
+        "accessibleImageDisplayName": "ਕਿਤਾਬ ਦਾ ਪ੍ਰਤੀਕ"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "ਕਿਤਾਬ ਨੂੰ ਪਹਿਲੀ ਵਾਰ ਲਾਂਚ ਕਰਨ ਵੇਲੇ ਦਿਖਾਇਆ ਜਾਣ ਵਾਲਾ ਚਿੱਤਰ।",
+        "label": "ਕਿਤਾਬ ਸਪਲੈਸ਼ ਚਿੱਤਰ",
+        "accessibleImageDisplayName": "ਕਿਤਾਬ ਸਪਲੈਸ਼"
+    },
+    "confirmations": {"goBack": {
+        "title": "ਤਬਦੀਲੀਆਂ ਛੱਡੋ",
+        "message": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਸੁਰੱਖਿਅਤ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਛੱਡਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    }},
+    "pageChangeAudio": {
+        "description": "ਪੰਨਾ ਬਦਲਣ ਦਾ ਸਮਾਂ ਹੋਣ 'ਤੇ ਚਲਾਉਣ ਲਈ ਆਡੀਓ।",
+        "label": "ਪੰਨਾ ਬਦਲੋ ਆਡੀਓ",
+        "presetAudioModalPicker": {
+            "headerLabel": "ਪੰਨਾ ਬਦਲੋ ਆਡੀਓ ਚੁਣੋ",
+            "ariaLabel": "ਪ੍ਰੀ-ਸੈੱਟ ਪੇਜ ਬਦਲਣ ਦੇ ਆਡੀਓ ਵਿਕਲਪਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚੋਂ ਚੁਣੋ",
+            "accessibleAudioDisplayName": "ਪੰਨਾ ਤਬਦੀਲੀ"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "ਕਿਤਾਬ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ।",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "ਦੇਰੀ ਨਕਾਰਾਤਮਕ ਨਹੀਂ ਹੋ ਸਕਦੀ",
+            "bookTitleMissing": "ਕਿਤਾਬ ਦਾ ਸਿਰਲੇਖ ਲੋੜੀਂਦਾ ਹੈ",
+            "readerDisplayNameMissing": "ਰੀਡਰ ਡਿਸਪਲੇ ਨਾਮ ਦੀ ਲੋੜ ਹੈ",
+            "bookIconNotValid": "ਕਿਤਾਬ ਦਾ ਪ੍ਰਤੀਕ ਲੋੜੀਂਦਾ ਹੈ",
+            "pageTextMissing": "ਪੰਨਾ ਪਾਠ ਲੋੜੀਂਦਾ ਹੈ",
+            "delayBeforePlayingPageAudioNegative": "ਦੇਰੀ ਨਕਾਰਾਤਮਕ ਨਹੀਂ ਹੋ ਸਕਦੀ",
+            "pagesMissing": "ਘੱਟੋ-ਘੱਟ 1 ਪੰਨਾ ਲੋੜੀਂਦਾ ਹੈ",
+            "pageImageNotValid": "ਪੰਨਾ ਚਿੱਤਰ ਲੋੜੀਂਦਾ ਹੈ",
+            "delayBeforePlayingPageChangeAudioNegative": "ਦੇਰੀ ਨਕਾਰਾਤਮਕ ਨਹੀਂ ਹੋ ਸਕਦੀ",
+            "bookSplashImageNotValid": "ਬੁੱਕ ਸਪਲੈਸ਼ ਚਿੱਤਰ ਦੀ ਲੋੜ ਹੈ",
+            "readerIntroAudioNotValid": "ਰੀਡਰ ਇੰਟਰੋ ਆਡੀਓ ਇੱਕ ਵੈਧ ਫਾਈਲ ਨਹੀਂ ਹੈ",
+            "pageAudioNotValid": "ਪੰਨਾ ਆਡੀਓ ਲੋੜੀਂਦਾ ਹੈ",
+            "pageChangeAudioNotValid": "ਪੰਨਾ ਤਬਦੀਲੀ ਆਡੀਓ ਲੋੜੀਂਦਾ ਹੈ",
+            "delayAfterPlayingPageChangeAudioNotInteger": "ਦੇਰੀ ਪੂਰੀ ਸੰਖਿਆ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ",
+            "delayBeforePlayingPageAudioNotInteger": "ਦੇਰੀ ਪੂਰੀ ਸੰਖਿਆ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ",
+            "delayBeforePlayingPageChangeAudioNotInteger": "ਦੇਰੀ ਪੂਰੀ ਸੰਖਿਆ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ",
+            "delayBeforePlayingPageAudioRequired": "ਦੇਰੀ ਦੀ ਲੋੜ ਹੈ",
+            "readerImageNotValid": "ਪਾਠਕ ਚਿੱਤਰ ਦੀ ਲੋੜ ਹੈ",
+            "delayBeforePlayingPageChangeAudioRequired": "ਦੇਰੀ ਦੀ ਲੋੜ ਹੈ",
+            "delayAfterPlayingPageChangeAudioRequired": "ਦੇਰੀ ਦੀ ਲੋੜ ਹੈ"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "ਕਿਤਾਬ ਦਾ ਸਰੋਤ URL।",
+            "label": "ਸਰੋਤ URL",
+            "placeholder": "ਸਰੋਤ URL",
+            "ariaLabel": "ਕਿਤਾਬ ਦਾ ਸਰੋਤ URL"
+        },
+        "authorInput": {
+            "description": "ਕਿਤਾਬ ਦੇ ਲੇਖਕ ਦਾ ਨਾਮ.",
+            "label": "ਲੇਖਕ ਦਾ ਨਾਮ",
+            "placeholder": "ਕਿਤਾਬ ਦੇ ਲੇਖਕ",
+            "ariaLabel": "ਕਿਤਾਬ ਦੇ ਲੇਖਕ ਦਾ ਨਾਮ"
+        },
+        "illustratorInput": {
+            "description": "ਕਿਤਾਬ ਦੇ ਚਿੱਤਰਕਾਰ ਦਾ ਨਾਮ.",
+            "label": "ਚਿੱਤਰਕਾਰ ਦਾ ਨਾਮ",
+            "placeholder": "ਕਿਤਾਬ ਦਾ ਚਿੱਤਰਕਾਰ",
+            "ariaLabel": "ਕਿਤਾਬ ਦੇ ਚਿੱਤਰਕਾਰ ਦਾ ਨਾਮ"
+        },
+        "publisherInput": {
+            "description": "ਕਿਤਾਬ ਦੇ ਪ੍ਰਕਾਸ਼ਕ ਦਾ ਨਾਮ।",
+            "label": "ਪ੍ਰਕਾਸ਼ਕ ਦਾ ਨਾਮ",
+            "placeholder": "ਕਿਤਾਬ ਦੇ ਪ੍ਰਕਾਸ਼ਕ",
+            "ariaLabel": "ਕਿਤਾਬ ਦੇ ਪ੍ਰਕਾਸ਼ਕ ਦਾ ਨਾਮ"
+        },
+        "label": "ਸਰੋਤ",
+        "isbnInput": {
+            "description": "ਪੁਸਤਕ ਦਾ ਅੰਤਰਰਾਸ਼ਟਰੀ ਮਿਆਰੀ ਪੁਸਤਕ ਨੰਬਰ।",
+            "label": "ISBN",
+            "placeholder": "ਕਿਤਾਬ ਦਾ ISBN",
+            "ariaLabel": "ਕਿਤਾਬ ਦਾ ਅੰਤਰਰਾਸ਼ਟਰੀ ਮਿਆਰੀ ਕਿਤਾਬ ਨੰਬਰ"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "ਨਵਾਂ ਪੰਨਾ ਜੋੜੋ"},
+        "label": "ਪੰਨੇ"
+    }
+}

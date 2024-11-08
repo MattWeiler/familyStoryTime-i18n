@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Opcjonalny dźwięk do odtworzenia przed przeczytaniem pierwszej strony.",
+        "label": {
+            "withDisplayName": "Dźwięk wprowadzający %{readerDisplayName}",
+            "noDisplayName": "Dźwięk wprowadzający"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "Wprowadzenie do czytnika %{readerDisplayName}",
+            "noDisplayName": "wprowadzenie czytnika o identyfikatorze %{readerId}"
+        }
+    },
+    "readerImage": {
+        "description": "Obraz do wyświetlenia dla tego czytnika.",
+        "accessibleImageDisplayName": "obraz czytelnika %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Spowoduje to usunięcie całego dźwięku strony nagranego dla tego czytnika.",
+            "additionalMessage2": "TEGO NIE MOŻNA COFNĄĆ!",
+            "title": "Potwierdzenie usunięcia",
+            "message": {
+                "withDisplayName": "Czy na pewno chcesz usunąć czytnik \u201e%{readerDisplayName}\u201d?",
+                "noDisplayName": "Czy na pewno chcesz usunąć tego czytnika?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "usuń czytnik %{readerDisplayName}",
+            "noDisplayName": "usuń czytnik o identyfikatorze %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "nazwa wyświetlana dla czytnika",
+                "noDisplayName": "nazwa wyświetlana dla czytnika"
+            },
+            "title": {
+                "withDisplayName": "Zaktualizuj nazwę wyświetlaną",
+                "noDisplayName": "Ustaw nazwę wyświetlaną"
+            },
+            "message": {
+                "withDisplayName": "Na jaką nazwę chcesz zmienić wyświetlaną nazwę czytnika?",
+                "noDisplayName": "Jaka jest nazwa wyświetlana tego czytnika?"
+            },
+            "inputPlaceholder": "imię czytelnika"
+        },
+        "ariaLabel": {
+            "withDisplayName": "zmień nazwę wyświetlaną dla czytnika %{readerDisplayName}",
+            "noDisplayName": "zmień nazwę wyświetlaną dla czytnika o identyfikatorze %{readerId}"
+        }
+    }
+}

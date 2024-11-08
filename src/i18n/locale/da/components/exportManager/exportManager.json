@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "eksport kører allerede, prøv igen senere"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "Ophæve",
+            "ariaLabel": "annullere eksporten"
+        },
+        "export": {
+            "textLabel": "Eksportere",
+            "ariaLabel": "eksportere udvalgte bøger"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "Gem dine %{count} bøger",
+        "one": "Gem bog: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "analyserer...",
+        "packaging": "indpakning...",
+        "cancelling": "annullerer..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "læsere",
+                    "ariaLabel": "eksporter kun læseroplysningerne for bogen %{bookTitle}"
+                },
+                "full": {
+                    "label": "fuld",
+                    "ariaLabel": "eksporter hele bogen %{bookTitle}"
+                }
+            },
+            "ariaLabel": "vælg, hvordan du eksporterer bogen %{bookTitle}"
+        },
+        "readers": {"checkbox": {"ariaLabel": "at inkludere læseren %{readerDisplayName} i eksporten"}},
+        "checkbox": {"ariaLabel": "at inkludere bogen %{bookTitle} i eksporten"},
+        "bookReadersTooltip": {"label": "Valg af \"læsere\" vil kun eksportere de valgte læsere.\n\n"}
+    },
+    "packagedMultiBookFileName": "Bøger",
+    "nothingToExport": "Intet at eksportere :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "annuller ikke eksporten"},
+            "yes": {"ariaLabel": "annullere eksporten"}
+        },
+        "title": "Bekræft Annuller eksport",
+        "message": "Er du sikker på, at du vil annullere eksporten?"
+    }},
+    "titles": {
+        "booksToExport": "Bøger til eksport",
+        "failedToExport": "Kunne ikke eksportere bøger"
+    },
+    "outputFilenameField": {
+        "label": "Output filnavn",
+        "ariaLabel": "forventet output filnavn"
+    },
+    "errors": {"invalidOutputFilename": "ugyldigt filnavn"}
+}

@@ -1,0 +1,9 @@
+{
+    "mission": "Wij willen u helpen uw favoriete verhalen, die door uw dierbaren worden gelezen, te bewaren.",
+    "subtitle": "Een leuke applicatie om kinderen te helpen lezen.",
+    "paragraphs": {"1": "Kinderen kunnen luisteren naar hun favoriete verhalen die door dierbaren worden voorgelezen, zelfs als die dierbaren ver weg zijn of overleden zijn."},
+    "accessTutorial": {
+        "messages": {"1": "Je kunt deze tutorial op elk gewenst moment openen via het hamburgermenu linksboven in de applicatie."},
+        "title": "Toegang tot zelfstudie"
+    }
+}

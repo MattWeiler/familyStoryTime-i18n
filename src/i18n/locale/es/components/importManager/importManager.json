@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "La importación ya se está ejecutando, inténtalo de nuevo más tarde.",
+        "download": {"failed": "No se pudo descargar \"%{bookName}\"."},
+        "install": {
+            "failed": "no se pudo importar \"%{bookName}\"",
+            "successful": "importó correctamente \"%{bookName}\""
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Cancelar",
+            "ariaLabel": "cancelar la importación"
+        },
+        "install": {
+            "textLabel": "Instalar",
+            "ariaLabel": "instalar libros seleccionados: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "analizando...",
+        "downloading": "descargando...",
+        "installing": "instalando...",
+        "cancelling": "cancelando..."
+    },
+    "nothingToInstall": "Nada que importar :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Este lector ya forma parte del libro instalado.\n\n"},
+            "checkbox": {"ariaLabel": "para incluir el lector %{readerDisplayName} en la importación"}
+        },
+        "checkbox": {"ariaLabel": "para incluir el libro %{bookName} en la importación"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Este libro ya está en tu dispositivo.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Si elige sobrescribir, el libro actual será reemplazado por el nuevo.\n\n"},
+                    "noReaders": {"label": "Este libro ya está en tu dispositivo.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Este archivo solo contiene audio y el libro no está instalado en su dispositivo.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Este libro no está en su dispositivo.\n\n"},
+                    "noReaders": {"label": "Este libro no está en su dispositivo.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "unir",
+                    "ariaLabel": "fusionar el libro %{bookName} agregando nuevos lectores y sobrescribiendo los lectores existentes con nuevos lectores"
+                },
+                "overwrite": {
+                    "label": "exagerar",
+                    "ariaLabel": "sobrescribir el libro existente %{bookName}"
+                }
+            },
+            "ariaLabel": "seleccione qué estrategia de importación usar para el libro %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "no cancelar la importación"},
+            "yes": {"ariaLabel": "cancelar la importación"}
+        },
+        "title": "Confirmar Cancelar Importación",
+        "message": "¿Está seguro de que desea cancelar la importación?"
+    }},
+    "titles": {
+        "booksToInstall": "Libros para instalar",
+        "failedToInstall": "No se pudieron instalar los libros"
+    }
+}

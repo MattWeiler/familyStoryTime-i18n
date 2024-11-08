@@ -1,0 +1,9 @@
+{
+    "mission": "Chcemy pomóc zachować Twoje ulubione historie, czytane przez Twoich bliskich.",
+    "subtitle": "Zabawna aplikacja pomagająca dzieciom czytać.",
+    "paragraphs": {"1": "Dzieci mogą słuchać ulubionych historii czytanych przez bliskich, nawet jeśli ci bliscy są daleko lub nie żyją."},
+    "accessTutorial": {
+        "messages": {"1": "Możesz uzyskać dostęp do tego samouczka w dowolnym momencie za pośrednictwem menu hamburgera w lewym górnym rogu aplikacji."},
+        "title": "Dostęp do samouczka"
+    }
+}

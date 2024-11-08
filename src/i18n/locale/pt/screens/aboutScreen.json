@@ -1,0 +1,33 @@
+{
+    "intro": "Criei este aplicativo para ajudar as crianças em sua jornada de leitura, mas também para poder que histórias sejam lidas para elas por entes queridos que não podem estar presentes.",
+    "title": "Hora da história em família",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Faça com que suas histórias sejam lidas para você pelo seu contador de histórias favorito, mesmo que ele não possa estar presente.",
+            "title": "Vozes familiares"
+        },
+        "paragraph_3": {
+            "content_1": "Os livros podem ser lidos automaticamente enquanto você lê.",
+            "title": "Pratique a leitura"
+        },
+        "paragraph_2": {
+            "content_1": "Digitalize seus livros favoritos para que durem por muitos anos.",
+            "title": "Mantenha seus favoritos"
+        },
+        "paragraph_1": {
+            "content_2": "Mantenha todos os seus livros favoritos em um só lugar para fácil acesso em casa ou em qualquer lugar.",
+            "content_1": "Aproveite a leitura em família.",
+            "title": "Aproveite a leitura"
+        },
+        "paragraph_6": {
+            "content_2": "Quando ativado, o proprietário do dispositivo deve desbloquear o aplicativo usando seus dados biométricos (dependendo do dispositivo) para acessar os aspectos confidenciais do aplicativo.",
+            "content_1": "O aplicativo possui um recurso de bloqueio parental.",
+            "title": "Bloqueio parental"
+        },
+        "paragraph_5": {
+            "content_2": "As histórias podem ser exportadas individualmente ou todas de uma vez.",
+            "content_1": "Crie suas próprias histórias e compartilhe-as com amigos e familiares.",
+            "title": "Compartilhar"
+        }
+    }
+}

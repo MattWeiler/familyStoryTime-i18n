@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Név",
+        "placeholder": "John Doe",
+        "ariaLabel": "opcionálisan a neved"
+    },
+    "emailInput": {
+        "description": "Adja meg, ha szeretne visszajelzést kapni tőlünk.",
+        "label": "E-mail cím",
+        "placeholder": "valaki@gmail.com",
+        "ariaLabel": "opcionálisan az e-mail címét"
+    }
+}

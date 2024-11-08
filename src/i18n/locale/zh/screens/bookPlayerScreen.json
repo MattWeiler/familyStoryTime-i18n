@@ -1,0 +1,4 @@
+{
+    "aiReader": {"displayName": "人工智能阅读器"},
+    "errors": {"bookLoadFailure": "无法加载书籍。"}
+}

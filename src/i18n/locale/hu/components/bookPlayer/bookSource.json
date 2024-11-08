@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "mutasd meg a könyv forrásinformációit"},
+        "hideSource": {"ariaLabel": "elrejteni a könyv forrásinformációit"}
+    },
+    "sourceUrl": {
+        "label": "könyv forrásának megtekintése",
+        "ariaLabel": "nyílt könyv forrás URL-je"
+    },
+    "sourceIllustrator": {"label": "Illusztrátor:"},
+    "sourceAuthor": {"label": "Szerző:"},
+    "sourcePublisher": {"label": "Kiadó:"},
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "nyissa meg az ISBN-t, keressen rá a könyvre ISBN"
+    }
+}

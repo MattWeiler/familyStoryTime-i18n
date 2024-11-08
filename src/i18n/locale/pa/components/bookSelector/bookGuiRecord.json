@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "ਚੁਣੋ",
+                "ariaLabel": "ਕਿਤਾਬ ਦੀ ਚੋਣ ਕਰੋ %{bookTitle}"
+            },
+            "edit": {
+                "title": "ਸੰਪਾਦਿਤ ਕਰੋ",
+                "ariaLabel": "ਕਿਤਾਬ %{bookTitle} ਨੂੰ ਸੋਧੋ"
+            },
+            "delete": {
+                "title": "ਮਿਟਾਓ",
+                "ariaLabel": "ਕਿਤਾਬ %{bookTitle} ਨੂੰ ਮਿਟਾਓ"
+            },
+            "export": {
+                "title": "ਨਿਰਯਾਤ",
+                "ariaLabel": "ਕਿਤਾਬ %{bookTitle} ਨੂੰ ਨਿਰਯਾਤ ਕਰੋ"
+            }
+        },
+        "ariaLabel": "ਕਿਤਾਬ %{bookTitle} ਲਈ ਸੰਦਰਭ ਮੀਨੂ ਖੋਲ੍ਹੋ"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} ਪੰਨੇ",
+            "one": "%{count} ਪੰਨਾ"
+        },
+        "ariaLabel": {
+            "other": "%{count} ਪੰਨੇ",
+            "one": "%{count} ਪੰਨਾ"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "%{bookTitle} ਕਿਤਾਬ ਚੁਣੋ",
+        "selected": "%{bookTitle} ਕਿਤਾਬ ਦੀ ਚੋਣ ਹਟਾਓ"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} ਪਾਠਕ",
+            "one": "%{count} ਰੀਡਰ"
+        },
+        "ariaLabel": {
+            "other": "ਕਿਤਾਬ %{bookTitle} ਦੇ %{count} ਪਾਠਕ ਹਨ",
+            "one": "ਕਿਤਾਬ %{bookTitle} ਵਿੱਚ %{count} ਰੀਡਰ ਹਨ"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "ਕਹਾਣੀ ਪੜ੍ਹੋ: %{bookTitle}",
+        "selectionMode": "%{bookTitle} ਕਿਤਾਬ"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "e-mail understøttes ikke",
+        "submissionFailed": "fejlafsendelse mislykkedes",
+        "submissionSuccess": "fejl sendt"
+    },
+    "submitButton": {
+        "text": "Indsend fejl",
+        "ariaLabel": "indsend fejlen"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Tilføj den eller de bøger, der kan være årsag til problemet.",
+            "label": "Bøger at vedhæfte"
+        },
+        "loadFailed": "indlæsning af bøger mislykkedes",
+        "noBooksInstalled": "ingen bøger installeret",
+        "picker": {
+            "header": "Vælg bog(er)",
+            "ariaLabel": "vælg, hvilke bøger der skal knyttes til fejlfeedbacken"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "foretag ændringer i de bøger, der er knyttet til din fejlfeedback"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Angiv venligst nogle detaljer om fejlen.",
+        "description": "Angiv detaljer om fejlen.",
+        "label": "Bug detaljer",
+        "ariaLabel": "beskrivelse af fejlen"
+    }
+}

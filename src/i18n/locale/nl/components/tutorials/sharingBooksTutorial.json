@@ -1,0 +1,25 @@
+{
+    "summary": "Nadat u een boek heeft gemaakt, kunt u het delen met familie en vrienden.",
+    "exporting": {
+        "messages": {
+            "1": "U kunt een enkel boek exporteren via het contextmenu, of meerdere boeken tegelijk, door lang ingedrukt te houden om meerdere boeken te selecteren.",
+            "2": "Nadat u de boeken heeft gekozen die u wilt exporteren, kunt u precies selecteren wat er moet worden geëxporteerd.",
+            "3": "Standaard wordt het hele boek geëxporteerd, maar u kunt kiezen welke lezers bij de boekinhoud moeten worden opgenomen, of u kunt ervoor kiezen alleen specifieke lezers te exporteren.",
+            "4": "Als u de lezersinformatie die u hebt opgenomen alleen maar naar iemand wilt sturen die het boek al heeft, kunt u een veel kleiner bestand maken om te delen door alleen de specifieke lezer(s) op te nemen."
+        },
+        "title": "Exporteren"
+    },
+    "importingMerging": {"messages": {
+        "1": "Wanneer u een boek importeert dat al op uw apparaat is geïnstalleerd, kunt u selecteren of het importerende boek het reeds geïnstalleerde boek moet overschrijven of dat er een samenvoeging moet worden uitgevoerd.",
+        "2": "Bij het samenvoegen worden alleen de geselecteerde lezers toegevoegd aan het reeds geïnstalleerde boek.",
+        "3": "Als de lezers die worden samengevoegd al op het apparaat zijn geïnstalleerd, worden ze vervangen."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Op de pagina \"Leeshoek\" kunt u selecteren welke boeken u wilt importeren door de optie \"boeken importeren\" te selecteren wanneer u op de knop (+) rechtsonder in het scherm drukt.",
+            "2": "Als alternatief kunt u een boekbestand naar de applicatie \"Family Story Time\" sturen.",
+            "3": "Wanneer u een boek importeert dat nog niet op uw apparaat is geïnstalleerd, wordt het boek geïnstalleerd."
+        },
+        "title": "Importeren"
+    }
+}

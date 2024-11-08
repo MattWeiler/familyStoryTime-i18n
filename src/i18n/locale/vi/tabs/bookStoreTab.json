@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "không, đừng gỡ cài đặt Sách có sẵn",
+            "yesButtonAriaLabel": "có, gỡ cài đặt sách có sẵn",
+            "title": "Xác nhận gỡ cài đặt",
+            "message": "Bạn có chắc chắn muốn gỡ cài đặt cuốn sách có sẵn này không?\n"
+        },
+        "ariaLabel": "gỡ cài đặt cuốn sách có sẵn %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "miễn phí"},
+        "newerVersionAvailableMessage": "Cập nhật có sẵn"
+    },
+    "subtitle": "Hãy tìm những câu chuyện hay để đọc nhé.",
+    "loadingFailedMessage": "Không thể tải sách có sẵn.\n",
+    "title": "Cửa hàng sách",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "không, không cài đặt sách có sẵn",
+            "yesButtonAriaLabel": "vâng, cài đặt sách có sẵn",
+            "title": "Xác nhận cài đặt",
+            "message": "Bạn có chắc chắn muốn cài đặt cuốn sách có sẵn này không?\nLàm như vậy sẽ sử dụng %{fileSize} dữ liệu."
+        },
+        "ariaLabel": "cài đặt sách có sẵn %{bookName}"
+    }
+}

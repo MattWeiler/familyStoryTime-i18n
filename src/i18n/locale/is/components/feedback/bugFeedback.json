@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "tölvupóstur ekki studdur",
+        "submissionFailed": "villusending mistókst",
+        "submissionSuccess": "galla send"
+    },
+    "submitButton": {
+        "text": "Sendu inn villu",
+        "ariaLabel": "senda inn villuna"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Bættu við bókinni/bókunum sem gætu valdið vandanum.",
+            "label": "Bækur til að hengja"
+        },
+        "loadFailed": "mistókst að hlaða bókum",
+        "noBooksInstalled": "engar bækur uppsettar",
+        "picker": {
+            "header": "Veldu bækur",
+            "ariaLabel": "veldu hvaða bækur á að tengja við villutilkynninguna"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "gera breytingar á bókunum sem fylgja villuábendingunum þínum"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Vinsamlegast gefðu smá upplýsingar um villuna.",
+        "description": "Gefðu upplýsingar um villuna.",
+        "label": "Villuupplýsingar",
+        "ariaLabel": "lýsingu á villunni"
+    }
+}

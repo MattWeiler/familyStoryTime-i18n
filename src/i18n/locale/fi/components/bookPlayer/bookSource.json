@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "näytä kirjan lähdetiedot"},
+        "hideSource": {"ariaLabel": "piilottaa kirjan lähdetiedot"}
+    },
+    "sourceUrl": {
+        "label": "katso kirjan lähde",
+        "ariaLabel": "avoimen kirjan lähdekoodin URL-osoite"
+    },
+    "sourceIllustrator": {"label": "Kuvittaja:"},
+    "sourceAuthor": {"label": "Tekijä:"},
+    "sourcePublisher": {"label": "Kustantaja:"},
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "avaa ISBN hae kirjan ISBN"
+    }
+}

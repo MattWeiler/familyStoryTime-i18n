@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "Sovelluspalaute",
+            "ariaLabel": "anna palautetta sovelluksestamme"
+        },
+        "description": "Haluaisimme kuulla, mitä sinulla on sanottavaa."
+    },
+    "title": "Jätä palautetta",
+    "bugFeedback": {
+        "tab": {
+            "title": "Ilmoita virheestä",
+            "ariaLabel": "ilmoita sovelluksestamme löytämäsi virhe"
+        },
+        "description": "Ikävä kuulla, että löysit virheen, mutta teemme parhaamme korjataksemme sen :)"
+    }
+}

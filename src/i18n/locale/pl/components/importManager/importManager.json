@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "import już działa, spróbuj ponownie później",
+        "download": {"failed": "nie udało się pobrać \u201e%{bookName}\u201d."},
+        "install": {
+            "failed": "nie udało się zaimportować \u201e%{bookName}\u201d",
+            "successful": "pomyślnie zaimportowano \u201e%{bookName}\u201d"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Anulować",
+            "ariaLabel": "anulować import"
+        },
+        "install": {
+            "textLabel": "Zainstalować",
+            "ariaLabel": "zainstaluj wybrane książki: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "analizuję...",
+        "downloading": "pobieranie...",
+        "installing": "instalacja...",
+        "cancelling": "anulowanie..."
+    },
+    "nothingToInstall": "Nie ma nic do importowania :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Czytnik ten jest już częścią zainstalowanej książki.\n\n"},
+            "checkbox": {"ariaLabel": "aby uwzględnić w imporcie czytnik %{readerDisplayName}"}
+        },
+        "checkbox": {"ariaLabel": "aby uwzględnić w imporcie książkę %{bookName}"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Ta książka jest już na Twoim urządzeniu.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Jeśli zdecydujesz się nadpisać, bieżąca książka zostanie zastąpiona nową.\n\n"},
+                    "noReaders": {"label": "Ta książka jest już na Twoim urządzeniu.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Ten plik zawiera tylko dźwięk, a książka nie jest zainstalowana na Twoim urządzeniu.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Tej książki nie ma na Twoim urządzeniu.\n\n"},
+                    "noReaders": {"label": "Tej książki nie ma na Twoim urządzeniu.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "łączyć",
+                    "ariaLabel": "połącz książkę %{bookName}, dodając nowych czytelników i zastępując istniejących czytelników nowymi czytelnikami"
+                },
+                "overwrite": {
+                    "label": "przepisać",
+                    "ariaLabel": "nadpisz istniejącą książkę %{bookName}"
+                }
+            },
+            "ariaLabel": "wybierz strategię importu, której chcesz użyć dla książki %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "nie anuluj importu"},
+            "yes": {"ariaLabel": "anulować import"}
+        },
+        "title": "Potwierdź Anuluj import",
+        "message": "Czy na pewno chcesz anulować import?"
+    }},
+    "titles": {
+        "booksToInstall": "Książki do zainstalowania",
+        "failedToInstall": "Nie udało się zainstalować książek"
+    }
+}

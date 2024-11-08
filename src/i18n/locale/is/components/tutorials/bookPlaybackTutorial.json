@@ -1,0 +1,24 @@
+{
+    "summary": "Þú getur spilað bækur sem þú hefur sett upp á tækinu þínu.",
+    "splashScreen": {
+        "messages": {
+            "1": "Á skvettaskjánum geturðu valið hvernig þú vilt að bókin sé spiluð og valið hvaða lesandi á að lesa bókina, ef við á.",
+            "2": "Ef lesendum hefur verið bætt við bókina geturðu valið á milli stillinganna \u201eSjálfvirk spilun\u201c, \u201eLestu fyrir mig\u201c og \u201eLestu það sjálfur\u201c.",
+            "3": "\u201eSjálfvirk spilun\u201c mun láta valinn lesanda lesa bókina og síðunum verður breytt sjálfkrafa.",
+            "4": "\u201eLestu fyrir mig\u201c hamurinn mun láta valinn lesanda lesa bókina, en blaðsíðunum verður að breyta handvirkt. ",
+            "5": "\u201eLestu það sjálfur\u201c stillingin gerir þér kleift að lesa bókina sjálfur.",
+            "6": "Ef bókin inniheldur upprunaupplýsingar mun það vera táknmynd sem þegar smellt er á mun birta upprunaupplýsingarnar. "
+        },
+        "title": "Skvettskjár"
+    },
+    "player": {
+        "messages": {
+            "1": "Þegar bók er spiluð munu flakkhnappar birtast sem gera þér kleift að gera hlé á/spila hljóð lesandans ásamt því að fletta á milli síðna.",
+            "2": "Hægt er að fela/sýna stýrihnappana með því að ýta einu sinni á myndina.",
+            "3": "Sumar bendingar er einnig hægt að nota til að fletta.",
+            "4": "Með því að strjúka til vinstri/hægri er flakkað á milli síðna.",
+            "5": "Að tvísmella eða klípa mun aðdráttur inn/út. "
+        },
+        "title": "Bókaspilari"
+    }
+}

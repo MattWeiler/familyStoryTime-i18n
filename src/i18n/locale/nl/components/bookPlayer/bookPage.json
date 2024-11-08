@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "audio afspelen",
+            "ariaLabel": "audio afspelen"
+        },
+        "playing": {
+            "title": "audio pauzeren",
+            "ariaLabel": "audio pauzeren"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "zoom uit om de hele afbeelding weer te geven; er kunnen zwarte balken aan de zijkanten zijn",
+        "zoomedOut": "zoom in om ervoor te zorgen dat het hele scherm met de afbeelding wordt gevuld; een deel van de afbeelding is mogelijk niet zichtbaar"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "ga naar de vorige pagina",
+            "ariaLabel": "ga naar de vorige pagina"
+        },
+        "noPreviousPage": {
+            "title": "ga terug naar boekselectie",
+            "ariaLabel": "ga terug naar boekselectie"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "ga naar de volgende pagina",
+            "ariaLabel": "ga naar de volgende pagina"
+        },
+        "noNextPage": {
+            "title": "ga terug naar boekselectie",
+            "ariaLabel": "ga terug naar boekselectie"
+        }
+    }
+}

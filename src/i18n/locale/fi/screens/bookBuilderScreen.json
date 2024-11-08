@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "tallennettu kirja \"%{bookTitle}\"",
+        "validationFailed": "vahvistus epäonnistui",
+        "bookSaveFailed": "kirjan tallennus epäonnistui"
+    },
+    "bookTitleInput": {
+        "description": "Kirjan nimi.",
+        "label": "Kirjan nimi",
+        "placeholder": "kirjan otsikko",
+        "ariaLabel": "kirjan otsikko"
+    },
+    "readers": {
+        "label": "Lukijat",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "tämän uuden lukijan näyttönimi",
+                "buttons": {
+                    "cancel": {"ariaLabel": "peruuta uuden lukijan lisääminen"},
+                    "add": {"ariaLabel": "lisää uusi lukija"}
+                },
+                "description": "Anna tämän uuden lukijan näyttönimi.",
+                "title": "Lisää uusi lukija",
+                "inputPlaceholder": "lukijan nimi"
+            },
+            "ariaLabel": "lisää uusi lukija"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Millisekuntien määrä odottaa ennen sivunvaihtoäänen toistamista.",
+            "label": "Ennen sivun vaihtoa Ääni",
+            "placeholder": "millisekuntia ennen sivunvaihtoäänen toistamista",
+            "ariaLabel": "millisekuntia odottaa ennen sivunvaihtoäänen toistamista"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Millisekuntien määrä sivunvaihdon äänen toistamisen jälkeen.",
+            "label": "Ääni sivunvaihdon jälkeen",
+            "placeholder": "millisekuntia sivunvaihdon äänen toistamisen jälkeen",
+            "ariaLabel": "millisekuntia odottaa sivunvaihdon äänen toistamisen jälkeen"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Millisekuntien määrä odottaa ennen sivun äänen toistamista.",
+            "label": "Ennen sivun ääntä",
+            "placeholder": "millisekuntia ennen sivun äänen toistamista",
+            "ariaLabel": "millisekuntia odottaa ennen sivun äänen toistamista"
+        },
+        "label": "Viiveet"
+    },
+    "bookIconImageSelector": {
+        "description": "Kirjan kuvakkeena käytettävä kuva.",
+        "label": "Kirja-kuvake",
+        "accessibleImageDisplayName": "kirjan kuvake"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "Kuva, joka näytetään kirjan ensimmäisen julkaisun yhteydessä.",
+        "label": "Kirja Splash Image",
+        "accessibleImageDisplayName": "kirjaroiskeet"
+    },
+    "confirmations": {"goBack": {
+        "title": "Jätä muutokset",
+        "message": "Oletko varma, että haluat lähteä ennen tallentamista?"
+    }},
+    "pageChangeAudio": {
+        "description": "Ääni, joka toistetaan, kun on aika vaihtaa sivua.",
+        "label": "Sivun vaihto Audio",
+        "presetAudioModalPicker": {
+            "headerLabel": "Valitse Sivun vaihtaminen Ääni",
+            "ariaLabel": "valitse esiasetussivun muutoksen äänivaihtoehtojen luettelosta",
+            "accessibleAudioDisplayName": "sivun muutos"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Kirjan lataaminen epäonnistui.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "viive ei voi olla negatiivinen",
+            "bookTitleMissing": "kirjan nimi vaaditaan",
+            "readerDisplayNameMissing": "lukijan näyttönimi vaaditaan",
+            "bookIconNotValid": "kirjakuvake vaaditaan",
+            "pageTextMissing": "sivun teksti on pakollinen",
+            "delayBeforePlayingPageAudioNegative": "viive ei voi olla negatiivinen",
+            "pagesMissing": "vähintään 1 sivu vaaditaan",
+            "pageImageNotValid": "sivukuva vaaditaan",
+            "delayBeforePlayingPageChangeAudioNegative": "viive ei voi olla negatiivinen",
+            "bookSplashImageNotValid": "kirjan aloituskuva vaaditaan",
+            "readerIntroAudioNotValid": "Reader Intro Audio ei ole kelvollinen tiedosto",
+            "pageAudioNotValid": "sivun ääni vaaditaan",
+            "pageChangeAudioNotValid": "sivunvaihdon ääni vaaditaan",
+            "delayAfterPlayingPageChangeAudioNotInteger": "viiveen on oltava kokonaisluku",
+            "delayBeforePlayingPageAudioNotInteger": "viiveen on oltava kokonaisluku",
+            "delayBeforePlayingPageChangeAudioNotInteger": "viiveen on oltava kokonaisluku",
+            "delayBeforePlayingPageAudioRequired": "viivytys vaaditaan",
+            "readerImageNotValid": "lukijakuva vaaditaan",
+            "delayBeforePlayingPageChangeAudioRequired": "viivytys vaaditaan",
+            "delayAfterPlayingPageChangeAudioRequired": "viivytys vaaditaan"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "Kirjan lähde-URL-osoite.",
+            "label": "Lähteen URL-osoite",
+            "placeholder": "lähde-URL-osoite",
+            "ariaLabel": "kirjan lähde-URL-osoite"
+        },
+        "authorInput": {
+            "description": "Kirjan kirjoittajan nimi.",
+            "label": "Tekijän nimi",
+            "placeholder": "kirjan kirjoittaja",
+            "ariaLabel": "kirjan kirjoittajan nimi"
+        },
+        "illustratorInput": {
+            "description": "Kirjan kuvittajan nimi.",
+            "label": "Kuvittajan nimi",
+            "placeholder": "kirjan kuvittaja",
+            "ariaLabel": "kirjan kuvittajan nimi"
+        },
+        "publisherInput": {
+            "description": "Kirjan kustantajan nimi.",
+            "label": "Kustantajan nimi",
+            "placeholder": "kirjan kustantaja",
+            "ariaLabel": "kirjan kustantajan nimi"
+        },
+        "label": "Lähde",
+        "isbnInput": {
+            "description": "Kirjan kansainvälinen standardikirjanumero.",
+            "label": "ISBN",
+            "placeholder": "Kirjan ISBN",
+            "ariaLabel": "kirjan kansainvälinen standardikirjanumero"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "lisää uusi sivu"},
+        "label": "Sivut"
+    }
+}

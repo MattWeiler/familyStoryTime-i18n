@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "ไม่รองรับการส่งอีเมล",
+        "submissionFailed": "ส่งคำติชมล้มเหลว",
+        "submissionSuccess": "ส่งข้อเสนอแนะแล้ว"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "กรุณาเลือกระดับความพึงพอใจ",
+        "description": "คุณมีแนวโน้มที่จะแชร์แอปของเรามากน้อยเพียงใด",
+        "label": "แบ่งปันกับผู้อื่น",
+        "levels": {
+            "1": {
+                "displayName": "ไม่มีทาง",
+                "ariaLabel": "ไม่มีทาง"
+            },
+            "2": {
+                "displayName": "ไม่น่าจะใช่",
+                "ariaLabel": "ไม่น่าเป็นไปได้"
+            },
+            "3": {
+                "displayName": "อาจจะ",
+                "ariaLabel": "อาจจะ"
+            },
+            "4": {
+                "displayName": "ใช่",
+                "ariaLabel": "ใช่"
+            },
+            "5": {
+                "displayName": "มีแล้ว",
+                "ariaLabel": "มีอยู่แล้ว"
+            }
+        },
+        "ariaLabel": "เลือกว่าคุณมีแนวโน้มที่จะแชร์แอปพลิเคชันมือถือนี้กับผู้อื่นมากน้อยเพียงใด"
+    },
+    "submitButton": {
+        "text": "ส่งคำติชม",
+        "ariaLabel": "ส่งข้อเสนอแนะของคุณ"
+    },
+    "satisfactionInput": {
+        "errorMessage": "กรุณาเลือกระดับความพึงพอใจ",
+        "description": "คุณชอบ/ไม่ชอบแอปของเรามากแค่ไหน?",
+        "label": "ความพึงพอใจของแอป",
+        "levels": {
+            "1": {
+                "displayName": "เกลียดมัน",
+                "ariaLabel": "เกลียดมัน"
+            },
+            "2": {
+                "displayName": "ผิดหวัง",
+                "ariaLabel": "ผิดหวัง"
+            },
+            "3": {
+                "displayName": "เป็นกลาง",
+                "ariaLabel": "เป็นกลาง"
+            },
+            "4": {
+                "displayName": "ยอดเยี่ยม",
+                "ariaLabel": "ยอดเยี่ยม"
+            },
+            "5": {
+                "displayName": "รักมัน",
+                "ariaLabel": "รักมัน"
+            }
+        },
+        "ariaLabel": "เลือกระดับความพึงพอใจของคุณกับแอปพลิเคชันมือถือนี้"
+    },
+    "commentInput": {
+        "description": "ระบุความคิดเห็นเพิ่มเติมที่คุณมีหรือไม่ก็ได้",
+        "label": "ความคิดเห็น",
+        "ariaLabel": "ความคิดเห็นเพิ่มเติม"
+    },
+    "playingBooksInput": {
+        "errorMessage": "กรุณาเลือกระดับความพึงพอใจ",
+        "description": "คุณรู้จักการเล่นหนังสือได้อย่างไร?",
+        "label": "การเล่นหนังสือ",
+        "levels": {
+            "1": {
+                "displayName": "ไม่ได้ผล",
+                "ariaLabel": "ไม่ได้ผล"
+            },
+            "2": {
+                "displayName": "ไม่ดี",
+                "ariaLabel": "ไม่ดี"
+            },
+            "3": {
+                "displayName": "ไม่เป็นไร",
+                "ariaLabel": "ไม่เป็นไร"
+            },
+            "4": {
+                "displayName": "มันง่าย",
+                "ariaLabel": "มันง่ายมาก"
+            },
+            "5": {
+                "displayName": "รักมัน",
+                "ariaLabel": "รักมัน"
+            }
+        },
+        "ariaLabel": "เลือกความพึงพอใจของคุณกับการเล่นหนังสือ"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "กรุณาเลือกระดับความพึงพอใจ",
+        "description": "คุณชอบมีผู้อ่านหลายคนอย่างไร?",
+        "label": "ผู้อ่านหลายคน",
+        "levels": {
+            "1": {
+                "displayName": "ไม่ได้ผล",
+                "ariaLabel": "ไม่ได้ผล"
+            },
+            "2": {
+                "displayName": "ไม่ดี",
+                "ariaLabel": "ไม่ดี"
+            },
+            "3": {
+                "displayName": "ไม่เป็นไร",
+                "ariaLabel": "ไม่เป็นไร"
+            },
+            "4": {
+                "displayName": "มันง่าย",
+                "ariaLabel": "มันง่ายมาก"
+            },
+            "5": {
+                "displayName": "รักมัน",
+                "ariaLabel": "รักมัน"
+            }
+        },
+        "ariaLabel": "เลือกความพึงพอใจของคุณที่มีผู้อ่านหลายรายต่อเล่ม"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "กรุณาเลือกระดับความพึงพอใจ",
+        "description": "คุณค้นพบการสร้างหนังสือได้อย่างไร?",
+        "label": "การสร้างหนังสือ",
+        "levels": {
+            "1": {
+                "displayName": "ไม่ได้ผล",
+                "ariaLabel": "ไม่ได้ผล"
+            },
+            "2": {
+                "displayName": "ไม่ดี",
+                "ariaLabel": "ไม่ดี"
+            },
+            "3": {
+                "displayName": "ไม่เป็นไร",
+                "ariaLabel": "ไม่เป็นไร"
+            },
+            "4": {
+                "displayName": "มันง่าย",
+                "ariaLabel": "มันง่ายมาก"
+            },
+            "5": {
+                "displayName": "รักมัน",
+                "ariaLabel": "รักมัน"
+            }
+        },
+        "ariaLabel": "เลือกความพึงพอใจของคุณต่อกระบวนการสร้างหนังสือ"
+    }
+}

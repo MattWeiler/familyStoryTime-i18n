@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "Opinia o aplikacji",
+            "ariaLabel": "przekaż opinię na temat naszej aplikacji"
+        },
+        "description": "Chętnie usłyszymy, co masz do powiedzenia."
+    },
+    "title": "Zostaw opinię",
+    "bugFeedback": {
+        "tab": {
+            "title": "Zgłoś błąd",
+            "ariaLabel": "zgłoś błąd, który znalazłeś w naszej aplikacji"
+        },
+        "description": "Przykro nam, że znalazłeś błąd, ale postaramy się go naprawić :)"
+    }
+}

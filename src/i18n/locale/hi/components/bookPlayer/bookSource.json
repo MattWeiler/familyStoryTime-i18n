@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "पुस्तक स्रोत जानकारी दिखाएँ"},
+        "hideSource": {"ariaLabel": "पुस्तक स्रोत जानकारी छिपाएँ"}
+    },
+    "sourceUrl": {
+        "label": "पुस्तक स्रोत देखें",
+        "ariaLabel": "पुस्तक स्रोत URL खोलें"
+    },
+    "sourceIllustrator": {"label": "चित्रकार:"},
+    "sourceAuthor": {"label": "लेखक:"},
+    "sourcePublisher": {"label": "प्रकाशक:"},
+    "sourceIsbn": {
+        "label": "आईएसबीएन:",
+        "ariaLabel": "पुस्तक आईएसबीएन के लिए आईएसबीएन खोज खोलें"
+    }
+}

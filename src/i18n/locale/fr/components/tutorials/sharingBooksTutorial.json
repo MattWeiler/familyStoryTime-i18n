@@ -1,0 +1,25 @@
+{
+    "summary": "Après avoir créé un livre, vous pouvez le partager avec votre famille et vos amis.",
+    "exporting": {
+        "messages": {
+            "1": "Vous pouvez soit exporter un seul livre, via son menu contextuel, soit plusieurs livres à la fois, en maintenant enfoncé pour sélectionner plusieurs livres.",
+            "2": "Une fois que vous avez choisi le(s) livre(s) à exporter, vous pouvez alors sélectionner exactement ce qui doit être exporté.",
+            "3": "Par défaut, le livre entier sera exporté, mais vous pouvez choisir quels lecteurs doivent être inclus dans le contenu du livre ou vous pouvez choisir d'exporter uniquement des lecteurs spécifiques.",
+            "4": "Lorsque vous souhaitez simplement envoyer les informations du lecteur que vous avez enregistrées à quelqu'un qui possède déjà le livre, vous pouvez créer un fichier beaucoup plus petit à partager en incluant uniquement le(s) lecteur(s) spécifique(s)."
+        },
+        "title": "Exportation"
+    },
+    "importingMerging": {"messages": {
+        "1": "Lors de l'importation d'un livre déjà installé sur votre appareil, vous pourrez choisir si le livre importé doit écraser le livre déjà installé ou si une fusion doit être effectuée.",
+        "2": "Lors de la fusion, seuls les lecteurs sélectionnés seront ajoutés au livre déjà installé.",
+        "3": "Si les lecteurs fusionnés sont déjà installés sur l'appareil, ils seront remplacés."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Depuis la page « Coin de lecture », vous pouvez sélectionner les livres à importer en sélectionnant l'option « importer des livres » en appuyant sur le bouton (+) en bas à droite de l'écran.",
+            "2": "Alternativement, vous pouvez envoyer un fichier de livre à l'application « Family Story Time ».",
+            "3": "Lors de l'importation d'un livre qui n'est pas déjà installé sur votre appareil, le livre sera installé."
+        },
+        "title": "Importation"
+    }
+}

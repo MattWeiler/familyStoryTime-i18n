@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "le chargement des livres a échoué"},
+        "import": {"failure": "échec de l'importation"},
+        "delete": {
+            "failure": "échec de la suppression",
+            "success": "livre supprimé \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "échec de la suppression de %{count} livres",
+                "one": "échec de la suppression d'un livre"
+            },
+            "success": {
+                "other": "%{count} livres supprimés",
+                "one": "supprimé 1 livre"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "trier par nombre de pages par ordre décroissant",
+                "descending": "trier par nombre de pages par ordre croissant"
+            }},
+            "searchField": {
+                "placeholder": "recherchez vos livres",
+                "ariaLabel": "recherchez vos livres"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Exporter",
+                        "ariaLabel": "exporter les livres sélectionnés"
+                    },
+                    "delete": {
+                        "label": "Supprimer",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "non, ne supprime pas les livres sélectionnés"},
+                                "yes": {"ariaLabel": "oui, supprime les livres sélectionnés"}
+                            },
+                            "title": "Confirmer la suppression",
+                            "message": {
+                                "other": "Êtes-vous sûr de vouloir supprimer les %{count} livres sélectionnés ?",
+                                "one": "Êtes-vous sûr de vouloir supprimer le livre sélectionné ?"
+                            }
+                        },
+                        "ariaLabel": "supprimer les livres sélectionnés"
+                    }
+                },
+                "ariaLabel": "ouvrir le menu contextuel des livres sélectionnés"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "trier par titre de livre par ordre décroissant",
+                "descending": "trier par titre de livre par ordre croissant"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "trier par nombre de lecteurs par ordre décroissant",
+                "descending": "trier par nombre de lecteurs par ordre croissant"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "effectuer un zoom arrière pour afficher plus d'éléments à la fois",
+                "zoomedOut": "zoomer pour voir des images plus grandes"
+            }}
+        },
+        "loadError": {
+            "text": "Échec du chargement des livres.",
+            "ariaLabel": "échec du chargement des livres"
+        },
+        "noBooksFound": {
+            "message": "Aucun livre trouvé :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Essayez notre",
+                    "linkName": "constructeur de livres"
+                },
+                "availableBooks": {
+                    "message": "Découvrez notre",
+                    "linkName": "librairie"
+                }
+            }
+        }
+    },
+    "subtitle": "Prenons plaisir à lire quelques histoires.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "créer un livre",
+                "ariaLabel": "créer un nouveau livre"
+            },
+            "importBooks": {
+                "label": "importer des livres",
+                "ariaLabel": "importer un ou plusieurs livres"
+            },
+            "bookStore": {
+                "label": "visiter la librairie",
+                "ariaLabel": "visitez notre librairie"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "fermer ajouter un menu de livre",
+            "collapsed": "ouvrir le menu Ajouter un livre"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "suppression...\n",
+            "one": "suppression...\n",
+            "none": "suppression..."
+        }},
+        "export": {"label": {
+            "other": "exporter...\n",
+            "one": "exporter...\n",
+            "none": "exporter..."
+        }}
+    }},
+    "title": "Coin lecture",
+    "confirmations": {"deleteBook": {
+        "title": "Confirmation de suppression",
+        "message": "Voulez-vous vraiment supprimer le livre \"%{bookTitle} ?\""
+    }}
+}

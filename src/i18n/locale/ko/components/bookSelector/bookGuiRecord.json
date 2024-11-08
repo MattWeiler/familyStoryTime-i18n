@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "선택하다",
+                "ariaLabel": "%{bookTitle} 책을 선택하세요"
+            },
+            "edit": {
+                "title": "편집하다",
+                "ariaLabel": "%{bookTitle} 책 편집"
+            },
+            "delete": {
+                "title": "삭제",
+                "ariaLabel": "%{bookTitle} 책 삭제"
+            },
+            "export": {
+                "title": "내보내다",
+                "ariaLabel": "%{bookTitle} 책 내보내기"
+            }
+        },
+        "ariaLabel": "%{bookTitle} 책의 컨텍스트 메뉴를 열어주세요"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} 페이지",
+            "one": "%{count} 페이지"
+        },
+        "ariaLabel": {
+            "other": "%{count} 페이지",
+            "one": "%{count} 페이지"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "%{bookTitle} 도서를 선택하세요",
+        "selected": "%{bookTitle} 도서 선택 취소"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} 독자",
+            "one": "%{count} 독자"
+        },
+        "ariaLabel": {
+            "other": "%{bookTitle} 책의 독자는 %{count}명입니다.",
+            "one": "%{bookTitle} 책의 독자는 %{count}명입니다."
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "이야기를 읽어보세요: %{bookTitle}",
+        "selectionMode": "%{bookTitle} 도서"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "add": "Bæta við",
+    "cancel": "Hætta við",
+    "no": "Nei",
+    "verifying": "að sannreyna...",
+    "set": "Sett",
+    "yes": "Já",
+    "back": "Til baka",
+    "loading": "hleður...",
+    "required": "krafist",
+    "acknowledgeError": "viðurkenna villuna",
+    "saving": "sparnaður...",
+    "settingsButton": {
+        "text": "Stillingar",
+        "ariaLabel": "farðu á stillingasíðu forrita"
+    },
+    "backButton": {
+        "label": "Til baka",
+        "title": "fara aftur á síðustu síðu",
+        "ariaLabel": "fara aftur á síðustu síðu"
+    },
+    "sending": "sendir...",
+    "create": "Búa til",
+    "ok": "Allt í lagi"
+}

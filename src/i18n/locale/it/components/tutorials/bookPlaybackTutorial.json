@@ -1,0 +1,24 @@
+{
+    "summary": "Puoi riprodurre i libri che hai installato sul tuo dispositivo.",
+    "splashScreen": {
+        "messages": {
+            "1": "Dalla schermata iniziale puoi scegliere come desideri riprodurre il libro e selezionare quale lettore dovrà leggerlo, se applicabile.",
+            "2": "Se al libro sono stati aggiunti dei lettori, potrai scegliere tra le modalità \"Riproduzione automatica\", \"Leggimi\" e \"Leggilo da solo\".",
+            "3": "La modalità \"Riproduzione automatica\" farà sì che il lettore selezionato legga il libro e le pagine verranno cambiate automaticamente.",
+            "4": "La modalità \"Read To Me\" farà leggere il libro al lettore selezionato, ma le pagine dovranno essere cambiate manualmente. ",
+            "5": "La modalità \"Leggilo da solo\" ti consentirà di leggere il libro da solo.",
+            "6": "Se il libro contiene informazioni sulla fonte, sarà presente un'icona che, se cliccata, visualizzerà tali informazioni sulla fonte. "
+        },
+        "title": "Schermata iniziale"
+    },
+    "player": {
+        "messages": {
+            "1": "Durante la riproduzione di un libro, verranno visualizzati i pulsanti di navigazione che ti permetteranno di mettere in pausa/riprodurre l'audio del lettore e di navigare tra le pagine.",
+            "2": "I pulsanti di navigazione possono essere nascosti/mostrati premendo una sola volta l'immagine.",
+            "3": "Alcuni gesti possono essere utilizzati anche per navigare.",
+            "4": "Scorrendo verso sinistra/destra potrai navigare tra le pagine.",
+            "5": "Toccando due volte o pizzicando si eseguirà lo zoom avanti/indietro. "
+        },
+        "title": "Giocatore di libri"
+    }
+}

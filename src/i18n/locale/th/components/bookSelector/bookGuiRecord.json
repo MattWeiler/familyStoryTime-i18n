@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "เลือก",
+                "ariaLabel": "เลือกหนังสือ %{bookTitle}"
+            },
+            "edit": {
+                "title": "แก้ไข",
+                "ariaLabel": "แก้ไขหนังสือ %{bookTitle}"
+            },
+            "delete": {
+                "title": "ลบ",
+                "ariaLabel": "ลบหนังสือ %{bookTitle}"
+            },
+            "export": {
+                "title": "ส่งออก",
+                "ariaLabel": "ส่งออกหนังสือ %{bookTitle}"
+            }
+        },
+        "ariaLabel": "เปิดเมนูบริบทสำหรับหนังสือ %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} หน้า",
+            "one": "%{count} หน้า"
+        },
+        "ariaLabel": {
+            "other": "%{count} หน้า",
+            "one": "%{count} หน้า"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "เลือกหนังสือ %{bookTitle}",
+        "selected": "ยกเลิกการเลือกหนังสือ %{bookTitle}"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "ผู้อ่าน %{count} คน",
+            "one": "ผู้อ่าน %{count} คน"
+        },
+        "ariaLabel": {
+            "other": "หนังสือ %{bookTitle} มีผู้อ่าน %{count} คน",
+            "one": "หนังสือ %{bookTitle} มีผู้อ่าน %{count} คน"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "อ่านเรื่องราว: %{bookTitle}",
+        "selectionMode": "%{bookTitle} หนังสือ"
+    }
+}

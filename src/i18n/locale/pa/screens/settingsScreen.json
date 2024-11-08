@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "ਇਹ ਇਸ ਡਿਵਾਈਸ 'ਤੇ ਸਥਾਪਿਤ ਸਾਰੀਆਂ ਕਿਤਾਬਾਂ ਨੂੰ ਮਿਟਾ ਦੇਵੇਗਾ।\n\n",
+        "button": {
+            "label": "ਮਿਟਾਓ",
+            "title": "ਸਾਰੀਆਂ ਕਿਤਾਬਾਂ ਨੂੰ ਮਿਟਾਓ",
+            "ariaLabel": "ਸਾਰੀਆਂ ਕਿਤਾਬਾਂ ਨੂੰ ਮਿਟਾਓ"
+        },
+        "displayName": "ਸਾਰੀਆਂ ਕਿਤਾਬਾਂ ਮਿਟਾਓ",
+        "processingMessage": "ਮਿਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ...",
+        "shortDescription": {
+            "disabled": "ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਕਿਤਾਬਾਂ ਨੂੰ ਮਿਟਾਓ, ਪਰ ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਸਮੇਂ ਕੋਈ ਵੀ ਕਿਤਾਬਾਂ ਸਥਾਪਤ ਨਹੀਂ ਹਨ।",
+            "enabled": "ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਕਿਤਾਬਾਂ ਨੂੰ ਮਿਟਾਓ।"
+        }
+    },
+    "footer": {
+        "copyright": "%{year} ",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "ਰੰਗ",
+                "someFontsBy": "ਦੁਆਰਾ ਫੌਂਟ:"
+            },
+            "label": "ਵਿਸ਼ੇਸ਼ ਧੰਨਵਾਦ",
+            "icons": {
+                "ionicIcons": "IonIcons",
+                "someIconsBy": "ਦੁਆਰਾ ਆਈਕਾਨ:",
+                "icons8": "ਆਈਕਾਨ 8",
+                "iconArchive": "ਆਈਕਨ ਆਰਕਾਈਵ"
+            }
+        },
+        "version": "ਸੰਸਕਰਣ: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "ਇਸ ਚਿੱਤਰ ਸੰਪਾਦਕ ਦੀ ਵਰਤੋਂ ਉਦੋਂ ਕੀਤੀ ਜਾਵੇਗੀ ਜਦੋਂ ਨਵੀਆਂ ਕਿਤਾਬਾਂ ਦੀਆਂ ਤਸਵੀਰਾਂ ਲਈਆਂ ਜਾ ਰਹੀਆਂ ਹੋਣ ਜਾਂ ਮੌਜੂਦਾ ਕਿਤਾਬ ਚਿੱਤਰ ਨੂੰ ਸੰਪਾਦਿਤ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੋਵੇ।",
+        "displayName": "ਚਿੱਤਰ ਸੰਪਾਦਕ",
+        "testLabel": "ਟੈਸਟ ਚਿੱਤਰ ਸੰਪਾਦਕ",
+        "testImage": {"accessibleImageDisplayName": "ਟੈਸਟ ਚਿੱਤਰ ਸੰਪਾਦਕ ਚਿੱਤਰ"},
+        "options": {
+            "advanced": {
+                "label": "ਉੱਨਤ",
+                "ariaLabel": "ਉੱਨਤ ਚਿੱਤਰ ਸੰਪਾਦਕ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+            },
+            "simple": {
+                "label": "ਸਧਾਰਨ",
+                "ariaLabel": "ਸਧਾਰਨ ਚਿੱਤਰ ਸੰਪਾਦਕ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+            }
+        },
+        "shortDescription": "ਚੁਣੋ ਕਿ ਕਿਹੜਾ ਚਿੱਤਰ ਸੰਪਾਦਕ ਵਰਤਿਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।",
+        "ariaLabel": "ਚੁਣੋ ਕਿ ਕਿਹੜਾ ਚਿੱਤਰ ਸੰਪਾਦਕ ਵਰਤਿਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "ਇਹ ਆਵਾਜ਼ ਉਦੋਂ ਵਰਤੀ ਜਾਵੇਗੀ ਜਦੋਂ \"AI ਰੀਡਰ\" ਪਾਠਕ ਕਿਤਾਬਾਂ ਪੜ੍ਹਦਾ ਹੈ।",
+        "displayName": "ਤਰਜੀਹੀ ਆਵਾਜ਼",
+        "selectorButton": {
+            "defaultLabel": "ਡਿਫਾਲਟ",
+            "ariaLabel": "ਇੱਕ \"AI ਰੀਡਰ\" ਵੌਇਸ ਚੁਣੋ"
+        },
+        "shortDescription": "\"AI ਰੀਡਰ\" ਦੁਆਰਾ ਵਰਤੀ ਜਾਣ ਵਾਲੀ ਆਵਾਜ਼ ਦੀ ਚੋਣ ਕਰੋ।",
+        "picker": {
+            "default": "ਡਿਫਾਲਟ",
+            "networkActionIcon": {"ariaLabel": "ਸਥਾਨਕ ਅਤੇ ਨੈੱਟਵਰਕ ਆਧਾਰਿਤ ਆਵਾਜ਼ ਦਿਖਾਓ"},
+            "label": "ਏਆਈ ਰੀਡਰ ਵੌਇਸ",
+            "ariaLabel": "ਇੱਕ \"AI ਰੀਡਰ\" ਵੌਇਸ ਚੁਣੋ",
+            "globalActionIcon": {"ariaLabel": "ਸਾਰੀਆਂ ਭਾਸ਼ਾਵਾਂ ਦਿਖਾਓ"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "ਆਡੀਓ ਅਤੇ ਵੀਡੀਓ",
+        "ariaLabel": {
+            "expanded": "ਆਡੀਓ ਵੀਡੀਓ ਚੋਣ ਭਾਗ ਨੂੰ ਸਮੇਟੋ",
+            "collapsed": "ਆਡੀਓ ਵੀਡੀਓ ਚੋਣ ਭਾਗ ਦਾ ਵਿਸਤਾਰ ਕਰੋ"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "ਡਿਵਾਈਸ ਕੈਮਰੇ ਨਾਲ ਤਸਵੀਰਾਂ ਖਿੱਚਣ ਵੇਲੇ ਇਹ ਚਿੱਤਰ ਗੁਣਵੱਤਾ ਵਰਤੀ ਜਾਵੇਗੀ।",
+        "slider": {
+            "highLabel": "ਉੱਚ",
+            "ariaLabel": "ਤਸਵੀਰਾਂ ਦੀ ਚਿੱਤਰ ਗੁਣਵੱਤਾ",
+            "lowLabel": "ਘੱਟ"
+        },
+        "displayName": "ਕੈਮਰੇ ਦੀ ਗੁਣਵੱਤਾ %{value}%",
+        "testLabel": "ਟੈਸਟ ਕੈਮਰਾ",
+        "testImage": {"accessibleImageDisplayName": "ਟੈਸਟ ਕੈਮਰਾ ਗੁਣਵੱਤਾ ਚਿੱਤਰ"},
+        "shortDescription": "ਕੈਮਰੇ ਨਾਲ ਲਈਆਂ ਗਈਆਂ ਤਸਵੀਰਾਂ ਦੀ ਚਿੱਤਰ ਗੁਣਵੱਤਾ ਦੀ ਚੋਣ ਕਰੋ।"
+    },
+    "title": "ਸੈਟਿੰਗਾਂ",
+    "confirmations": {"deleteAllBooks": {
+        "title": "ਮਿਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ",
+        "message": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਸਥਾਪਤ ਕੀਤੀਆਂ ਸਾਰੀਆਂ ਕਿਤਾਬਾਂ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "ਇਹ ਇੱਕ ਨਵੀਂ ਡਿਵਾਈਸ ਤੇ ਮਾਈਗਰੇਟ ਕਰਨ ਜਾਂ ਤੁਹਾਡੀਆਂ ਕਿਤਾਬਾਂ ਨੂੰ ਕਈ ਡਿਵਾਈਸਾਂ ਵਿੱਚ ਜੋੜਨ ਵੇਲੇ ਉਪਯੋਗੀ ਹੋ ਸਕਦਾ ਹੈ।",
+        "button": {
+            "label": "ਨਿਰਯਾਤ",
+            "title": "ਸਾਰੀਆਂ ਕਿਤਾਬਾਂ ਐਕਸਪੋਰਟ ਕਰੋ",
+            "ariaLabel": "ਸਾਰੀਆਂ ਕਿਤਾਬਾਂ ਐਕਸਪੋਰਟ ਕਰੋ"
+        },
+        "displayName": "ਸਾਰੀਆਂ ਕਿਤਾਬਾਂ ਨਿਰਯਾਤ ਕਰੋ",
+        "shortDescription": {
+            "disabled": "ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਕਿਤਾਬਾਂ ਨੂੰ ਇੱਕ ਫਾਈਲ ਵਿੱਚ ਨਿਰਯਾਤ ਕਰੋ ਅਤੇ ਇਸਨੂੰ ਸੁਰੱਖਿਅਤ/ਸਾਂਝਾ ਕਰੋ, ਪਰ ਤੁਹਾਡੇ ਕੋਲ ਇਸ ਵੇਲੇ ਕੋਈ ਕਿਤਾਬਾਂ ਸਥਾਪਤ ਨਹੀਂ ਹਨ।",
+            "enabled": "ਆਪਣੀਆਂ ਸਾਰੀਆਂ ਕਿਤਾਬਾਂ ਨੂੰ ਇੱਕ ਫਾਈਲ ਵਿੱਚ ਐਕਸਪੋਰਟ ਕਰੋ ਅਤੇ ਇਸਨੂੰ ਸੇਵ/ਸਾਂਝਾ ਕਰੋ।"
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "ਮਿਟਾਉਣਾ ਅਸਫਲ ਰਿਹਾ",
+        "success": {
+            "other": "%{count} ਕਿਤਾਬਾਂ ਨੂੰ ਹਟਾਇਆ ਗਿਆ",
+            "one": "1 ਕਿਤਾਬ ਨੂੰ ਮਿਟਾਇਆ"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "AI ਰੀਡਰ",
+        "testLabel": "ਅਵਾਜ਼ ਦੀ ਜਾਂਚ ਕਰੋ",
+        "testAriaLabel": {
+            "stopped": "\"AI ਰੀਡਰ\" ਵੌਇਸ ਦੀ ਜਾਂਚ ਕਰੋ",
+            "playing": "\"AI ਰੀਡਰ\" ਵੌਇਸ ਟੈਸਟ ਨੂੰ ਰੋਕੋ"
+        },
+        "testPhrase": "ਹੈਲੋ, ਮੈਂ ਤੁਹਾਡੇ ਨਾਲ ਤੁਹਾਡੀਆਂ ਮਨਪਸੰਦ ਕਹਾਣੀਆਂ ਪੜ੍ਹਨਾ ਪਸੰਦ ਕਰਾਂਗਾ।",
+        "description": "ਜਦੋਂ ਚਾਲੂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ, ਤਾਂ ਕਿਤਾਬਾਂ ਨੂੰ ਚਲਾਉਣ ਵੇਲੇ \"AI ਰੀਡਰ\" ਇੱਕ ਪਾਠਕ ਵਜੋਂ ਉਪਲਬਧ ਹੋਵੇਗਾ।",
+        "ariaLabel": {
+            "expanded": "\"AI ਰੀਡਰ\" ਚੋਣ ਭਾਗ ਨੂੰ ਸਮੇਟੋ",
+            "collapsed": "\"AI ਰੀਡਰ\" ਚੋਣ ਭਾਗ ਦਾ ਵਿਸਤਾਰ ਕਰੋ",
+            "disabled": "\"AI ਰੀਡਰ\" ਅਯੋਗ ਹੈ",
+            "enabled": "\"AI ਰੀਡਰ\" ਸਮਰਥਿਤ ਹੈ"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "ਇਹ \"AI ਰੀਡਰ\" ਰੀਡਰ ਦੁਆਰਾ ਕਿਤਾਬਾਂ ਪੜ੍ਹਣ ਵੇਲੇ ਵਰਤੀ ਗਈ ਆਵਾਜ਼ ਦੀ ਪਿਚ ਨੂੰ ਦਰਸਾਉਂਦਾ ਹੈ।",
+        "slider": {
+            "highLabel": "ਉੱਚ",
+            "ariaLabel": "\"AI ਰੀਡਰ\" ਦੀ ਵੌਇਸ ਪਿੱਚ",
+            "lowLabel": "ਘੱਟ"
+        },
+        "displayName": "ਵੌਇਸ ਪਿੱਚ %{value}%",
+        "shortDescription": "\"AI ਰੀਡਰ\" ਦੁਆਰਾ ਵਰਤੀ ਜਾਣ ਵਾਲੀ ਆਵਾਜ਼ ਦੀ ਪਿੱਚ ਚੁਣੋ।"
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "ਡਿਵਾਈਸ ਮਾਈਕ੍ਰੋਫੋਨ ਨਾਲ ਰਿਕਾਰਡਿੰਗ ਕਰਨ ਵੇਲੇ ਇਹ ਆਡੀਓ ਗੁਣਵੱਤਾ ਵਰਤੀ ਜਾਵੇਗੀ।",
+        "displayName": "ਮਾਈਕ੍ਰੋਫੋਨ ਗੁਣਵੱਤਾ",
+        "testLabel": "ਮਾਈਕ੍ਰੋਫ਼ੋਨ ਦੀ ਜਾਂਚ ਕਰੋ",
+        "options": {
+            "high": {
+                "label": "ਉੱਚ",
+                "ariaLabel": "ਉੱਚ ਆਡੀਓ ਗੁਣਵੱਤਾ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+            },
+            "low": {
+                "label": "ਘੱਟ",
+                "ariaLabel": "ਘੱਟ ਆਡੀਓ ਗੁਣਵੱਤਾ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+            }
+        },
+        "shortDescription": "ਮਾਈਕ੍ਰੋਫ਼ੋਨ ਨਾਲ ਲਈਆਂ ਗਈਆਂ ਰਿਕਾਰਡਿੰਗਾਂ ਦੀ ਆਡੀਓ ਗੁਣਵੱਤਾ ਚੁਣੋ।",
+        "ariaLabel": "ਮਾਈਕ੍ਰੋਫੋਨ ਨਾਲ ਲਈਆਂ ਗਈਆਂ ਰਿਕਾਰਡਿੰਗਾਂ ਦੀ ਆਡੀਓ ਗੁਣਵੱਤਾ ਦੀ ਚੋਣ ਕਰੋ",
+        "testAudioSelector": {"accessibleAudioDisplayName": "ਮਾਈਕ੍ਰੋਫ਼ੋਨ ਕੁਆਲਟੀ ਦੀ ਜਾਂਚ ਕਰੋ"}
+    },
+    "subtitle": "ਆਪਣੀਆਂ ਐਪਲੀਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ ਨੂੰ ਇੱਥੇ ਅੱਪਡੇਟ ਕਰੋ।",
+    "themeSelection": {
+        "longDescription": "ਜੇਕਰ ਕੋਈ ਥੀਮ ਇੱਥੇ ਚੁਣਿਆ ਗਿਆ ਹੈ, ਤਾਂ ਇਹ ਤੁਹਾਡੇ ਕੋਲ ਜੋ ਵੀ ਡਿਵਾਈਸ ਥੀਮ ਸੈਟਿੰਗਾਂ ਹਨ, ਨੂੰ ਓਵਰਰਾਈਡ ਕਰ ਦੇਵੇਗਾ।",
+        "displayName": "ਥੀਮ ਦੀ ਚੋਣ",
+        "options": {
+            "default": {
+                "label": "ਸਿਸਟਮ",
+                "ariaLabel": "ਸਿਸਟਮ ਪਰਿਭਾਸ਼ਿਤ ਥੀਮ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+            },
+            "light": {
+                "label": "ਚਾਨਣ",
+                "ariaLabel": "ਲਾਈਟ ਥੀਮ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+            },
+            "dark": {
+                "label": "ਹਨੇਰਾ",
+                "ariaLabel": "ਡਾਰਕ ਥੀਮ ਦੀ ਵਰਤੋਂ ਕਰੋ"
+            }
+        },
+        "shortDescription": "ਉਹ ਥੀਮ ਚੁਣੋ ਜੋ ਐਪਲੀਕੇਸ਼ਨ ਦੁਆਰਾ ਵਰਤੀ ਜਾਣੀ ਚਾਹੀਦੀ ਹੈ।",
+        "ariaLabel": "ਉਹ ਥੀਮ ਚੁਣੋ ਜੋ ਐਪਲੀਕੇਸ਼ਨ ਦੁਆਰਾ ਵਰਤੀ ਜਾਣੀ ਚਾਹੀਦੀ ਹੈ"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "ਇਹ ਉਦੋਂ ਵਰਤੀ ਗਈ ਆਵਾਜ਼ ਦੀ ਦਰ ਨੂੰ ਦਰਸਾਉਂਦਾ ਹੈ ਜਦੋਂ \"AI ਰੀਡਰ\" ਪਾਠਕ ਕਿਤਾਬਾਂ ਪੜ੍ਹਦਾ ਹੈ।",
+        "slider": {
+            "highLabel": "ਤੇਜ਼",
+            "ariaLabel": "\"AI ਰੀਡਰ\" ਦੀ ਬੋਲੀ ਦੀ ਦਰ",
+            "lowLabel": "ਹੌਲੀ"
+        },
+        "displayName": "ਬੋਲੀ ਦੀ ਦਰ %{value}%",
+        "shortDescription": "\"AI ਰੀਡਰ\" ਦੁਆਰਾ ਵਰਤੀ ਜਾਣ ਵਾਲੀ ਆਵਾਜ਼ ਦੀ ਦਰ ਨੂੰ ਚੁਣੋ।"
+    },
+    "parentalLocking": {
+        "longDescription": "ਜਦੋਂ ਸਮਰਥਿਤ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਐਪਲੀਕੇਸ਼ਨ ਵਿੱਚ ਉੱਨਤ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਨੂੰ ਅਨਲੌਕ ਕਰਨ ਲਈ ਡਿਵਾਈਸ ਮਾਲਕਾਂ ਦੇ ਬਾਇਓਮੈਟ੍ਰਿਕ ਡੇਟਾ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ।",
+        "displayName": "ਪੇਰੈਂਟਲ ਲਾਕਿੰਗ",
+        "shortDescription": "ਜਦੋਂ ਬੱਚੇ ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰ ਰਹੇ ਹੁੰਦੇ ਹਨ ਤਾਂ ਮਾਤਾ-ਪਿਤਾ ਦੀ ਤਾਲਾਬੰਦੀ ਲਾਭਦਾਇਕ ਹੋ ਸਕਦੀ ਹੈ।",
+        "ariaLabel": {
+            "disabled": "ਪੇਰੈਂਟਲ ਲੌਕਿੰਗ ਅਸਮਰੱਥ ਹੈ",
+            "enabled": "ਪੇਰੈਂਟਲ ਲੌਕਿੰਗ ਸਮਰਥਿਤ ਹੈ"
+        }
+    }
+}

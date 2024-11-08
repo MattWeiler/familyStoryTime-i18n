@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Lựa chọn",
+                "ariaLabel": "chọn cuốn sách %{bookTitle}"
+            },
+            "edit": {
+                "title": "Biên tập",
+                "ariaLabel": "chỉnh sửa cuốn sách %{bookTitle}"
+            },
+            "delete": {
+                "title": "Xóa bỏ",
+                "ariaLabel": "xóa cuốn sách %{bookTitle}"
+            },
+            "export": {
+                "title": "Xuất khẩu",
+                "ariaLabel": "xuất sách %{bookTitle}"
+            }
+        },
+        "ariaLabel": "mở menu ngữ cảnh cho sách %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} trang",
+            "one": "trang %{count}"
+        },
+        "ariaLabel": {
+            "other": "%{count} trang",
+            "one": "trang %{count}"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "chọn cuốn sách %{bookTitle}",
+        "selected": "bỏ chọn cuốn sách %{bookTitle}"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} độc giả",
+            "one": "%{count} người đọc"
+        },
+        "ariaLabel": {
+            "other": "cuốn sách %{bookTitle} có %{count} người đọc",
+            "one": "cuốn sách %{bookTitle} có %{count} người đọc"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "đọc câu chuyện: %{bookTitle}",
+        "selectionMode": "%{bookTitle} cuốn sách"
+    }
+}

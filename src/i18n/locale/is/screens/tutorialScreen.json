@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Gefur okkur álit"},
+        "intro": {"displayName": "Inngangur"},
+        "createBooks": {"displayName": "Að búa til bækur"},
+        "parentalLocking": {"displayName": "Foreldralæsing"},
+        "sharingBooks": {"displayName": "Að deila bókum"},
+        "bookPlayback": {"displayName": "Að spila bækur"},
+        "bookStore": {"displayName": "Bókabúðin"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "skoða %{pageName} síðuna"},
+        "backPageButton": {"ariaLabel": "farðu aftur 1 síðu"},
+        "forwardPageButton": {"ariaLabel": "farðu áfram 1 síðu"}
+    },
+    "startLink": {
+        "label": "Byrjaðu",
+        "ariaLabel": "farðu á heimasíðuna"
+    }
+}

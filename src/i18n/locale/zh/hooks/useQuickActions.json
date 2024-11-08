@@ -1,0 +1,14 @@
+{
+    "feedback": {
+        "subtitle": "告诉我们如何改进",
+        "title": "留下反馈"
+    },
+    "settings": {
+        "subtitle": "更改您的设置",
+        "title": "设置"
+    },
+    "bookBuilder": {
+        "subtitle": "创建一本新书",
+        "title": "创建一本书"
+    }
+}

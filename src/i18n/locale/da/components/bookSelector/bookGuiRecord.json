@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Vælge",
+                "ariaLabel": "vælg bogen %{bookTitle}"
+            },
+            "edit": {
+                "title": "Redigere",
+                "ariaLabel": "rediger bogen %{bookTitle}"
+            },
+            "delete": {
+                "title": "Slet",
+                "ariaLabel": "slet bogen %{bookTitle}"
+            },
+            "export": {
+                "title": "Eksportere",
+                "ariaLabel": "eksporter bogen %{bookTitle}"
+            }
+        },
+        "ariaLabel": "åbn kontekstmenuen for bog %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} sider",
+            "one": "%{count} side"
+        },
+        "ariaLabel": {
+            "other": "%{count} sider",
+            "one": "%{count} side"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "vælg bogen %{bookTitle}",
+        "selected": "fravælg %{bookTitle}-bogen"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} læsere",
+            "one": "%{count} læser"
+        },
+        "ariaLabel": {
+            "other": "bogen %{bookTitle} har %{count} læsere",
+            "one": "bogen %{bookTitle} har %{count} læser"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "læs historien: %{bookTitle}",
+        "selectionMode": "%{bookTitle} bog"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "summary": "Você pode reproduzir livros instalados em seu dispositivo.",
+    "splashScreen": {
+        "messages": {
+            "1": "Na tela inicial você pode escolher como deseja que o livro seja reproduzido e selecionar qual leitor deve ler o livro, se aplicável.",
+            "2": "Se o livro tiver leitores adicionados, você poderá selecionar entre os modos \"Auto Play\", \"Read To Me\" e \"Read It Myself\".",
+            "3": "O modo \u201cAuto Play\u201d fará com que o leitor selecionado leia o livro e as páginas serão alteradas automaticamente.",
+            "4": "O modo \u201cRead To Me\u201d fará com que o leitor selecionado leia o livro, mas as páginas terão que ser alteradas manualmente. ",
+            "5": "O modo \"Read It Myself\" permitirá que você leia o livro sozinho.",
+            "6": "Se o livro contiver informações de origem, haverá um ícone que, quando clicado, exibirá essas informações de origem. "
+        },
+        "title": "Tela inicial"
+    },
+    "player": {
+        "messages": {
+            "1": "Ao reproduzir um livro, serão exibidos botões de navegação que permitirão pausar/reproduzir o áudio do leitor, bem como navegar entre as páginas.",
+            "2": "Os botões de navegação podem ser ocultados/exibidos pressionando uma vez a imagem.",
+            "3": "Alguns gestos também podem ser usados \u200b\u200bpara navegar.",
+            "4": "Deslizar para a esquerda/direita navegará entre as páginas.",
+            "5": "Tocar duas vezes ou beliscar aumentará/diminuirá o zoom. "
+        },
+        "title": "Leitor de livros"
+    }
+}

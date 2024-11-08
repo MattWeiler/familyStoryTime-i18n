@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "envio de e-mail não suportado",
+        "submissionFailed": "erro no envio falhou",
+        "submissionSuccess": "erro enviado"
+    },
+    "submitButton": {
+        "text": "Enviar bug",
+        "ariaLabel": "enviar o bug"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Adicione o(s) livro(s) que podem estar causando o problema.",
+            "label": "Livros para anexar"
+        },
+        "loadFailed": "falha ao carregar livros",
+        "noBooksInstalled": "nenhum livro instalado",
+        "picker": {
+            "header": "Selecione o(s) livro(s)",
+            "ariaLabel": "selecione quais livros devem ser anexados ao feedback do bug"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "faça alterações nos livros anexados ao seu feedback sobre bugs"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Forneça alguns detalhes sobre o bug.",
+        "description": "Forneça detalhes sobre o bug.",
+        "label": "Detalhes do bug",
+        "ariaLabel": "descrição do bug"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "summary": "Bevor Sie Ihr Gerät Ihrem Kind geben, können Sie die Anwendung sperren, um zu verhindern, dass Kinder Bücher löschen oder andere Änderungen vornehmen.",
+    "enabling": {
+        "messages": {
+            "1": "Um die Kindersicherungsfunktion zu aktivieren, öffnen Sie das Hamburger-Menü und drücken Sie oben rechts auf das Symbol zum Öffnen des Schlosses.",
+            "2": "Dadurch werden Sie aufgefordert, Ihre biometrische Bestätigung anzugeben, wodurch die Kindersicherungsfunktion initialisiert wird.",
+            "3": "Nachdem die Kindersicherungsfunktion aktiviert wurde, wird die Anwendung durch Drücken des Symbols zum Öffnen des Schlosses gesperrt.",
+            "4": "Wenn die Kindersicherungsfunktion aktiviert ist, befindet sich die Anwendung bei jedem Start im Sperrmodus."
+        },
+        "title": "Aktivieren Sie die Kindersicherung"
+    },
+    "disabling": {
+        "messages": {
+            "1": "Um die Kindersicherungsfunktion zu deaktivieren, öffnen Sie das Hamburger-Menü und drücken Sie unten auf das Einstellungselement.",
+            "2": "Deaktivieren Sie auf der Einstellungsseite die Funktion \u201eKindersicherung\u201c."
+        },
+        "title": "Deaktivieren Sie die Kindersicherung"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Wenn die Anwendung gesperrt ist, werden mehrere Funktionen der Anwendung nicht angezeigt, z. B. Kontextmenüs oder Schaltflächen, mit denen Sie Bücher hinzufügen/entfernen können.",
+            "2": "Dadurch wird die Anwendung in einen schreibgeschützten Modus versetzt, der für Kinder sicher ist.",
+            "3": "Um auf diese versteckten Funktionen zugreifen zu können, müssen Sie die Anwendung entsperren."
+        },
+        "title": "Gesperrte Funktionen"
+    },
+    "locked": {
+        "messages": {
+            "1": "Um die Anwendung zu entsperren, öffnen Sie das Hamburger-Menü und drücken Sie oben rechts auf das geschlossene Schlosssymbol.",
+            "2": "Dadurch werden Sie aufgefordert, Ihre biometrische Bestätigung anzugeben, wodurch die Anwendung entsperrt wird."
+        },
+        "title": "Anwendung entsperren"
+    }
+}

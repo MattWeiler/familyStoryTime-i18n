@@ -1,0 +1,34 @@
+{
+    "summary": "Før du afleverer din enhed til dit barn, kan du låse applikationen ned for at forhindre børn i at slette bøger eller foretage andre ændringer.",
+    "enabling": {
+        "messages": {
+            "1": "For at aktivere børnesikringsfunktionen skal du åbne hamburgermenuen og trykke på ikonet for åben lås øverst til højre.",
+            "2": "Dette vil bede dig om at give din biometriske bekræftelse, som vil initialisere forældrelåsen.",
+            "3": "Nu hvor forældrelåsningsfunktionen er blevet aktiveret, vil et tryk på åben låseikonet låse applikationen.",
+            "4": "Når forældrelåsningsfunktionen er aktiveret, vil den være i låst tilstand, hver gang applikationen startes."
+        },
+        "title": "Aktiver forældrelås"
+    },
+    "disabling": {
+        "messages": {
+            "1": "For at deaktivere børnesikringsfunktionen skal du åbne hamburgermenuen og trykke på indstillingspunktet nederst.",
+            "2": "På indstillingssiden skal du fravælge funktionen \"Forældrelåsning\"."
+        },
+        "title": "Deaktiver forældrelås"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Når applikationen er låst, vil flere funktioner i applikationen ikke blive vist, såsom kontekstmenuer eller knapper, der giver dig mulighed for at tilføje/fjerne bøger.",
+            "2": "Dette sætter applikationen i en skrivebeskyttet tilstand, som er sikker for børn at bruge.",
+            "3": "For at få adgang til disse skjulte funktioner skal du låse applikationen op."
+        },
+        "title": "Låste funktioner"
+    },
+    "locked": {
+        "messages": {
+            "1": "For at låse applikationen op skal du åbne hamburgermenuen og trykke på det lukkede låseikon øverst til højre.",
+            "2": "Dette vil bede dig om at give din biometriske bekræftelse, som låser applikationen op."
+        },
+        "title": "Lås applikation op"
+    }
+}

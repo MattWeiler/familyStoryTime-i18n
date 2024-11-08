@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Selecteer",
+                "ariaLabel": "selecteer het boek %{bookTitle}"
+            },
+            "edit": {
+                "title": "Bewerking",
+                "ariaLabel": "bewerk het boek %{bookTitle}"
+            },
+            "delete": {
+                "title": "Verwijderen",
+                "ariaLabel": "verwijder het boek %{bookTitle}"
+            },
+            "export": {
+                "title": "Exporteren",
+                "ariaLabel": "exporteer het boek %{bookTitle}"
+            }
+        },
+        "ariaLabel": "open het contextmenu voor boek %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} pagina's",
+            "one": "%{count} pagina"
+        },
+        "ariaLabel": {
+            "other": "%{count} pagina's",
+            "one": "%{count} pagina"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "selecteer het %{bookTitle} boek",
+        "selected": "deselecteer het %{bookTitle} boek"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} lezers",
+            "one": "%{count} lezer"
+        },
+        "ariaLabel": {
+            "other": "het boek %{bookTitle} heeft %{count} lezers",
+            "one": "het boek %{bookTitle} heeft %{count} lezer"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "lees het verhaal: %{bookTitle}",
+        "selectionMode": "%{bookTitle} boek"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "mission": "Vi vil gerne hjælpe med at bevare dine yndlingshistorier, læst af dine kære.",
+    "subtitle": "En sjov applikation til at hjælpe børn med at læse.",
+    "paragraphs": {"1": "Børn kan lytte til deres yndlingshistorier læst af deres kære, selvom disse kære er langt væk eller er gået bort."},
+    "accessTutorial": {
+        "messages": {"1": "Du kan til enhver tid få adgang til denne vejledning via hamburgermenuen øverst til venstre i applikationen."},
+        "title": "Få adgang til selvstudiet"
+    }
+}

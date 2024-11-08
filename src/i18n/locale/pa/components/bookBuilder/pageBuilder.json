@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "ਸਫ਼ਾ %{pageNum} ਚਿੱਤਰ"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "ਪੰਨਾ ਪਾਠ ਮੁੜ-ਸਕੈਨ ਕਰੋ",
+                "message": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਟੈਕਸਟ ਲਈ ਚਿੱਤਰ ਨੂੰ ਸਕੈਨ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਅਤੇ ਆਪਣੇ ਮੌਜੂਦਾ ਪੰਨੇ ਦੇ ਟੈਕਸਟ ਨੂੰ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+            },
+            "ariaLabel": "ਪੰਨੇ %{pageNum} ਲਈ ਚਿੱਤਰ ਤੋਂ ਟੈਕਸਟ ਕੱਢੋ"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "ਪੰਨੇ %{pageNum} ਵਿੱਚ ਜੋੜਨ ਲਈ ਟੈਕਸਟ",
+                    "withPageText": "ਪੰਨੇ %{pageNum} 'ਤੇ ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਟੈਕਸਟ"
+                },
+                "title": {
+                    "noPageText": "ਪੰਨਾ ਟੈਕਸਟ ਸੈੱਟ ਕਰੋ",
+                    "withPageText": "ਪੰਨਾ ਟੈਕਸਟ ਅੱਪਡੇਟ ਕਰੋ"
+                },
+                "message": {
+                    "noPageText": "ਪੰਨਾ ਪਾਠ ਕੀ ਹੈ?",
+                    "withPageText": "ਤੁਸੀਂ ਪੰਨੇ ਦੇ ਪਾਠ ਨੂੰ ਕਿਸ ਵਿੱਚ ਬਦਲਣਾ ਚਾਹੋਗੇ?"
+                },
+                "inputPlaceholder": "ਜੋੜਨ ਲਈ ਟੈਕਸਟ"
+            },
+            "ariaLabel": "ਪੰਨੇ %{pageNum} ਤੋਂ \"%{pageText}\" ਟੈਕਸਟ ਨੂੰ ਸੋਧੋ"
+        },
+        "moveUpButton": {"ariaLabel": "ਟੈਕਸਟ \"%{pageText}\" ਨੂੰ ਪੰਨੇ %{pageNum} ਤੋਂ ਉੱਪਰ ਲੈ ਜਾਓ"},
+        "removeButton": {
+            "confirmation": {
+                "title": "ਮਿਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ",
+                "message": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਇਸ ਪੰਨੇ ਦੇ ਟੈਕਸਟ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+            },
+            "ariaLabel": "ਪੰਨੇ %{pageNum} ਤੋਂ ਟੈਕਸਟ \"%{pageText}\" ਨੂੰ ਹਟਾਓ"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "ਪੰਨੇ %{pageNum} ਵਿੱਚ ਜੋੜਨ ਲਈ ਟੈਕਸਟ",
+                "title": "ਪੰਨਾ ਟੈਕਸਟ ਸੈੱਟ ਕਰੋ",
+                "message": "ਪੰਨਾ ਪਾਠ ਕੀ ਹੈ?",
+                "inputPlaceholder": "ਜੋੜਨ ਲਈ ਟੈਕਸਟ"
+            },
+            "ariaLabel": "ਪੰਨੇ %{pageNum} ਵਿੱਚ ਨਵਾਂ ਟੈਕਸਟ ਸ਼ਾਮਲ ਕਰੋ"
+        },
+        "label": "ਟੈਕਸਟ",
+        "showHideButton": {"ariaLabel": {
+            "visible": "ਪੰਨੇ %{pageNum} ਤੋਂ ਟੈਕਸਟ \"%{pageText}\" ਨੂੰ ਲੁਕਾਓ",
+            "hidden": "ਪੰਨੇ %{pageNum} ਤੋਂ \"%{pageText}\" ਟੈਕਸਟ ਦਿਖਾਓ"
+        }},
+        "moveDownButton": {"ariaLabel": "ਟੈਕਸਟ \"%{pageText}\" ਨੂੰ ਪੰਨੇ %{pageNum} ਤੋਂ ਹੇਠਾਂ ਲੈ ਜਾਓ"}
+    },
+    "moveUpButton": {"ariaLabel": "ਪੰਨਾ %{pageNum} ਉੱਪਰ ਲੈ ਜਾਓ"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "ਜਦੋਂ \"%{readerDisplayName}\" ਪੰਨਾ %{pageNum} ਪੜ੍ਹ ਰਿਹਾ ਹੋਵੇ ਤਾਂ ਚਲਾਉਣ ਲਈ ਆਡੀਓ।",
+                "noDisplayName": "ਜਦੋਂ ਇਹ ਰੀਡਰ ਪੰਨਾ %{pageNum} ਪੜ੍ਹ ਰਿਹਾ ਹੋਵੇ ਤਾਂ ਚਲਾਉਣ ਲਈ ਆਡੀਓ।"
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "ਪੰਨਾ %{pageNum} %{readerDisplayName} ਰੀਡਰ"
+        },
+        "label": "ਪਾਠਕ"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "ਇਹ ਇਸ ਪੰਨੇ ਲਈ ਰਿਕਾਰਡ ਕੀਤੇ ਸਾਰੇ ਪੰਨੇ ਆਡੀਓ ਨੂੰ ਹਟਾ ਦੇਵੇਗਾ।",
+            "additionalMessage2": "ਇਸ ਨੂੰ ਅਣਡਿੱਠ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ!",
+            "title": "ਮਿਟਾਉਣ ਦੀ ਪੁਸ਼ਟੀ",
+            "message": "ਕੀ ਤੁਸੀਂ ਪੱਕਾ ਪੰਨਾ %{pageNum} ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+        },
+        "ariaLabel": "ਪੰਨਾ ਹਟਾਓ %{pageNum}"
+    },
+    "description": "ਪੰਨੇ %{pageNum} 'ਤੇ ਦਿਖਾਉਣ ਲਈ ਚਿੱਤਰ।",
+    "label": "ਪੰਨਾ %{pageNum}",
+    "moveDownButton": {"ariaLabel": "ਪੰਨੇ %{pageNum} ਨੂੰ ਹੇਠਾਂ ਲਿਜਾਓ"}
+}

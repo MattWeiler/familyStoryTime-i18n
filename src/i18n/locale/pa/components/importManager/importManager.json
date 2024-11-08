@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "ਆਯਾਤ ਪਹਿਲਾਂ ਹੀ ਚੱਲ ਰਿਹਾ ਹੈ, ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+        "download": {"failed": "\"%{bookName}\" ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ।"},
+        "install": {
+            "failed": "\"%{bookName}\" ਨੂੰ ਆਯਾਤ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
+            "successful": "\"%{bookName}\" ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਆਯਾਤ ਕੀਤਾ ਗਿਆ"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "ਰੱਦ ਕਰੋ",
+            "ariaLabel": "ਆਯਾਤ ਨੂੰ ਰੱਦ ਕਰੋ"
+        },
+        "install": {
+            "textLabel": "ਇੰਸਟਾਲ ਕਰੋ",
+            "ariaLabel": "ਚੁਣੀਆਂ ਕਿਤਾਬਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰੋ: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "ਵਿਸ਼ਲੇਸ਼ਣ...",
+        "downloading": "ਡਾਊਨਲੋਡ ਕਰ ਰਿਹਾ ਹੈ...",
+        "installing": "ਇੰਸਟਾਲ ਕਰ ਰਿਹਾ ਹੈ...",
+        "cancelling": "ਰੱਦ ਕਰ ਰਿਹਾ ਹੈ..."
+    },
+    "nothingToInstall": "ਆਯਾਤ ਕਰਨ ਲਈ ਕੁਝ ਨਹੀਂ :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "ਇਹ ਪਾਠਕ ਪਹਿਲਾਂ ਹੀ ਸਥਾਪਿਤ ਕਿਤਾਬ ਦਾ ਹਿੱਸਾ ਹੈ।\n\n"},
+            "checkbox": {"ariaLabel": "ਆਯਾਤ ਵਿੱਚ ਰੀਡਰ %{readerDisplayName} ਨੂੰ ਸ਼ਾਮਲ ਕਰਨ ਲਈ"}
+        },
+        "checkbox": {"ariaLabel": "ਆਯਾਤ ਵਿੱਚ %{bookName} ਕਿਤਾਬ ਸ਼ਾਮਲ ਕਰਨ ਲਈ"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "ਇਹ ਕਿਤਾਬ ਪਹਿਲਾਂ ਹੀ ਤੁਹਾਡੀ ਡਿਵਾਈਸ 'ਤੇ ਹੈ।\n\n"},
+                "full": {
+                    "withReaders": {"label": "ਜੇਕਰ ਤੁਸੀਂ ਓਵਰਰਾਈਟ ਕਰਨਾ ਚੁਣਦੇ ਹੋ, ਤਾਂ ਮੌਜੂਦਾ ਕਿਤਾਬ ਨੂੰ ਨਵੀਂ ਕਿਤਾਬ ਨਾਲ ਬਦਲ ਦਿੱਤਾ ਜਾਵੇਗਾ।\n\n"},
+                    "noReaders": {"label": "ਇਹ ਕਿਤਾਬ ਪਹਿਲਾਂ ਹੀ ਤੁਹਾਡੀ ਡਿਵਾਈਸ 'ਤੇ ਹੈ।\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "ਇਸ ਫ਼ਾਈਲ ਵਿੱਚ ਸਿਰਫ਼ ਔਡੀਓ ਸ਼ਾਮਲ ਹੈ, ਅਤੇ ਕਿਤਾਬ ਤੁਹਾਡੀ ਡੀਵਾਈਸ 'ਤੇ ਸਥਾਪਤ ਨਹੀਂ ਹੈ।\n\n"},
+                "full": {
+                    "withReaders": {"label": "ਇਹ ਕਿਤਾਬ ਤੁਹਾਡੀ ਡਿਵਾਈਸ 'ਤੇ ਨਹੀਂ ਹੈ।\n\n"},
+                    "noReaders": {"label": "ਇਹ ਕਿਤਾਬ ਤੁਹਾਡੀ ਡਿਵਾਈਸ 'ਤੇ ਨਹੀਂ ਹੈ।\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "ਅਭੇਦ",
+                    "ariaLabel": "ਨਵੇਂ ਪਾਠਕਾਂ ਨੂੰ ਜੋੜ ਕੇ ਅਤੇ ਮੌਜੂਦਾ ਪਾਠਕਾਂ ਨੂੰ ਨਵੇਂ ਪਾਠਕਾਂ ਨਾਲ ਓਵਰਰਾਈਟ ਕਰਕੇ ਕਿਤਾਬ %{bookName} ਨੂੰ ਮਿਲਾਓ।"
+                },
+                "overwrite": {
+                    "label": "ਓਵਰਰਾਈਟ",
+                    "ariaLabel": "ਮੌਜੂਦਾ ਕਿਤਾਬ ਨੂੰ ਓਵਰਰਾਈਟ ਕਰੋ %{bookName}"
+                }
+            },
+            "ariaLabel": "ਚੁਣੋ ਕਿ ਕਿਤਾਬ %{bookName} ਲਈ ਕਿਹੜੀ ਆਯਾਤ ਰਣਨੀਤੀ ਵਰਤਣੀ ਹੈ"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "ਆਯਾਤ ਨੂੰ ਰੱਦ ਨਾ ਕਰੋ"},
+            "yes": {"ariaLabel": "ਆਯਾਤ ਨੂੰ ਰੱਦ ਕਰੋ"}
+        },
+        "title": "ਆਯਾਤ ਰੱਦ ਕਰਨ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
+        "message": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਆਯਾਤ ਨੂੰ ਰੱਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
+    }},
+    "titles": {
+        "booksToInstall": "ਇੰਸਟਾਲ ਕਰਨ ਲਈ ਕਿਤਾਬਾਂ",
+        "failedToInstall": "ਕਿਤਾਬਾਂ ਸਥਾਪਤ ਕਰਨ ਵਿੱਚ ਅਸਫਲ"
+    }
+}

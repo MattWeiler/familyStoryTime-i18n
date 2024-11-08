@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Olvasósarok",
+        "ariaLabel": "olvasd el itt a könyveidet"
+    },
+    "bookStore": {
+        "text": "Könyvesbolt",
+        "ariaLabel": "látogassa meg a könyvesboltot"
+    }
+}

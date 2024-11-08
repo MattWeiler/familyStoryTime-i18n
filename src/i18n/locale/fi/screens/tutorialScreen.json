@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Anna meille palautetta"},
+        "intro": {"displayName": "Johdanto"},
+        "createBooks": {"displayName": "Kirjojen luominen"},
+        "parentalLocking": {"displayName": "Lapsilukko"},
+        "sharingBooks": {"displayName": "Kirjojen jakaminen"},
+        "bookPlayback": {"displayName": "Kirjojen pelaaminen"},
+        "bookStore": {"displayName": "Kirjakauppa"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "katso %{pageName} -sivu"},
+        "backPageButton": {"ariaLabel": "palaa 1 sivu taaksepäin"},
+        "forwardPageButton": {"ariaLabel": "eteenpäin 1 sivu"}
+    },
+    "startLink": {
+        "label": "Aloita",
+        "ariaLabel": "mene kotisivulle"
+    }
+}

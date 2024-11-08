@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Coin lecture",
+        "ariaLabel": "lisez vos livres ici"
+    },
+    "bookStore": {
+        "text": "Librairie",
+        "ariaLabel": "visitez la librairie"
+    }
+}

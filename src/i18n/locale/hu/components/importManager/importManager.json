@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "az importálás már fut, próbálkozzon újra később",
+        "download": {"failed": "nem sikerült letölteni a következőt: \"%{bookName}\"."},
+        "install": {
+            "failed": "\"%{bookName}\" importálása sikertelen",
+            "successful": "\u201e%{bookName}\u201d sikeresen importálva"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Mégsem",
+            "ariaLabel": "törölje az importálást"
+        },
+        "install": {
+            "textLabel": "Telepítés",
+            "ariaLabel": "kiválasztott könyvek telepítése: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "elemezve...",
+        "downloading": "letöltés...",
+        "installing": "telepítése...",
+        "cancelling": "lemondás..."
+    },
+    "nothingToInstall": "Nincs mit importálni :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Ez az olvasó már része a telepített könyvnek.\n\n"},
+            "checkbox": {"ariaLabel": "hogy a(z) %{readerDisplayName} olvasót bevonja az importálásba"}
+        },
+        "checkbox": {"ariaLabel": "%{bookName} könyv felvételéhez az importálásba"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Ez a könyv már megtalálható az eszközén.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Ha a felülírást választja, akkor az aktuális könyvet lecseréli az újra.\n\n"},
+                    "noReaders": {"label": "Ez a könyv már megtalálható az eszközén.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Ez a fájl csak hangot tartalmaz, és a könyv nincs telepítve az eszközére.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Ez a könyv nincs az eszközén.\n\n"},
+                    "noReaders": {"label": "Ez a könyv nincs az eszközén.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "összeolvad",
+                    "ariaLabel": "egyesítse a %{bookName} könyvet új olvasók hozzáadásával és a meglévő olvasók új olvasókkal való felülírásával"
+                },
+                "overwrite": {
+                    "label": "átír",
+                    "ariaLabel": "felülírja a meglévő könyvet %{bookName}"
+                }
+            },
+            "ariaLabel": "válassza ki a(z) %{bookName} könyvhöz használni kívánt importálási stratégiát"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "ne szakítsa meg az importálást"},
+            "yes": {"ariaLabel": "törölje az importálást"}
+        },
+        "title": "Erősítse meg az Importálás megszakítását",
+        "message": "Biztosan megszakítja az importálást?"
+    }},
+    "titles": {
+        "booksToInstall": "Telepítendő könyvek",
+        "failedToInstall": "Nem sikerült telepíteni a könyveket"
+    }
+}

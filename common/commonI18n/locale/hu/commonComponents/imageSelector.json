@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "tallózva keressen egy képfájlt",
+        "ariaLabel": "tallózzon egy képfájlt a %{imageDisplayName} képhez"
+    },
+    "takePhotoButton": {
+        "title": "képet készíteni",
+        "ariaLabel": "készítsen képet a %{imageDisplayName} képhez"
+    },
+    "browseImageGalleryButton": {
+        "title": "képgaléria böngészése",
+        "ariaLabel": "tallózzon a képgalériában %{imageDisplayName} képért"
+    },
+    "fullscreenButton": {"ariaLabel": "%{imageDisplayName} kép megjelenítése teljes képernyőn"},
+    "imageEditor": {
+        "cropButton": {"text": "Termés"},
+        "cancelButton": {"text": "Mégsem"},
+        "backButton": {"text": "Vissza"},
+        "saveButton": {"text": "Megtakarítás"}
+    },
+    "editSelectedImageButton": {
+        "title": "szerkeszteni a képet",
+        "ariaLabel": "szerkessze a %{imageDisplayName} képet"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "mutasd meg a %{imageDisplayName} képvezérlőket",
+        "controlsVisible": "elrejteni a %{imageDisplayName} képvezérlőket"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Engedély megtagadva",
+            "message": "Megtagadta az engedélyt a kamerához való hozzáféréshez."
+        },
+        "browseImages": {
+            "title": "Engedély megtagadva",
+            "message": "Megtagadtad a fotóidhoz való hozzáférést."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "teljes képernyő bezárása"}
+}

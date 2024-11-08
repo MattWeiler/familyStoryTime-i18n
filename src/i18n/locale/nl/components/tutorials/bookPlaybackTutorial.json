@@ -1,0 +1,24 @@
+{
+    "summary": "U kunt boeken afspelen die u op uw apparaat hebt geïnstalleerd.",
+    "splashScreen": {
+        "messages": {
+            "1": "Vanuit het opstartscherm kunt u kiezen hoe u het boek wilt afspelen en, indien van toepassing, selecteren welke lezer het boek moet lezen.",
+            "2": "Als er lezers aan het boek zijn toegevoegd, kunt u kiezen tussen de modi 'Automatisch afspelen', 'Lees voor mij' en 'Lees het zelf'.",
+            "3": "De modus \"Automatisch afspelen\" zorgt ervoor dat de geselecteerde lezer het boek leest en dat de pagina's automatisch worden gewijzigd.",
+            "4": "In de modus \"Lees voor mij\" zal de geselecteerde lezer het boek lezen, maar de pagina's moeten handmatig worden gewijzigd. ",
+            "5": "Met de modus \"Lees het zelf\" kunt u het boek zelf lezen.",
+            "6": "Als het boek broninformatie bevat, is er een pictogram dat, wanneer erop wordt geklikt, die broninformatie weergeeft. "
+        },
+        "title": "Opstartscherm"
+    },
+    "player": {
+        "messages": {
+            "1": "Wanneer u een boek afspeelt, worden navigatieknoppen weergegeven waarmee u de audio van de lezer kunt pauzeren/afspelen en tussen pagina's kunt navigeren.",
+            "2": "De navigatieknoppen kunnen worden verborgen/weergegeven door één keer op de afbeelding te drukken.",
+            "3": "Sommige gebaren kunnen ook worden gebruikt om te navigeren.",
+            "4": "Door naar links/rechts te vegen navigeert u tussen pagina's.",
+            "5": "Dubbeltikken of knijpen zoomt in/uit. "
+        },
+        "title": "Boek speler"
+    }
+}

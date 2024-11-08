@@ -1,0 +1,25 @@
+{
+    "add": "Hozzáadás",
+    "cancel": "Mégsem",
+    "no": "Nem",
+    "verifying": "ellenőrzése...",
+    "set": "Készlet",
+    "yes": "Igen",
+    "back": "Vissza",
+    "loading": "betöltés...",
+    "required": "kívánt",
+    "acknowledgeError": "nyugtázza a hibát",
+    "saving": "mentés...",
+    "settingsButton": {
+        "text": "Beállítások elemre",
+        "ariaLabel": "lépjen az alkalmazások beállítási oldalára"
+    },
+    "backButton": {
+        "label": "Vissza",
+        "title": "vissza az utolsó oldalra",
+        "ariaLabel": "vissza az utolsó oldalra"
+    },
+    "sending": "küldés...",
+    "create": "Teremt",
+    "ok": "Rendben"
+}

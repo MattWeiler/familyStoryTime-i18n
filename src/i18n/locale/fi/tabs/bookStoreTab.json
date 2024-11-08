@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "ei, älä poista Käytettävissä olevan kirjan asennusta",
+            "yesButtonAriaLabel": "kyllä, poista käytettävissä olevan kirjan asennus",
+            "title": "Asennuksen poiston vahvistus",
+            "message": "Oletko varma, että haluat poistaa tämän saatavilla olevan kirjan?\n"
+        },
+        "ariaLabel": "poista käytettävissä oleva kirja %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "ilmainen"},
+        "newerVersionAvailableMessage": "Päivitys saatavilla"
+    },
+    "subtitle": "Etsitään hyviä tarinoita luettavaksi.",
+    "loadingFailedMessage": "Saatavilla olevien kirjojen lataaminen epäonnistui.\n",
+    "title": "Kirjakauppa",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "ei, älä asenna saatavilla olevaa kirjaa",
+            "yesButtonAriaLabel": "kyllä, asenna saatavilla oleva kirja",
+            "title": "Asennuksen vahvistus",
+            "message": "Oletko varma, että haluat asentaa tämän saatavilla olevan kirjan?\nTämä käyttää %{fileSize} dataa."
+        },
+        "ariaLabel": "asenna saatavilla oleva kirja %{bookName}"
+    }
+}

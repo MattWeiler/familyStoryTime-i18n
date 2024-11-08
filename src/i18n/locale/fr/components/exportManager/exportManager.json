@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "l'exportation est déjà en cours, réessayez plus tard"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "Annuler",
+            "ariaLabel": "annuler l'exportation"
+        },
+        "export": {
+            "textLabel": "Exporter",
+            "ariaLabel": "exporter les livres sélectionnés"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "Enregistrez vos %{count} livres",
+        "one": "Enregistrer le livre : %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "analyser...",
+        "packaging": "emballage...",
+        "cancelling": "annuler..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "lecteurs",
+                    "ariaLabel": "exporter uniquement les informations du lecteur pour le livre %{bookTitle}"
+                },
+                "full": {
+                    "label": "complet",
+                    "ariaLabel": "exporter le livre entier %{bookTitle}"
+                }
+            },
+            "ariaLabel": "sélectionnez comment exporter le livre %{bookTitle}"
+        },
+        "readers": {"checkbox": {"ariaLabel": "pour inclure le lecteur %{readerDisplayName} dans l'export"}},
+        "checkbox": {"ariaLabel": "pour inclure le livre %{bookTitle} dans l'export"},
+        "bookReadersTooltip": {"label": "La sélection de l'option \"lecteurs\" exportera uniquement les lecteurs choisis.\n\n"}
+    },
+    "packagedMultiBookFileName": "Livres",
+    "nothingToExport": "Rien à exporter :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "n'annulez pas l'exportation"},
+            "yes": {"ariaLabel": "annuler l'exportation"}
+        },
+        "title": "Confirmer Annuler l'exportation",
+        "message": "Etes-vous sûr de vouloir annuler l'exportation ?"
+    }},
+    "titles": {
+        "booksToExport": "Livres à exporter",
+        "failedToExport": "Échec de l'exportation des livres"
+    },
+    "outputFilenameField": {
+        "label": "Nom du fichier de sortie",
+        "ariaLabel": "nom de fichier de sortie attendu"
+    },
+    "errors": {"invalidOutputFilename": "nom de fichier invalide"}
+}

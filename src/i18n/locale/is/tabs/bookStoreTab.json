@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "nei, ekki fjarlægja Available bókina",
+            "yesButtonAriaLabel": "já, fjarlægðu tiltæka bók",
+            "title": "Fjarlægðu staðfestingu",
+            "message": "Ertu viss um að þú viljir fjarlægja þessa tiltæku bók?\n"
+        },
+        "ariaLabel": "fjarlægja tiltæka bók %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "ókeypis"},
+        "newerVersionAvailableMessage": "Uppfærsla í boði"
+    },
+    "subtitle": "Við skulum finna nokkrar góðar sögur til að lesa.",
+    "loadingFailedMessage": "Mistókst að hlaða tiltækum bókum.\n",
+    "title": "Bókabúð",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "nei, ekki setja upp tiltæka bók",
+            "yesButtonAriaLabel": "já, settu upp tiltæka bók",
+            "title": "Uppsetning staðfesting",
+            "message": "Ertu viss um að þú viljir setja upp þessa tiltæku bók?\nÞegar þú gerir það mun %{fileSize} af gögnum nota."
+        },
+        "ariaLabel": "settu upp tiltæka bók %{bookName}"
+    }
+}

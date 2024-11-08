@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Nafn",
+        "placeholder": "John Doe",
+        "ariaLabel": "valfrjálst, nafnið þitt"
+    },
+    "emailInput": {
+        "description": "Gefðu upp ef þú vilt heyra frá okkur.",
+        "label": "Netfang",
+        "placeholder": "einhver@gmail.com",
+        "ariaLabel": "valfrjálst, netfangið þitt"
+    }
+}

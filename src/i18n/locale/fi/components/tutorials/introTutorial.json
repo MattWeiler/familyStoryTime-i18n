@@ -1,0 +1,9 @@
+{
+    "mission": "Haluamme auttaa säilyttämään suosikkitarinoitasi, joita rakkaasi lukevat.",
+    "subtitle": "Hauska sovellus, joka auttaa lapsia lukemaan.",
+    "paragraphs": {"1": "Lapset voivat kuunnella rakkaiden lukemia suosikkitarinoitaan, vaikka he ovat kaukana tai ovat kuolleet."},
+    "accessTutorial": {
+        "messages": {"1": "Voit käyttää tätä opetusohjelmaa milloin tahansa sovelluksen vasemmassa yläkulmassa olevan hampurilaisvalikon kautta."},
+        "title": "Käyttöopas"
+    }
+}
