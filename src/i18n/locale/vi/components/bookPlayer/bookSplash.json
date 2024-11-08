@@ -10,9 +10,18 @@
     },
     "readMode": {
         "items": {
-            "autoRead": {"ariaLabel": "mỗi trang sẽ được đọc cho người dùng bằng giọng nói họ chọn"},
-            "pageRead": {"ariaLabel": "mỗi trang sẽ được đọc cho người dùng bằng giọng nói họ chọn, nhưng người dùng có trách nhiệm thay đổi trang"},
-            "selfRead": {"ariaLabel": "người dùng sẽ đọc từng trang"}
+            "autoRead": {
+                "label": "Tự động phát",
+                "ariaLabel": "mỗi trang sẽ được đọc cho người dùng bằng giọng nói họ chọn"
+            },
+            "pageRead": {
+                "label": "Đọc cho tôi nghe",
+                "ariaLabel": "mỗi trang sẽ được đọc cho người dùng bằng giọng nói họ chọn, nhưng người dùng có trách nhiệm thay đổi trang"
+            },
+            "selfRead": {
+                "label": "Tự đọc nó",
+                "ariaLabel": "người dùng sẽ đọc từng trang"
+            }
         },
         "ariaLabel": "chọn chế độ đọc nào sẽ sử dụng"
     }

@@ -10,9 +10,18 @@
     },
     "readMode": {
         "items": {
-            "autoRead": {"ariaLabel": "hver síða verður lesin fyrir notandann í þeirri rödd sem hann kýs"},
-            "pageRead": {"ariaLabel": "hver síða verður lesin fyrir notandann í þeirri rödd sem hann velur, en notandinn ber ábyrgð á að breyta síðunni"},
-            "selfRead": {"ariaLabel": "notandinn mun lesa hverja síðu"}
+            "autoRead": {
+                "label": "Sjálfvirk spilun",
+                "ariaLabel": "hver síða verður lesin fyrir notandann í þeirri rödd sem hann kýs"
+            },
+            "pageRead": {
+                "label": "Lesið fyrir mig",
+                "ariaLabel": "hver síða verður lesin fyrir notandann í þeirri rödd sem hann velur, en notandinn ber ábyrgð á að breyta síðunni"
+            },
+            "selfRead": {
+                "label": "Lestu það sjálfur",
+                "ariaLabel": "notandinn mun lesa hverja síðu"
+            }
         },
         "ariaLabel": "veldu hvaða lestrarstillingu á að nota"
     }

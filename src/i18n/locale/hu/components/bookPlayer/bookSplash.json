@@ -10,9 +10,18 @@
     },
     "readMode": {
         "items": {
-            "autoRead": {"ariaLabel": "minden oldalt az általa választott hangon olvasnak fel a felhasználónak"},
-            "pageRead": {"ariaLabel": "minden oldalt a felhasználó az általa választott hangon olvas fel, de az oldal megváltoztatásáért a felhasználó felelős"},
-            "selfRead": {"ariaLabel": "a felhasználó minden oldalt elolvas"}
+            "autoRead": {
+                "label": "Automatikus lejátszás",
+                "ariaLabel": "minden oldalt az általa választott hangon olvasnak fel a felhasználónak"
+            },
+            "pageRead": {
+                "label": "Olvass nekem",
+                "ariaLabel": "minden oldalt a felhasználó az általa választott hangon olvas fel, de az oldal megváltoztatásáért a felhasználó felelős"
+            },
+            "selfRead": {
+                "label": "Olvasd el Magam",
+                "ariaLabel": "a felhasználó minden oldalt elolvas"
+            }
         },
         "ariaLabel": "válassza ki a használni kívánt olvasási módot"
     }

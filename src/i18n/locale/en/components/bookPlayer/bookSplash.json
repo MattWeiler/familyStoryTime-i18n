@@ -4,14 +4,17 @@
 
         "items": {
             "autoRead": {
+                "label": "Auto Play",
                 "ariaLabel": "each page will be read to the user in the voice of their choosing"
             },
 
             "pageRead": {
+                "label": "Read To Me",
                 "ariaLabel": "each page will be read to the user in the voice of their choosing, but the user is responsible for changing the page"
             },
 
             "selfRead": {
+                "label": "Read It Myself",
                 "ariaLabel": "the user will read each page"
             }
         }

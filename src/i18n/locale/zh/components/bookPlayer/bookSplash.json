@@ -10,9 +10,18 @@
     },
     "readMode": {
         "items": {
-            "autoRead": {"ariaLabel": "每个页面都将以用户选择的声音朗读给用户"},
-            "pageRead": {"ariaLabel": "每个页面都会以用户选择的声音朗读给用户，但用户负责更改页面"},
-            "selfRead": {"ariaLabel": "用户将阅读每一页"}
+            "autoRead": {
+                "label": "自动播放",
+                "ariaLabel": "每个页面都将以用户选择的声音朗读给用户"
+            },
+            "pageRead": {
+                "label": "读给我听",
+                "ariaLabel": "每个页面都会以用户选择的声音朗读给用户，但用户负责更改页面"
+            },
+            "selfRead": {
+                "label": "我自己读一下",
+                "ariaLabel": "用户将阅读每一页"
+            }
         },
         "ariaLabel": "选择要使用的阅读模式"
     }

@@ -10,9 +10,18 @@
     },
     "readMode": {
         "items": {
-            "autoRead": {"ariaLabel": "hver side vil blive læst op for brugeren med stemmen efter eget valg"},
-            "pageRead": {"ariaLabel": "hver side vil blive læst for brugeren med stemmen efter eget valg, men brugeren er ansvarlig for at ændre siden"},
-            "selfRead": {"ariaLabel": "brugeren vil læse hver side"}
+            "autoRead": {
+                "label": "Automatisk afspilning",
+                "ariaLabel": "hver side vil blive læst op for brugeren med stemmen efter eget valg"
+            },
+            "pageRead": {
+                "label": "Læs for mig",
+                "ariaLabel": "hver side vil blive læst for brugeren med stemmen efter eget valg, men brugeren er ansvarlig for at ændre siden"
+            },
+            "selfRead": {
+                "label": "Læs det selv",
+                "ariaLabel": "brugeren vil læse hver side"
+            }
         },
         "ariaLabel": "vælg hvilken læsetilstand der skal bruges"
     }

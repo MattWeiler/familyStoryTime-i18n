@@ -10,9 +10,18 @@
     },
     "readMode": {
         "items": {
-            "autoRead": {"ariaLabel": "elke pagina wordt aan de gebruiker voorgelezen met de stem van zijn of haar keuze"},
-            "pageRead": {"ariaLabel": "elke pagina wordt aan de gebruiker voorgelezen met de stem van zijn of haar keuze, maar de gebruiker is verantwoordelijk voor het wijzigen van de pagina"},
-            "selfRead": {"ariaLabel": "de gebruiker leest elke pagina"}
+            "autoRead": {
+                "label": "Automatisch afspelen",
+                "ariaLabel": "elke pagina wordt aan de gebruiker voorgelezen met de stem van zijn of haar keuze"
+            },
+            "pageRead": {
+                "label": "Lees voor mij",
+                "ariaLabel": "elke pagina wordt aan de gebruiker voorgelezen met de stem van zijn of haar keuze, maar de gebruiker is verantwoordelijk voor het wijzigen van de pagina"
+            },
+            "selfRead": {
+                "label": "Lees het zelf",
+                "ariaLabel": "de gebruiker leest elke pagina"
+            }
         },
         "ariaLabel": "selecteer welke leesmodus u wilt gebruiken"
     }

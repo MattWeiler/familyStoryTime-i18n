@@ -10,9 +10,18 @@
     },
     "readMode": {
         "items": {
-            "autoRead": {"ariaLabel": "każda strona będzie czytana użytkownikowi wybranym przez niego głosem"},
-            "pageRead": {"ariaLabel": "każda strona będzie czytana użytkownikowi wybranym przez niego głosem, ale to użytkownik jest odpowiedzialny za zmianę strony"},
-            "selfRead": {"ariaLabel": "użytkownik przeczyta każdą stronę"}
+            "autoRead": {
+                "label": "Automatyczne odtwarzanie",
+                "ariaLabel": "każda strona będzie czytana użytkownikowi wybranym przez niego głosem"
+            },
+            "pageRead": {
+                "label": "Przeczytaj mi",
+                "ariaLabel": "każda strona będzie czytana użytkownikowi wybranym przez niego głosem, ale to użytkownik jest odpowiedzialny za zmianę strony"
+            },
+            "selfRead": {
+                "label": "Przeczytaj to sam",
+                "ariaLabel": "użytkownik przeczyta każdą stronę"
+            }
         },
         "ariaLabel": "wybierz tryb czytania, którego chcesz używać"
     }
