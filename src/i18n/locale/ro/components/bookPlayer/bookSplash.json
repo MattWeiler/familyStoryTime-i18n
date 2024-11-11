@@ -1,0 +1,28 @@
+{
+    "startButton": {
+        "title": "începe cartea",
+        "ariaLabel": "începe cartea"
+    },
+    "selectedReaderImage": {"ariaLabel": "selectați vocea pentru a citi cartea"},
+    "skipIntroButton": {
+        "title": "sări peste intro",
+        "ariaLabel": "sări peste intro"
+    },
+    "readMode": {
+        "items": {
+            "autoRead": {
+                "label": "Redare automată",
+                "ariaLabel": "fiecare pagină va fi citită utilizatorului cu vocea pe care o alege"
+            },
+            "pageRead": {
+                "label": "Citește Mie",
+                "ariaLabel": "fiecare pagină va fi citită utilizatorului cu vocea pe care o alege, dar utilizatorul este responsabil pentru schimbarea paginii"
+            },
+            "selfRead": {
+                "label": "Citește Eu Însumi",
+                "ariaLabel": "utilizatorul va citi fiecare pagină"
+            }
+        },
+        "ariaLabel": "selectați ce mod de citire să utilizați"
+    }
+}

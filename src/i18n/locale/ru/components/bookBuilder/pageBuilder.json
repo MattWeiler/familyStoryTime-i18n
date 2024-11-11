@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "страница %{pageNum} изображение"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Пересканировать текст страницы",
+                "message": "Вы уверены, что хотите отсканировать изображение на предмет текста и заменить существующий текст страницы?"
+            },
+            "ariaLabel": "извлечь текст из изображения для страницы %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "текст для добавления на страницу %{pageNum}",
+                    "withPageText": "текст для обновления на странице %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Установить текст страницы",
+                    "withPageText": "Обновить текст страницы"
+                },
+                "message": {
+                    "noPageText": "Какой текст на странице?",
+                    "withPageText": "На что вы хотите изменить текст страницы?"
+                },
+                "inputPlaceholder": "текст для добавления"
+            },
+            "ariaLabel": "отредактируйте текст \"%{pageText}\" со страницы %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "переместить текст \"%{pageText}\" со страницы %{pageNum} вверх"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Подтверждение удаления",
+                "message": "Вы уверены, что хотите удалить текст этой страницы?"
+            },
+            "ariaLabel": "удалить текст \"%{pageText}\" со страницы %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "текст для добавления на страницу %{pageNum}",
+                "title": "Установить текст страницы",
+                "message": "Какой текст на странице?",
+                "inputPlaceholder": "текст для добавления"
+            },
+            "ariaLabel": "добавить новый текст на страницу %{pageNum}"
+        },
+        "label": "Текст",
+        "showHideButton": {"ariaLabel": {
+            "visible": "скрыть текст \"%{pageText}\" со страницы %{pageNum}",
+            "hidden": "показать текст \"%{pageText}\" со страницы %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "переместить текст \"%{pageText}\" со страницы %{pageNum} вниз"}
+    },
+    "moveUpButton": {"ariaLabel": "переместить страницу %{pageNum} вверх"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "Звук, который воспроизводится, когда \"%{readerDisplayName}\" читает страницу %{pageNum}.",
+                "noDisplayName": "Звук, который будет воспроизводиться, когда этот читатель читает страницу %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "страница %{pageNum} %{readerDisplayName} читатель"
+        },
+        "label": "Читатели"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Это приведет к удалению всего аудио, записанного для этой страницы.",
+            "additionalMessage2": "ЭТО НЕЛЬЗЯ ОТМЕНИТЬ!",
+            "title": "Подтверждение удаления",
+            "message": "Вы уверены, что хотите удалить страницу %{pageNum}?"
+        },
+        "ariaLabel": "удалить страницу %{pageNum}"
+    },
+    "description": "Изображение для отображения на странице %{pageNum}.",
+    "label": "Страница %{pageNum}",
+    "moveDownButton": {"ariaLabel": "переместить страницу %{pageNum} вниз"}
+}

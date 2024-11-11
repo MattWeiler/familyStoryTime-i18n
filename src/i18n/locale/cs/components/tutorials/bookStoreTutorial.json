@@ -1,0 +1,17 @@
+{
+    "summary": "Knihy ve veřejném vlastnictví najdete v našem knihkupectví.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Můžete si vybrat, kterou z dostupných knih chcete stáhnout.",
+            "2": "Pokud tak učiníte, nainstaluje se knihy do zařízení, což vám umožní je přehrávat a dokonce přidávat vlastní čtečky."
+        },
+        "title": "Instalace knih"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Můžete si také prohlédnout, které knihy jste již nainstalovali z našeho knihkupectví.",
+            "2": "Zde můžete odstranit dříve nainstalované knihy nebo zkontrolovat dostupné aktualizace."
+        },
+        "title": "Správa knih"
+    }
+}

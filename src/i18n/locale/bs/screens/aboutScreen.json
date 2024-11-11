@@ -1,0 +1,33 @@
+{
+    "intro": "Napravio sam ovu aplikaciju da pomognem djeci na njihovom čitalačkom putu, ali i da mogu da im priče čitaju voljeni koji ne mogu biti tamo.",
+    "title": "Vrijeme porodične priče",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Neka vam priče čita vaš omiljeni pripovjedač, čak i ako ne mogu biti tamo.",
+            "title": "Familiar Voices"
+        },
+        "paragraph_3": {
+            "content_1": "Knjige se mogu automatski čitati dok čitate zajedno.",
+            "title": "Vježbajte čitanje"
+        },
+        "paragraph_2": {
+            "content_1": "Digitalizujte svoje omiljene knjige tako da traju godinama koje dolaze.",
+            "title": "Zadržite svoje favorite"
+        },
+        "paragraph_1": {
+            "content_2": "Držite sve svoje omiljene knjige na jednom mjestu za lak pristup kod kuće ili u pokretu.",
+            "content_1": "Uživajte u čitanju kao porodica.",
+            "title": "Uživajte u čitanju"
+        },
+        "paragraph_6": {
+            "content_2": "Kada je omogućeno, vlasnik uređaja mora otključati aplikaciju koristeći svoje biometrijske podatke (ovisno o uređaju) kako bi pristupio osjetljivim aspektima aplikacije.",
+            "content_1": "Aplikacija ima funkciju roditeljskog zaključavanja.",
+            "title": "Parental Lock"
+        },
+        "paragraph_5": {
+            "content_2": "Priče se mogu izvesti pojedinačno ili sve odjednom.",
+            "content_1": "Kreirajte vlastite priče i podijelite ih sa prijateljima i porodicom.",
+            "title": "Dijeli"
+        }
+    }
+}

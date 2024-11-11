@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Aiseolas Ag Tabhairt Dúinn"},
+        "intro": {"displayName": "Réamhrá"},
+        "createBooks": {"displayName": "Leabhair a Chruthú"},
+        "parentalLocking": {"displayName": "Glasáil Tuismitheoirí"},
+        "sharingBooks": {"displayName": "Leabhair a Roinnt"},
+        "bookPlayback": {"displayName": "Leabhair a Imeartha"},
+        "bookStore": {"displayName": "An Siopa Leabhar"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "féach ar an leathanach %{pageName}"},
+        "backPageButton": {"ariaLabel": "dul ar ais 1 leathanach"},
+        "forwardPageButton": {"ariaLabel": "dul ar aghaidh 1 leathanach"}
+    },
+    "startLink": {
+        "label": "Faigh Tosaigh",
+        "ariaLabel": "téigh go dtí an leathanach baile"
+    }
+}

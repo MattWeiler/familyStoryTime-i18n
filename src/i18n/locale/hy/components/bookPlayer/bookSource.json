@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "ցույց տալ գրքի աղբյուրի տեղեկատվությունը"},
+        "hideSource": {"ariaLabel": "թաքցնել գրքի աղբյուրի տեղեկատվությունը"}
+    },
+    "sourceUrl": {
+        "label": "դիտել գրքի աղբյուրը",
+        "ariaLabel": "բաց գրքի URL"
+    },
+    "sourceIllustrator": {"label": "Նկարազարդող:"},
+    "sourceAuthor": {"label": "Հեղինակ:"},
+    "sourcePublisher": {"label": "Հրատարակիչ:"},
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "բացեք ISBN-ի որոնումը ISBN գրքի համար"
+    }
+}

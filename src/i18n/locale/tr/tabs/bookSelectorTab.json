@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "Kitaplar yüklenemedi"},
+        "import": {"failure": "içe aktarma başarısız oldu"},
+        "delete": {
+            "failure": "silme başarısız oldu",
+            "success": "\"%{bookTitle}\" adlı kitap silindi"
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "%{count} kitap silinemedi",
+                "one": "1 kitap silinemedi"
+            },
+            "success": {
+                "other": "%{count} kitap silindi",
+                "one": "1 kitabı sildim"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "sayfa sayısına göre azalan düzende sırala",
+                "descending": "sayfa sayısına göre artan sırada sırala"
+            }},
+            "searchField": {
+                "placeholder": "kitaplarını ara",
+                "ariaLabel": "kitaplarını ara"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "İhracat",
+                        "ariaLabel": "seçilen kitapları dışa aktar"
+                    },
+                    "delete": {
+                        "label": "Silmek",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "hayır, seçilen kitapları silme"},
+                                "yes": {"ariaLabel": "evet, seçilen kitapları sil"}
+                            },
+                            "title": "Silmeyi Onayla",
+                            "message": {
+                                "other": "Seçilen %{count} kitabı silmek istediğinizden emin misiniz?",
+                                "one": "Seçilen kitabı silmek istediğinizden emin misiniz?"
+                            }
+                        },
+                        "ariaLabel": "seçilen kitapları sil"
+                    }
+                },
+                "ariaLabel": "seçilen kitaplar için içerik menüsünü aç"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "kitap başlığına göre azalan düzende sırala",
+                "descending": "kitap başlığına göre artan sırada sırala"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "azalan düzende okuyucu sayısına göre sırala",
+                "descending": "okuyucu sayısına göre artan sırada sırala"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "Aynı anda daha fazla öğe görüntülemek için uzaklaştırın",
+                "zoomedOut": "resimleri daha büyük görmek için yakınlaştırın"
+            }}
+        },
+        "loadError": {
+            "text": "Kitaplar yüklenemedi.",
+            "ariaLabel": "kitaplar yüklenemedi"
+        },
+        "noBooksFound": {
+            "message": "Kitap bulunamadı :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Bizim deneyin",
+                    "linkName": "kitap oluşturucu"
+                },
+                "availableBooks": {
+                    "message": "Ödememize göz atın",
+                    "linkName": "kitapçı"
+                }
+            }
+        }
+    },
+    "subtitle": "Biraz hikaye okumanın tadını çıkaralım.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "kitap oluştur",
+                "ariaLabel": "yeni bir kitap oluştur"
+            },
+            "importBooks": {
+                "label": "Kitapları içe aktar",
+                "ariaLabel": "bir veya daha fazla kitabı içe aktar"
+            },
+            "bookStore": {
+                "label": "kitapçıyı ziyaret et",
+                "ariaLabel": "kitap mağazamızı ziyaret edin"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "kapat kitap ekle menüsü",
+            "collapsed": "kitap ekle menüsünü aç"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "siliniyor...\n",
+            "one": "siliniyor...\n",
+            "none": "siliniyor..."
+        }},
+        "export": {"label": {
+            "other": "ihracat ...\n",
+            "one": "ihracat ...\n",
+            "none": "ihracat ..."
+        }}
+    }},
+    "title": "Okuma Köşesi",
+    "confirmations": {"deleteBook": {
+        "title": "Silme Onayı",
+        "message": "\"%{bookTitle}\" kitabını silmek istediğinizden emin misiniz?"
+    }}
+}

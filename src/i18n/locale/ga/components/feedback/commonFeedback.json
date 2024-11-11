@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Ainm",
+        "placeholder": "John Doe",
+        "ariaLabel": "go roghnach, d'ainm"
+    },
+    "emailInput": {
+        "description": "Cuir ar fáil más mian leat cloisteáil ar ais uainn.",
+        "label": "Seoladh Ríomhphoist",
+        "placeholder": "duine@gmail.com",
+        "ariaLabel": "go roghnach, do sheoladh ríomhphoist"
+    }
+}

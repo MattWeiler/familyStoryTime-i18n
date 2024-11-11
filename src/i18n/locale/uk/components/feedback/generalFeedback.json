@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "надсилання електронною поштою не підтримується",
+        "submissionFailed": "не вдалося надіслати відгук",
+        "submissionSuccess": "відгук надіслано"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Будь ласка, виберіть рівень задоволення.",
+        "description": "Наскільки ймовірно, що ви поділитеся нашим додатком?",
+        "label": "Обмін з іншими",
+        "levels": {
+            "1": {
+                "displayName": "Ніяк",
+                "ariaLabel": "ні в якому разі"
+            },
+            "2": {
+                "displayName": "Не ймовірно",
+                "ariaLabel": "навряд чи"
+            },
+            "3": {
+                "displayName": "можливо",
+                "ariaLabel": "можливо"
+            },
+            "4": {
+                "displayName": "так",
+                "ariaLabel": "так"
+            },
+            "5": {
+                "displayName": "Вже Є",
+                "ariaLabel": "вже є"
+            }
+        },
+        "ariaLabel": "виберіть, наскільки ймовірно, що ви поділитеся цією мобільною програмою з іншими"
+    },
+    "submitButton": {
+        "text": "Надіслати відгук",
+        "ariaLabel": "надішліть свій відгук"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Будь ласка, виберіть рівень задоволення.",
+        "description": "Наскільки вам сподобався/не сподобався наш додаток?",
+        "label": "Задоволеність додатком",
+        "levels": {
+            "1": {
+                "displayName": "Ненавиджу це",
+                "ariaLabel": "ненавиджу це"
+            },
+            "2": {
+                "displayName": "Розчарований",
+                "ariaLabel": "розчарований"
+            },
+            "3": {
+                "displayName": "Нейтральний",
+                "ariaLabel": "нейтральний"
+            },
+            "4": {
+                "displayName": "чудово",
+                "ariaLabel": "чудово"
+            },
+            "5": {
+                "displayName": "Люблю це",
+                "ariaLabel": "люблю це"
+            }
+        },
+        "ariaLabel": "виберіть свій рівень задоволення цією мобільною програмою"
+    },
+    "commentInput": {
+        "description": "За бажанням надайте додаткові коментарі, які у вас є.",
+        "label": "коментар",
+        "ariaLabel": "за бажанням додаткові коментарі"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Будь ласка, виберіть рівень задоволення.",
+        "description": "Як ви знайшли гру в книжки?",
+        "label": "Гра в книги",
+        "levels": {
+            "1": {
+                "displayName": "Не спрацювало",
+                "ariaLabel": "не спрацювало"
+            },
+            "2": {
+                "displayName": "Не чудово",
+                "ariaLabel": "не чудово"
+            },
+            "3": {
+                "displayName": "все гаразд",
+                "ariaLabel": "це нормально"
+            },
+            "4": {
+                "displayName": "Це легко",
+                "ariaLabel": "це легко"
+            },
+            "5": {
+                "displayName": "Люблю це",
+                "ariaLabel": "люблю це"
+            }
+        },
+        "ariaLabel": "виберіть своє задоволення від відтворення книги"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Будь ласка, виберіть рівень задоволення.",
+        "description": "Як вам сподобалося мати кількох читачів?",
+        "label": "Кілька читачів",
+        "levels": {
+            "1": {
+                "displayName": "Не спрацювало",
+                "ariaLabel": "не спрацювало"
+            },
+            "2": {
+                "displayName": "Не чудово",
+                "ariaLabel": "не чудово"
+            },
+            "3": {
+                "displayName": "все гаразд",
+                "ariaLabel": "це нормально"
+            },
+            "4": {
+                "displayName": "Це легко",
+                "ariaLabel": "це легко"
+            },
+            "5": {
+                "displayName": "Люблю це",
+                "ariaLabel": "люблю це"
+            }
+        },
+        "ariaLabel": "виберіть, чи вам подобається мати кілька читачів на книгу"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Будь ласка, виберіть рівень задоволення.",
+        "description": "Як ви знайшли створення книг?",
+        "label": "Створення книг",
+        "levels": {
+            "1": {
+                "displayName": "Не спрацювало",
+                "ariaLabel": "не спрацювало"
+            },
+            "2": {
+                "displayName": "Не чудово",
+                "ariaLabel": "не чудово"
+            },
+            "3": {
+                "displayName": "все гаразд",
+                "ariaLabel": "це нормально"
+            },
+            "4": {
+                "displayName": "Це легко",
+                "ariaLabel": "це легко"
+            },
+            "5": {
+                "displayName": "Люблю це",
+                "ariaLabel": "люблю це"
+            }
+        },
+        "ariaLabel": "виберіть своє задоволення процесом створення книги"
+    }
+}

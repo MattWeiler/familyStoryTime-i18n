@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "spela upp ljud",
+            "ariaLabel": "spela upp ljud"
+        },
+        "playing": {
+            "title": "pausa ljud",
+            "ariaLabel": "pausa ljud"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "zooma ut för att visa hela bilden, det kan finnas svarta fält på sidorna",
+        "zoomedOut": "zooma in för att säkerställa att hela skärmen är fylld med bilden, en del av bilden kanske inte syns"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "gå till föregående sida",
+            "ariaLabel": "gå till föregående sida"
+        },
+        "noPreviousPage": {
+            "title": "gå tillbaka till bokval",
+            "ariaLabel": "gå tillbaka till bokval"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "gå till nästa sida",
+            "ariaLabel": "gå till nästa sida"
+        },
+        "noNextPage": {
+            "title": "gå tillbaka till bokval",
+            "ariaLabel": "gå tillbaka till bokval"
+        }
+    }
+}

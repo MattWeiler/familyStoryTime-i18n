@@ -1,0 +1,9 @@
+{
+    "mission": "Želimo pomagati ohraniti vaše najljubše zgodbe, ki jih berejo vaši ljubljeni.",
+    "subtitle": "Zabavna aplikacija za pomoč otrokom pri branju.",
+    "paragraphs": {"1": "Otroci lahko poslušajo svoje najljubše zgodbe, ki jih berejo ljubljeni, tudi če so ti ljubljeni daleč stran ali so umrli."},
+    "accessTutorial": {
+        "messages": {"1": "Do te vadnice lahko kadar koli dostopate prek menija hamburgerja v zgornjem levem kotu aplikacije."},
+        "title": "Vadnica za dostop"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Дайте ни обратна връзка"},
+        "intro": {"displayName": "Въведение"},
+        "createBooks": {"displayName": "Създаване на книги"},
+        "parentalLocking": {"displayName": "Родителско заключване"},
+        "sharingBooks": {"displayName": "Споделяне на книги"},
+        "bookPlayback": {"displayName": "Игра на книги"},
+        "bookStore": {"displayName": "Книжарницата"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "вижте страницата %{pageName}"},
+        "backPageButton": {"ariaLabel": "върнете се 1 страница назад"},
+        "forwardPageButton": {"ariaLabel": "отидете 1 страница напред"}
+    },
+    "startLink": {
+        "label": "Започнете",
+        "ariaLabel": "отидете на началната страница"
+    }
+}

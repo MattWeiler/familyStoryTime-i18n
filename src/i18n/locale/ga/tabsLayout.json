@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Cúinne Léitheoireachta",
+        "ariaLabel": "léigh do leabhair anseo"
+    },
+    "bookStore": {
+        "text": "Siopa Leabhar",
+        "ariaLabel": "cuairt a thabhairt ar an siopa leabhar"
+    }
+}

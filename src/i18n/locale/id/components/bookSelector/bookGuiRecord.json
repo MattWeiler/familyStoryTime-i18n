@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Memilih",
+                "ariaLabel": "pilih buku %{bookTitle}"
+            },
+            "edit": {
+                "title": "Sunting",
+                "ariaLabel": "mengedit buku %{bookTitle}"
+            },
+            "delete": {
+                "title": "Menghapus",
+                "ariaLabel": "hapus buku %{bookTitle}"
+            },
+            "export": {
+                "title": "Ekspor",
+                "ariaLabel": "ekspor buku %{bookTitle}"
+            }
+        },
+        "ariaLabel": "buka menu konteks untuk buku %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} halaman",
+            "one": "%{count} halaman"
+        },
+        "ariaLabel": {
+            "other": "%{count} halaman",
+            "one": "%{count} halaman"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "pilih buku %{bookTitle}",
+        "selected": "batalkan pilihan buku %{bookTitle}"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} pembaca",
+            "one": "%{count} pembaca"
+        },
+        "ariaLabel": {
+            "other": "buku %{bookTitle} memiliki %{count} pembaca",
+            "one": "buku %{bookTitle} memiliki %{count} pembaca"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "baca ceritanya: %{bookTitle}",
+        "selectionMode": "%{bookTitle} buku"
+    }
+}

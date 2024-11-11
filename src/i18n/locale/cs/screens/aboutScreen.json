@@ -1,0 +1,33 @@
+{
+    "intro": "Tuto aplikaci jsem vytvořil, abych dětem pomohl na jejich čtenářské cestě, ale také proto, abych jim mohl číst příběhy od blízkých, kteří tam nemohou být.",
+    "title": "Čas na rodinný příběh",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Nechte si své příběhy číst od svého oblíbeného vypravěče, i když tam nemohou být.",
+            "title": "Známé hlasy"
+        },
+        "paragraph_3": {
+            "content_1": "Knihy se mohou automaticky číst, zatímco budete číst.",
+            "title": "Procvičte si čtení"
+        },
+        "paragraph_2": {
+            "content_1": "Digitalizujte své oblíbené knihy, aby vám vydržely po mnoho let.",
+            "title": "Udržujte své oblíbené"
+        },
+        "paragraph_1": {
+            "content_2": "Mějte všechny své oblíbené knihy na jednom místě, abyste k nim měli snadný přístup doma i na cestách.",
+            "content_1": "Užijte si čtení jako rodina.",
+            "title": "Užijte si čtení"
+        },
+        "paragraph_6": {
+            "content_2": "Je-li povoleno, vlastník zařízení musí odemknout aplikaci pomocí svých biometrických údajů (v závislosti na zařízení), aby získal přístup k citlivým aspektům aplikace.",
+            "content_1": "Aplikace má funkci rodičovského zámku.",
+            "title": "Rodičovský zámek"
+        },
+        "paragraph_5": {
+            "content_2": "Příběhy lze exportovat jednotlivě nebo všechny najednou.",
+            "content_1": "Vytvářejte své vlastní příběhy a sdílejte je s přáteli a rodinou.",
+            "title": "Podíl"
+        }
+    }
+}

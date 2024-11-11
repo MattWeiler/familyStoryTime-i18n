@@ -1,0 +1,4 @@
+{
+    "aiReader": {"displayName": "Yapay Zeka Okuyucu"},
+    "errors": {"bookLoadFailure": "Kitap yüklenemiyor."}
+}

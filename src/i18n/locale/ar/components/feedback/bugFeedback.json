@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "البريد الإلكتروني غير معتمد",
+        "submissionFailed": "فشل إرسال الأخطاء",
+        "submissionSuccess": "تم إرسال الخطأ"
+    },
+    "submitButton": {
+        "text": "إرسال الخطأ",
+        "ariaLabel": "إرسال الخطأ"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "أضف الكتاب (الكتب) الذي قد يكون سبب المشكلة.",
+            "label": "كتب لإرفاقها"
+        },
+        "loadFailed": "فشل تحميل الكتب",
+        "noBooksInstalled": "لم يتم تثبيت أي كتب",
+        "picker": {
+            "header": "حدد الكتاب (الكتب)",
+            "ariaLabel": "حدد الكتب التي يجب إرفاقها بتعليقات الأخطاء"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "قم بإجراء تغييرات على الكتب المرفقة بتعليقاتك على الأخطاء"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "يرجى تقديم بعض التفاصيل حول الخطأ.",
+        "description": "تقديم تفاصيل حول الخطأ.",
+        "label": "تفاصيل الأخطاء",
+        "ariaLabel": "وصف الخلل"
+    }
+}

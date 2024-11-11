@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "emailerneq tapersersorneqanngilaq",
+        "submissionFailed": "utimut nassiussineq iluatsinngilaq",
+        "submissionSuccess": "isumasiuineq nassiunneqarpoq"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Naammagittaalliornerup niveaua toqqaruk.",
+        "description": "App-itsinnik qanoq ilillutit avitseqatiginnissavit?",
+        "label": "Allanik avitseqatiginninneq",
+        "levels": {
+            "1": {
+                "displayName": "Naamerluinnaq",
+                "ariaLabel": "naamerluinnaq"
+            },
+            "2": {
+                "displayName": "Imaanngilaq",
+                "ariaLabel": "ilimanaateqanngilaq"
+            },
+            "3": {
+                "displayName": "Immaqa",
+                "ariaLabel": "Immaqa"
+            },
+            "4": {
+                "displayName": "Aap",
+                "ariaLabel": "Aap"
+            },
+            "5": {
+                "displayName": "Pigilersimavara",
+                "ariaLabel": "pigilereerpaat"
+            }
+        },
+        "ariaLabel": "toqqaruk qanoq ilillutit mobilapplikationi una allanut avitseqatigisinnaanerlugu"
+    },
+    "submitButton": {
+        "text": "Utimut nassiussineq",
+        "ariaLabel": "isummatit nassiukkit"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Naammagittaalliornerup niveaua toqqaruk.",
+        "description": "App-ivut qanoq annertutigisumik nuannarisimaviuk/nuannarisimaviuk?",
+        "label": "App Naammagittaalliuut",
+        "levels": {
+            "1": {
+                "displayName": "Hate It",
+                "ariaLabel": "hate it"
+            },
+            "2": {
+                "displayName": "Peqqissimisoq",
+                "ariaLabel": "pissangavoq"
+            },
+            "3": {
+                "displayName": "Neutrali",
+                "ariaLabel": "neutrali"
+            },
+            "4": {
+                "displayName": "Torrak",
+                "ariaLabel": "torrak"
+            },
+            "5": {
+                "displayName": "Asavara",
+                "ariaLabel": "asavara"
+            }
+        },
+        "ariaLabel": "mobilapplikationimi tassani qanoq naammagisimaarinninnerit toqqaruk"
+    },
+    "commentInput": {
+        "description": "Pisinnaatitaaffimmi allanik oqaaseqaateqarsinnaavutit.",
+        "label": "Oqaaseqaat",
+        "ariaLabel": "toqqarneqarsinnaavoq, oqaaseqaatit allat"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Naammagittaalliornerup niveaua toqqaruk.",
+        "description": "Atuakkanik sungiusarneq qanoq nassaarisimaviuk?",
+        "label": "Atuakkanik sungiusarneq",
+        "levels": {
+            "1": {
+                "displayName": "Sulinngilaq",
+                "ariaLabel": "iluatsinngilaq"
+            },
+            "2": {
+                "displayName": "Annertuujunngilaq",
+                "ariaLabel": "annertuujunngilaq"
+            },
+            "3": {
+                "displayName": "Ajunngilaq",
+                "ariaLabel": "ajunngilaq"
+            },
+            "4": {
+                "displayName": "Ajornanngilaq",
+                "ariaLabel": "ajornanngilaq"
+            },
+            "5": {
+                "displayName": "Asavara",
+                "ariaLabel": "asavara"
+            }
+        },
+        "ariaLabel": "atuakkap tusarnaarneqarneranut naammagisimaarnerit toqqaruk"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Naammagittaalliornerup niveaua toqqaruk.",
+        "description": "Arlalinnik atuartartunik peqarneq qanoq nuannariviuk?",
+        "label": "Arlalinnik Atuartartunik",
+        "levels": {
+            "1": {
+                "displayName": "Sulinngilaq",
+                "ariaLabel": "iluatsinngilaq"
+            },
+            "2": {
+                "displayName": "Annertuujunngilaq",
+                "ariaLabel": "annertuujunngilaq"
+            },
+            "3": {
+                "displayName": "Ajunngilaq",
+                "ariaLabel": "ajunngilaq"
+            },
+            "4": {
+                "displayName": "Ajornanngilaq",
+                "ariaLabel": "ajornanngilaq"
+            },
+            "5": {
+                "displayName": "Asavara",
+                "ariaLabel": "asavara"
+            }
+        },
+        "ariaLabel": "atuakkamut ataatsimut arlalinnik atuartartunik naammagisimaarinninnerit toqqaruk"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Naammagittaalliornerup niveaua toqqaruk.",
+        "description": "Atuakkanik pilersitsineq qanoq isumaqarfigaajuk?",
+        "label": "Atuakkanik pilersitsineq",
+        "levels": {
+            "1": {
+                "displayName": "Sulinngilaq",
+                "ariaLabel": "iluatsinngilaq"
+            },
+            "2": {
+                "displayName": "Annertuujunngilaq",
+                "ariaLabel": "annertuujunngilaq"
+            },
+            "3": {
+                "displayName": "Ajunngilaq",
+                "ariaLabel": "ajunngilaq"
+            },
+            "4": {
+                "displayName": "Ajornanngilaq",
+                "ariaLabel": "ajornanngilaq"
+            },
+            "5": {
+                "displayName": "Asavara",
+                "ariaLabel": "asavara"
+            }
+        },
+        "ariaLabel": "atuakkamik pilersitsinermi naammagisimaarinninnerit toqqaruk"
+    }
+}

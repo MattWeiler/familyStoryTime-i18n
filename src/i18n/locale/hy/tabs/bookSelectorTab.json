@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "գրքերի բեռնումը ձախողվեց"},
+        "import": {"failure": "ներմուծումը ձախողվեց"},
+        "delete": {
+            "failure": "ջնջումը ձախողվեց",
+            "success": "ջնջված «%{bookTitle}» գիրքը"
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "չհաջողվեց ջնջել %{count} գիրք",
+                "one": "չհաջողվեց ջնջել 1 գիրք"
+            },
+            "success": {
+                "other": "ջնջվել է %{count} գիրք",
+                "one": "ջնջվել է 1 գիրք"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "տեսակավորել ըստ էջերի քանակի նվազման կարգով",
+                "descending": "դասավորել ըստ էջերի քանակի աճման կարգով"
+            }},
+            "searchField": {
+                "placeholder": "փնտրեք ձեր գրքերը",
+                "ariaLabel": "փնտրեք ձեր գրքերը"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Արտահանում",
+                        "ariaLabel": "արտահանել ընտրված գրքերը"
+                    },
+                    "delete": {
+                        "label": "Ջնջել",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "ոչ, մի ջնջեք ընտրված գրքերը"},
+                                "yes": {"ariaLabel": "այո, ջնջիր ընտրված գրքերը"}
+                            },
+                            "title": "Հաստատեք ջնջումը",
+                            "message": {
+                                "other": "Վստա՞հ եք, որ ցանկանում եք ջնջել %{count} ընտրված գրքերը:",
+                                "one": "Վստա՞հ եք, որ ցանկանում եք ջնջել ընտրված գիրքը:"
+                            }
+                        },
+                        "ariaLabel": "ջնջել ընտրված գրքերը"
+                    }
+                },
+                "ariaLabel": "բացեք ընտրված գրքերի համատեքստային ընտրացանկը"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "դասավորել ըստ գրքի վերնագրի՝ նվազման կարգով",
+                "descending": "դասավորել ըստ գրքի վերնագրի աճման կարգով"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "դասակարգել ըստ ընթերցողների թվի նվազման կարգով",
+                "descending": "դասավորել ըստ ընթերցողների քանակի աճման կարգով"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "փոքրացնել՝ միանգամից ավելի շատ տարրեր դիտելու համար",
+                "zoomedOut": "մեծացրեք ավելի մեծ պատկերներ դիտելու համար"
+            }}
+        },
+        "loadError": {
+            "text": "Չհաջողվեց բեռնել գրքերը:",
+            "ariaLabel": "չհաջողվեց բեռնել գրքերը"
+        },
+        "noBooksFound": {
+            "message": "Գրքեր չեն գտնվել :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Փորձեք մեր",
+                    "linkName": "գրքաստեղծ"
+                },
+                "availableBooks": {
+                    "message": "Ստուգեք մեր",
+                    "linkName": "գրախանութ"
+                }
+            }
+        }
+    },
+    "subtitle": "Եկեք հաճույքով կարդանք որոշ պատմություններ:",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "ստեղծել գիրք",
+                "ariaLabel": "ստեղծել նոր գիրք"
+            },
+            "importBooks": {
+                "label": "ներմուծել գրքեր",
+                "ariaLabel": "ներմուծել մեկ կամ մի քանի գրքեր"
+            },
+            "bookStore": {
+                "label": "այցելեք գրախանութ",
+                "ariaLabel": "այցելեք մեր գրախանութ"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "փակել ավելացնել գրքի մենյու",
+            "collapsed": "բացել ավելացնել գրքի ընտրացանկը"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "ջնջվում է...\n",
+            "one": "ջնջվում է...\n",
+            "none": "ջնջվում է..."
+        }},
+        "export": {"label": {
+            "other": "արտահանում...\n",
+            "one": "արտահանում...\n",
+            "none": "արտահանում..."
+        }}
+    }},
+    "title": "Ընթերցանության անկյուն",
+    "confirmations": {"deleteBook": {
+        "title": "Ջնջման հաստատում",
+        "message": "Իսկապե՞ս ուզում եք ջնջել «%{bookTitle}» գիրքը։"
+    }}
+}

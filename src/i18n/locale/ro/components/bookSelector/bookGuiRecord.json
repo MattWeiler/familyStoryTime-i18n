@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Selecta",
+                "ariaLabel": "selectați cartea %{bookTitle}"
+            },
+            "edit": {
+                "title": "Edita",
+                "ariaLabel": "editați cartea %{bookTitle}"
+            },
+            "delete": {
+                "title": "Şterge",
+                "ariaLabel": "ștergeți cartea %{bookTitle}"
+            },
+            "export": {
+                "title": "Export",
+                "ariaLabel": "exportați cartea %{bookTitle}"
+            }
+        },
+        "ariaLabel": "deschide meniul contextual pentru cartea %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} pagini",
+            "one": "%{count} pagină"
+        },
+        "ariaLabel": {
+            "other": "%{count} pagini",
+            "one": "%{count} pagină"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "selectați cartea %{bookTitle}",
+        "selected": "deselectați cartea %{bookTitle}"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} cititori",
+            "one": "%{count} cititor"
+        },
+        "ariaLabel": {
+            "other": "cartea %{bookTitle} are %{count} cititori",
+            "one": "cartea %{bookTitle} are %{count} cititor"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "citește povestea: %{bookTitle}",
+        "selectionMode": "%{bookTitle} carte"
+    }
+}

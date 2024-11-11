@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Audio opsional untuk diputar sebelum membaca halaman pertama.",
+        "label": {
+            "withDisplayName": "Audio Pengantar %{readerDisplayName}",
+            "noDisplayName": "Audio Pengantar"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} pengantar pembaca",
+            "noDisplayName": "pembaca dengan ID %{readerId} intro"
+        }
+    },
+    "readerImage": {
+        "description": "Gambar yang akan ditampilkan untuk pembaca ini.",
+        "accessibleImageDisplayName": "gambar pembaca %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Ini akan menghapus semua audio halaman yang direkam untuk pembaca ini.",
+            "additionalMessage2": "INI TIDAK DAPAT DIBATALKAN!",
+            "title": "Konfirmasi Penghapusan",
+            "message": {
+                "withDisplayName": "Apakah Anda yakin ingin menghapus pembaca \"%{readerDisplayName}\"?",
+                "noDisplayName": "Apakah Anda yakin ingin menghapus pembaca ini?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "hapus pembaca %{readerDisplayName}",
+            "noDisplayName": "hapus pembaca dengan ID %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "nama tampilan untuk pembaca",
+                "noDisplayName": "nama tampilan untuk pembaca"
+            },
+            "title": {
+                "withDisplayName": "Perbarui Nama Tampilan",
+                "noDisplayName": "Tetapkan Nama Tampilan"
+            },
+            "message": {
+                "withDisplayName": "Anda ingin mengubah nama tampilan pembaca ini menjadi apa?",
+                "noDisplayName": "Apa nama tampilan untuk pembaca ini?"
+            },
+            "inputPlaceholder": "nama pembaca"
+        },
+        "ariaLabel": {
+            "withDisplayName": "ubah nama tampilan untuk pembaca %{readerDisplayName}",
+            "noDisplayName": "ubah nama tampilan untuk pembaca dengan ID %{readerId}"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "voiceDisplayName": {
+        "networkVoice": "[%{voiceLanguage}] %{voiceName} (%{voiceQuality}) [mreža]",
+        "localVoice": "[%{voiceLanguage}] %{voiceName} (%{voiceQuality})"
+    },
+    "simpleVoiceDisplayName": "[%{voiceLanguage}] %{voiceName}",
+    "voiceQuality": {
+        "enhanced": "pojačan",
+        "default": "osnovni"
+    }
+}

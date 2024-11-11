@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "ses çal",
+            "ariaLabel": "ses çal"
+        },
+        "playing": {
+            "title": "sesi duraklat",
+            "ariaLabel": "sesi duraklat"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "resmin tamamını göstermek için uzaklaştırın, yanlarda siyah çubuklar olabilir",
+        "zoomedOut": "tüm ekranın resimle dolu olduğundan emin olmak için yakınlaştırın; resmin bir kısmı görünmeyebilir"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "önceki sayfaya git",
+            "ariaLabel": "önceki sayfaya git"
+        },
+        "noPreviousPage": {
+            "title": "kitap seçimine geri dön",
+            "ariaLabel": "kitap seçimine geri dön"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "sonraki sayfaya git",
+            "ariaLabel": "sonraki sayfaya git"
+        },
+        "noNextPage": {
+            "title": "kitap seçimine geri dön",
+            "ariaLabel": "kitap seçimine geri dön"
+        }
+    }
+}

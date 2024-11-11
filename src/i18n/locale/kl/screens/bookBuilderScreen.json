@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "atuakkiaq toqqoqqasoq \"%{bookTitle}\"",
+        "validationFailed": "uppernarsaasiineq iluatsinngilaq",
+        "bookSaveFailed": "kukkuneqarsimasoq sipaarniarnermi atuakka"
+    },
+    "bookTitleInput": {
+        "description": "Atuakkap qulequtaa.",
+        "label": "Atuakkap qulequtaa",
+        "placeholder": "atuakkap qulequtaa",
+        "ariaLabel": "atuakkap qulequtarivaa"
+    },
+    "readers": {
+        "label": "Atuartut",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "atuartumut nutaamut tassunga aqqa takutinneqarsinnaavoq",
+                "buttons": {
+                    "cancel": {"ariaLabel": "atuartoq nutaaq ilanngunneqarnera unitsiguk"},
+                    "add": {"ariaLabel": "atuartoq nutaaq ilanngukkit"}
+                },
+                "description": "Atuartumut nutaamut una takutinneqartussaq allaguk.",
+                "title": "Atuartoq nutaaq ilanngukkit",
+                "inputPlaceholder": "atuartup aqqa"
+            },
+            "ariaLabel": "atuartoq nutaaq ilanngukkit"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Qupperneq tusarnaartitsinnginnermi millisekundit amerlassusaat nipimik allanngortitsivoq.",
+            "label": "Siornatigut Side-mik allanngortitsineq Audio",
+            "placeholder": "millisekundit sioqqullugit qupperneq nipimik allanngortitsineq",
+            "ariaLabel": "millisekundit utaqqissavatit qupperneq allanngortinniarlugu nipimik tusarnaartitsisoqannginnerani"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Quppernerup tusarnaarneqarnerata kingorna millisekundit amerlassusaat nipimik allanngortitsivoq.",
+            "label": "Side-p kingorna Audio-mik allanngortitsineq",
+            "placeholder": "millisekundit quppernerup tusarnaarneqarnerata kingorna nipimik allanngortitsineq",
+            "ariaLabel": "millisekundit utaqqissallugit quppernerup allanngortinneqarnerata kingorna"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Quppernerup nipilersornera tusarnaartitsinnginnerani millisekundit amerlassusaat.",
+            "label": "Siornatigut Side Audio",
+            "placeholder": "millisekundit sioqqullugit quppernerup nipilersornera",
+            "ariaLabel": "millisekundit utaqqissavatit quppernerup nipilersornera tusarnaarlugu"
+        },
+        "label": "Kinguarsaanerit"
+    },
+    "bookIconImageSelector": {
+        "description": "Assilisaq atuakkamut ikonitut atorneqartussaq.",
+        "label": "Atuagaq Ikon",
+        "accessibleImageDisplayName": "atuakkap ikoni"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "Atuakkap siullerpaamik saqqummersinneqarnerani assi takutinneqartussaq.",
+        "label": "Atuagaq Splash Assilisaq",
+        "accessibleImageDisplayName": "atuakkamik splash"
+    },
+    "confirmations": {"goBack": {
+        "title": "Allanngortitsinerit qimakkit",
+        "message": "Qularnanngilaq annaasaqannginnermi qimagussorniarsarissasutit?"
+    }},
+    "pageChangeAudio": {
+        "description": "Quppernerup allanngortinnissaanut piffissanngoraangat nipilersorneq.",
+        "label": "Qupperneq allanngortiguk Nipit",
+        "presetAudioModalPicker": {
+            "headerLabel": "Toqqaruk Side allanngortiguk nipit",
+            "ariaLabel": "toqqarsinnaavat allattorsimaffimmi quppernerup allanngortinnissaanut nipimik toqqagassat",
+            "accessibleAudioDisplayName": "qupperneq allanngortinneqarpoq"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Atuakkap ikkunneqarnissaa iluatsinngilaq.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "kingusinaarneq negatiiviusinnaanngilaq",
+            "bookTitleMissing": "atuakkap qulequtaa piumasaqaataavoq",
+            "readerDisplayNameMissing": "atuartup takutinneqarnissaanut aqqa pisariaqarpoq",
+            "bookIconNotValid": "atuakkap ikonia pisariaqarpoq",
+            "pageTextMissing": "quppernermi allaaserisaq pisariaqarpoq",
+            "delayBeforePlayingPageAudioNegative": "kingusinaarneq negatiiviusinnaanngilaq",
+            "pagesMissing": "minnerpaamik 1 qupperneq pisariaqarpoq",
+            "pageImageNotValid": "qupperneq assi pisariaqarpoq",
+            "delayBeforePlayingPageChangeAudioNegative": "kingusinaarneq negatiiviusinnaanngilaq",
+            "bookSplashImageNotValid": "atuakkami splash-imik assi pisariaqarpoq",
+            "readerIntroAudioNotValid": "atuartoq intro lyd tassaavoq atuuttoq",
+            "pageAudioNotValid": "qupperneq nipilersorneq pisariaqarpoq",
+            "pageChangeAudioNotValid": "qupperneq allanngortinniarlugu lyd pisariaqarpoq",
+            "delayAfterPlayingPageChangeAudioNotInteger": "delay tassaasariaqarpoq amerlassuseq tamakkerlugu",
+            "delayBeforePlayingPageAudioNotInteger": "delay tassaasariaqarpoq amerlassuseq tamakkerlugu",
+            "delayBeforePlayingPageChangeAudioNotInteger": "delay tassaasariaqarpoq amerlassuseq tamakkerlugu",
+            "delayBeforePlayingPageAudioRequired": "kinguarsaanissaq pisariaqarpoq",
+            "readerImageNotValid": "atuartoq assi pisariaqarpoq",
+            "delayBeforePlayingPageChangeAudioRequired": "kinguarsaanissaq pisariaqarpoq",
+            "delayAfterPlayingPageChangeAudioRequired": "kinguarsaanissaq pisariaqarpoq"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "Atuakkap URL-ia.",
+            "label": "Killiffik URL",
+            "placeholder": "killeqarfiup URL-ia",
+            "ariaLabel": "atuakkap URL-ia"
+        },
+        "authorInput": {
+            "description": "Atuakkap atuakkiortup aqqa.",
+            "label": "Atuakkiortup Aqqa",
+            "placeholder": "atuakkamik atuakkiortoq",
+            "ariaLabel": "atuakkap atuakkiortup aqqa"
+        },
+        "illustratorInput": {
+            "description": "Atuakkami ilusilersuisup aqqa.",
+            "label": "Ilusilersuisup Aqqa",
+            "placeholder": "atuakkamik ilusilersuisoq",
+            "ariaLabel": "atuakkap ilusilersuisuata aqqa"
+        },
+        "publisherInput": {
+            "description": "Atuakkap saqqummersitsisup aqqa.",
+            "label": "Saqqummersitsisup Aqqa",
+            "placeholder": "atuakkamik saqqummersitsisoq",
+            "ariaLabel": "atuakkap saqqummersitsisup aqqa"
+        },
+        "label": "Atortut",
+        "isbnInput": {
+            "description": "Atuakkap nunat tamalaat akornanni atuakkap normua.",
+            "label": "ISBN",
+            "placeholder": "Atuakkap ISBN-ia",
+            "ariaLabel": "atuakkap nunat tamalaat akornanni atuakkap normua"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "qupperneq nutaaq ilanngukkit"},
+        "label": "Quppernerit"
+    }
+}

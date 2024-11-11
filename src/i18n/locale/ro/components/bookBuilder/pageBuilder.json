@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "pagina %{pageNum} imagine"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Rescanați textul paginii",
+                "message": "Sunteți sigur că doriți să scanați imaginea pentru text și să înlocuiți textul paginii existente?"
+            },
+            "ariaLabel": "extrage text din imagine pentru pagina %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "text de adăugat la pagina %{pageNum}",
+                    "withPageText": "text de actualizat pe pagina %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Setează textul paginii",
+                    "withPageText": "Actualizați textul paginii"
+                },
+                "message": {
+                    "noPageText": "Care este textul paginii?",
+                    "withPageText": "În ce ați dori să schimbați textul paginii?"
+                },
+                "inputPlaceholder": "text de adăugat"
+            },
+            "ariaLabel": "editați textul \u201e%{pageText}\u201d din pagina %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "mutați textul \u201e%{pageText}\u201d din pagina %{pageNum} în sus"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Confirmare ștergere",
+                "message": "Sigur doriți să ștergeți textul acestei pagini?"
+            },
+            "ariaLabel": "eliminați textul \u201e%{pageText}\u201d din pagina %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "text de adăugat la pagina %{pageNum}",
+                "title": "Setează textul paginii",
+                "message": "Care este textul paginii?",
+                "inputPlaceholder": "text de adăugat"
+            },
+            "ariaLabel": "adăugați text nou la pagina %{pageNum}"
+        },
+        "label": "Text",
+        "showHideButton": {"ariaLabel": {
+            "visible": "ascunde textul \u201e%{pageText}\u201d din pagina %{pageNum}",
+            "hidden": "afișați textul \u201e%{pageText}\u201d din pagina %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "mutați textul \u201e%{pageText}\u201d din pagina %{pageNum} în jos"}
+    },
+    "moveUpButton": {"ariaLabel": "mutați pagina %{pageNum} în sus"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "Sunetul de redat când \u201e%{readerDisplayName}\u201d citește pagina %{pageNum}.",
+                "noDisplayName": "Audio de redat când acest cititor citește pagina %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "cititor de pagină %{pageNum} %{readerDisplayName}"
+        },
+        "label": "Cititorii"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Aceasta va elimina toate paginile audio înregistrate pentru această pagină.",
+            "additionalMessage2": "ACESTA NU POATE FI DESFĂGĂ!",
+            "title": "Confirmare ștergere",
+            "message": "Sigur doriți să ștergeți pagina %{pageNum}?"
+        },
+        "ariaLabel": "eliminați pagina %{pageNum}"
+    },
+    "description": "Imaginea de afișat pe pagina %{pageNum}.",
+    "label": "Pagina %{pageNum}",
+    "moveDownButton": {"ariaLabel": "mutați pagina %{pageNum} în jos"}
+}

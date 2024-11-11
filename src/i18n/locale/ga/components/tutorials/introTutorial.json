@@ -1,0 +1,9 @@
+{
+    "mission": "Ba mhaith linn cabhrú leis na scéalta is fearr leat a chaomhnú, á léamh ag do mhuintir.",
+    "subtitle": "Feidhmchlár spraíúil chun cabhrú le páistí léamh.",
+    "paragraphs": {"1": "Is féidir le páistí éisteacht leis na scéalta is fearr leo á léamh ag a ngaolta, fiú má tá na gaolta sin i bhfad i gcéin nó má fuair siad bás."},
+    "accessTutorial": {
+        "messages": {"1": "Is féidir leat rochtain a fháil ar an rang teagaisc seo am ar bith tríd an roghchlár hamburger ag barr-chlé an fheidhmchláir."},
+        "title": "Teagaisc rochtana"
+    }
+}

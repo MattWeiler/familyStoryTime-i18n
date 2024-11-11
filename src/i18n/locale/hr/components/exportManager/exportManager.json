@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "izvoz je već pokrenut, pokušajte ponovno kasnije"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "Otkazati",
+            "ariaLabel": "poništiti izvoz"
+        },
+        "export": {
+            "textLabel": "Izvoz",
+            "ariaLabel": "izvoz odabranih knjiga"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "Spremite svoje %{count} knjige",
+        "one": "Spremi knjigu: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "analiziranje...",
+        "packaging": "pakiranje...",
+        "cancelling": "otkazivanje..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "čitateljima",
+                    "ariaLabel": "izvezi samo informacije o čitatelju za knjigu %{bookTitle}"
+                },
+                "full": {
+                    "label": "puna",
+                    "ariaLabel": "izvezi cijelu knjigu %{bookTitle}"
+                }
+            },
+            "ariaLabel": "odaberite kako izvesti knjigu %{bookTitle}"
+        },
+        "readers": {"checkbox": {"ariaLabel": "za uključivanje čitača %{readerDisplayName} u izvoz"}},
+        "checkbox": {"ariaLabel": "za uključivanje knjige %{bookTitle} u izvoz"},
+        "bookReadersTooltip": {"label": "Odabirom opcije \"čitatelji\" izvest će se samo odabrani čitači.\n\n"}
+    },
+    "packagedMultiBookFileName": "knjige",
+    "nothingToExport": "Ništa za izvoz :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "nemojte otkazati izvoz"},
+            "yes": {"ariaLabel": "poništiti izvoz"}
+        },
+        "title": "Potvrdite Odustani od izvoza",
+        "message": "Jeste li sigurni da želite otkazati izvoz?"
+    }},
+    "titles": {
+        "booksToExport": "Knjige za izvoz",
+        "failedToExport": "Izvoz knjiga nije uspio"
+    },
+    "outputFilenameField": {
+        "label": "Naziv izlazne datoteke",
+        "ariaLabel": "očekivani izlazni naziv datoteke"
+    },
+    "errors": {"invalidOutputFilename": "nevažeći naziv datoteke"}
+}

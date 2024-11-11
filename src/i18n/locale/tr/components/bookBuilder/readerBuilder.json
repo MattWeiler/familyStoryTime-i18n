@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "1. sayfayı okumadan önce oynatılacak isteğe bağlı ses.",
+        "label": {
+            "withDisplayName": "%{readerDisplayName}'ın Giriş Sesi",
+            "noDisplayName": "Giriş Sesi"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} okuyucu tanıtımı",
+            "noDisplayName": "%{readerId} giriş kimlikli okuyucu"
+        }
+    },
+    "readerImage": {
+        "description": "Bu okuyucu için görüntülenecek resim.",
+        "accessibleImageDisplayName": "%{readerDisplayName} okuyucunun resmi"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Bu, bu okuyucu için kaydedilen tüm sayfa seslerini kaldıracaktır.",
+            "additionalMessage2": "BU GERİ ALINMAZ!",
+            "title": "Silme Onayı",
+            "message": {
+                "withDisplayName": "\"%{readerDisplayName}\" okuyucusunu silmek istediğinizden emin misiniz?",
+                "noDisplayName": "Bu okuyucuyu silmek istediğinizden emin misiniz?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "%{readerDisplayName} okuyucuyu kaldır",
+            "noDisplayName": "%{readerId} kimliğine sahip okuyucuyu kaldırın"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "okuyucu için görünen ad",
+                "noDisplayName": "okuyucu için görünen ad"
+            },
+            "title": {
+                "withDisplayName": "Görünen Adı Güncelle",
+                "noDisplayName": "Görünen Adı Ayarla"
+            },
+            "message": {
+                "withDisplayName": "Bu okuyucunun görünen adını ne olarak değiştirmek istersiniz?",
+                "noDisplayName": "Bu okuyucunun görünen adı nedir?"
+            },
+            "inputPlaceholder": "okuyucu adı"
+        },
+        "ariaLabel": {
+            "withDisplayName": "%{readerDisplayName} okuyucusunun görünen adını değiştirin",
+            "noDisplayName": "%{readerId} kimlikli okuyucunun görünen adını değiştirin"
+        }
+    }
+}

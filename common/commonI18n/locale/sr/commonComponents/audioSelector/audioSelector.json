@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "снимите свој %{audioDisplayName} аудио"},
+    "toasts": {
+        "audioFileLoading": {"failure": "није успело учитавање звука"},
+        "editInitFailed": "није успело уређивање звука",
+        "recordingFailed": "није успео да сними аудио"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Цлеар Цонфирматион",
+            "message": "Да ли сте сигурни да желите да обришете изабрани звук?"
+        },
+        "ariaLabel": "обришите изабрани %{audioDisplayName} звук"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "изаберите унапред подешени %{audioDisplayName} звук"},
+    "selectAudioFileButton": {"ariaLabel": "изаберите сопствену %{audioDisplayName} аудио датотеку"},
+    "playButton": {
+        "stopped": {"ariaLabel": "пусти %{audioDisplayName} аудио"},
+        "recording": {"ariaLabel": "зауставите %{audioDisplayName} снимање"},
+        "playing": {"ariaLabel": "заустави репродукцију %{audioDisplayName} звука"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "измените тренутно учитани %{audioDisplayName} аудио",
+        "cancelConfirmation": {
+            "title": "Одбаци уређивање",
+            "message": "Да ли сте сигурни да желите да одбаците све измене које сте унели?",
+            "buttonAriaLabels": {
+                "no": "не, остани и настави са уређивањем",
+                "yes": "да, одбаци измене"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Отпремљена датотека: %{filename}",
+        "recording": "Снимање",
+        "preset": "Унапред подешено: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Дозвола одбијена",
+        "message": "Одбили сте дозволу за приступ микрофону."
+    }}
+}

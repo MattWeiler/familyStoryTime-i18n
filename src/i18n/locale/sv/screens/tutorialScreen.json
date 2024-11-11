@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Ge oss feedback"},
+        "intro": {"displayName": "Introduktion"},
+        "createBooks": {"displayName": "Skapa böcker"},
+        "parentalLocking": {"displayName": "Föräldralåsning"},
+        "sharingBooks": {"displayName": "Dela böcker"},
+        "bookPlayback": {"displayName": "Spelar böcker"},
+        "bookStore": {"displayName": "Bokhandeln"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "visa sidan %{pageName}"},
+        "backPageButton": {"ariaLabel": "gå tillbaka 1 sida"},
+        "forwardPageButton": {"ariaLabel": "gå framåt 1 sida"}
+    },
+    "startLink": {
+        "label": "Kom igång",
+        "ariaLabel": "gå till startsidan"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Läshörna",
+        "ariaLabel": "läs dina böcker här"
+    },
+    "bookStore": {
+        "text": "Bokhandel",
+        "ariaLabel": "besöka bokhandeln"
+    }
+}

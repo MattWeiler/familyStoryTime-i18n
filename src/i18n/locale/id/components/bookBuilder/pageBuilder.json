@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "halaman %{pageNum} gambar"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Pindai Ulang Teks Halaman",
+                "message": "Apakah Anda yakin ingin memindai gambar untuk mencari teks dan mengganti teks halaman yang ada?"
+            },
+            "ariaLabel": "ekstrak teks dari gambar untuk halaman %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "teks untuk ditambahkan ke halaman %{pageNum}",
+                    "withPageText": "teks untuk diperbarui di halaman %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Atur Teks Halaman",
+                    "withPageText": "Perbarui Teks Halaman"
+                },
+                "message": {
+                    "noPageText": "Apa teks halamannya?",
+                    "withPageText": "Anda ingin mengubah teks halaman menjadi apa?"
+                },
+                "inputPlaceholder": "teks untuk ditambahkan"
+            },
+            "ariaLabel": "edit teks \"%{pageText}\" dari halaman %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "pindahkan teks \"%{pageText}\" dari halaman %{pageNum} ke atas"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Konfirmasi Penghapusan",
+                "message": "Apakah Anda yakin ingin menghapus teks halaman ini?"
+            },
+            "ariaLabel": "hapus teks \"%{pageText}\" dari halaman %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "teks untuk ditambahkan ke halaman %{pageNum}",
+                "title": "Atur Teks Halaman",
+                "message": "Apa teks halamannya?",
+                "inputPlaceholder": "teks untuk ditambahkan"
+            },
+            "ariaLabel": "tambahkan teks baru ke halaman %{pageNum}"
+        },
+        "label": "Teks",
+        "showHideButton": {"ariaLabel": {
+            "visible": "sembunyikan teks \"%{pageText}\" dari halaman %{pageNum}",
+            "hidden": "tampilkan teks \"%{pageText}\" dari halaman %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "pindahkan teks \"%{pageText}\" dari halaman %{pageNum} ke bawah"}
+    },
+    "moveUpButton": {"ariaLabel": "pindahkan halaman %{pageNum} ke atas"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "Audio yang diputar ketika \"%{readerDisplayName}\" sedang membaca halaman %{pageNum}.",
+                "noDisplayName": "Audio yang diputar saat pembaca ini membaca halaman %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "halaman %{pageNum} %{readerDisplayName} pembaca"
+        },
+        "label": "Pembaca"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Ini akan menghapus semua audio halaman yang direkam untuk halaman ini.",
+            "additionalMessage2": "INI TIDAK DAPAT DIBATALKAN!",
+            "title": "Konfirmasi Penghapusan",
+            "message": "Apakah Anda yakin ingin menghapus halaman %{pageNum}?"
+        },
+        "ariaLabel": "hapus halaman %{pageNum}"
+    },
+    "description": "Gambar yang akan ditampilkan pada halaman %{pageNum}.",
+    "label": "Halaman %{pageNum}",
+    "moveDownButton": {"ariaLabel": "pindahkan halaman %{pageNum} ke bawah"}
+}

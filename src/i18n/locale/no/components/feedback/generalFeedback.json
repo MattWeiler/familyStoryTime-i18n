@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "e-post støttes ikke",
+        "submissionFailed": "sending av tilbakemelding mislyktes",
+        "submissionSuccess": "tilbakemelding sendt"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Vennligst velg et tilfredshetsnivå.",
+        "description": "Hvor sannsynlig er det at du deler appen vår?",
+        "label": "Deling med andre",
+        "levels": {
+            "1": {
+                "displayName": "Ingen måte",
+                "ariaLabel": "ingen måte"
+            },
+            "2": {
+                "displayName": "Ikke sannsynlig",
+                "ariaLabel": "ikke sannsynlig"
+            },
+            "3": {
+                "displayName": "Kanskje",
+                "ariaLabel": "kanskje"
+            },
+            "4": {
+                "displayName": "Ja",
+                "ariaLabel": "ja"
+            },
+            "5": {
+                "displayName": "Har allerede",
+                "ariaLabel": "allerede har"
+            }
+        },
+        "ariaLabel": "velg hvor sannsynlig det er at du deler denne mobilapplikasjonen med andre"
+    },
+    "submitButton": {
+        "text": "Send tilbakemelding",
+        "ariaLabel": "send inn tilbakemeldingen din"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Vennligst velg et tilfredshetsnivå.",
+        "description": "Hvor mye har du likt/mislikt appen vår?",
+        "label": "Apptilfredshet",
+        "levels": {
+            "1": {
+                "displayName": "Hater det",
+                "ariaLabel": "hater det"
+            },
+            "2": {
+                "displayName": "Skuffet",
+                "ariaLabel": "skuffet"
+            },
+            "3": {
+                "displayName": "Nøytral",
+                "ariaLabel": "nøytral"
+            },
+            "4": {
+                "displayName": "Stor",
+                "ariaLabel": "stor"
+            },
+            "5": {
+                "displayName": "Elsker det",
+                "ariaLabel": "elsker det"
+            }
+        },
+        "ariaLabel": "velg ditt nivå av tilfredshet med denne mobilapplikasjonen"
+    },
+    "commentInput": {
+        "description": "Gi eventuelt ytterligere kommentarer du har.",
+        "label": "Kommentar",
+        "ariaLabel": "eventuelt tilleggskommentarer"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Vennligst velg et tilfredshetsnivå.",
+        "description": "Hvordan fant du det å spille bøker?",
+        "label": "Spille bøker",
+        "levels": {
+            "1": {
+                "displayName": "Fungerte ikke",
+                "ariaLabel": "fungerte ikke"
+            },
+            "2": {
+                "displayName": "Ikke flott",
+                "ariaLabel": "ikke bra"
+            },
+            "3": {
+                "displayName": "Det er ok",
+                "ariaLabel": "det er ok"
+            },
+            "4": {
+                "displayName": "Det er enkelt",
+                "ariaLabel": "det er enkelt"
+            },
+            "5": {
+                "displayName": "Elsker det",
+                "ariaLabel": "elsker det"
+            }
+        },
+        "ariaLabel": "velg hvor fornøyd du er med bokavspillingen"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Vennligst velg et tilfredshetsnivå.",
+        "description": "Hvordan likte du å ha flere lesere?",
+        "label": "Flere lesere",
+        "levels": {
+            "1": {
+                "displayName": "Fungerte ikke",
+                "ariaLabel": "fungerte ikke"
+            },
+            "2": {
+                "displayName": "Ikke flott",
+                "ariaLabel": "ikke bra"
+            },
+            "3": {
+                "displayName": "Det er ok",
+                "ariaLabel": "det er ok"
+            },
+            "4": {
+                "displayName": "Det er enkelt",
+                "ariaLabel": "det er enkelt"
+            },
+            "5": {
+                "displayName": "Elsker det",
+                "ariaLabel": "elsker det"
+            }
+        },
+        "ariaLabel": "velg hvor fornøyd du er med å ha flere lesere per bok"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Vennligst velg et tilfredshetsnivå.",
+        "description": "Hvordan fant du det å lage bøker?",
+        "label": "Skaper bøker",
+        "levels": {
+            "1": {
+                "displayName": "Fungerte ikke",
+                "ariaLabel": "fungerte ikke"
+            },
+            "2": {
+                "displayName": "Ikke flott",
+                "ariaLabel": "ikke bra"
+            },
+            "3": {
+                "displayName": "Det er ok",
+                "ariaLabel": "det er ok"
+            },
+            "4": {
+                "displayName": "Det er enkelt",
+                "ariaLabel": "det er enkelt"
+            },
+            "5": {
+                "displayName": "Elsker det",
+                "ariaLabel": "elsker det"
+            }
+        },
+        "ariaLabel": "velg hvor fornøyd du er med bokskapingsprosessen"
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "טעינת הספרים נכשלה"},
+        "import": {"failure": "הייבוא \u200b\u200bנכשל"},
+        "delete": {
+            "failure": "המחיקה נכשלה",
+            "success": "הספר \"%{bookTitle}\" נמחק"
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "נכשל במחיקת %{count} ספרים",
+                "one": "נכשל במחיקת ספר אחד"
+            },
+            "success": {
+                "other": "נמחקו %{count} ספרים",
+                "one": "מחק ספר 1"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "מיון לפי ספירת עמודים בסדר יורד",
+                "descending": "מיון לפי ספירת עמודים בסדר עולה"
+            }},
+            "searchField": {
+                "placeholder": "לחפש בספרים שלך",
+                "ariaLabel": "לחפש בספרים שלך"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "יְצוּא",
+                        "ariaLabel": "ייצא את הספרים שנבחרו"
+                    },
+                    "delete": {
+                        "label": "לִמְחוֹק",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "לא, אל תמחק את הספרים שנבחרו"},
+                                "yes": {"ariaLabel": "כן, מחק את הספרים שנבחרו"}
+                            },
+                            "title": "אשר את המחיקה",
+                            "message": {
+                                "other": "האם אתה בטוח שברצונך למחוק את %{count} הספרים שנבחרו?",
+                                "one": "האם אתה בטוח שברצונך למחוק את הספר שנבחר?"
+                            }
+                        },
+                        "ariaLabel": "למחוק את הספרים שנבחרו"
+                    }
+                },
+                "ariaLabel": "פתח את תפריט ההקשר של הספרים שנבחרו"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "מיון לפי כותרת הספר בסדר יורד",
+                "descending": "מיון לפי כותרת הספר בסדר עולה"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "מיון לפי ספירת קוראים בסדר יורד",
+                "descending": "מיון לפי ספירת קוראים בסדר עולה"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "התרחק כדי להציג פריטים נוספים בבת אחת",
+                "zoomedOut": "התקרב כדי להציג תמונות גדולות יותר"
+            }}
+        },
+        "loadError": {
+            "text": "טעינת הספרים נכשלה.",
+            "ariaLabel": "לא הצליח לטעון ספרים"
+        },
+        "noBooksFound": {
+            "message": "לא נמצאו ספרים :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "נסה שלנו",
+                    "linkName": "בונה ספרים"
+                },
+                "availableBooks": {
+                    "message": "בדוק שלנו",
+                    "linkName": "חנות ספרים"
+                }
+            }
+        }
+    },
+    "subtitle": "בואו נהנה לקרוא כמה סיפורים.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "ליצור ספר",
+                "ariaLabel": "ליצור ספר חדש"
+            },
+            "importBooks": {
+                "label": "לייבא ספרים",
+                "ariaLabel": "לייבא ספר אחד או יותר"
+            },
+            "bookStore": {
+                "label": "לבקר בחנות הספרים",
+                "ariaLabel": "בקר בחנות הספרים שלנו"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "סגור הוסף תפריט ספר",
+            "collapsed": "פתח הוסף תפריט ספר"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "מוחק...\n",
+            "one": "מוחק...\n",
+            "none": "מוחק..."
+        }},
+        "export": {"label": {
+            "other": "מייצא...\n",
+            "one": "מייצא...\n",
+            "none": "מייצא..."
+        }}
+    }},
+    "title": "פינת קריאה",
+    "confirmations": {"deleteBook": {
+        "title": "אישור מחיקה",
+        "message": "האם אתה בטוח שברצונך למחוק את הספר \"%{bookTitle}?\""
+    }}
+}

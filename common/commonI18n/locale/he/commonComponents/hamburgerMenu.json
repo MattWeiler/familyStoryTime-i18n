@@ -1,0 +1,8 @@
+{
+    "applicationSecurityButton": {"ariaLabel": {
+        "unlockParentMode": "ביטול נעילה של אפליקציה לשימוש הורים",
+        "initParentMode": "לאפשר נעילת הורים",
+        "lockParentMode": "אפשר נעילת הורים"
+    }},
+    "hamburgerButton": {"ariaLabel": "הצג תפריט המבורגרים"}
+}

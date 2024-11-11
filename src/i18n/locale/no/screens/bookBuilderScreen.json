@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "lagret bok \"%{bookTitle}\"",
+        "validationFailed": "validering mislyktes",
+        "bookSaveFailed": "mislyktes med å lagre boken"
+    },
+    "bookTitleInput": {
+        "description": "Tittelen på boken.",
+        "label": "Boktittel",
+        "placeholder": "tittel på bok",
+        "ariaLabel": "tittelen på boken"
+    },
+    "readers": {
+        "label": "Lesere",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "visningsnavn for denne nye leseren",
+                "buttons": {
+                    "cancel": {"ariaLabel": "avbryt å legge til den nye leseren"},
+                    "add": {"ariaLabel": "legg til den nye leseren"}
+                },
+                "description": "Vennligst oppgi visningsnavnet for denne nye leseren.",
+                "title": "Legg til ny leser",
+                "inputPlaceholder": "lesernavn"
+            },
+            "ariaLabel": "legg til ny leser"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Antall millisekunder som må vente før du spiller av lyden for sideskifte.",
+            "label": "Før sidebytte lyd",
+            "placeholder": "millisekunder før avspilling sidebytte lyd",
+            "ariaLabel": "millisekunder å vente før du spiller av lyden for sidebytte"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Antall millisekunder som skal ventes etter å ha spilt av lyden for sidebytte.",
+            "label": "Etter sidebytte lyd",
+            "placeholder": "millisekunder etter avspilling av sidebytte lyd",
+            "ariaLabel": "millisekunder å vente etter å ha spilt av lyden for sidebytte"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Antall millisekunder som må vente før du spiller av sidelyd.",
+            "label": "Før sidelyd",
+            "placeholder": "millisekunder før du spiller av sidelyd",
+            "ariaLabel": "millisekunder å vente før du spiller av sidelyd"
+        },
+        "label": "Forsinkelser"
+    },
+    "bookIconImageSelector": {
+        "description": "Bildet som skal brukes som ikon for boken.",
+        "label": "Bokikon",
+        "accessibleImageDisplayName": "bokikon"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "Bildet som skal vises ved første lansering av boken.",
+        "label": "Book Splash-bilde",
+        "accessibleImageDisplayName": "boksprut"
+    },
+    "confirmations": {"goBack": {
+        "title": "La endringer",
+        "message": "Er du sikker på at du vil forlate før du lagrer?"
+    }},
+    "pageChangeAudio": {
+        "description": "Lyden som skal spilles av når det er på tide å bytte side.",
+        "label": "Sidebytte lyd",
+        "presetAudioModalPicker": {
+            "headerLabel": "Velg Sidebytte lyd",
+            "ariaLabel": "velg fra listen over forhåndsinnstilte lydalternativer for sideskift",
+            "accessibleAudioDisplayName": "sideendring"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Kunne ikke laste inn boken.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "forsinkelse kan ikke være negativ",
+            "bookTitleMissing": "boktittel er påkrevd",
+            "readerDisplayNameMissing": "leserens visningsnavn er påkrevd",
+            "bookIconNotValid": "bokikon er påkrevd",
+            "pageTextMissing": "sidetekst er påkrevd",
+            "delayBeforePlayingPageAudioNegative": "forsinkelse kan ikke være negativ",
+            "pagesMissing": "minst 1 side kreves",
+            "pageImageNotValid": "sidebilde er påkrevd",
+            "delayBeforePlayingPageChangeAudioNegative": "forsinkelse kan ikke være negativ",
+            "bookSplashImageNotValid": "boksprutbilde er påkrevd",
+            "readerIntroAudioNotValid": "reader intro audio er ikke en gyldig fil",
+            "pageAudioNotValid": "sidelyd er nødvendig",
+            "pageChangeAudioNotValid": "lyd for sideskift er nødvendig",
+            "delayAfterPlayingPageChangeAudioNotInteger": "forsinkelse må være et helt tall",
+            "delayBeforePlayingPageAudioNotInteger": "forsinkelse må være et helt tall",
+            "delayBeforePlayingPageChangeAudioNotInteger": "forsinkelse må være et helt tall",
+            "delayBeforePlayingPageAudioRequired": "forsinkelse er nødvendig",
+            "readerImageNotValid": "leserbilde er påkrevd",
+            "delayBeforePlayingPageChangeAudioRequired": "forsinkelse er nødvendig",
+            "delayAfterPlayingPageChangeAudioRequired": "forsinkelse er nødvendig"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "Kilde-URLen til boken.",
+            "label": "Kilde URL",
+            "placeholder": "kilde-URL",
+            "ariaLabel": "kildenettadressen til boken"
+        },
+        "authorInput": {
+            "description": "Navnet på forfatteren av boken.",
+            "label": "Forfatternavn",
+            "placeholder": "forfatter av bok",
+            "ariaLabel": "navnet på forfatteren av boken"
+        },
+        "illustratorInput": {
+            "description": "Navnet på illustratøren av boken.",
+            "label": "Illustrator navn",
+            "placeholder": "illustratør av bok",
+            "ariaLabel": "navnet på illustratøren av boken"
+        },
+        "publisherInput": {
+            "description": "Navnet på utgiveren av boken.",
+            "label": "Utgivernavn",
+            "placeholder": "utgiver av bok",
+            "ariaLabel": "navnet på utgiveren av boken"
+        },
+        "label": "Kilde",
+        "isbnInput": {
+            "description": "Bokens internasjonale standardboknummer.",
+            "label": "ISBN",
+            "placeholder": "ISBN for bok",
+            "ariaLabel": "bokens internasjonale standardboknummer"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "legg til ny side"},
+        "label": "Sider"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "הצג את מידע מקור הספר"},
+        "hideSource": {"ariaLabel": "הסתר את מידע מקור הספר"}
+    },
+    "sourceUrl": {
+        "label": "צפה במקור הספר",
+        "ariaLabel": "כתובת אתר של מקור ספר פתוח"
+    },
+    "sourceIllustrator": {"label": "מאייר:"},
+    "sourceAuthor": {"label": "מְחַבֵּר:"},
+    "sourcePublisher": {"label": "מוֹצִיא לָאוֹר:"},
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "פתח חיפוש ISBN עבור הספר ISBN"
+    }
+}

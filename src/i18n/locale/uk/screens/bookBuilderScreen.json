@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "збережена книга \"%{bookTitle}\"",
+        "validationFailed": "помилка перевірки",
+        "bookSaveFailed": "не вдалося зберегти книгу"
+    },
+    "bookTitleInput": {
+        "description": "Назва книги.",
+        "label": "Назва книги",
+        "placeholder": "назва книги",
+        "ariaLabel": "назва книги"
+    },
+    "readers": {
+        "label": "Читачі",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "відображуване ім'я для цього нового читача",
+                "buttons": {
+                    "cancel": {"ariaLabel": "скасувати додавання нового читача"},
+                    "add": {"ariaLabel": "додати новий читач"}
+                },
+                "description": "Будь ласка, надайте відображуване ім'я для цього нового пристрою для читання.",
+                "title": "Додати новий читач",
+                "inputPlaceholder": "ім'я читача"
+            },
+            "ariaLabel": "додати новий читач"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Кількість мілісекунд очікування перед відтворенням звуку зміни сторінки.",
+            "label": "Аудіо перед зміною сторінки",
+            "placeholder": "мілісекунд до відтворення звуку зміни сторінки",
+            "ariaLabel": "мілісекунди очікування перед відтворенням звуку зміни сторінки"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Кількість мілісекунд очікування після відтворення звуку зміни сторінки.",
+            "label": "Аудіо після зміни сторінки",
+            "placeholder": "мілісекунд після відтворення звуку зміни сторінки",
+            "ariaLabel": "мілісекунди очікування після відтворення звуку зміни сторінки"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Кількість мілісекунд очікування перед відтворенням аудіо сторінки.",
+            "label": "Аудіо перед сторінкою",
+            "placeholder": "мілісекунд перед відтворенням аудіо сторінки",
+            "ariaLabel": "мілісекунд очікування перед відтворенням аудіо сторінки"
+        },
+        "label": "Затримки"
+    },
+    "bookIconImageSelector": {
+        "description": "Зображення, яке буде використано як значок для книги.",
+        "label": "Значок книги",
+        "accessibleImageDisplayName": "значок книги"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "Зображення, яке буде показано під час першого запуску книги.",
+        "label": "Заставка книги",
+        "accessibleImageDisplayName": "книга сплеск"
+    },
+    "confirmations": {"goBack": {
+        "title": "Залишити зміни",
+        "message": "Ви впевнені, що бажаєте залишити перед збереженням?"
+    }},
+    "pageChangeAudio": {
+        "description": "Аудіо для відтворення, коли приходить час змінити сторінку.",
+        "label": "Page Change Audio",
+        "presetAudioModalPicker": {
+            "headerLabel": "Виберіть Page Change Audio",
+            "ariaLabel": "виберіть зі списку попередньо встановлених опцій зміни аудіо",
+            "accessibleAudioDisplayName": "зміна сторінки"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Не вдалося завантажити книгу.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "затримка не може бути негативною",
+            "bookTitleMissing": "обов'язкова назва книги",
+            "readerDisplayNameMissing": "потрібно вказати відображуване ім\u2019я читача",
+            "bookIconNotValid": "потрібен значок книги",
+            "pageTextMissing": "необхідний текст сторінки",
+            "delayBeforePlayingPageAudioNegative": "затримка не може бути негативною",
+            "pagesMissing": "потрібна принаймні 1 сторінка",
+            "pageImageNotValid": "необхідне зображення сторінки",
+            "delayBeforePlayingPageChangeAudioNegative": "затримка не може бути негативною",
+            "bookSplashImageNotValid": "потрібне зображення заставки книги",
+            "readerIntroAudioNotValid": "вступне аудіо для читача не є дійсним файлом",
+            "pageAudioNotValid": "потрібне аудіо сторінки",
+            "pageChangeAudioNotValid": "необхідний звук для зміни сторінки",
+            "delayAfterPlayingPageChangeAudioNotInteger": "затримка має бути цілим числом",
+            "delayBeforePlayingPageAudioNotInteger": "затримка має бути цілим числом",
+            "delayBeforePlayingPageChangeAudioNotInteger": "затримка має бути цілим числом",
+            "delayBeforePlayingPageAudioRequired": "потрібна затримка",
+            "readerImageNotValid": "потрібне зображення читача",
+            "delayBeforePlayingPageChangeAudioRequired": "потрібна затримка",
+            "delayAfterPlayingPageChangeAudioRequired": "потрібна затримка"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "Вихідна URL-адреса книги.",
+            "label": "Вихідна URL-адреса",
+            "placeholder": "джерело URL",
+            "ariaLabel": "вихідна URL-адреса книги"
+        },
+        "authorInput": {
+            "description": "Ім'я автора книги.",
+            "label": "Ім'я автора",
+            "placeholder": "автор книги",
+            "ariaLabel": "ім'я автора книги"
+        },
+        "illustratorInput": {
+            "description": "Прізвище ілюстратора книги.",
+            "label": "Ім'я ілюстратора",
+            "placeholder": "ілюстратор книги",
+            "ariaLabel": "ім'я ілюстратора книги"
+        },
+        "publisherInput": {
+            "description": "Назва видавництва книги.",
+            "label": "Назва видавця",
+            "placeholder": "видавець книги",
+            "ariaLabel": "назва видавництва книги"
+        },
+        "label": "Джерело",
+        "isbnInput": {
+            "description": "Міжнародний стандартний книжковий номер книги.",
+            "label": "ISBN",
+            "placeholder": "ISBN книги",
+            "ariaLabel": "міжнародний стандартний книжковий номер книги"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "додати нову сторінку"},
+        "label": "сторінки"
+    }
+}

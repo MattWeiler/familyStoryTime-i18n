@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Opcioni audio za reprodukciju prije čitanja 1. stranice.",
+        "label": {
+            "withDisplayName": "Uvodni zvuk korisnika %{readerDisplayName}",
+            "noDisplayName": "Intro Audio"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} uvod čitaoca",
+            "noDisplayName": "čitač sa ID-om %{readerId} uvod"
+        }
+    },
+    "readerImage": {
+        "description": "Slika za prikaz za ovaj čitač.",
+        "accessibleImageDisplayName": "slika čitaoca %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Ovo će ukloniti sve audio stranice snimljene za ovaj čitač.",
+            "additionalMessage2": "OVO SE NE MOŽE PONIŠTITI!",
+            "title": "Potvrda brisanja",
+            "message": {
+                "withDisplayName": "Jeste li sigurni da želite izbrisati \"%{readerDisplayName}\" čitač?",
+                "noDisplayName": "Jeste li sigurni da želite izbrisati ovog čitača?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "uklonite čitač %{readerDisplayName}",
+            "noDisplayName": "uklonite čitač s ID-om %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "ime za prikaz za čitač",
+                "noDisplayName": "ime za prikaz za čitač"
+            },
+            "title": {
+                "withDisplayName": "Ažurirajte ime za prikaz",
+                "noDisplayName": "Podesite naziv za prikaz"
+            },
+            "message": {
+                "withDisplayName": "U šta biste željeli promijeniti ime za prikaz ovog čitača?",
+                "noDisplayName": "Koje je ime za prikaz za ovaj čitač?"
+            },
+            "inputPlaceholder": "ime čitaoca"
+        },
+        "ariaLabel": {
+            "withDisplayName": "promijenite naziv za prikaz za čitač %{readerDisplayName}",
+            "noDisplayName": "promijenite naziv za prikaz za čitač sa ID-om %{readerId}"
+        }
+    }
+}

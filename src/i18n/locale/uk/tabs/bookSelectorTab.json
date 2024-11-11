@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "не вдалося завантажити книги"},
+        "import": {"failure": "не вдалося імпортувати"},
+        "delete": {
+            "failure": "не вдалося видалити",
+            "success": "видалена книга \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "не вдалося видалити %{count} книг",
+                "one": "не вдалося видалити 1 книгу"
+            },
+            "success": {
+                "other": "видалено %{count} книг",
+                "one": "видалила 1 книгу"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "сортувати за кількістю сторінок у порядку спадання",
+                "descending": "сортувати за кількістю сторінок у порядку зростання"
+            }},
+            "searchField": {
+                "placeholder": "шукайте свої книги",
+                "ariaLabel": "шукайте свої книги"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Експорт",
+                        "ariaLabel": "експортувати вибрані книги"
+                    },
+                    "delete": {
+                        "label": "Видалити",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "ні, не видаляти вибрані книги"},
+                                "yes": {"ariaLabel": "так, видалити вибрані книги"}
+                            },
+                            "title": "Підтвердити видалення",
+                            "message": {
+                                "other": "Ви впевнені, що бажаєте видалити %{count} вибраних книг?",
+                                "one": "Ви впевнені, що хочете видалити вибрану книгу?"
+                            }
+                        },
+                        "ariaLabel": "видалити вибрані книги"
+                    }
+                },
+                "ariaLabel": "відкрити контекстне меню для вибраних книг"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "сортувати за назвою книги в порядку спадання",
+                "descending": "сортувати за назвою книги в порядку зростання"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "сортувати за кількістю читачів у порядку спадання",
+                "descending": "сортувати за кількістю читачів у порядку зростання"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "зменшити масштаб, щоб переглянути більше елементів одночасно",
+                "zoomedOut": "збільшити, щоб переглянути більші зображення"
+            }}
+        },
+        "loadError": {
+            "text": "Не вдалося завантажити книги.",
+            "ariaLabel": "не вдалося завантажити книги"
+        },
+        "noBooksFound": {
+            "message": "Книг не знайдено :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Спробуйте наш",
+                    "linkName": "книгобудівник"
+                },
+                "availableBooks": {
+                    "message": "Перевірте наш",
+                    "linkName": "книжковий магазин"
+                }
+            }
+        }
+    },
+    "subtitle": "Давайте з задоволенням прочитаємо деякі історії.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "створити книгу",
+                "ariaLabel": "створити нову книгу"
+            },
+            "importBooks": {
+                "label": "імпорт книг",
+                "ariaLabel": "імпортувати одну чи декілька книг"
+            },
+            "bookStore": {
+                "label": "відвідати книжковий магазин",
+                "ariaLabel": "завітайте до нашої книжкової крамниці"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "закрити меню додавання книги",
+            "collapsed": "відкрити меню додавання книги"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "видалення...\n",
+            "one": "видалення...\n",
+            "none": "видалення..."
+        }},
+        "export": {"label": {
+            "other": "експорт...\n",
+            "one": "експорт...\n",
+            "none": "експорт..."
+        }}
+    }},
+    "title": "Куточок для читання",
+    "confirmations": {"deleteBook": {
+        "title": "Підтвердження видалення",
+        "message": "Ви впевнені, що хочете видалити книгу \"%{bookTitle}?\""
+    }}
+}

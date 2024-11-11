@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "אימייל לא נתמך",
+        "submissionFailed": "שליחת המשוב נכשלה",
+        "submissionSuccess": "משוב נשלח"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "אנא בחר רמת שביעות רצון.",
+        "description": "מה הסיכוי שתשתף את האפליקציה שלנו?",
+        "label": "שיתוף עם אחרים",
+        "levels": {
+            "1": {
+                "displayName": "אין דרך",
+                "ariaLabel": "אין מצב"
+            },
+            "2": {
+                "displayName": "לא סביר",
+                "ariaLabel": "לא סביר"
+            },
+            "3": {
+                "displayName": "אוּלַי",
+                "ariaLabel": "אוּלַי"
+            },
+            "4": {
+                "displayName": "כֵּן",
+                "ariaLabel": "כֵּן"
+            },
+            "5": {
+                "displayName": "כבר יש",
+                "ariaLabel": "כבר יש"
+            }
+        },
+        "ariaLabel": "בחר את הסבירות שתשתף את היישום הנייד הזה עם אחרים"
+    },
+    "submitButton": {
+        "text": "שלח משוב",
+        "ariaLabel": "שלח את המשוב שלך"
+    },
+    "satisfactionInput": {
+        "errorMessage": "אנא בחר רמת שביעות רצון.",
+        "description": "כמה אהבת/לא אהבתי את האפליקציה שלנו?",
+        "label": "שביעות רצון מהאפליקציה",
+        "levels": {
+            "1": {
+                "displayName": "שונא את זה",
+                "ariaLabel": "שונא את זה"
+            },
+            "2": {
+                "displayName": "מאוכזב",
+                "ariaLabel": "מאוכזב"
+            },
+            "3": {
+                "displayName": "נֵטרָלִי",
+                "ariaLabel": "נֵטרָלִי"
+            },
+            "4": {
+                "displayName": "גָדוֹל",
+                "ariaLabel": "גָדוֹל"
+            },
+            "5": {
+                "displayName": "אוהב את זה",
+                "ariaLabel": "אוהב את זה"
+            }
+        },
+        "ariaLabel": "בחר את רמת שביעות הרצון שלך מהאפליקציה לנייד זו"
+    },
+    "commentInput": {
+        "description": "אפשר לספק הערות נוספות שיש לך.",
+        "label": "הֶעָרָה",
+        "ariaLabel": "אופציונלי, הערות נוספות"
+    },
+    "playingBooksInput": {
+        "errorMessage": "אנא בחר רמת שביעות רצון.",
+        "description": "איך מצאת ספרי משחק?",
+        "label": "משחק ספרים",
+        "levels": {
+            "1": {
+                "displayName": "לא עבד",
+                "ariaLabel": "לא עבד"
+            },
+            "2": {
+                "displayName": "לא נהדר",
+                "ariaLabel": "לא נהדר"
+            },
+            "3": {
+                "displayName": "זה בסדר",
+                "ariaLabel": "זה בסדר"
+            },
+            "4": {
+                "displayName": "זה קל",
+                "ariaLabel": "זה קל"
+            },
+            "5": {
+                "displayName": "אוהב את זה",
+                "ariaLabel": "אוהב את זה"
+            }
+        },
+        "ariaLabel": "בחר את שביעות הרצון שלך מהפעלת הספר"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "אנא בחר רמת שביעות רצון.",
+        "description": "איך אהבת שיש לך מספר קוראים?",
+        "label": "מספר קוראים",
+        "levels": {
+            "1": {
+                "displayName": "לא עבד",
+                "ariaLabel": "לא עבד"
+            },
+            "2": {
+                "displayName": "לא נהדר",
+                "ariaLabel": "לא נהדר"
+            },
+            "3": {
+                "displayName": "זה בסדר",
+                "ariaLabel": "זה בסדר"
+            },
+            "4": {
+                "displayName": "זה קל",
+                "ariaLabel": "זה קל"
+            },
+            "5": {
+                "displayName": "אוהב את זה",
+                "ariaLabel": "אוהב את זה"
+            }
+        },
+        "ariaLabel": "בחר את שביעות הרצון שלך עם מספר קוראים לכל ספר"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "אנא בחר רמת שביעות רצון.",
+        "description": "איך מצאת יצירת ספרים?",
+        "label": "יצירת ספרים",
+        "levels": {
+            "1": {
+                "displayName": "לא עבד",
+                "ariaLabel": "לא עבד"
+            },
+            "2": {
+                "displayName": "לא נהדר",
+                "ariaLabel": "לא נהדר"
+            },
+            "3": {
+                "displayName": "זה בסדר",
+                "ariaLabel": "זה בסדר"
+            },
+            "4": {
+                "displayName": "זה קל",
+                "ariaLabel": "זה קל"
+            },
+            "5": {
+                "displayName": "אוהב את זה",
+                "ariaLabel": "אוהב את זה"
+            }
+        },
+        "ariaLabel": "בחר את שביעות הרצון שלך מתהליך יצירת הספר"
+    }
+}

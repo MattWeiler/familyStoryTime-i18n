@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "imirt fuaime",
+            "ariaLabel": "imirt fuaime"
+        },
+        "playing": {
+            "title": "sos fuaime",
+            "ariaLabel": "sos fuaime"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "zúmáil amach chun an íomhá iomlán a thaispeáint, d'fhéadfadh barraí dubha a bheith ar na taobhanna",
+        "zoomedOut": "zúmáil isteach chun a chinntiú go bhfuil an scáileán iomlán líonta leis an íomhá, seans nach mbeidh cuid den íomhá le feiceáil"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "téigh go dtí an leathanach roimhe seo",
+            "ariaLabel": "téigh go dtí an leathanach roimhe seo"
+        },
+        "noPreviousPage": {
+            "title": "dul ar ais chuig roghnú leabhar",
+            "ariaLabel": "dul ar ais chuig roghnú leabhar"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "téigh go dtí an chéad leathanach eile",
+            "ariaLabel": "téigh go dtí an chéad leathanach eile"
+        },
+        "noNextPage": {
+            "title": "dul ar ais chuig roghnú leabhar",
+            "ariaLabel": "dul ar ais chuig roghnú leabhar"
+        }
+    }
+}

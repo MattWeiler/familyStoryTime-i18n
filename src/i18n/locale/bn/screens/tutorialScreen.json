@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "আমাদের মতামত প্রদান"},
+        "intro": {"displayName": "ভূমিকা"},
+        "createBooks": {"displayName": "বই তৈরি করা"},
+        "parentalLocking": {"displayName": "প্যারেন্টাল লকিং"},
+        "sharingBooks": {"displayName": "শেয়ারিং বই"},
+        "bookPlayback": {"displayName": "বই খেলা"},
+        "bookStore": {"displayName": "বইয়ের দোকান"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "%{pageName} পৃষ্ঠা দেখুন"},
+        "backPageButton": {"ariaLabel": "1 পৃষ্ঠায় ফিরে যান"},
+        "forwardPageButton": {"ariaLabel": "1 পৃষ্ঠা এগিয়ে যান"}
+    },
+    "startLink": {
+        "label": "শুরু করুন",
+        "ariaLabel": "হোম পেজে যান"
+    }
+}

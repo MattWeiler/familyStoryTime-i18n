@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "qupperneq %{pageNum} assi"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Rescan Side Tekst",
+                "message": "Qularnanngilaq assi allaaserisaq scannerniarlugu aammalu quppernermi allaaserisat pioreersut taarserlugit?"
+            },
+            "ariaLabel": "quppernermut %{pageNum}-mut assimit allaaserisaq uuttortaruk"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "allaaserisaq quppernermut %{pageNum} ilanngunneqartussaq",
+                    "withPageText": "allaaserisaq quppernermi %{pageNum} nutarterneqartussaq"
+                },
+                "title": {
+                    "noPageText": "Set Side Tekst",
+                    "withPageText": "Quppernerup allaaserisaa nutarterlugu"
+                },
+                "message": {
+                    "noPageText": "Quppernerup allassimaffia qanoq ippa?",
+                    "withPageText": "Quppernerup allattorsimaffia qanoq allanngortikkusuppiuk?"
+                },
+                "inputPlaceholder": "tekst ilanngussallugu"
+            },
+            "ariaLabel": "allaaserisaq \"%{pageText}\" quppernermi %{pageNum}-miit allanngortiguk"
+        },
+        "moveUpButton": {"ariaLabel": "allaaserisaq \"%{pageText}\" quppernermi %{pageNum}-imiit qummut nuuguk"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Deletion Uppernarsaaneq",
+                "message": "Quppernerup allaaserisaa una piiarniarlugu qularnanngilaq?"
+            },
+            "ariaLabel": "allaaserisaq \"%{pageText}\" quppernermit %{pageNum} peerlugu"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "allaaserisaq quppernermut %{pageNum} ilanngunneqartussaq",
+                "title": "Set Side Tekst",
+                "message": "Quppernerup allassimaffia qanoq ippa?",
+                "inputPlaceholder": "tekst ilanngussallugu"
+            },
+            "ariaLabel": "allaaserisaq nutaaq quppernermut %{pageNum} ilanngukkit"
+        },
+        "label": "Allataq",
+        "showHideButton": {"ariaLabel": {
+            "visible": "allatat \"%{pageText}\" quppernermi %{pageNum}-miit toqqoqqagit",
+            "hidden": "takuuk allaaserisaq \"%{pageText}\" quppernermi %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "allaaserisaq \"%{pageText}\" quppernermi %{pageNum}-miit allamut nuuguk"}
+    },
+    "moveUpButton": {"ariaLabel": "qupperneq %{pageNum} qummut nuuguk"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "\"%{readerDisplayName}\" qupperneq %{pageNum} atuarpat nipit tusarneqartussat.",
+                "noDisplayName": "Atuartup qupperneq %{pageNum} atuarnerani nipit tusarnaartinneqartussat."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "qupperneq %{pageNum} %{readerDisplayName} atuartoq"
+        },
+        "label": "Atuartut"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Tamanna quppernerup nipimik quppernermut matumunnga immiussanik tamanik peersitsissaaq.",
+            "additionalMessage2": "TAMANNA UNNUSSINNAANNGILLAQ!",
+            "title": "Deletion Uppernarsaaneq",
+            "message": "Qupperneq %{pageNum} piiarusuppiuk?"
+        },
+        "ariaLabel": "Qupperneq %{pageNum} peerlugu"
+    },
+    "description": "Asseq quppernermi %{pageNum}-mi takutinneqartussaq.",
+    "label": "Qupperneq %{pageNum}",
+    "moveDownButton": {"ariaLabel": "qupperneq %{pageNum} allamut nuuguk"}
+}

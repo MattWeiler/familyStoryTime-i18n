@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "הייבוא \u200b\u200bכבר פועל, נסה שוב מאוחר יותר",
+        "download": {"failed": "הורדת \"%{bookName}\" נכשלה."},
+        "install": {
+            "failed": "לא הצליח לייבא את \"%{bookName}\"",
+            "successful": "\"%{bookName}\" יובא בהצלחה"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "לְבַטֵל",
+            "ariaLabel": "לבטל את הייבוא"
+        },
+        "install": {
+            "textLabel": "לְהַתְקִין",
+            "ariaLabel": "התקן ספרים נבחרים: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "מנתח...",
+        "downloading": "מוריד...",
+        "installing": "מתקין...",
+        "cancelling": "מבטל..."
+    },
+    "nothingToInstall": "אין מה לייבא :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "קורא זה כבר חלק מהספר המותקן.\n\n"},
+            "checkbox": {"ariaLabel": "לכלול את הקורא %{readerDisplayName} בייבוא"}
+        },
+        "checkbox": {"ariaLabel": "לכלול ספר %{bookName} בייבוא"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "הספר הזה כבר נמצא במכשיר שלך.\n\n"},
+                "full": {
+                    "withReaders": {"label": "אם תבחר להחליף, הספר הנוכחי יוחלף בספר החדש.\n\n"},
+                    "noReaders": {"label": "הספר הזה כבר נמצא במכשיר שלך.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "קובץ זה מכיל רק אודיו, והספר אינו מותקן במכשיר שלך.\n\n"},
+                "full": {
+                    "withReaders": {"label": "ספר זה אינו במכשיר שלך.\n\n"},
+                    "noReaders": {"label": "ספר זה אינו במכשיר שלך.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "לְמַזֵג",
+                    "ariaLabel": "למזג את הספר %{bookName} על ידי הוספת קוראים חדשים והחלפת קוראים קיימים עם קוראים חדשים"
+                },
+                "overwrite": {
+                    "label": "להחליף",
+                    "ariaLabel": "החלף ספר קיים %{bookName}"
+                }
+            },
+            "ariaLabel": "בחר באיזו אסטרטגיית ייבוא \u200b\u200bלהשתמש עבור הספר %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "אל תבטל את הייבוא"},
+            "yes": {"ariaLabel": "לבטל את הייבוא"}
+        },
+        "title": "אשר בטל ייבוא",
+        "message": "האם אתה בטוח שברצונך לבטל את הייבוא?"
+    }},
+    "titles": {
+        "booksToInstall": "ספרים להתקנה",
+        "failedToInstall": "התקנת ספרים נכשלה"
+    }
+}

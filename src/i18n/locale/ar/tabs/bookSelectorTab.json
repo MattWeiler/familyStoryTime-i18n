@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "فشل تحميل الكتب"},
+        "import": {"failure": "فشل الاستيراد"},
+        "delete": {
+            "failure": "فشل الحذف",
+            "success": "الكتاب المحذوف \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "فشل في حذف %{count} كتب",
+                "one": "فشل في حذف كتاب واحد"
+            },
+            "success": {
+                "other": "تم حذف %{count} من الكتب",
+                "one": "تم حذف كتاب واحد"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "فرز حسب عدد الصفحات بترتيب تنازلي",
+                "descending": "فرز حسب عدد الصفحات بترتيب تصاعدي"
+            }},
+            "searchField": {
+                "placeholder": "ابحث في كتبك",
+                "ariaLabel": "ابحث في كتبك"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "يصدّر",
+                        "ariaLabel": "تصدير الكتب المختارة"
+                    },
+                    "delete": {
+                        "label": "يمسح",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "لا، لا تقم بحذف الكتب المحددة"},
+                                "yes": {"ariaLabel": "نعم، احذف الكتب المختارة"}
+                            },
+                            "title": "تأكيد الحذف",
+                            "message": {
+                                "other": "هل أنت متأكد أنك تريد حذف الكتب المحددة %{count}؟",
+                                "one": "هل أنت متأكد أنك تريد حذف الكتاب المحدد؟"
+                            }
+                        },
+                        "ariaLabel": "حذف الكتب المختارة"
+                    }
+                },
+                "ariaLabel": "افتح قائمة السياق للكتب المحددة"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "الترتيب حسب عنوان الكتاب بترتيب تنازلي",
+                "descending": "الترتيب حسب عنوان الكتاب بترتيب تصاعدي"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "فرز حسب عدد القراء بترتيب تنازلي",
+                "descending": "فرز حسب عدد القراء بترتيب تصاعدي"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "قم بالتصغير لعرض المزيد من العناصر مرة واحدة",
+                "zoomedOut": "قم بالتكبير لعرض صور أكبر"
+            }}
+        },
+        "loadError": {
+            "text": "فشل في تحميل الكتب.",
+            "ariaLabel": "فشل في تحميل الكتب"
+        },
+        "noBooksFound": {
+            "message": "لم يتم العثور على كتب :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "جرب لدينا",
+                    "linkName": "منشئ الكتاب"
+                },
+                "availableBooks": {
+                    "message": "الخروج لدينا",
+                    "linkName": "متجر الكتب"
+                }
+            }
+        }
+    },
+    "subtitle": "دعونا نستمتع بقراءة بعض القصص.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "إنشاء كتاب",
+                "ariaLabel": "إنشاء كتاب جديد"
+            },
+            "importBooks": {
+                "label": "استيراد الكتب",
+                "ariaLabel": "استيراد كتاب أو أكثر"
+            },
+            "bookStore": {
+                "label": "قم بزيارة متجر الكتب",
+                "ariaLabel": "قم بزيارة متجر الكتب لدينا"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "إغلاق إضافة قائمة الكتب",
+            "collapsed": "افتح قائمة إضافة كتاب"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "حذف ...\n",
+            "one": "حذف ...\n",
+            "none": "حذف ..."
+        }},
+        "export": {"label": {
+            "other": "تصدير ...\n",
+            "one": "تصدير ...\n",
+            "none": "تصدير ..."
+        }}
+    }},
+    "title": "ركن القراءة",
+    "confirmations": {"deleteBook": {
+        "title": "تأكيد الحذف",
+        "message": "هل أنت متأكد أنك تريد حذف الكتاب \"%{bookTitle}؟\""
+    }}
+}

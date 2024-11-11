@@ -1,0 +1,22 @@
+{"durations": {
+    "hours": {
+        "other": "%{displayValue} sati",
+        "one": "%{displayValue} sat"
+    },
+    "mins": {
+        "other": "%{displayValue} min",
+        "one": "%{displayValue} min"
+    },
+    "ms": {
+        "other": "%{displayValue} ms",
+        "one": "%{displayValue} ms"
+    },
+    "secs": {
+        "other": "%{displayValue} s",
+        "one": "%{displayValue} s"
+    },
+    "days": {
+        "other": "%{displayValue} dana",
+        "one": "%{displayValue} dan"
+    }
+}}

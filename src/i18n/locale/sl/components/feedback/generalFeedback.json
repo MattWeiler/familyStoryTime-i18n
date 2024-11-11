@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "pošiljanje po e-pošti ni podprto",
+        "submissionFailed": "pošiljanje povratnih informacij ni uspelo",
+        "submissionSuccess": "povratne informacije poslane"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Prosimo izberite stopnjo zadovoljstva.",
+        "description": "Kako verjetno je, da boste delili našo aplikacijo?",
+        "label": "Deljenje z drugimi",
+        "levels": {
+            "1": {
+                "displayName": "No Way",
+                "ariaLabel": "nikakor"
+            },
+            "2": {
+                "displayName": "Ni verjetno",
+                "ariaLabel": "ni verjetno"
+            },
+            "3": {
+                "displayName": "mogoče",
+                "ariaLabel": "morda"
+            },
+            "4": {
+                "displayName": "ja",
+                "ariaLabel": "ja"
+            },
+            "5": {
+                "displayName": "Že imam",
+                "ariaLabel": "že imajo"
+            }
+        },
+        "ariaLabel": "izberite, kako verjetno je, da boste to mobilno aplikacijo delili z drugimi"
+    },
+    "submitButton": {
+        "text": "Pošlji povratne informacije",
+        "ariaLabel": "oddajte povratne informacije"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Prosimo izberite stopnjo zadovoljstva.",
+        "description": "Koliko vam je bila všeč/ni všeč naša aplikacija?",
+        "label": "Zadovoljstvo z aplikacijo",
+        "levels": {
+            "1": {
+                "displayName": "Sovražim",
+                "ariaLabel": "sovražim to"
+            },
+            "2": {
+                "displayName": "Razočaran",
+                "ariaLabel": "razočarana"
+            },
+            "3": {
+                "displayName": "Nevtralno",
+                "ariaLabel": "nevtralen"
+            },
+            "4": {
+                "displayName": "super",
+                "ariaLabel": "odlično"
+            },
+            "5": {
+                "displayName": "Všeč mi je",
+                "ariaLabel": "všeč mi je"
+            }
+        },
+        "ariaLabel": "izberite stopnjo zadovoljstva s to mobilno aplikacijo"
+    },
+    "commentInput": {
+        "description": "Po želji navedite vse dodatne komentarje, ki jih imate.",
+        "label": "Komentiraj",
+        "ariaLabel": "neobvezno dodatni komentarji"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Prosimo izberite stopnjo zadovoljstva.",
+        "description": "Kako se vam zdi igranje knjig?",
+        "label": "Igranje knjig",
+        "levels": {
+            "1": {
+                "displayName": "Ni delovalo",
+                "ariaLabel": "ni delovalo"
+            },
+            "2": {
+                "displayName": "Ni super",
+                "ariaLabel": "ni super"
+            },
+            "3": {
+                "displayName": "V redu je",
+                "ariaLabel": "v redu je"
+            },
+            "4": {
+                "displayName": "Enostavno je",
+                "ariaLabel": "enostavno je"
+            },
+            "5": {
+                "displayName": "Všeč mi je",
+                "ariaLabel": "všeč mi je"
+            }
+        },
+        "ariaLabel": "izberite svoje zadovoljstvo s predvajanjem knjige"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Prosimo izberite stopnjo zadovoljstva.",
+        "description": "Kako vam je bilo všeč imeti več bralcev?",
+        "label": "Več bralcev",
+        "levels": {
+            "1": {
+                "displayName": "Ni delovalo",
+                "ariaLabel": "ni delovalo"
+            },
+            "2": {
+                "displayName": "Ni super",
+                "ariaLabel": "ni super"
+            },
+            "3": {
+                "displayName": "V redu je",
+                "ariaLabel": "v redu je"
+            },
+            "4": {
+                "displayName": "Enostavno je",
+                "ariaLabel": "enostavno je"
+            },
+            "5": {
+                "displayName": "Všeč mi je",
+                "ariaLabel": "všeč mi je"
+            }
+        },
+        "ariaLabel": "izberite svoje zadovoljstvo z več bralci na knjigo"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Prosimo izberite stopnjo zadovoljstva.",
+        "description": "Kako se vam je zdelo ustvarjanje knjig?",
+        "label": "Ustvarjanje knjig",
+        "levels": {
+            "1": {
+                "displayName": "Ni delovalo",
+                "ariaLabel": "ni delovalo"
+            },
+            "2": {
+                "displayName": "Ni super",
+                "ariaLabel": "ni super"
+            },
+            "3": {
+                "displayName": "V redu je",
+                "ariaLabel": "v redu je"
+            },
+            "4": {
+                "displayName": "Enostavno je",
+                "ariaLabel": "enostavno je"
+            },
+            "5": {
+                "displayName": "Všeč mi je",
+                "ariaLabel": "všeč mi je"
+            }
+        },
+        "ariaLabel": "izberite svoje zadovoljstvo s procesom ustvarjanja knjige"
+    }
+}

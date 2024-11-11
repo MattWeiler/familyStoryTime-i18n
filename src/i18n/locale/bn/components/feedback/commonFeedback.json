@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "নাম",
+        "placeholder": "জন ডো",
+        "ariaLabel": "ঐচ্ছিকভাবে, আপনার নাম"
+    },
+    "emailInput": {
+        "description": "আপনি যদি আমাদের কাছ থেকে ফিরে শুনতে চান প্রদান করুন.",
+        "label": "ইমেইল ঠিকানা",
+        "placeholder": "someone@gmail.com",
+        "ariaLabel": "ঐচ্ছিকভাবে, আপনার ইমেল ঠিকানা"
+    }
+}

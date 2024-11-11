@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "mengirim email tidak didukung",
+        "submissionFailed": "pengiriman umpan balik gagal",
+        "submissionSuccess": "umpan balik dikirim"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Silakan pilih tingkat kepuasan.",
+        "description": "Seberapa besar kemungkinan Anda membagikan aplikasi kami?",
+        "label": "Berbagi dengan Orang Lain",
+        "levels": {
+            "1": {
+                "displayName": "Mustahil",
+                "ariaLabel": "mustahil"
+            },
+            "2": {
+                "displayName": "Tidak Mungkin",
+                "ariaLabel": "tidak mungkin"
+            },
+            "3": {
+                "displayName": "Mungkin",
+                "ariaLabel": "Mungkin"
+            },
+            "4": {
+                "displayName": "Ya",
+                "ariaLabel": "Ya"
+            },
+            "5": {
+                "displayName": "Sudah punya",
+                "ariaLabel": "sudah punya"
+            }
+        },
+        "ariaLabel": "pilih seberapa besar kemungkinan Anda berbagi aplikasi seluler ini dengan orang lain"
+    },
+    "submitButton": {
+        "text": "Kirim Masukan",
+        "ariaLabel": "kirimkan tanggapan Anda"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Silakan pilih tingkat kepuasan.",
+        "description": "Seberapa besar Anda menyukai/tidak menyukai aplikasi kami?",
+        "label": "Kepuasan Aplikasi",
+        "levels": {
+            "1": {
+                "displayName": "Benci",
+                "ariaLabel": "membencinya"
+            },
+            "2": {
+                "displayName": "Kecewa",
+                "ariaLabel": "kecewa"
+            },
+            "3": {
+                "displayName": "Netral",
+                "ariaLabel": "netral"
+            },
+            "4": {
+                "displayName": "Besar",
+                "ariaLabel": "Besar"
+            },
+            "5": {
+                "displayName": "Suka sekali",
+                "ariaLabel": "suka sekali"
+            }
+        },
+        "ariaLabel": "pilih tingkat kepuasan Anda dengan aplikasi seluler ini"
+    },
+    "commentInput": {
+        "description": "Secara opsional, berikan komentar tambahan yang Anda miliki.",
+        "label": "Komentar",
+        "ariaLabel": "opsional, komentar tambahan"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Silakan pilih tingkat kepuasan.",
+        "description": "Bagaimana Anda menemukan bermain buku?",
+        "label": "Memainkan Buku",
+        "levels": {
+            "1": {
+                "displayName": "Tidak Berhasil",
+                "ariaLabel": "tidak berhasil"
+            },
+            "2": {
+                "displayName": "Tidak Hebat",
+                "ariaLabel": "tidak bagus"
+            },
+            "3": {
+                "displayName": "Tidak apa-apa",
+                "ariaLabel": "tidak apa-apa"
+            },
+            "4": {
+                "displayName": "Itu Mudah",
+                "ariaLabel": "itu mudah"
+            },
+            "5": {
+                "displayName": "Suka sekali",
+                "ariaLabel": "suka sekali"
+            }
+        },
+        "ariaLabel": "pilih kepuasan Anda dengan pemutaran buku"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Silakan pilih tingkat kepuasan.",
+        "description": "Bagaimana Anda suka memiliki banyak pembaca?",
+        "label": "Banyak Pembaca",
+        "levels": {
+            "1": {
+                "displayName": "Tidak Berhasil",
+                "ariaLabel": "tidak berhasil"
+            },
+            "2": {
+                "displayName": "Tidak Hebat",
+                "ariaLabel": "tidak bagus"
+            },
+            "3": {
+                "displayName": "Tidak apa-apa",
+                "ariaLabel": "tidak apa-apa"
+            },
+            "4": {
+                "displayName": "Itu Mudah",
+                "ariaLabel": "itu mudah"
+            },
+            "5": {
+                "displayName": "Suka sekali",
+                "ariaLabel": "suka sekali"
+            }
+        },
+        "ariaLabel": "pilih kepuasan Anda dengan memiliki banyak pembaca per buku"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Silakan pilih tingkat kepuasan.",
+        "description": "Bagaimana menurut Anda cara membuat buku?",
+        "label": "Membuat Buku",
+        "levels": {
+            "1": {
+                "displayName": "Tidak Berhasil",
+                "ariaLabel": "tidak berhasil"
+            },
+            "2": {
+                "displayName": "Tidak Hebat",
+                "ariaLabel": "tidak bagus"
+            },
+            "3": {
+                "displayName": "Tidak apa-apa",
+                "ariaLabel": "tidak apa-apa"
+            },
+            "4": {
+                "displayName": "Itu Mudah",
+                "ariaLabel": "itu mudah"
+            },
+            "5": {
+                "displayName": "Suka sekali",
+                "ariaLabel": "suka sekali"
+            }
+        },
+        "ariaLabel": "pilih kepuasan Anda terhadap proses pembuatan buku"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "shfletoni për një skedar imazhi",
+        "ariaLabel": "shfletoni për një skedar imazhi për imazhin %{imageDisplayName}"
+    },
+    "takePhotoButton": {
+        "title": "bëj foto",
+        "ariaLabel": "fotografoni për %{imageDisplayName} imazh"
+    },
+    "browseImageGalleryButton": {
+        "title": "shfletoni galerinë e imazheve",
+        "ariaLabel": "shfletoni galerinë e imazheve për imazhin %{imageDisplayName}"
+    },
+    "fullscreenButton": {"ariaLabel": "shfaq imazhin e %{imageDisplayName} në ekran të plotë"},
+    "imageEditor": {
+        "cropButton": {"text": "Pritini"},
+        "cancelButton": {"text": "Anulo"},
+        "backButton": {"text": "Mbrapa"},
+        "saveButton": {"text": "Ruaj"}
+    },
+    "editSelectedImageButton": {
+        "title": "redaktoni imazhin",
+        "ariaLabel": "modifikoni imazhin %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "shfaqni kontrollet e imazhit %{imageDisplayName}",
+        "controlsVisible": "fshihni kontrollet e imazhit %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Leja u refuzua",
+            "message": "Ju keni refuzuar lejen për të hyrë në kamerën tuaj."
+        },
+        "browseImages": {
+            "title": "Leja u refuzua",
+            "message": "Ju keni refuzuar lejen për të hyrë në fotot tuaja."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "mbyll ekranin e plotë"}
+}

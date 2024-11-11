@@ -1,0 +1,17 @@
+{
+    "summary": "U našoj knjižari možete pronaći knjige iz javnog domena.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Možete odabrati koju od dostupnih knjiga želite preuzeti.",
+            "2": "Na taj način će se knjige instalirati na vaš uređaj, omogućavajući vam da ih reprodukujete, pa čak i da dodate svoje čitače."
+        },
+        "title": "Instaliranje knjiga"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Također možete pogledati koje ste knjige već instalirali u našoj knjižari.",
+            "2": "Odavde možete izbrisati prethodno instalirane knjige ili provjeriti ima li dostupnih ažuriranja."
+        },
+        "title": "Upravljanje knjigama"
+    }
+}

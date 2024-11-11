@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "Zpětná vazba aplikace",
+            "ariaLabel": "poskytnout zpětnou vazbu k naší aplikaci"
+        },
+        "description": "Rádi bychom slyšeli, co nám chcete říct."
+    },
+    "title": "Zanechat zpětnou vazbu",
+    "bugFeedback": {
+        "tab": {
+            "title": "Nahlásit chybu",
+            "ariaLabel": "nahlaste chybu, kterou jste našli v naší aplikaci"
+        },
+        "description": "Je nám líto, že jste našli chybu, ale uděláme vše pro to, abychom ji napravili :)"
+    }
+}

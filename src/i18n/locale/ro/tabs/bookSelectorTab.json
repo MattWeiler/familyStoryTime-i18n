@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "încărcarea cărților nu a reușit"},
+        "import": {"failure": "importul nu a reușit"},
+        "delete": {
+            "failure": "ștergerea nu a reușit",
+            "success": "cartea ștearsă \u201e%{bookTitle}\u201d"
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "nu s-au șters %{count} cărți",
+                "one": "nu s-a șters o carte"
+            },
+            "success": {
+                "other": "au șters %{count} cărți",
+                "one": "a șters 1 carte"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "sortați după numărul de pagini în ordine descrescătoare",
+                "descending": "sortați după numărul de pagini în ordine crescătoare"
+            }},
+            "searchField": {
+                "placeholder": "caută-ți cărțile",
+                "ariaLabel": "caută-ți cărțile"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Export",
+                        "ariaLabel": "exportați cărțile selectate"
+                    },
+                    "delete": {
+                        "label": "Şterge",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "nu, nu ștergeți cărțile selectate"},
+                                "yes": {"ariaLabel": "da, șterge cărțile selectate"}
+                            },
+                            "title": "Confirmați ștergerea",
+                            "message": {
+                                "other": "Sunteți sigur că doriți să ștergeți %{count} cărțile selectate?",
+                                "one": "Sunteți sigur că doriți să ștergeți cartea selectată?"
+                            }
+                        },
+                        "ariaLabel": "ștergeți cărțile selectate"
+                    }
+                },
+                "ariaLabel": "deschide meniul contextual pentru cărțile selectate"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "sortați după titlul cărții în ordine descrescătoare",
+                "descending": "sortați după titlul cărții în ordine crescătoare"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "sortați după numărul de cititori în ordine descrescătoare",
+                "descending": "sortați după numărul de cititori în ordine crescătoare"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "micșorați pentru a vedea mai multe articole simultan",
+                "zoomedOut": "măriți pentru a vizualiza imagini mai mari"
+            }}
+        },
+        "loadError": {
+            "text": "Nu s-au încărcat cărțile.",
+            "ariaLabel": "nu s-a încărcat cărțile"
+        },
+        "noBooksFound": {
+            "message": "Nu s-au găsit cărți :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Încearcă-ne",
+                    "linkName": "constructor de cărți"
+                },
+                "availableBooks": {
+                    "message": "Verificați-ne",
+                    "linkName": "magazin de carte"
+                }
+            }
+        }
+    },
+    "subtitle": "Să ne bucurăm să citim câteva povești.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "creează o carte",
+                "ariaLabel": "creați o carte nouă"
+            },
+            "importBooks": {
+                "label": "import cărți",
+                "ariaLabel": "importa una sau mai multe cărți"
+            },
+            "bookStore": {
+                "label": "vizitează librăria",
+                "ariaLabel": "vizitați librăria noastră"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "închideți adăugați un meniu de carte",
+            "collapsed": "deschideți adăugați un meniu de carte"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "se șterge...\n",
+            "one": "se șterge...\n",
+            "none": "se șterge..."
+        }},
+        "export": {"label": {
+            "other": "exporta...\n",
+            "one": "exporta...\n",
+            "none": "exporta..."
+        }}
+    }},
+    "title": "Colțul de lectură",
+    "confirmations": {"deleteBook": {
+        "title": "Confirmare ștergere",
+        "message": "Sigur doriți să ștergeți cartea \u201e%{bookTitle}?\u201d"
+    }}
+}

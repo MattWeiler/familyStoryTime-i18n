@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Ainm",
+        "placeholder": "Iain Doe",
+        "ariaLabel": "gu roghnach, d\u2019 ainm"
+    },
+    "emailInput": {
+        "description": "Thoir seachad ma tha thu airson cluinntinn air ais bhuainn.",
+        "label": "Seòladh puist-d",
+        "placeholder": "cuideigin@gmail.com",
+        "ariaLabel": "roghnach, do sheòladh puist-d"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "האודיו האופציונלי לנגן לפני קריאת העמוד הראשון.",
+        "label": {
+            "withDisplayName": "אודיו המבוא של %{readerDisplayName}",
+            "noDisplayName": "אודיו מבוא"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} הקדמת קורא",
+            "noDisplayName": "קורא עם מזהה %{readerId} הקדמה"
+        }
+    },
+    "readerImage": {
+        "description": "התמונה שתוצג עבור קורא זה.",
+        "accessibleImageDisplayName": "תמונה של קורא %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "פעולה זו תסיר את כל האודיו של הדף שהוקלט עבור קורא זה.",
+            "additionalMessage2": "לא ניתן לבטל את זה!",
+            "title": "אישור מחיקה",
+            "message": {
+                "withDisplayName": "האם אתה בטוח שברצונך למחוק את הקורא \"%{readerDisplayName}\"?",
+                "noDisplayName": "האם אתה בטוח שברצונך למחוק את הקורא הזה?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "הסר את הקורא %{readerDisplayName}",
+            "noDisplayName": "הסר את הקורא עם המזהה %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "שם תצוגה עבור הקורא",
+                "noDisplayName": "שם תצוגה עבור הקורא"
+            },
+            "title": {
+                "withDisplayName": "עדכן את שם התצוגה",
+                "noDisplayName": "הגדר את שם התצוגה"
+            },
+            "message": {
+                "withDisplayName": "למה תרצה לשנות את שם התצוגה של הקוראים?",
+                "noDisplayName": "מהו שם התצוגה של הקורא הזה?"
+            },
+            "inputPlaceholder": "שם הקורא"
+        },
+        "ariaLabel": {
+            "withDisplayName": "שנה את שם התצוגה עבור הקורא %{readerDisplayName}",
+            "noDisplayName": "שנה את שם התצוגה של הקורא עם המזהה %{readerId}"
+        }
+    }
+}

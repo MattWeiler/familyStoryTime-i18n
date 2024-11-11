@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "importul rulează deja, încercați din nou mai târziu",
+        "download": {"failed": "a eșuat descărcarea \u201e%{bookName}\u201d."},
+        "install": {
+            "failed": "nu s-a putut importa \u201e%{bookName}\u201d",
+            "successful": "a importat cu succes \u201e%{bookName}\u201d"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Anula",
+            "ariaLabel": "anulați importul"
+        },
+        "install": {
+            "textLabel": "Instala",
+            "ariaLabel": "instalați cărțile selectate: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "analizand...",
+        "downloading": "se descarcă...",
+        "installing": "instalarea...",
+        "cancelling": "anulare..."
+    },
+    "nothingToInstall": "Nimic de importat :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Acest cititor face deja parte din cartea instalată.\n\n"},
+            "checkbox": {"ariaLabel": "pentru a include cititorul %{readerDisplayName} în import"}
+        },
+        "checkbox": {"ariaLabel": "pentru a include %{bookName} carte în import"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Această carte este deja pe dispozitivul dvs.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Dacă alegeți să suprascrieți, cartea curentă va fi înlocuită cu cea nouă.\n\n"},
+                    "noReaders": {"label": "Această carte este deja pe dispozitivul dvs.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Acest fișier conține doar audio, iar cartea nu este instalată pe dispozitivul dvs.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Această carte nu este pe dispozitivul dvs.\n\n"},
+                    "noReaders": {"label": "Această carte nu este pe dispozitivul dvs.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "îmbina",
+                    "ariaLabel": "îmbinați cartea %{bookName} adăugând cititori noi și suprascriind cititorii existenți cu cititori noi"
+                },
+                "overwrite": {
+                    "label": "suprascrie",
+                    "ariaLabel": "suprascrieți cartea existentă %{bookName}"
+                }
+            },
+            "ariaLabel": "selectați ce strategie de import să utilizați pentru cartea %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "nu anulați importul"},
+            "yes": {"ariaLabel": "anulați importul"}
+        },
+        "title": "Confirmați Anulați importul",
+        "message": "Sigur doriți să anulați importul?"
+    }},
+    "titles": {
+        "booksToInstall": "Cărți de instalat",
+        "failedToInstall": "Instalarea cărților nu a reușit"
+    }
+}

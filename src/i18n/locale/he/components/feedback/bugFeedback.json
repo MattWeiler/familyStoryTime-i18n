@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "אימייל לא נתמך",
+        "submissionFailed": "שליחת באג נכשלה",
+        "submissionSuccess": "באג נשלח"
+    },
+    "submitButton": {
+        "text": "שלח באג",
+        "ariaLabel": "להגיש את הבאג"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "הוסף את הספרים שעלולים לגרום לבעיה.",
+            "label": "ספרים לצרף"
+        },
+        "loadFailed": "טעינת הספרים נכשלה",
+        "noBooksInstalled": "לא מותקנים ספרים",
+        "picker": {
+            "header": "בחר/י ספרים",
+            "ariaLabel": "בחר אילו ספרים יש לצרף למשוב הבאג"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "בצע שינויים בספרים המצורפים למשוב הבאג שלך"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "אנא ספק כמה פרטים על הבאג.",
+        "description": "ספק פרטים על הבאג.",
+        "label": "פרטי באג",
+        "ariaLabel": "תיאור הבאג"
+    }
+}

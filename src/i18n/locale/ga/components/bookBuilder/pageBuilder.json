@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "leathanach %{pageNum} íomhá"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Athscan Téacs Leathanach",
+                "message": "An bhfuil tú cinnte gur mian leat an íomhá a scanadh le haghaidh téacs agus téacs an leathanaigh atá agat a athsholáthar?"
+            },
+            "ariaLabel": "bain téacs as íomhá don leathanach %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "téacs le cur leis an leathanach %{pageNum}",
+                    "withPageText": "téacs le nuashonrú ar leathanach %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Socraigh Téacs Leathanach",
+                    "withPageText": "Nuashonraigh Téacs Leathanach"
+                },
+                "message": {
+                    "noPageText": "Cad é téacs an leathanaigh?",
+                    "withPageText": "Cad é ar mhaith leat téacs an leathanaigh a athrú chuige?"
+                },
+                "inputPlaceholder": "téacs le cur leis"
+            },
+            "ariaLabel": "in eagar an téacs \"%{pageText}\" ón leathanach %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "bog an téacs \"%{pageText}\" ón leathanach %{pageNum} suas"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Deimhniú Scriosta",
+                "message": "An bhfuil tú cinnte gur mhaith leat an téacs leathanach seo a scriosadh?"
+            },
+            "ariaLabel": "bain an téacs \"%{pageText}\" den leathanach %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "téacs le cur leis an leathanach %{pageNum}",
+                "title": "Socraigh Téacs Leathanach",
+                "message": "Cad é téacs an leathanaigh?",
+                "inputPlaceholder": "téacs le cur leis"
+            },
+            "ariaLabel": "cuir téacs nua le leathanach %{pageNum}"
+        },
+        "label": "Téacs",
+        "showHideButton": {"ariaLabel": {
+            "visible": "folaigh an téacs \"%{pageText}\" ón leathanach %{pageNum}",
+            "hidden": "taispeáin an téacs \"%{pageText}\" ón leathanach %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "bog an téacs \"%{pageText}\" ón leathanach %{pageNum} síos"}
+    },
+    "moveUpButton": {"ariaLabel": "bog leathanach %{pageNum} suas"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "An fhuaim le seinnt agus "%{readerDisplayName}" ag léamh leathanach %{pageNum}.",
+                "noDisplayName": "An fhuaim le seinnt agus an léitheoir seo ag léamh leathanach %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "leathanach %{pageNum} %{readerDisplayName} léitheoir"
+        },
+        "label": "Léitheoirí"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Bainfidh sé seo gach fuaim leathanach a taifeadadh don leathanach seo.",
+            "additionalMessage2": "NÍ FÉIDIR É SEO A DHÉANAMH!",
+            "title": "Deimhniú Scriosta",
+            "message": "An bhfuil tú cinnte gur mhaith leat leathanach %{pageNum} a scriosadh?"
+        },
+        "ariaLabel": "bain leathanach %{pageNum}"
+    },
+    "description": "An íomhá le taispeáint ar leathanach %{pageNum}.",
+    "label": "Leathanach %{pageNum}",
+    "moveDownButton": {"ariaLabel": "bog leathanach %{pageNum} síos"}
+}

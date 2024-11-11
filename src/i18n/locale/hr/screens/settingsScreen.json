@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "Ovo će izbrisati sve knjige instalirane na ovom uređaju.\n\n",
+        "button": {
+            "label": "Izbrisati",
+            "title": "izbrisati sve knjige",
+            "ariaLabel": "izbrisati sve knjige"
+        },
+        "displayName": "Izbriši sve knjige",
+        "processingMessage": "brisanje...",
+        "shortDescription": {
+            "disabled": "Izbrišite sve svoje knjige, ali trenutno nemate nijednu instaliranu knjigu.",
+            "enabled": "Izbriši sve svoje knjige."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} WeilerHaus",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "Coolors",
+                "someFontsBy": "Autor fontova:"
+            },
+            "label": "Posebna hvala",
+            "icons": {
+                "ionicIcons": "Ionske ikone",
+                "someIconsBy": "Ikone autora:",
+                "icons8": "Ikone8",
+                "iconArchive": "Arhiva ikona"
+            }
+        },
+        "version": "Verzija: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Ovaj uređivač slika će se koristiti kada se snimaju nove slike knjige ili se uređuje postojeća slika knjige.",
+        "displayName": "Uređivač slika",
+        "testLabel": "Testirajte uređivač slika",
+        "testImage": {"accessibleImageDisplayName": "testna slika uređivača slika"},
+        "options": {
+            "advanced": {
+                "label": "Napredno",
+                "ariaLabel": "koristite napredni uređivač slika"
+            },
+            "simple": {
+                "label": "Jednostavan",
+                "ariaLabel": "koristiti jednostavan uređivač slika"
+            }
+        },
+        "shortDescription": "Odaberite koji uređivač slika treba koristiti.",
+        "ariaLabel": "odaberite koji uređivač slika treba koristiti"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Ovaj će se glas koristiti kada čitač \"AI Reader\" čita knjige.",
+        "displayName": "Preferirani glas",
+        "selectorButton": {
+            "defaultLabel": "zadana vrijednost",
+            "ariaLabel": "odaberite glas \"AI Reader\"."
+        },
+        "shortDescription": "Odaberite glas koji će koristiti \"AI Reader\".",
+        "picker": {
+            "default": "zadana vrijednost",
+            "networkActionIcon": {"ariaLabel": "prikaži lokalne i mrežne glasove"},
+            "label": "AI Reader Voices",
+            "ariaLabel": "odaberite glas \"AI Reader\".",
+            "globalActionIcon": {"ariaLabel": "prikaži sve jezike"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Audio i video",
+        "ariaLabel": {
+            "expanded": "sažmi odjeljak odabira audio i video zapisa",
+            "collapsed": "proširite odjeljak odabira zvuka i videa"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Ova će se kvaliteta slike koristiti pri snimanju fotografija kamerom(ama) uređaja.",
+        "slider": {
+            "highLabel": "visoko",
+            "ariaLabel": "kvalitetu slika",
+            "lowLabel": "Niska"
+        },
+        "displayName": "Kvaliteta kamere %{value}%",
+        "testLabel": "Testirajte kameru",
+        "testImage": {"accessibleImageDisplayName": "test kvalitete slike kamere"},
+        "shortDescription": "Odaberite kvalitetu slike slika snimljenih fotoaparatom."
+    },
+    "title": "postavke",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Potvrda brisanja",
+        "message": "Jeste li sigurni da želite izbrisati sve instalirane knjige?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "To može biti korisno prilikom prelaska na novi uređaj ili dodavanja knjiga na više uređaja.",
+        "button": {
+            "label": "Izvoz",
+            "title": "izvezi sve knjige",
+            "ariaLabel": "izvezi sve knjige"
+        },
+        "displayName": "Izvezi sve knjige",
+        "shortDescription": {
+            "disabled": "Izvezite sve svoje knjige u jednu datoteku i spremite/podijelite je, ali trenutno nemate nijednu instaliranu knjigu.",
+            "enabled": "Izvezite sve svoje knjige u jednu datoteku i spremite je/podijelite."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "brisanje nije uspjelo",
+        "success": {
+            "other": "izbrisao %{count} knjiga",
+            "one": "izbrisao 1 knjigu"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "AI čitač",
+        "testLabel": "Testiraj glas",
+        "testAriaLabel": {
+            "stopped": "testirajte glas \"AI Reader\".",
+            "playing": "zaustavite glasovni test \"AI Reader\"."
+        },
+        "testPhrase": "Pozdrav, volio bih s tobom čitati tvoje omiljene priče.",
+        "description": "Kada je omogućeno, \"AI Reader\" će biti dostupan kao čitač prilikom reprodukcije knjiga.",
+        "ariaLabel": {
+            "expanded": "sažmite odjeljak za odabir \"AI Reader\".",
+            "collapsed": "proširite odjeljak za odabir \"AI Reader\".",
+            "disabled": "\"AI Reader\" je onemogućen",
+            "enabled": "Omogućen je \"AI Reader\"."
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "Ovo označava visinu glasa koji se koristi kada čitač \"AI Reader\" čita knjige.",
+        "slider": {
+            "highLabel": "visoko",
+            "ariaLabel": "visina glasa \"AI Reader\"",
+            "lowLabel": "Niska"
+        },
+        "displayName": "Visina glasa %{value}%",
+        "shortDescription": "Odaberite visinu glasa koju će koristiti \"AI Reader\"."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Ova kvaliteta zvuka koristit će se pri snimanju s mikrofonom uređaja.",
+        "displayName": "Kvaliteta mikrofona",
+        "testLabel": "Test mikrofona",
+        "options": {
+            "high": {
+                "label": "visoko",
+                "ariaLabel": "koristite visoku kvalitetu zvuka"
+            },
+            "low": {
+                "label": "Niska",
+                "ariaLabel": "koristite nisku kvalitetu zvuka"
+            }
+        },
+        "shortDescription": "Odaberite kvalitetu zvuka za snimke snimljene mikrofonom.",
+        "ariaLabel": "odaberite kvalitetu zvuka snimaka snimljenih mikrofonom",
+        "testAudioSelector": {"accessibleAudioDisplayName": "ispitati kvalitetu mikrofona"}
+    },
+    "subtitle": "Ažurirajte postavke svoje aplikacije ovdje.",
+    "themeSelection": {
+        "longDescription": "Ako je ovdje odabrana tema, ona će nadjačati sve postavke teme uređaja koje imate.",
+        "displayName": "Odabir teme",
+        "options": {
+            "default": {
+                "label": "sustav",
+                "ariaLabel": "koristite temu definiranu sustavom"
+            },
+            "light": {
+                "label": "Svjetlo",
+                "ariaLabel": "koristite svijetlu temu"
+            },
+            "dark": {
+                "label": "tamno",
+                "ariaLabel": "koristite tamnu temu"
+            }
+        },
+        "shortDescription": "Odaberite temu koju bi aplikacija trebala koristiti.",
+        "ariaLabel": "odaberite temu koju bi aplikacija trebala koristiti"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "Ovo označava brzinu glasa koja se koristi kada čitač \"AI Reader\" čita knjige.",
+        "slider": {
+            "highLabel": "Brzo",
+            "ariaLabel": "brzina govora \"AI Reader\"",
+            "lowLabel": "Usporiti"
+        },
+        "displayName": "Brzina govora %{value}%",
+        "shortDescription": "Odaberite brzinu glasa koju će koristiti \"AI Reader\"."
+    },
+    "parentalLocking": {
+        "longDescription": "Kada je omogućeno, biometrijski podaci vlasnika uređaja potrebni su za otključavanje naprednih značajki u aplikaciji.",
+        "displayName": "Roditeljsko zaključavanje",
+        "shortDescription": "Roditeljsko zaključavanje može biti korisno kada djeca koriste aplikaciju.",
+        "ariaLabel": {
+            "disabled": "roditeljsko zaključavanje je onemogućeno",
+            "enabled": "roditeljsko zaključavanje je omogućeno"
+        }
+    }
+}

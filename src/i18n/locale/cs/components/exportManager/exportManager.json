@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "export již běží, zkuste to znovu později"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "Zrušit",
+            "ariaLabel": "export zrušit"
+        },
+        "export": {
+            "textLabel": "Vývozní",
+            "ariaLabel": "exportovat vybrané knihy"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "Uložte si své knihy %{count}",
+        "one": "Uložit knihu: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "analyzovat...",
+        "packaging": "balení...",
+        "cancelling": "zrušení..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "čtenáři",
+                    "ariaLabel": "pouze exportujte informace o čtení pro knihu %{bookTitle}"
+                },
+                "full": {
+                    "label": "plný",
+                    "ariaLabel": "Exportujte celou knihu %{bookTitle}"
+                }
+            },
+            "ariaLabel": "vyberte způsob exportu knihy %{bookTitle}"
+        },
+        "readers": {"checkbox": {"ariaLabel": "k zahrnutí čtečky %{readerDisplayName} do exportu"}},
+        "checkbox": {"ariaLabel": "k zahrnutí knihy %{bookTitle} do exportu"},
+        "bookReadersTooltip": {"label": "Výběrem možnosti \"čtenáři\" se exportují pouze vybrané čtenáře.\n\n"}
+    },
+    "packagedMultiBookFileName": "knihy",
+    "nothingToExport": "Není co exportovat :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "export nerušit"},
+            "yes": {"ariaLabel": "export zrušit"}
+        },
+        "title": "Potvrďte Zrušit export",
+        "message": "Opravdu chcete export zrušit?"
+    }},
+    "titles": {
+        "booksToExport": "Knihy k exportu",
+        "failedToExport": "Export knih se nezdařil"
+    },
+    "outputFilenameField": {
+        "label": "Název výstupního souboru",
+        "ariaLabel": "očekávaný výstupní název souboru"
+    },
+    "errors": {"invalidOutputFilename": "neplatný název souboru"}
+}

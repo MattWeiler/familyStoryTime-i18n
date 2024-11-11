@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "রপ্তানি ইতিমধ্যেই চলছে, পরে আবার চেষ্টা করুন"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "বাতিল করুন",
+            "ariaLabel": "রপ্তানি বাতিল করুন"
+        },
+        "export": {
+            "textLabel": "রপ্তানি",
+            "ariaLabel": "নির্বাচিত বই রপ্তানি করুন"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "আপনার %{count}টি বই সংরক্ষণ করুন",
+        "one": "বই সংরক্ষণ করুন: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "বিশ্লেষণ...",
+        "packaging": "প্যাকেজিং...",
+        "cancelling": "বাতিল হচ্ছে..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "পাঠক",
+                    "ariaLabel": "শুধুমাত্র বই %{bookTitle} এর জন্য পাঠকের তথ্য রপ্তানি করুন"
+                },
+                "full": {
+                    "label": "পূর্ণ",
+                    "ariaLabel": "পুরো বই রপ্তানি করুন %{bookTitle}"
+                }
+            },
+            "ariaLabel": "কীভাবে বই রপ্তানি করবেন তা নির্বাচন করুন %{bookTitle}"
+        },
+        "readers": {"checkbox": {"ariaLabel": "রপ্তানিতে পাঠক %{readerDisplayName} অন্তর্ভুক্ত করতে"}},
+        "checkbox": {"ariaLabel": "রপ্তানিতে বই %{bookTitle} অন্তর্ভুক্ত করতে"},
+        "bookReadersTooltip": {"label": "\"পাঠক\" বিকল্পটি নির্বাচন করলে শুধুমাত্র নির্বাচিত পাঠক রপ্তানি হবে৷\n\n"}
+    },
+    "packagedMultiBookFileName": "বই",
+    "nothingToExport": "রপ্তানি করার কিছু নেই :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "রপ্তানি বাতিল করবেন না"},
+            "yes": {"ariaLabel": "রপ্তানি বাতিল করুন"}
+        },
+        "title": "রপ্তানি বাতিল নিশ্চিত করুন",
+        "message": "আপনি কি নিশ্চিত আপনি রপ্তানি বাতিল করতে চান?"
+    }},
+    "titles": {
+        "booksToExport": "রপ্তানি করার জন্য বই",
+        "failedToExport": "বই রপ্তানি করতে ব্যর্থ হয়েছে"
+    },
+    "outputFilenameField": {
+        "label": "আউটপুট ফাইলের নাম",
+        "ariaLabel": "প্রত্যাশিত আউটপুট ফাইলের নাম"
+    },
+    "errors": {"invalidOutputFilename": "অবৈধ ফাইলের নাম"}
+}

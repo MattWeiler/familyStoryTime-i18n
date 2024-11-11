@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "Буде видалено всі книги, встановлені на цьому пристрої.\n\n",
+        "button": {
+            "label": "Видалити",
+            "title": "видалити всі книги",
+            "ariaLabel": "видалити всі книги"
+        },
+        "displayName": "Видалити всі книги",
+        "processingMessage": "видалення...",
+        "shortDescription": {
+            "disabled": "Видаліть усі ваші книги, але наразі у вас не встановлено жодної книги.",
+            "enabled": "Видаліть усі свої книги."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} WeilerHaus",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "Coolors",
+                "someFontsBy": "Автор шрифтів:"
+            },
+            "label": "Особлива подяка",
+            "icons": {
+                "ionicIcons": "IonIcons",
+                "someIconsBy": "Автор іконок:",
+                "icons8": "Значки8",
+                "iconArchive": "Архів значків"
+            }
+        },
+        "version": "Версія: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Цей редактор зображень використовуватиметься під час створення нових зображень книги або редагування наявного зображення книги.",
+        "displayName": "Редактор зображень",
+        "testLabel": "Тестовий редактор зображень",
+        "testImage": {"accessibleImageDisplayName": "тестове зображення редактора зображень"},
+        "options": {
+            "advanced": {
+                "label": "Просунутий",
+                "ariaLabel": "використовувати розширений редактор зображень"
+            },
+            "simple": {
+                "label": "просто",
+                "ariaLabel": "використовувати простий редактор зображень"
+            }
+        },
+        "shortDescription": "Виберіть, який редактор зображень потрібно використовувати.",
+        "ariaLabel": "виберіть, який редактор зображень слід використовувати"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Цей голос використовуватиметься, коли рідер «AI Reader» читатиме книги.",
+        "displayName": "Бажаний голос",
+        "selectorButton": {
+            "defaultLabel": "за замовчуванням",
+            "ariaLabel": "виберіть голос «AI Reader»."
+        },
+        "shortDescription": "Виберіть голос, який використовуватиме «AI Reader».",
+        "picker": {
+            "default": "за замовчуванням",
+            "networkActionIcon": {"ariaLabel": "показувати локальні та мережеві голоси"},
+            "label": "AI Reader Voices",
+            "ariaLabel": "виберіть голос «AI Reader».",
+            "globalActionIcon": {"ariaLabel": "показати всі мови"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Аудіо та відео",
+        "ariaLabel": {
+            "expanded": "згорнути розділ вибору аудіо-відео",
+            "collapsed": "розгорніть розділ вибору аудіо відео"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Ця якість зображення використовуватиметься під час зйомки за допомогою камери пристрою.",
+        "slider": {
+            "highLabel": "Високий",
+            "ariaLabel": "якість зображень",
+            "lowLabel": "Низький"
+        },
+        "displayName": "Якість камери %{value}%",
+        "testLabel": "Тестова камера",
+        "testImage": {"accessibleImageDisplayName": "перевірити якість зображення камери"},
+        "shortDescription": "Виберіть якість знімків, зроблених камерою."
+    },
+    "title": "Налаштування",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Підтвердження видалення",
+        "message": "Ви впевнені, що хочете видалити всі встановлені книги?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "Це може бути корисним під час переходу на новий пристрій або додавання ваших книг на кілька пристроїв.",
+        "button": {
+            "label": "Експорт",
+            "title": "експортувати всі книги",
+            "ariaLabel": "експортувати всі книги"
+        },
+        "displayName": "Експортувати всі книги",
+        "shortDescription": {
+            "disabled": "Експортуйте всі свої книги в один файл і збережіть/поділіться ним, але наразі у вас не встановлено жодної книги.",
+            "enabled": "Експортуйте всі ваші книги в один файл і збережіть/поділіться ним."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "не вдалося видалити",
+        "success": {
+            "other": "видалено %{count} книг",
+            "one": "видалила 1 книгу"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "AI Reader",
+        "testLabel": "Тестовий голос",
+        "testAriaLabel": {
+            "stopped": "тест голосу «AI Reader».",
+            "playing": "зупинити голосовий тест \"AI Reader\"."
+        },
+        "testPhrase": "Привіт, я хотів би почитати з вами ваші улюблені історії.",
+        "description": "Якщо ввімкнено, «AI Reader» буде доступним як зчитувач під час відтворення книг.",
+        "ariaLabel": {
+            "expanded": "згорнути розділ вибору «AI Reader».",
+            "collapsed": "розгорніть розділ вибору «AI Reader».",
+            "disabled": "«AI Reader» вимкнено",
+            "enabled": "«AI Reader» увімкнено"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "Це вказує на висоту голосу, яка використовується під час читання рідером \"AI Reader\" книг.",
+        "slider": {
+            "highLabel": "Високий",
+            "ariaLabel": "висота голосу «AI Reader»",
+            "lowLabel": "Низький"
+        },
+        "displayName": "Висота голосу %{value}%",
+        "shortDescription": "Виберіть висоту голосу, який використовуватиме «AI Reader»."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Ця якість звуку використовуватиметься під час запису за допомогою мікрофона пристрою.",
+        "displayName": "Якість мікрофона",
+        "testLabel": "Тестовий мікрофон",
+        "options": {
+            "high": {
+                "label": "Високий",
+                "ariaLabel": "використовувати високу якість звуку"
+            },
+            "low": {
+                "label": "Низький",
+                "ariaLabel": "використовувати низьку якість звуку"
+            }
+        },
+        "shortDescription": "Виберіть якість звуку для записів, зроблених за допомогою мікрофона.",
+        "ariaLabel": "вибрати якість звуку для записів, зроблених за допомогою мікрофона",
+        "testAudioSelector": {"accessibleAudioDisplayName": "перевірити якість мікрофона"}
+    },
+    "subtitle": "Оновіть налаштування програми тут.",
+    "themeSelection": {
+        "longDescription": "Якщо тут вибрано тему, вона замінить будь-які налаштування теми пристрою, які ви можете встановити.",
+        "displayName": "Вибір теми",
+        "options": {
+            "default": {
+                "label": "система",
+                "ariaLabel": "використовувати визначену системою тему"
+            },
+            "light": {
+                "label": "світло",
+                "ariaLabel": "використовувати світлу тему"
+            },
+            "dark": {
+                "label": "Темний",
+                "ariaLabel": "використовувати темну тему"
+            }
+        },
+        "shortDescription": "Виберіть тему, яку має використовувати програма.",
+        "ariaLabel": "виберіть тему, яку має використовувати програма"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "Це позначає швидкість голосу, яка використовується, коли пристрій для читання \"AI Reader\" читає книги.",
+        "slider": {
+            "highLabel": "швидко",
+            "ariaLabel": "швидкість мовлення «AI Reader»",
+            "lowLabel": "Повільно"
+        },
+        "displayName": "Швидкість мовлення %{value}%",
+        "shortDescription": "Виберіть швидкість голосу, яку використовуватиме «AI Reader»."
+    },
+    "parentalLocking": {
+        "longDescription": "Якщо ввімкнено, біометричні дані власника пристрою потрібні для розблокування розширених функцій програми.",
+        "displayName": "Батьківський контроль",
+        "shortDescription": "Батьківський контроль може бути корисним, коли програмою користуються діти.",
+        "ariaLabel": {
+            "disabled": "батьківський контроль вимкнено",
+            "enabled": "увімкнено батьківський контроль"
+        }
+    }
+}

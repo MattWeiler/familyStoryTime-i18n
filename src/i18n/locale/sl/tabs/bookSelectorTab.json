@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "nalaganje knjig ni uspelo"},
+        "import": {"failure": "uvoz ni uspel"},
+        "delete": {
+            "failure": "brisanje ni uspelo",
+            "success": "izbrisana knjiga \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "%{count} knjig ni uspelo izbrisati",
+                "one": "ni uspelo izbrisati 1 knjige"
+            },
+            "success": {
+                "other": "izbrisal %{count} knjig",
+                "one": "izbrisal 1 knjigo"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "razvrsti po številu strani v padajočem vrstnem redu",
+                "descending": "razvrsti po številu strani v naraščajočem vrstnem redu"
+            }},
+            "searchField": {
+                "placeholder": "poiščite svoje knjige",
+                "ariaLabel": "poiščite svoje knjige"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Izvozi",
+                        "ariaLabel": "izvozite izbrane knjige"
+                    },
+                    "delete": {
+                        "label": "Izbriši",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "ne, ne izbriši izbranih knjig"},
+                                "yes": {"ariaLabel": "da, izbriši izbrane knjige"}
+                            },
+                            "title": "Potrdite izbris",
+                            "message": {
+                                "other": "Ali ste prepričani, da želite izbrisati %{count} izbranih knjig?",
+                                "one": "Ali ste prepričani, da želite izbrisati izbrano knjigo?"
+                            }
+                        },
+                        "ariaLabel": "izbrišite izbrane knjige"
+                    }
+                },
+                "ariaLabel": "odpre kontekstni meni za izbrane knjige"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "razvrsti po naslovu knjige v padajočem vrstnem redu",
+                "descending": "razvrsti po naslovu knjige v naraščajočem vrstnem redu"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "razvrsti po številu bralcev v padajočem vrstnem redu",
+                "descending": "razvrsti po številu bralcev v naraščajočem vrstnem redu"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "pomanjšajte, da si ogledate več elementov hkrati",
+                "zoomedOut": "povečajte za ogled večjih slik"
+            }}
+        },
+        "loadError": {
+            "text": "Nalaganje knjig ni uspelo.",
+            "ariaLabel": "ni uspelo naložiti knjig"
+        },
+        "noBooksFound": {
+            "message": "Ni najdenih knjig :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Preizkusite naše",
+                    "linkName": "graditelj knjig"
+                },
+                "availableBooks": {
+                    "message": "Preverite naše",
+                    "linkName": "knjigarna"
+                }
+            }
+        }
+    },
+    "subtitle": "Uživajmo v branju nekaj zgodb.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "ustvarite knjigo",
+                "ariaLabel": "ustvarite novo knjigo"
+            },
+            "importBooks": {
+                "label": "uvoz knjig",
+                "ariaLabel": "uvozite eno ali več knjig"
+            },
+            "bookStore": {
+                "label": "obisk knjigarne",
+                "ariaLabel": "obiščite našo knjigarno"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "zaprite meni za dodajanje knjige",
+            "collapsed": "odprite meni za dodajanje knjige"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "brisanje ...\n",
+            "one": "brisanje ...\n",
+            "none": "brisanje ..."
+        }},
+        "export": {"label": {
+            "other": "izvoz ...\n",
+            "one": "izvoz ...\n",
+            "none": "izvoz ..."
+        }}
+    }},
+    "title": "Bralni kotiček",
+    "confirmations": {"deleteBook": {
+        "title": "Potrditev izbrisa",
+        "message": "Ali ste prepričani, da želite izbrisati knjigo \"%{bookTitle}?\""
+    }}
+}

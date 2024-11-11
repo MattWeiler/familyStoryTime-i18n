@@ -1,0 +1,8 @@
+{
+    "applicationSecurityButton": {"ariaLabel": {
+        "unlockParentMode": "membuka kunci aplikasi untuk penggunaan orang tua",
+        "initParentMode": "aktifkan penguncian orang tua",
+        "lockParentMode": "aktifkan kunci orang tua"
+    }},
+    "hamburgerButton": {"ariaLabel": "tampilkan menu hamburger"}
+}

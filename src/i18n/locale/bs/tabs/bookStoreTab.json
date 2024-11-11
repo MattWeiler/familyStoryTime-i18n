@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "ne, nemojte deinstalirati Dostupnu knjigu",
+            "yesButtonAriaLabel": "da, deinstalirajte dostupnu knjigu",
+            "title": "Potvrda deinstaliranja",
+            "message": "Jeste li sigurni da želite deinstalirati ovu dostupnu knjigu?\n"
+        },
+        "ariaLabel": "deinstalirajte dostupnu knjigu %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "besplatno"},
+        "newerVersionAvailableMessage": "Dostupno ažuriranje"
+    },
+    "subtitle": "Hajde da nađemo neke dobre priče za čitanje.",
+    "loadingFailedMessage": "Učitavanje dostupnih knjiga nije uspjelo.\n",
+    "title": "Knjižara",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "ne, nemojte instalirati dostupnu knjigu",
+            "yesButtonAriaLabel": "da, instalirajte dostupnu knjigu",
+            "title": "Potvrda instalacije",
+            "message": "Jeste li sigurni da želite instalirati ovu dostupnu knjigu?\nTo će učiniti %{fileSize} podataka."
+        },
+        "ariaLabel": "instalirajte dostupnu knjigu %{bookName}"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "לנגן אודיו",
+            "ariaLabel": "לנגן אודיו"
+        },
+        "playing": {
+            "title": "להשהות אודיו",
+            "ariaLabel": "להשהות אודיו"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "התרחק כדי להציג את התמונה כולה, ייתכן שיש פסים שחורים בצדדים",
+        "zoomedOut": "התקרב כדי להבטיח שכל המסך מלא בתמונה, ייתכן שחלק מהתמונה לא תהיה גלויה"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "עבור לדף הקודם",
+            "ariaLabel": "עבור לדף הקודם"
+        },
+        "noPreviousPage": {
+            "title": "לחזור לבחירת הספרים",
+            "ariaLabel": "לחזור לבחירת הספרים"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "עבור לעמוד הבא",
+            "ariaLabel": "עבור לעמוד הבא"
+        },
+        "noNextPage": {
+            "title": "לחזור לבחירת הספרים",
+            "ariaLabel": "לחזור לבחירת הספרים"
+        }
+    }
+}

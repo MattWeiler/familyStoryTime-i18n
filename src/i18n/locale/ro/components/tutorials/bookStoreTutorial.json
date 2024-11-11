@@ -1,0 +1,17 @@
+{
+    "summary": "Puteți găsi cărți din domeniul public în librăria noastră.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Puteți alege care dintre cărțile disponibile doriți să descărcați.",
+            "2": "Dacă procedați astfel, veți instala cărțile pe dispozitivul dvs., permițându-vă să le redați și chiar să adăugați propriile cititoare."
+        },
+        "title": "Instalarea cărților"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "De asemenea, puteți vizualiza cărțile pe care le-ați instalat deja din magazinul nostru de cărți.",
+            "2": "De aici, puteți șterge cărțile instalate anterior sau puteți verifica actualizările disponibile."
+        },
+        "title": "Gestionarea cărților"
+    }
+}

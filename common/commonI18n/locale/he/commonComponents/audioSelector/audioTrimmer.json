@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "הפעל את האודיו החתוך כדי לשמוע דוגמה"},
+    "playbackPositionLabel": "מיקום השמעה",
+    "discardButton": {
+        "label": "לְהַשְׁלִיך",
+        "title": "להשליך את האודיו החתוך",
+        "ariaLabel": "להשליך את האודיו החתוך"
+    },
+    "saveButton": {
+        "label": "לְהַצִיל",
+        "title": "השתמש באודיו החתוך",
+        "ariaLabel": "השתמש באודיו החתוך"
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "البريد الإلكتروني غير معتمد",
+        "submissionFailed": "فشل إرسال التعليقات",
+        "submissionSuccess": "تم إرسال التعليقات"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "الرجاء تحديد مستوى الرضا.",
+        "description": "ما مدى احتمالية مشاركة تطبيقنا؟",
+        "label": "المشاركة مع الآخرين",
+        "levels": {
+            "1": {
+                "displayName": "مستحيل",
+                "ariaLabel": "مستحيل"
+            },
+            "2": {
+                "displayName": "ليس من المحتمل",
+                "ariaLabel": "ليس من المحتمل"
+            },
+            "3": {
+                "displayName": "ربما",
+                "ariaLabel": "ربما"
+            },
+            "4": {
+                "displayName": "نعم",
+                "ariaLabel": "نعم"
+            },
+            "5": {
+                "displayName": "بالفعل",
+                "ariaLabel": "لديك بالفعل"
+            }
+        },
+        "ariaLabel": "حدد مدى احتمال مشاركة تطبيق الهاتف المحمول هذا مع الآخرين"
+    },
+    "submitButton": {
+        "text": "إرسال الملاحظات",
+        "ariaLabel": "إرسال ملاحظاتك"
+    },
+    "satisfactionInput": {
+        "errorMessage": "الرجاء تحديد مستوى الرضا.",
+        "description": "إلى أي مدى أعجبك/لم يعجبك تطبيقنا؟",
+        "label": "رضا التطبيق",
+        "levels": {
+            "1": {
+                "displayName": "اكرهه",
+                "ariaLabel": "أكرهه"
+            },
+            "2": {
+                "displayName": "بخيبة أمل",
+                "ariaLabel": "بخيبة أمل"
+            },
+            "3": {
+                "displayName": "حيادي",
+                "ariaLabel": "حيادي"
+            },
+            "4": {
+                "displayName": "عظيم",
+                "ariaLabel": "عظيم"
+            },
+            "5": {
+                "displayName": "أحبها",
+                "ariaLabel": "أحبها"
+            }
+        },
+        "ariaLabel": "حدد مستوى رضاك \u200b\u200bعن تطبيق الهاتف المحمول هذا"
+    },
+    "commentInput": {
+        "description": "اختياريًا، قم بتقديم أي تعليقات إضافية لديك.",
+        "label": "تعليق",
+        "ariaLabel": "اختياريا، تعليقات إضافية"
+    },
+    "playingBooksInput": {
+        "errorMessage": "الرجاء تحديد مستوى الرضا.",
+        "description": "كيف وجدت كتب اللعب؟",
+        "label": "لعب الكتب",
+        "levels": {
+            "1": {
+                "displayName": "لم تنجح",
+                "ariaLabel": "لم ينجح"
+            },
+            "2": {
+                "displayName": "ليس عظيما",
+                "ariaLabel": "ليست رائعة"
+            },
+            "3": {
+                "displayName": "لا بأس",
+                "ariaLabel": "لا بأس"
+            },
+            "4": {
+                "displayName": "إنه سهل",
+                "ariaLabel": "إنه سهل"
+            },
+            "5": {
+                "displayName": "أحبها",
+                "ariaLabel": "أحبها"
+            }
+        },
+        "ariaLabel": "حدد مدى رضاك \u200b\u200bعن تشغيل الكتاب"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "الرجاء تحديد مستوى الرضا.",
+        "description": "كيف أحببت وجود قراء متعددين؟",
+        "label": "قراء متعددون",
+        "levels": {
+            "1": {
+                "displayName": "لم تنجح",
+                "ariaLabel": "لم ينجح"
+            },
+            "2": {
+                "displayName": "ليس عظيما",
+                "ariaLabel": "ليست رائعة"
+            },
+            "3": {
+                "displayName": "لا بأس",
+                "ariaLabel": "لا بأس"
+            },
+            "4": {
+                "displayName": "إنه سهل",
+                "ariaLabel": "إنه سهل"
+            },
+            "5": {
+                "displayName": "أحبها",
+                "ariaLabel": "أحبها"
+            }
+        },
+        "ariaLabel": "حدد مدى رضاك \u200b\u200bعن وجود عدة قراء لكل كتاب"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "الرجاء تحديد مستوى الرضا.",
+        "description": "كيف وجدت إنشاء الكتب؟",
+        "label": "إنشاء الكتب",
+        "levels": {
+            "1": {
+                "displayName": "لم تنجح",
+                "ariaLabel": "لم ينجح"
+            },
+            "2": {
+                "displayName": "ليس عظيما",
+                "ariaLabel": "ليست رائعة"
+            },
+            "3": {
+                "displayName": "لا بأس",
+                "ariaLabel": "لا بأس"
+            },
+            "4": {
+                "displayName": "إنه سهل",
+                "ariaLabel": "إنه سهل"
+            },
+            "5": {
+                "displayName": "أحبها",
+                "ariaLabel": "أحبها"
+            }
+        },
+        "ariaLabel": "حدد مدى رضاك \u200b\u200bعن عملية إنشاء الكتاب"
+    }
+}

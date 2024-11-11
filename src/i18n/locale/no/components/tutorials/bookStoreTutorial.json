@@ -1,0 +1,17 @@
+{
+    "summary": "Du kan finne offentlige bøker i bokhandelen vår.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Du kan velge hvilken av de tilgjengelige bøkene du vil laste ned.",
+            "2": "Dette vil installere boken(e) på enheten din, slik at du kan spille dem og til og med legge til dine egne lesere."
+        },
+        "title": "Installere bøker"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Du kan også se hvilke bøker du allerede har installert fra vår bokhandel.",
+            "2": "Herfra kan du slette tidligere installerte bøker eller se etter tilgjengelige oppdateringer."
+        },
+        "title": "Håndtere bøker"
+    }
+}

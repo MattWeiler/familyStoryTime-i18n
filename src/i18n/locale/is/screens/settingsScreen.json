@@ -32,7 +32,7 @@
     },
     "imageEditor": {
         "longDescription": "Þessi myndaritill verður notaður þegar verið er að taka nýjar bókamyndir eða þegar verið er að breyta núverandi bókamynd.",
-        "displayName": "Image Editor",
+        "displayName": "Myndaritill",
         "testLabel": "Próf mynd ritstjóri",
         "testImage": {"accessibleImageDisplayName": "próf mynd ritstjóra mynd"},
         "options": {

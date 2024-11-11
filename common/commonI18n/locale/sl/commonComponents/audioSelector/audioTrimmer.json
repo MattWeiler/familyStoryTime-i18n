@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "predvajajte obrezan zvok, da slišite vzorec"},
+    "playbackPositionLabel": "Položaj predvajanja",
+    "discardButton": {
+        "label": "Zavrzi",
+        "title": "zavrzite obrezan zvok",
+        "ariaLabel": "zavrzite obrezan zvok"
+    },
+    "saveButton": {
+        "label": "Shrani",
+        "title": "uporabite obrezan zvok",
+        "ariaLabel": "uporabite obrezan zvok"
+    }
+}

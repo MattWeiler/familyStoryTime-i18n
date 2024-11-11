@@ -1,0 +1,34 @@
+{
+    "summary": "Înainte de a înmâna dispozitivul copilului dvs., puteți bloca aplicația pentru a împiedica copiii să ștergă orice cărți sau să facă alte modificări.",
+    "enabling": {
+        "messages": {
+            "1": "Pentru a activa funcția de blocare parentală, deschideți meniul hamburger și apăsați pictograma de blocare deschisă din dreapta sus.",
+            "2": "Acest lucru vă va solicita să furnizați confirmarea biometrică, care va inițializa funcția de blocare parentală.",
+            "3": "Acum că funcția de blocare parentală a fost activată, apăsarea pictogramei de blocare deschisă va bloca aplicația.",
+            "4": "Când funcția de blocare parentală este activată, de fiecare dată când aplicația este lansată, aceasta va fi în modul blocat."
+        },
+        "title": "Activați Blocarea parentală"
+    },
+    "disabling": {
+        "messages": {
+            "1": "Pentru a dezactiva funcția de blocare parentală, deschideți meniul hamburger și apăsați elementul de setări din partea de jos.",
+            "2": "Pe pagina de setări, deselectați funcția \u201eBlocare parentală\u201d."
+        },
+        "title": "Dezactivați Blocarea parentală"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Când aplicația este blocată, mai multe caracteristici ale aplicației nu vor fi afișate, cum ar fi meniurile contextuale sau butoanele care vă permit să adăugați/eliminați cărți.",
+            "2": "Acest lucru pune aplicația într-un mod de numai citire, care este sigur de utilizat pentru copii.",
+            "3": "Pentru a accesa acele funcții ascunse, va trebui să deblocați aplicația."
+        },
+        "title": "Caracteristici blocate"
+    },
+    "locked": {
+        "messages": {
+            "1": "Pentru a debloca aplicația, deschideți meniul hamburger și apăsați pictograma de blocare închisă din dreapta sus.",
+            "2": "Acest lucru vă va solicita să furnizați confirmarea biometrică, care va debloca aplicația."
+        },
+        "title": "Deblocați aplicația"
+    }
+}

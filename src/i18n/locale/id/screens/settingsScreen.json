@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "Ini akan menghapus semua buku yang terpasang di perangkat ini.\n\n",
+        "button": {
+            "label": "Menghapus",
+            "title": "hapus semua buku",
+            "ariaLabel": "hapus semua buku"
+        },
+        "displayName": "Hapus Semua Buku",
+        "processingMessage": "menghapus ...",
+        "shortDescription": {
+            "disabled": "Hapus semua buku Anda, namun saat ini Anda belum memasang buku apa pun.",
+            "enabled": "Hapus semua buku Anda."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} WeilerHaus",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "pendingin",
+                "someFontsBy": "Font oleh:"
+            },
+            "label": "Terima kasih khusus",
+            "icons": {
+                "ionicIcons": "Ikon Ion",
+                "someIconsBy": "Ikon oleh:",
+                "icons8": "Ikon8",
+                "iconArchive": "Arsip Ikon"
+            }
+        },
+        "version": "Versi: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Editor gambar ini akan digunakan ketika gambar buku baru diambil atau gambar buku yang sudah ada sedang diedit.",
+        "displayName": "Penyunting Gambar",
+        "testLabel": "Uji Editor Gambar",
+        "testImage": {"accessibleImageDisplayName": "uji gambar editor gambar"},
+        "options": {
+            "advanced": {
+                "label": "Canggih",
+                "ariaLabel": "gunakan editor gambar tingkat lanjut"
+            },
+            "simple": {
+                "label": "Sederhana",
+                "ariaLabel": "gunakan editor gambar sederhana"
+            }
+        },
+        "shortDescription": "Pilih editor gambar mana yang akan digunakan.",
+        "ariaLabel": "pilih editor gambar mana yang harus digunakan"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Suara ini akan digunakan saat pembaca \"AI Reader\" membaca buku.",
+        "displayName": "Suara Pilihan",
+        "selectorButton": {
+            "defaultLabel": "bawaan",
+            "ariaLabel": "pilih suara \"AI Reader\"."
+        },
+        "shortDescription": "Pilih suara yang akan digunakan oleh \"AI Reader\".",
+        "picker": {
+            "default": "bawaan",
+            "networkActionIcon": {"ariaLabel": "menampilkan suara berbasis lokal dan jaringan"},
+            "label": "Suara Pembaca AI",
+            "ariaLabel": "pilih suara \"AI Reader\".",
+            "globalActionIcon": {"ariaLabel": "tampilkan semua bahasa"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Audio & Video",
+        "ariaLabel": {
+            "expanded": "ciutkan bagian pemilihan audio video",
+            "collapsed": "perluas bagian pilihan audio video"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Kualitas gambar ini akan digunakan saat mengambil gambar dengan kamera perangkat.",
+        "slider": {
+            "highLabel": "Tinggi",
+            "ariaLabel": "kualitas gambar gambar",
+            "lowLabel": "Rendah"
+        },
+        "displayName": "Kualitas Kamera %{value}%",
+        "testLabel": "Uji Kamera",
+        "testImage": {"accessibleImageDisplayName": "uji kualitas gambar kamera"},
+        "shortDescription": "Pilih kualitas gambar yang diambil dengan kamera."
+    },
+    "title": "Pengaturan",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Konfirmasi Penghapusan",
+        "message": "Apakah Anda yakin ingin menghapus semua buku yang terpasang?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "Ini berguna saat bermigrasi ke perangkat baru atau menambahkan buku Anda ke beberapa perangkat.",
+        "button": {
+            "label": "Ekspor",
+            "title": "ekspor semua buku",
+            "ariaLabel": "ekspor semua buku"
+        },
+        "displayName": "Ekspor Semua Buku",
+        "shortDescription": {
+            "disabled": "Ekspor semua buku Anda ke satu file dan simpan/bagikan, namun saat ini Anda belum memasang buku apa pun.",
+            "enabled": "Ekspor semua buku Anda ke satu file dan simpan/bagikan."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "penghapusan gagal",
+        "success": {
+            "other": "menghapus %{count} buku",
+            "one": "menghapus 1 buku"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "Pembaca AI",
+        "testLabel": "Tes Suara",
+        "testAriaLabel": {
+            "stopped": "uji suara \"Pembaca AI\".",
+            "playing": "hentikan tes suara \"AI Reader\"."
+        },
+        "testPhrase": "Halo, saya ingin membaca cerita favorit Anda bersama Anda.",
+        "description": "Jika diaktifkan, \"AI Reader\" akan tersedia sebagai pembaca saat memutar ulang buku.",
+        "ariaLabel": {
+            "expanded": "tutup bagian pilihan \"AI Reader\".",
+            "collapsed": "perluas bagian pilihan \"Pembaca AI\".",
+            "disabled": "\"Pembaca AI\" dinonaktifkan",
+            "enabled": "\"Pembaca AI\" diaktifkan"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "Ini menunjukkan nada suara yang digunakan saat pembaca \"AI Reader\" membaca buku.",
+        "slider": {
+            "highLabel": "Tinggi",
+            "ariaLabel": "nada suara \"AI Reader\"",
+            "lowLabel": "Rendah"
+        },
+        "displayName": "Nada Suara %{value}%",
+        "shortDescription": "Pilih nada suara yang akan digunakan oleh \"AI Reader\"."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Kualitas audio ini akan digunakan saat merekam dengan mikrofon perangkat.",
+        "displayName": "Kualitas Mikrofon",
+        "testLabel": "Uji Mikrofon",
+        "options": {
+            "high": {
+                "label": "Tinggi",
+                "ariaLabel": "menggunakan kualitas audio yang tinggi"
+            },
+            "low": {
+                "label": "Rendah",
+                "ariaLabel": "menggunakan kualitas audio rendah"
+            }
+        },
+        "shortDescription": "Pilih kualitas audio rekaman yang diambil dengan mikrofon.",
+        "ariaLabel": "pilih kualitas audio rekaman yang diambil dengan mikrofon",
+        "testAudioSelector": {"accessibleAudioDisplayName": "uji kualitas mikrofon"}
+    },
+    "subtitle": "Perbarui pengaturan aplikasi Anda di sini.",
+    "themeSelection": {
+        "longDescription": "Jika sebuah tema dipilih di sini, tema tersebut akan mengesampingkan pengaturan tema perangkat apa pun yang Anda miliki.",
+        "displayName": "Pemilihan Tema",
+        "options": {
+            "default": {
+                "label": "Sistem",
+                "ariaLabel": "gunakan tema yang ditentukan sistem"
+            },
+            "light": {
+                "label": "Lampu",
+                "ariaLabel": "gunakan tema terang"
+            },
+            "dark": {
+                "label": "Gelap",
+                "ariaLabel": "gunakan tema gelap"
+            }
+        },
+        "shortDescription": "Pilih tema yang hendak digunakan oleh aplikasi.",
+        "ariaLabel": "pilih tema yang hendak digunakan oleh aplikasi"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "Ini menunjukkan kecepatan suara yang digunakan saat pembaca \"AI Reader\" membaca buku.",
+        "slider": {
+            "highLabel": "Cepat",
+            "ariaLabel": "kecepatan bicara \"AI Reader\"",
+            "lowLabel": "Lambat"
+        },
+        "displayName": "Kecepatan Bicara %{value}%",
+        "shortDescription": "Pilih kecepatan suara yang akan digunakan oleh \"AI Reader\"."
+    },
+    "parentalLocking": {
+        "longDescription": "Jika diaktifkan, data biometrik pemilik perangkat diperlukan untuk membuka fitur lanjutan dalam aplikasi.",
+        "displayName": "Penguncian Orang Tua",
+        "shortDescription": "Penguncian orang tua dapat berguna saat anak-anak menggunakan aplikasi tersebut.",
+        "ariaLabel": {
+            "disabled": "penguncian orang tua dinonaktifkan",
+            "enabled": "penguncian orang tua diaktifkan"
+        }
+    }
+}

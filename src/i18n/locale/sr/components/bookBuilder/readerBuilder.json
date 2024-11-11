@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Опциони аудио за репродукцију пре читања 1. странице.",
+        "label": {
+            "withDisplayName": "Уводни звук корисника %{readerDisplayName}",
+            "noDisplayName": "Интро Аудио"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} увод за читање",
+            "noDisplayName": "читач са ИД-ом %{readerId} увод"
+        }
+    },
+    "readerImage": {
+        "description": "Слика за приказ за овај читач.",
+        "accessibleImageDisplayName": "слика читаоца %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Ово ће уклонити све аудио странице снимљене за овај читач.",
+            "additionalMessage2": "ОВО СЕ НЕ МОЖЕ ПОНИШТИТИ!",
+            "title": "Потврда брисања",
+            "message": {
+                "withDisplayName": "Да ли сте сигурни да желите да избришете читач \u201e%{readerDisplayName}\u201c?",
+                "noDisplayName": "Да ли сте сигурни да желите да избришете овај читач?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "уклоните читач %{readerDisplayName}",
+            "noDisplayName": "уклоните читач са ИД-ом %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "име за приказ за читач",
+                "noDisplayName": "име за приказ за читач"
+            },
+            "title": {
+                "withDisplayName": "Ажурирајте име за приказ",
+                "noDisplayName": "Подесите име за приказ"
+            },
+            "message": {
+                "withDisplayName": "У шта бисте желели да промените име за приказ овог читача?",
+                "noDisplayName": "Које је име за приказ за овај читач?"
+            },
+            "inputPlaceholder": "име читаоца"
+        },
+        "ariaLabel": {
+            "withDisplayName": "промените име за приказ за читач %{readerDisplayName}",
+            "noDisplayName": "промените име за приказ за читач са ИД-ом %{readerId}"
+        }
+    }
+}

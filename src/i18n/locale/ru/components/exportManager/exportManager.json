@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "экспорт уже запущен, повторите попытку позже"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "Отмена",
+            "ariaLabel": "отменить экспорт"
+        },
+        "export": {
+            "textLabel": "Экспорт",
+            "ariaLabel": "экспортировать выбранные книги"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "Сохраните свои %{count} книги.",
+        "one": "Сохранить книгу: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "анализируем...",
+        "packaging": "упаковка...",
+        "cancelling": "отмена..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "читатели",
+                    "ariaLabel": "экспортируйте только информацию о читателях книги %{bookTitle}"
+                },
+                "full": {
+                    "label": "полный",
+                    "ariaLabel": "экспортировать всю книгу %{bookTitle}"
+                }
+            },
+            "ariaLabel": "выберите способ экспорта книги %{bookTitle}"
+        },
+        "readers": {"checkbox": {"ariaLabel": "чтобы включить считыватель %{readerDisplayName} в экспорт"}},
+        "checkbox": {"ariaLabel": "чтобы включить книгу %{bookTitle} в экспорт"},
+        "bookReadersTooltip": {"label": "Если выбрать опцию «Читатели», будут экспортированы только выбранные читатели.\n\n"}
+    },
+    "packagedMultiBookFileName": "Книги",
+    "nothingToExport": "Экспортировать нечего :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "не отменяйте экспорт"},
+            "yes": {"ariaLabel": "отменить экспорт"}
+        },
+        "title": "Подтвердить Отменить экспорт",
+        "message": "Вы уверены, что хотите отменить экспорт?"
+    }},
+    "titles": {
+        "booksToExport": "Книги на экспорт",
+        "failedToExport": "Не удалось экспортировать книги"
+    },
+    "outputFilenameField": {
+        "label": "Имя выходного файла",
+        "ariaLabel": "ожидаемое имя выходного файла"
+    },
+    "errors": {"invalidOutputFilename": "неверное имя файла"}
+}

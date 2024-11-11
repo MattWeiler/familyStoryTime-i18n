@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "e-posta gönderme desteklenmiyor",
+        "submissionFailed": "hata gönderimi başarısız oldu",
+        "submissionSuccess": "hata gönderildi"
+    },
+    "submitButton": {
+        "text": "Hata Gönder",
+        "ariaLabel": "hatayı gönder"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Soruna neden olabilecek kitapları ekleyin.",
+            "label": "Eklenecek Kitaplar"
+        },
+        "loadFailed": "Kitaplar yüklenemedi",
+        "noBooksInstalled": "kitap yüklü değil",
+        "picker": {
+            "header": "Kitap(lar)ı seçin",
+            "ariaLabel": "hata geri bildirimine hangi kitapların eklenmesi gerektiğini seçin"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "hata geri bildiriminize eklenen kitaplarda değişiklik yapın"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Lütfen hatayla ilgili biraz ayrıntı verin.",
+        "description": "Hatayla ilgili ayrıntıları sağlayın.",
+        "label": "Hata Ayrıntıları",
+        "ariaLabel": "hatanın açıklaması"
+    }
+}

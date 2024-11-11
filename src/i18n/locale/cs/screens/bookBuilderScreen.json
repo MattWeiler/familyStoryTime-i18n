@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "uložená kniha \u201e%{bookTitle}\u201c",
+        "validationFailed": "ověření se nezdařilo",
+        "bookSaveFailed": "nepodařilo uložit knihu"
+    },
+    "bookTitleInput": {
+        "description": "Název knihy.",
+        "label": "Název knihy",
+        "placeholder": "název knihy",
+        "ariaLabel": "název knihy"
+    },
+    "readers": {
+        "label": "Čtenáři",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "zobrazovaný název pro tuto novou čtečku",
+                "buttons": {
+                    "cancel": {"ariaLabel": "zrušit přidávání nové čtečky"},
+                    "add": {"ariaLabel": "přidat novou čtečku"}
+                },
+                "description": "Uveďte prosím zobrazovaný název této nové čtečky.",
+                "title": "Přidat novou čtečku",
+                "inputPlaceholder": "jméno čtenáře"
+            },
+            "ariaLabel": "přidat novou čtečku"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Počet milisekund čekání před přehráním zvuku změny stránky.",
+            "label": "Zvuk před změnou stránky",
+            "placeholder": "milisekundy před přehráním zvuku změny stránky",
+            "ariaLabel": "milisekundy počkat před přehráním zvuku změny stránky"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Počet milisekund, které se mají čekat po přehrání zvuku změny stránky.",
+            "label": "Zvuk po změně stránky",
+            "placeholder": "milisekundy po přehrání zvuku změny stránky",
+            "ariaLabel": "milisekundy po přehrání zvuku změny stránky"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Počet milisekund před přehráním zvuku stránky.",
+            "label": "Před zvukem stránky",
+            "placeholder": "milisekundy před přehráním zvuku stránky",
+            "ariaLabel": "milisekundy před přehráním zvuku stránky"
+        },
+        "label": "Zpoždění"
+    },
+    "bookIconImageSelector": {
+        "description": "Obrázek, který bude použit jako ikona knihy.",
+        "label": "Ikona knihy",
+        "accessibleImageDisplayName": "ikona knihy"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "Obrázek, který se zobrazí při prvním spuštění knihy.",
+        "label": "Úvodní obrázek knihy",
+        "accessibleImageDisplayName": "knižní splash"
+    },
+    "confirmations": {"goBack": {
+        "title": "Nechte změny",
+        "message": "Opravdu chcete před uložením odejít?"
+    }},
+    "pageChangeAudio": {
+        "description": "Zvuk, který se přehraje, když je čas změnit stránku.",
+        "label": "Zvuk změny stránky",
+        "presetAudioModalPicker": {
+            "headerLabel": "Vyberte Zvuk změny stránky",
+            "ariaLabel": "vyberte ze seznamu přednastavených možností zvuku pro změnu stránky",
+            "accessibleAudioDisplayName": "změna stránky"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Knihu se nepodařilo načíst.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "zpoždění nemůže být záporné",
+            "bookTitleMissing": "název knihy je povinný",
+            "readerDisplayNameMissing": "je vyžadován zobrazovaný název čtečky",
+            "bookIconNotValid": "je vyžadována ikona knihy",
+            "pageTextMissing": "je vyžadován text stránky",
+            "delayBeforePlayingPageAudioNegative": "zpoždění nemůže být záporné",
+            "pagesMissing": "je vyžadována alespoň 1 stránka",
+            "pageImageNotValid": "je vyžadován obrázek stránky",
+            "delayBeforePlayingPageChangeAudioNegative": "zpoždění nemůže být záporné",
+            "bookSplashImageNotValid": "je vyžadován úvodní obrázek knihy",
+            "readerIntroAudioNotValid": "Úvodní zvuk čtečky není platný soubor",
+            "pageAudioNotValid": "je vyžadován zvuk stránky",
+            "pageChangeAudioNotValid": "je vyžadován zvuk změny stránky",
+            "delayAfterPlayingPageChangeAudioNotInteger": "zpoždění musí být celé číslo",
+            "delayBeforePlayingPageAudioNotInteger": "zpoždění musí být celé číslo",
+            "delayBeforePlayingPageChangeAudioNotInteger": "zpoždění musí být celé číslo",
+            "delayBeforePlayingPageAudioRequired": "je vyžadováno zpoždění",
+            "readerImageNotValid": "je vyžadován obrázek čtečky",
+            "delayBeforePlayingPageChangeAudioRequired": "je vyžadováno zpoždění",
+            "delayAfterPlayingPageChangeAudioRequired": "je vyžadováno zpoždění"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "Zdrojová adresa URL knihy.",
+            "label": "URL zdroje",
+            "placeholder": "zdrojová URL",
+            "ariaLabel": "zdrojová adresa URL knihy"
+        },
+        "authorInput": {
+            "description": "Jméno autora knihy.",
+            "label": "Jméno autora",
+            "placeholder": "autor knihy",
+            "ariaLabel": "jméno autora knihy"
+        },
+        "illustratorInput": {
+            "description": "Jméno ilustrátora knihy.",
+            "label": "Jméno ilustrátora",
+            "placeholder": "ilustrátor knihy",
+            "ariaLabel": "jméno ilustrátora knihy"
+        },
+        "publisherInput": {
+            "description": "Jméno vydavatele knihy.",
+            "label": "Jméno vydavatele",
+            "placeholder": "vydavatel knihy",
+            "ariaLabel": "jméno vydavatele knihy"
+        },
+        "label": "Zdroj",
+        "isbnInput": {
+            "description": "Mezinárodní standardní číslo knihy knihy.",
+            "label": "ISBN",
+            "placeholder": "ISBN knihy",
+            "ariaLabel": "mezinárodní standardní číslo knihy knihy"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "přidat novou stránku"},
+        "label": "Stránky"
+    }
+}

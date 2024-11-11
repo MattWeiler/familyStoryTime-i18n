@@ -1,0 +1,28 @@
+{
+    "startButton": {
+        "title": "atuakkamik aallartitsineq",
+        "ariaLabel": "atuakkamik aallartitsineq"
+    },
+    "selectedReaderImage": {"ariaLabel": "atuakkamik atuarnissamut nipi toqqaruk"},
+    "skipIntroButton": {
+        "title": "intro-mik skip-erlugu",
+        "ariaLabel": "intro-mik skip-erlugu"
+    },
+    "readMode": {
+        "items": {
+            "autoRead": {
+                "label": "Auto-mik sungiusarneq",
+                "ariaLabel": "qupperneq ataaseq atuisumut toqqakkamigut atuarneqassaaq"
+            },
+            "pageRead": {
+                "label": "Atuaruk Uannut",
+                "ariaLabel": "qupperneq ataaseq atuisumut nammineq toqqakkaminik atuarneqassaaq, kisianni atuisoq quppernerup allanngortinnissaanut akisussaavoq"
+            },
+            "selfRead": {
+                "label": "Nammineq atuarlugu",
+                "ariaLabel": "atuisoq quppernerit ataasiakkaat atuartarpai"
+            }
+        },
+        "ariaLabel": "atuarnissamut atortoq sorleq atorniarlugu toqqaruk"
+    }
+}

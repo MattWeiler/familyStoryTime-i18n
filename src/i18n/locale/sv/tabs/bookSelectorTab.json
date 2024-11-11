@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "Det gick inte att ladda böcker"},
+        "import": {"failure": "import misslyckades"},
+        "delete": {
+            "failure": "raderingen misslyckades",
+            "success": "raderade bok \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "misslyckades med att ta bort %{count} böcker",
+                "one": "misslyckades med att radera 1 bok"
+            },
+            "success": {
+                "other": "raderade %{count} böcker",
+                "one": "raderade 1 bok"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "sortera efter antal sidor i fallande ordning",
+                "descending": "sortera efter antal sidor i stigande ordning"
+            }},
+            "searchField": {
+                "placeholder": "sök i dina böcker",
+                "ariaLabel": "sök i dina böcker"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Exportera",
+                        "ariaLabel": "exportera de valda böckerna"
+                    },
+                    "delete": {
+                        "label": "Radera",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "nej, ta inte bort de valda böckerna"},
+                                "yes": {"ariaLabel": "ja, ta bort de valda böckerna"}
+                            },
+                            "title": "Bekräfta borttagning",
+                            "message": {
+                                "other": "Är du säker på att du vill ta bort de %{count} valda böckerna?",
+                                "one": "Är du säker på att du vill ta bort den valda boken?"
+                            }
+                        },
+                        "ariaLabel": "radera de valda böckerna"
+                    }
+                },
+                "ariaLabel": "öppna snabbmenyn för de valda böckerna"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "sortera efter boktitel i fallande ordning",
+                "descending": "sortera efter boktitel i stigande ordning"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "sortera efter antal läsare i fallande ordning",
+                "descending": "sortera efter antal läsare i stigande ordning"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "zooma ut för att se fler objekt samtidigt",
+                "zoomedOut": "zooma in för att se större bilder"
+            }}
+        },
+        "loadError": {
+            "text": "Det gick inte att ladda böcker.",
+            "ariaLabel": "misslyckades med att ladda böcker"
+        },
+        "noBooksFound": {
+            "message": "Inga böcker hittades :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Prova vår",
+                    "linkName": "bokbyggare"
+                },
+                "availableBooks": {
+                    "message": "Kolla in vår",
+                    "linkName": "bokhandel"
+                }
+            }
+        }
+    },
+    "subtitle": "Låt oss njuta av att läsa några berättelser.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "skapa en bok",
+                "ariaLabel": "skapa en ny bok"
+            },
+            "importBooks": {
+                "label": "importera böcker",
+                "ariaLabel": "importera en eller flera böcker"
+            },
+            "bookStore": {
+                "label": "besök bokhandeln",
+                "ariaLabel": "besök vår bokhandel"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "stäng lägg till en bokmeny",
+            "collapsed": "öppna lägg till en bokmeny"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "raderar...\n",
+            "one": "raderar...\n",
+            "none": "raderar..."
+        }},
+        "export": {"label": {
+            "other": "exporterar...\n",
+            "one": "exporterar...\n",
+            "none": "exporterar..."
+        }}
+    }},
+    "title": "Läshörna",
+    "confirmations": {"deleteBook": {
+        "title": "Borttagningsbekräftelse",
+        "message": "Är du säker på att du vill ta bort boken \"%{bookTitle}?\""
+    }}
+}

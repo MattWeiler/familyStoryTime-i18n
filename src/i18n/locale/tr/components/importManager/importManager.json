@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "içe aktarma zaten çalışıyor, daha sonra tekrar deneyin",
+        "download": {"failed": "\"%{bookName}\" indirilemedi."},
+        "install": {
+            "failed": "\"%{bookName}\" içe aktarılamadı",
+            "successful": "\"%{bookName}\" başarıyla içe aktarıldı"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "İptal etmek",
+            "ariaLabel": "içe aktarmayı iptal et"
+        },
+        "install": {
+            "textLabel": "Düzenlemek",
+            "ariaLabel": "seçili kitapları yükle: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "analiz ediyor...",
+        "downloading": "indiriliyor...",
+        "installing": "kuruluyor...",
+        "cancelling": "iptal ediliyor..."
+    },
+    "nothingToInstall": "İçe aktarılacak bir şey yok :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Bu okuyucu zaten yüklü kitabın bir parçası.\n\n"},
+            "checkbox": {"ariaLabel": "%{readerDisplayName} okuyucusunu içe aktarmaya dahil etmek için"}
+        },
+        "checkbox": {"ariaLabel": "%{bookName} kitabını içe aktarmaya dahil etmek için"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Bu kitap zaten cihazınızda.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Üzerine yazmayı seçerseniz mevcut kitap yenisiyle değiştirilecektir.\n\n"},
+                    "noReaders": {"label": "Bu kitap zaten cihazınızda.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Bu dosya yalnızca ses içeriyor ve kitap cihazınızda yüklü değil.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Bu kitap cihazınızda yok.\n\n"},
+                    "noReaders": {"label": "Bu kitap cihazınızda yok.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "birleştirme",
+                    "ariaLabel": "yeni okuyucular ekleyerek ve mevcut okuyucuların üzerine yeni okuyucular yazarak %{bookName} kitabını birleştirin"
+                },
+                "overwrite": {
+                    "label": "üzerine yazmak",
+                    "ariaLabel": "mevcut %{bookName} kitabının üzerine yaz"
+                }
+            },
+            "ariaLabel": "%{bookName}. kitap için hangi içe aktarma stratejisinin kullanılacağını seçin"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "içe aktarmayı iptal etme"},
+            "yes": {"ariaLabel": "içe aktarmayı iptal et"}
+        },
+        "title": "İçe Aktarmayı İptal Etmeyi Onayla",
+        "message": "İçe aktarmayı iptal etmek istediğinizden emin misiniz?"
+    }},
+    "titles": {
+        "booksToInstall": "Yüklenecek Kitaplar",
+        "failedToInstall": "Kitaplar Yüklenemedi"
+    }
+}

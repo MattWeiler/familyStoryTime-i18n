@@ -1,0 +1,18 @@
+{"prettyPrintByteSize": {
+    "kilobytes": {
+        "other": "%{count} KB",
+        "one": "1 KB"
+    },
+    "bytes": {
+        "other": "%{count} bajt",
+        "one": "1 bajt"
+    },
+    "megabytes": {
+        "other": "%{count} MB",
+        "one": "1 MB"
+    },
+    "gigabytes": {
+        "other": "%{count} GB",
+        "one": "1 GB"
+    }
+}}

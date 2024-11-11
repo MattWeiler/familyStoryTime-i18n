@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "ta opp din egen %{audioDisplayName}-lyd"},
+    "toasts": {
+        "audioFileLoading": {"failure": "kunne ikke laste inn lyd"},
+        "editInitFailed": "klarte ikke å redigere lyd",
+        "recordingFailed": "klarte ikke å ta opp lyd"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Tøm bekreftelse",
+            "message": "Er du sikker på at du vil slette den valgte lyden?"
+        },
+        "ariaLabel": "slett den valgte %{audioDisplayName}-lyden"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "velg en forhåndsinnstilt %{audioDisplayName}-lyd"},
+    "selectAudioFileButton": {"ariaLabel": "velg din egen %{audioDisplayName}-lydfil"},
+    "playButton": {
+        "stopped": {"ariaLabel": "spille av %{audioDisplayName}-lyden"},
+        "recording": {"ariaLabel": "stoppe %{audioDisplayName}-opptaket"},
+        "playing": {"ariaLabel": "stoppe avspillingen av %{audioDisplayName}-lyden"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "rediger den innlastede %{audioDisplayName}-lyden",
+        "cancelConfirmation": {
+            "title": "Forkast redigering",
+            "message": "Er du sikker på at du vil forkaste eventuelle endringer du har gjort?",
+            "buttonAriaLabels": {
+                "no": "nei, bli og fortsett å redigere",
+                "yes": "ja, forkast redigeringer"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Lastet opp fil: %{filename}",
+        "recording": "Innspilling",
+        "preset": "Forhåndsinnstilling: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Tillatelse nektet",
+        "message": "Du har nektet tilgang til mikrofonen din."
+    }}
+}

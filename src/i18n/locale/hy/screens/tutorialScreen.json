@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Մեզ հետադարձ կապ տալով"},
+        "intro": {"displayName": "Ներածություն"},
+        "createBooks": {"displayName": "Գրքերի ստեղծում"},
+        "parentalLocking": {"displayName": "Ծնողների կողպում"},
+        "sharingBooks": {"displayName": "Գրքերի փոխանակում"},
+        "bookPlayback": {"displayName": "Գրքեր խաղալը"},
+        "bookStore": {"displayName": "Գրքի խանութ"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "դիտել %{pageName} էջը"},
+        "backPageButton": {"ariaLabel": "հետ գնալ 1 էջ"},
+        "forwardPageButton": {"ariaLabel": "առաջ գնալ 1 էջ"}
+    },
+    "startLink": {
+        "label": "Սկսեք",
+        "ariaLabel": "գնալ գլխավոր էջ"
+    }
+}

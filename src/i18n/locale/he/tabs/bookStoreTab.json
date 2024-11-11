@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "לא, אל תסיר את ההתקנה של הספר זמין",
+            "yesButtonAriaLabel": "כן, הסר את התקנת הספר הזמין",
+            "title": "הסרת התקנה",
+            "message": "האם אתה בטוח שברצונך להסיר את התקנת הספר הזמין הזה?\n"
+        },
+        "ariaLabel": "הסר את ההתקנה של הספר הזמין %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "לְשַׁחְרֵר"},
+        "newerVersionAvailableMessage": "עדכון זמין"
+    },
+    "subtitle": "בואו למצוא כמה סיפורים טובים לקריאה.",
+    "loadingFailedMessage": "טעינת הספרים הזמינים נכשלה.\n",
+    "title": "חנות ספרים",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "לא, אל תתקין את הספר הזמין",
+            "yesButtonAriaLabel": "כן, התקן את הספר הזמין",
+            "title": "אישור התקנה",
+            "message": "האם אתה בטוח שברצונך להתקין את הספר הזמין הזה?\nפעולה זו תשתמש ב-%{fileSize} מהנתונים."
+        },
+        "ariaLabel": "התקן את הספר הזמין %{bookName}"
+    }
+}

@@ -1,0 +1,22 @@
+{"durations": {
+    "hours": {
+        "other": "%{displayValue} ժամ",
+        "one": "%{displayValue} ժամ"
+    },
+    "mins": {
+        "other": "%{displayValue} րոպե",
+        "one": "%{displayValue} րոպե"
+    },
+    "ms": {
+        "other": "%{displayValue} ms",
+        "one": "%{displayValue} ms"
+    },
+    "secs": {
+        "other": "%{displayValue} վրկ",
+        "one": "%{displayValue} վրկ"
+    },
+    "days": {
+        "other": "%{displayValue} օր",
+        "one": "%{displayValue} օր"
+    }
+}}

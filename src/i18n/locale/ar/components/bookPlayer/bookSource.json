@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "إظهار معلومات مصدر الكتاب"},
+        "hideSource": {"ariaLabel": "إخفاء معلومات مصدر الكتاب"}
+    },
+    "sourceUrl": {
+        "label": "عرض مصدر الكتاب",
+        "ariaLabel": "عنوان URL مفتوح المصدر للكتاب"
+    },
+    "sourceIllustrator": {"label": "المصور:"},
+    "sourceAuthor": {"label": "مؤلف:"},
+    "sourcePublisher": {"label": "الناشر:"},
+    "sourceIsbn": {
+        "label": "رقم ISBN:",
+        "ariaLabel": "افتح بحث ISBN عن كتاب ISBN"
+    }
+}

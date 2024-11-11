@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "obrázek stránky %{pageNum}"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Znovu naskenovat text stránky",
+                "message": "Opravdu chcete v obrázku naskenovat text a nahradit stávající text stránky?"
+            },
+            "ariaLabel": "extrahovat text z obrázku pro stránku %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "text k přidání na stránku %{pageNum}",
+                    "withPageText": "text k aktualizaci na stránce %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Nastavte Text stránky",
+                    "withPageText": "Aktualizovat text stránky"
+                },
+                "message": {
+                    "noPageText": "Jaký je text stránky?",
+                    "withPageText": "Na co byste chtěli změnit text stránky?"
+                },
+                "inputPlaceholder": "text k doplnění"
+            },
+            "ariaLabel": "upravit text \"%{pageText}\" ze stránky %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "přesunout text \u201e%{pageText}\u201c ze stránky %{pageNum} nahoru"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Potvrzení smazání",
+                "message": "Opravdu chcete smazat text této stránky?"
+            },
+            "ariaLabel": "odstranit text \u201e%{pageText}\u201c ze stránky %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "text k přidání na stránku %{pageNum}",
+                "title": "Nastavte Text stránky",
+                "message": "Jaký je text stránky?",
+                "inputPlaceholder": "text k doplnění"
+            },
+            "ariaLabel": "přidat nový text na stránku %{pageNum}"
+        },
+        "label": "Text",
+        "showHideButton": {"ariaLabel": {
+            "visible": "skrýt text \"%{pageText}\" ze stránky %{pageNum}",
+            "hidden": "zobrazit text \u201e%{pageText}\u201c ze stránky %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "přesunout text \"%{pageText}\" ze stránky %{pageNum} dolů"}
+    },
+    "moveUpButton": {"ariaLabel": "přesunout stránku %{pageNum} nahoru"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "Zvuk, který se přehraje, když \u201e%{readerDisplayName}\u201c čte stránku %{pageNum}.",
+                "noDisplayName": "Zvuk, který se přehraje, když tato čtečka čte stránku %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "čtenář stránky %{pageNum} %{readerDisplayName}"
+        },
+        "label": "Čtenáři"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Tím se odstraní veškerý zvuk stránky zaznamenaný pro tuto stránku.",
+            "additionalMessage2": "TOTO NELZE VRÁTIT!",
+            "title": "Potvrzení smazání",
+            "message": "Opravdu chcete smazat stránku %{pageNum}?"
+        },
+        "ariaLabel": "odstranit stránku %{pageNum}"
+    },
+    "description": "Obrázek, který se má zobrazit na stránce %{pageNum}.",
+    "label": "stránka %{pageNum}",
+    "moveDownButton": {"ariaLabel": "přesunout stránku %{pageNum} dolů"}
+}

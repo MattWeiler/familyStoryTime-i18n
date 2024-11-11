@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "sparad bok \"%{bookTitle}\"",
+        "validationFailed": "validering misslyckades",
+        "bookSaveFailed": "misslyckades med att spara boken"
+    },
+    "bookTitleInput": {
+        "description": "Bokens titel.",
+        "label": "Boktitel",
+        "placeholder": "bokens titel",
+        "ariaLabel": "bokens titel"
+    },
+    "readers": {
+        "label": "Läsare",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "visningsnamn för den här nya läsaren",
+                "buttons": {
+                    "cancel": {"ariaLabel": "avbryt lägga till den nya läsaren"},
+                    "add": {"ariaLabel": "lägg till den nya läsaren"}
+                },
+                "description": "Ange visningsnamnet för den här nya läsaren.",
+                "title": "Lägg till ny läsare",
+                "inputPlaceholder": "läsarens namn"
+            },
+            "ariaLabel": "lägg till ny läsare"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Antalet millisekunder att vänta innan du spelar upp sidbyte.",
+            "label": "Innan sidbyte ljud",
+            "placeholder": "millisekunder innan du spelar upp sidbyte ljud",
+            "ariaLabel": "millisekunder att vänta innan du spelar upp sidbytesljud"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Antalet millisekunder att vänta efter uppspelning av sidbytesljud.",
+            "label": "Efter sidbyte ljud",
+            "placeholder": "millisekunder efter uppspelning av sidbyte ljud",
+            "ariaLabel": "millisekunder att vänta efter uppspelning av sidbytesljud"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Antalet millisekunder att vänta innan sidljud spelas upp.",
+            "label": "Före sidljud",
+            "placeholder": "millisekunder innan sidljud spelas upp",
+            "ariaLabel": "millisekunder att vänta innan sidljud spelas upp"
+        },
+        "label": "Förseningar"
+    },
+    "bookIconImageSelector": {
+        "description": "Bilden som ska användas som ikon för boken.",
+        "label": "Bok ikon",
+        "accessibleImageDisplayName": "bok ikon"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "Bilden som ska visas vid första lanseringen av boken.",
+        "label": "Bok Splash Bild",
+        "accessibleImageDisplayName": "bokstänk"
+    },
+    "confirmations": {"goBack": {
+        "title": "Lämna ändringar",
+        "message": "Är du säker på att du vill lämna innan du sparar?"
+    }},
+    "pageChangeAudio": {
+        "description": "Ljudet som ska spelas upp när det är dags att byta sida.",
+        "label": "Sidbyte ljud",
+        "presetAudioModalPicker": {
+            "headerLabel": "Välj Page Change Audio",
+            "ariaLabel": "välj från listan över förinställda ljudalternativ för sidbyte",
+            "accessibleAudioDisplayName": "sidbyte"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Det gick inte att ladda boken.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "fördröjning kan inte vara negativ",
+            "bookTitleMissing": "boktitel krävs",
+            "readerDisplayNameMissing": "läsarens visningsnamn krävs",
+            "bookIconNotValid": "bokikon krävs",
+            "pageTextMissing": "sidtext krävs",
+            "delayBeforePlayingPageAudioNegative": "fördröjning kan inte vara negativ",
+            "pagesMissing": "minst 1 sida krävs",
+            "pageImageNotValid": "sidbild krävs",
+            "delayBeforePlayingPageChangeAudioNegative": "fördröjning kan inte vara negativ",
+            "bookSplashImageNotValid": "bokstänksbild krävs",
+            "readerIntroAudioNotValid": "läsarens introljud är inte en giltig fil",
+            "pageAudioNotValid": "sidljud krävs",
+            "pageChangeAudioNotValid": "sidbyte ljud krävs",
+            "delayAfterPlayingPageChangeAudioNotInteger": "fördröjning måste vara ett heltal",
+            "delayBeforePlayingPageAudioNotInteger": "fördröjning måste vara ett heltal",
+            "delayBeforePlayingPageChangeAudioNotInteger": "fördröjning måste vara ett heltal",
+            "delayBeforePlayingPageAudioRequired": "fördröjning krävs",
+            "readerImageNotValid": "läsarbild krävs",
+            "delayBeforePlayingPageChangeAudioRequired": "fördröjning krävs",
+            "delayAfterPlayingPageChangeAudioRequired": "fördröjning krävs"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "Källadressen till boken.",
+            "label": "Källadress",
+            "placeholder": "källans URL",
+            "ariaLabel": "källans URL till boken"
+        },
+        "authorInput": {
+            "description": "Namnet på författaren till boken.",
+            "label": "Författarens namn",
+            "placeholder": "författare till bok",
+            "ariaLabel": "namnet på författaren till boken"
+        },
+        "illustratorInput": {
+            "description": "Namnet på bokens illustratör.",
+            "label": "Illustratörens namn",
+            "placeholder": "illustratör av bok",
+            "ariaLabel": "namnet på bokens illustratör"
+        },
+        "publisherInput": {
+            "description": "Namnet på bokens utgivare.",
+            "label": "Utgivarens namn",
+            "placeholder": "bokförläggare",
+            "ariaLabel": "namnet på bokens utgivare"
+        },
+        "label": "Källa",
+        "isbnInput": {
+            "description": "Bokens internationella standardboknummer.",
+            "label": "ISBN",
+            "placeholder": "ISBN för boken",
+            "ariaLabel": "bokens internationella standardboknummer"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "lägg till ny sida"},
+        "label": "Sidor"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "aap, atuakkiaq Available uninngatinnagu",
+            "yesButtonAriaLabel": "aap, atuakkiaq pissarsiarineqarsinnaasoq uninstalleruk",
+            "title": "Uppernarsaaneq aallaavigalugu",
+            "message": "Qularnanngilaq atuakkiaq una pissarsiarineqarsinnaasoq uninngatinniarlugu?\n"
+        },
+        "ariaLabel": "atuagaq pissarsiarineqarsinnaasoq %{bookName} peerlugu"
+    },
+    "books": {
+        "badges": {"free": "frii"},
+        "newerVersionAvailableMessage": "Nutarterineq Atorneqarsinnaavoq"
+    },
+    "subtitle": "Oqaluttuat pitsaasut atuarsinnaasavut nassaariartigit.",
+    "loadingFailedMessage": "Atuakkat pissarsiarineqarsinnaasut ikkussinnaanngilai.\n",
+    "title": "Atuakkanik Pisiniarfik",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "aap, atuakkamik pissarsiarineqarsinnaasumik installereqanngilatit",
+            "yesButtonAriaLabel": "aap, atuakkiaq pissarsiarineqarsinnaasoq installeruk",
+            "title": "Installerneq Uppernarsaaneq",
+            "message": "Qularnanngilaq atuakkiaq una pissarsiarineqarsinnaasoq installerusukkukku?\nTaamaaliornikkut %{fileSize} data atorneqassaaq."
+        },
+        "ariaLabel": "atuagaq pissarsiarineqarsinnaasoq %{bookName} ikkuguk"
+    }
+}

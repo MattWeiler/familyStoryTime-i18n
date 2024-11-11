@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "App Feedback",
+            "ariaLabel": "ge feedback på vår ansökan"
+        },
+        "description": "Vi vill gärna höra vad du har att säga."
+    },
+    "title": "Lämna feedback",
+    "bugFeedback": {
+        "tab": {
+            "title": "Rapportera bugg",
+            "ariaLabel": "rapportera ett fel som du hittade i vår applikation"
+        },
+        "description": "Vi är ledsna att höra att du hittat ett fel, men vi ska göra vårt bästa för att fixa det :)"
+    }
+}

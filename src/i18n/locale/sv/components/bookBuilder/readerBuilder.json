@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Det valfria ljudet att spela innan du läser den första sidan.",
+        "label": {
+            "withDisplayName": "%{readerDisplayName}s introljud",
+            "noDisplayName": "Introljud"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} läsarintro",
+            "noDisplayName": "läsare med ID %{readerId} intro"
+        }
+    },
+    "readerImage": {
+        "description": "Bilden som ska visas för den här läsaren.",
+        "accessibleImageDisplayName": "bild av läsaren %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Detta tar bort allt sidljud som spelats in för den här läsaren.",
+            "additionalMessage2": "DETTA KAN INTE ÅNGRAS!",
+            "title": "Borttagningsbekräftelse",
+            "message": {
+                "withDisplayName": "Är du säker på att du vill ta bort \"%{readerDisplayName}\"-läsaren?",
+                "noDisplayName": "Är du säker på att du vill ta bort den här läsaren?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "ta bort läsaren %{readerDisplayName}",
+            "noDisplayName": "ta bort läsaren med ID %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "visningsnamn för läsaren",
+                "noDisplayName": "visningsnamn för läsaren"
+            },
+            "title": {
+                "withDisplayName": "Uppdatera visningsnamn",
+                "noDisplayName": "Ställ in visningsnamn"
+            },
+            "message": {
+                "withDisplayName": "Vad skulle du vilja ändra denna läsares visningsnamn till?",
+                "noDisplayName": "Vad är visningsnamnet för den här läsaren?"
+            },
+            "inputPlaceholder": "läsarens namn"
+        },
+        "ariaLabel": {
+            "withDisplayName": "ändra visningsnamnet för läsaren %{readerDisplayName}",
+            "noDisplayName": "ändra visningsnamnet för läsaren med ID %{readerId}"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "summary": "Mund të riprodhoni librat që keni instaluar në pajisjen tuaj.",
+    "splashScreen": {
+        "messages": {
+            "1": "Nga ekrani spërkatës mund të zgjidhni se si dëshironi të riprodhohet libri dhe të zgjidhni se cili lexues duhet ta lexojë librin, nëse ka.",
+            "2": "Nëse libri ka lexues të shtuar në të, do të mund të zgjidhni midis modaliteteve \"Luaj automatikisht\", \"Lexo për mua\" dhe \"Lexoje vetë\".",
+            "3": "Modaliteti \"Luaj automatik\" do të bëjë që lexuesi i zgjedhur të lexojë librin dhe faqet do të ndryshohen automatikisht.",
+            "4": "Modaliteti \"Lexo për mua\" do ta bëjë lexuesin e zgjedhur të lexojë librin, por faqet do të duhet të ndryshohen manualisht. ",
+            "5": "Modaliteti \"Read It Myself\" do t'ju lejojë ta lexoni vetë librin.",
+            "6": "Nëse libri përmban informacion burimor, do të ketë një ikonë e cila kur klikohet do të shfaqë atë informacion burimor. "
+        },
+        "title": "Spërkatje e ekranit"
+    },
+    "player": {
+        "messages": {
+            "1": "Kur luani një libër, do të shfaqen butonat e navigimit të cilët do t'ju lejojnë të ndaloni/luajtni audion e lexuesit si dhe të lundroni midis faqeve.",
+            "2": "Butonat e navigimit mund të fshihen/shfaqen duke shtypur imazhin vetëm.",
+            "3": "Disa gjeste mund të përdoren gjithashtu për të lundruar.",
+            "4": "Rrëshqitja majtas/djathtas do të lundrojë ndërmjet faqeve.",
+            "5": "Prekja e dyfishtë ose prekja do të zmadhohet/zvogëlohet. "
+        },
+        "title": "Libri Player"
+    }
+}

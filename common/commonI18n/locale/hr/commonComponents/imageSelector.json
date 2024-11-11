@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "potražite slikovnu datoteku",
+        "ariaLabel": "potražite slikovnu datoteku za %{imageDisplayName} sliku"
+    },
+    "takePhotoButton": {
+        "title": "slikaj se",
+        "ariaLabel": "slikaj za %{imageDisplayName} sliku"
+    },
+    "browseImageGalleryButton": {
+        "title": "pregledaj galeriju slika",
+        "ariaLabel": "pregledaj galeriju slika za %{imageDisplayName} sliku"
+    },
+    "fullscreenButton": {"ariaLabel": "prikaži sliku %{imageDisplayName} na cijelom zaslonu"},
+    "imageEditor": {
+        "cropButton": {"text": "Obrezivanje"},
+        "cancelButton": {"text": "Otkazati"},
+        "backButton": {"text": "Nazad"},
+        "saveButton": {"text": "Uštedjeti"}
+    },
+    "editSelectedImageButton": {
+        "title": "uredite sliku",
+        "ariaLabel": "uredi sliku %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "prikaži %{imageDisplayName} kontrole slike",
+        "controlsVisible": "sakrij %{imageDisplayName} kontrole slike"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Dopuštenje odbijeno",
+            "message": "Odbili ste dopuštenje za pristup vašoj kameri."
+        },
+        "browseImages": {
+            "title": "Dopuštenje odbijeno",
+            "message": "Odbili ste pristup svojim fotografijama."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "zatvori cijeli zaslon"}
+}

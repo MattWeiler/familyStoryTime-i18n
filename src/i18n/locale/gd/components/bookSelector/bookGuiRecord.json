@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Tagh",
+                "ariaLabel": "tagh an leabhar %{bookTitle}"
+            },
+            "edit": {
+                "title": "Deasaich",
+                "ariaLabel": "deasaich an leabhar %{bookTitle}"
+            },
+            "delete": {
+                "title": "Sguab às",
+                "ariaLabel": "sguab às an leabhar %{bookTitle}"
+            },
+            "export": {
+                "title": "Às-mhalairt",
+                "ariaLabel": "às-phortaich an leabhar %{bookTitle}"
+            }
+        },
+        "ariaLabel": "fosgail clàr-taice co-theacs an leabhair %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} duilleagan",
+            "one": "%{count} duilleag"
+        },
+        "ariaLabel": {
+            "other": "%{count} duilleagan",
+            "one": "%{count} duilleag"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "tagh an %{bookTitle} leabhar",
+        "selected": "dì-thaghadh an %{bookTitle} leabhar"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} leughadair",
+            "one": "%{count} leughadair"
+        },
+        "ariaLabel": {
+            "other": "tha %{count} leughadair aig an leabhar %{bookTitle}",
+            "one": "tha %{count} leughadair aig an leabhar %{bookTitle}"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "leugh an sgeulachd: %{bookTitle}",
+        "selectionMode": "%{bookTitle} leabhar"
+    }
+}

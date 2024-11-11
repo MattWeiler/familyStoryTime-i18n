@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "ne, neodinstalujte dostupnou knihu",
+            "yesButtonAriaLabel": "ano, odinstalovat dostupnou knihu",
+            "title": "Potvrzení odinstalace",
+            "message": "Opravdu chcete tuto dostupnou knihu odinstalovat?\n"
+        },
+        "ariaLabel": "odinstalovat dostupnou knihu %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "uvolnit"},
+        "newerVersionAvailableMessage": "Aktualizace k dispozici"
+    },
+    "subtitle": "Pojďme si najít nějaké dobré příběhy ke čtení.",
+    "loadingFailedMessage": "Dostupné knihy se nepodařilo načíst.\n",
+    "title": "Knihkupectví",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "ne, neinstalujte dostupnou knihu",
+            "yesButtonAriaLabel": "ano, nainstalovat dostupnou knihu",
+            "title": "Potvrzení instalace",
+            "message": "Jste si jisti, že chcete nainstalovat tuto dostupnou knihu?\nPokud tak učiníte, použije se %{fileSize} dat."
+        },
+        "ariaLabel": "nainstalovat dostupnou knihu %{bookName}"
+    }
+}

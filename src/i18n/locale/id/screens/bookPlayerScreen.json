@@ -1,0 +1,4 @@
+{
+    "aiReader": {"displayName": "Pembaca AI"},
+    "errors": {"bookLoadFailure": "Tidak dapat memuat buku."}
+}

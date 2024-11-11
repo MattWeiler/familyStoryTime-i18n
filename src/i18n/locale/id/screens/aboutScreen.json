@@ -1,0 +1,33 @@
+{
+    "intro": "Saya membuat aplikasi ini untuk membantu anak-anak dalam perjalanan membaca mereka, tetapi juga agar dapat dibacakan cerita oleh orang-orang terkasih yang tidak dapat hadir di sana.",
+    "title": "Waktu Cerita Keluarga",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Mintalah cerita Anda dibacakan oleh pendongeng favorit Anda, meskipun mereka tidak bisa hadir.",
+            "title": "Suara yang Dikenal"
+        },
+        "paragraph_3": {
+            "content_1": "Buku-buku dapat dibaca secara otomatis saat Anda terus membaca.",
+            "title": "Latihan Membaca"
+        },
+        "paragraph_2": {
+            "content_1": "Digitalkan buku favorit Anda agar dapat bertahan selama bertahun-tahun yang akan datang.",
+            "title": "Simpan Favorit Anda"
+        },
+        "paragraph_1": {
+            "content_2": "Simpan semua buku favorit Anda di satu tempat agar mudah diakses di rumah atau saat bepergian.",
+            "content_1": "Selamat membaca bersama keluarga.",
+            "title": "Selamat Membaca"
+        },
+        "paragraph_6": {
+            "content_2": "Jika diaktifkan, pemilik perangkat harus membuka kunci aplikasi menggunakan data biometriknya (bergantung pada perangkat) untuk mengakses aspek sensitif aplikasi.",
+            "content_1": "Aplikasi ini memiliki fitur kunci orang tua.",
+            "title": "Kunci Orang Tua"
+        },
+        "paragraph_5": {
+            "content_2": "Cerita dapat diekspor satu per satu atau sekaligus.",
+            "content_1": "Buat cerita Anda sendiri dan bagikan dengan teman dan keluarga.",
+            "title": "Membagikan"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{"durations": {
+    "hours": {
+        "other": "%{displayValue} сати",
+        "one": "%{displayValue} сат"
+    },
+    "mins": {
+        "other": "%{displayValue} мин",
+        "one": "%{displayValue} мин"
+    },
+    "ms": {
+        "other": "%{displayValue} мс",
+        "one": "%{displayValue} мс"
+    },
+    "secs": {
+        "other": "%{displayValue} сек",
+        "one": "%{displayValue} сек"
+    },
+    "days": {
+        "other": "%{displayValue} дана",
+        "one": "%{displayValue} дан"
+    }
+}}

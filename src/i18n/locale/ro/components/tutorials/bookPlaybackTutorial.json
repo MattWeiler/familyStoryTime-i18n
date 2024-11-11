@@ -1,0 +1,24 @@
+{
+    "summary": "Puteți reda cărțile pe care le-ați instalat pe dispozitiv.",
+    "splashScreen": {
+        "messages": {
+            "1": "Din ecranul de deschidere puteți alege modul în care doriți să fie redată cartea și selectați ce cititor ar trebui să citească cartea, dacă este cazul.",
+            "2": "Dacă cartea are cititori adăugați la ea, veți putea alege între modurile \u201eRedare automată\u201d, \u201eCitește-mi\u201d și \u201eCitește-l eu însumi\u201d.",
+            "3": "Modul \u201eRedare automată\u201d va face cititorul selectat să citească cartea, iar paginile vor fi schimbate automat.",
+            "4": "Modul \u201eCitiți-mi\u201d va face cititorul selectat să citească cartea, dar paginile vor trebui modificate manual. ",
+            "5": "Modul \u201eRead It Myself\u201d vă va permite să citiți singur cartea.",
+            "6": "Dacă cartea conține informații despre sursă, va exista o pictogramă care, atunci când este făcută clic, va afișa informațiile respective. "
+        },
+        "title": "Splash Screen"
+    },
+    "player": {
+        "messages": {
+            "1": "Când redați o carte, vor fi afișate butoane de navigare care vă vor permite să întrerupeți/redați sunetul cititorului, precum și să navigați între pagini.",
+            "2": "Butoanele de navigare pot fi ascunse/afisate prin simpla apasare a imaginii.",
+            "3": "Unele gesturi pot fi folosite și pentru a naviga.",
+            "4": "Glisând la stânga/dreapta va naviga între pagini.",
+            "5": "Atingerea de două ori sau ciupirea va mări / micșora. "
+        },
+        "title": "Book Player"
+    }
+}

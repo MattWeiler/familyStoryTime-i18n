@@ -1,0 +1,33 @@
+{
+    "intro": "Bu uygulamayı çocukların okuma yolculuğunda yardımcı olmak ve aynı zamanda orada olamayan sevdiklerinin onlara hikayeler okumasını sağlamak için oluşturdum.",
+    "title": "Aile Hikayesi Zamanı",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Hikayelerinizi, orada olamasanız bile, en sevdiğiniz hikaye anlatıcısının size okumasını sağlayın.",
+            "title": "Tanıdık Sesler"
+        },
+        "paragraph_3": {
+            "content_1": "Kitaplar siz okurken otomatik olarak okunabilir.",
+            "title": "Okuma Alıştırması Yapın"
+        },
+        "paragraph_2": {
+            "content_1": "En sevdiğiniz kitaplarınızı dijitalleştirerek uzun yıllar dayanmasını sağlayın.",
+            "title": "Favorilerinizi Koruyun"
+        },
+        "paragraph_1": {
+            "content_2": "Evde veya hareket halindeyken kolay erişim için tüm favori kitaplarınızı tek bir yerde saklayın.",
+            "content_1": "Ailece okumanın tadını çıkarın.",
+            "title": "Okumanın Keyfini Çıkarın"
+        },
+        "paragraph_6": {
+            "content_2": "Etkinleştirildiğinde, cihaz sahibinin, uygulamanın hassas yönlerine erişmek için biyometrik verilerini (cihaza bağlı olarak) kullanarak uygulamanın kilidini açması gerekir.",
+            "content_1": "Uygulamanın ebeveyn kilidi özelliği bulunmaktadır.",
+            "title": "Ebeveyn Kilidi"
+        },
+        "paragraph_5": {
+            "content_2": "Hikayeler tek tek veya tamamı bir kerede dışa aktarılabilir.",
+            "content_1": "Kendi hikayelerinizi yaratın ve bunları arkadaşlarınızla ve ailenizle paylaşın.",
+            "title": "Paylaşmak"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "mission": "Oqaluttuat nuannarinerpaasatit, asannittunit atuarneqartartut, illersorneqarnissaannut ikiuiniarpugut.",
+    "subtitle": "Meeqqat atuarnissaannut ikiuiniarluni qinnuteqaat nuannersoq.",
+    "paragraphs": {"1": "Meeqqat oqaluttuat nuannarinerpaasatik asannittuminnit atuarneqartut tusarnaarsinnaavaat, asannittut taakku ungasissumiikkaluarpata imaluunniit toqusimagaluarpata."},
+    "accessTutorial": {
+        "messages": {"1": "Atuartitsissut una qanorluunniit iserfigisinnaavat hamburger-meny aqqutigalugu applikationip qulaani-venstre-miittoq."},
+        "title": "Isissutissaq Tutorial"
+    }
+}

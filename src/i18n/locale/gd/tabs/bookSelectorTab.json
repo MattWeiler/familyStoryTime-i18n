@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "dh'fhàillig luchdachadh leabhraichean"},
+        "import": {"failure": "dh'fhàillig an toirt a-steach"},
+        "delete": {
+            "failure": "dh'fhàillig an sguabadh às",
+            "success": "leabhar air a sguabadh às \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "cha deach %{count} leabhar a sguabadh às",
+                "one": "dh'fhàillig le 1 leabhar a sguabadh às"
+            },
+            "success": {
+                "other": "chaidh %{count} leabhar a sguabadh às",
+                "one": "1 leabhar air a sguabadh às"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "a sheòrsachadh a rèir àireamh dhuilleagan ann an òrdugh teàrnaidh",
+                "descending": "òrdachadh a rèir àireamh dhuilleagan ann an òrdugh dìreadh"
+            }},
+            "searchField": {
+                "placeholder": "lorg do leabhraichean",
+                "ariaLabel": "lorg do leabhraichean"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Às-mhalairt",
+                        "ariaLabel": "às-mhalairt na leabhraichean taghte"
+                    },
+                    "delete": {
+                        "label": "Sguab às",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "chan e, na sguab às na leabhraichean taghte"},
+                                "yes": {"ariaLabel": "seadh, sguab às na leabhraichean taghte"}
+                            },
+                            "title": "Dearbhaich Sguab às",
+                            "message": {
+                                "other": "A bheil thu cinnteach gu bheil thu airson na %{count} leabhraichean a thagh thu a sguabadh às?",
+                                "one": "A bheil thu cinnteach gu bheil thu airson an leabhar a thagh thu a sguabadh às?"
+                            }
+                        },
+                        "ariaLabel": "sguab às na leabhraichean taghte"
+                    }
+                },
+                "ariaLabel": "fosgail clàr-taice co-theacsa nan leabhraichean taghte"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "òrdachadh a rèir tiotal an leabhair ann an òrdugh teàrnaidh",
+                "descending": "òrdachadh a rèir tiotal an leabhair ann an òrdugh dìreadh"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "òrdachadh a rèir cunntais leughadair ann an òrdugh teàrnaidh",
+                "descending": "òrdachadh a rèir cunntais leughadair ann an òrdugh dìreadh"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "gluais a-mach gus barrachd rudan fhaicinn aig an aon àm",
+                "zoomedOut": "gluais a-steach gus dealbhan nas motha fhaicinn"
+            }}
+        },
+        "loadError": {
+            "text": "Dh'fhàillig luchdadh a-nuas leabhraichean.",
+            "ariaLabel": "Dh'fhàillig luchdadh a-nuas leabhraichean"
+        },
+        "noBooksFound": {
+            "message": "Cha deach leabhraichean a lorg :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Feuch ar",
+                    "linkName": "neach-togail leabhar"
+                },
+                "availableBooks": {
+                    "message": "Thoir sùil air ar",
+                    "linkName": "stòr leabhraichean"
+                }
+            }
+        }
+    },
+    "subtitle": "Feuch gun còrd sinn ri cuid de sgeulachdan a leughadh.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "leabhar a chruthachadh",
+                "ariaLabel": "cruthaich leabhar ùr"
+            },
+            "importBooks": {
+                "label": "leabhraichean a-steach",
+                "ariaLabel": "toirt a-steach aon leabhar no barrachd"
+            },
+            "bookStore": {
+                "label": "tadhal air stòr leabhraichean",
+                "ariaLabel": "tadhal air a\u2019 bhùth leabhraichean againn"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "dùin cuir clàr leabhar ris",
+            "collapsed": "fosgail cuir clàr leabhar ris"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "a' sguabadh às...\n",
+            "one": "a' sguabadh às...\n",
+            "none": "a' sguabadh às..."
+        }},
+        "export": {"label": {
+            "other": "às-mhalairt ...\n",
+            "one": "às-mhalairt ...\n",
+            "none": "às-mhalairt ..."
+        }}
+    }},
+    "title": "Oisean Leughaidh",
+    "confirmations": {"deleteBook": {
+        "title": "Dearbhadh Sguab às",
+        "message": "A bheil thu cinnteach gu bheil thu airson an leabhar \"%{bookTitle} a sguabadh às?\""
+    }}
+}

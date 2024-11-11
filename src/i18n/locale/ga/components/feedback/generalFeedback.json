@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "ní thacaítear leis an ríomhphost",
+        "submissionFailed": "Theip ar sheoladh an aiseolais",
+        "submissionSuccess": "aiseolas seolta"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Roghnaigh leibhéal sástachta.",
+        "description": "Cé chomh dóchúil is atá tú ár n-aip a roinnt?",
+        "label": "Ag Roinnt le Daoine Eile",
+        "levels": {
+            "1": {
+                "displayName": "Gan Bealach",
+                "ariaLabel": "aon bhealach"
+            },
+            "2": {
+                "displayName": "Ní dócha",
+                "ariaLabel": "ní dócha"
+            },
+            "3": {
+                "displayName": "B\u2019fhéidir",
+                "ariaLabel": "b'fhéidir"
+            },
+            "4": {
+                "displayName": "Tá",
+                "ariaLabel": "tá"
+            },
+            "5": {
+                "displayName": "Cheana féin",
+                "ariaLabel": "cheana féin"
+            }
+        },
+        "ariaLabel": "roghnaigh cé chomh dóchúil is atá tú an feidhmchlár soghluaiste seo a roinnt le daoine eile"
+    },
+    "submitButton": {
+        "text": "Cuir Aiseolas isteach",
+        "ariaLabel": "cuir isteach d'aiseolas"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Roghnaigh leibhéal sástachta.",
+        "description": "Cé mhéad a thaitin / nár thaitin lenár n-aip leat?",
+        "label": "Sástacht App",
+        "levels": {
+            "1": {
+                "displayName": "Is fuath liom é",
+                "ariaLabel": "fuath é"
+            },
+            "2": {
+                "displayName": "Díomá",
+                "ariaLabel": "díomách"
+            },
+            "3": {
+                "displayName": "Neodrach",
+                "ariaLabel": "neodrach"
+            },
+            "4": {
+                "displayName": "Go hiontach",
+                "ariaLabel": "iontach"
+            },
+            "5": {
+                "displayName": "Grá é",
+                "ariaLabel": "grá é"
+            }
+        },
+        "ariaLabel": "roghnaigh do leibhéal sástachta leis an bhfeidhmchlár soghluaiste seo"
+    },
+    "commentInput": {
+        "description": "Cuir ar fáil go roghnach aon tuairimí breise atá agat.",
+        "label": "Trácht",
+        "ariaLabel": "go roghnach, tuairimí breise"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Roghnaigh leibhéal sástachta.",
+        "description": "Conas a fuair tú leabhair imeartha?",
+        "label": "Leabhair a Imeartha",
+        "levels": {
+            "1": {
+                "displayName": "Níor oibrigh",
+                "ariaLabel": "níor oibrigh"
+            },
+            "2": {
+                "displayName": "Nach Mór",
+                "ariaLabel": "nach iontach"
+            },
+            "3": {
+                "displayName": "Tá sé ceart go leor",
+                "ariaLabel": "tá sé ceart go leor"
+            },
+            "4": {
+                "displayName": "Tá sé Éasca",
+                "ariaLabel": "tá sé éasca"
+            },
+            "5": {
+                "displayName": "Grá é",
+                "ariaLabel": "grá é"
+            }
+        },
+        "ariaLabel": "roghnaigh do shástacht leis an athsheinm leabhar"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Roghnaigh leibhéal sástachta.",
+        "description": "Cad é mar a thaitin leat an iliomad léitheoirí a bheith agat?",
+        "label": "Léitheoirí Il",
+        "levels": {
+            "1": {
+                "displayName": "Níor oibrigh",
+                "ariaLabel": "níor oibrigh"
+            },
+            "2": {
+                "displayName": "Nach Mór",
+                "ariaLabel": "nach iontach"
+            },
+            "3": {
+                "displayName": "Tá sé ceart go leor",
+                "ariaLabel": "tá sé ceart go leor"
+            },
+            "4": {
+                "displayName": "Tá sé Éasca",
+                "ariaLabel": "tá sé éasca"
+            },
+            "5": {
+                "displayName": "Grá é",
+                "ariaLabel": "grá é"
+            }
+        },
+        "ariaLabel": "roghnaigh do shástacht leis an iliomad léitheoirí a bheith agat in aghaidh an leabhair"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Roghnaigh leibhéal sástachta.",
+        "description": "Conas a fuair tú leabhair a chruthú?",
+        "label": "Leabhair a Chruthú",
+        "levels": {
+            "1": {
+                "displayName": "Níor oibrigh",
+                "ariaLabel": "níor oibrigh"
+            },
+            "2": {
+                "displayName": "Nach Mór",
+                "ariaLabel": "nach iontach"
+            },
+            "3": {
+                "displayName": "Tá sé ceart go leor",
+                "ariaLabel": "tá sé ceart go leor"
+            },
+            "4": {
+                "displayName": "Tá sé Éasca",
+                "ariaLabel": "tá sé éasca"
+            },
+            "5": {
+                "displayName": "Grá é",
+                "ariaLabel": "grá é"
+            }
+        },
+        "ariaLabel": "roghnaigh do shástacht leis an bpróiseas cruthaithe leabhar"
+    }
+}

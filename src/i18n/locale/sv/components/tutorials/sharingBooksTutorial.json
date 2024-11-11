@@ -1,0 +1,25 @@
+{
+    "summary": "När du har skapat en bok kan du dela den med familj och vänner.",
+    "exporting": {
+        "messages": {
+            "1": "Du kan antingen exportera en enskild bok, via dess snabbmeny, eller flera böcker samtidigt, genom att hålla nere för att välja flera böcker.",
+            "2": "När du har valt boken/böckerna att exportera kan du sedan välja exakt vad som ska exporteras.",
+            "3": "Som standard kommer hela boken att exporteras, men du kan välja och välja vilka läsare som ska ingå i bokens innehåll eller så kan du välja att bara exportera specifika läsare.",
+            "4": "När du bara vill skicka läsarinformationen som du spelat in till någon som redan har boken, kan du skapa en mycket mindre fil att dela genom att bara inkludera den eller de specifika läsarna."
+        },
+        "title": "Exporterar"
+    },
+    "importingMerging": {"messages": {
+        "1": "När du importerar en bok som redan är installerad på din enhet kommer du att kunna välja om den importerande boken ska skriva över den redan installerade boken eller om en sammanslagning ska utföras.",
+        "2": "Vid sammanslagning kommer endast de valda läsarna att läggas till i den redan installerade boken.",
+        "3": "Om de läsare som slås samman redan är installerade på enheten kommer de att ersättas."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Från sidan \"Läshörnet\" kan du välja vilka böcker som ska importeras genom att välja alternativet \"importera böcker\" när du trycker på (+)-knappen längst ner till höger på skärmen.",
+            "2": "Alternativt kan du skicka en bokfil till applikationen \"Family Story Time\".",
+            "3": "När du importerar en bok som inte redan är installerad på din enhet kommer boken att installeras."
+        },
+        "title": "Importerar"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "summary": "Cihazınızı çocuğunuza teslim etmeden önce uygulamayı kilitleyerek çocukların kitapları silmesini veya değişiklik yapmasını önleyebilirsiniz.",
+    "enabling": {
+        "messages": {
+            "1": "Ebeveyn kilitleme özelliğini etkinleştirmek için hamburger menüsünü açın ve sağ üstteki açık kilit simgesine basın.",
+            "2": "Bu, ebeveyn kilitleme özelliğini başlatacak olan biyometrik onayınızı sağlamanızı isteyecektir.",
+            "3": "Artık ebeveyn kilitleme özelliği etkinleştirildiğine göre, açık kilit simgesine basıldığında uygulama kilitlenecektir.",
+            "4": "Ebeveyn kilitleme özelliği etkinleştirildiğinde uygulama her başlatıldığında kilitli modda olacaktır."
+        },
+        "title": "Ebeveyn Kilidini Etkinleştir"
+    },
+    "disabling": {
+        "messages": {
+            "1": "Ebeveyn kilitleme özelliğini devre dışı bırakmak için hamburger menüsünü açın ve alttaki ayarlar öğesine basın.",
+            "2": "Ayarlar sayfasında \"Ebeveyn Kilidi\" özelliğinin seçimini kaldırın."
+        },
+        "title": "Ebeveyn Kilidini Devre Dışı Bırak"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Uygulama kilitlendiğinde, içerik menüleri veya kitap eklemenize/kaldırmanıza izin veren düğmeler gibi uygulamanın çeşitli özellikleri gösterilmeyecektir.",
+            "2": "Bu, uygulamayı çocukların kullanması güvenli olan salt okunur moda geçirir.",
+            "3": "Bu gizli özelliklere erişmek için uygulamanın kilidini açmanız gerekecektir."
+        },
+        "title": "Kilitli Özellikler"
+    },
+    "locked": {
+        "messages": {
+            "1": "Uygulamanın kilidini açmak için hamburger menüsünü açın ve sağ üstteki kapalı kilit simgesine basın.",
+            "2": "Bu, uygulamanın kilidini açacak biyometrik onayınızı sağlamanızı isteyecektir."
+        },
+        "title": "Uygulamanın Kilidini Aç"
+    }
+}

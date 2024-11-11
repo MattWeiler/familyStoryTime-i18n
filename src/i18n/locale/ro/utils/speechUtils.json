@@ -1,0 +1,11 @@
+{
+    "voiceDisplayName": {
+        "networkVoice": "[%{voiceLanguage}] %{voiceName} (%{voiceQuality}) [rețea]",
+        "localVoice": "[%{voiceLanguage}] %{voiceName} (%{voiceQuality})"
+    },
+    "simpleVoiceDisplayName": "[%{voiceLanguage}] %{voiceName}",
+    "voiceQuality": {
+        "enhanced": "sporit",
+        "default": "de bază"
+    }
+}

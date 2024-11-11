@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "η εξαγωγή εκτελείται ήδη, δοκιμάστε ξανά αργότερα"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "Ματαίωση",
+            "ariaLabel": "ακυρώσει την εξαγωγή"
+        },
+        "export": {
+            "textLabel": "Εξαγωγή",
+            "ariaLabel": "εξαγωγή επιλεγμένων βιβλίων"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "Αποθηκεύστε τα %{count} βιβλία σας",
+        "one": "Αποθήκευση βιβλίου: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "αναλύοντας...",
+        "packaging": "συσκευασία...",
+        "cancelling": "ακύρωση..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "αναγνώστες",
+                    "ariaLabel": "εξάγετε μόνο τις πληροφορίες αναγνώστη για το βιβλίο %{bookTitle}"
+                },
+                "full": {
+                    "label": "γεμάτος",
+                    "ariaLabel": "εξαγωγή ολόκληρου του βιβλίου %{bookTitle}"
+                }
+            },
+            "ariaLabel": "επιλέξτε τον τρόπο εξαγωγής του βιβλίου %{bookTitle}"
+        },
+        "readers": {"checkbox": {"ariaLabel": "για να συμπεριλάβετε τον αναγνώστη %{readerDisplayName} στην εξαγωγή"}},
+        "checkbox": {"ariaLabel": "για να συμπεριλάβετε το βιβλίο %{bookTitle} στην εξαγωγή"},
+        "bookReadersTooltip": {"label": "Επιλέγοντας την επιλογή \"αναγνώστες\" θα εξαχθούν μόνο οι επιλεγμένοι αναγνώστες.\n\n"}
+    },
+    "packagedMultiBookFileName": "Βιβλία",
+    "nothingToExport": "Δεν υπάρχει τίποτα για εξαγωγή :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "μην ακυρώσετε την εξαγωγή"},
+            "yes": {"ariaLabel": "ακυρώσει την εξαγωγή"}
+        },
+        "title": "Επιβεβαιώστε την Ακύρωση εξαγωγής",
+        "message": "Είστε βέβαιοι ότι θέλετε να ακυρώσετε την εξαγωγή;"
+    }},
+    "titles": {
+        "booksToExport": "Βιβλία προς εξαγωγή",
+        "failedToExport": "Αποτυχία εξαγωγής βιβλίων"
+    },
+    "outputFilenameField": {
+        "label": "Όνομα αρχείου εξόδου",
+        "ariaLabel": "Αναμενόμενο όνομα αρχείου εξόδου"
+    },
+    "errors": {"invalidOutputFilename": "μη έγκυρο όνομα αρχείου"}
+}

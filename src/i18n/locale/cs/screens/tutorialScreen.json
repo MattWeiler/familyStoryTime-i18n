@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Dejte nám zpětnou vazbu"},
+        "intro": {"displayName": "Zavedení"},
+        "createBooks": {"displayName": "Vytváření knih"},
+        "parentalLocking": {"displayName": "Rodičovský zámek"},
+        "sharingBooks": {"displayName": "Sdílení knih"},
+        "bookPlayback": {"displayName": "Přehrávání knih"},
+        "bookStore": {"displayName": "Knihkupectví"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "zobrazit stránku %{pageName}"},
+        "backPageButton": {"ariaLabel": "vrátit se o 1 stránku zpět"},
+        "forwardPageButton": {"ariaLabel": "přejít o 1 stránku vpřed"}
+    },
+    "startLink": {
+        "label": "Začněte",
+        "ariaLabel": "přejděte na domovskou stránku"
+    }
+}

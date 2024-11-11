@@ -1,0 +1,34 @@
+{
+    "summary": "Prije nego što svoj uređaj date djetetu, možete zaključati aplikaciju kako biste spriječili djecu da izbrišu bilo koju knjigu ili naprave druge promjene.",
+    "enabling": {
+        "messages": {
+            "1": "Da biste omogućili značajku roditeljskog zaključavanja, otvorite izbornik hamburgera i pritisnite ikonu otvorene brave u gornjem desnom kutu.",
+            "2": "Ovo će od vas zatražiti da date svoju biometrijsku potvrdu koja će pokrenuti značajku roditeljskog zaključavanja.",
+            "3": "Sada kada je značajka roditeljskog zaključavanja omogućena, pritiskom na ikonu za otvaranje zaključavanja aplikacija će se zaključati.",
+            "4": "Kada je značajka roditeljskog zaključavanja omogućena, svaki put kada se aplikacija pokrene, bit će u zaključanom načinu rada."
+        },
+        "title": "Omogući roditeljsko zaključavanje"
+    },
+    "disabling": {
+        "messages": {
+            "1": "Da biste onemogućili značajku roditeljskog zaključavanja, otvorite izbornik hamburgera i pritisnite stavku postavki na dnu.",
+            "2": "Na stranici postavki poništite odabir značajke \"Roditeljsko zaključavanje\"."
+        },
+        "title": "Onemogući roditeljsko zaključavanje"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Kada je aplikacija zaključana, nekoliko značajki aplikacije neće biti prikazano kao što su kontekstni izbornici ili gumbi koji vam omogućuju dodavanje/uklanjanje knjiga.",
+            "2": "Ovo stavlja aplikaciju u način rada samo za čitanje koji je siguran za djecu.",
+            "3": "Kako biste pristupili tim skrivenim značajkama, morat ćete otključati aplikaciju."
+        },
+        "title": "Zaključane značajke"
+    },
+    "locked": {
+        "messages": {
+            "1": "Za otključavanje aplikacije, otvorite izbornik hamburgera i pritisnite ikonu zatvorene bravice u gornjem desnom kutu.",
+            "2": "Ovo će od vas zatražiti da date svoju biometrijsku potvrdu koja će otključati aplikaciju."
+        },
+        "title": "Otključaj aplikaciju"
+    }
+}

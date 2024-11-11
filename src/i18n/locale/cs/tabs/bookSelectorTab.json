@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "načítání knih se nezdařilo"},
+        "import": {"failure": "import se nezdařil"},
+        "delete": {
+            "failure": "smazání se nezdařilo",
+            "success": "smazaná kniha \u201e%{bookTitle}\u201c"
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "nepodařilo se smazat %{count} knih",
+                "one": "nepodařilo se smazat 1 knihu"
+            },
+            "success": {
+                "other": "smazal %{count} knih",
+                "one": "smazal 1 knihu"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "seřadit podle počtu stránek v sestupném pořadí",
+                "descending": "seřadit podle počtu stránek ve vzestupném pořadí"
+            }},
+            "searchField": {
+                "placeholder": "prohledejte své knihy",
+                "ariaLabel": "prohledejte své knihy"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Vývozní",
+                        "ariaLabel": "exportovat vybrané knihy"
+                    },
+                    "delete": {
+                        "label": "Vymazat",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "ne, nemazat vybrané knihy"},
+                                "yes": {"ariaLabel": "ano, smazat vybrané knihy"}
+                            },
+                            "title": "Potvrďte smazání",
+                            "message": {
+                                "other": "Opravdu chcete smazat %{count} vybraných knih?",
+                                "one": "Opravdu chcete smazat vybranou knihu?"
+                            }
+                        },
+                        "ariaLabel": "smazat vybrané knihy"
+                    }
+                },
+                "ariaLabel": "otevřete kontextovou nabídku pro vybrané knihy"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "seřadit podle názvu knihy v sestupném pořadí",
+                "descending": "seřadit vzestupně podle názvu knihy"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "seřadit podle počtu čtenářů v sestupném pořadí",
+                "descending": "seřadit vzestupně podle počtu čtenářů"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "oddálit pro zobrazení více položek najednou",
+                "zoomedOut": "přiblížením zobrazíte větší obrázky"
+            }}
+        },
+        "loadError": {
+            "text": "Knihy se nepodařilo načíst.",
+            "ariaLabel": "se nepodařilo načíst knihy"
+        },
+        "noBooksFound": {
+            "message": "Nebyly nalezeny žádné knihy :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Vyzkoušejte naše",
+                    "linkName": "tvůrce knih"
+                },
+                "availableBooks": {
+                    "message": "Podívejte se na naše",
+                    "linkName": "knihkupectví"
+                }
+            }
+        }
+    },
+    "subtitle": "Pojďme si přečíst nějaké příběhy.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "vytvořit knihu",
+                "ariaLabel": "vytvořit novou knihu"
+            },
+            "importBooks": {
+                "label": "importovat knihy",
+                "ariaLabel": "importovat jednu nebo více knih"
+            },
+            "bookStore": {
+                "label": "navštívit knihkupectví",
+                "ariaLabel": "navštivte naše knihkupectví"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "zavřít přidat nabídku knihy",
+            "collapsed": "otevřít přidat nabídku knihy"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "mazání...\n",
+            "one": "mazání...\n",
+            "none": "mazání..."
+        }},
+        "export": {"label": {
+            "other": "export...\n",
+            "one": "export...\n",
+            "none": "export..."
+        }}
+    }},
+    "title": "Čtenářský koutek",
+    "confirmations": {"deleteBook": {
+        "title": "Potvrzení smazání",
+        "message": "Opravdu chcete smazat knihu \u201e%{bookTitle}?\u201c"
+    }}
+}

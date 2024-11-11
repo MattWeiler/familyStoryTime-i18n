@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "импортирането вече работи, опитайте отново по-късно",
+        "download": {"failed": "не успя да изтегли \u201e%{bookName}\u201c."},
+        "install": {
+            "failed": "не успя да импортира \u201e%{bookName}\u201c",
+            "successful": "успешно импортиран \"%{bookName}\""
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Отказ",
+            "ariaLabel": "анулирайте импортирането"
+        },
+        "install": {
+            "textLabel": "Инсталирайте",
+            "ariaLabel": "инсталирайте избрани книги: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "анализирам...",
+        "downloading": "изтегляне...",
+        "installing": "инсталиране...",
+        "cancelling": "анулиране..."
+    },
+    "nothingToInstall": "Няма нищо за импортиране :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Този четец вече е част от инсталираната книга.\n\n"},
+            "checkbox": {"ariaLabel": "за включване на четец %{readerDisplayName} в импортирането"}
+        },
+        "checkbox": {"ariaLabel": "за да включите %{bookName} книга в импортирането"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Тази книга вече е на вашето устройство.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Ако изберете да презапишете, текущата книга ще бъде заменена с новата.\n\n"},
+                    "noReaders": {"label": "Тази книга вече е на вашето устройство.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Този файл съдържа само аудио и книгата не е инсталирана на вашето устройство.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Тази книга не е на вашето устройство.\n\n"},
+                    "noReaders": {"label": "Тази книга не е на вашето устройство.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "сливане",
+                    "ariaLabel": "обединете книгата %{bookName}, като добавите нови четци и презапишете съществуващите четци с нови четци"
+                },
+                "overwrite": {
+                    "label": "презаписвам",
+                    "ariaLabel": "презаписване на съществуваща книга %{bookName}"
+                }
+            },
+            "ariaLabel": "изберете каква стратегия за импортиране да използвате за книга %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "не анулирайте импортирането"},
+            "yes": {"ariaLabel": "анулирайте импортирането"}
+        },
+        "title": "Потвърдете Отказ от импортиране",
+        "message": "Сигурни ли сте, че искате да отмените импортирането?"
+    }},
+    "titles": {
+        "booksToInstall": "Книги за инсталиране",
+        "failedToInstall": "Неуспешно инсталиране на книги"
+    }
+}

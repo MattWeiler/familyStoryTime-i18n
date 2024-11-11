@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "tidak, jangan uninstall buku Tersedia",
+            "yesButtonAriaLabel": "ya, uninstall buku yang tersedia",
+            "title": "Copot Pemasangan Konfirmasi",
+            "message": "Apakah Anda yakin ingin menghapus instalan buku yang tersedia ini?\n"
+        },
+        "ariaLabel": "hapus instalan buku yang tersedia %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "bebas"},
+        "newerVersionAvailableMessage": "Pembaruan Tersedia"
+    },
+    "subtitle": "Mari temukan beberapa cerita bagus untuk dibaca.",
+    "loadingFailedMessage": "Gagal memuat buku yang tersedia.\n",
+    "title": "Toko Buku",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "tidak, jangan instal buku yang tersedia",
+            "yesButtonAriaLabel": "ya, instal buku yang tersedia",
+            "title": "Instal Konfirmasi",
+            "message": "Apakah Anda yakin ingin menginstal buku yang tersedia ini?\nMelakukan hal tersebut akan menggunakan data sebesar %{fileSize}."
+        },
+        "ariaLabel": "pasang buku yang tersedia %{bookName}"
+    }
+}

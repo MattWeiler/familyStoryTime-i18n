@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "Detta tar bort alla böcker som är installerade på den här enheten.\n\n",
+        "button": {
+            "label": "Radera",
+            "title": "radera alla böcker",
+            "ariaLabel": "radera alla böcker"
+        },
+        "displayName": "Ta bort alla böcker",
+        "processingMessage": "raderar...",
+        "shortDescription": {
+            "disabled": "Ta bort alla dina böcker, men du har för närvarande inga böcker installerade.",
+            "enabled": "Ta bort alla dina böcker."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} WeilerHaus",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "Kylare",
+                "someFontsBy": "Teckensnitt av:"
+            },
+            "label": "Speciellt tack",
+            "icons": {
+                "ionicIcons": "IonIcons",
+                "someIconsBy": "Ikoner av:",
+                "icons8": "Ikoner8",
+                "iconArchive": "Ikon Arkiv"
+            }
+        },
+        "version": "Version: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Denna bildredigerare kommer att användas när nya bokbilder tas eller en befintlig bokbild redigeras.",
+        "displayName": "Bildredigerare",
+        "testLabel": "Testa bildredigerare",
+        "testImage": {"accessibleImageDisplayName": "testbildredigeringsbild"},
+        "options": {
+            "advanced": {
+                "label": "Avancerad",
+                "ariaLabel": "använd den avancerade bildredigeraren"
+            },
+            "simple": {
+                "label": "Enkel",
+                "ariaLabel": "använd enkel bildredigerare"
+            }
+        },
+        "shortDescription": "Välj vilken bildredigerare som ska användas.",
+        "ariaLabel": "välj vilken bildredigerare som ska användas"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Denna röst kommer att användas när \"AI Reader\"-läsaren läser böcker.",
+        "displayName": "Önskad röst",
+        "selectorButton": {
+            "defaultLabel": "standard",
+            "ariaLabel": "välj en \"AI Reader\"-röst"
+        },
+        "shortDescription": "Välj den röst som ska användas av \"AI Reader\".",
+        "picker": {
+            "default": "standard",
+            "networkActionIcon": {"ariaLabel": "visa lokala och nätverksbaserade röster"},
+            "label": "Röster för AI-läsare",
+            "ariaLabel": "välj en \"AI Reader\"-röst",
+            "globalActionIcon": {"ariaLabel": "visa alla språk"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Ljud & Video",
+        "ariaLabel": {
+            "expanded": "komprimera avsnittet för val av ljud och video",
+            "collapsed": "expandera avsnittet för val av ljud och video"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Denna bildkvalitet kommer att användas när du tar bilder med enhetens kameror.",
+        "slider": {
+            "highLabel": "Hög",
+            "ariaLabel": "bildkvalitet på bilder",
+            "lowLabel": "Låg"
+        },
+        "displayName": "Kamerakvalitet %{value} %",
+        "testLabel": "Testa kamera",
+        "testImage": {"accessibleImageDisplayName": "testa kamerakvalitetsbild"},
+        "shortDescription": "Välj bildkvalitet på bilder tagna med kameran."
+    },
+    "title": "Inställningar",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Borttagningsbekräftelse",
+        "message": "Är du säker på att du vill ta bort alla installerade böcker?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "Detta kan vara användbart när du migrerar till en ny enhet eller lägger till dina böcker på flera enheter.",
+        "button": {
+            "label": "Exportera",
+            "title": "exportera alla böcker",
+            "ariaLabel": "exportera alla böcker"
+        },
+        "displayName": "Exportera alla böcker",
+        "shortDescription": {
+            "disabled": "Exportera alla dina böcker till en enda fil och spara/dela \u200b\u200bden, men du har för närvarande inga böcker installerade.",
+            "enabled": "Exportera alla dina böcker till en enda fil och spara/dela \u200b\u200bden."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "raderingen misslyckades",
+        "success": {
+            "other": "raderade %{count} böcker",
+            "one": "raderade 1 bok"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "AI-läsare",
+        "testLabel": "Testa röst",
+        "testAriaLabel": {
+            "stopped": "testa \"AI Reader\"-röst",
+            "playing": "stoppa rösttestet \"AI Reader\"."
+        },
+        "testPhrase": "Hej, jag skulle älska att läsa dina favorithistorier med dig.",
+        "description": "När den är aktiverad kommer \"AI Reader\" att vara tillgänglig som läsare när du spelar upp böcker.",
+        "ariaLabel": {
+            "expanded": "komprimera valsektionen \"AI Reader\".",
+            "collapsed": "expandera avsnittet \"AI Reader\".",
+            "disabled": "\"AI Reader\" är inaktiverad",
+            "enabled": "\"AI Reader\" är aktiverad"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "Detta anger tonhöjden på rösten som används när \"AI Reader\"-läsaren läser böcker.",
+        "slider": {
+            "highLabel": "Hög",
+            "ariaLabel": "rösten för \"AI Reader\"",
+            "lowLabel": "Låg"
+        },
+        "displayName": "Röst tonhöjd %{value}%",
+        "shortDescription": "Välj tonhöjden för rösten som ska användas av \"AI Reader\"."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Denna ljudkvalitet kommer att användas vid inspelning med enhetens mikrofon.",
+        "displayName": "Mikrofonkvalitet",
+        "testLabel": "Testa mikrofon",
+        "options": {
+            "high": {
+                "label": "Hög",
+                "ariaLabel": "använda hög ljudkvalitet"
+            },
+            "low": {
+                "label": "Låg",
+                "ariaLabel": "använd låg ljudkvalitet"
+            }
+        },
+        "shortDescription": "Välj ljudkvalitet för inspelningar som tagits med mikrofonen.",
+        "ariaLabel": "välj ljudkvaliteten för inspelningar tagna med mikrofonen",
+        "testAudioSelector": {"accessibleAudioDisplayName": "testa mikrofonens kvalitet"}
+    },
+    "subtitle": "Uppdatera dina programinställningar här.",
+    "themeSelection": {
+        "longDescription": "Om ett tema väljs här kommer det att åsidosätta alla enhetstemainställningar du kan ha.",
+        "displayName": "Temaval",
+        "options": {
+            "default": {
+                "label": "System",
+                "ariaLabel": "använd det systemdefinierade temat"
+            },
+            "light": {
+                "label": "Ljus",
+                "ariaLabel": "använd ljustemat"
+            },
+            "dark": {
+                "label": "Mörk",
+                "ariaLabel": "använd det mörka temat"
+            }
+        },
+        "shortDescription": "Välj det tema som ska användas av applikationen.",
+        "ariaLabel": "välj det tema som ska användas av applikationen"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "Detta anger hastigheten på rösten som används när \"AI Reader\"-läsaren läser böcker.",
+        "slider": {
+            "highLabel": "Snabb",
+            "ariaLabel": "talhastighet för \"AI Reader\"",
+            "lowLabel": "Långsam"
+        },
+        "displayName": "Talhastighet %{value} %",
+        "shortDescription": "Välj hastigheten på rösten som ska användas av \"AI Reader\"."
+    },
+    "parentalLocking": {
+        "longDescription": "När det är aktiverat krävs biometrisk data från enhetens ägare för att låsa upp avancerade funktioner i applikationen.",
+        "displayName": "Föräldralåsning",
+        "shortDescription": "Föräldralåsning kan vara användbart när barn använder programmet.",
+        "ariaLabel": {
+            "disabled": "föräldralåset är inaktiverat",
+            "enabled": "föräldralåsning är aktiverad"
+        }
+    }
+}

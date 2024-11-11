@@ -1,0 +1,96 @@
+{
+    "summary": "Můžete digitalizovat oblíbené knihy své rodiny a zahrnout do nich tolik čtenářů, kolik je ochotno zaznamenat.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "Otevření \"Tvůrce knih\"",
+            "ariaLabel": {
+                "expanded": "sbalit otevření sekce pro tvorbu knih",
+                "collapsed": "otevřete otevření sekce pro tvorbu knih"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Z kterékoli stránky můžete přistupovat k \u201eTvůrci knih\u201c prostřednictvím nabídky hamburgerů v levé horní části obrazovky.",
+                    "2": "Odtud stiskněte možnost \"Kniha Builder\"."
+                },
+                "title": "Hamburgerové menu"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "Ze stránky \"Reading Corner\" se dostanete do \"Book Builder\" stisknutím tlačítka (+) v pravé dolní části obrazovky.",
+                    "2": "Odtud stiskněte možnost \u201evytvořit knihu\u201c."
+                },
+                "title": "Tlačítko akce"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "Použití \"Tvůrce knih\"",
+            "ariaLabel": {
+                "expanded": "sbalte sekci pomocí nástroje pro tvorbu knih",
+                "collapsed": "otevřete sekci pomocí nástroje pro tvorbu knih"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "Kniha musí obsahovat alespoň 1 stránku, ale nemá horní limit.",
+                    "2": "Při zachycování nebo nahrávání obrázku, který má být použit pro stránku, se k extrahování textu z obrázku použije umělá inteligence. "
+                },
+                "title": "Stránky knihy"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "V \"Book Builder\" budete moci zadat několik atributů souvisejících s knihou.",
+                    "2": "Zde lze specifikovat název knihy, několik obrázků, informace o zdroji, zpoždění, čtenáře a stránky."
+                },
+                "title": "Tvůrce knih"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Když jsou všechna pole knihy vyplněna, kniha musí být uložena do zařízení.",
+                    "2": "Po uložení budou data knihy zkontrolována, aby bylo zajištěno, že jsou všechna platná; "
+                },
+                "title": "Ukládání knihy"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Obrázky lze pořídit buď pomocí fotoaparátu vašeho zařízení, nebo je lze načíst z vaší galerie.",
+                    "2": "Když je obrázek vybrán, lze jej upravit tak, aby vypadal co nejlépe.",
+                    "3": "Stisknutím existujícího obrázku se zobrazí tlačítka obrázků."
+                },
+                "title": "Obrázky knihy"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Lze definovat zpoždění, která ovlivní přehrávání knihy.",
+                    "2": "Tato zpoždění mohou zajistit, že přehrávání zvuku nebude znít příliš náhle."
+                },
+                "title": "Zpoždění knihy"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Když se kniha automaticky přehrává, může se po dokončení stránky přehrát určitý zvuk a další stránka je připravena začít.",
+                    "2": "Lze vybrat sadu předdefinovaných zvuků nebo nahrát nebo nahrát vlastní zvuk."
+                },
+                "title": "Zvuk změny stránky"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "Kniha může obsahovat libovolný počet čtenářů.",
+                    "2": "Každý čtenář se zaznamená, jak čte každou stránku knihy, a bude tak k dispozici ke čtení knihy během přehrávání knihy."
+                },
+                "title": "Čtenáři knih"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "O knize lze uvést zdrojové informace.",
+                    "2": "I když jsou tyto informace o zdroji volitelné, mohou vám pomoci sledovat vaše oblíbené příběhy."
+                },
+                "title": "Informace o zdroji knihy"
+            }
+        }
+    }
+}

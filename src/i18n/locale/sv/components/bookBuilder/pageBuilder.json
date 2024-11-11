@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "sida %{pageNum} bild"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Skanna sidtext igen",
+                "message": "Är du säker på att du vill skanna bilden efter text och ersätta din befintliga sidtext?"
+            },
+            "ariaLabel": "extrahera text från bild för sidan %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "text att lägga till på sidan %{pageNum}",
+                    "withPageText": "text att uppdatera på sidan %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Ställ in sidtext",
+                    "withPageText": "Uppdatera sidtext"
+                },
+                "message": {
+                    "noPageText": "Vad är sidtexten?",
+                    "withPageText": "Vad vill du ändra sidtexten till?"
+                },
+                "inputPlaceholder": "text att lägga till"
+            },
+            "ariaLabel": "redigera texten \"%{pageText}\" från sidan %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "flytta texten \"%{pageText}\" från sidan %{pageNum} uppåt"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Borttagningsbekräftelse",
+                "message": "Är du säker på att du vill ta bort den här sidtexten?"
+            },
+            "ariaLabel": "ta bort texten \"%{pageText}\" från sidan %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "text att lägga till på sidan %{pageNum}",
+                "title": "Ställ in sidtext",
+                "message": "Vad är sidtexten?",
+                "inputPlaceholder": "text att lägga till"
+            },
+            "ariaLabel": "lägg till ny text på sidan %{pageNum}"
+        },
+        "label": "Text",
+        "showHideButton": {"ariaLabel": {
+            "visible": "dölj texten \"%{pageText}\" från sidan %{pageNum}",
+            "hidden": "visa texten \"%{pageText}\" från sidan %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "flytta texten \"%{pageText}\" från sidan %{pageNum} nedåt"}
+    },
+    "moveUpButton": {"ariaLabel": "flytta sidan %{pageNum} uppåt"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "Ljudet som spelas upp när \"%{readerDisplayName}\" läser sidan %{pageNum}.",
+                "noDisplayName": "Ljudet som spelas upp när den här läsaren läser sidan %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "sida %{pageNum} %{readerDisplayName} läsare"
+        },
+        "label": "Läsare"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Detta tar bort allt sidljud som spelats in för den här sidan.",
+            "additionalMessage2": "DETTA KAN INTE ÅNGRAS!",
+            "title": "Borttagningsbekräftelse",
+            "message": "Är du säker på att du vill ta bort sidan %{pageNum}?"
+        },
+        "ariaLabel": "ta bort sida %{pageNum}"
+    },
+    "description": "Bilden som ska visas på sidan %{pageNum}.",
+    "label": "Sida %{pageNum}",
+    "moveDownButton": {"ariaLabel": "flytta sidan %{pageNum} nedåt"}
+}

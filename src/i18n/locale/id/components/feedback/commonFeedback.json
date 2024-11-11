@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Nama",
+        "placeholder": "John Doe",
+        "ariaLabel": "opsional, nama Anda"
+    },
+    "emailInput": {
+        "description": "Berikan jika Anda ingin mendengar kabar dari kami.",
+        "label": "Alamat Surel",
+        "placeholder": "seseorang@gmail.com",
+        "ariaLabel": "opsional, alamat email Anda"
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "експортирането вече работи, опитайте отново по-късно"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "Отказ",
+            "ariaLabel": "анулирайте експорта"
+        },
+        "export": {
+            "textLabel": "Експортиране",
+            "ariaLabel": "експортиране на избрани книги"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "Запазете своите %{count} книги",
+        "one": "Запазване на книга: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "анализирам...",
+        "packaging": "опаковка...",
+        "cancelling": "анулиране..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "читатели",
+                    "ariaLabel": "експортирайте само информацията за четеца за книга %{bookTitle}"
+                },
+                "full": {
+                    "label": "пълен",
+                    "ariaLabel": "експортиране на цялата книга %{bookTitle}"
+                }
+            },
+            "ariaLabel": "изберете как да експортирате книга %{bookTitle}"
+        },
+        "readers": {"checkbox": {"ariaLabel": "за да включите четеца %{readerDisplayName} в експорта"}},
+        "checkbox": {"ariaLabel": "за да включите книгата %{bookTitle} в експортирането"},
+        "bookReadersTooltip": {"label": "Избирането на опцията \"четци\" ще експортира само избраните четци.\n\n"}
+    },
+    "packagedMultiBookFileName": "Книги",
+    "nothingToExport": "Няма нищо за експортиране :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "не отменяйте експорта"},
+            "yes": {"ariaLabel": "анулирайте експорта"}
+        },
+        "title": "Потвърдете Отказ от експортиране",
+        "message": "Сигурни ли сте, че искате да отмените експортирането?"
+    }},
+    "titles": {
+        "booksToExport": "Книги за експортиране",
+        "failedToExport": "Неуспешно експортиране на книги"
+    },
+    "outputFilenameField": {
+        "label": "Име на изходния файл",
+        "ariaLabel": "очаквано име на изходен файл"
+    },
+    "errors": {"invalidOutputFilename": "невалидно име на файл"}
+}

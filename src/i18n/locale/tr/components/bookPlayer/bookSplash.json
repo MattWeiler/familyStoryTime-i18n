@@ -1,0 +1,28 @@
+{
+    "startButton": {
+        "title": "kitaba başla",
+        "ariaLabel": "kitaba başla"
+    },
+    "selectedReaderImage": {"ariaLabel": "kitabı okumak için sesi seçin"},
+    "skipIntroButton": {
+        "title": "girişi atla",
+        "ariaLabel": "girişi atla"
+    },
+    "readMode": {
+        "items": {
+            "autoRead": {
+                "label": "Otomatik Oynat",
+                "ariaLabel": "her sayfa kullanıcıya kendi seçtiği sesle okunacaktır"
+            },
+            "pageRead": {
+                "label": "Bana Oku",
+                "ariaLabel": "her sayfa kullanıcıya kendi seçtiği sesle okunacaktır, ancak sayfayı değiştirmek kullanıcının sorumluluğundadır"
+            },
+            "selfRead": {
+                "label": "Kendim Okudum",
+                "ariaLabel": "kullanıcı her sayfayı okuyacaktır"
+            }
+        },
+        "ariaLabel": "hangi okuma modunun kullanılacağını seçin"
+    }
+}

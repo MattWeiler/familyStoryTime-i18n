@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "brobhsadh airson faidhle ìomhaigh",
+        "ariaLabel": "brobhsadh airson faidhle ìomhaigh airson %{imageDisplayName} dealbh"
+    },
+    "takePhotoButton": {
+        "title": "gabh dealbh",
+        "ariaLabel": "gabh dealbh airson dealbh %{imageDisplayName}"
+    },
+    "browseImageGalleryButton": {
+        "title": "brobhsadh gailearaidh dhealbhan",
+        "ariaLabel": "brobhsadh gailearaidh dhealbhan airson %{imageDisplayName} dealbh"
+    },
+    "fullscreenButton": {"ariaLabel": "seall %{imageDisplayName} dealbh air làn-sgrìn"},
+    "imageEditor": {
+        "cropButton": {"text": "Bàrr"},
+        "cancelButton": {"text": "Sguir dheth"},
+        "backButton": {"text": "Air ais"},
+        "saveButton": {"text": "Sàbhail"}
+    },
+    "editSelectedImageButton": {
+        "title": "deasaich an dealbh",
+        "ariaLabel": "deasaich an dealbh %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "seall na %{imageDisplayName} smachd dealbhan",
+        "controlsVisible": "cuir am falach %{imageDisplayName} smachdan dhealbhan"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Cead air a dhiùltadh",
+            "message": "Dhiùlt thu cead inntrigeadh dhan chamara agad."
+        },
+        "browseImages": {
+            "title": "Cead air a dhiùltadh",
+            "message": "Dhiùlt thu cead cothrom fhaighinn air na dealbhan agad."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "dùin làn-sgrìn"}
+}

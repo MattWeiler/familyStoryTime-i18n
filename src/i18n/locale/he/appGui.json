@@ -1,0 +1,43 @@
+{"hamburgerMenu": {
+    "applicationTitle": "שעת סיפור משפחתית",
+    "links": {
+        "feedback": {
+            "text": "מָשׁוֹב",
+            "ariaLabel": "עבור למסך המשוב"
+        },
+        "settings": {
+            "text": "הגדרות",
+            "ariaLabel": "עבור למסך ההגדרות"
+        },
+        "bookSelector": {
+            "text": "פינת קריאה",
+            "ariaLabel": "עבור למסך פינת הקריאה"
+        },
+        "bookBuilder": {
+            "text": "בונה ספרים",
+            "ariaLabel": "עבור למסך בונה הספרים"
+        },
+        "about": {
+            "text": "אודותינו",
+            "ariaLabel": "עבור למסך אודותינו"
+        },
+        "developerStatus": {
+            "hidden": {
+                "text": "הצג סטטוס מפתח",
+                "ariaLabel": "להציג את סטטוס המפתח"
+            },
+            "showing": {
+                "text": "הסתר סטטוס מפתח",
+                "ariaLabel": "הסתר את סטטוס המפתח"
+            }
+        },
+        "tutorial": {
+            "text": "שֶׁל מוֹרֶה",
+            "ariaLabel": "להציג את ההדרכה"
+        },
+        "bookStore": {
+            "text": "חנות ספרים",
+            "ariaLabel": "עבור למסך חנות הספרים"
+        }
+    }
+}}

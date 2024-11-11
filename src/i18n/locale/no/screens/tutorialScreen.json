@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Gi oss tilbakemelding"},
+        "intro": {"displayName": "Introduksjon"},
+        "createBooks": {"displayName": "Skaper bøker"},
+        "parentalLocking": {"displayName": "Foreldrelåsing"},
+        "sharingBooks": {"displayName": "Dele bøker"},
+        "bookPlayback": {"displayName": "Spille bøker"},
+        "bookStore": {"displayName": "Bokhandelen"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "se %{pageName}-siden"},
+        "backPageButton": {"ariaLabel": "gå tilbake 1 side"},
+        "forwardPageButton": {"ariaLabel": "gå frem 1 side"}
+    },
+    "startLink": {
+        "label": "Kom i gang",
+        "ariaLabel": "gå til hjemmesiden"
+    }
+}

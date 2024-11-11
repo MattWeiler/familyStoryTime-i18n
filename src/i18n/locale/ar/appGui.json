@@ -1,0 +1,43 @@
+{"hamburgerMenu": {
+    "applicationTitle": "وقت قصة العائلة",
+    "links": {
+        "feedback": {
+            "text": "تعليق",
+            "ariaLabel": "انتقل إلى شاشة ردود الفعل"
+        },
+        "settings": {
+            "text": "إعدادات",
+            "ariaLabel": "انتقل إلى شاشة الإعدادات"
+        },
+        "bookSelector": {
+            "text": "ركن القراءة",
+            "ariaLabel": "انتقل إلى شاشة ركن القراءة"
+        },
+        "bookBuilder": {
+            "text": "منشئ الكتاب",
+            "ariaLabel": "انتقل إلى شاشة منشئ الكتاب"
+        },
+        "about": {
+            "text": "معلومات عنا",
+            "ariaLabel": "انتقل إلى شاشة \"نبذة عنا\"."
+        },
+        "developerStatus": {
+            "hidden": {
+                "text": "إظهار حالة المطور",
+                "ariaLabel": "إظهار حالة المطور"
+            },
+            "showing": {
+                "text": "إخفاء حالة المطور",
+                "ariaLabel": "إخفاء حالة المطور"
+            }
+        },
+        "tutorial": {
+            "text": "درس تعليمي",
+            "ariaLabel": "عرض البرنامج التعليمي"
+        },
+        "bookStore": {
+            "text": "متجر الكتب",
+            "ariaLabel": "انتقل إلى شاشة متجر الكتب"
+        }
+    }
+}}

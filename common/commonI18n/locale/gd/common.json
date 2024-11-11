@@ -1,0 +1,25 @@
+{
+    "add": "Cuir ris",
+    "cancel": "Sguir dheth",
+    "no": "Chan eil",
+    "verifying": "a' dearbhadh...",
+    "set": "Suidhich",
+    "yes": "Tha",
+    "back": "Air ais",
+    "loading": "a' luchdachadh...",
+    "required": "dhìth",
+    "acknowledgeError": "aideachadh am mearachd",
+    "saving": "sàbhaladh ...",
+    "settingsButton": {
+        "text": "Suidhichidhean",
+        "ariaLabel": "rachaibh gu duilleag roghainnean nan tagraidhean"
+    },
+    "backButton": {
+        "label": "Air ais",
+        "title": "Till dhan duilleag mu dheireadh",
+        "ariaLabel": "Till dhan duilleag mu dheireadh"
+    },
+    "sending": "a' cur...",
+    "create": "Cruthaich",
+    "ok": "Ceart gu leòr"
+}

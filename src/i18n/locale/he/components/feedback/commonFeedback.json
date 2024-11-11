@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "שֵׁם",
+        "placeholder": "פְּלוֹנִי אַלמוֹנִי",
+        "ariaLabel": "אופציונלי, השם שלך"
+    },
+    "emailInput": {
+        "description": "ספק אם אתה רוצה לשמוע מאיתנו בחזרה.",
+        "label": "כתובת אימייל",
+        "placeholder": "someone@gmail.com",
+        "ariaLabel": "באופן אופציונלי, כתובת הדוא\"ל שלך"
+    }
+}

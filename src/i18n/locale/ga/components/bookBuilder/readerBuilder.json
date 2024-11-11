@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "An fhuaim roghnach le seinnt roimh an 1ú leathanach a léamh.",
+        "label": {
+            "withDisplayName": "Fuaim Intro %{readerDisplayName}",
+            "noDisplayName": "Fuaime Intro"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} réamhrá léitheora",
+            "noDisplayName": "léitheoir le ID %{readerId} intro"
+        }
+    },
+    "readerImage": {
+        "description": "An íomhá le taispeáint don léitheoir seo.",
+        "accessibleImageDisplayName": "íomhá léitheoir %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Bainfidh sé seo gach leathanach fuaime a taifeadadh don léitheoir seo.",
+            "additionalMessage2": "NÍ FÉIDIR É SEO A DHÉANAMH!",
+            "title": "Deimhniú Scriosta",
+            "message": {
+                "withDisplayName": "An bhfuil tú cinnte gur mhaith leat an léitheoir \"%{readerDisplayName}\" a scriosadh?",
+                "noDisplayName": "An bhfuil tú cinnte gur mhaith leat an léitheoir seo a scriosadh?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "bain an léitheoir %{readerDisplayName}",
+            "noDisplayName": "bain an léitheoir le haitheantas %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "ainm taispeána don léitheoir",
+                "noDisplayName": "ainm taispeána don léitheoir"
+            },
+            "title": {
+                "withDisplayName": "Nuashonraigh Ainm Taispeána",
+                "noDisplayName": "Socraigh Ainm Taispeána"
+            },
+            "message": {
+                "withDisplayName": "Cad chuige ar mhaith leat an t-ainm taispeána léitheoirí seo a athrú?",
+                "noDisplayName": "Cén t-ainm taispeána atá ar an léitheoir seo?"
+            },
+            "inputPlaceholder": "ainm léitheora"
+        },
+        "ariaLabel": {
+            "withDisplayName": "athraigh an t-ainm taispeána don léitheoir %{readerDisplayName}",
+            "noDisplayName": "athraigh ainm taispeána an léitheora le haitheantas %{readerId}"
+        }
+    }
+}

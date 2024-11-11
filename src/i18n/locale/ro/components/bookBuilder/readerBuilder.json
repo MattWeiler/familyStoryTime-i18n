@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Audio opțional de redat înainte de a citi prima pagină.",
+        "label": {
+            "withDisplayName": "Audio introductiv al lui %{readerDisplayName}",
+            "noDisplayName": "Audio introductiv"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} introducere pentru cititor",
+            "noDisplayName": "cititor cu ID %{readerId} introducere"
+        }
+    },
+    "readerImage": {
+        "description": "Imaginea de afișat pentru acest cititor.",
+        "accessibleImageDisplayName": "imaginea cititorului %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Aceasta va elimina toate paginile audio înregistrate pentru acest cititor.",
+            "additionalMessage2": "ACESTA NU POATE FI DESFĂGĂ!",
+            "title": "Confirmare ștergere",
+            "message": {
+                "withDisplayName": "Sigur doriți să ștergeți cititorul \u201e%{readerDisplayName}\u201d?",
+                "noDisplayName": "Sigur doriți să ștergeți acest cititor?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "eliminați cititorul %{readerDisplayName}",
+            "noDisplayName": "eliminați cititorul cu ID-ul %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "numele afișat pentru cititor",
+                "noDisplayName": "numele afișat pentru cititor"
+            },
+            "title": {
+                "withDisplayName": "Actualizați numele afișat",
+                "noDisplayName": "Setați numele afișat"
+            },
+            "message": {
+                "withDisplayName": "În ce ați dori să schimbați acest nume afișat pentru cititori?",
+                "noDisplayName": "Care este numele afișat pentru acest cititor?"
+            },
+            "inputPlaceholder": "numele cititorului"
+        },
+        "ariaLabel": {
+            "withDisplayName": "schimbați numele afișat pentru cititorul %{readerDisplayName}",
+            "noDisplayName": "schimbați numele afișat pentru cititor cu ID-ul %{readerId}"
+        }
+    }
+}

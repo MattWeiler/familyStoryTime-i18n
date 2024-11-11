@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "ion-phortadh a' ruith mu thràth, feuch ris a-rithist nas anmoiche",
+        "download": {"failed": "dh'fhàillig le luchdachadh a-nuas \"%{bookName}\"."},
+        "install": {
+            "failed": "dh'fhàillig le ion-phortadh \"%{bookName}\"",
+            "successful": "ion-phortadh \"%{bookName}\" gu soirbheachail"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Sguir dheth",
+            "ariaLabel": "cuir dheth an in-mhalairt"
+        },
+        "install": {
+            "textLabel": "Stàladh",
+            "ariaLabel": "stàlaich leabhraichean taghte: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "a' mion-sgrùdadh...",
+        "downloading": "a' luchdachadh sìos ...",
+        "installing": "a' stàladh...",
+        "cancelling": "a' cur dheth..."
+    },
+    "nothingToInstall": "Chan eil dad ri thoirt a-steach :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Tha an leughadair seo mar phàirt den leabhar stàlaichte mu thràth.\n\n"},
+            "checkbox": {"ariaLabel": "gus leughadair %{readerDisplayName} a ghabhail a-steach san ion-phortadh"}
+        },
+        "checkbox": {"ariaLabel": "gus %{bookName} leabhar a ghabhail a-steach san ion-phortadh"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Tha an leabhar seo air an inneal agad mu thràth.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Ma roghnaicheas tu sgrìobhadh thairis air, thèid an leabhar ùr a chuir na àite.\n\n"},
+                    "noReaders": {"label": "Tha an leabhar seo air an inneal agad mu thràth.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Chan eil anns an fhaidhle seo ach clàr-fuaim, agus chan eil an leabhar air a stàladh air an inneal agad.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Chan eil an leabhar seo air an inneal agad.\n\n"},
+                    "noReaders": {"label": "Chan eil an leabhar seo air an inneal agad.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "aonadh",
+                    "ariaLabel": "cuir an leabhar %{bookName} còmhla le bhith a' cur leughadairean ùra ris agus a' sgrìobhadh thairis air na leughadairean a th' ann mar-thà le leughadairean ùra"
+                },
+                "overwrite": {
+                    "label": "ath-sgrìobhadh",
+                    "ariaLabel": "sgrìobhadh thairis air leabhar gnàthaichte %{bookName}"
+                }
+            },
+            "ariaLabel": "tagh dè an ro-innleachd in-mhalairt a chleachdas tu airson leabhar %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "na cuir dheth an in-mhalairt"},
+            "yes": {"ariaLabel": "cuir dheth an in-mhalairt"}
+        },
+        "title": "Dearbhaich Sguir an ion-phortadh",
+        "message": "A bheil thu cinnteach gu bheil thu airson an ion-phortadh a chur dheth?"
+    }},
+    "titles": {
+        "booksToInstall": "Leabhraichean airson a stàladh",
+        "failedToInstall": "Dh'fhàillig stàladh leabhraichean"
+    }
+}

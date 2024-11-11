@@ -1,0 +1,96 @@
+{
+    "summary": "Anda dapat mendigitalkan buku favorit keluarga Anda dan menyertakan sebanyak mungkin pembaca yang ingin mencatatnya.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "Membuka \"Pembuat Buku\"",
+            "ariaLabel": {
+                "expanded": "ciutkan pembukaan bagian pembuat buku",
+                "collapsed": "buka pembukaan bagian pembuat buku"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Dari halaman mana pun, Anda dapat mengakses \"Pembuat Buku\" melalui menu hamburger di kiri atas layar.",
+                    "2": "Dari sana tekan opsi \"Pembuat Buku\"."
+                },
+                "title": "Menu Hamburger"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "Dari halaman \"Pojok Baca\", Anda dapat mengakses \"Pembuat Buku\" dengan menekan tombol (+) di kanan bawah layar.",
+                    "2": "Dari sana tekan opsi \"buat buku\"."
+                },
+                "title": "Tombol Tindakan"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "Menggunakan \"Pembuat Buku\"",
+            "ariaLabel": {
+                "expanded": "ciutkan menggunakan bagian pembuat buku",
+                "collapsed": "buka menggunakan bagian pembuat buku"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "Sebuah buku harus berisi minimal 1 halaman, tetapi tidak memiliki batas atas.",
+                    "2": "Saat mengambil atau mengunggah gambar untuk digunakan pada suatu halaman, AI akan digunakan untuk mengekstrak teks dari gambar tersebut. "
+                },
+                "title": "Halaman Buku"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "Di \"Pembuat Buku\", Anda akan dapat menentukan beberapa atribut yang terkait dengan buku tersebut.",
+                    "2": "Judul buku, beberapa gambar, sumber informasi, penundaan, pembaca dan halaman semuanya dapat ditentukan di sini."
+                },
+                "title": "Pembuat Buku"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Bila semua bidang buku telah diisi, buku tersebut harus disimpan ke perangkat.",
+                    "2": "Setelah disimpan, data buku akan diperiksa untuk memastikan semuanya valid; "
+                },
+                "title": "Menyimpan Buku"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Gambar dapat diambil menggunakan kamera perangkat Anda, atau dapat dimuat dari galeri Anda.",
+                    "2": "Ketika sebuah gambar telah dipilih, gambar tersebut dapat diedit untuk memastikan tampilannya sebaik mungkin.",
+                    "3": "Menekan gambar yang ada akan memunculkan tombol gambar."
+                },
+                "title": "Gambar Buku"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Penundaan dapat ditentukan yang akan mempengaruhi pemutaran buku.",
+                    "2": "Penundaan ini dapat memastikan pemutaran audio tidak terdengar terlalu tiba-tiba."
+                },
+                "title": "Keterlambatan Buku"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Saat buku diputar otomatis, suara tertentu dapat diputar saat halaman selesai dan halaman berikutnya siap dimulai.",
+                    "2": "Serangkaian suara yang telah ditentukan sebelumnya dapat dipilih atau suara khusus dapat diunggah atau direkam."
+                },
+                "title": "Audio Ganti Halaman"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "Sebuah buku dapat memuat sejumlah pembaca.",
+                    "2": "Setiap pembaca akan merekam dirinya membaca setiap halaman buku dan dengan demikian akan tersedia untuk membaca buku selama pemutaran buku."
+                },
+                "title": "Pembaca Buku"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "Sumber informasi dapat diberikan tentang buku tersebut.",
+                    "2": "Meskipun informasi sumber ini bersifat opsional, informasi ini dapat membantu melacak cerita favorit Anda."
+                },
+                "title": "Informasi Sumber Buku"
+            }
+        }
+    }
+}

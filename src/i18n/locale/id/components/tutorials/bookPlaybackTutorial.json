@@ -1,0 +1,24 @@
+{
+    "summary": "Anda dapat memutar ulang buku yang telah Anda instal di perangkat Anda.",
+    "splashScreen": {
+        "messages": {
+            "1": "Dari layar splash Anda dapat memilih bagaimana Anda ingin buku tersebut diputar dan memilih pembaca mana yang harus membaca buku tersebut, jika memungkinkan.",
+            "2": "Jika buku tersebut memiliki pembaca yang ditambahkan ke dalamnya, Anda akan dapat memilih antara mode \"Putar Otomatis\", \"Baca Untuk Saya\" dan \"Baca Sendiri\".",
+            "3": "Mode \"Putar Otomatis\" akan membuat pembaca yang dipilih membaca buku dan halaman akan diubah secara otomatis.",
+            "4": "Mode \"Baca Untuk Saya\" akan membuat pembaca yang dipilih membaca buku tersebut, tetapi halamannya harus diubah secara manual. ",
+            "5": "Mode \"Baca Sendiri\" memungkinkan Anda membaca buku sendiri.",
+            "6": "Jika buku berisi informasi sumber, maka akan ada ikon yang bila diklik akan menampilkan informasi sumber tersebut. "
+        },
+        "title": "Layar Pembuka"
+    },
+    "player": {
+        "messages": {
+            "1": "Saat memutar buku, tombol navigasi akan ditampilkan yang memungkinkan Anda menjeda/memutar audio pembaca serta menavigasi antar halaman.",
+            "2": "Tombol navigasi dapat disembunyikan/ditampilkan dengan menekan satu kali gambar.",
+            "3": "Beberapa isyarat juga dapat digunakan untuk bernavigasi.",
+            "4": "Menggesek ke kiri/kanan akan menavigasi antar halaman.",
+            "5": "Mengetuk atau mencubit dua kali akan memperbesar/memperkecil. "
+        },
+        "title": "Pemain Buku"
+    }
+}

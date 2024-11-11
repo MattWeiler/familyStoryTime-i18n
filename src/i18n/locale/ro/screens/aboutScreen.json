@@ -1,0 +1,33 @@
+{
+    "intro": "Am creat această aplicație pentru a ajuta copiii în călătoria lor de lectură, dar și pentru a putea avea povești citite de cei dragi care nu pot fi acolo.",
+    "title": "Ora poveștii în familie",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Pune-ți poveștile să îți citească de povestitorul tău preferat, chiar dacă nu pot fi acolo.",
+            "title": "Voci familiare"
+        },
+        "paragraph_3": {
+            "content_1": "Cărțile se pot citi automat în timp ce citiți.",
+            "title": "Exersează lectura"
+        },
+        "paragraph_2": {
+            "content_1": "Digitalizați-vă cărțile preferate, astfel încât acestea să rămână în următorii ani.",
+            "title": "Păstrează-ți Favoritele"
+        },
+        "paragraph_1": {
+            "content_2": "Păstrați toate cărțile preferate într-un singur loc pentru acces ușor acasă sau în deplasare.",
+            "content_1": "Citiți cu plăcere în familie.",
+            "title": "Lectură plăcută"
+        },
+        "paragraph_6": {
+            "content_2": "Când este activat, proprietarul dispozitivului trebuie să deblocheze aplicația folosind datele biometrice (în funcție de dispozitiv) pentru a accesa aspectele sensibile ale aplicației.",
+            "content_1": "Aplicația are o funcție de blocare parentală.",
+            "title": "Blocare parentală"
+        },
+        "paragraph_5": {
+            "content_2": "Poveștile pot fi exportate fie individual, fie toate odată.",
+            "content_1": "Creați-vă propriile povești și împărtășiți-le prietenilor și familiei.",
+            "title": "Distribuie"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "voiceDisplayName": {
+        "networkVoice": "[%{voiceLanguage}] %{voiceName} (%{voiceQuality}) [ağ]",
+        "localVoice": "[%{voiceLanguage}] %{voiceName} (%{voiceQuality})"
+    },
+    "simpleVoiceDisplayName": "[%{voiceLanguage}] %{voiceName}",
+    "voiceQuality": {
+        "enhanced": "geliştirilmiş",
+        "default": "temel"
+    }
+}

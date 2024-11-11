@@ -1,0 +1,96 @@
+{
+    "summary": "Du kan digitalisera din familjs favoritböcker och inkludera så många läsare som är villiga att spela in sig själva.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "Öppna \"Book Builder\"",
+            "ariaLabel": {
+                "expanded": "komprimera öppningsdelen av bokbyggaren",
+                "collapsed": "öppna avsnittet för att öppna bokbyggaren"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Från vilken sida som helst kan du komma åt \"Bokbyggaren\" via hamburgermenyn längst upp till vänster på skärmen.",
+                    "2": "Därifrån trycker du på alternativet \"Book Builder\"."
+                },
+                "title": "Hamburgermeny"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "Från sidan \"Läshörnan\" kan du komma åt \"Bokbyggaren\" genom att trycka på knappen (+) längst ner till höger på skärmen.",
+                    "2": "Därifrån trycker du på alternativet \"skapa en bok\"."
+                },
+                "title": "Åtgärdsknapp"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "Använda \"Book Builder\"",
+            "ariaLabel": {
+                "expanded": "komprimera avsnittet med hjälp av bokbyggaren",
+                "collapsed": "öppna avsnittet med hjälp av bokbyggaren"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "En bok måste innehålla minst 1 sida, men har ingen övre gräns.",
+                    "2": "När du tar eller laddar upp en bild som ska användas för en sida kommer AI att användas för att extrahera texten från bilden. "
+                },
+                "title": "Boksidor"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "I \"Bokbyggaren\" kommer du att kunna ange flera attribut relaterade till boken.",
+                    "2": "Bokens titel, flera bilder, källinformation, förseningar, läsare och sidor kan alla specificeras här."
+                },
+                "title": "Bokbyggare"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "När alla fält i en bok har fyllts i måste boken sparas på enheten.",
+                    "2": "När du sparar kommer bokdatan att kontrolleras för att säkerställa att allt är giltigt; "
+                },
+                "title": "Spara en bok"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Bilder kan antingen tas med enhetens kamera, eller så kan de laddas från ditt galleri.",
+                    "2": "När en bild har valts kan den redigeras för att säkerställa att den ser så bra ut som möjligt.",
+                    "3": "Om du trycker på en befintlig bild visas bildknapparna."
+                },
+                "title": "Bokbilder"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Fördröjningar kan definieras som kommer att påverka uppspelningen av boken.",
+                    "2": "Dessa fördröjningar kan säkerställa att ljuduppspelningen inte låter för abrupt."
+                },
+                "title": "Boka förseningar"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "När en bok spelas upp automatiskt kan ett specifikt ljud spelas upp när en sida är klar och nästa sida är redo att börja.",
+                    "2": "En uppsättning fördefinierade ljud kan väljas eller ett anpassat ljud kan laddas upp eller spelas in."
+                },
+                "title": "Sidbyte ljud"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "En bok kan innehålla valfritt antal läsare.",
+                    "2": "Varje läsare kommer att spela in sig när de läser varje sida i boken och kommer därmed att vara tillgänglig för att läsa boken under bokuppspelning."
+                },
+                "title": "Bokläsare"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "Källinformation kan lämnas om boken.",
+                    "2": "Även om denna källinformation är valfri kan den hjälpa till att hålla reda på dina favorithistorier."
+                },
+                "title": "Bokens källinformation"
+            }
+        }
+    }
+}

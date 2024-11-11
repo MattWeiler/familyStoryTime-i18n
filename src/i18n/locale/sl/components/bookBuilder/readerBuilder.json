@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Izbirni zvok za predvajanje pred branjem prve strani.",
+        "label": {
+            "withDisplayName": "Uvodni zvok osebe %{readerDisplayName}",
+            "noDisplayName": "Uvodni zvok"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} uvod v bralca",
+            "noDisplayName": "bralnik z ID %{readerId} uvod"
+        }
+    },
+    "readerImage": {
+        "description": "Slika za prikaz za ta bralnik.",
+        "accessibleImageDisplayName": "slika bralca %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "S tem boste odstranili ves zvok strani, posnet za ta bralnik.",
+            "additionalMessage2": "TEGA NI MOGOČE RAZVELJAVITI!",
+            "title": "Potrditev izbrisa",
+            "message": {
+                "withDisplayName": "Ali ste prepričani, da želite izbrisati bralnik »%{readerDisplayName}«?",
+                "noDisplayName": "Ali ste prepričani, da želite izbrisati tega bralnika?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "odstranite bralnik %{readerDisplayName}",
+            "noDisplayName": "odstranite čitalnik z ID %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "prikazno ime za bralnik",
+                "noDisplayName": "prikazno ime za bralnik"
+            },
+            "title": {
+                "withDisplayName": "Posodobi prikazno ime",
+                "noDisplayName": "Nastavite prikazno ime"
+            },
+            "message": {
+                "withDisplayName": "V kaj želite spremeniti prikazno ime tega bralnika?",
+                "noDisplayName": "Kakšno je prikazno ime tega bralnika?"
+            },
+            "inputPlaceholder": "ime bralca"
+        },
+        "ariaLabel": {
+            "withDisplayName": "spremenite prikazno ime za bralnik %{readerDisplayName}",
+            "noDisplayName": "spremenite prikazno ime za bralnik z ID-jem %{readerId}"
+        }
+    }
+}

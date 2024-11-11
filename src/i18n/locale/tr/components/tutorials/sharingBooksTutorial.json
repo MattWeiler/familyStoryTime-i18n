@@ -1,0 +1,25 @@
+{
+    "summary": "Bir kitap oluşturduktan sonra onu aileniz ve arkadaşlarınızla paylaşabilirsiniz.",
+    "exporting": {
+        "messages": {
+            "1": "İçerik menüsü aracılığıyla tek bir kitabı veya birden fazla kitabı seçmek için uzun süre basılı tutarak aynı anda birden fazla kitabı dışa aktarabilirsiniz.",
+            "2": "Dışa aktarılacak kitapları seçtikten sonra, tam olarak nelerin dışa aktarılacağını seçebilirsiniz.",
+            "3": "Varsayılan olarak kitabın tamamı dışa aktarılacaktır, ancak kitap içeriğine hangi okuyucuların dahil edileceğini seçip seçebilir veya yalnızca belirli okuyucuları dışa aktarmayı seçebilirsiniz.",
+            "4": "Kaydettiğiniz okuyucu bilgilerini yalnızca kitaba sahip olan birine göndermek istediğinizde, yalnızca belirli okuyucuları dahil ederek paylaşmak için çok daha küçük bir dosya oluşturabilirsiniz."
+        },
+        "title": "Dışa aktarma"
+    },
+    "importingMerging": {"messages": {
+        "1": "Cihazınızda zaten yüklü olan bir kitabı içe aktarırken, içe aktarılan kitabın önceden yüklü olan kitabın üzerine mi yazılacağını yoksa birleştirme mi gerçekleştirileceğini seçebileceksiniz.",
+        "2": "Birleştirme sırasında, önceden yüklenmiş olan kitaba yalnızca seçilen okuyucular eklenecektir.",
+        "3": "Birleştirilen okuyucular cihazda zaten yüklüyse değiştirilecektir."
+    }},
+    "importing": {
+        "messages": {
+            "1": "\"Okuma Köşesi\" sayfasından ekranın sağ alt kısmındaki (+) butonuna bastığınızda \"kitapları içe aktar\" seçeneğini seçerek hangi kitapların içe aktarılacağını seçebilirsiniz.",
+            "2": "Alternatif olarak \"Family Story Time\" uygulamasına bir kitap dosyası gönderebilirsiniz.",
+            "3": "Cihazınızda yüklü olmayan bir kitabı içe aktardığınızda kitap yüklenecektir."
+        },
+        "title": "İthalat"
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "неуспешно зареждане на книги"},
+        "import": {"failure": "импортирането е неуспешно"},
+        "delete": {
+            "failure": "изтриването е неуспешно",
+            "success": "изтрита книга \u201e%{bookTitle}\u201c"
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "не успя да изтрие %{count} книги",
+                "one": "не успя да изтрие 1 книга"
+            },
+            "success": {
+                "other": "изтри %{count} книги",
+                "one": "изтри 1 книга"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "сортиране по брой страници в низходящ ред",
+                "descending": "сортиране по брой страници във възходящ ред"
+            }},
+            "searchField": {
+                "placeholder": "търсете вашите книги",
+                "ariaLabel": "търсете вашите книги"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Експортиране",
+                        "ariaLabel": "експортирайте избраните книги"
+                    },
+                    "delete": {
+                        "label": "Изтриване",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "не, не изтривай избраните книги"},
+                                "yes": {"ariaLabel": "да, изтрий избраните книги"}
+                            },
+                            "title": "Потвърдете изтриването",
+                            "message": {
+                                "other": "Сигурни ли сте, че искате да изтриете избраните %{count} книги?",
+                                "one": "Сигурни ли сте, че искате да изтриете избраната книга?"
+                            }
+                        },
+                        "ariaLabel": "изтрийте избраните книги"
+                    }
+                },
+                "ariaLabel": "отворете контекстното меню за избраните книги"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "сортиране по заглавие на книга в низходящ ред",
+                "descending": "сортиране по заглавие на книга във възходящ ред"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "сортирайте по брой читатели в низходящ ред",
+                "descending": "сортирайте по брой читатели във възходящ ред"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "намалете, за да видите повече елементи наведнъж",
+                "zoomedOut": "увеличете, за да видите по-големи изображения"
+            }}
+        },
+        "loadError": {
+            "text": "Неуспешно зареждане на книги.",
+            "ariaLabel": "неуспешно зареждане на книги"
+        },
+        "noBooksFound": {
+            "message": "Няма намерени книги :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Опитайте нашия",
+                    "linkName": "строител на книги"
+                },
+                "availableBooks": {
+                    "message": "Разгледайте нашите",
+                    "linkName": "книжарница"
+                }
+            }
+        }
+    },
+    "subtitle": "Нека се насладим на четенето на някои истории.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "създайте книга",
+                "ariaLabel": "създайте нова книга"
+            },
+            "importBooks": {
+                "label": "внос на книги",
+                "ariaLabel": "импортирайте една или повече книги"
+            },
+            "bookStore": {
+                "label": "посетете книжарницата",
+                "ariaLabel": "посетете нашата книжарница"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "затворете менюто за добавяне на книга",
+            "collapsed": "отворете менюто за добавяне на книга"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "изтриване...\n",
+            "one": "изтриване...\n",
+            "none": "изтриване..."
+        }},
+        "export": {"label": {
+            "other": "експортиране...\n",
+            "one": "експортиране...\n",
+            "none": "експортиране..."
+        }}
+    }},
+    "title": "Кът за четене",
+    "confirmations": {"deleteBook": {
+        "title": "Потвърждение за изтриване",
+        "message": "Сигурни ли сте, че искате да изтриете книгата \u201e%{bookTitle}?\u201c"
+    }}
+}

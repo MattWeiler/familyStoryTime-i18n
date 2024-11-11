@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "Bu işlem, bu cihazda yüklü olan tüm kitapların silinmesine neden olacaktır.\n\n",
+        "button": {
+            "label": "Silmek",
+            "title": "tüm kitapları sil",
+            "ariaLabel": "tüm kitapları sil"
+        },
+        "displayName": "Tüm Kitapları Sil",
+        "processingMessage": "siliniyor...",
+        "shortDescription": {
+            "disabled": "Tüm kitaplarınızı silin, ancak şu anda yüklü herhangi bir kitabınız yok.",
+            "enabled": "Tüm kitaplarınızı silin."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} WeilerHaus",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "Soğutucular",
+                "someFontsBy": "Yazı tipleri:"
+            },
+            "label": "Özel Teşekkür",
+            "icons": {
+                "ionicIcons": "İyonSimgeleri",
+                "someIconsBy": "Simgeler:",
+                "icons8": "Simgeler8",
+                "iconArchive": "Simge Arşivi"
+            }
+        },
+        "version": "Sürüm: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Bu resim düzenleyici, yeni kitap resimleri çekilirken veya mevcut bir kitap resmi düzenlenirken kullanılacaktır.",
+        "displayName": "Resim Düzenleyici",
+        "testLabel": "Test Görüntüsü Düzenleyicisi",
+        "testImage": {"accessibleImageDisplayName": "test görseli düzenleyici görseli"},
+        "options": {
+            "advanced": {
+                "label": "Gelişmiş",
+                "ariaLabel": "gelişmiş resim düzenleyiciyi kullanın"
+            },
+            "simple": {
+                "label": "Basit",
+                "ariaLabel": "basit resim düzenleyiciyi kullan"
+            }
+        },
+        "shortDescription": "Hangi resim düzenleyicinin kullanılması gerektiğini seçin.",
+        "ariaLabel": "hangi resim düzenleyicinin kullanılması gerektiğini seçin"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Bu ses, \"AI Reader\" okuyucusu kitap okurken kullanılacaktır.",
+        "displayName": "Tercih Edilen Ses",
+        "selectorButton": {
+            "defaultLabel": "varsayılan",
+            "ariaLabel": "bir \"AI Okuyucu\" sesi seçin"
+        },
+        "shortDescription": "\"AI Reader\" tarafından kullanılacak sesi seçin.",
+        "picker": {
+            "default": "varsayılan",
+            "networkActionIcon": {"ariaLabel": "yerel ve ağ tabanlı sesleri göster"},
+            "label": "AI Okuyucu Sesleri",
+            "ariaLabel": "bir \"AI Okuyucu\" sesi seçin",
+            "globalActionIcon": {"ariaLabel": "tüm dilleri göster"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Ses ve Video",
+        "ariaLabel": {
+            "expanded": "ses video seçimi bölümünü daralt",
+            "collapsed": "ses video seçimi bölümünü genişletin"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Bu görüntü kalitesi, cihazın kamera(lar)ı ile fotoğraf çekilirken kullanılacaktır.",
+        "slider": {
+            "highLabel": "Yüksek",
+            "ariaLabel": "resimlerin görüntü kalitesi",
+            "lowLabel": "Düşük"
+        },
+        "displayName": "Kamera Kalitesi %%{value}",
+        "testLabel": "Test Kamerası",
+        "testImage": {"accessibleImageDisplayName": "kamera kalitesinde görüntüyü test edin"},
+        "shortDescription": "Kamerayla çekilen resimlerin görüntü kalitesini seçin."
+    },
+    "title": "Ayarlar",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Silme Onayı",
+        "message": "Yüklü tüm kitapları silmek istediğinizden emin misiniz?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "Bu, yeni bir cihaza geçiş yaparken veya kitaplarınızı birden fazla cihaza eklerken faydalı olabilir.",
+        "button": {
+            "label": "İhracat",
+            "title": "tüm kitapları dışa aktar",
+            "ariaLabel": "tüm kitapları dışa aktar"
+        },
+        "displayName": "Tüm Kitapları Dışa Aktar",
+        "shortDescription": {
+            "disabled": "Tüm kitaplarınızı tek bir dosyaya aktarın ve kaydedin/paylaşın, ancak şu anda yüklü herhangi bir kitabınız yok.",
+            "enabled": "Tüm kitaplarınızı tek bir dosyaya aktarın ve kaydedin/paylaşın."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "silme başarısız oldu",
+        "success": {
+            "other": "%{count} kitap silindi",
+            "one": "1 kitabı sildim"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "Yapay Zeka Okuyucu",
+        "testLabel": "Sesi Test Et",
+        "testAriaLabel": {
+            "stopped": "\"AI Reader\" sesini test edin",
+            "playing": "\"AI Reader\" ses testini durdurun"
+        },
+        "testPhrase": "Merhaba, en sevdiğiniz hikayeleri sizinle birlikte okumayı çok isterim.",
+        "description": "Etkinleştirildiğinde \"AI Okuyucu\", kitapları oynatırken okuyucu olarak kullanılabilir.",
+        "ariaLabel": {
+            "expanded": "\"Yapay Zeka Okuyucu\" seçim bölümünü daraltın",
+            "collapsed": "\"Yapay Zeka Okuyucu\" seçim bölümünü genişletin",
+            "disabled": "\"AI Okuyucu\" devre dışı",
+            "enabled": "\"AI Okuyucu\" etkin"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "Bu, \"AI Reader\" okuyucusu kitap okurken kullanılan sesin perdesini belirtir.",
+        "slider": {
+            "highLabel": "Yüksek",
+            "ariaLabel": "\"AI Reader\"ın ses perdesi",
+            "lowLabel": "Düşük"
+        },
+        "displayName": "Ses Yüksekliği %%{value}",
+        "shortDescription": "\"AI Reader\" tarafından kullanılacak sesin perdesini seçin."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Bu ses kalitesi, cihazın mikrofonuyla kayıt yaparken kullanılacaktır.",
+        "displayName": "Mikrofon Kalitesi",
+        "testLabel": "Mikrofonu Test Et",
+        "options": {
+            "high": {
+                "label": "Yüksek",
+                "ariaLabel": "yüksek ses kalitesi kullanın"
+            },
+            "low": {
+                "label": "Düşük",
+                "ariaLabel": "düşük ses kalitesi kullan"
+            }
+        },
+        "shortDescription": "Mikrofonla çekilen kayıtların ses kalitesini seçin.",
+        "ariaLabel": "mikrofonla çekilen kayıtların ses kalitesini seçin",
+        "testAudioSelector": {"accessibleAudioDisplayName": "mikrofon kalitesini test edin"}
+    },
+    "subtitle": "Uygulama ayarlarınızı burada güncelleyin.",
+    "themeSelection": {
+        "longDescription": "Burada bir tema seçilirse, sahip olduğunuz cihaz tema ayarlarını geçersiz kılacaktır.",
+        "displayName": "Tema Seçimi",
+        "options": {
+            "default": {
+                "label": "Sistem",
+                "ariaLabel": "sistem tanımlı temayı kullan"
+            },
+            "light": {
+                "label": "Işık",
+                "ariaLabel": "ışık temasını kullan"
+            },
+            "dark": {
+                "label": "Karanlık",
+                "ariaLabel": "karanlık temayı kullan"
+            }
+        },
+        "shortDescription": "Uygulama tarafından kullanılması gereken temayı seçin.",
+        "ariaLabel": "uygulama tarafından kullanılması gereken temayı seçin"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "Bu, \"Yapay Zeka Okuyucu\" okuyucunun kitap okurken kullandığı sesin hızını belirtir.",
+        "slider": {
+            "highLabel": "Hızlı",
+            "ariaLabel": "\"AI Reader\"ın konuşma hızı",
+            "lowLabel": "Yavaş"
+        },
+        "displayName": "Konuşma Hızı %%{value}",
+        "shortDescription": "\"AI Reader\" tarafından kullanılacak ses hızını seçin."
+    },
+    "parentalLocking": {
+        "longDescription": "Etkinleştirildiğinde, uygulamadaki gelişmiş özelliklerin kilidini açmak için cihaz sahibinin biyometrik verileri gerekir.",
+        "displayName": "Ebeveyn Kilitleme",
+        "shortDescription": "Ebeveyn kilitleme, çocuklar uygulamayı kullanırken faydalı olabilir.",
+        "ariaLabel": {
+            "disabled": "ebeveyn kilitleme devre dışı",
+            "enabled": "ebeveyn kilitleme etkin"
+        }
+    }
+}

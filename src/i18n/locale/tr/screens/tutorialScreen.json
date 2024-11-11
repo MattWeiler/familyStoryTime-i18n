@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Bize Geri Bildirim Vermek"},
+        "intro": {"displayName": "giriiş"},
+        "createBooks": {"displayName": "Kitap Oluşturma"},
+        "parentalLocking": {"displayName": "Ebeveyn Kilitleme"},
+        "sharingBooks": {"displayName": "Kitapları Paylaşmak"},
+        "bookPlayback": {"displayName": "Kitap Oynamak"},
+        "bookStore": {"displayName": "Kitapçı"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "%{pageName} sayfasını görüntüle"},
+        "backPageButton": {"ariaLabel": "1 sayfa geri dön"},
+        "forwardPageButton": {"ariaLabel": "1 sayfa ileri git"}
+    },
+    "startLink": {
+        "label": "Başlayın",
+        "ariaLabel": "ana sayfaya git"
+    }
+}

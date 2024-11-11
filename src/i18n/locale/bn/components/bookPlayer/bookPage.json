@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "অডিও চালান",
+            "ariaLabel": "অডিও চালান"
+        },
+        "playing": {
+            "title": "অডিও বিরতি",
+            "ariaLabel": "অডিও বিরতি"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "পুরো ছবিটি দেখাতে জুম আউট করুন, পাশে কালো বার থাকতে পারে",
+        "zoomedOut": "পুরো স্ক্রীনটি ইমেজ দিয়ে পূর্ণ হয়েছে তা নিশ্চিত করতে জুম ইন করুন, কিছু চিত্র দৃশ্যমান নাও হতে পারে"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "আগের পৃষ্ঠায় যান",
+            "ariaLabel": "আগের পৃষ্ঠায় যান"
+        },
+        "noPreviousPage": {
+            "title": "বই নির্বাচনে ফিরে যান",
+            "ariaLabel": "বই নির্বাচনে ফিরে যান"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "পরবর্তী পৃষ্ঠায় যান",
+            "ariaLabel": "পরবর্তী পৃষ্ঠায় যান"
+        },
+        "noNextPage": {
+            "title": "বই নির্বাচনে ফিরে যান",
+            "ariaLabel": "বই নির্বাচনে ফিরে যান"
+        }
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "Tímto smažete všechny knihy nainstalované v tomto zařízení.\n\n",
+        "button": {
+            "label": "Vymazat",
+            "title": "smazat všechny knihy",
+            "ariaLabel": "smazat všechny knihy"
+        },
+        "displayName": "Smazat všechny knihy",
+        "processingMessage": "mazání...",
+        "shortDescription": {
+            "disabled": "Smažte všechny své knihy, ale aktuálně nemáte nainstalované žádné knihy.",
+            "enabled": "Smažte všechny své knihy."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} WeilerHaus",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "Chladiče",
+                "someFontsBy": "Písma od:"
+            },
+            "label": "Zvláštní poděkování",
+            "icons": {
+                "ionicIcons": "IonIcons",
+                "someIconsBy": "Ikony od:",
+                "icons8": "Ikony8",
+                "iconArchive": "Archiv ikon"
+            }
+        },
+        "version": "Verze: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Tento editor obrázků se použije při pořizování nových obrázků knihy nebo při úpravě obrázku existující knihy.",
+        "displayName": "Editor obrázků",
+        "testLabel": "Testovací editor obrázků",
+        "testImage": {"accessibleImageDisplayName": "testovací obrázek editoru obrázků"},
+        "options": {
+            "advanced": {
+                "label": "Moderní",
+                "ariaLabel": "použijte pokročilý editor obrázků"
+            },
+            "simple": {
+                "label": "Jednoduchý",
+                "ariaLabel": "použijte jednoduchý editor obrázků"
+            }
+        },
+        "shortDescription": "Vyberte, který editor obrázků chcete použít.",
+        "ariaLabel": "vyberte, který editor obrázků se má použít"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Tento hlas bude použit, když čtečka \u201eAI Reader\u201c čte knihy.",
+        "displayName": "Preferovaný hlas",
+        "selectorButton": {
+            "defaultLabel": "výchozí",
+            "ariaLabel": "vyberte hlas \u201eAI Reader\u201c."
+        },
+        "shortDescription": "Vyberte hlas, který má \u201eAI Reader\u201c používat.",
+        "picker": {
+            "default": "výchozí",
+            "networkActionIcon": {"ariaLabel": "zobrazit místní a síťové hlasy"},
+            "label": "Hlasy AI Reader",
+            "ariaLabel": "vyberte hlas \u201eAI Reader\u201c.",
+            "globalActionIcon": {"ariaLabel": "zobrazit všechny jazyky"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Audio & Video",
+        "ariaLabel": {
+            "expanded": "sbalit sekci pro výběr zvuku a videa",
+            "collapsed": "rozbalte část výběru audio a video"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Tato kvalita obrazu bude použita při pořizování snímků fotoaparátem(y) zařízení.",
+        "slider": {
+            "highLabel": "Vysoký",
+            "ariaLabel": "obrazová kvalita obrázků",
+            "lowLabel": "Nízký"
+        },
+        "displayName": "Kvalita fotoaparátu %{value} %",
+        "testLabel": "Testovací fotoaparát",
+        "testImage": {"accessibleImageDisplayName": "test kvality obrazu fotoaparátu"},
+        "shortDescription": "Vyberte kvalitu obrazu snímků pořízených fotoaparátem."
+    },
+    "title": "Nastavení",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Potvrzení smazání",
+        "message": "Opravdu chcete smazat všechny nainstalované knihy?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "To může být užitečné při migraci na nové zařízení nebo přidávání knih do více zařízení.",
+        "button": {
+            "label": "Vývozní",
+            "title": "exportovat všechny knihy",
+            "ariaLabel": "exportovat všechny knihy"
+        },
+        "displayName": "Exportovat všechny knihy",
+        "shortDescription": {
+            "disabled": "Exportujte všechny své knihy do jednoho souboru a uložte/sdílejte jej, ale aktuálně nemáte nainstalované žádné knihy.",
+            "enabled": "Exportujte všechny své knihy do jednoho souboru a uložte/sdílejte jej."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "smazání se nezdařilo",
+        "success": {
+            "other": "smazal %{count} knih",
+            "one": "smazal 1 knihu"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "AI Reader",
+        "testLabel": "Testovací hlas",
+        "testAriaLabel": {
+            "stopped": "otestujte hlas \u201eAI Reader\u201c.",
+            "playing": "zastavte hlasový test \"AI Reader\"."
+        },
+        "testPhrase": "Dobrý den, ráda bych si s vámi přečetla vaše oblíbené příběhy.",
+        "description": "Když je tato možnost povolena, \u201eAI Reader\u201c bude k dispozici jako čtečka při přehrávání knih.",
+        "ariaLabel": {
+            "expanded": "sbalte sekci výběru \"AI Reader\".",
+            "collapsed": "rozbalte sekci výběru \"AI Reader\".",
+            "disabled": "\"AI Reader\" je zakázán",
+            "enabled": "\"AI Reader\" je povolen"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "Označuje výšku hlasu, který se používá, když čtečka \u201eAI Reader\u201c čte knihy.",
+        "slider": {
+            "highLabel": "Vysoký",
+            "ariaLabel": "výška hlasu \"AI Reader\"",
+            "lowLabel": "Nízký"
+        },
+        "displayName": "Výška hlasu %{value} %",
+        "shortDescription": "Vyberte výšku hlasu, kterou má \u201eAI Reader\u201c použít."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Tato kvalita zvuku bude použita při nahrávání pomocí mikrofonu zařízení.",
+        "displayName": "Kvalita mikrofonu",
+        "testLabel": "Testovací mikrofon",
+        "options": {
+            "high": {
+                "label": "Vysoký",
+                "ariaLabel": "používat vysokou kvalitu zvuku"
+            },
+            "low": {
+                "label": "Nízký",
+                "ariaLabel": "používat nízkou kvalitu zvuku"
+            }
+        },
+        "shortDescription": "Vyberte kvalitu zvuku nahrávek pořízených mikrofonem.",
+        "ariaLabel": "vyberte kvalitu zvuku záznamů pořízených mikrofonem",
+        "testAudioSelector": {"accessibleAudioDisplayName": "test kvality mikrofonu"}
+    },
+    "subtitle": "Zde aktualizujte nastavení aplikace.",
+    "themeSelection": {
+        "longDescription": "Pokud zde vyberete motiv, přepíše všechna nastavení motivu zařízení, která máte.",
+        "displayName": "Výběr motivu",
+        "options": {
+            "default": {
+                "label": "Systém",
+                "ariaLabel": "použít téma definované systémem"
+            },
+            "light": {
+                "label": "Světlo",
+                "ariaLabel": "použijte světlé téma"
+            },
+            "dark": {
+                "label": "Tmavý",
+                "ariaLabel": "použít tmavé téma"
+            }
+        },
+        "shortDescription": "Vyberte motiv, který má aplikace používat.",
+        "ariaLabel": "vyberte motiv, který má aplikace používat"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "Označuje rychlost hlasu, který se používá, když čtečka \u201eAI Reader\u201c čte knihy.",
+        "slider": {
+            "highLabel": "Rychle",
+            "ariaLabel": "rychlost řeči \"AI Reader\"",
+            "lowLabel": "Pomalý"
+        },
+        "displayName": "Rychlost řeči %{value} %",
+        "shortDescription": "Vyberte rychlost hlasu, kterou bude používat \"AI Reader\"."
+    },
+    "parentalLocking": {
+        "longDescription": "Je-li tato možnost povolena, jsou k odemknutí pokročilých funkcí v aplikaci vyžadována biometrická data vlastníků zařízení.",
+        "displayName": "Rodičovský zámek",
+        "shortDescription": "Rodičovský zámek může být užitečný, když aplikaci používají děti.",
+        "ariaLabel": {
+            "disabled": "rodičovský zámek je zakázán",
+            "enabled": "je povolen rodičovský zámek"
+        }
+    }
+}

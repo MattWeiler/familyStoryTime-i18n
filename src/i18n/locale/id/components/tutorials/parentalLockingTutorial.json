@@ -1,0 +1,34 @@
+{
+    "summary": "Sebelum menyerahkan perangkat Anda kepada anak Anda, Anda dapat mengunci aplikasi untuk mencegah anak-anak menghapus buku apa pun atau membuat perubahan lainnya.",
+    "enabling": {
+        "messages": {
+            "1": "Untuk mengaktifkan fitur penguncian orang tua, buka menu hamburger dan tekan ikon buka kunci di kanan atas.",
+            "2": "Ini akan meminta Anda untuk memberikan konfirmasi biometrik yang akan menginisialisasi fitur penguncian orang tua.",
+            "3": "Sekarang fitur penguncian orang tua telah diaktifkan, menekan ikon kunci terbuka akan mengunci aplikasi.",
+            "4": "Jika fitur penguncian orang tua diaktifkan, setiap kali aplikasi diluncurkan, aplikasi akan berada dalam mode terkunci."
+        },
+        "title": "Aktifkan Kunci Orang Tua"
+    },
+    "disabling": {
+        "messages": {
+            "1": "Untuk menonaktifkan fitur penguncian orang tua, buka menu hamburger dan tekan item pengaturan di bagian bawah.",
+            "2": "Pada halaman pengaturan, batalkan pilihan fitur \"Penguncian Orang Tua\"."
+        },
+        "title": "Nonaktifkan Kunci Orang Tua"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Ketika aplikasi dikunci, beberapa fitur aplikasi tidak akan ditampilkan seperti menu konteks atau tombol yang memungkinkan Anda menambah/menghapus buku.",
+            "2": "Ini menempatkan aplikasi ke mode baca-saja yang aman digunakan oleh anak-anak.",
+            "3": "Untuk mengakses fitur-fitur tersembunyi tersebut, Anda harus membuka kunci aplikasi."
+        },
+        "title": "Fitur Terkunci"
+    },
+    "locked": {
+        "messages": {
+            "1": "Untuk membuka kunci aplikasi, buka menu hamburger dan tekan ikon kunci tertutup di kanan atas.",
+            "2": "Ini akan meminta Anda memberikan konfirmasi biometrik yang akan membuka kunci aplikasi."
+        },
+        "title": "Buka Kunci Aplikasi"
+    }
+}

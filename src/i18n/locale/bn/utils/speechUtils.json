@@ -1,0 +1,11 @@
+{
+    "voiceDisplayName": {
+        "networkVoice": "[%{voiceLanguage}] %{voiceName} (%{voiceQuality}) [নেটওয়ার্ক]",
+        "localVoice": "[%{voiceLanguage}] %{voiceName} (%{voiceQuality})"
+    },
+    "simpleVoiceDisplayName": "[%{voiceLanguage}] %{voiceName}",
+    "voiceQuality": {
+        "enhanced": "উন্নত",
+        "default": "মৌলিক"
+    }
+}

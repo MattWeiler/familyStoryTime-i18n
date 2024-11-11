@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "একটি নমুনা শুনতে ছাঁটা অডিও চালান"},
+    "playbackPositionLabel": "প্লেব্যাক অবস্থান",
+    "discardButton": {
+        "label": "বাতিল করুন",
+        "title": "ছাঁটা অডিও বাতিল করুন",
+        "ariaLabel": "ছাঁটা অডিও বাতিল করুন"
+    },
+    "saveButton": {
+        "label": "সংরক্ষণ করুন",
+        "title": "ছাঁটা অডিও ব্যবহার করুন",
+        "ariaLabel": "ছাঁটা অডিও ব্যবহার করুন"
+    }
+}

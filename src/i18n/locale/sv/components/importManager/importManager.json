@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "importen körs redan, försök igen senare",
+        "download": {"failed": "misslyckades med att ladda ned \"%{bookName}\"."},
+        "install": {
+            "failed": "misslyckades med att importera \"%{bookName}\"",
+            "successful": "\"%{bookName}\" har importerats"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Avboka",
+            "ariaLabel": "avbryta importen"
+        },
+        "install": {
+            "textLabel": "Installera",
+            "ariaLabel": "installera valda böcker: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "analyserar...",
+        "downloading": "laddar ner ...",
+        "installing": "installerar...",
+        "cancelling": "avbryter..."
+    },
+    "nothingToInstall": "Inget att importera :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Den här läsaren är redan en del av den installerade boken.\n\n"},
+            "checkbox": {"ariaLabel": "för att inkludera läsaren %{readerDisplayName} i importen"}
+        },
+        "checkbox": {"ariaLabel": "för att inkludera %{bookName} bok i importen"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Den här boken finns redan på din enhet.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Om du väljer att skriva över kommer den nuvarande boken att ersättas med den nya.\n\n"},
+                    "noReaders": {"label": "Den här boken finns redan på din enhet.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Den här filen innehåller bara ljud och boken är inte installerad på din enhet.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Den här boken finns inte på din enhet.\n\n"},
+                    "noReaders": {"label": "Den här boken finns inte på din enhet.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "slå ihop",
+                    "ariaLabel": "slå samman boken %{bookName} genom att lägga till nya läsare och skriva över befintliga läsare med nya läsare"
+                },
+                "overwrite": {
+                    "label": "skriva över",
+                    "ariaLabel": "skriv över befintlig bok %{bookName}"
+                }
+            },
+            "ariaLabel": "välj vilken importstrategi som ska användas för bok %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "avbryt inte importen"},
+            "yes": {"ariaLabel": "avbryta importen"}
+        },
+        "title": "Bekräfta Avbryt import",
+        "message": "Är du säker på att du vill avbryta importen?"
+    }},
+    "titles": {
+        "booksToInstall": "Böcker att installera",
+        "failedToInstall": "Det gick inte att installera böcker"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "add": "Ikkuppaa",
+    "cancel": "taamaatippaa",
+    "no": "Naamik",
+    "verifying": "uppernarsaaneq ...",
+    "set": "Inissippoq",
+    "yes": "Aap",
+    "back": "Kingumut",
+    "loading": "ikkussineq ...",
+    "required": "piumasaqaataasoq",
+    "acknowledgeError": "kukkuneq tunniussassavat",
+    "saving": "sipaarniarneq ...",
+    "settingsButton": {
+        "text": "Inniminniinerit",
+        "ariaLabel": "applikationit inissititerneqarnerannut quppernermut iserit"
+    },
+    "backButton": {
+        "label": "Kingumut",
+        "title": "quppernermut kingullermut uteqqigit",
+        "ariaLabel": "quppernermut kingullermut uteqqigit"
+    },
+    "sending": "nassiussineq ...",
+    "create": "Pilersitaq",
+    "ok": "Ok"
+}

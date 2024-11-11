@@ -1,0 +1,25 @@
+{
+    "summary": "Tar éis duit leabhar a chruthú, is féidir leat é a roinnt le teaghlach agus cairde.",
+    "exporting": {
+        "messages": {
+            "1": "Is féidir leat leabhar amháin a easpórtáil, trína roghchlár comhthéacs, nó roinnt leabhar ag an am céanna, trí choinneáil fada chun níos mó ná leabhar iolrach a roghnú.",
+            "2": "Nuair a bheidh an leabhar/na leabhair roghnaithe agat le heaspórtáil, is féidir leat a roghnú go díreach cad ba cheart a onnmhairiú.",
+            "3": "De réir réamhshocraithe, easpórtálfar an leabhar ar fad, ach is féidir leat na léitheoirí atá le cur san áireamh le hábhar an leabhair a phiocadh agus a roghnú nó is féidir leat a roghnú chun léitheoirí sonracha a onnmhairiú amháin.",
+            "4": "Nuair nach bhfuil uait ach an fhaisnéis léitheora a thaifead tú a sheoladh chuig duine a bhfuil an leabhar aige cheana féin, is féidir leat comhad i bhfad níos lú a chruthú le roinnt tríd an léitheoir/léitheoirí ar leith a áireamh."
+        },
+        "title": "Easpórtáil"
+    },
+    "importingMerging": {"messages": {
+        "1": "Agus leabhar á iompórtáil agat atá suiteáilte cheana féin ar do ghléas, beidh tú in ann a roghnú ar cheart don leabhar iompórtála an leabhar atá suiteáilte cheana féin a fhorscríobh nó ar cheart cumasc a dhéanamh.",
+        "2": "Nuair a dhéantar cumasc, ní chuirfear ach na léitheoirí roghnaithe leis an leabhar atá suiteáilte cheana féin.",
+        "3": "Má tá na léitheoirí sin atá á gcumasc suiteáilte cheana féin ar an bhfeiste, cuirfear in ionad iad."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Ón leathanach \"Cúinne Léitheoireachta\", is féidir leat na leabhair atá le hiompórtáil a roghnú tríd an rogha \"leabhair allmhairithe\" a roghnú nuair a bhrúnn tú an cnaipe (+) ag bun na láimhe deise den scáileán.",
+            "2": "Nó, is féidir leat comhad leabhar a sheoladh chuig an bhfeidhmchlár \"Family Story Time\".",
+            "3": "Nuair a bheidh leabhar á iompórtáil nach bhfuil suiteáilte ar do ghléas cheana féin, déanfar an leabhar a shuiteáil."
+        },
+        "title": "Iompórtáil"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "hayır, Mevcut kitabı kaldırmayın",
+            "yesButtonAriaLabel": "evet, mevcut kitabı kaldır",
+            "title": "Onayı Kaldırma",
+            "message": "Bu mevcut kitabı kaldırmak istediğinizden emin misiniz?\n"
+        },
+        "ariaLabel": "mevcut %{bookName} kitabını kaldır"
+    },
+    "books": {
+        "badges": {"free": "özgür"},
+        "newerVersionAvailableMessage": "Güncelleme Mevcut"
+    },
+    "subtitle": "Okuyacak güzel hikayeler bulalım.",
+    "loadingFailedMessage": "Mevcut kitaplar yüklenemedi.\n",
+    "title": "Kitapçı",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "hayır, mevcut kitabı yükleme",
+            "yesButtonAriaLabel": "evet, mevcut kitabı yükle",
+            "title": "Onayı Yükle",
+            "message": "Bu mevcut kitabı yüklemek istediğinizden emin misiniz?\nBunu yapmak %{fileSize} veri kullanacaktır."
+        },
+        "ariaLabel": "mevcut kitabı yükle %{bookName}"
+    }
+}

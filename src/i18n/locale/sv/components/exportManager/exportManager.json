@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "exporten körs redan, försök igen senare"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "Avboka",
+            "ariaLabel": "avbryta exporten"
+        },
+        "export": {
+            "textLabel": "Exportera",
+            "ariaLabel": "exportera valda böcker"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "Spara dina %{count} böcker",
+        "one": "Spara bok: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "analyserar...",
+        "packaging": "förpackning...",
+        "cancelling": "avbryter..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "läsare",
+                    "ariaLabel": "exportera endast läsarinformationen för boken %{bookTitle}"
+                },
+                "full": {
+                    "label": "full",
+                    "ariaLabel": "exportera hela boken %{bookTitle}"
+                }
+            },
+            "ariaLabel": "välj hur boken ska exporteras %{bookTitle}"
+        },
+        "readers": {"checkbox": {"ariaLabel": "för att inkludera läsaren %{readerDisplayName} i exporten"}},
+        "checkbox": {"ariaLabel": "för att inkludera boken %{bookTitle} i exporten"},
+        "bookReadersTooltip": {"label": "Om du väljer alternativet \"läsare\" exporteras endast de valda läsarna.\n\n"}
+    },
+    "packagedMultiBookFileName": "Böcker",
+    "nothingToExport": "Inget att exportera :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "avbryt inte exporten"},
+            "yes": {"ariaLabel": "avbryta exporten"}
+        },
+        "title": "Bekräfta Avbryt export",
+        "message": "Är du säker på att du vill avbryta exporten?"
+    }},
+    "titles": {
+        "booksToExport": "Böcker att exportera",
+        "failedToExport": "Det gick inte att exportera böcker"
+    },
+    "outputFilenameField": {
+        "label": "Utdatafilnamn",
+        "ariaLabel": "förväntat utdatafilnamn"
+    },
+    "errors": {"invalidOutputFilename": "ogiltigt filnamn"}
+}

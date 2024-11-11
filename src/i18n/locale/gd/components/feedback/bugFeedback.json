@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "chan eil taic ri post-d",
+        "submissionFailed": "dh'fhàillig cur air bug",
+        "submissionSuccess": "bug air a chuir"
+    },
+    "submitButton": {
+        "text": "Cuir a-steach Bug",
+        "ariaLabel": "cuir a-steach am bug"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Cuir ris an leabhar(an) a dh\u2019 fhaodadh a bhith ag adhbhrachadh na cùise.",
+            "label": "Leabhraichean ri cheangal"
+        },
+        "loadFailed": "dh'fhàillig luchdachadh leabhraichean",
+        "noBooksInstalled": "chan eil leabhraichean air an stàladh",
+        "picker": {
+            "header": "Tagh Leabhar(ean)",
+            "ariaLabel": "tagh dè na leabhraichean a bu chòir a bhith ceangailte ri fios air ais air bug"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "atharraich na leabhraichean a tha ceangailte ris an fhios-air-ais agad air bug"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Feuch an toir thu beagan mion-fhiosrachaidh mun bhug.",
+        "description": "Thoir seachad mion-fhiosrachadh mun bhug.",
+        "label": "Mion-fhiosrachadh Bug",
+        "ariaLabel": "tuairisgeul air a\u2019 bhiast"
+    }
+}

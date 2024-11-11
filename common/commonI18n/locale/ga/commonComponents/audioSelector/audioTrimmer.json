@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "seinm an fhuaim ghearrtha chun sampla a chloisteáil"},
+    "playbackPositionLabel": "Staid Athsheinm",
+    "discardButton": {
+        "label": "Caith amach",
+        "title": "caith an fhuaim bearrtha",
+        "ariaLabel": "caith an fhuaim bearrtha"
+    },
+    "saveButton": {
+        "label": "Sábháil",
+        "title": "úsáid an fhuaim bearrtha",
+        "ariaLabel": "úsáid an fhuaim bearrtha"
+    }
+}

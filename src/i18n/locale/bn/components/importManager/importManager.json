@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "আমদানি ইতিমধ্যে চলছে, পরে আবার চেষ্টা করুন",
+        "download": {"failed": "\"%{bookName}\" ডাউনলোড করতে ব্যর্থ হয়েছে৷"},
+        "install": {
+            "failed": "\"%{bookName}\" আমদানি করতে ব্যর্থ হয়েছে",
+            "successful": "\"%{bookName}\" সফলভাবে আমদানি করা হয়েছে"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "বাতিল করুন",
+            "ariaLabel": "আমদানি বাতিল করুন"
+        },
+        "install": {
+            "textLabel": "ইনস্টল করুন",
+            "ariaLabel": "নির্বাচিত বই ইনস্টল করুন: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "বিশ্লেষণ...",
+        "downloading": "ডাউনলোড হচ্ছে...",
+        "installing": "ইনস্টল করা হচ্ছে...",
+        "cancelling": "বাতিল হচ্ছে..."
+    },
+    "nothingToInstall": "আমদানি করার কিছু নেই :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "এই পাঠক ইতিমধ্যেই ইনস্টল করা বইয়ের অংশ৷\n\n"},
+            "checkbox": {"ariaLabel": "আমদানিতে পাঠক %{readerDisplayName} অন্তর্ভুক্ত করতে"}
+        },
+        "checkbox": {"ariaLabel": "আমদানিতে %{bookName} বই অন্তর্ভুক্ত করতে"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "এই বইটি ইতিমধ্যেই আপনার ডিভাইসে রয়েছে৷\n\n"},
+                "full": {
+                    "withReaders": {"label": "আপনি যদি ওভাররাইট করতে চান তবে বর্তমান বইটি নতুনটির সাথে প্রতিস্থাপিত হবে৷\n\n"},
+                    "noReaders": {"label": "এই বইটি ইতিমধ্যেই আপনার ডিভাইসে রয়েছে৷\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "এই ফাইলটিতে শুধুমাত্র অডিও রয়েছে এবং বইটি আপনার ডিভাইসে ইনস্টল করা নেই৷\n\n"},
+                "full": {
+                    "withReaders": {"label": "এই বইটি আপনার ডিভাইসে নেই।\n\n"},
+                    "noReaders": {"label": "এই বইটি আপনার ডিভাইসে নেই।\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "একত্রিত করা",
+                    "ariaLabel": "নতুন পাঠক যোগ করে এবং বিদ্যমান পাঠকদের নতুন পাঠকদের সাথে ওভাররাইট করে বইটি %{bookName} একত্রিত করুন"
+                },
+                "overwrite": {
+                    "label": "ওভাররাইট",
+                    "ariaLabel": "বিদ্যমান বইটি ওভাররাইট করুন %{bookName}"
+                }
+            },
+            "ariaLabel": "বইয়ের জন্য কি আমদানি কৌশল ব্যবহার করতে হবে তা নির্বাচন করুন %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "আমদানি বাতিল করবেন না"},
+            "yes": {"ariaLabel": "আমদানি বাতিল করুন"}
+        },
+        "title": "আমদানি বাতিল নিশ্চিত করুন",
+        "message": "আপনি কি নিশ্চিত আপনি আমদানি বাতিল করতে চান?"
+    }},
+    "titles": {
+        "booksToInstall": "ইনস্টল করার জন্য বই",
+        "failedToInstall": "বই ইনস্টল করতে ব্যর্থ"
+    }
+}

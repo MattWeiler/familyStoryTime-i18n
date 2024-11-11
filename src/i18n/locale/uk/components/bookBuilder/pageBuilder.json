@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "сторінка %{pageNum} зображення"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Перескануйте текст сторінки",
+                "message": "Ви впевнені, що бажаєте відсканувати зображення на наявність тексту та замінити наявний текст сторінки?"
+            },
+            "ariaLabel": "витягти текст із зображення для сторінки %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "текст для додавання на сторінку %{pageNum}",
+                    "withPageText": "текст для оновлення на сторінці %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Установити текст сторінки",
+                    "withPageText": "Оновити текст сторінки"
+                },
+                "message": {
+                    "noPageText": "Що таке текст сторінки?",
+                    "withPageText": "На що ви хочете змінити текст сторінки?"
+                },
+                "inputPlaceholder": "текст для додавання"
+            },
+            "ariaLabel": "редагувати текст \"%{pageText}\" зі сторінки %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "перемістити текст \"%{pageText}\" зі сторінки %{pageNum} вгору"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Підтвердження видалення",
+                "message": "Ви впевнені, що хочете видалити цей текст сторінки?"
+            },
+            "ariaLabel": "видалити текст \"%{pageText}\" зі сторінки %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "текст для додавання на сторінку %{pageNum}",
+                "title": "Установити текст сторінки",
+                "message": "Що таке текст сторінки?",
+                "inputPlaceholder": "текст для додавання"
+            },
+            "ariaLabel": "додати новий текст до сторінки %{pageNum}"
+        },
+        "label": "текст",
+        "showHideButton": {"ariaLabel": {
+            "visible": "приховати текст \"%{pageText}\" на сторінці %{pageNum}",
+            "hidden": "показати текст \"%{pageText}\" зі сторінки %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "перемістити текст \"%{pageText}\" зі сторінки %{pageNum} вниз"}
+    },
+    "moveUpButton": {"ariaLabel": "перемістити сторінку %{pageNum} вгору"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "Аудіо для відтворення, коли \"%{readerDisplayName}\" читає сторінку %{pageNum}.",
+                "noDisplayName": "Аудіо, яке відтворюється, коли цей читач читає сторінку %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "сторінка %{pageNum} %{readerDisplayName} читача"
+        },
+        "label": "Читачі"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Це призведе до видалення всіх аудіофайлів, записаних для цієї сторінки.",
+            "additionalMessage2": "ЦЕ НЕ МОЖНА СКАСУВАТИ!",
+            "title": "Підтвердження видалення",
+            "message": "Ви впевнені, що бажаєте видалити сторінку %{pageNum}?"
+        },
+        "ariaLabel": "видалити сторінку %{pageNum}"
+    },
+    "description": "Зображення для відображення на сторінці %{pageNum}.",
+    "label": "Сторінка %{pageNum}",
+    "moveDownButton": {"ariaLabel": "перемістити сторінку %{pageNum} вниз"}
+}

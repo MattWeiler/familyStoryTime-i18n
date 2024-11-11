@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "cartea salvată \u201e%{bookTitle}\u201d",
+        "validationFailed": "validarea a eșuat",
+        "bookSaveFailed": "nu a salvat cartea"
+    },
+    "bookTitleInput": {
+        "description": "Titlul cărții.",
+        "label": "Titlul cărții",
+        "placeholder": "titlul cărții",
+        "ariaLabel": "titlul cărții"
+    },
+    "readers": {
+        "label": "Cititorii",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "numele afișat pentru acest nou cititor",
+                "buttons": {
+                    "cancel": {"ariaLabel": "anulați adăugarea noului cititor"},
+                    "add": {"ariaLabel": "adăugați noul cititor"}
+                },
+                "description": "Vă rugăm să furnizați numele afișat pentru acest nou cititor.",
+                "title": "Adăugați un cititor nou",
+                "inputPlaceholder": "numele cititorului"
+            },
+            "ariaLabel": "adăugați un cititor nou"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Numărul de milisecunde de așteptat înainte de redarea paginii modifică sunetul.",
+            "label": "Înainte de schimbarea paginii audio",
+            "placeholder": "milisecunde înainte de a reda pagina, schimbați audio",
+            "ariaLabel": "milisecunde de așteptat înainte de a reda sunetul pentru schimbarea paginii"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Numărul de milisecunde de așteptat după redarea paginii modifică sunetul.",
+            "label": "După schimbarea paginii Audio",
+            "placeholder": "milisecunde după redarea paginii, schimbă audio",
+            "ariaLabel": "milisecunde de așteptat după redarea sunetului de modificare a paginii"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Numărul de milisecunde de așteptat înainte de redarea audio a paginii.",
+            "label": "Înainte de pagină Audio",
+            "placeholder": "milisecunde înainte de redarea audio a paginii",
+            "ariaLabel": "milisecunde de așteptat înainte de a reda conținutul audio al paginii"
+        },
+        "label": "Întârzieri"
+    },
+    "bookIconImageSelector": {
+        "description": "Imaginea care va fi folosită ca pictogramă pentru carte.",
+        "label": "Pictograma carte",
+        "accessibleImageDisplayName": "pictograma cărții"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "Imaginea care va fi afișată la prima lansare a cărții.",
+        "label": "Carte Splash Imagine",
+        "accessibleImageDisplayName": "stropi de carte"
+    },
+    "confirmations": {"goBack": {
+        "title": "Lasă modificări",
+        "message": "Ești sigur că vrei să pleci înainte de a salva?"
+    }},
+    "pageChangeAudio": {
+        "description": "Sunetul de redat când este timpul să schimbați pagina.",
+        "label": "Pagina Schimbare Audio",
+        "presetAudioModalPicker": {
+            "headerLabel": "Selectați pagina Schimbare audio",
+            "ariaLabel": "selectați din lista de opțiuni audio presetate pentru modificarea paginii",
+            "accessibleAudioDisplayName": "schimbarea paginii"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Nu s-a putut încărca cartea.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "întârzierea nu poate fi negativă",
+            "bookTitleMissing": "titlul cărții este obligatoriu",
+            "readerDisplayNameMissing": "numele afișat al cititorului este necesar",
+            "bookIconNotValid": "este necesară pictograma cărții",
+            "pageTextMissing": "este necesar textul paginii",
+            "delayBeforePlayingPageAudioNegative": "întârzierea nu poate fi negativă",
+            "pagesMissing": "este necesară cel puțin 1 pagină",
+            "pageImageNotValid": "imaginea paginii este necesară",
+            "delayBeforePlayingPageChangeAudioNegative": "întârzierea nu poate fi negativă",
+            "bookSplashImageNotValid": "este necesară imaginea de stropire a cărții",
+            "readerIntroAudioNotValid": "sunetul introductiv al cititorului nu este un fișier valid",
+            "pageAudioNotValid": "audio de pagină este necesar",
+            "pageChangeAudioNotValid": "este necesar un sunet pentru schimbarea paginii",
+            "delayAfterPlayingPageChangeAudioNotInteger": "întârzierea trebuie să fie un număr întreg",
+            "delayBeforePlayingPageAudioNotInteger": "întârzierea trebuie să fie un număr întreg",
+            "delayBeforePlayingPageChangeAudioNotInteger": "întârzierea trebuie să fie un număr întreg",
+            "delayBeforePlayingPageAudioRequired": "este necesară întârziere",
+            "readerImageNotValid": "este necesară imaginea cititorului",
+            "delayBeforePlayingPageChangeAudioRequired": "este necesară întârziere",
+            "delayAfterPlayingPageChangeAudioRequired": "este necesară întârziere"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "Adresa URL sursă a cărții.",
+            "label": "Adresa URL sursă",
+            "placeholder": "URL sursă",
+            "ariaLabel": "URL sursă a cărții"
+        },
+        "authorInput": {
+            "description": "Numele autorului cărții.",
+            "label": "Numele autorului",
+            "placeholder": "autor de carte",
+            "ariaLabel": "numele autorului cărții"
+        },
+        "illustratorInput": {
+            "description": "Numele ilustratorului cărții.",
+            "label": "Numele ilustratorului",
+            "placeholder": "ilustrator de carte",
+            "ariaLabel": "numele ilustratorului cărții"
+        },
+        "publisherInput": {
+            "description": "Numele editorului cărții.",
+            "label": "Numele editorului",
+            "placeholder": "editor de carte",
+            "ariaLabel": "numele editorului cărții"
+        },
+        "label": "Sursă",
+        "isbnInput": {
+            "description": "Numărul de carte standard internațional al cărții.",
+            "label": "ISBN",
+            "placeholder": "ISBN al cărții",
+            "ariaLabel": "numărul standard internațional al cărții"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "adăugați o pagină nouă"},
+        "label": "Pagini"
+    }
+}

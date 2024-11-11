@@ -1,0 +1,28 @@
+{
+    "startButton": {
+        "title": "starte boken",
+        "ariaLabel": "starte boken"
+    },
+    "selectedReaderImage": {"ariaLabel": "velg stemmen for å lese boken"},
+    "skipIntroButton": {
+        "title": "hoppe over introen",
+        "ariaLabel": "hoppe over introen"
+    },
+    "readMode": {
+        "items": {
+            "autoRead": {
+                "label": "Automatisk avspilling",
+                "ariaLabel": "hver side vil bli lest opp for brukeren med stemmen de velger"
+            },
+            "pageRead": {
+                "label": "Les for meg",
+                "ariaLabel": "hver side vil bli lest for brukeren med stemmen de velger, men brukeren er ansvarlig for å endre siden"
+            },
+            "selfRead": {
+                "label": "Les det selv",
+                "ariaLabel": "brukeren vil lese hver side"
+            }
+        },
+        "ariaLabel": "velg hvilken lesemodus du vil bruke"
+    }
+}

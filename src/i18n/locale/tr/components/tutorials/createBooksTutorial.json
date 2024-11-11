@@ -1,0 +1,96 @@
+{
+    "summary": "Ailenizin en sevdiği kitapları dijital ortama aktarabilir ve kayıt altına almak isteyen okuyucu sayısını dahil edebilirsiniz.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "\"Kitap Oluşturucu\"yu açma",
+            "ariaLabel": {
+                "expanded": "kitap oluşturucunun açılış bölümünü daralt",
+                "collapsed": "kitap oluşturucu bölümünü açmayı aç"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Herhangi bir sayfadan ekranın sol üst köşesindeki hamburger menüsünden \"Kitap Oluşturucu\"ya ulaşabilirsiniz.",
+                    "2": "Oradan \"Kitap Oluşturucu\" seçeneğine basın."
+                },
+                "title": "Hamburger Menüsü"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "\"Okuma Köşesi\" sayfasından ekranın sağ alt kısmındaki (+) butonuna basarak \"Kitap Oluşturucu\"ya ulaşabilirsiniz.",
+                    "2": "Oradan \"kitap oluştur\" seçeneğine basın."
+                },
+                "title": "Eylem Düğmesi"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "\"Kitap Oluşturucu\"yu kullanma",
+            "ariaLabel": {
+                "expanded": "kitap oluşturucuyu kullanma bölümünü daralt",
+                "collapsed": "kitap oluşturucuyu kullanma bölümünü açın"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "Bir kitabın en az 1 sayfa içermesi gerekir ancak üst sınırı yoktur.",
+                    "2": "Bir sayfa için kullanılacak bir görsel yakalanırken veya yüklenirken, görselden metni çıkarmak için yapay zeka kullanılacak. "
+                },
+                "title": "Kitap Sayfaları"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "\"Kitap Oluşturucu\"da kitapla ilgili çeşitli özellikleri belirtebileceksiniz.",
+                    "2": "Kitabın başlığı, çeşitli resimler, kaynak bilgileri, gecikmeler, okuyucular ve sayfaların tümü burada belirtilebilir."
+                },
+                "title": "Kitap Oluşturucu"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Bir kitabın tüm alanları doldurulduktan sonra kitabın cihaza kaydedilmesi gerekir.",
+                    "2": "Kaydedildikten sonra kitap verileri, hepsinin geçerli olduğundan emin olmak için kontrol edilecektir; "
+                },
+                "title": "Kitap Kaydetmek"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Görüntüler cihazınızın kamerası kullanılarak çekilebilir veya galerinizden yüklenebilir.",
+                    "2": "Bir görüntü seçildiğinde, mümkün olan en iyi şekilde görünmesini sağlamak için düzenlenebilir.",
+                    "3": "Mevcut bir görsele basıldığında görsel düğmeleri açılacaktır."
+                },
+                "title": "Kitap Görselleri"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Kitabın oynatılmasını etkileyecek gecikmeler tanımlanabilir.",
+                    "2": "Bu gecikmeler, sesin çalınmasının çok ani gelmemesini sağlayabilir."
+                },
+                "title": "Rezervasyon Gecikmeleri"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Bir kitap otomatik olarak oynatılırken, sayfa tamamlandığında ve sonraki sayfa başlamaya hazır olduğunda belirli bir ses çalınabilir.",
+                    "2": "Önceden tanımlanmış bir dizi ses seçilebilir veya özel bir ses yüklenebilir veya kaydedilebilir."
+                },
+                "title": "Sayfa Değişikliği Sesi"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "Bir kitap herhangi bir sayıda okuyucuyu içerebilir.",
+                    "2": "Her okuyucu kitabın her sayfasını okurken kendisini kaydedecek ve böylece kitap oynatımı sırasında kitabı okuyabilecek."
+                },
+                "title": "Kitap Okuyucular"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "Kitap hakkında kaynak bilgisi verilebilir.",
+                    "2": "Bu kaynak bilgisi isteğe bağlı olsa da en sevdiğiniz hikayeleri takip etmenize yardımcı olabilir."
+                },
+                "title": "Kitap Kaynak Bilgisi"
+            }
+        }
+    }
+}

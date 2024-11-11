@@ -1,0 +1,96 @@
+{
+    "summary": "Možete digitalizirati omiljene knjige svoje porodice i uključiti onoliko čitalaca koliko su spremni da sami sebe snime.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "Otvaranje \"Book Builder\"-a",
+            "ariaLabel": {
+                "expanded": "sažmite otvaranje odjeljka za izradu knjiga",
+                "collapsed": "otvorite otvaranje odjeljka za izradu knjiga"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Sa bilo koje stranice možete pristupiti \"Knjiga Builderu\" preko menija hamburgera u gornjem lijevom dijelu ekrana.",
+                    "2": "Odatle pritisnite opciju \"Book Builder\"."
+                },
+                "title": "Hamburger Menu"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "Sa stranice \"Ugao za čitanje\" možete pristupiti \"Knjiga Builderu\" pritiskom na dugme (+) u donjem desnom uglu ekrana.",
+                    "2": "Odatle pritisnite opciju \"kreiraj knjigu\"."
+                },
+                "title": "Action Button"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "Korištenje \"Book Builder-a\"",
+            "ariaLabel": {
+                "expanded": "sažmite odeljak pomoću odeljka za pravljenje knjiga",
+                "collapsed": "otvorite odjeljak za izradu knjiga"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "Knjiga mora sadržavati najmanje 1 stranicu, ali nema gornje granice.",
+                    "2": "Prilikom snimanja ili otpremanja slike koja će se koristiti za stranicu, AI će se koristiti za izdvajanje teksta iz slike. "
+                },
+                "title": "Book Pages"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "U \"Builderu knjiga\" moći ćete navesti nekoliko atributa koji se odnose na knjigu.",
+                    "2": "Ovdje se može navesti naslov knjige, nekoliko slika, izvorne informacije, kašnjenja, čitaoci i stranice."
+                },
+                "title": "Book Builder"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Kada su sva polja knjige popunjena, knjiga se mora sačuvati na uređaju.",
+                    "2": "Nakon pohranjivanja, podaci knjige će biti provjereni kako bismo bili sigurni da su svi ispravni; "
+                },
+                "title": "Čuvanje knjige"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Slike mogu biti snimljene kamerom vašeg uređaja ili se mogu učitati iz vaše galerije.",
+                    "2": "Kada je slika odabrana, može se urediti kako bi se osiguralo da izgleda najbolje što može.",
+                    "3": "Pritiskom na postojeću sliku će se pojaviti dugmad za sliku."
+                },
+                "title": "Book Images"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Mogu se definisati kašnjenja koja će uticati na reprodukciju knjige.",
+                    "2": "Ova kašnjenja mogu osigurati da audio reprodukcija ne zvuči previše naglo."
+                },
+                "title": "Book Delays"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Kada se knjiga automatski reproducira, određeni zvuk se može reproducirati kada se stranica završi i sljedeća stranica je spremna za početak.",
+                    "2": "Može se odabrati skup unaprijed definiranih zvukova ili se može učitati ili snimiti prilagođeni zvuk."
+                },
+                "title": "Page Change Audio"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "Knjiga može sadržavati bilo koji broj čitalaca.",
+                    "2": "Svaki čitalac će snimiti sebe kako čita svaku stranicu knjige i tako će biti dostupan za čitanje knjige tokom reprodukcije knjige."
+                },
+                "title": "Book Readers"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "O knjizi se mogu navesti izvorne informacije.",
+                    "2": "Iako su ove izvorne informacije opcione, mogu vam pomoći da pratite svoje omiljene priče."
+                },
+                "title": "Informacije o izvoru knjige"
+            }
+        }
+    }
+}

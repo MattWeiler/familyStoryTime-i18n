@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "учитавање књига није успело"},
+        "import": {"failure": "увоз није успео"},
+        "delete": {
+            "failure": "брисање није успело",
+            "success": "обрисана књига \u201e%{bookTitle}\u201c"
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "није успело брисање %{count} књига",
+                "one": "није успело брисање 1 књиге"
+            },
+            "success": {
+                "other": "обрисали %{count} књиге",
+                "one": "избрисао 1 књигу"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "сортирај према броју страница у опадајућем редоследу",
+                "descending": "сортирај по броју страница у растућем редоследу"
+            }},
+            "searchField": {
+                "placeholder": "претражите своје књиге",
+                "ariaLabel": "претражите своје књиге"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Извоз",
+                        "ariaLabel": "извезите изабране књиге"
+                    },
+                    "delete": {
+                        "label": "Избриши",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "не, немојте брисати изабране књиге"},
+                                "yes": {"ariaLabel": "да, избришите изабране књиге"}
+                            },
+                            "title": "Потврдите брисање",
+                            "message": {
+                                "other": "Да ли сте сигурни да желите да избришете %{count} изабраних књига?",
+                                "one": "Да ли сте сигурни да желите да избришете изабрану књигу?"
+                            }
+                        },
+                        "ariaLabel": "избрисати изабране књиге"
+                    }
+                },
+                "ariaLabel": "отворите контекстни мени за изабране књиге"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "сортирај према наслову књиге у опадајућем редоследу",
+                "descending": "сортирај према наслову књиге у растућем редоследу"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "сортирај према броју читача у опадајућем редоследу",
+                "descending": "сортирај по броју читача у растућем редоследу"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "умањите да бисте видели више ставки одједном",
+                "zoomedOut": "зумирајте да бисте видели веће слике"
+            }}
+        },
+        "loadError": {
+            "text": "Учитавање књига није успело.",
+            "ariaLabel": "није успео да учита књиге"
+        },
+        "noBooksFound": {
+            "message": "Није пронађена ниједна књига :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Пробајте наше",
+                    "linkName": "градитељ књига"
+                },
+                "availableBooks": {
+                    "message": "Цхецкоут оур",
+                    "linkName": "књижара"
+                }
+            }
+        }
+    },
+    "subtitle": "Хајде да уживамо читајући неке приче.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "креирати књигу",
+                "ariaLabel": "креирати нову књигу"
+            },
+            "importBooks": {
+                "label": "увозити књиге",
+                "ariaLabel": "увоз једне или више књига"
+            },
+            "bookStore": {
+                "label": "посетите књижару",
+                "ariaLabel": "посетите нашу књижару"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "затвори додај мени књиге",
+            "collapsed": "отвори мени за додавање књиге"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "брисање...\n",
+            "one": "брисање...\n",
+            "none": "брисање..."
+        }},
+        "export": {"label": {
+            "other": "извози...\n",
+            "one": "извози...\n",
+            "none": "извози..."
+        }}
+    }},
+    "title": "Реадинг Цорнер",
+    "confirmations": {"deleteBook": {
+        "title": "Потврда брисања",
+        "message": "Да ли сте сигурни да желите да избришете књигу \u201e%{bookTitle}?\u201c"
+    }}
+}

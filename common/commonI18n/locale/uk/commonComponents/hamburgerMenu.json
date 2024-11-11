@@ -1,0 +1,8 @@
+{
+    "applicationSecurityButton": {"ariaLabel": {
+        "unlockParentMode": "розблокувати програму для використання батьками",
+        "initParentMode": "увімкнути батьківський контроль",
+        "lockParentMode": "увімкнути батьківський блокування"
+    }},
+    "hamburgerButton": {"ariaLabel": "показати гамбургерне \u200b\u200bменю"}
+}

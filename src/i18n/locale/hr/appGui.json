@@ -1,0 +1,43 @@
+{"hamburgerMenu": {
+    "applicationTitle": "Vrijeme za obiteljske priče",
+    "links": {
+        "feedback": {
+            "text": "Povratne informacije",
+            "ariaLabel": "idite na zaslon za povratne informacije"
+        },
+        "settings": {
+            "text": "postavke",
+            "ariaLabel": "idite na zaslon postavki"
+        },
+        "bookSelector": {
+            "text": "Kutak za čitanje",
+            "ariaLabel": "idite na zaslon kuta za čitanje"
+        },
+        "bookBuilder": {
+            "text": "Graditelj knjiga",
+            "ariaLabel": "idite na zaslon za izradu knjiga"
+        },
+        "about": {
+            "text": "O nama",
+            "ariaLabel": "idite na zaslon o nama"
+        },
+        "developerStatus": {
+            "hidden": {
+                "text": "Prikaži status programera",
+                "ariaLabel": "pokazati status programera"
+            },
+            "showing": {
+                "text": "Sakrij status programera",
+                "ariaLabel": "sakriti status programera"
+            }
+        },
+        "tutorial": {
+            "text": "Tutorial",
+            "ariaLabel": "pogledajte tutorial"
+        },
+        "bookStore": {
+            "text": "Knjižara",
+            "ariaLabel": "idite na zaslon knjižare"
+        }
+    }
+}}

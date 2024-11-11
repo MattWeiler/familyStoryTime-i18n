@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "Սա կջնջի այս սարքում տեղադրված բոլոր գրքերը:\n\n",
+        "button": {
+            "label": "Ջնջել",
+            "title": "ջնջել բոլոր գրքերը",
+            "ariaLabel": "ջնջել բոլոր գրքերը"
+        },
+        "displayName": "Ջնջել բոլոր գրքերը",
+        "processingMessage": "ջնջվում է...",
+        "shortDescription": {
+            "disabled": "Ջնջեք ձեր բոլոր գրքերը, սակայն ներկայումս տեղադրած գրքեր չունեք:",
+            "enabled": "Ջնջեք ձեր բոլոր գրքերը:"
+        }
+    },
+    "footer": {
+        "copyright": "%{year} WeilerHaus",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "Գունավորիչներ",
+                "someFontsBy": "Տառատեսակներ ըստ՝"
+            },
+            "label": "Հատուկ շնորհակալություն",
+            "icons": {
+                "ionicIcons": "IonIcons",
+                "someIconsBy": "Սրբապատկերներ՝",
+                "icons8": "Սրբապատկերներ 8",
+                "iconArchive": "Սրբապատկերների արխիվ"
+            }
+        },
+        "version": "Տարբերակ՝ %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Այս պատկերի խմբագրիչը կօգտագործվի, երբ նոր գրքի պատկերներ են նկարվում կամ գոյություն ունեցող գրքի պատկերը խմբագրվում է:",
+        "displayName": "Պատկերի խմբագիր",
+        "testLabel": "Փորձնական պատկերի խմբագիր",
+        "testImage": {"accessibleImageDisplayName": "փորձարկել պատկերի խմբագրիչի պատկերը"},
+        "options": {
+            "advanced": {
+                "label": "Ընդլայնված",
+                "ariaLabel": "օգտագործել առաջադեմ պատկերի խմբագրիչը"
+            },
+            "simple": {
+                "label": "Պարզ",
+                "ariaLabel": "օգտագործել պարզ պատկերի խմբագրիչ"
+            }
+        },
+        "shortDescription": "Ընտրեք, թե որ պատկերի խմբագրիչը պետք է օգտագործվի:",
+        "ariaLabel": "ընտրեք, թե որ պատկերի խմբագրիչը պետք է օգտագործվի"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Այս ձայնը կօգտագործվի, երբ «AI Reader» ընթերցողը գրքեր կարդում է։",
+        "displayName": "Նախընտրելի ձայն",
+        "selectorButton": {
+            "defaultLabel": "լռելյայն",
+            "ariaLabel": "ընտրեք «AI Reader» ձայնը"
+        },
+        "shortDescription": "Ընտրեք ձայնը, որն օգտագործվում է «AI Reader»-ի կողմից:",
+        "picker": {
+            "default": "լռելյայն",
+            "networkActionIcon": {"ariaLabel": "ցույց տալ տեղական և ցանցային ձայները"},
+            "label": "AI Reader Voices",
+            "ariaLabel": "ընտրեք «AI Reader» ձայնը",
+            "globalActionIcon": {"ariaLabel": "ցույց տալ բոլոր լեզուները"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Աուդիո և վիդեո",
+        "ariaLabel": {
+            "expanded": "ծալել աուդիո տեսանյութերի ընտրության բաժինը",
+            "collapsed": "ընդլայնել աուդիո տեսանյութերի ընտրության բաժինը"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Պատկերի այս որակը կօգտագործվի սարքի տեսախցիկ(ներ)ով լուսանկարելիս:",
+        "slider": {
+            "highLabel": "Բարձր",
+            "ariaLabel": "նկարների պատկերի որակը",
+            "lowLabel": "Ցածր"
+        },
+        "displayName": "Տեսախցիկի որակը %{value}%",
+        "testLabel": "Փորձարկման տեսախցիկ",
+        "testImage": {"accessibleImageDisplayName": "տեսախցիկի որակի պատկեր"},
+        "shortDescription": "Ընտրեք տեսախցիկով արված նկարների պատկերի որակը:"
+    },
+    "title": "Կարգավորումներ",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Ջնջման հաստատում",
+        "message": "Իսկապե՞ս ուզում եք ջնջել տեղադրված բոլոր գրքերը:"
+    }},
+    "exportAllBooks": {
+        "longDescription": "Սա կարող է օգտակար լինել նոր սարք տեղափոխելիս կամ ձեր գրքերը մի քանի սարքեր ավելացնելիս:",
+        "button": {
+            "label": "Արտահանում",
+            "title": "արտահանել բոլոր գրքերը",
+            "ariaLabel": "արտահանել բոլոր գրքերը"
+        },
+        "displayName": "Արտահանել բոլոր գրքերը",
+        "shortDescription": {
+            "disabled": "Արտահանեք ձեր բոլոր գրքերը մեկ ֆայլի մեջ և պահեք/համօգտագործեք այն, սակայն ներկայումս տեղադրված գրքեր չունեք:",
+            "enabled": "Արտահանեք ձեր բոլոր գրքերը մեկ ֆայլ և պահպանեք/կիսվեք այն:"
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "ջնջումը ձախողվեց",
+        "success": {
+            "other": "ջնջվել է %{count} գիրք",
+            "one": "ջնջվել է 1 գիրք"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "AI Reader",
+        "testLabel": "Փորձնական ձայն",
+        "testAriaLabel": {
+            "stopped": "փորձարկել «AI Reader» ձայնը",
+            "playing": "դադարեցնել «AI Reader» ձայնային թեստը"
+        },
+        "testPhrase": "Ողջույն, ես կցանկանայի կարդալ ձեր սիրելի պատմությունները ձեզ հետ:",
+        "description": "Երբ միացված է, «AI Reader»-ը հասանելի կլինի որպես ընթերցող՝ գրքեր նվագարկելիս:",
+        "ariaLabel": {
+            "expanded": "ծալել «AI Reader» ընտրության բաժինը",
+            "collapsed": "ընդլայնել «AI Reader» ընտրության բաժինը",
+            "disabled": "«AI Reader»-ն անջատված է",
+            "enabled": "«AI Reader»-ը միացված է"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "Սա նշանակում է ձայնի բարձրությունը, որն օգտագործվում է, երբ «AI Reader» ընթերցողը գրքեր է կարդում:",
+        "slider": {
+            "highLabel": "Բարձր",
+            "ariaLabel": "«AI Reader»-ի ձայնային բարձրացում",
+            "lowLabel": "Ցածր"
+        },
+        "displayName": "Ձայնի բարձրացում %{value}%",
+        "shortDescription": "Ընտրեք ձայնի բարձրությունը, որը կօգտագործվի «AI Reader»-ի կողմից:"
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Այս աուդիո որակը կօգտագործվի սարքի խոսափողով ձայնագրելիս:",
+        "displayName": "Խոսափողի որակը",
+        "testLabel": "Փորձնական խոսափող",
+        "options": {
+            "high": {
+                "label": "Բարձր",
+                "ariaLabel": "օգտագործել բարձր ձայնային որակ"
+            },
+            "low": {
+                "label": "Ցածր",
+                "ariaLabel": "օգտագործել ցածր ձայնային որակ"
+            }
+        },
+        "shortDescription": "Ընտրեք խոսափողով արված ձայնագրությունների ձայնի որակը:",
+        "ariaLabel": "ընտրեք խոսափողով արված ձայնագրությունների ձայնի որակը",
+        "testAudioSelector": {"accessibleAudioDisplayName": "միկրոֆոնի որակի փորձարկում"}
+    },
+    "subtitle": "Թարմացրեք ձեր հավելվածի կարգավորումներն այստեղ:",
+    "themeSelection": {
+        "longDescription": "Եթե \u200b\u200bայստեղ ընտրվի թեմա, այն կվերացնի սարքի թեմայի ցանկացած կարգավորում, որը դուք կարող եք ունենալ:",
+        "displayName": "Թեմայի ընտրություն",
+        "options": {
+            "default": {
+                "label": "Համակարգ",
+                "ariaLabel": "օգտագործել համակարգի սահմանված թեման"
+            },
+            "light": {
+                "label": "Լույս",
+                "ariaLabel": "օգտագործեք թեթև թեման"
+            },
+            "dark": {
+                "label": "Մութ",
+                "ariaLabel": "օգտագործեք մութ թեման"
+            }
+        },
+        "shortDescription": "Ընտրեք այն թեման, որը պետք է օգտագործվի հավելվածի կողմից:",
+        "ariaLabel": "ընտրեք այն թեման, որը պետք է օգտագործվի հավելվածի կողմից"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "Սա նշանակում է ձայնի արագությունը, որն օգտագործվում է, երբ «AI Reader» ընթերցողը գրքեր է կարդում:",
+        "slider": {
+            "highLabel": "Արագ",
+            "ariaLabel": "«AI Reader»-ի խոսքի արագությունը",
+            "lowLabel": "Դանդաղ"
+        },
+        "displayName": "Խոսքի արագություն %{value}%",
+        "shortDescription": "Ընտրեք ձայնի արագությունը, որն օգտագործվում է «AI Reader»-ի կողմից:"
+    },
+    "parentalLocking": {
+        "longDescription": "Երբ միացված է, սարքի սեփականատերերի կենսաչափական տվյալները պահանջվում են հավելվածի առաջադեմ գործառույթներն ապակողպելու համար:",
+        "displayName": "Ծնողների կողպում",
+        "shortDescription": "Ծնողների կողպումը կարող է օգտակար լինել, երբ երեխաները օգտագործում են հավելվածը:",
+        "ariaLabel": {
+            "disabled": "ծնողական կողպումն անջատված է",
+            "enabled": "ծնողական կողպումը միացված է"
+        }
+    }
+}

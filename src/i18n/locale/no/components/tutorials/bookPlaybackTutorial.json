@@ -1,0 +1,24 @@
+{
+    "summary": "Du kan spille av bøker du har installert på enheten.",
+    "splashScreen": {
+        "messages": {
+            "1": "Fra splash-skjermen kan du velge hvordan du vil at boken skal spilles av og velge hvilken leser som skal lese boken, hvis det er aktuelt.",
+            "2": "Hvis boken har lesere lagt til, vil du kunne velge mellom modusene \"Auto Play\", \"Les for meg\" og \"Les det selv\".",
+            "3": "\"Auto Play\"-modusen vil få den valgte leseren til å lese boken og sidene endres automatisk.",
+            "4": "\"Les for meg\"-modus vil få den valgte leseren til å lese boken, men sidene må endres manuelt. ",
+            "5": "\"Read It Myself\"-modusen lar deg lese boken selv.",
+            "6": "Hvis boken inneholder kildeinformasjon, vil det være et ikon som viser den kildeinformasjonen når den klikkes. "
+        },
+        "title": "Splash Screen"
+    },
+    "player": {
+        "messages": {
+            "1": "Når du spiller av en bok, vil navigasjonsknapper vises som lar deg pause/spille av leserlyden samt navigere mellom sider.",
+            "2": "Navigasjonsknappene kan skjules/vises ved å trykke enkelt på bildet.",
+            "3": "Noen bevegelser kan også brukes til å navigere.",
+            "4": "Sveiping til venstre/høyre vil navigere mellom sider.",
+            "5": "Dobbelttrykk eller kniping vil zoome inn/ut. "
+        },
+        "title": "Bokspiller"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "jo, mos e çinstaloni librin e disponueshëm",
+            "yesButtonAriaLabel": "po, çinstaloni librin e disponueshëm",
+            "title": "Konfirmimi i çinstalimit",
+            "message": "Jeni i sigurt se doni ta çinstaloni këtë libër të disponueshëm?\n"
+        },
+        "ariaLabel": "çinstaloni librin e disponueshëm %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "falas"},
+        "newerVersionAvailableMessage": "Përditësimi i disponueshëm"
+    },
+    "subtitle": "Le të gjejmë disa histori të mira për të lexuar.",
+    "loadingFailedMessage": "Ngarkimi i librave të disponueshëm dështoi.\n",
+    "title": "Dyqan librash",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "jo, mos e instaloni librin e disponueshëm",
+            "yesButtonAriaLabel": "po, instaloni librin e disponueshëm",
+            "title": "Instaloni Konfirmimin",
+            "message": "Jeni i sigurt se doni të instaloni këtë libër të disponueshëm?\nDuke bërë këtë do të përdorni %{fileSize} të të dhënave."
+        },
+        "ariaLabel": "instaloni librin e disponueshëm %{bookName}"
+    }
+}

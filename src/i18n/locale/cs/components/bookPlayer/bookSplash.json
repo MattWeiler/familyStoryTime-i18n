@@ -1,0 +1,28 @@
+{
+    "startButton": {
+        "title": "začít knihu",
+        "ariaLabel": "začít knihu"
+    },
+    "selectedReaderImage": {"ariaLabel": "vyberte hlas pro čtení knihy"},
+    "skipIntroButton": {
+        "title": "přeskočit úvod",
+        "ariaLabel": "přeskočit úvod"
+    },
+    "readMode": {
+        "items": {
+            "autoRead": {
+                "label": "Automatické přehrávání",
+                "ariaLabel": "každá stránka bude uživateli přečtena hlasem, který si zvolí"
+            },
+            "pageRead": {
+                "label": "Čtěte mi",
+                "ariaLabel": "každá stránka bude uživateli přečtena hlasem, který si zvolí, ale uživatel je odpovědný za změnu stránky"
+            },
+            "selfRead": {
+                "label": "Přečtěte si to sám",
+                "ariaLabel": "uživatel si přečte každou stránku"
+            }
+        },
+        "ariaLabel": "vyberte, který režim čtení chcete použít"
+    }
+}

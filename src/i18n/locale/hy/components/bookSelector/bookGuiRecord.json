@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Ընտրել",
+                "ariaLabel": "ընտրիր գիրքը %{bookTitle}"
+            },
+            "edit": {
+                "title": "Խմբագրել",
+                "ariaLabel": "խմբագրել գիրքը %{bookTitle}"
+            },
+            "delete": {
+                "title": "Ջնջել",
+                "ariaLabel": "ջնջել գիրքը %{bookTitle}"
+            },
+            "export": {
+                "title": "Արտահանում",
+                "ariaLabel": "արտահանել գիրքը %{bookTitle}"
+            }
+        },
+        "ariaLabel": "բացեք %{bookTitle} գրքի համատեքստային ընտրացանկը"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} էջ",
+            "one": "%{count} էջ"
+        },
+        "ariaLabel": {
+            "other": "%{count} էջ",
+            "one": "%{count} էջ"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "ընտրեք %{bookTitle} գիրքը",
+        "selected": "ապաընտրեք %{bookTitle} գիրքը"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} ընթերցող",
+            "one": "%{count} ընթերցող"
+        },
+        "ariaLabel": {
+            "other": "գիրքը %{bookTitle} ունի %{count} ընթերցող",
+            "one": "գիրքը %{bookTitle} ունի %{count} ընթերցող"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "կարդալ պատմությունը՝ %{bookTitle}",
+        "selectionMode": "%{bookTitle} գիրք"
+    }
+}

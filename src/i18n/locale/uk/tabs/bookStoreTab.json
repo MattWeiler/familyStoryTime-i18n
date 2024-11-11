@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "ні, не видаляйте доступну книгу",
+            "yesButtonAriaLabel": "так, видалити доступну книгу",
+            "title": "Підтвердження видалення",
+            "message": "Ви впевнені, що хочете видалити цю доступну книгу?\n"
+        },
+        "ariaLabel": "видалити доступну книгу %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "безкоштовно"},
+        "newerVersionAvailableMessage": "Оновлення доступне"
+    },
+    "subtitle": "Давайте знайдемо гарні історії для читання.",
+    "loadingFailedMessage": "Не вдалося завантажити доступні книги.\n",
+    "title": "Книжковий магазин",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "ні, не встановлювати доступну книгу",
+            "yesButtonAriaLabel": "так, встановити доступну книгу",
+            "title": "Підтвердження встановлення",
+            "message": "Ви впевнені, що бажаєте встановити цю доступну книгу?\nДля цього буде використано %{fileSize} даних."
+        },
+        "ariaLabel": "встановити доступну книгу %{bookName}"
+    }
+}

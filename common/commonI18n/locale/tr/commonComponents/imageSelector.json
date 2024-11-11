@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "bir resim dosyasına göz atın",
+        "ariaLabel": "%{imageDisplayName} resmi için bir resim dosyasına göz atın"
+    },
+    "takePhotoButton": {
+        "title": "resim çek",
+        "ariaLabel": "%{imageDisplayName} resmi için resim çek"
+    },
+    "browseImageGalleryButton": {
+        "title": "resim galerisine göz at",
+        "ariaLabel": "%{imageDisplayName} resmi için resim galerisine göz atın"
+    },
+    "fullscreenButton": {"ariaLabel": "%{imageDisplayName} resmini tam ekranda göster"},
+    "imageEditor": {
+        "cropButton": {"text": "Mahsul"},
+        "cancelButton": {"text": "İptal etmek"},
+        "backButton": {"text": "Geri"},
+        "saveButton": {"text": "Kaydetmek"}
+    },
+    "editSelectedImageButton": {
+        "title": "resmi düzenle",
+        "ariaLabel": "%{imageDisplayName} resmini düzenle"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "%{imageDisplayName} resim kontrollerini göster",
+        "controlsVisible": "%{imageDisplayName} resim kontrollerini gizle"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "İzin reddedildi",
+            "message": "Kameranıza erişim iznini reddettiniz."
+        },
+        "browseImages": {
+            "title": "İzin reddedildi",
+            "message": "Fotoğraflarınıza erişim iznini reddettiniz."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "tam ekranı kapat"}
+}

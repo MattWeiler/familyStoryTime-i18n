@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "An claisneachd roghainneil ri chluich mus leugh thu a\u2019 chiad duilleag.",
+        "label": {
+            "withDisplayName": "Fuaim Intro %{readerDisplayName}",
+            "noDisplayName": "Fuaim Intro"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} ro-ràdh leughadair",
+            "noDisplayName": "leughadair le ID %{readerId} intro"
+        }
+    },
+    "readerImage": {
+        "description": "An ìomhaigh ri thaisbeanadh don leughadair seo.",
+        "accessibleImageDisplayName": "dealbh de leughadair %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Bheir seo air falbh a h-uile claisneachd duilleag a chaidh a chlàradh airson an leughadair seo.",
+            "additionalMessage2": "CHAN EIL SEO A DHÈANAMH!",
+            "title": "Dearbhadh Sguab às",
+            "message": {
+                "withDisplayName": "A bheil thu cinnteach gu bheil thu airson an leughadair \"%{readerDisplayName}\" a sguabadh às?",
+                "noDisplayName": "A bheil thu cinnteach gu bheil thu airson an leughadair seo a sguabadh às?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "thoir air falbh an leughadair %{readerDisplayName}",
+            "noDisplayName": "thoir air falbh an leughadair leis an ID %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "ainm taisbeanaidh don leughadair",
+                "noDisplayName": "ainm taisbeanaidh don leughadair"
+            },
+            "title": {
+                "withDisplayName": "Luchdaich a-nuas an t-ainm taisbeanadh",
+                "noDisplayName": "Suidhich Ainm Taisbeanaidh"
+            },
+            "message": {
+                "withDisplayName": "Dè a bhiodh tu airson ainm taisbeanaidh an luchd-leughaidh seo atharrachadh?",
+                "noDisplayName": "Dè an t-ainm taisbeanaidh a th\u2019 air an leughadair seo?"
+            },
+            "inputPlaceholder": "ainm leughadair"
+        },
+        "ariaLabel": {
+            "withDisplayName": "atharraich an t-ainm taisbeanaidh airson leughadair %{readerDisplayName}",
+            "noDisplayName": "atharraich ainm taisbeanaidh an leughadair le ID %{readerId}"
+        }
+    }
+}

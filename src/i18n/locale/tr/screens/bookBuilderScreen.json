@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "kayıtlı kitap \"%{bookTitle}\"",
+        "validationFailed": "doğrulama başarısız oldu",
+        "bookSaveFailed": "kitap kaydedilemedi"
+    },
+    "bookTitleInput": {
+        "description": "Kitabın başlığı.",
+        "label": "Kitap Adı",
+        "placeholder": "kitabın başlığı",
+        "ariaLabel": "kitabın başlığı"
+    },
+    "readers": {
+        "label": "Okuyucular",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "bu yeni okuyucunun görünen adı",
+                "buttons": {
+                    "cancel": {"ariaLabel": "yeni okuyucuyu eklemeyi iptal et"},
+                    "add": {"ariaLabel": "yeni okuyucuyu ekle"}
+                },
+                "description": "Lütfen bu yeni okuyucunun görünen adını belirtin.",
+                "title": "Yeni Okuyucu Ekle",
+                "inputPlaceholder": "okuyucu adı"
+            },
+            "ariaLabel": "yeni okuyucu ekle"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Sayfa değişikliği sesini oynatmadan önce beklenecek milisaniye sayısı.",
+            "label": "Sayfa Değişikliği Öncesi Sesi",
+            "placeholder": "sayfa değiştirme sesi oynatılmadan milisaniye önce",
+            "ariaLabel": "sayfa değişikliği sesini oynatmadan önce beklenecek milisaniye"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Sayfa değişikliği sesi oynatıldıktan sonra beklenecek milisaniye sayısı.",
+            "label": "Sayfa Değişikliği Sonrası Ses",
+            "placeholder": "sayfa değiştirme sesi oynatıldıktan milisaniye sonra",
+            "ariaLabel": "sayfa değiştirme sesi oynatıldıktan sonra beklenecek milisaniye"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Sayfa sesini oynatmadan önce beklenecek milisaniye sayısı.",
+            "label": "Sayfa Sesinden Önce",
+            "placeholder": "sayfa sesini oynatmadan milisaniye önce",
+            "ariaLabel": "sayfa sesini oynatmadan önce beklenecek milisaniye"
+        },
+        "label": "Gecikmeler"
+    },
+    "bookIconImageSelector": {
+        "description": "Kitabın simgesi olarak kullanılacak resim.",
+        "label": "Kitap Simgesi",
+        "accessibleImageDisplayName": "kitap simgesi"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "Kitap ilk başlatıldığında gösterilecek resim.",
+        "label": "Kitap Sıçrama Görüntüsü",
+        "accessibleImageDisplayName": "kitap sıçraması"
+    },
+    "confirmations": {"goBack": {
+        "title": "Değişiklikleri Bırak",
+        "message": "Kaydetmeden önce ayrılmak istediğinizden emin misiniz?"
+    }},
+    "pageChangeAudio": {
+        "description": "Sayfayı değiştirme zamanı geldiğinde çalınacak ses.",
+        "label": "Sayfa Değişikliği Sesi",
+        "presetAudioModalPicker": {
+            "headerLabel": "Sayfa Değişikliği Sesini Seçin",
+            "ariaLabel": "önceden ayarlanmış sayfa değiştirme ses seçenekleri listesinden seçim yapın",
+            "accessibleAudioDisplayName": "sayfa değişikliği"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Kitap yüklenemedi.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "gecikme negatif olamaz",
+            "bookTitleMissing": "kitap adı gerekli",
+            "readerDisplayNameMissing": "okuyucunun görünen adı gerekli",
+            "bookIconNotValid": "kitap simgesi gerekli",
+            "pageTextMissing": "sayfa metni gerekli",
+            "delayBeforePlayingPageAudioNegative": "gecikme negatif olamaz",
+            "pagesMissing": "en az 1 sayfa gerekli",
+            "pageImageNotValid": "sayfa resmi gerekli",
+            "delayBeforePlayingPageChangeAudioNegative": "gecikme negatif olamaz",
+            "bookSplashImageNotValid": "kitap tanıtım resmi gerekli",
+            "readerIntroAudioNotValid": "okuyucu giriş sesi geçerli bir dosya değil",
+            "pageAudioNotValid": "sayfa sesi gerekli",
+            "pageChangeAudioNotValid": "sayfa değişikliği sesi gerekli",
+            "delayAfterPlayingPageChangeAudioNotInteger": "gecikme bir tam sayı olmalıdır",
+            "delayBeforePlayingPageAudioNotInteger": "gecikme bir tam sayı olmalıdır",
+            "delayBeforePlayingPageChangeAudioNotInteger": "gecikme bir tam sayı olmalıdır",
+            "delayBeforePlayingPageAudioRequired": "gecikme gerekli",
+            "readerImageNotValid": "okuyucu resmi gerekli",
+            "delayBeforePlayingPageChangeAudioRequired": "gecikme gerekli",
+            "delayAfterPlayingPageChangeAudioRequired": "gecikme gerekli"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "Kitabın kaynak URL'si.",
+            "label": "Kaynak URL'si",
+            "placeholder": "kaynak URL'si",
+            "ariaLabel": "kitabın kaynak URL'si"
+        },
+        "authorInput": {
+            "description": "Kitabın yazarının adı.",
+            "label": "Yazar Adı",
+            "placeholder": "kitabın yazarı",
+            "ariaLabel": "kitabın yazarının adı"
+        },
+        "illustratorInput": {
+            "description": "Kitabın illüstratörünün adı.",
+            "label": "İllüstratör Adı",
+            "placeholder": "kitap illüstratörü",
+            "ariaLabel": "kitabın çizerinin adı"
+        },
+        "publisherInput": {
+            "description": "Kitabın yayıncısının adı.",
+            "label": "Yayıncı Adı",
+            "placeholder": "kitabın yayıncısı",
+            "ariaLabel": "kitabın yayıncısının adı"
+        },
+        "label": "Kaynak",
+        "isbnInput": {
+            "description": "Kitabın uluslararası standart kitap numarası.",
+            "label": "ISBN",
+            "placeholder": "Kitabın ISBN'si",
+            "ariaLabel": "Kitabın uluslararası standart kitap numarası"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "yeni sayfa ekle"},
+        "label": "Sayfalar"
+    }
+}

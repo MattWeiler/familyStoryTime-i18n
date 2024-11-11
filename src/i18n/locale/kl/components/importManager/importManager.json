@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "importi ingerlareerpoq, kingusinnerusukkut misiliigit",
+        "download": {"failed": "\"%{bookName}\"-mik aaneqarsinnaanngilaq."},
+        "install": {
+            "failed": "\"%{bookName}\"-mik tunisassiorneq iluatsinngilaq.",
+            "successful": "iluatsilluartumik \"%{bookName}\" tunineqarpoq."
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "taamaatippaa",
+            "ariaLabel": "tunisassiorneq unitsissavaa"
+        },
+        "install": {
+            "textLabel": "Ikkussineq",
+            "ariaLabel": "atuakkat toqqarneqarsimasut ikkukkit: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "misissuineq ...",
+        "downloading": "aaneq ...",
+        "installing": "ikkussuussineq ...",
+        "cancelling": "unitsitsineq ..."
+    },
+    "nothingToInstall": "Tunisassiortoqanngilaq :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Atuartoq taanna atuakkamut installereqarsimasumut ilaareerpoq.\n\n"},
+            "checkbox": {"ariaLabel": "atuartoq %{readerDisplayName} import-imut ilanngunniarlugu"}
+        },
+        "checkbox": {"ariaLabel": "%{bookName} atuakkamik tunisassiornermi ilanngunniarlugu"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Atuakkiaq una atortumiittoqareerpoq.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Allattoqarnissaa toqqarukku atuakkiaq maanna atuuttoq nutaamik taarserneqassaaq.\n\n"},
+                    "noReaders": {"label": "Atuakkiaq una atortumiittoqareerpoq.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "File taanna nipimik kisimi imaqarpoq, atuakkiarlu atortumi installerneqanngilaq.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Atuakkiaq una atortumiinngilaq.\n\n"},
+                    "noReaders": {"label": "Atuakkiaq una atortumiinngilaq.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "ataatsimoortitsineq",
+                    "ariaLabel": "atuakkap %{bookName} ataatsimoortinneqarneratigut atuartut nutaat ilanngunneqarnerisigut aamma atuarsimasut atuarsimasut nutaat atorlugit allattorlugit"
+                },
+                "overwrite": {
+                    "label": "allattorlugu",
+                    "ariaLabel": "atuakkiaq %{bookName} pioreersoq allattorlugu"
+                }
+            },
+            "ariaLabel": "Atuakkamut %{bookName} qanoq tunisassiornermut periuseq atorniarlugu toqqaruk"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "tunisassiorneq unitsinngilat"},
+            "yes": {"ariaLabel": "tunisassiorneq unitsissavaa"}
+        },
+        "title": "Uppernarsaruk Tunisassiorneq unitsissallugu",
+        "message": "Qularnanngilaq tunisassiorneq unitsissallugu?"
+    }},
+    "titles": {
+        "booksToInstall": "Atuakkat Installerneqartussat",
+        "failedToInstall": "Atuakkat installerernissaat iluatsinngilaq"
+    }
+}

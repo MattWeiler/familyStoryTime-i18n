@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "dışa aktarma zaten çalışıyor, daha sonra tekrar deneyin"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "İptal etmek",
+            "ariaLabel": "dışa aktarmayı iptal et"
+        },
+        "export": {
+            "textLabel": "İhracat",
+            "ariaLabel": "seçili kitapları dışa aktar"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "%{count} kitabınızı kaydedin",
+        "one": "Kitabı Kaydet: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "analiz ediyor...",
+        "packaging": "ambalajlama ...",
+        "cancelling": "iptal ediliyor..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "okuyucular",
+                    "ariaLabel": "yalnızca %{bookTitle} kitabının okuyucu bilgilerini dışa aktarın"
+                },
+                "full": {
+                    "label": "tam dolu",
+                    "ariaLabel": "%{bookTitle} kitabın tamamını dışa aktar"
+                }
+            },
+            "ariaLabel": "%{bookTitle} kitabının nasıl dışa aktarılacağını seçin"
+        },
+        "readers": {"checkbox": {"ariaLabel": "%{readerDisplayName} okuyucusunu dışa aktarmaya dahil etmek için"}},
+        "checkbox": {"ariaLabel": "%{bookTitle} kitabını dışa aktarmaya dahil etmek için"},
+        "bookReadersTooltip": {"label": "\"Okuyucular\" seçeneğinin seçilmesi yalnızca seçilen okuyucuları dışa aktaracaktır.\n\n"}
+    },
+    "packagedMultiBookFileName": "Kitaplar",
+    "nothingToExport": "Dışa aktarılacak bir şey yok :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "dışa aktarmayı iptal etme"},
+            "yes": {"ariaLabel": "dışa aktarmayı iptal et"}
+        },
+        "title": "Dışa Aktarmayı İptal Etmeyi Onayla",
+        "message": "Dışa aktarmayı iptal etmek istediğinizden emin misiniz?"
+    }},
+    "titles": {
+        "booksToExport": "Dışa Aktarılacak Kitaplar",
+        "failedToExport": "Kitaplar Dışa Aktarılamadı"
+    },
+    "outputFilenameField": {
+        "label": "Çıkış Dosyası Adı",
+        "ariaLabel": "beklenen çıktı dosya adı"
+    },
+    "errors": {"invalidOutputFilename": "geçersiz dosya adı"}
+}

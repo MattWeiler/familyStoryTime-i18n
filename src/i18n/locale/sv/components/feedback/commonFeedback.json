@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Namn",
+        "placeholder": "John Doe",
+        "ariaLabel": "valfritt, ditt namn"
+    },
+    "emailInput": {
+        "description": "Ange om du vill höra från oss.",
+        "label": "E-postadress",
+        "placeholder": "någon@gmail.com",
+        "ariaLabel": "eventuellt din e-postadress"
+    }
+}

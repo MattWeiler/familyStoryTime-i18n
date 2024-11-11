@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "memutar audio",
+            "ariaLabel": "memutar audio"
+        },
+        "playing": {
+            "title": "jeda audio",
+            "ariaLabel": "jeda audio"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "perkecil untuk menampilkan keseluruhan gambar, mungkin ada bilah hitam di sampingnya",
+        "zoomedOut": "perbesar untuk memastikan seluruh layar terisi gambar, beberapa gambar mungkin tidak terlihat"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "pergi ke halaman sebelumnya",
+            "ariaLabel": "pergi ke halaman sebelumnya"
+        },
+        "noPreviousPage": {
+            "title": "kembali ke pemilihan buku",
+            "ariaLabel": "kembali ke pemilihan buku"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "pergi ke halaman berikutnya",
+            "ariaLabel": "pergi ke halaman berikutnya"
+        },
+        "noNextPage": {
+            "title": "kembali ke pemilihan buku",
+            "ariaLabel": "kembali ke pemilihan buku"
+        }
+    }
+}

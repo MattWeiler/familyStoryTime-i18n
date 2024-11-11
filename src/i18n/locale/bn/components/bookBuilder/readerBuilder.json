@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "ঐচ্ছিক অডিও 1ম পৃষ্ঠা পড়ার আগে চালানোর জন্য.",
+        "label": {
+            "withDisplayName": "%{readerDisplayName} এর ইন্ট্রো অডিও",
+            "noDisplayName": "ইন্ট্রো অডিও"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} পাঠকের ভূমিকা",
+            "noDisplayName": "ID %{readerId} ভূমিকা সহ পাঠক"
+        }
+    },
+    "readerImage": {
+        "description": "এই পাঠকের জন্য প্রদর্শন করার জন্য ইমেজ.",
+        "accessibleImageDisplayName": "পাঠকের ছবি %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "এটি এই পাঠকের জন্য রেকর্ড করা সমস্ত পৃষ্ঠা অডিও মুছে ফেলবে৷",
+            "additionalMessage2": "এটি পূর্বাবস্থায় ফেরানো যাবে না!",
+            "title": "মুছে ফেলার নিশ্চিতকরণ",
+            "message": {
+                "withDisplayName": "আপনি কি \"%{readerDisplayName}\" রিডার মুছতে চান?",
+                "noDisplayName": "আপনি কি এই পাঠক মুছে ফেলার বিষয়ে নিশ্চিত?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "পাঠক সরান %{readerDisplayName}",
+            "noDisplayName": "ID %{readerId} সহ পাঠককে সরান"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "পাঠকের জন্য প্রদর্শনের নাম",
+                "noDisplayName": "পাঠকের জন্য প্রদর্শনের নাম"
+            },
+            "title": {
+                "withDisplayName": "ডিসপ্লে নাম আপডেট করুন",
+                "noDisplayName": "প্রদর্শনের নাম সেট করুন"
+            },
+            "message": {
+                "withDisplayName": "আপনি এই পাঠকদের প্রদর্শনের নাম কী পরিবর্তন করতে চান?",
+                "noDisplayName": "এই পাঠকের জন্য প্রদর্শন নাম কি?"
+            },
+            "inputPlaceholder": "পাঠকের নাম"
+        },
+        "ariaLabel": {
+            "withDisplayName": "পাঠকের জন্য প্রদর্শনের নাম পরিবর্তন করুন %{readerDisplayName}",
+            "noDisplayName": "ID %{readerId} সহ পাঠকের জন্য প্রদর্শনের নাম পরিবর্তন করুন"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "add": "Eklemek",
+    "cancel": "İptal etmek",
+    "no": "HAYIR",
+    "verifying": "doğrulanıyor...",
+    "set": "Ayarlamak",
+    "yes": "Evet",
+    "back": "Geri",
+    "loading": "yükleniyor...",
+    "required": "gerekli",
+    "acknowledgeError": "hatayı kabul et",
+    "saving": "kaydediyorum...",
+    "settingsButton": {
+        "text": "Ayarlar",
+        "ariaLabel": "uygulama ayarları sayfasına gidin"
+    },
+    "backButton": {
+        "label": "Geri",
+        "title": "son sayfaya geri dön",
+        "ariaLabel": "son sayfaya geri dön"
+    },
+    "sending": "gönderiyorum...",
+    "create": "Yaratmak",
+    "ok": "Tamam"
+}

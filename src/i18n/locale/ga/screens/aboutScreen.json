@@ -1,0 +1,33 @@
+{
+    "intro": "Chruthaigh mé an feidhmchlár seo chun cabhrú le leanaí ar a dturas léitheoireachta, ach freisin le go mbeidh siad in ann scéalta a bheith á léamh dóibh ag muintir nach féidir leo a bheith ann.",
+    "title": "Am Scéal Teaghlaigh",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Bíodh do scéalta léite duit ag an scéalaí is fearr leat, fiú mura bhfuil siad in ann a bheith ann.",
+            "title": "Guthanna Coitianta"
+        },
+        "paragraph_3": {
+            "content_1": "Is féidir na leabhair a léamh go huathoibríoch agus tú ag léamh chomh maith.",
+            "title": "Cleachtadh Léitheoireacht"
+        },
+        "paragraph_2": {
+            "content_1": "Déan na leabhair is fearr leat a dhigitiú ionas go mairfidh siad ar feadh na mblianta atá le teacht.",
+            "title": "Coinnigh Do Cheanáin"
+        },
+        "paragraph_1": {
+            "content_2": "Coinnigh gach ceann de na leabhair is fearr leat in aon áit amháin le go mbeidh rochtain éasca orthu sa bhaile nó nuair a théann tú.",
+            "content_1": "Bain sult as a bheith ag léamh mar theaghlach.",
+            "title": "Bain sult as Léitheoireacht"
+        },
+        "paragraph_6": {
+            "content_2": "Nuair a bheidh sé cumasaithe, ní mór d'úinéir an ghléis an feidhmchlár a dhíghlasáil ag baint úsáide as a shonraí bithmhéadracha (ag brath ar an bhfeiste) chun rochtain a fháil ar ghnéithe íogaire an fheidhmchláir.",
+            "content_1": "Tá gné glasála tuismitheora ag an bhfeidhmchlár.",
+            "title": "Glas Tuismitheoirí"
+        },
+        "paragraph_5": {
+            "content_2": "Is féidir scéalta a easpórtáil ina n-aonar nó ar fad ag an am céanna.",
+            "content_1": "Cruthaigh do scéalta féin agus roinn iad le cairde agus le teaghlach.",
+            "title": "Comhroinn"
+        }
+    }
+}

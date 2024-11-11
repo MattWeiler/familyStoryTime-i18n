@@ -1,0 +1,33 @@
+{
+    "intro": "Jag skapade den här applikationen för att hjälpa barn i deras läsresa, men också för att kunna få berättelser upplästa för dem av nära och kära som inte kan vara där.",
+    "title": "Familjens sagotid",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Låt din favoritberättare läsa dina berättelser för dig, även om de inte kan vara där.",
+            "title": "Bekanta röster"
+        },
+        "paragraph_3": {
+            "content_1": "Böckerna kan läsas automatiskt medan du läser med.",
+            "title": "Öva läsning"
+        },
+        "paragraph_2": {
+            "content_1": "Digitalisera dina favoritböcker så att de håller i många år framöver.",
+            "title": "Behåll dina favoriter"
+        },
+        "paragraph_1": {
+            "content_2": "Förvara alla dina favoritböcker på ett ställe för enkel åtkomst hemma eller på språng.",
+            "content_1": "Njut av att läsa som familj.",
+            "title": "Njut av att läsa"
+        },
+        "paragraph_6": {
+            "content_2": "När det är aktiverat måste enhetsägaren låsa upp applikationen med hjälp av sin biometriska data (beroende på enheten) för att komma åt de känsliga aspekterna av applikationen.",
+            "content_1": "Applikationen har en föräldralåsfunktion.",
+            "title": "Föräldralås"
+        },
+        "paragraph_5": {
+            "content_2": "Berättelser kan exporteras antingen individuellt eller alla på en gång.",
+            "content_1": "Skapa dina egna berättelser och dela dem med vänner och familj.",
+            "title": "Dela"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "applicationSecurityButton": {"ariaLabel": {
+        "unlockParentMode": "разблокировать приложение для родительского использования",
+        "initParentMode": "включить родительскую блокировку",
+        "lockParentMode": "включить родительский замок"
+    }},
+    "hamburgerButton": {"ariaLabel": "показать гамбургер-меню"}
+}

@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "сачувана књига \u201e%{bookTitle}\u201c",
+        "validationFailed": "валидација није успела",
+        "bookSaveFailed": "неуспешно чување књиге"
+    },
+    "bookTitleInput": {
+        "description": "Наслов књиге.",
+        "label": "Наслов књиге",
+        "placeholder": "наслов књиге",
+        "ariaLabel": "наслов књиге"
+    },
+    "readers": {
+        "label": "Реадерс",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "име за приказ за овај нови читач",
+                "buttons": {
+                    "cancel": {"ariaLabel": "откажите додавање новог читача"},
+                    "add": {"ariaLabel": "додајте новог читача"}
+                },
+                "description": "Наведите име за приказ за овај нови читач.",
+                "title": "Додај нови читач",
+                "inputPlaceholder": "име читаоца"
+            },
+            "ariaLabel": "додати нови читач"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Број милисекунди за чекање пре репродукције звука промене странице.",
+            "label": "Аудио пре промене странице",
+            "placeholder": "милисекунди пре репродукције звука промене странице",
+            "ariaLabel": "милисекунде за чекање пре репродукције звука промене странице"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Број милисекунди за чекање након репродукције звука промене странице.",
+            "label": "Звук након промене странице",
+            "placeholder": "милисекунди након пуштања звука промене странице",
+            "ariaLabel": "милисекунди за чекање након пуштања звука промене странице"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Број милисекунди за чекање пре репродукције звука странице.",
+            "label": "Пре Аудио странице",
+            "placeholder": "милисекунди пре репродукције звука странице",
+            "ariaLabel": "милисекунде за чекање пре репродукције звука странице"
+        },
+        "label": "Кашњења"
+    },
+    "bookIconImageSelector": {
+        "description": "Слика која ће се користити као икона за књигу.",
+        "label": "Икона књиге",
+        "accessibleImageDisplayName": "икона књиге"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "Слика која се приказује приликом првог покретања књиге.",
+        "label": "Боок Спласх Имаге",
+        "accessibleImageDisplayName": "прскање књига"
+    },
+    "confirmations": {"goBack": {
+        "title": "Оставите промене",
+        "message": "Да ли сте сигурни да желите да изађете пре него што сачувате?"
+    }},
+    "pageChangeAudio": {
+        "description": "Звук за репродукцију када дође време да промените страницу.",
+        "label": "Паге Цханге Аудио",
+        "presetAudioModalPicker": {
+            "headerLabel": "Изаберите Паге Цханге Аудио",
+            "ariaLabel": "изаберите са листе унапред подешених аудио опција за промену странице",
+            "accessibleAudioDisplayName": "промена странице"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Учитавање књиге није успело.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "кашњење не може бити негативно",
+            "bookTitleMissing": "наслов књиге је обавезан",
+            "readerDisplayNameMissing": "име за приказ читача је обавезно",
+            "bookIconNotValid": "икона књиге је обавезна",
+            "pageTextMissing": "текст странице је обавезан",
+            "delayBeforePlayingPageAudioNegative": "кашњење не може бити негативно",
+            "pagesMissing": "потребна је најмање 1 страница",
+            "pageImageNotValid": "слика странице је обавезна",
+            "delayBeforePlayingPageChangeAudioNegative": "кашњење не може бити негативно",
+            "bookSplashImageNotValid": "почетна слика књиге је обавезна",
+            "readerIntroAudioNotValid": "Аудио уводног читача није важећа датотека",
+            "pageAudioNotValid": "звук странице је обавезан",
+            "pageChangeAudioNotValid": "потребан је звук за промену странице",
+            "delayAfterPlayingPageChangeAudioNotInteger": "кашњење мора бити цео број",
+            "delayBeforePlayingPageAudioNotInteger": "кашњење мора бити цео број",
+            "delayBeforePlayingPageChangeAudioNotInteger": "кашњење мора бити цео број",
+            "delayBeforePlayingPageAudioRequired": "потребно је одлагање",
+            "readerImageNotValid": "слика читача је обавезна",
+            "delayBeforePlayingPageChangeAudioRequired": "потребно је одлагање",
+            "delayAfterPlayingPageChangeAudioRequired": "потребно је одлагање"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "Изворна УРЛ адреса књиге.",
+            "label": "Изворна УРЛ адреса",
+            "placeholder": "изворни УРЛ",
+            "ariaLabel": "изворни УРЛ књиге"
+        },
+        "authorInput": {
+            "description": "Име аутора књиге.",
+            "label": "Име аутора",
+            "placeholder": "аутор књиге",
+            "ariaLabel": "име аутора књиге"
+        },
+        "illustratorInput": {
+            "description": "Име илустратора књиге.",
+            "label": "Име илустратора",
+            "placeholder": "илустратор књиге",
+            "ariaLabel": "име илустратора књиге"
+        },
+        "publisherInput": {
+            "description": "Име издавача књиге.",
+            "label": "Име издавача",
+            "placeholder": "издавач књиге",
+            "ariaLabel": "назив издавача књиге"
+        },
+        "label": "Извор",
+        "isbnInput": {
+            "description": "Међународни стандардни број књиге књиге.",
+            "label": "ИСБН",
+            "placeholder": "ИСБН књиге",
+            "ariaLabel": "међународни стандардни књижни број књиге"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "додај нову страницу"},
+        "label": "Пагес"
+    }
+}

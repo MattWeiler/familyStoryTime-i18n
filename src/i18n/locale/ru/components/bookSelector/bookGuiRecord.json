@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Выбирать",
+                "ariaLabel": "выберите книгу %{bookTitle}"
+            },
+            "edit": {
+                "title": "Редактировать",
+                "ariaLabel": "отредактировать книгу %{bookTitle}"
+            },
+            "delete": {
+                "title": "Удалить",
+                "ariaLabel": "удалить книгу %{bookTitle}"
+            },
+            "export": {
+                "title": "Экспорт",
+                "ariaLabel": "экспортировать книгу %{bookTitle}"
+            }
+        },
+        "ariaLabel": "откройте контекстное меню книги %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} страниц",
+            "one": "%{count} страница"
+        },
+        "ariaLabel": {
+            "other": "%{count} страниц",
+            "one": "%{count} страница"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "выберите книгу %{bookTitle}",
+        "selected": "отменить выбор книги %{bookTitle}"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} читателей",
+            "one": "%{count} читатель"
+        },
+        "ariaLabel": {
+            "other": "у книги %{bookTitle} читателей: %{count}",
+            "one": "у книги %{bookTitle} есть %{count} читатель"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "прочитать историю: %{bookTitle}",
+        "selectionMode": "%{bookTitle} книга"
+    }
+}

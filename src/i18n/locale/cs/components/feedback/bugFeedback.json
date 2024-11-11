@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "zasílání e-mailem není podporováno",
+        "submissionFailed": "odeslání chyby se nezdařilo",
+        "submissionSuccess": "chyba odeslána"
+    },
+    "submitButton": {
+        "text": "Odeslat chybu",
+        "ariaLabel": "odeslat chybu"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Přidejte knihy, které mohou způsobovat problém.",
+            "label": "Knihy k přiložení"
+        },
+        "loadFailed": "načítání knih se nezdařilo",
+        "noBooksInstalled": "nejsou nainstalovány žádné knihy",
+        "picker": {
+            "header": "Vyberte knihy",
+            "ariaLabel": "vyberte, které knihy mají být připojeny ke zpětné vazbě na chybu"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "proveďte změny v knihách připojených k vaší zpětné vazbě na chyby"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Uveďte prosím nějaké podrobnosti o chybě.",
+        "description": "Uveďte podrobnosti o chybě.",
+        "label": "Podrobnosti o chybě",
+        "ariaLabel": "popis chyby"
+    }
+}

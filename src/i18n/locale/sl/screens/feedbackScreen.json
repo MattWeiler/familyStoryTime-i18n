@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "Povratne informacije o aplikaciji",
+            "ariaLabel": "posredujte povratne informacije o naši aplikaciji"
+        },
+        "description": "Radi bi slišali, kaj imate za povedati."
+    },
+    "title": "Pusti povratne informacije",
+    "bugFeedback": {
+        "tab": {
+            "title": "Prijavi napako",
+            "ariaLabel": "prijavite napako, ki ste jo našli v naši aplikaciji"
+        },
+        "description": "Žal nam je, da ste našli napako, vendar se bomo potrudili, da jo odpravimo :)"
+    }
+}

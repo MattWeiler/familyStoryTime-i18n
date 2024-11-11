@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "একটি ইমেজ ফাইলের জন্য ব্রাউজ করুন",
+        "ariaLabel": "%{imageDisplayName} ছবির জন্য একটি ইমেজ ফাইল ব্রাউজ করুন"
+    },
+    "takePhotoButton": {
+        "title": "ছবি তোলা",
+        "ariaLabel": "%{imageDisplayName} ছবির জন্য ছবি তুলুন"
+    },
+    "browseImageGalleryButton": {
+        "title": "ইমেজ গ্যালারি ব্রাউজ করুন",
+        "ariaLabel": "%{imageDisplayName} ছবির জন্য ইমেজ গ্যালারি ব্রাউজ করুন"
+    },
+    "fullscreenButton": {"ariaLabel": "পূর্ণস্ক্রীনে %{imageDisplayName} ছবি দেখান"},
+    "imageEditor": {
+        "cropButton": {"text": "ফসল"},
+        "cancelButton": {"text": "বাতিল করুন"},
+        "backButton": {"text": "ফিরে"},
+        "saveButton": {"text": "সংরক্ষণ করুন"}
+    },
+    "editSelectedImageButton": {
+        "title": "ছবি সম্পাদনা করুন",
+        "ariaLabel": "%{imageDisplayName} ছবি সম্পাদনা করুন"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "%{imageDisplayName} চিত্র নিয়ন্ত্রণ দেখান",
+        "controlsVisible": "%{imageDisplayName} চিত্র নিয়ন্ত্রণ লুকান"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "অনুমতি অস্বীকার করা হয়েছে",
+            "message": "আপনি আপনার ক্যামেরা অ্যাক্সেস করার অনুমতি অস্বীকার করেছেন৷"
+        },
+        "browseImages": {
+            "title": "অনুমতি অস্বীকার করা হয়েছে",
+            "message": "আপনি আপনার ফটোগুলি অ্যাক্সেস করার অনুমতি অস্বীকার করেছেন৷"
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "ফুলস্ক্রিন বন্ধ করুন"}
+}

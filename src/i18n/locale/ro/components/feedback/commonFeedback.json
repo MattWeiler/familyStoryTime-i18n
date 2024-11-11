@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Nume",
+        "placeholder": "John Doe",
+        "ariaLabel": "opțional, numele dvs"
+    },
+    "emailInput": {
+        "description": "Furnizați dacă doriți să primiți un răspuns de la noi.",
+        "label": "Adresa de e-mail",
+        "placeholder": "cineva@gmail.com",
+        "ariaLabel": "opțional, adresa dvs. de e-mail"
+    }
+}

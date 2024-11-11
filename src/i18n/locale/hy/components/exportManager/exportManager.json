@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "արտահանումն արդեն աշխատում է, ավելի ուշ նորից փորձեք"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "Չեղարկել",
+            "ariaLabel": "չեղարկել արտահանումը"
+        },
+        "export": {
+            "textLabel": "Արտահանում",
+            "ariaLabel": "ընտրված գրքերի արտահանում"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "Պահպանեք ձեր %{count} գրքերը",
+        "one": "Պահել գիրքը՝ %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "վերլուծելով...",
+        "packaging": "փաթեթավորում...",
+        "cancelling": "չեղարկում..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "ընթերցողներ",
+                    "ariaLabel": "արտահանել միայն ընթերցողի տեղեկությունները %{bookTitle} գրքի համար"
+                },
+                "full": {
+                    "label": "լիքը",
+                    "ariaLabel": "արտահանել ամբողջ գիրքը %{bookTitle}"
+                }
+            },
+            "ariaLabel": "ընտրեք, թե ինչպես արտահանել գիրքը %{bookTitle}"
+        },
+        "readers": {"checkbox": {"ariaLabel": "արտահանման մեջ ներառելու %{readerDisplayName} ընթերցողը"}},
+        "checkbox": {"ariaLabel": "%{bookTitle} գիրքը արտահանման մեջ ներառելու համար"},
+        "bookReadersTooltip": {"label": "Ընտրելով «ընթերցողներ» տարբերակը, կարտահանվեն միայն ընտրված ընթերցողները:\n\n"}
+    },
+    "packagedMultiBookFileName": "Գրքեր",
+    "nothingToExport": "Արտահանելու բան չկա :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "մի չեղարկեք արտահանումը"},
+            "yes": {"ariaLabel": "չեղարկել արտահանումը"}
+        },
+        "title": "Հաստատեք Չեղարկել արտահանումը",
+        "message": "Իսկապե՞ս ուզում եք չեղարկել արտահանումը:"
+    }},
+    "titles": {
+        "booksToExport": "Գրքեր արտահանման համար",
+        "failedToExport": "Չհաջողվեց արտահանել գրքերը"
+    },
+    "outputFilenameField": {
+        "label": "Արդյունք ֆայլի անունը",
+        "ariaLabel": "ակնկալվող ելքային ֆայլի անվանումը"
+    },
+    "errors": {"invalidOutputFilename": "ֆայլի անվավեր անուն"}
+}

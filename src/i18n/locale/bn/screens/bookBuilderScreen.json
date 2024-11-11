@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "সংরক্ষিত বই \"%{bookTitle}\"",
+        "validationFailed": "বৈধতা ব্যর্থ হয়েছে",
+        "bookSaveFailed": "বই সংরক্ষণ করতে ব্যর্থ হয়েছে"
+    },
+    "bookTitleInput": {
+        "description": "বইয়ের শিরোনাম।",
+        "label": "বইয়ের শিরোনাম",
+        "placeholder": "বইয়ের শিরোনাম",
+        "ariaLabel": "বইয়ের শিরোনাম"
+    },
+    "readers": {
+        "label": "পাঠক",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "এই নতুন পাঠকের জন্য প্রদর্শন নাম",
+                "buttons": {
+                    "cancel": {"ariaLabel": "নতুন পাঠক যোগ করা বাতিল করুন"},
+                    "add": {"ariaLabel": "নতুন পাঠক যোগ করুন"}
+                },
+                "description": "এই নতুন পাঠকের জন্য প্রদর্শন নাম প্রদান করুন.",
+                "title": "নতুন পাঠক যোগ করুন",
+                "inputPlaceholder": "পাঠকের নাম"
+            },
+            "ariaLabel": "নতুন পাঠক যোগ করুন"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "পৃষ্ঠা পরিবর্তনের অডিও চালানোর আগে যত মিলিসেকেন্ড অপেক্ষা করতে হবে।",
+            "label": "পৃষ্ঠা পরিবর্তন অডিও আগে",
+            "placeholder": "পৃষ্ঠা পরিবর্তন অডিও চালানোর আগে মিলিসেকেন্ড",
+            "ariaLabel": "পৃষ্ঠা পরিবর্তন অডিও চালানোর আগে মিলিসেকেন্ড অপেক্ষা করতে হবে"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "পৃষ্ঠা পরিবর্তন অডিও চালানোর পরে অপেক্ষা করতে মিলিসেকেন্ডের সংখ্যা।",
+            "label": "পৃষ্ঠা পরিবর্তন অডিও পরে",
+            "placeholder": "পৃষ্ঠা পরিবর্তন অডিও প্লে করার পরে মিলিসেকেন্ড",
+            "ariaLabel": "পৃষ্ঠা পরিবর্তন অডিও চালানোর পরে মিলিসেকেন্ড অপেক্ষা করতে হবে"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "পৃষ্ঠার অডিও চালানোর আগে যত মিলিসেকেন্ড অপেক্ষা করতে হবে।",
+            "label": "পৃষ্ঠা অডিও আগে",
+            "placeholder": "পৃষ্ঠা অডিও চালানোর আগে মিলিসেকেন্ড",
+            "ariaLabel": "পৃষ্ঠার অডিও চালানোর আগে মিলিসেকেন্ড অপেক্ষা করতে হবে"
+        },
+        "label": "বিলম্ব"
+    },
+    "bookIconImageSelector": {
+        "description": "বইটির আইকন হিসেবে যে ছবিটি ব্যবহার করা হবে।",
+        "label": "বই আইকন",
+        "accessibleImageDisplayName": "বই আইকন"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "বইটি প্রথম লঞ্চ করার সময় যে ছবিটি দেখানো হবে।",
+        "label": "বই স্প্ল্যাশ ইমেজ",
+        "accessibleImageDisplayName": "বই স্প্ল্যাশ"
+    },
+    "confirmations": {"goBack": {
+        "title": "পরিবর্তন ছেড়ে দিন",
+        "message": "আপনি কি নিশ্চিত যে আপনি সংরক্ষণ করার আগে চলে যেতে চান?"
+    }},
+    "pageChangeAudio": {
+        "description": "পৃষ্ঠা পরিবর্তন করার সময় হলে অডিওটি চালানো হবে।",
+        "label": "পৃষ্ঠা পরিবর্তন অডিও",
+        "presetAudioModalPicker": {
+            "headerLabel": "পৃষ্ঠা পরিবর্তন অডিও নির্বাচন করুন",
+            "ariaLabel": "পূর্বনির্ধারিত পৃষ্ঠা পরিবর্তন অডিও বিকল্পের তালিকা থেকে নির্বাচন করুন",
+            "accessibleAudioDisplayName": "পৃষ্ঠা পরিবর্তন"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "বই লোড করতে ব্যর্থ হয়েছে.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "বিলম্ব নেতিবাচক হতে পারে না",
+            "bookTitleMissing": "বইয়ের শিরোনাম প্রয়োজন",
+            "readerDisplayNameMissing": "পাঠক প্রদর্শন নাম প্রয়োজন",
+            "bookIconNotValid": "বই আইকন প্রয়োজন",
+            "pageTextMissing": "পৃষ্ঠার পাঠ্য প্রয়োজন",
+            "delayBeforePlayingPageAudioNegative": "বিলম্ব নেতিবাচক হতে পারে না",
+            "pagesMissing": "কমপক্ষে 1 পৃষ্ঠা প্রয়োজন",
+            "pageImageNotValid": "পৃষ্ঠার ছবি প্রয়োজন",
+            "delayBeforePlayingPageChangeAudioNegative": "বিলম্ব নেতিবাচক হতে পারে না",
+            "bookSplashImageNotValid": "বই স্প্ল্যাশ ইমেজ প্রয়োজন",
+            "readerIntroAudioNotValid": "রিডার ইন্ট্রো অডিও একটি বৈধ ফাইল নয়",
+            "pageAudioNotValid": "পৃষ্ঠা অডিও প্রয়োজন",
+            "pageChangeAudioNotValid": "পৃষ্ঠা পরিবর্তন অডিও প্রয়োজন",
+            "delayAfterPlayingPageChangeAudioNotInteger": "বিলম্ব একটি সম্পূর্ণ সংখ্যা হতে হবে",
+            "delayBeforePlayingPageAudioNotInteger": "বিলম্ব একটি সম্পূর্ণ সংখ্যা হতে হবে",
+            "delayBeforePlayingPageChangeAudioNotInteger": "বিলম্ব একটি সম্পূর্ণ সংখ্যা হতে হবে",
+            "delayBeforePlayingPageAudioRequired": "বিলম্ব প্রয়োজন",
+            "readerImageNotValid": "পাঠক ইমেজ প্রয়োজন",
+            "delayBeforePlayingPageChangeAudioRequired": "বিলম্ব প্রয়োজন",
+            "delayAfterPlayingPageChangeAudioRequired": "বিলম্ব প্রয়োজন"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "বইটির উৎস URL।",
+            "label": "উৎস URL",
+            "placeholder": "উৎস URL",
+            "ariaLabel": "বইটির উৎস URL"
+        },
+        "authorInput": {
+            "description": "বইটির লেখকের নাম।",
+            "label": "লেখকের নাম",
+            "placeholder": "বইয়ের লেখক",
+            "ariaLabel": "বইটির লেখকের নাম"
+        },
+        "illustratorInput": {
+            "description": "বইটির চিত্রকরের নাম।",
+            "label": "ইলাস্ট্রেটরের নাম",
+            "placeholder": "বইয়ের চিত্রকর",
+            "ariaLabel": "বইটির চিত্রকরের নাম"
+        },
+        "publisherInput": {
+            "description": "বইটির প্রকাশকের নাম।",
+            "label": "প্রকাশকের নাম",
+            "placeholder": "বইয়ের প্রকাশক",
+            "ariaLabel": "বইটির প্রকাশকের নাম"
+        },
+        "label": "উৎস",
+        "isbnInput": {
+            "description": "বইটির আন্তর্জাতিক মানের বই নম্বর।",
+            "label": "আইএসবিএন",
+            "placeholder": "বইয়ের আইএসবিএন",
+            "ariaLabel": "বইটির আন্তর্জাতিক মানের বই নম্বর"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "নতুন পৃষ্ঠা যোগ করুন"},
+        "label": "পাতা"
+    }
+}

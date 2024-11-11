@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "বই লোড করা ব্যর্থ হয়েছে"},
+        "import": {"failure": "আমদানি ব্যর্থ হয়েছে"},
+        "delete": {
+            "failure": "মুছে ফেলতে ব্যর্থ হয়েছে",
+            "success": "মুছে ফেলা বই \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "%{count}টি বই মুছে ফেলতে ব্যর্থ হয়েছে৷",
+                "one": "1টি বই মুছতে ব্যর্থ"
+            },
+            "success": {
+                "other": "মুছে ফেলা %{count}টি বই",
+                "one": "1টি বই মুছে ফেলা হয়েছে"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "পৃষ্ঠার সংখ্যা অনুসারে সাজান",
+                "descending": "পৃষ্ঠা সংখ্যা দ্বারা ক্রমবর্ধমান ক্রমে সাজান"
+            }},
+            "searchField": {
+                "placeholder": "আপনার বই অনুসন্ধান করুন",
+                "ariaLabel": "আপনার বই অনুসন্ধান করুন"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "রপ্তানি",
+                        "ariaLabel": "নির্বাচিত বই রপ্তানি করুন"
+                    },
+                    "delete": {
+                        "label": "মুছে দিন",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "না, নির্বাচিত বই মুছে ফেলবেন না"},
+                                "yes": {"ariaLabel": "হ্যাঁ, নির্বাচিত বই মুছে দিন"}
+                            },
+                            "title": "মুছে ফেলা নিশ্চিত করুন",
+                            "message": {
+                                "other": "আপনি কি নিশ্চিত যে আপনি %{count}টি নির্বাচিত বই মুছে ফেলতে চান?",
+                                "one": "আপনি কি নিশ্চিত যে আপনি নির্বাচিত বই মুছে ফেলতে চান?"
+                            }
+                        },
+                        "ariaLabel": "নির্বাচিত বই মুছে দিন"
+                    }
+                },
+                "ariaLabel": "নির্বাচিত বইগুলির জন্য প্রসঙ্গ মেনু খুলুন"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "বইয়ের শিরোনাম অনুসারে সাজানো ক্রমানুসারে",
+                "descending": "বইয়ের শিরোনাম দ্বারা আরোহী ক্রমে সাজান"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "পাঠক সংখ্যা অনুসারে সাজানো ক্রমানুসারে",
+                "descending": "পাঠক গণনা অনুসারে ক্রমবর্ধমান ক্রমে সাজান"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "একবারে আরও আইটেম দেখতে জুম আউট করুন",
+                "zoomedOut": "বড় ছবি দেখতে জুম ইন করুন"
+            }}
+        },
+        "loadError": {
+            "text": "বই লোড করা যায়নি।",
+            "ariaLabel": "বই লোড করতে ব্যর্থ"
+        },
+        "noBooksFound": {
+            "message": "কোন বই পাওয়া যায়নি :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "আমাদের চেষ্টা করুন",
+                    "linkName": "বই নির্মাতা"
+                },
+                "availableBooks": {
+                    "message": "আমাদের চেকআউট",
+                    "linkName": "বইয়ের দোকান"
+                }
+            }
+        }
+    },
+    "subtitle": "আসুন কিছু গল্প পড়ে উপভোগ করি।",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "একটি বই তৈরি করুন",
+                "ariaLabel": "একটি নতুন বই তৈরি করুন"
+            },
+            "importBooks": {
+                "label": "বই আমদানি করুন",
+                "ariaLabel": "এক বা একাধিক বই আমদানি করুন"
+            },
+            "bookStore": {
+                "label": "বইয়ের দোকানে যান",
+                "ariaLabel": "আমাদের বইয়ের দোকানে যান"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "বন্ধ একটি বই মেনু যোগ করুন",
+            "collapsed": "একটি বই যোগ করার মেনু খুলুন"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "মুছে ফেলা হচ্ছে...\n",
+            "one": "মুছে ফেলা হচ্ছে...\n",
+            "none": "মুছে ফেলা হচ্ছে..."
+        }},
+        "export": {"label": {
+            "other": "রপ্তানি হচ্ছে...\n",
+            "one": "রপ্তানি হচ্ছে...\n",
+            "none": "রপ্তানি হচ্ছে..."
+        }}
+    }},
+    "title": "রিডিং কর্নার",
+    "confirmations": {"deleteBook": {
+        "title": "মুছে ফেলার নিশ্চিতকরণ",
+        "message": "আপনি কি \"%{bookTitle}\" বইটি মুছতে চান?"
+    }}
+}

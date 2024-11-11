@@ -1,0 +1,8 @@
+{
+    "applicationSecurityButton": {"ariaLabel": {
+        "unlockParentMode": "angajoqqaanut atornissamut qinnuteqaat unlock",
+        "initParentMode": "angajoqqaat låse-at atulersitsisinnaavoq",
+        "lockParentMode": "angajoqqaat låse-at atulersiguk"
+    }},
+    "hamburgerButton": {"ariaLabel": "hamburger-imik nerisassiorneq takuuk"}
+}

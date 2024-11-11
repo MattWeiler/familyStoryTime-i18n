@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "atuakkap killiffiani paasissutissat takutikkit"},
+        "hideSource": {"ariaLabel": "atuakkap source-iata paasissutissaatai \u200b\u200btoqqorsinnaavatit"}
+    },
+    "sourceUrl": {
+        "label": "atuakkap killiffia takuuk",
+        "ariaLabel": "ammasumik atuakkap URL-ia"
+    },
+    "sourceIllustrator": {"label": "Ilusilersuisoq:"},
+    "sourceAuthor": {"label": "Suliarinnittoq:"},
+    "sourcePublisher": {"label": "Saqqummersitsisoq:"},
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "ISBN-imik ammasumik ujarlerit atuakkap ISBN-ia"
+    }
+}

@@ -1,0 +1,4 @@
+{
+    "aiReader": {"displayName": "АИ Реадер"},
+    "errors": {"bookLoadFailure": "Није могуће учитати књигу."}
+}

@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "Uygulama Geri Bildirimi",
+            "ariaLabel": "uygulamamız hakkında geri bildirim sağlayın"
+        },
+        "description": "Söyleyeceklerinizi duymak isteriz."
+    },
+    "title": "Geri bildirim bırakın",
+    "bugFeedback": {
+        "tab": {
+            "title": "Hata Bildir",
+            "ariaLabel": "Uygulamamızda bulduğunuz bir hatayı bildirin"
+        },
+        "description": "Bir hata bulduğunuzu duyduğumuza üzüldük, ancak düzeltmek için elimizden geleni yapacağız :)"
+    }
+}

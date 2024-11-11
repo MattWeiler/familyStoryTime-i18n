@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Seçme",
+                "ariaLabel": "%{bookTitle} kitabını seçin"
+            },
+            "edit": {
+                "title": "Düzenlemek",
+                "ariaLabel": "%{bookTitle} kitabını düzenle"
+            },
+            "delete": {
+                "title": "Silmek",
+                "ariaLabel": "%{bookTitle} kitabını sil"
+            },
+            "export": {
+                "title": "İhracat",
+                "ariaLabel": "%{bookTitle} kitabını dışa aktar"
+            }
+        },
+        "ariaLabel": "%{bookTitle} kitabının içerik menüsünü aç"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} sayfa",
+            "one": "%{count} sayfa"
+        },
+        "ariaLabel": {
+            "other": "%{count} sayfa",
+            "one": "%{count} sayfa"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "%{bookTitle} kitabını seç",
+        "selected": "%{bookTitle} kitabının seçimini kaldırın"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} okuyucu",
+            "one": "%{count} okuyucu"
+        },
+        "ariaLabel": {
+            "other": "%{bookTitle} adlı kitabın %{count} okuyucusu var",
+            "one": "%{bookTitle} adlı kitabın %{count} okuyucusu var"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "hikayeyi okuyun: %{bookTitle}",
+        "selectionMode": "%{bookTitle} kitap"
+    }
+}

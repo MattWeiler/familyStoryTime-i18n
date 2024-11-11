@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "kitabın kaynak bilgisini göster"},
+        "hideSource": {"ariaLabel": "kitabın kaynak bilgisini gizle"}
+    },
+    "sourceUrl": {
+        "label": "kitap kaynağını görüntüle",
+        "ariaLabel": "kitap kaynağı URL'sini aç"
+    },
+    "sourceIllustrator": {"label": "İllüstratör:"},
+    "sourceAuthor": {"label": "Yazar:"},
+    "sourcePublisher": {"label": "Yayıncı:"},
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "ISBN kitabını aramak için ISBN aramasını açın"
+    }
+}

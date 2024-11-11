@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "Aiseolas App",
+            "ariaLabel": "aiseolas a sholáthar ar ár n-iarratas"
+        },
+        "description": "Ba bhreá linn a bhfuil le rá agat a chloisteáil."
+    },
+    "title": "Fág Aiseolas",
+    "bugFeedback": {
+        "tab": {
+            "title": "Tuairiscigh Fabht",
+            "ariaLabel": "tuairiscigh fabht a fuair tú inár n-iarratas"
+        },
+        "description": "Tá brón orainn a chloisteáil gur aimsigh tú fabht, ach déanfaimid ár ndícheall é a dheisiú :)"
+    }
+}

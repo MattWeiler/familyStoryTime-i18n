@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Colțul de lectură",
+        "ariaLabel": "citește-ți cărțile aici"
+    },
+    "bookStore": {
+        "text": "Librărie",
+        "ariaLabel": "vizitați libraria"
+    }
+}

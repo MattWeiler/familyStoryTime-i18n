@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Vybrat",
+                "ariaLabel": "vyberte knihu %{bookTitle}"
+            },
+            "edit": {
+                "title": "Upravit",
+                "ariaLabel": "upravit knihu %{bookTitle}"
+            },
+            "delete": {
+                "title": "Vymazat",
+                "ariaLabel": "smazat knihu %{bookTitle}"
+            },
+            "export": {
+                "title": "Vývozní",
+                "ariaLabel": "exportovat knihu %{bookTitle}"
+            }
+        },
+        "ariaLabel": "otevřít kontextovou nabídku knihy %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} stránek",
+            "one": "stránka %{count}"
+        },
+        "ariaLabel": {
+            "other": "%{count} stránek",
+            "one": "stránka %{count}"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "vyberte knihu %{bookTitle}",
+        "selected": "zrušte výběr knihy %{bookTitle}"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} čtenářů",
+            "one": "%{count} čtenář"
+        },
+        "ariaLabel": {
+            "other": "kniha %{bookTitle} má %{count} čtenářů",
+            "one": "kniha %{bookTitle} má %{count} čtenáře"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "přečtěte si příběh: %{bookTitle}",
+        "selectionMode": "%{bookTitle} kniha"
+    }
+}

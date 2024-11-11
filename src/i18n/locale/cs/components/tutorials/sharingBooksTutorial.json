@@ -1,0 +1,25 @@
+{
+    "summary": "Po vytvoření knihy ji můžete sdílet s rodinou a přáteli.",
+    "exporting": {
+        "messages": {
+            "1": "Můžete exportovat jednu knihu prostřednictvím místní nabídky nebo několik knih najednou dlouhým podržením pro výběr více knih.",
+            "2": "Jakmile vyberete knihy, které chcete exportovat, můžete přesně vybrat, co se má exportovat.",
+            "3": "Ve výchozím nastavení bude exportována celá kniha, ale můžete si vybrat, které čtenáře mají být zahrnuty do obsahu knihy, nebo můžete zvolit export pouze konkrétních čtenářů.",
+            "4": "Pokud chcete pouze odeslat informace o čtečce, které jste zaznamenali, někomu, kdo již knihu má, můžete vytvořit mnohem menší soubor ke sdílení, a to tak, že zahrnete pouze konkrétní čtenáře."
+        },
+        "title": "Export"
+    },
+    "importingMerging": {"messages": {
+        "1": "Při importu knihy, která je již nainstalovaná ve vašem zařízení, budete moci vybrat, zda má importovaná kniha přepsat již nainstalovanou knihu nebo zda má být provedeno sloučení.",
+        "2": "Při sloučení se do již nainstalované knihy přidají pouze vybraní čtenáři.",
+        "3": "Pokud jsou tyto slučované čtečky již v zařízení nainstalovány, budou nahrazeny."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Na stránce \"Koutek pro čtení\" si můžete vybrat, které knihy chcete importovat, výběrem možnosti \"importovat knihy\" při stisknutí tlačítka (+) v pravé dolní části obrazovky.",
+            "2": "Případně můžete odeslat soubor knihy do aplikace \"Family Story Time\".",
+            "3": "Při importu knihy, která ještě není nainstalována ve vašem zařízení, se kniha nainstaluje."
+        },
+        "title": "Import"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Дајте нам повратне информације"},
+        "intro": {"displayName": "Увод"},
+        "createBooks": {"displayName": "Креирање књига"},
+        "parentalLocking": {"displayName": "Родитељско закључавање"},
+        "sharingBooks": {"displayName": "Дељење књига"},
+        "bookPlayback": {"displayName": "Плаиинг Боокс"},
+        "bookStore": {"displayName": "Књижара"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "погледајте страницу %{pageName}"},
+        "backPageButton": {"ariaLabel": "назад 1 страницу"},
+        "forwardPageButton": {"ariaLabel": "иди напред 1 страницу"}
+    },
+    "startLink": {
+        "label": "Започните",
+        "ariaLabel": "идите на почетну страницу"
+    }
+}

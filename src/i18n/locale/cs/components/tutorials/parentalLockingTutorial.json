@@ -1,0 +1,34 @@
+{
+    "summary": "Než předáte zařízení svému dítěti, můžete aplikaci uzamknout, aby děti nemohly smazat knihy nebo provádět jiné změny.",
+    "enabling": {
+        "messages": {
+            "1": "Chcete-li povolit funkci rodičovského zamykání, otevřete nabídku hamburgerů a stiskněte ikonu otevřeného zámku vpravo nahoře.",
+            "2": "To vás vyzve k zadání biometrického potvrzení, které inicializuje funkci rodičovského zamykání.",
+            "3": "Nyní, když byla aktivována funkce rodičovského zámku, stisknutím ikony otevřeného zámku aplikaci uzamknete.",
+            "4": "Když je povolena funkce rodičovského zamykání, bude aplikace při každém spuštění v režimu uzamčení."
+        },
+        "title": "Povolit rodičovský zámek"
+    },
+    "disabling": {
+        "messages": {
+            "1": "Chcete-li vypnout funkci rodičovského zamykání, otevřete nabídku hamburgerů a stiskněte položku nastavení ve spodní části.",
+            "2": "Na stránce nastavení zrušte výběr funkce \u201eRodičovský zámek\u201c."
+        },
+        "title": "Zakázat rodičovský zámek"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Když je aplikace uzamčena, některé funkce aplikace se nezobrazí, jako jsou kontextové nabídky nebo tlačítka, která umožňují přidávat/odebírat knihy.",
+            "2": "Tím se aplikace přepne do režimu pouze pro čtení, který je pro děti bezpečný.",
+            "3": "Abyste měli přístup k těmto skrytým funkcím, budete muset aplikaci odemknout."
+        },
+        "title": "Uzamčené funkce"
+    },
+    "locked": {
+        "messages": {
+            "1": "Chcete-li aplikaci odemknout, otevřete nabídku hamburgerů a stiskněte ikonu zavřeného zámku vpravo nahoře.",
+            "2": "To vás vyzve k zadání biometrického potvrzení, které aplikaci odemkne."
+        },
+        "title": "Odemknout aplikaci"
+    }
+}

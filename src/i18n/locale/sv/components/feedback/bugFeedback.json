@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "e-post stöds inte",
+        "submissionFailed": "felsändning misslyckades",
+        "submissionSuccess": "bugg skickas"
+    },
+    "submitButton": {
+        "text": "Skicka in bugg",
+        "ariaLabel": "skicka in felet"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Lägg till boken/böckerna som kan orsaka problemet.",
+            "label": "Böcker att bifoga"
+        },
+        "loadFailed": "Det gick inte att ladda böcker",
+        "noBooksInstalled": "inga böcker installerade",
+        "picker": {
+            "header": "Välj bok(er)",
+            "ariaLabel": "välj vilka böcker som ska bifogas buggfeedbacken"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "gör ändringar i böckerna som är kopplade till din buggfeedback"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Ange några detaljer om felet.",
+        "description": "Ange detaljer om felet.",
+        "label": "Bugg detaljer",
+        "ariaLabel": "beskrivning av felet"
+    }
+}

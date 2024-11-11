@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Välja",
+                "ariaLabel": "välj boken %{bookTitle}"
+            },
+            "edit": {
+                "title": "Redigera",
+                "ariaLabel": "redigera boken %{bookTitle}"
+            },
+            "delete": {
+                "title": "Radera",
+                "ariaLabel": "radera boken %{bookTitle}"
+            },
+            "export": {
+                "title": "Exportera",
+                "ariaLabel": "exportera boken %{bookTitle}"
+            }
+        },
+        "ariaLabel": "öppna snabbmenyn för bok %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} sidor",
+            "one": "%{count} sida"
+        },
+        "ariaLabel": {
+            "other": "%{count} sidor",
+            "one": "%{count} sida"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "välj boken %{bookTitle}",
+        "selected": "avmarkera boken %{bookTitle}"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} läsare",
+            "one": "%{count} läsare"
+        },
+        "ariaLabel": {
+            "other": "boken %{bookTitle} har %{count} läsare",
+            "one": "boken %{bookTitle} har %{count} läsare"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "läs berättelsen: %{bookTitle}",
+        "selectionMode": "%{bookTitle} bok"
+    }
+}

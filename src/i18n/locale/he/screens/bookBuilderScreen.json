@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "ספר שמור \"%{bookTitle}\"",
+        "validationFailed": "האימות נכשל",
+        "bookSaveFailed": "שמירת הספר נכשלה"
+    },
+    "bookTitleInput": {
+        "description": "הכותרת של הספר.",
+        "label": "שם הספר",
+        "placeholder": "שם הספר",
+        "ariaLabel": "כותרת הספר"
+    },
+    "readers": {
+        "label": "קוראים",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "שם תצוגה עבור הקורא החדש הזה",
+                "buttons": {
+                    "cancel": {"ariaLabel": "בטל את הוספת הקורא החדש"},
+                    "add": {"ariaLabel": "הוסף את הקורא החדש"}
+                },
+                "description": "אנא ספק את שם התצוגה עבור הקורא החדש הזה.",
+                "title": "הוסף קורא חדש",
+                "inputPlaceholder": "שם הקורא"
+            },
+            "ariaLabel": "הוסף קורא חדש"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "מספר האלפיות שניות שיש להמתין לפני הפעלת אודיו של שינוי עמוד.",
+            "label": "לפני שינוי עמוד אודיו",
+            "placeholder": "אלפיות שניות לפני השמעת דף שנה אודיו",
+            "ariaLabel": "אלפיות שניות לחכות לפני הפעלת אודיו של שינוי עמוד"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "מספר האלפיות שניות להמתנה לאחר השמעת אודיו של שינוי עמוד.",
+            "label": "לאחר שינוי עמוד אודיו",
+            "placeholder": "אלפיות שניות לאחר השמעת דף שינוי אודיו",
+            "ariaLabel": "אלפיות שניות לחכות לאחר השמעת אודיו של שינוי עמוד"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "מספר האלפיות שניות שיש להמתין לפני הפעלת אודיו של עמוד.",
+            "label": "לפני אודיו של עמוד",
+            "placeholder": "אלפיות שניות לפני השמעת אודיו של עמוד",
+            "ariaLabel": "אלפיות שניות לחכות לפני הפעלת אודיו של עמוד"
+        },
+        "label": "עיכובים"
+    },
+    "bookIconImageSelector": {
+        "description": "התמונה שתשמש כסמל של הספר.",
+        "label": "אייקון ספר",
+        "accessibleImageDisplayName": "אייקון ספר"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "התמונה שתוצג בעת השקת הספר לראשונה.",
+        "label": "Book Splash Image",
+        "accessibleImageDisplayName": "ספר שפריץ"
+    },
+    "confirmations": {"goBack": {
+        "title": "עזוב שינויים",
+        "message": "האם אתה בטוח שברצונך לעזוב לפני השמירה?"
+    }},
+    "pageChangeAudio": {
+        "description": "האודיו לנגן כשיגיע הזמן לשנות את הדף.",
+        "label": "שינוי עמוד אודיו",
+        "presetAudioModalPicker": {
+            "headerLabel": "בחר עמוד Change Audio",
+            "ariaLabel": "בחר מתוך הרשימה של אפשרויות שמע לשינוי עמודים מוגדרים מראש",
+            "accessibleAudioDisplayName": "שינוי עמוד"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "טעינת הספר נכשלה.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "עיכוב לא יכול להיות שלילי",
+            "bookTitleMissing": "כותרת הספר נדרשת",
+            "readerDisplayNameMissing": "נדרש שם תצוגת קורא",
+            "bookIconNotValid": "סמל הספר נדרש",
+            "pageTextMissing": "נדרש טקסט בעמוד",
+            "delayBeforePlayingPageAudioNegative": "עיכוב לא יכול להיות שלילי",
+            "pagesMissing": "נדרש עמוד אחד לפחות",
+            "pageImageNotValid": "נדרשת תמונת עמוד",
+            "delayBeforePlayingPageChangeAudioNegative": "עיכוב לא יכול להיות שלילי",
+            "bookSplashImageNotValid": "נדרשת תמונת ספר שפריץ",
+            "readerIntroAudioNotValid": "אודיו מבוא לקורא אינו קובץ חוקי",
+            "pageAudioNotValid": "נדרש אודיו של עמוד",
+            "pageChangeAudioNotValid": "נדרש אודיו לשינוי עמוד",
+            "delayAfterPlayingPageChangeAudioNotInteger": "השהיה חייב להיות מספר שלם",
+            "delayBeforePlayingPageAudioNotInteger": "השהיה חייב להיות מספר שלם",
+            "delayBeforePlayingPageChangeAudioNotInteger": "השהיה חייב להיות מספר שלם",
+            "delayBeforePlayingPageAudioRequired": "נדרש עיכוב",
+            "readerImageNotValid": "נדרשת תמונת קורא",
+            "delayBeforePlayingPageChangeAudioRequired": "נדרש עיכוב",
+            "delayAfterPlayingPageChangeAudioRequired": "נדרש עיכוב"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "כתובת ה-URL של המקור של הספר.",
+            "label": "כתובת האתר של המקור",
+            "placeholder": "כתובת האתר של המקור",
+            "ariaLabel": "כתובת המקור של הספר"
+        },
+        "authorInput": {
+            "description": "שם מחבר הספר.",
+            "label": "שם המחבר",
+            "placeholder": "מחבר הספר",
+            "ariaLabel": "שם מחבר הספר"
+        },
+        "illustratorInput": {
+            "description": "שם המאייר של הספר.",
+            "label": "שם המאייר",
+            "placeholder": "מאייר של ספר",
+            "ariaLabel": "שם המאייר של הספר"
+        },
+        "publisherInput": {
+            "description": "שם המוציא לאור של הספר.",
+            "label": "שם המפרסם",
+            "placeholder": "מוציא לאור של ספר",
+            "ariaLabel": "שם המוציא לאור של הספר"
+        },
+        "label": "מָקוֹר",
+        "isbnInput": {
+            "description": "מספר הספר הסטנדרטי הבינלאומי של הספר.",
+            "label": "ISBN",
+            "placeholder": "ISBN של הספר",
+            "ariaLabel": "מספר ספר בתקן בינלאומי של הספר"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "להוסיף עמוד חדש"},
+        "label": "דפים"
+    }
+}

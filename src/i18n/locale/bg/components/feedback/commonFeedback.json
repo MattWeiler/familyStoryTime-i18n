@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Име",
+        "placeholder": "Джон Доу",
+        "ariaLabel": "по желание, вашето име"
+    },
+    "emailInput": {
+        "description": "Предоставете, ако искате да получите отговор от нас.",
+        "label": "Имейл адрес",
+        "placeholder": "някой@gmail.com",
+        "ariaLabel": "по желание, вашия имейл адрес"
+    }
+}

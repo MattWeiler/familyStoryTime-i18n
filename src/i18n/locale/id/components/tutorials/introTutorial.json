@@ -1,0 +1,9 @@
+{
+    "mission": "Kami ingin membantu melestarikan cerita favorit Anda, yang dibaca oleh orang yang Anda cintai.",
+    "subtitle": "Sebuah aplikasi menyenangkan untuk membantu anak-anak membaca.",
+    "paragraphs": {"1": "Anak-anak dapat mendengarkan cerita favorit mereka yang dibacakan oleh orang-orang terkasih, meskipun orang-orang terkasih tersebut berada jauh atau telah meninggal dunia."},
+    "accessTutorial": {
+        "messages": {"1": "Anda dapat mengakses tutorial ini kapan saja melalui menu hamburger di kiri atas aplikasi."},
+        "title": "Akses Tutorial"
+    }
+}

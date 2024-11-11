@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "leabhar sábháilte \"%{bookTitle}\"",
+        "validationFailed": "theip ar bhailíochtú",
+        "bookSaveFailed": "theip ar shábháil leabhar"
+    },
+    "bookTitleInput": {
+        "description": "Teideal an leabhair.",
+        "label": "Teideal Leabhar",
+        "placeholder": "teideal an leabhair",
+        "ariaLabel": "teideal an leabhair"
+    },
+    "readers": {
+        "label": "Léitheoirí",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "ainm taispeána don léitheoir nua seo",
+                "buttons": {
+                    "cancel": {"ariaLabel": "cealú an léitheoir nua a chur leis"},
+                    "add": {"ariaLabel": "cuir an léitheoir nua leis"}
+                },
+                "description": "Tabhair ainm taispeána an léitheora nua seo.",
+                "title": "Cuir Léitheoir Nua leis",
+                "inputPlaceholder": "ainm léitheora"
+            },
+            "ariaLabel": "léitheoir nua a chur leis"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Líon na milleasoicindí le fanacht roimh an fhuaim a athrú leathanach a sheinm.",
+            "label": "Roimh Athrú Leathanach Fuaime",
+            "placeholder": "milleasoicindí roimh an fhuaim a athrú leathanaigh a sheinm",
+            "ariaLabel": "na milleasoicindí chun fanacht roimh an fhuaim a athrú leathanach a sheinm"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Líon na milleasoicindí le fanacht tar éis an fhuaim athraithe leathanaigh a sheinm.",
+            "label": "Tar éis Fuaime Athrú Leathanach",
+            "placeholder": "milleasoicindí tar éis an fhuaim a athrú leathanaigh a sheinm",
+            "ariaLabel": "milleasoicindí le fanacht tar éis an fhuaim athraithe leathanaigh a sheinm"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Líon na milleasoicindí le fanacht roimh fhuaim leathanach a sheinm.",
+            "label": "Roimh Leathanach Fuaime",
+            "placeholder": "milleasoicind roimh sheinm fuaime leathanaigh",
+            "ariaLabel": "milleasoicindí chun fanacht sula seinm fuaime leathanaigh"
+        },
+        "label": "Moill"
+    },
+    "bookIconImageSelector": {
+        "description": "An íomhá le húsáid mar íocón don leabhar.",
+        "label": "Deilbhín Leabhar",
+        "accessibleImageDisplayName": "deilbhín leabhar"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "An íomhá a thaispeánfar agus an leabhar á sheoladh den chéad uair.",
+        "label": "Íomhá Splash Leabhar",
+        "accessibleImageDisplayName": "splanc leabhar"
+    },
+    "confirmations": {"goBack": {
+        "title": "Fág Athruithe",
+        "message": "An bhfuil tú cinnte gur mhaith leat imeacht roimh shábháil?"
+    }},
+    "pageChangeAudio": {
+        "description": "An fhuaim le seinnt nuair atá sé in am an leathanach a athrú.",
+        "label": "Fuaime Athrú Leathanach",
+        "presetAudioModalPicker": {
+            "headerLabel": "Roghnaigh Leathanach Athrú Fuaime",
+            "ariaLabel": "roghnaigh ón liosta de na roghanna fuaime athrú leathanach réamhshocraithe",
+            "accessibleAudioDisplayName": "athrú leathanach"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Theip ar lódáil an leabhar.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "ní féidir moill a bheith diúltach",
+            "bookTitleMissing": "teastaíonn teideal an leabhair",
+            "readerDisplayNameMissing": "tá ainm taispeána léitheora ag teastáil",
+            "bookIconNotValid": "Tá deilbhín leabhar ag teastáil",
+            "pageTextMissing": "téacs leathanach ag teastáil",
+            "delayBeforePlayingPageAudioNegative": "ní féidir moill a bheith diúltach",
+            "pagesMissing": "tá 1 leathanach ar a laghad ag teastáil",
+            "pageImageNotValid": "íomhá leathanach ag teastáil",
+            "delayBeforePlayingPageChangeAudioNegative": "ní féidir moill a bheith diúltach",
+            "bookSplashImageNotValid": "íomhá splancscáileán leabhar ag teastáil",
+            "readerIntroAudioNotValid": "ní comhad bailí é fuaim intro léitheoir",
+            "pageAudioNotValid": "tá fuaim leathanach ag teastáil",
+            "pageChangeAudioNotValid": "Teastaíonn fuaim athraithe leathanaigh",
+            "delayAfterPlayingPageChangeAudioNotInteger": "ní mór don mhoill a bheith ina slánuimhir",
+            "delayBeforePlayingPageAudioNotInteger": "ní mór don mhoill a bheith ina slánuimhir",
+            "delayBeforePlayingPageChangeAudioNotInteger": "ní mór don mhoill a bheith ina slánuimhir",
+            "delayBeforePlayingPageAudioRequired": "tá moill ag teastáil",
+            "readerImageNotValid": "íomhá léitheoir ag teastáil",
+            "delayBeforePlayingPageChangeAudioRequired": "tá moill ag teastáil",
+            "delayAfterPlayingPageChangeAudioRequired": "tá moill ag teastáil"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "URL foinse an leabhair.",
+            "label": "URL foinseach",
+            "placeholder": "URL foinse",
+            "ariaLabel": "URL foinse an leabhair"
+        },
+        "authorInput": {
+            "description": "Ainm údair an leabhair.",
+            "label": "Ainm an Údair",
+            "placeholder": "údar leabhair",
+            "ariaLabel": "ainm údair an leabhair"
+        },
+        "illustratorInput": {
+            "description": "Ainm maisitheoir an leabhair.",
+            "label": "Ainm Illustrator",
+            "placeholder": "maisitheoir leabhar",
+            "ariaLabel": "ainm mhaisitheoir an leabhair"
+        },
+        "publisherInput": {
+            "description": "Ainm fhoilsitheoir an leabhair.",
+            "label": "Ainm Foilsitheoir",
+            "placeholder": "foilsitheoir leabhar",
+            "ariaLabel": "ainm fhoilsitheoir an leabhair"
+        },
+        "label": "Foinse",
+        "isbnInput": {
+            "description": "Uimhir leabhar caighdeánach idirnáisiúnta an leabhair.",
+            "label": "ISBN",
+            "placeholder": "ISBN leabhar",
+            "ariaLabel": "leabhar caighdeánach idirnáisiúnta uimhir an leabhair"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "cuir leathanach nua leis"},
+        "label": "Leathanaigh"
+    }
+}

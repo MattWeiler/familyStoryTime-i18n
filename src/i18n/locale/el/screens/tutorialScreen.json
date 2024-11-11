@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Δίνοντας μας σχόλια"},
+        "intro": {"displayName": "Εισαγωγή"},
+        "createBooks": {"displayName": "Δημιουργία Βιβλίων"},
+        "parentalLocking": {"displayName": "Γονικό κλείδωμα"},
+        "sharingBooks": {"displayName": "Κοινή χρήση Βιβλίων"},
+        "bookPlayback": {"displayName": "Παίζοντας βιβλία"},
+        "bookStore": {"displayName": "Το Βιβλιοπωλείο"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "δείτε τη σελίδα %{pageName}"},
+        "backPageButton": {"ariaLabel": "επιστροφή 1 σελίδα"},
+        "forwardPageButton": {"ariaLabel": "προχωρήστε 1 σελίδα"}
+    },
+    "startLink": {
+        "label": "Ξεκινήστε",
+        "ariaLabel": "μεταβείτε στην αρχική σελίδα"
+    }
+}

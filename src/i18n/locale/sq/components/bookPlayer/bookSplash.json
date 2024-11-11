@@ -1,0 +1,28 @@
+{
+    "startButton": {
+        "title": "filloni librin",
+        "ariaLabel": "filloni librin"
+    },
+    "selectedReaderImage": {"ariaLabel": "zgjidhni zërin për të lexuar librin"},
+    "skipIntroButton": {
+        "title": "kaloni hyrjen",
+        "ariaLabel": "kaloni hyrjen"
+    },
+    "readMode": {
+        "items": {
+            "autoRead": {
+                "label": "Luaj automatikisht",
+                "ariaLabel": "çdo faqe do t'i lexohet përdoruesit me zërin e zgjedhjes së tij"
+            },
+            "pageRead": {
+                "label": "Lexo për Mua",
+                "ariaLabel": "çdo faqe do t'i lexohet përdoruesit me zërin e zgjedhjes së tij, por përdoruesi është përgjegjës për ndryshimin e faqes"
+            },
+            "selfRead": {
+                "label": "Lexojeni vetë",
+                "ariaLabel": "përdoruesi do të lexojë çdo faqe"
+            }
+        },
+        "ariaLabel": "zgjidhni cilën mënyrë leximi të përdorni"
+    }
+}

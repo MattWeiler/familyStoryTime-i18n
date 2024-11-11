@@ -1,0 +1,11 @@
+{
+    "voiceDisplayName": {
+        "networkVoice": "[%{voiceLanguage}] %{voiceName} (%{voiceQuality}) [δίκτυο]",
+        "localVoice": "[%{voiceLanguage}] %{voiceName} (%{voiceQuality})"
+    },
+    "simpleVoiceDisplayName": "[%{voiceLanguage}] %{voiceName}",
+    "voiceQuality": {
+        "enhanced": "ενισχυμένη",
+        "default": "βασικός"
+    }
+}

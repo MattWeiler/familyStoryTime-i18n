@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "reda audio",
+            "ariaLabel": "reda audio"
+        },
+        "playing": {
+            "title": "întrerupeți audio",
+            "ariaLabel": "întrerupeți audio"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "micșorați pentru a afișa întreaga imagine, pot exista bare negre în lateral",
+        "zoomedOut": "măriți pentru a vă asigura că întregul ecran este umplut cu imagine, este posibil ca o parte din imagine să nu fie vizibilă"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "mergeți la pagina anterioară",
+            "ariaLabel": "mergeți la pagina anterioară"
+        },
+        "noPreviousPage": {
+            "title": "reveniți la selecția cărții",
+            "ariaLabel": "reveniți la selecția cărții"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "du-te la pagina următoare",
+            "ariaLabel": "du-te la pagina următoare"
+        },
+        "noNextPage": {
+            "title": "reveniți la selecția cărții",
+            "ariaLabel": "reveniți la selecția cărții"
+        }
+    }
+}

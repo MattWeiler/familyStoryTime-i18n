@@ -1,0 +1,9 @@
+{
+    "mission": "Chceme vám pomoci zachovat vaše oblíbené příběhy, které čtou vaši blízcí.",
+    "subtitle": "Zábavná aplikace, která pomáhá dětem číst.",
+    "paragraphs": {"1": "Děti mohou poslouchat své oblíbené příběhy, které čtou blízcí, i když tito milovaní jsou daleko nebo již zemřeli."},
+    "accessTutorial": {
+        "messages": {"1": "K tomuto tutoriálu se můžete kdykoli dostat prostřednictvím nabídky hamburgerů v levé horní části aplikace."},
+        "title": "Přístup k výukovému programu"
+    }
+}

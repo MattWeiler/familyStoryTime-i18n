@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "shranjena knjiga \"%{bookTitle}\"",
+        "validationFailed": "preverjanje ni uspelo",
+        "bookSaveFailed": "neuspelo shranjevanje knjige"
+    },
+    "bookTitleInput": {
+        "description": "Naslov knjige.",
+        "label": "Naslov knjige",
+        "placeholder": "naslov knjige",
+        "ariaLabel": "naslov knjige"
+    },
+    "readers": {
+        "label": "Bralci",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "prikazno ime za ta novi bralnik",
+                "buttons": {
+                    "cancel": {"ariaLabel": "prekličite dodajanje novega bralnika"},
+                    "add": {"ariaLabel": "dodajte novega bralnika"}
+                },
+                "description": "Navedite prikazno ime za ta novi bralnik.",
+                "title": "Dodaj novega bralnika",
+                "inputPlaceholder": "ime bralca"
+            },
+            "ariaLabel": "dodaj novega bralnika"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Število milisekund za čakanje pred predvajanjem zvoka spremembe strani.",
+            "label": "Zvok pred spremembo strani",
+            "placeholder": "milisekunde pred predvajanjem zvoka spremembe strani",
+            "ariaLabel": "milisekund za čakanje pred predvajanjem zvoka spremembe strani"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Število milisekund za čakanje po predvajanju zvoka spremembe strani.",
+            "label": "Zvok po spremembi strani",
+            "placeholder": "milisekunde po predvajanju zvoka spremembe strani",
+            "ariaLabel": "milisekund za čakanje po predvajanju zvoka spremembe strani"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Število milisekund za čakanje pred predvajanjem zvoka strani.",
+            "label": "Pred zvokom strani",
+            "placeholder": "milisekunde pred predvajanjem zvoka strani",
+            "ariaLabel": "milisekund za čakanje pred predvajanjem zvoka strani"
+        },
+        "label": "Zamude"
+    },
+    "bookIconImageSelector": {
+        "description": "Slika, ki bo uporabljena kot ikona za knjigo.",
+        "label": "Ikona knjige",
+        "accessibleImageDisplayName": "ikona knjige"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "Slika, ki bo prikazana ob prvem zagonu knjige.",
+        "label": "Splash Image knjige",
+        "accessibleImageDisplayName": "knjiga splash"
+    },
+    "confirmations": {"goBack": {
+        "title": "Zapusti spremembe",
+        "message": "Ali ste prepričani, da želite zapustiti, preden shranite?"
+    }},
+    "pageChangeAudio": {
+        "description": "Zvok za predvajanje, ko je čas za zamenjavo strani.",
+        "label": "Page Change Audio",
+        "presetAudioModalPicker": {
+            "headerLabel": "Izberite Page Change Audio",
+            "ariaLabel": "izberite s seznama prednastavljenih zvočnih možnosti za spremembo strani",
+            "accessibleAudioDisplayName": "sprememba strani"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Knjige ni bilo mogoče naložiti.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "zamuda ne more biti negativna",
+            "bookTitleMissing": "naslov knjige je obvezen",
+            "readerDisplayNameMissing": "potrebno je prikazno ime bralnika",
+            "bookIconNotValid": "potrebna je ikona knjige",
+            "pageTextMissing": "potrebno je besedilo strani",
+            "delayBeforePlayingPageAudioNegative": "zamuda ne more biti negativna",
+            "pagesMissing": "zahtevana je vsaj 1 stran",
+            "pageImageNotValid": "potrebna je slika strani",
+            "delayBeforePlayingPageChangeAudioNegative": "zamuda ne more biti negativna",
+            "bookSplashImageNotValid": "zahtevana je uvodna slika knjige",
+            "readerIntroAudioNotValid": "bralni uvodni zvok ni veljavna datoteka",
+            "pageAudioNotValid": "zahtevan je zvok strani",
+            "pageChangeAudioNotValid": "zahtevan je zvok za spremembo strani",
+            "delayAfterPlayingPageChangeAudioNotInteger": "zamuda mora biti celo število",
+            "delayBeforePlayingPageAudioNotInteger": "zamuda mora biti celo število",
+            "delayBeforePlayingPageChangeAudioNotInteger": "zamuda mora biti celo število",
+            "delayBeforePlayingPageAudioRequired": "je potrebna zamuda",
+            "readerImageNotValid": "potrebna je slika bralca",
+            "delayBeforePlayingPageChangeAudioRequired": "je potrebna zamuda",
+            "delayAfterPlayingPageChangeAudioRequired": "je potrebna zamuda"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "Izvorni URL knjige.",
+            "label": "URL vira",
+            "placeholder": "vir URL",
+            "ariaLabel": "vir URL knjige"
+        },
+        "authorInput": {
+            "description": "Ime avtorja knjige.",
+            "label": "Ime avtorja",
+            "placeholder": "avtorica knjige",
+            "ariaLabel": "ime avtorja knjige"
+        },
+        "illustratorInput": {
+            "description": "Ime ilustratorja knjige.",
+            "label": "Ime ilustratorja",
+            "placeholder": "ilustrator knjige",
+            "ariaLabel": "ime ilustratorja knjige"
+        },
+        "publisherInput": {
+            "description": "Ime založnika knjige.",
+            "label": "Ime založnika",
+            "placeholder": "založnik knjige",
+            "ariaLabel": "ime založnika knjige"
+        },
+        "label": "Vir",
+        "isbnInput": {
+            "description": "Mednarodna standardna knjižna številka knjige.",
+            "label": "ISBN",
+            "placeholder": "ISBN knjige",
+            "ariaLabel": "mednarodna standardna knjižna številka knjige"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "dodaj novo stran"},
+        "label": "Strani"
+    }
+}

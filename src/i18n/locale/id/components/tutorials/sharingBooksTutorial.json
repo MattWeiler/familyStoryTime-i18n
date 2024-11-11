@@ -1,0 +1,25 @@
+{
+    "summary": "Setelah Anda membuat buku, Anda dapat membaginya dengan keluarga dan teman.",
+    "exporting": {
+        "messages": {
+            "1": "Anda dapat mengekspor satu buku, melalui menu konteksnya, atau beberapa buku sekaligus, dengan menahan lama untuk memilih beberapa buku.",
+            "2": "Setelah Anda memilih buku yang akan diekspor, Anda kemudian dapat memilih dengan tepat apa yang akan diekspor.",
+            "3": "Secara default, seluruh buku akan diekspor, namun Anda dapat memilih pembaca mana yang akan disertakan dengan konten buku atau Anda dapat memilih untuk hanya mengekspor pembaca tertentu.",
+            "4": "Bila Anda hanya ingin mengirimkan informasi pembaca yang Anda rekam kepada seseorang yang sudah memiliki buku tersebut, Anda dapat membuat file yang jauh lebih kecil untuk dibagikan hanya dengan menyertakan pembaca tertentu."
+        },
+        "title": "Mengekspor"
+    },
+    "importingMerging": {"messages": {
+        "1": "Saat mengimpor buku yang sudah terinstal di perangkat Anda, Anda akan dapat memilih apakah buku yang diimpor harus menimpa buku yang sudah terinstal atau apakah penggabungan harus dilakukan.",
+        "2": "Saat digabungkan, hanya pembaca terpilih yang akan ditambahkan ke buku yang sudah diinstal.",
+        "3": "Jika pembaca yang digabungkan sudah terinstal di perangkat, pembaca tersebut akan diganti."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Dari halaman \"Pojok Baca\", Anda dapat memilih buku mana yang akan diimpor dengan memilih opsi \"impor buku\" sambil menekan tombol (+) di kanan bawah layar.",
+            "2": "Alternatifnya, Anda dapat mengirim file buku ke aplikasi \"Family Story Time\".",
+            "3": "Saat mengimpor buku yang belum diinstal pada perangkat Anda, buku tersebut akan diinstal."
+        },
+        "title": "Pengimporan"
+    }
+}

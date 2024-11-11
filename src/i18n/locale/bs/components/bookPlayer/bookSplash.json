@@ -1,0 +1,28 @@
+{
+    "startButton": {
+        "title": "počni knjigu",
+        "ariaLabel": "počni knjigu"
+    },
+    "selectedReaderImage": {"ariaLabel": "odaberite glas za čitanje knjige"},
+    "skipIntroButton": {
+        "title": "preskoči uvod",
+        "ariaLabel": "preskoči uvod"
+    },
+    "readMode": {
+        "items": {
+            "autoRead": {
+                "label": "Auto Play",
+                "ariaLabel": "svaka stranica će biti pročitana korisniku glasom koji on odabere"
+            },
+            "pageRead": {
+                "label": "Čitaj mi",
+                "ariaLabel": "svaka stranica će biti pročitana korisniku glasom po njegovom izboru, ali je korisnik odgovoran za promjenu stranice"
+            },
+            "selfRead": {
+                "label": "Čitaj sam",
+                "ariaLabel": "korisnik će pročitati svaku stranicu"
+            }
+        },
+        "ariaLabel": "odaberite koji način čitanja želite koristiti"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "nu, nu dezinstalați cartea disponibilă",
+            "yesButtonAriaLabel": "da, dezinstalează cartea disponibilă",
+            "title": "Dezinstalați Confirmare",
+            "message": "Sunteți sigur că doriți să dezinstalați această carte disponibilă?\n"
+        },
+        "ariaLabel": "dezinstalați cartea disponibilă %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "gratuit"},
+        "newerVersionAvailableMessage": "Actualizare disponibilă"
+    },
+    "subtitle": "Să găsim niște povești bune de citit.",
+    "loadingFailedMessage": "Nu s-au încărcat cărțile disponibile.\n",
+    "title": "Librărie",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "nu, nu instalați cartea disponibilă",
+            "yesButtonAriaLabel": "da, instalează cartea disponibilă",
+            "title": "Instalare Confirmare",
+            "message": "Sunteți sigur că doriți să instalați această carte disponibilă?\nProcedând astfel, veți folosi %{fileSize} de date."
+        },
+        "ariaLabel": "instalați cartea disponibilă %{bookName}"
+    }
+}

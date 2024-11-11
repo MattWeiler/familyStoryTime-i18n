@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Qupperneq 1. atuarneqannginnerani tusarnaartitsisinnaaneq toqqarneqarsinnaasoq.",
+        "label": {
+            "withDisplayName": "%{readerDisplayName}-p Intro-ata nipilersornera",
+            "noDisplayName": "Intro Nipit"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} atuartoq aallaqqaasiut",
+            "noDisplayName": "atuartoq ID-mik %{readerId}-mik aallaqqaasiut"
+        }
+    },
+    "readerImage": {
+        "description": "Atuartumut una takutinneqartussaq assi.",
+        "accessibleImageDisplayName": "atuartup assi %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Tamanna atuartumut matumunnga quppernerup nipimik immiussaanik tamanik peersitsissaaq.",
+            "additionalMessage2": "TAMANNA UNNUSSINNAANNGILLAQ!",
+            "title": "Deletion Uppernarsaaneq",
+            "message": {
+                "withDisplayName": "Qularnanngilaq atuartoq \"%{readerDisplayName}\" piiarniarlugu?",
+                "noDisplayName": "Qularnanngilaq atuartoq una piiarniarlugu?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "atuartoq %{readerDisplayName} peerlugu",
+            "noDisplayName": "atuartoq ID-mik %{readerId}-mik peerlugu"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "atuartumut takutinneqarsinnaasoq",
+                "noDisplayName": "atuartumut takutinneqarsinnaasoq"
+            },
+            "title": {
+                "withDisplayName": "Update Display Navn",
+                "noDisplayName": "Set Display Navn"
+            },
+            "message": {
+                "withDisplayName": "Atuartut takussutissiaat una qanoq allanngortissaviuk?",
+                "noDisplayName": "Atuartumut tassunga takussutissiaq qanoq ateqarpa?"
+            },
+            "inputPlaceholder": "atuartup aqqa"
+        },
+        "ariaLabel": {
+            "withDisplayName": "atuartumut %{readerDisplayName} takutinneqartussaq allanngortiguk",
+            "noDisplayName": "atuartumut takussutissiaq allanngortiguk ID-mik %{readerId}"
+        }
+    }
+}

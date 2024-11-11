@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "pošiljanje po e-pošti ni podprto",
+        "submissionFailed": "pošiljanje hrošča ni uspelo",
+        "submissionSuccess": "poslana napaka"
+    },
+    "submitButton": {
+        "text": "Pošlji napako",
+        "ariaLabel": "predloži napako"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Dodajte knjige, ki morda povzročajo težavo.",
+            "label": "Knjige za prilaganje"
+        },
+        "loadFailed": "nalaganje knjig ni uspelo",
+        "noBooksInstalled": "ni nameščenih knjig",
+        "picker": {
+            "header": "Izberite knjigo(e)",
+            "ariaLabel": "izberite, katere knjige naj bodo priložene povratnim informacijam o hroščih"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "spremenite knjige, ki so priložene vašim povratnim informacijam o hroščih"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Navedite nekaj podrobnosti o napaki.",
+        "description": "Navedite podrobnosti o napaki.",
+        "label": "Podrobnosti napak",
+        "ariaLabel": "opis hrošča"
+    }
+}

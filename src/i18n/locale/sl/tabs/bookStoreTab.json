@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "ne, ne odstranite knjige Na voljo",
+            "yesButtonAriaLabel": "da, odstrani razpoložljivo knjigo",
+            "title": "Potrditev odstranitve",
+            "message": "Ali ste prepričani, da želite odstraniti to razpoložljivo knjigo?\n"
+        },
+        "ariaLabel": "odstranite razpoložljivo knjigo %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "brezplačno"},
+        "newerVersionAvailableMessage": "Posodobitev na voljo"
+    },
+    "subtitle": "Poiščimo nekaj dobrih zgodb za branje.",
+    "loadingFailedMessage": "Razpoložljivih knjig ni bilo mogoče naložiti.\n",
+    "title": "Knjigarna",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "ne, ne nameščaj razpoložljive knjige",
+            "yesButtonAriaLabel": "da, namestite razpoložljivo knjigo",
+            "title": "Potrditev namestitve",
+            "message": "Ali ste prepričani, da želite namestiti to razpoložljivo knjigo?\nS tem boste porabili %{fileSize} podatkov."
+        },
+        "ariaLabel": "namestite razpoložljivo knjigo %{bookName}"
+    }
+}

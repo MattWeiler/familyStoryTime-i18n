@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Oisean Leughaidh",
+        "ariaLabel": "leugh na leabhraichean agad an seo"
+    },
+    "bookStore": {
+        "text": "Bùth Leabhraichean",
+        "ariaLabel": "tadhal air stòr nan leabhraichean"
+    }
+}

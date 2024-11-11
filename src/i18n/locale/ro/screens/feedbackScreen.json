@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "Feedback despre aplicație",
+            "ariaLabel": "oferiți feedback cu privire la aplicația noastră"
+        },
+        "description": "Ne-ar plăcea să auzim ce ai de spus."
+    },
+    "title": "Lăsați feedback",
+    "bugFeedback": {
+        "tab": {
+            "title": "Raportați eroare",
+            "ariaLabel": "raportați o eroare pe care ați găsit-o în aplicația noastră"
+        },
+        "description": "Ne pare rău să auzim că ați găsit o eroare, dar vom face tot posibilul să o remediem :)"
+    }
+}

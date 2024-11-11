@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "увоз је већ покренут, покушајте поново касније",
+        "download": {"failed": "није успело преузимање \u201e%{bookName}\u201c."},
+        "install": {
+            "failed": "није успело увоз \u201e%{bookName}\u201c",
+            "successful": "успешно увезено \u201e%{bookName}\u201c"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Откажи",
+            "ariaLabel": "откажите увоз"
+        },
+        "install": {
+            "textLabel": "Инсталирај",
+            "ariaLabel": "инсталирај изабране књиге: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "анализирајући ...",
+        "downloading": "преузимање ...",
+        "installing": "инсталирање ...",
+        "cancelling": "отказивање ..."
+    },
+    "nothingToInstall": "Ништа за увоз :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Овај читач је већ део инсталиране књиге.\n\n"},
+            "checkbox": {"ariaLabel": "да бисте укључили читач %{readerDisplayName} у увоз"}
+        },
+        "checkbox": {"ariaLabel": "да бисте укључили %{bookName} књигу у увоз"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Ова књига је већ на вашем уређају.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Ако изаберете да препишете, тренутна књига ће бити замењена новом.\n\n"},
+                    "noReaders": {"label": "Ова књига је већ на вашем уређају.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Ова датотека садржи само звук, а књига није инсталирана на вашем уређају.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Ова књига није на вашем уређају.\n\n"},
+                    "noReaders": {"label": "Ова књига није на вашем уређају.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "спојити",
+                    "ariaLabel": "спојите књигу %{bookName} додавањем нових читача и преписивањем постојећих читача новим читаоцима"
+                },
+                "overwrite": {
+                    "label": "преписати",
+                    "ariaLabel": "замени постојећу књигу %{bookName}"
+                }
+            },
+            "ariaLabel": "изаберите коју стратегију увоза ћете користити за књигу %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "не отказујте увоз"},
+            "yes": {"ariaLabel": "откажите увоз"}
+        },
+        "title": "Потврдите Откажи увоз",
+        "message": "Да ли сте сигурни да желите да откажете увоз?"
+    }},
+    "titles": {
+        "booksToInstall": "Књиге за инсталирање",
+        "failedToInstall": "Инсталирање књига није успело"
+    }
+}

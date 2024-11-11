@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "eksporti tashmë po funksionon, provo sërish më vonë"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "Anulo",
+            "ariaLabel": "anuloni eksportin"
+        },
+        "export": {
+            "textLabel": "Eksporto",
+            "ariaLabel": "eksportoni libra të zgjedhur"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "Ruani %{count} librat tuaj",
+        "one": "Ruaj librin: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "duke analizuar...",
+        "packaging": "paketimi...",
+        "cancelling": "duke anuluar..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "lexuesit",
+                    "ariaLabel": "eksporto vetëm informacionin e lexuesit për librin %{bookTitle}"
+                },
+                "full": {
+                    "label": "plot",
+                    "ariaLabel": "eksporto të gjithë librin %{bookTitle}"
+                }
+            },
+            "ariaLabel": "zgjidhni se si të eksportoni librin %{bookTitle}"
+        },
+        "readers": {"checkbox": {"ariaLabel": "për të përfshirë lexuesin %{readerDisplayName} në eksportim"}},
+        "checkbox": {"ariaLabel": "për të përfshirë librin %{bookTitle} në eksportim"},
+        "bookReadersTooltip": {"label": "Zgjedhja e opsionit \"lexues\" do të eksportojë vetëm lexuesit e zgjedhur.\n\n"}
+    },
+    "packagedMultiBookFileName": "librat",
+    "nothingToExport": "Asgjë për të eksportuar :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "mos e anuloni eksportin"},
+            "yes": {"ariaLabel": "anuloni eksportin"}
+        },
+        "title": "Konfirmo Anulo Eksportin",
+        "message": "Jeni i sigurt që dëshironi të anuloni eksportin?"
+    }},
+    "titles": {
+        "booksToExport": "Libra për eksport",
+        "failedToExport": "Eksportimi i librave dështoi"
+    },
+    "outputFilenameField": {
+        "label": "Emri i skedarit dalës",
+        "ariaLabel": "emri i skedarit të pritur të daljes"
+    },
+    "errors": {"invalidOutputFilename": "emër skedari i pavlefshëm"}
+}

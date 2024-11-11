@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "תמונת עמוד %{pageNum}"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "סרוק מחדש את טקסט העמוד",
+                "message": "האם אתה בטוח שברצונך לסרוק את התמונה לאיתור טקסט ולהחליף את טקסט העמוד הקיים שלך?"
+            },
+            "ariaLabel": "חלץ טקסט מהתמונה עבור הדף %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "טקסט להוספה לדף %{pageNum}",
+                    "withPageText": "טקסט לעדכון בדף %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "הגדר טקסט עמוד",
+                    "withPageText": "עדכן את טקסט העמוד"
+                },
+                "message": {
+                    "noPageText": "מהו טקסט העמוד?",
+                    "withPageText": "למה תרצה לשנות את טקסט העמוד?"
+                },
+                "inputPlaceholder": "טקסט להוספה"
+            },
+            "ariaLabel": "ערוך את הטקסט \"%{pageText}\" מהדף %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "העבר את הטקסט \"%{pageText}\" מהדף %{pageNum} למעלה"},
+        "removeButton": {
+            "confirmation": {
+                "title": "אישור מחיקה",
+                "message": "האם אתה בטוח שברצונך למחוק את טקסט הדף הזה?"
+            },
+            "ariaLabel": "הסר את הטקסט \"%{pageText}\" מהדף %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "טקסט להוספה לדף %{pageNum}",
+                "title": "הגדר טקסט עמוד",
+                "message": "מהו טקסט העמוד?",
+                "inputPlaceholder": "טקסט להוספה"
+            },
+            "ariaLabel": "הוסף טקסט חדש לדף %{pageNum}"
+        },
+        "label": "טֶקסט",
+        "showHideButton": {"ariaLabel": {
+            "visible": "הסתר את הטקסט \"%{pageText}\" מהדף %{pageNum}",
+            "hidden": "הצג את הטקסט \"%{pageText}\" מהדף %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "העבר את הטקסט \"%{pageText}\" מדף %{pageNum} למטה"}
+    },
+    "moveUpButton": {"ariaLabel": "העבר את הדף %{pageNum} למעלה"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "האודיו שיש לנגן כאשר \"%{readerDisplayName}\" קורא את הדף %{pageNum}.",
+                "noDisplayName": "האודיו שיש לנגן כאשר קורא זה קורא את הדף %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "קורא עמוד %{pageNum} %{readerDisplayName}"
+        },
+        "label": "קוראים"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "פעולה זו תסיר את כל האודיו של הדף שהוקלט עבור הדף הזה.",
+            "additionalMessage2": "לא ניתן לבטל את זה!",
+            "title": "אישור מחיקה",
+            "message": "האם אתה בטוח שברצונך למחוק את הדף %{pageNum}?"
+        },
+        "ariaLabel": "הסר דף %{pageNum}"
+    },
+    "description": "התמונה שתוצג בעמוד %{pageNum}.",
+    "label": "עמוד %{pageNum}",
+    "moveDownButton": {"ariaLabel": "העבר את הדף %{pageNum} למטה"}
+}

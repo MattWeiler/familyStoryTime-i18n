@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "صورة الصفحة %{pageNum}."},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "إعادة مسح نص الصفحة",
+                "message": "هل أنت متأكد أنك تريد مسح الصورة ضوئيًا بحثًا عن نص واستبدال نص الصفحة الحالي؟"
+            },
+            "ariaLabel": "استخراج النص من الصورة للصفحة %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "نص لإضافته إلى الصفحة %{pageNum}",
+                    "withPageText": "النص المراد تحديثه في الصفحة %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "تعيين نص الصفحة",
+                    "withPageText": "تحديث نص الصفحة"
+                },
+                "message": {
+                    "noPageText": "ما هو نص الصفحة؟",
+                    "withPageText": "ما الذي تريد تغيير نص الصفحة إليه؟"
+                },
+                "inputPlaceholder": "النص المراد إضافته"
+            },
+            "ariaLabel": "قم بتحرير النص \"%{pageText}\" من الصفحة %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "انقل النص \"%{pageText}\" من الصفحة %{pageNum} إلى أعلى"},
+        "removeButton": {
+            "confirmation": {
+                "title": "تأكيد الحذف",
+                "message": "هل أنت متأكد أنك تريد حذف نص هذه الصفحة؟"
+            },
+            "ariaLabel": "قم بإزالة النص \"%{pageText}\" من الصفحة %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "نص لإضافته إلى الصفحة %{pageNum}",
+                "title": "تعيين نص الصفحة",
+                "message": "ما هو نص الصفحة؟",
+                "inputPlaceholder": "النص المراد إضافته"
+            },
+            "ariaLabel": "إضافة نص جديد إلى الصفحة %{pageNum}"
+        },
+        "label": "نص",
+        "showHideButton": {"ariaLabel": {
+            "visible": "إخفاء النص \"%{pageText}\" من الصفحة %{pageNum}",
+            "hidden": "إظهار النص \"%{pageText}\" من الصفحة %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "انقل النص \"%{pageText}\" من الصفحة %{pageNum} إلى الأسفل"}
+    },
+    "moveUpButton": {"ariaLabel": "انقل الصفحة %{pageNum} لأعلى"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "الصوت المطلوب تشغيله عندما يقرأ \"%{readerDisplayName}\" الصفحة %{pageNum}.",
+                "noDisplayName": "الصوت المطلوب تشغيله عندما يقرأ هذا القارئ الصفحة %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "الصفحة %{pageNum} %{readerDisplayName} القارئ"
+        },
+        "label": "القراء"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "سيؤدي هذا إلى إزالة كافة الملفات الصوتية المسجلة لهذه الصفحة.",
+            "additionalMessage2": "لا يمكن التراجع عن هذا!",
+            "title": "تأكيد الحذف",
+            "message": "هل أنت متأكد أنك تريد حذف الصفحة %{pageNum}؟"
+        },
+        "ariaLabel": "إزالة الصفحة %{pageNum}"
+    },
+    "description": "الصورة التي سيتم عرضها في الصفحة %{pageNum}.",
+    "label": "الصفحة %{pageNum}",
+    "moveDownButton": {"ariaLabel": "انقل الصفحة %{pageNum} إلى الأسفل"}
+}

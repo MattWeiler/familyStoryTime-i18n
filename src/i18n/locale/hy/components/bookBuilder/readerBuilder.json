@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Լրացուցիչ ձայնագրություն, որը պետք է նվագարկվի մինչև 1-ին էջը կարդալը:",
+        "label": {
+            "withDisplayName": "%{readerDisplayName}-ի ներածական աուդիո",
+            "noDisplayName": "Ներածություն Աուդիո"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} ընթերցողի ներածություն",
+            "noDisplayName": "ID %{readerId} ներածություն ունեցող ընթերցող"
+        }
+    },
+    "readerImage": {
+        "description": "Այս ընթերցողի համար ցուցադրվող պատկերը:",
+        "accessibleImageDisplayName": "ընթերցողի պատկեր %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Սա կհեռացնի այս ընթերցողի համար ձայնագրված էջի բոլոր ձայները:",
+            "additionalMessage2": "ՍԱ ՉԻ ՀԵՏԱՐԿԵԼ:",
+            "title": "Ջնջման հաստատում",
+            "message": {
+                "withDisplayName": "Իսկապե՞ս ուզում եք ջնջել «%{readerDisplayName}» ընթերցողը:",
+                "noDisplayName": "Իսկապե՞ս ուզում եք ջնջել այս ընթերցողը:"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "հեռացնել ընթերցողին %{readerDisplayName}",
+            "noDisplayName": "հեռացնել ընթերցողին ID-ով %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "ցուցադրվող անունը ընթերցողի համար",
+                "noDisplayName": "ցուցադրվող անունը ընթերցողի համար"
+            },
+            "title": {
+                "withDisplayName": "Թարմացրեք ցուցադրվող անունը",
+                "noDisplayName": "Սահմանեք ցուցադրման անունը"
+            },
+            "message": {
+                "withDisplayName": "Ինչո՞վ կուզենայիք փոխել այս ընթերցողների ցուցադրվող անունը:",
+                "noDisplayName": "Ո՞րն է այս ընթերցողի ցուցադրման անունը:"
+            },
+            "inputPlaceholder": "ընթերցողի անունը"
+        },
+        "ariaLabel": {
+            "withDisplayName": "փոխել ցուցադրվող անունը ընթերցողի համար %{readerDisplayName}",
+            "noDisplayName": "փոխեք ցուցադրվող անունը %{readerId} ID-ով ընթերցողի համար"
+        }
+    }
+}

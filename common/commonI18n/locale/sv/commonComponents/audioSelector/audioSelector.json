@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "spela in ditt eget %{audioDisplayName} ljud"},
+    "toasts": {
+        "audioFileLoading": {"failure": "det gick inte att ladda ljudet"},
+        "editInitFailed": "misslyckades med att redigera ljud",
+        "recordingFailed": "misslyckades med att spela in ljud"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Rensa bekräftelse",
+            "message": "Är du säker på att du vill rensa det valda ljudet?"
+        },
+        "ariaLabel": "rensa det valda %{audioDisplayName}-ljudet"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "välj ett förinställt %{audioDisplayName}-ljud"},
+    "selectAudioFileButton": {"ariaLabel": "välj din egen %{audioDisplayName} ljudfil"},
+    "playButton": {
+        "stopped": {"ariaLabel": "spela upp %{audioDisplayName}-ljudet"},
+        "recording": {"ariaLabel": "stoppa %{audioDisplayName}-inspelningen"},
+        "playing": {"ariaLabel": "stoppa uppspelningen av %{audioDisplayName}-ljudet"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "redigera det för närvarande inlästa %{audioDisplayName}-ljudet",
+        "cancelConfirmation": {
+            "title": "Släng redigering",
+            "message": "Är du säker på att du vill ignorera alla ändringar du har gjort?",
+            "buttonAriaLabels": {
+                "no": "nej, stanna kvar och fortsätt redigera",
+                "yes": "ja, kassera redigeringar"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Uppladdad fil: %{filename}",
+        "recording": "Inspelning",
+        "preset": "Förinställning: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Tillstånd nekad",
+        "message": "Du har nekat åtkomst till din mikrofon."
+    }}
+}

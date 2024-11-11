@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Zgjidhni",
+                "ariaLabel": "zgjidhni librin %{bookTitle}"
+            },
+            "edit": {
+                "title": "Redakto",
+                "ariaLabel": "redakto librin %{bookTitle}"
+            },
+            "delete": {
+                "title": "Fshije",
+                "ariaLabel": "fshi librin %{bookTitle}"
+            },
+            "export": {
+                "title": "Eksporto",
+                "ariaLabel": "eksporto librin %{bookTitle}"
+            }
+        },
+        "ariaLabel": "hap menynë e kontekstit për librin %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} faqe",
+            "one": "faqe %{count}"
+        },
+        "ariaLabel": {
+            "other": "%{count} faqe",
+            "one": "faqe %{count}"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "zgjidhni librin %{bookTitle}",
+        "selected": "çzgjidh librin %{bookTitle}"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} lexues",
+            "one": "%{count} lexues"
+        },
+        "ariaLabel": {
+            "other": "libri %{bookTitle} ka %{count} lexues",
+            "one": "libri %{bookTitle} ka %{count} lexues"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "lexo historinë: %{bookTitle}",
+        "selectionMode": "%{bookTitle} libër"
+    }
+}

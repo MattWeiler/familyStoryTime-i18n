@@ -1,0 +1,33 @@
+{
+    "intro": "Jeg opprettet denne applikasjonen for å hjelpe barn i deres lesereise, men også for å kunne få historier lest for dem av kjære som ikke kan være der.",
+    "title": "Familietid",
+    "paragraphs": {
+        "paragraph_4": {
+            "content_1": "Få historiene dine lest for deg av din favoritthistorieforteller, selv om de ikke kan være der.",
+            "title": "Kjente stemmer"
+        },
+        "paragraph_3": {
+            "content_1": "Bøkene kan leses automatisk mens du leser med.",
+            "title": "Øv på lesing"
+        },
+        "paragraph_2": {
+            "content_1": "Digitaliser favorittbøkene dine slik at de varer i mange år framover.",
+            "title": "Behold favorittene dine"
+        },
+        "paragraph_1": {
+            "content_2": "Oppbevar alle favorittbøkene dine på ett sted for enkel tilgang hjemme eller på farten.",
+            "content_1": "Nyt å lese som en familie.",
+            "title": "Nyt å lese"
+        },
+        "paragraph_6": {
+            "content_2": "Når den er aktivert, må enhetseieren låse opp applikasjonen ved hjelp av biometriske data (avhengig av enheten) for å få tilgang til de sensitive aspektene ved applikasjonen.",
+            "content_1": "Applikasjonen har en funksjon for foreldrelås.",
+            "title": "Foreldrelås"
+        },
+        "paragraph_5": {
+            "content_2": "Historier kan eksporteres enten enkeltvis eller alle samtidig.",
+            "content_1": "Lag dine egne historier og del dem med venner og familie.",
+            "title": "Dele"
+        }
+    }
+}

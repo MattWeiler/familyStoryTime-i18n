@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Изберете",
+                "ariaLabel": "изберете книгата %{bookTitle}"
+            },
+            "edit": {
+                "title": "Редактиране",
+                "ariaLabel": "редактирайте книгата %{bookTitle}"
+            },
+            "delete": {
+                "title": "Изтриване",
+                "ariaLabel": "изтрий книгата %{bookTitle}"
+            },
+            "export": {
+                "title": "Експортиране",
+                "ariaLabel": "експортирайте книгата %{bookTitle}"
+            }
+        },
+        "ariaLabel": "отворете контекстното меню за книга %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} страници",
+            "one": "%{count} страница"
+        },
+        "ariaLabel": {
+            "other": "%{count} страници",
+            "one": "%{count} страница"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "изберете книгата %{bookTitle}",
+        "selected": "премахнете избора от книгата %{bookTitle}"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} читатели",
+            "one": "%{count} четец"
+        },
+        "ariaLabel": {
+            "other": "книгата %{bookTitle} има %{count} читатели",
+            "one": "книгата %{bookTitle} има %{count} читател"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "прочетете историята: %{bookTitle}",
+        "selectionMode": "%{bookTitle} книга"
+    }
+}

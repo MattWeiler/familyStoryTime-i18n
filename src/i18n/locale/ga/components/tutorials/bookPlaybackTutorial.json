@@ -1,0 +1,24 @@
+{
+    "summary": "Is féidir leat leabhair atá suiteáilte agat ar do ghléas a athsheinm.",
+    "splashScreen": {
+        "messages": {
+            "1": "Ón splancscáileán is féidir leat a roghnú conas is mian leat an leabhar a athsheinm agus roghnaigh cé acu léitheoir ar cheart don leabhar a léamh, más infheidhme.",
+            "2": "Má tá léitheoirí curtha leis an leabhar, beidh tú in ann roghnú idir na modhanna \"Auto Play\", \"Read To Me\" agus \"Read It Myself\".",
+            "3": "Sa mhód \"Auto Play\" léifidh an léitheoir roghnaithe an leabhar agus athrófar na leathanaigh go huathoibríoch.",
+            "4": "Sa mhód \"Léigh Liom\" léifidh an léitheoir roghnaithe an leabhar, ach ní mór na leathanaigh a athrú de láimh. ",
+            "5": "Tabharfaidh an modh \"Léigh Mise\" deis duit an leabhar a léamh tú féin.",
+            "6": "Má tá faisnéis foinse sa leabhar, beidh deilbhín ann a thaispeánfaidh an fhaisnéis foinse sin nuair a chliceáiltear air. "
+        },
+        "title": "Scáileán Splash"
+    },
+    "player": {
+        "messages": {
+            "1": "Nuair a bheidh leabhar á sheinm, taispeánfar cnaipí nascleanúna a ligfidh duit an fhuaim léitheora a chur ar sos/seinm chomh maith le nascleanúint a dhéanamh idir leathanaigh.",
+            "2": "Is féidir na cnaipí nascleanúna a chur i bhfolach/a thaispeáint ach an íomhá a bhrú go haonarach.",
+            "3": "Is féidir roinnt gothaí a úsáid freisin chun nascleanúint a dhéanamh.",
+            "4": "Má sleamhnaíonn tú ar chlé/ar dheis, déanfaidh tú nascleanúint idir na leathanaigh.",
+            "5": "Déanfar súmáil isteach/amach trí thapáil faoi dhó nó trí phioncadh. "
+        },
+        "title": "Imreoir Leabhar"
+    }
+}

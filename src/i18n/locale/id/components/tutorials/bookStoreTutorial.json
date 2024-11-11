@@ -1,0 +1,17 @@
+{
+    "summary": "Anda dapat menemukan buku domain publik di toko buku kami.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Anda dapat memilih buku mana yang ingin Anda unduh.",
+            "2": "Melakukannya akan menginstal buku tersebut ke perangkat Anda, memungkinkan Anda memutarnya dan bahkan menambahkan pembaca Anda sendiri."
+        },
+        "title": "Memasang Buku"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Anda juga dapat melihat buku mana yang sudah Anda instal dari toko buku kami.",
+            "2": "Dari sini, Anda dapat menghapus buku yang diinstal sebelumnya atau memeriksa pembaruan yang tersedia."
+        },
+        "title": "Mengelola Buku"
+    }
+}

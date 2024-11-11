@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "nammineq %{audioDisplayName} nipimik immiussigit"},
+    "toasts": {
+        "audioFileLoading": {"failure": "lyd-imik ikkussinissaq iluatsinngilaq"},
+        "editInitFailed": "nipimik allanngortitsineq iluatsinngilaq",
+        "recordingFailed": "nipimik immiussinissaq iluatsinngilaq"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Ersarissumik Uppernarsaaneq",
+            "message": "Qularnanngilaq nipilersorneq toqqarneqarsimasoq atorlugu?"
+        },
+        "ariaLabel": "toqqarneqarsimasoq %{audioDisplayName} nipilersorlugu"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "%{audioDisplayName}-mik nipilersorneq toqqaruk"},
+    "selectAudioFileButton": {"ariaLabel": "nammineq %{audioDisplayName} nipilersuutit toqqaruk"},
+    "playButton": {
+        "stopped": {"ariaLabel": "%{audioDisplayName} nipilersorlugu"},
+        "recording": {"ariaLabel": "%{audioDisplayName}-mik immiussineq unitsiguk"},
+        "playing": {"ariaLabel": "%{audioDisplayName} nipimik tusarnaartitsineq unitsiguk"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "%{audioDisplayName} nipi ullumikkut ikkussorneqarsimasoq allanngortiguk",
+        "cancelConfirmation": {
+            "title": "Redigering annaakkit",
+            "message": "Qularnanngilaq allanngortiterinerit suliarisimasatit peerlugit?",
+            "buttonAriaLabels": {
+                "no": "aap, uninngagit aammalu redigering ingerlateqqiguk",
+                "yes": "aap, allanngortiterinerit peerlugit"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "File ikkussorneqarsimasoq: %{filename}",
+        "recording": "Immiussineq",
+        "preset": "Siusinnerusukkut inissititerneq: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Akuersissut itigartinneqarpoq",
+        "message": "Mikrofonimut isernissamut akuersissummik itigartitsisimavutit."
+    }}
+}

@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "İsim",
+        "placeholder": "John Doe",
+        "ariaLabel": "isteğe bağlı olarak adınız"
+    },
+    "emailInput": {
+        "description": "Bizden haber almak istiyorsanız bunu sağlayın.",
+        "label": "E-posta Adresi",
+        "placeholder": "birisi@gmail.com",
+        "ariaLabel": "isteğe bağlı olarak e-posta adresiniz"
+    }
+}

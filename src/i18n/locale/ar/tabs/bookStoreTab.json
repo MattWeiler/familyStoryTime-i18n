@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "لا، لا تقم بإلغاء تثبيت الكتاب المتاح",
+            "yesButtonAriaLabel": "نعم، قم بإلغاء تثبيت الكتاب المتاح",
+            "title": "تأكيد إلغاء التثبيت",
+            "message": "هل أنت متأكد أنك تريد إلغاء تثبيت هذا الكتاب المتاح؟\n"
+        },
+        "ariaLabel": "إلغاء تثبيت الكتاب المتاح %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "حر"},
+        "newerVersionAvailableMessage": "التحديث متاح"
+    },
+    "subtitle": "دعونا نجد بعض القصص الجيدة للقراءة.",
+    "loadingFailedMessage": "فشل تحميل الكتب المتاحة.\n",
+    "title": "متجر الكتب",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "لا، لا تقم بتثبيت الكتاب المتاح",
+            "yesButtonAriaLabel": "نعم، قم بتثبيت الكتاب المتاح",
+            "title": "تأكيد التثبيت",
+            "message": "هل أنت متأكد من أنك تريد تثبيت هذا الكتاب المتاح؟\nسيؤدي القيام بذلك إلى استخدام %{fileSize} من البيانات."
+        },
+        "ariaLabel": "تثبيت الكتاب المتاح %{bookName}"
+    }
+}

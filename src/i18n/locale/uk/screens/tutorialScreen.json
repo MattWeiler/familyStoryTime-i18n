@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Надсилання нам відгуків"},
+        "intro": {"displayName": "вступ"},
+        "createBooks": {"displayName": "Створення книг"},
+        "parentalLocking": {"displayName": "Батьківський контроль"},
+        "sharingBooks": {"displayName": "Обмін книгами"},
+        "bookPlayback": {"displayName": "Гра в книги"},
+        "bookStore": {"displayName": "Книжковий магазин"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "переглянути сторінку %{pageName}"},
+        "backPageButton": {"ariaLabel": "повернутися на 1 сторінку назад"},
+        "forwardPageButton": {"ariaLabel": "перейти на 1 сторінку вперед"}
+    },
+    "startLink": {
+        "label": "Почніть роботу",
+        "ariaLabel": "перейдіть на головну сторінку"
+    }
+}

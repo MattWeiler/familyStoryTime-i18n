@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Čtenářský koutek",
+        "ariaLabel": "čtěte své knihy zde"
+    },
+    "bookStore": {
+        "text": "Knihkupectví",
+        "ariaLabel": "navštívit knihkupectví"
+    }
+}

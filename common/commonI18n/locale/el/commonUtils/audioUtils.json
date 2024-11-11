@@ -1,0 +1,22 @@
+{"durations": {
+    "hours": {
+        "other": "%{displayValue} ώρες",
+        "one": "%{displayValue} ώρα"
+    },
+    "mins": {
+        "other": "%{displayValue} λεπτά",
+        "one": "%{displayValue} λεπτά"
+    },
+    "ms": {
+        "other": "%{displayValue} ms",
+        "one": "%{displayValue} ms"
+    },
+    "secs": {
+        "other": "%{displayValue} δευτερόλεπτα",
+        "one": "%{displayValue} δευτ"
+    },
+    "days": {
+        "other": "%{displayValue} ημέρες",
+        "one": "%{displayValue} ημέρα"
+    }
+}}

@@ -1,0 +1,34 @@
+{
+    "summary": "Atortoq meeqqanut tunniunneqannginnerani, meeqqat atuakkanik allanik piiaasinnaajunnaarnissaat imaluunniit allanik allanngortitsisinnaajunnaarnissaat pillugu applikationi lock-down-ersinnaavat.",
+    "enabling": {
+        "messages": {
+            "1": "Angajoqqaanut matusisinnaaneq atuutilersinniarlugu hamburger-menu ammaruk taavalu qulaani-talerperliup tungaani ammasumik matusineq tooruk.",
+            "2": "Tamanna biometrimik uppernarsaammik tunniussinissannut piumasaqarpoq, taannalu angajoqqaanut låsefunktionimik aallartitsissaaq.",
+            "3": "Maanna angajoqqaanut låseqarsinnaaneq atuutilersinneqarmat, ammasumik låsimik ikonimik toqqaanikkut applikationi lock-down-erneqassaaq.",
+            "4": "Angajoqqaanut låseqarsinnaaneq atuutilersinneqarpat, applikationip aallartinneqarnerani tamani låse-down-imiissaaq."
+        },
+        "title": "Angajoqqaanut låse atulersiguk"
+    },
+    "disabling": {
+        "messages": {
+            "1": "Angajoqqaanut matusisinnaaneq qaminniarlugu hamburger-menu ammaruk taavalu ataani inissititerneq tooruk.",
+            "2": "Quppernermi inissititernermi \"Angajoqqaanut låse\"-mik atortoq toqqarsinnaanngilat."
+        },
+        "title": "Angajoqqaat låseat atorsinnaajunnaarsiguk"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "Applikationi locked-down-iuppat applikationimi arlallit takutinneqassanngillat soorlu kontekstmeny-t imaluunniit toortagassat atuakkanik ilanngussinnaasunik/peersinnaasunik.",
+            "2": "Tamanna applikationimik atuarneqarsinnaasumut inissitsivoq, taannalu meeqqanut atorneqarsinnaavoq.",
+            "3": "Taakku toqqorsimasut iserfiginiarlugit applikationi ammartariaqarpat."
+        },
+        "title": "Lacked Funktioner"
+    },
+    "locked": {
+        "messages": {
+            "1": "Applikationi ammarniarlugu hamburger-menu ammaruk, qulaanilu talerperliup tungaaniittoq closed lock-ikon-i tooruk.",
+            "2": "Tamanna biometrimik uppernarsaammik tunniussinissaq piumasaqarfigissavat, taannalu qinnuteqaat ammassavaa."
+        },
+        "title": "Applikationimik ammaassineq"
+    }
+}

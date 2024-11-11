@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Volitelný zvuk, který se má přehrát před čtením 1. stránky.",
+        "label": {
+            "withDisplayName": "Úvodní zvuk uživatele %{readerDisplayName}",
+            "noDisplayName": "Úvodní zvuk"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "Úvod čtenáře %{readerDisplayName}",
+            "noDisplayName": "čtečka s ID %{readerId} úvod"
+        }
+    },
+    "readerImage": {
+        "description": "Obrázek, který se má zobrazit pro tuto čtečku.",
+        "accessibleImageDisplayName": "obrázek čtenáře %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Tím se odstraní veškerý zvuk stránky zaznamenaný pro tuto čtečku.",
+            "additionalMessage2": "TOTO NELZE VRÁTIT!",
+            "title": "Potvrzení smazání",
+            "message": {
+                "withDisplayName": "Opravdu chcete smazat čtečku \u201e%{readerDisplayName}\u201c?",
+                "noDisplayName": "Opravdu chcete smazat tuto čtečku?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "odebrat čtečku %{readerDisplayName}",
+            "noDisplayName": "odeberte čtečku s ID %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "zobrazovaný název pro čtečku",
+                "noDisplayName": "zobrazovaný název pro čtečku"
+            },
+            "title": {
+                "withDisplayName": "Aktualizujte zobrazovaný název",
+                "noDisplayName": "Nastavte zobrazovaný název"
+            },
+            "message": {
+                "withDisplayName": "Na co byste chtěli změnit tento zobrazovaný název čtenářů?",
+                "noDisplayName": "Jaký je zobrazovaný název této čtečky?"
+            },
+            "inputPlaceholder": "jméno čtenáře"
+        },
+        "ariaLabel": {
+            "withDisplayName": "změnit zobrazovaný název pro čtečku %{readerDisplayName}",
+            "noDisplayName": "změnit zobrazovaný název pro čtečku s ID %{readerId}"
+        }
+    }
+}

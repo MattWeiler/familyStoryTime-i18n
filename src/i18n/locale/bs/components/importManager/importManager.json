@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "uvoz je već pokrenut, pokušajte ponovo kasnije",
+        "download": {"failed": "nije uspjelo preuzimanje \"%{bookName}\"."},
+        "install": {
+            "failed": "nije uspio uvesti \"%{bookName}\"",
+            "successful": "uspješno uvezen \"%{bookName}\""
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Otkaži",
+            "ariaLabel": "otkažite uvoz"
+        },
+        "install": {
+            "textLabel": "Instaliraj",
+            "ariaLabel": "instaliraj odabrane knjige: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "analiziranje ...",
+        "downloading": "preuzimanje ...",
+        "installing": "instaliranje...",
+        "cancelling": "otkazivanje ..."
+    },
+    "nothingToInstall": "Ništa za uvoz :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Ovaj čitač je već dio instalirane knjige.\n\n"},
+            "checkbox": {"ariaLabel": "uključiti čitač %{readerDisplayName} u uvoz"}
+        },
+        "checkbox": {"ariaLabel": "uključiti %{bookName} knjigu u uvoz"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Ova knjiga je već na vašem uređaju.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Ako odaberete prepisivanje, trenutna knjiga će biti zamijenjena novom.\n\n"},
+                    "noReaders": {"label": "Ova knjiga je već na vašem uređaju.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Ovaj fajl sadrži samo zvuk, a knjiga nije instalirana na vašem uređaju.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Ova knjiga nije na vašem uređaju.\n\n"},
+                    "noReaders": {"label": "Ova knjiga nije na vašem uređaju.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "spojiti",
+                    "ariaLabel": "spojite knjigu %{bookName} dodavanjem novih čitača i prepisivanjem postojećih čitača novim čitaocima"
+                },
+                "overwrite": {
+                    "label": "prepisati",
+                    "ariaLabel": "prepiši postojeću knjigu %{bookName}"
+                }
+            },
+            "ariaLabel": "odaberite koju strategiju uvoza koristiti za knjigu %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "nemojte otkazivati \u200b\u200buvoz"},
+            "yes": {"ariaLabel": "otkažite uvoz"}
+        },
+        "title": "Potvrdite Otkaži uvoz",
+        "message": "Jeste li sigurni da želite otkazati uvoz?"
+    }},
+    "titles": {
+        "booksToInstall": "Knjige za instaliranje",
+        "failedToInstall": "Instalacija knjiga nije uspjela"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "import již běží, zkuste to znovu později",
+        "download": {"failed": "nepodařilo se stáhnout \u201e%{bookName}\u201c."},
+        "install": {
+            "failed": "nepodařilo se importovat \u201e%{bookName}\u201c",
+            "successful": "úspěšně importováno \u201e%{bookName}\u201c"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Zrušit",
+            "ariaLabel": "zrušit import"
+        },
+        "install": {
+            "textLabel": "Instalovat",
+            "ariaLabel": "nainstalovat vybrané knihy: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "analyzovat...",
+        "downloading": "stahování...",
+        "installing": "instalace...",
+        "cancelling": "zrušení..."
+    },
+    "nothingToInstall": "Není co importovat :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Tato čtečka je již součástí nainstalované knihy.\n\n"},
+            "checkbox": {"ariaLabel": "k zahrnutí čtečky %{readerDisplayName} do importu"}
+        },
+        "checkbox": {"ariaLabel": "k zahrnutí knihy %{bookName} do importu"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Tato kniha je již ve vašem zařízení.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Pokud se rozhodnete přepsat, aktuální kniha bude nahrazena novou.\n\n"},
+                    "noReaders": {"label": "Tato kniha je již ve vašem zařízení.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Tento soubor obsahuje pouze zvuk a kniha není ve vašem zařízení nainstalována.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Tato kniha není ve vašem zařízení.\n\n"},
+                    "noReaders": {"label": "Tato kniha není ve vašem zařízení.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "spojit",
+                    "ariaLabel": "sloučit knihu %{bookName} přidáním nových čtenářů a přepsáním stávajících čtenářů novými čtenáři"
+                },
+                "overwrite": {
+                    "label": "přepsat",
+                    "ariaLabel": "přepsat existující knihu %{bookName}"
+                }
+            },
+            "ariaLabel": "vyberte, jakou strategii importu použít pro knihu %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "nerušte import"},
+            "yes": {"ariaLabel": "zrušit import"}
+        },
+        "title": "Potvrďte Zrušit import",
+        "message": "Opravdu chcete zrušit import?"
+    }},
+    "titles": {
+        "booksToInstall": "Knihy k instalaci",
+        "failedToInstall": "Instalace knih se nezdařila"
+    }
+}

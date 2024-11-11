@@ -1,0 +1,28 @@
+{
+    "startButton": {
+        "title": "starta boken",
+        "ariaLabel": "starta boken"
+    },
+    "selectedReaderImage": {"ariaLabel": "välj rösten för att läsa boken"},
+    "skipIntroButton": {
+        "title": "hoppa över introt",
+        "ariaLabel": "hoppa över introt"
+    },
+    "readMode": {
+        "items": {
+            "autoRead": {
+                "label": "Automatisk uppspelning",
+                "ariaLabel": "varje sida kommer att läsas för användaren med den röst de väljer"
+            },
+            "pageRead": {
+                "label": "Läs för mig",
+                "ariaLabel": "varje sida kommer att läsas för användaren i rösten som han eller hon väljer, men användaren är ansvarig för att ändra sidan"
+            },
+            "selfRead": {
+                "label": "Läs det själv",
+                "ariaLabel": "användaren kommer att läsa varje sida"
+            }
+        },
+        "ariaLabel": "välj vilket läsläge som ska användas"
+    }
+}

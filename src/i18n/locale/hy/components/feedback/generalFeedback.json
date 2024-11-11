@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "էլփոստի ուղարկումը չի աջակցվում",
+        "submissionFailed": "հետադարձ կապի ուղարկումը ձախողվեց",
+        "submissionSuccess": "ուղարկված արձագանքը"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Խնդրում ենք ընտրել բավարարվածության մակարդակ:",
+        "description": "Որքա՞ն հավանական է, որ կիսվեք մեր հավելվածով:",
+        "label": "Կիսվելով ուրիշների հետ",
+        "levels": {
+            "1": {
+                "displayName": "Ոչ մի կերպ",
+                "ariaLabel": "ոչ մի կերպ"
+            },
+            "2": {
+                "displayName": "Հավանական չէ",
+                "ariaLabel": "հավանական չէ"
+            },
+            "3": {
+                "displayName": "Միգուցե",
+                "ariaLabel": "գուցե"
+            },
+            "4": {
+                "displayName": "Այո՛",
+                "ariaLabel": "այո"
+            },
+            "5": {
+                "displayName": "Արդեն Ունեն",
+                "ariaLabel": "արդեն ունեն"
+            }
+        },
+        "ariaLabel": "ընտրեք, թե որքան հավանական է, որ այս բջջային հավելվածը կիսվեք ուրիշների հետ"
+    },
+    "submitButton": {
+        "text": "Հետադարձ կապ ուղարկել",
+        "ariaLabel": "ներկայացնել ձեր կարծիքը"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Խնդրում ենք ընտրել բավարարվածության մակարդակ:",
+        "description": "Որքա՞ն եք հավանել/չհավանել մեր հավելվածը:",
+        "label": "Հավելվածի բավարարվածություն",
+        "levels": {
+            "1": {
+                "displayName": "Ատել այն",
+                "ariaLabel": "ատել այն"
+            },
+            "2": {
+                "displayName": "Հիասթափված",
+                "ariaLabel": "հիասթափված"
+            },
+            "3": {
+                "displayName": "Չեզոք",
+                "ariaLabel": "չեզոք"
+            },
+            "4": {
+                "displayName": "Հիանալի",
+                "ariaLabel": "մեծ"
+            },
+            "5": {
+                "displayName": "Սիրիր այն",
+                "ariaLabel": "սիրիր այն"
+            }
+        },
+        "ariaLabel": "ընտրեք ձեր բավարարվածության մակարդակը այս բջջային հավելվածից"
+    },
+    "commentInput": {
+        "description": "Ընտրովի տրամադրեք ցանկացած լրացուցիչ մեկնաբանություն, որ ունեք:",
+        "label": "Մեկնաբանություն",
+        "ariaLabel": "ընտրովի, լրացուցիչ մեկնաբանություններ"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Խնդրում ենք ընտրել բավարարվածության մակարդակ:",
+        "description": "Ինչպե՞ս գտաք գրքեր խաղալը:",
+        "label": "Գրքեր խաղալը",
+        "levels": {
+            "1": {
+                "displayName": "Չի աշխատել",
+                "ariaLabel": "չաշխատեց"
+            },
+            "2": {
+                "displayName": "Ոչ մեծ",
+                "ariaLabel": "ոչ մեծ"
+            },
+            "3": {
+                "displayName": "Լավ է",
+                "ariaLabel": "լավ է"
+            },
+            "4": {
+                "displayName": "Հեշտ է",
+                "ariaLabel": "դա հեշտ է"
+            },
+            "5": {
+                "displayName": "Սիրիր այն",
+                "ariaLabel": "սիրիր այն"
+            }
+        },
+        "ariaLabel": "ընտրեք ձեր գոհունակությունը գրքի նվագարկումից"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Խնդրում ենք ընտրել բավարարվածության մակարդակ:",
+        "description": "Ինչպե՞ս ձեզ դուր եկավ բազմաթիվ ընթերցողներ ունենալը:",
+        "label": "Բազմաթիվ ընթերցողներ",
+        "levels": {
+            "1": {
+                "displayName": "Չի աշխատել",
+                "ariaLabel": "չաշխատեց"
+            },
+            "2": {
+                "displayName": "Ոչ մեծ",
+                "ariaLabel": "ոչ մեծ"
+            },
+            "3": {
+                "displayName": "Լավ է",
+                "ariaLabel": "լավ է"
+            },
+            "4": {
+                "displayName": "Հեշտ է",
+                "ariaLabel": "դա հեշտ է"
+            },
+            "5": {
+                "displayName": "Սիրիր այն",
+                "ariaLabel": "սիրիր այն"
+            }
+        },
+        "ariaLabel": "ընտրեք ձեր գոհունակությունը մեկ գրքում մի քանի ընթերցող ունենալուց"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Խնդրում ենք ընտրել բավարարվածության մակարդակ:",
+        "description": "Ինչպե՞ս գտաք գրքերի ստեղծումը:",
+        "label": "Գրքերի ստեղծում",
+        "levels": {
+            "1": {
+                "displayName": "Չի աշխատել",
+                "ariaLabel": "չաշխատեց"
+            },
+            "2": {
+                "displayName": "Ոչ մեծ",
+                "ariaLabel": "ոչ մեծ"
+            },
+            "3": {
+                "displayName": "Լավ է",
+                "ariaLabel": "լավ է"
+            },
+            "4": {
+                "displayName": "Հեշտ է",
+                "ariaLabel": "դա հեշտ է"
+            },
+            "5": {
+                "displayName": "Սիրիր այն",
+                "ariaLabel": "սիրիր այն"
+            }
+        },
+        "ariaLabel": "ընտրեք ձեր գոհունակությունը գրքի ստեղծման գործընթացից"
+    }
+}

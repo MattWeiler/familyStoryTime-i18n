@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "nipilersorneq",
+            "ariaLabel": "nipilersorneq"
+        },
+        "playing": {
+            "title": "nipi pause",
+            "ariaLabel": "nipi pause"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "zoom out-imik assi tamakkerlugu takutinniarlugu, sinnerani sorlaqarsinnaavoq",
+        "zoomedOut": "zoom in qulakkeerlugu skærmi tamakkerlugu assimik ulikkaartoq, assip ilaa takuneqarsinnaanngilaq"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "quppernermut siulianut ingerlagit",
+            "ariaLabel": "quppernermut siulianut ingerlagit"
+        },
+        "noPreviousPage": {
+            "title": "atuakkanik toqqaaniarnermut uteqqigit",
+            "ariaLabel": "atuakkanik toqqaaniarnermut uteqqigit"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "quppernermut tullermut ingerlagit",
+            "ariaLabel": "quppernermut tullermut ingerlagit"
+        },
+        "noNextPage": {
+            "title": "atuakkanik toqqaaniarnermut uteqqigit",
+            "ariaLabel": "atuakkanik toqqaaniarnermut uteqqigit"
+        }
+    }
+}

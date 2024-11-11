@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "ইমেল সমর্থিত নয়",
+        "submissionFailed": "প্রতিক্রিয়া পাঠাতে ব্যর্থ হয়েছে",
+        "submissionSuccess": "প্রতিক্রিয়া পাঠানো হয়েছে"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "একটি সন্তুষ্টি স্তর নির্বাচন করুন.",
+        "description": "আপনি আমাদের অ্যাপ শেয়ার করার সম্ভাবনা কতটা?",
+        "label": "অন্যদের সাথে ভাগ করা",
+        "levels": {
+            "1": {
+                "displayName": "নো ওয়ে",
+                "ariaLabel": "কোন উপায়"
+            },
+            "2": {
+                "displayName": "সম্ভাবনা নেই",
+                "ariaLabel": "সম্ভাবনা নেই"
+            },
+            "3": {
+                "displayName": "হতে পারে",
+                "ariaLabel": "হয়তো"
+            },
+            "4": {
+                "displayName": "হ্যাঁ",
+                "ariaLabel": "হ্যাঁ"
+            },
+            "5": {
+                "displayName": "ইতিমধ্যে আছে",
+                "ariaLabel": "ইতিমধ্যে আছে"
+            }
+        },
+        "ariaLabel": "আপনার এই মোবাইল অ্যাপ্লিকেশনটি অন্যদের সাথে ভাগ করার কতটা সম্ভাবনা রয়েছে তা নির্বাচন করুন৷"
+    },
+    "submitButton": {
+        "text": "প্রতিক্রিয়া জমা দিন",
+        "ariaLabel": "আপনার মতামত জমা দিন"
+    },
+    "satisfactionInput": {
+        "errorMessage": "একটি সন্তুষ্টি স্তর নির্বাচন করুন.",
+        "description": "আপনি আমাদের অ্যাপটি কতটা পছন্দ/অপছন্দ করেছেন?",
+        "label": "অ্যাপ সন্তুষ্টি",
+        "levels": {
+            "1": {
+                "displayName": "এটা ঘৃণা",
+                "ariaLabel": "এটা ঘৃণা"
+            },
+            "2": {
+                "displayName": "হতাশ",
+                "ariaLabel": "হতাশ"
+            },
+            "3": {
+                "displayName": "নিরপেক্ষ",
+                "ariaLabel": "নিরপেক্ষ"
+            },
+            "4": {
+                "displayName": "দারুণ",
+                "ariaLabel": "মহান"
+            },
+            "5": {
+                "displayName": "এটা ভালবাসা",
+                "ariaLabel": "এটা ভালোবাসি"
+            }
+        },
+        "ariaLabel": "এই মোবাইল অ্যাপ্লিকেশনটির সাথে আপনার সন্তুষ্টির স্তর নির্বাচন করুন"
+    },
+    "commentInput": {
+        "description": "ঐচ্ছিকভাবে আপনার আছে যে কোনো অতিরিক্ত মন্তব্য প্রদান.",
+        "label": "মন্তব্য করুন",
+        "ariaLabel": "ঐচ্ছিকভাবে, অতিরিক্ত মন্তব্য"
+    },
+    "playingBooksInput": {
+        "errorMessage": "একটি সন্তুষ্টি স্তর নির্বাচন করুন.",
+        "description": "কিভাবে আপনি খেলার বই খুঁজে পেয়েছেন?",
+        "label": "বই খেলা",
+        "levels": {
+            "1": {
+                "displayName": "কাজ করেনি",
+                "ariaLabel": "কাজ করেনি"
+            },
+            "2": {
+                "displayName": "গ্রেট নয়",
+                "ariaLabel": "মহান না"
+            },
+            "3": {
+                "displayName": "এটা ঠিক আছে",
+                "ariaLabel": "এটা ঠিক আছে"
+            },
+            "4": {
+                "displayName": "এটা সহজ",
+                "ariaLabel": "এটা সহজ"
+            },
+            "5": {
+                "displayName": "এটা ভালবাসা",
+                "ariaLabel": "এটা ভালোবাসি"
+            }
+        },
+        "ariaLabel": "বই প্লেব্যাক সঙ্গে আপনার সন্তুষ্টি নির্বাচন করুন"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "একটি সন্তুষ্টি স্তর নির্বাচন করুন.",
+        "description": "আপনি কিভাবে একাধিক পাঠক পছন্দ করেছেন?",
+        "label": "একাধিক পাঠক",
+        "levels": {
+            "1": {
+                "displayName": "কাজ করেনি",
+                "ariaLabel": "কাজ করেনি"
+            },
+            "2": {
+                "displayName": "গ্রেট নয়",
+                "ariaLabel": "মহান না"
+            },
+            "3": {
+                "displayName": "এটা ঠিক আছে",
+                "ariaLabel": "এটা ঠিক আছে"
+            },
+            "4": {
+                "displayName": "এটা সহজ",
+                "ariaLabel": "এটা সহজ"
+            },
+            "5": {
+                "displayName": "এটা ভালবাসা",
+                "ariaLabel": "এটা ভালোবাসি"
+            }
+        },
+        "ariaLabel": "বই প্রতি একাধিক পাঠক থাকার সাথে আপনার সন্তুষ্টি নির্বাচন করুন"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "একটি সন্তুষ্টি স্তর নির্বাচন করুন.",
+        "description": "আপনি কিভাবে বই তৈরি খুঁজে পেয়েছেন?",
+        "label": "বই তৈরি করা",
+        "levels": {
+            "1": {
+                "displayName": "কাজ করেনি",
+                "ariaLabel": "কাজ করেনি"
+            },
+            "2": {
+                "displayName": "গ্রেট নয়",
+                "ariaLabel": "মহান না"
+            },
+            "3": {
+                "displayName": "এটা ঠিক আছে",
+                "ariaLabel": "এটা ঠিক আছে"
+            },
+            "4": {
+                "displayName": "এটা সহজ",
+                "ariaLabel": "এটা সহজ"
+            },
+            "5": {
+                "displayName": "এটা ভালবাসা",
+                "ariaLabel": "এটা ভালোবাসি"
+            }
+        },
+        "ariaLabel": "বই তৈরির প্রক্রিয়ার সাথে আপনার সন্তুষ্টি নির্বাচন করুন"
+    }
+}

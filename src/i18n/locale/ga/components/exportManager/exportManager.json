@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "easpórtáil ag rith cheana, bain triail eile as ar ball"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "Cealaigh",
+            "ariaLabel": "cealaigh an t-easpórtáil"
+        },
+        "export": {
+            "textLabel": "Easpórtáil",
+            "ariaLabel": "leabhair roghnaithe a onnmhairiú"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "Sábháil do %{count} leabhar",
+        "one": "Sábháil Leabhar: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "ag déanamh anailíse...",
+        "packaging": "pacáistiú ...",
+        "cancelling": "á chealú ..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "léitheoirí",
+                    "ariaLabel": "easpórtáil an fhaisnéis léitheora do leabhar %{bookTitle} amháin"
+                },
+                "full": {
+                    "label": "lán",
+                    "ariaLabel": "easpórtáil an leabhar ar fad %{bookTitle}"
+                }
+            },
+            "ariaLabel": "roghnaigh conas leabhar %{bookTitle} a easpórtáil"
+        },
+        "readers": {"checkbox": {"ariaLabel": "an léitheoir %{readerDisplayName} a chur san áireamh san easpórtáil"}},
+        "checkbox": {"ariaLabel": "chun an leabhar %{bookTitle} a chur san easpórtáil"},
+        "bookReadersTooltip": {"label": "Má roghnaítear an rogha \"léitheoirí\" ní easpórtálfar ach na léitheoirí roghnaithe.\n\n"}
+    },
+    "packagedMultiBookFileName": "Leabhair",
+    "nothingToExport": "Níl faic le heaspórtáil :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "ná cuir an t-easpórtáil ar ceal"},
+            "yes": {"ariaLabel": "cealaigh an t-easpórtáil"}
+        },
+        "title": "Deimhnigh Cealaigh Easpórtáil",
+        "message": "An bhfuil tú cinnte gur mhaith leat an t-easpórtáil a chealú?"
+    }},
+    "titles": {
+        "booksToExport": "Leabhair le hEaspórtáil",
+        "failedToExport": "Theip ar Easpórtáil Leabhair"
+    },
+    "outputFilenameField": {
+        "label": "Ainm an Chomhaid Aschuir",
+        "ariaLabel": "ainm comhaid aschur ionchais"
+    },
+    "errors": {"invalidOutputFilename": "ainm comhaid neamhbhailí"}
+}

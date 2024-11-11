@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "eksport kjører allerede, prøv igjen senere"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "Kansellere",
+            "ariaLabel": "avbryt eksporten"
+        },
+        "export": {
+            "textLabel": "Eksport",
+            "ariaLabel": "eksportere valgte bøker"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "Lagre %{count} bøkene dine",
+        "one": "Lagre bok: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "analyserer...",
+        "packaging": "emballasje...",
+        "cancelling": "avbryter ..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "lesere",
+                    "ariaLabel": "eksporter kun leserinformasjonen for boken %{bookTitle}"
+                },
+                "full": {
+                    "label": "full",
+                    "ariaLabel": "eksporter hele boken %{bookTitle}"
+                }
+            },
+            "ariaLabel": "velg hvordan boken skal eksporteres %{bookTitle}"
+        },
+        "readers": {"checkbox": {"ariaLabel": "for å inkludere leseren %{readerDisplayName} i eksporten"}},
+        "checkbox": {"ariaLabel": "for å inkludere boken %{bookTitle} i eksporten"},
+        "bookReadersTooltip": {"label": "Hvis du velger alternativet \"lesere\", eksporteres kun de valgte leserne.\n\n"}
+    },
+    "packagedMultiBookFileName": "Bøker",
+    "nothingToExport": "Ingenting å eksportere :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "ikke avbryt eksporten"},
+            "yes": {"ariaLabel": "avbryt eksporten"}
+        },
+        "title": "Bekreft Avbryt eksport",
+        "message": "Er du sikker på at du vil avbryte eksporten?"
+    }},
+    "titles": {
+        "booksToExport": "Bøker som skal eksporteres",
+        "failedToExport": "Kunne ikke eksportere bøker"
+    },
+    "outputFilenameField": {
+        "label": "Utdatafilnavn",
+        "ariaLabel": "forventet utdatafilnavn"
+    },
+    "errors": {"invalidOutputFilename": "ugyldig filnavn"}
+}

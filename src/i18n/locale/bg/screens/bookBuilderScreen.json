@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "запазена книга \u201e%{bookTitle}\u201c",
+        "validationFailed": "валидирането е неуспешно",
+        "bookSaveFailed": "неуспешно записване на книга"
+    },
+    "bookTitleInput": {
+        "description": "Заглавието на книгата.",
+        "label": "Заглавие на книгата",
+        "placeholder": "заглавие на книгата",
+        "ariaLabel": "заглавието на книгата"
+    },
+    "readers": {
+        "label": "Читатели",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "показвано име за този нов четец",
+                "buttons": {
+                    "cancel": {"ariaLabel": "отменете добавянето на новия четец"},
+                    "add": {"ariaLabel": "добавете новия четец"}
+                },
+                "description": "Моля, предоставете екранното име за този нов четец.",
+                "title": "Добавете нов четец",
+                "inputPlaceholder": "име на читател"
+            },
+            "ariaLabel": "добавете нов четец"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Броят милисекунди за изчакване преди възпроизвеждане на аудио за промяна на страницата.",
+            "label": "Аудио преди промяна на страницата",
+            "placeholder": "милисекунди преди възпроизвеждане на аудио за промяна на страницата",
+            "ariaLabel": "милисекунди за изчакване преди възпроизвеждане на аудио за промяна на страницата"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Броят милисекунди за изчакване след възпроизвеждане на аудио за промяна на страницата.",
+            "label": "Аудио след смяна на страницата",
+            "placeholder": "милисекунди след възпроизвеждане на аудио за промяна на страницата",
+            "ariaLabel": "милисекунди за изчакване след възпроизвеждане на аудио за промяна на страницата"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Броят милисекунди за изчакване преди възпроизвеждане на аудио на страницата.",
+            "label": "Преди страница Аудио",
+            "placeholder": "милисекунди преди възпроизвеждане на аудио на страницата",
+            "ariaLabel": "милисекунди за изчакване преди възпроизвеждане на аудио на страницата"
+        },
+        "label": "Закъснения"
+    },
+    "bookIconImageSelector": {
+        "description": "Изображението, което ще се използва като икона за книгата.",
+        "label": "Икона на книга",
+        "accessibleImageDisplayName": "икона на книга"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "Изображението, което ще се покаже при първото стартиране на книгата.",
+        "label": "Първоначално изображение на книгата",
+        "accessibleImageDisplayName": "пръскане на книга"
+    },
+    "confirmations": {"goBack": {
+        "title": "Оставете промените",
+        "message": "Сигурни ли сте, че искате да напуснете, преди да запазите?"
+    }},
+    "pageChangeAudio": {
+        "description": "Аудиото за възпроизвеждане, когато дойде време за смяна на страницата.",
+        "label": "Аудио за промяна на страницата",
+        "presetAudioModalPicker": {
+            "headerLabel": "Изберете Page Change Audio",
+            "ariaLabel": "изберете от списъка с предварително зададени аудио опции за промяна на страницата",
+            "accessibleAudioDisplayName": "промяна на страницата"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Неуспешно зареждане на книгата.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "забавянето не може да бъде отрицателно",
+            "bookTitleMissing": "заглавието на книгата е задължително",
+            "readerDisplayNameMissing": "изисква се показвано име на четеца",
+            "bookIconNotValid": "изисква се икона на книга",
+            "pageTextMissing": "изисква се текст на страницата",
+            "delayBeforePlayingPageAudioNegative": "забавянето не може да бъде отрицателно",
+            "pagesMissing": "изисква се поне 1 страница",
+            "pageImageNotValid": "изображението на страницата е задължително",
+            "delayBeforePlayingPageChangeAudioNegative": "забавянето не може да бъде отрицателно",
+            "bookSplashImageNotValid": "изисква се начално изображение на книгата",
+            "readerIntroAudioNotValid": "въвеждащото аудио за читателя не е валиден файл",
+            "pageAudioNotValid": "изисква се аудио на страницата",
+            "pageChangeAudioNotValid": "изисква се аудио за промяна на страницата",
+            "delayAfterPlayingPageChangeAudioNotInteger": "закъснението трябва да е цяло число",
+            "delayBeforePlayingPageAudioNotInteger": "закъснението трябва да е цяло число",
+            "delayBeforePlayingPageChangeAudioNotInteger": "закъснението трябва да е цяло число",
+            "delayBeforePlayingPageAudioRequired": "изисква се забавяне",
+            "readerImageNotValid": "изисква се изображение на читателя",
+            "delayBeforePlayingPageChangeAudioRequired": "изисква се забавяне",
+            "delayAfterPlayingPageChangeAudioRequired": "изисква се забавяне"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "Изходният URL адрес на книгата.",
+            "label": "URL адрес на източника",
+            "placeholder": "източник URL",
+            "ariaLabel": "източник URL на книгата"
+        },
+        "authorInput": {
+            "description": "Името на автора на книгата.",
+            "label": "Име на автора",
+            "placeholder": "автор на книга",
+            "ariaLabel": "името на автора на книгата"
+        },
+        "illustratorInput": {
+            "description": "Името на илюстратора на книгата.",
+            "label": "Име на илюстратора",
+            "placeholder": "илюстратор на книга",
+            "ariaLabel": "името на илюстратора на книгата"
+        },
+        "publisherInput": {
+            "description": "Името на издателя на книгата.",
+            "label": "Име на издателя",
+            "placeholder": "издател на книга",
+            "ariaLabel": "име на издателя на книгата"
+        },
+        "label": "Източник",
+        "isbnInput": {
+            "description": "Международният стандартен номер на книгата.",
+            "label": "ISBN",
+            "placeholder": "ISBN на книгата",
+            "ariaLabel": "международен стандартен книжен номер на книгата"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "добавете нова страница"},
+        "label": "Страници"
+    }
+}

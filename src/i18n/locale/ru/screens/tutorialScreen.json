@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Предоставление нам обратной связи"},
+        "intro": {"displayName": "Введение"},
+        "createBooks": {"displayName": "Создание книг"},
+        "parentalLocking": {"displayName": "Родительский контроль"},
+        "sharingBooks": {"displayName": "Обмен книгами"},
+        "bookPlayback": {"displayName": "Игра в книги"},
+        "bookStore": {"displayName": "Книжный магазин"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "просмотреть страницу %{pageName}"},
+        "backPageButton": {"ariaLabel": "вернуться на 1 страницу назад"},
+        "forwardPageButton": {"ariaLabel": "перейти вперед на 1 страницу"}
+    },
+    "startLink": {
+        "label": "Начать",
+        "ariaLabel": "перейти на домашнюю страницу"
+    }
+}

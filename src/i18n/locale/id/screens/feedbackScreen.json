@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "Masukan Aplikasi",
+            "ariaLabel": "memberikan umpan balik pada aplikasi kami"
+        },
+        "description": "Kami ingin mendengar apa yang Anda katakan."
+    },
+    "title": "Tinggalkan Umpan Balik",
+    "bugFeedback": {
+        "tab": {
+            "title": "Laporkan Bug",
+            "ariaLabel": "laporkan bug yang Anda temukan di aplikasi kami"
+        },
+        "description": "Kami menyesal mendengar Anda menemukan bug, tetapi kami akan melakukan yang terbaik untuk memperbaikinya :)"
+    }
+}

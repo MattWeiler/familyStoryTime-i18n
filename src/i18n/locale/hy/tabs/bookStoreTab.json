@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "ոչ, մի տեղահանեք «Հասանելի» գիրքը",
+            "yesButtonAriaLabel": "այո, հեռացնել հասանելի գիրքը",
+            "title": "Տեղահանել հաստատումը",
+            "message": "Վստա՞հ եք, որ ցանկանում եք հեռացնել այս հասանելի գիրքը:\n"
+        },
+        "ariaLabel": "հեռացնել հասանելի գիրքը %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "անվճար"},
+        "newerVersionAvailableMessage": "Հասանելի է թարմացում"
+    },
+    "subtitle": "Եկեք մի քանի լավ պատմություն գտնենք կարդալու համար:",
+    "loadingFailedMessage": "Չհաջողվեց բեռնել մատչելի գրքերը:\n",
+    "title": "Գրախանութ",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "ոչ, մի տեղադրեք հասանելի գիրքը",
+            "yesButtonAriaLabel": "այո, տեղադրեք հասանելի գիրքը",
+            "title": "Տեղադրեք հաստատումը",
+            "message": "Վստա՞հ եք, որ ցանկանում եք տեղադրել այս հասանելի գիրքը:\nԴա անելու դեպքում կօգտագործվի տվյալների %{fileSize}:"
+        },
+        "ariaLabel": "տեղադրել հասանելի գիրքը %{bookName}"
+    }
+}

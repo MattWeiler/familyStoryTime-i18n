@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "e-post stöds inte",
+        "submissionFailed": "skicka feedback misslyckades",
+        "submissionSuccess": "feedback skickas"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Vänligen välj en nöjdhetsnivå.",
+        "description": "Hur troligt är det att du delar vår app?",
+        "label": "Dela med andra",
+        "levels": {
+            "1": {
+                "displayName": "Inget sätt",
+                "ariaLabel": "inget sätt"
+            },
+            "2": {
+                "displayName": "Inte troligt",
+                "ariaLabel": "inte troligt"
+            },
+            "3": {
+                "displayName": "Kanske",
+                "ariaLabel": "kanske"
+            },
+            "4": {
+                "displayName": "Ja",
+                "ariaLabel": "ja"
+            },
+            "5": {
+                "displayName": "Har redan",
+                "ariaLabel": "redan har"
+            }
+        },
+        "ariaLabel": "välj hur sannolikt det är att du delar denna mobilapplikation med andra"
+    },
+    "submitButton": {
+        "text": "Skicka feedback",
+        "ariaLabel": "skicka in din feedback"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Vänligen välj en nöjdhetsnivå.",
+        "description": "Hur mycket har du gillat/ogillat vår app?",
+        "label": "Appnöjdhet",
+        "levels": {
+            "1": {
+                "displayName": "Hatar det",
+                "ariaLabel": "hatar det"
+            },
+            "2": {
+                "displayName": "Besviken",
+                "ariaLabel": "besviken"
+            },
+            "3": {
+                "displayName": "Neutral",
+                "ariaLabel": "neutral"
+            },
+            "4": {
+                "displayName": "Stor",
+                "ariaLabel": "stor"
+            },
+            "5": {
+                "displayName": "Älskar det",
+                "ariaLabel": "älskar det"
+            }
+        },
+        "ariaLabel": "välj din nivå av tillfredsställelse med denna mobilapplikation"
+    },
+    "commentInput": {
+        "description": "Ge eventuellt ytterligare kommentarer som du har.",
+        "label": "Kommentar",
+        "ariaLabel": "eventuellt ytterligare kommentarer"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Vänligen välj en nöjdhetsnivå.",
+        "description": "Hur hittade du att spela böcker?",
+        "label": "Spelar böcker",
+        "levels": {
+            "1": {
+                "displayName": "Fungerade inte",
+                "ariaLabel": "fungerade inte"
+            },
+            "2": {
+                "displayName": "Inte bra",
+                "ariaLabel": "inte bra"
+            },
+            "3": {
+                "displayName": "Det är ok",
+                "ariaLabel": "det är okej"
+            },
+            "4": {
+                "displayName": "Det är lätt",
+                "ariaLabel": "det är lätt"
+            },
+            "5": {
+                "displayName": "Älskar det",
+                "ariaLabel": "älskar det"
+            }
+        },
+        "ariaLabel": "välj hur nöjd du är med bokuppspelningen"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Vänligen välj en nöjdhetsnivå.",
+        "description": "Hur tyckte du om att ha flera läsare?",
+        "label": "Flera läsare",
+        "levels": {
+            "1": {
+                "displayName": "Fungerade inte",
+                "ariaLabel": "fungerade inte"
+            },
+            "2": {
+                "displayName": "Inte bra",
+                "ariaLabel": "inte bra"
+            },
+            "3": {
+                "displayName": "Det är ok",
+                "ariaLabel": "det är okej"
+            },
+            "4": {
+                "displayName": "Det är lätt",
+                "ariaLabel": "det är lätt"
+            },
+            "5": {
+                "displayName": "Älskar det",
+                "ariaLabel": "älskar det"
+            }
+        },
+        "ariaLabel": "välj hur nöjd du är med att ha flera läsare per bok"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Vänligen välj en nöjdhetsnivå.",
+        "description": "Hur hittade du att skapa böcker?",
+        "label": "Skapa böcker",
+        "levels": {
+            "1": {
+                "displayName": "Fungerade inte",
+                "ariaLabel": "fungerade inte"
+            },
+            "2": {
+                "displayName": "Inte bra",
+                "ariaLabel": "inte bra"
+            },
+            "3": {
+                "displayName": "Det är ok",
+                "ariaLabel": "det är okej"
+            },
+            "4": {
+                "displayName": "Det är lätt",
+                "ariaLabel": "det är lätt"
+            },
+            "5": {
+                "displayName": "Älskar det",
+                "ariaLabel": "älskar det"
+            }
+        },
+        "ariaLabel": "välj hur nöjd du är med bokskapandet"
+    }
+}

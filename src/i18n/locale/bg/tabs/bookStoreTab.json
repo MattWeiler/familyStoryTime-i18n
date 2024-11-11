@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "не, не деинсталирайте Наличната книга",
+            "yesButtonAriaLabel": "да, деинсталирай наличната книга",
+            "title": "Потвърждение за деинсталиране",
+            "message": "Сигурни ли сте, че искате да деинсталирате тази налична книга?\n"
+        },
+        "ariaLabel": "деинсталирайте наличната книга %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "безплатно"},
+        "newerVersionAvailableMessage": "Налична актуализация"
+    },
+    "subtitle": "Нека намерим някои добри истории за четене.",
+    "loadingFailedMessage": "Неуспешно зареждане на наличните книги.\n",
+    "title": "Книжарница",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "не, не инсталирайте наличната книга",
+            "yesButtonAriaLabel": "да, инсталирайте наличната книга",
+            "title": "Потвърждение за инсталиране",
+            "message": "Сигурни ли сте, че искате да инсталирате тази налична книга?\nПри това ще използвате %{fileSize} данни."
+        },
+        "ariaLabel": "инсталирайте наличната книга %{bookName}"
+    }
+}

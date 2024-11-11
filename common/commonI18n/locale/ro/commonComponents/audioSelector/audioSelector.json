@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "înregistrați-vă propriul audio %{audioDisplayName}"},
+    "toasts": {
+        "audioFileLoading": {"failure": "nu s-a încărcat sunetul"},
+        "editInitFailed": "nu s-a putut edita audio",
+        "recordingFailed": "nu a reușit înregistrarea audio"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Confirmare clară",
+            "message": "Sigur doriți să ștergeți sunetul selectat?"
+        },
+        "ariaLabel": "ștergeți sunetul %{audioDisplayName} selectat"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "selectați un sunet presetat %{audioDisplayName}"},
+    "selectAudioFileButton": {"ariaLabel": "selectați propriul fișier audio %{audioDisplayName}"},
+    "playButton": {
+        "stopped": {"ariaLabel": "redați audio %{audioDisplayName}"},
+        "recording": {"ariaLabel": "opriți înregistrarea %{audioDisplayName}"},
+        "playing": {"ariaLabel": "opriți redarea audio %{audioDisplayName}"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "editați audio %{audioDisplayName} încărcat în prezent",
+        "cancelConfirmation": {
+            "title": "Renunțați la editare",
+            "message": "Sigur doriți să renunțați la orice modificări pe care le-ați făcut?",
+            "buttonAriaLabels": {
+                "no": "nu, rămâneți și continuați editarea",
+                "yes": "da, renunță la editări"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Fișier încărcat: %{filename}",
+        "recording": "Înregistrare",
+        "preset": "Presetat: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Acces refuzat",
+        "message": "Ați refuzat permisiunea de a vă accesa microfonul."
+    }}
+}

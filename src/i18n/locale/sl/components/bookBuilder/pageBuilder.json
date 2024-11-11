@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "stran %{pageNum} slika"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Ponovno skeniraj besedilo strani",
+                "message": "Ali ste prepričani, da želite skenirati sliko za besedilo in zamenjati obstoječe besedilo strani?"
+            },
+            "ariaLabel": "izvleček besedila iz slike za stran %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "besedilo za dodajanje strani %{pageNum}",
+                    "withPageText": "besedilo za posodobitev na strani %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Nastavi besedilo strani",
+                    "withPageText": "Posodobi besedilo strani"
+                },
+                "message": {
+                    "noPageText": "Kakšno je besedilo strani?",
+                    "withPageText": "V kaj bi radi spremenili besedilo strani?"
+                },
+                "inputPlaceholder": "besedilo za dodajanje"
+            },
+            "ariaLabel": "uredi besedilo »%{pageText}« s strani %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "premakni besedilo »%{pageText}« s strani %{pageNum} navzgor"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Potrditev izbrisa",
+                "message": "Ali ste prepričani, da želite izbrisati to besedilo strani?"
+            },
+            "ariaLabel": "odstranite besedilo »%{pageText}« s strani %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "besedilo za dodajanje strani %{pageNum}",
+                "title": "Nastavi besedilo strani",
+                "message": "Kakšno je besedilo strani?",
+                "inputPlaceholder": "besedilo za dodajanje"
+            },
+            "ariaLabel": "dodaj novo besedilo na stran %{pageNum}"
+        },
+        "label": "Besedilo",
+        "showHideButton": {"ariaLabel": {
+            "visible": "skrij besedilo »%{pageText}« s strani %{pageNum}",
+            "hidden": "pokaži besedilo \"%{pageText}\" s strani %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "premakni besedilo »%{pageText}« s strani %{pageNum} navzdol"}
+    },
+    "moveUpButton": {"ariaLabel": "premakni stran %{pageNum} navzgor"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "Zvok za predvajanje, ko \"%{readerDisplayName}\" bere stran %{pageNum}.",
+                "noDisplayName": "Zvok, ki se predvaja, ko ta bralnik bere stran %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "stran %{pageNum} %{readerDisplayName} bralec"
+        },
+        "label": "Bralci"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "S tem boste odstranili ves zvok strani, posnet za to stran.",
+            "additionalMessage2": "TEGA NI MOGOČE RAZVELJAVITI!",
+            "title": "Potrditev izbrisa",
+            "message": "Ali ste prepričani, da želite izbrisati stran %{pageNum}?"
+        },
+        "ariaLabel": "odstrani stran %{pageNum}"
+    },
+    "description": "Slika za prikaz na strani %{pageNum}.",
+    "label": "stran %{pageNum}",
+    "moveDownButton": {"ariaLabel": "premakni stran %{pageNum} navzdol"}
+}

@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Oferându-ne Feedback"},
+        "intro": {"displayName": "Introducere"},
+        "createBooks": {"displayName": "Crearea de cărți"},
+        "parentalLocking": {"displayName": "Blocarea parentală"},
+        "sharingBooks": {"displayName": "Partajarea cărților"},
+        "bookPlayback": {"displayName": "Jucând cărți"},
+        "bookStore": {"displayName": "Librăria"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "vizualizați pagina %{pageName}"},
+        "backPageButton": {"ariaLabel": "întoarce 1 pagină înapoi"},
+        "forwardPageButton": {"ariaLabel": "mergi inainte cu 1 pagina"}
+    },
+    "startLink": {
+        "label": "Începeți",
+        "ariaLabel": "accesați pagina de start"
+    }
+}

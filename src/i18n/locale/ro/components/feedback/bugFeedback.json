@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "trimiterea prin e-mail nu este acceptată",
+        "submissionFailed": "trimiterea erorilor a eșuat",
+        "submissionSuccess": "bug trimis"
+    },
+    "submitButton": {
+        "text": "Trimiteți eroarea",
+        "ariaLabel": "trimite bug-ul"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Adăugați cărțile care ar putea cauza problema.",
+            "label": "Cărți de atașat"
+        },
+        "loadFailed": "încărcarea cărților nu a reușit",
+        "noBooksInstalled": "nu există cărți instalate",
+        "picker": {
+            "header": "Selectați cărțile",
+            "ariaLabel": "selectați ce cărți ar trebui să fie atașate feedback-ului despre erori"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "faceți modificări în cărțile atașate feedback-ului dvs. privind erorile"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Vă rugăm să furnizați câteva detalii despre eroare.",
+        "description": "Furnizați detalii despre eroare.",
+        "label": "Detalii despre eroare",
+        "ariaLabel": "descrierea bug-ului"
+    }
+}

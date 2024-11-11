@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "Aceasta va șterge toate cărțile instalate pe acest dispozitiv.\n\n",
+        "button": {
+            "label": "Şterge",
+            "title": "șterge toate cărțile",
+            "ariaLabel": "șterge toate cărțile"
+        },
+        "displayName": "Ștergeți toate cărțile",
+        "processingMessage": "se șterge...",
+        "shortDescription": {
+            "disabled": "Ștergeți toate cărțile dvs., dar în prezent nu aveți nicio carte instalată.",
+            "enabled": "Ștergeți toate cărțile dvs."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} WeilerHaus",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "Coolers",
+                "someFontsBy": "Fonturi după:"
+            },
+            "label": "Mulțumiri speciale",
+            "icons": {
+                "ionicIcons": "IonIcons",
+                "someIconsBy": "Pictograme de:",
+                "icons8": "Pictograme8",
+                "iconArchive": "Arhiva pictogramelor"
+            }
+        },
+        "version": "Versiune: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Acest editor de imagini va fi utilizat atunci când sunt luate noi imagini de cărți sau când o imagine de carte existentă este editată.",
+        "displayName": "Editor de imagini",
+        "testLabel": "Testați Editorul de imagini",
+        "testImage": {"accessibleImageDisplayName": "testați imaginea editorului de imagini"},
+        "options": {
+            "advanced": {
+                "label": "Avansat",
+                "ariaLabel": "utilizați editorul de imagini avansat"
+            },
+            "simple": {
+                "label": "Simplu",
+                "ariaLabel": "utilizați un editor de imagini simplu"
+            }
+        },
+        "shortDescription": "Selectați ce editor de imagini trebuie utilizat.",
+        "ariaLabel": "selectați ce editor de imagini trebuie utilizat"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Această voce va fi folosită atunci când cititorul \u201eAI Reader\u201d citește cărți.",
+        "displayName": "Vocea preferată",
+        "selectorButton": {
+            "defaultLabel": "implicit",
+            "ariaLabel": "selectați o voce \u201eAI Reader\u201d."
+        },
+        "shortDescription": "Selectați vocea care va fi folosită de \u201eAI Reader\u201d.",
+        "picker": {
+            "default": "implicit",
+            "networkActionIcon": {"ariaLabel": "afișează voci locale și de rețea"},
+            "label": "AI Reader Voices",
+            "ariaLabel": "selectați o voce \u201eAI Reader\u201d.",
+            "globalActionIcon": {"ariaLabel": "arată toate limbile"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Audio și video",
+        "ariaLabel": {
+            "expanded": "restrângeți secțiunea de selecție audio video",
+            "collapsed": "extindeți secțiunea de selecție audio video"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Această calitate a imaginii va fi utilizată atunci când faceți fotografii cu camerele aparatului.",
+        "slider": {
+            "highLabel": "Ridicat",
+            "ariaLabel": "calitatea imaginii imaginilor",
+            "lowLabel": "Scăzut"
+        },
+        "displayName": "Calitatea camerei foto %{value}%",
+        "testLabel": "Camera de testare",
+        "testImage": {"accessibleImageDisplayName": "testați imaginea de calitate a camerei"},
+        "shortDescription": "Selectați calitatea imaginii fotografiilor realizate cu camera."
+    },
+    "title": "Setări",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Confirmare ștergere",
+        "message": "Sigur doriți să ștergeți toate cărțile instalate?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "Acest lucru poate fi util atunci când migrați pe un dispozitiv nou sau adăugați cărțile pe mai multe dispozitive.",
+        "button": {
+            "label": "Export",
+            "title": "exportați toate cărțile",
+            "ariaLabel": "exportați toate cărțile"
+        },
+        "displayName": "Exportați toate cărțile",
+        "shortDescription": {
+            "disabled": "Exportați toate cărțile dvs. într-un singur fișier și salvați/distribuiți-l, dar în prezent nu aveți nicio carte instalată.",
+            "enabled": "Exportați toate cărțile dvs. într-un singur fișier și salvați/distribuiți-l."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "ștergerea nu a reușit",
+        "success": {
+            "other": "au șters %{count} cărți",
+            "one": "a șters 1 carte"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "Cititor AI",
+        "testLabel": "Testați vocea",
+        "testAriaLabel": {
+            "stopped": "testați vocea \u201eAI Reader\u201d.",
+            "playing": "opriți testul vocal \u201eAI Reader\u201d."
+        },
+        "testPhrase": "Bună, mi-ar plăcea să citesc poveștile tale preferate cu tine.",
+        "description": "Când este activat, \u201eAI Reader\u201d va fi disponibil ca cititor atunci când redați cărți.",
+        "ariaLabel": {
+            "expanded": "restrângeți secțiunea de selecție \u201eAI Reader\u201d.",
+            "collapsed": "extindeți secțiunea de selecție \u201eAI Reader\u201d.",
+            "disabled": "\u201eAI Reader\u201d este dezactivat",
+            "enabled": "\u201eAI Reader\u201d este activat"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "Aceasta denotă înălțimea vocii folosită atunci când cititorul \u201eAI Reader\u201d citește cărți.",
+        "slider": {
+            "highLabel": "Ridicat",
+            "ariaLabel": "tonul vocal al \u201eAI Reader\u201d",
+            "lowLabel": "Scăzut"
+        },
+        "displayName": "Tonalitatea vocii %{value}%",
+        "shortDescription": "Selectați înălțimea vocii care va fi folosită de \u201eAI Reader\u201d."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Această calitate audio va fi utilizată la înregistrarea cu microfonul dispozitivului.",
+        "displayName": "Calitate microfon",
+        "testLabel": "Test microfon",
+        "options": {
+            "high": {
+                "label": "Ridicat",
+                "ariaLabel": "utilizați o calitate audio înaltă"
+            },
+            "low": {
+                "label": "Scăzut",
+                "ariaLabel": "utilizați o calitate audio scăzută"
+            }
+        },
+        "shortDescription": "Selectați calitatea audio a înregistrărilor realizate cu microfonul.",
+        "ariaLabel": "selectați calitatea audio a înregistrărilor realizate cu microfonul",
+        "testAudioSelector": {"accessibleAudioDisplayName": "test microfon de calitate"}
+    },
+    "subtitle": "Actualizați setările aplicației dvs. aici.",
+    "themeSelection": {
+        "longDescription": "Dacă o temă este selectată aici, aceasta va înlocui orice setări ale temei dispozitivului pe care le aveți.",
+        "displayName": "Selectarea temei",
+        "options": {
+            "default": {
+                "label": "Sistem",
+                "ariaLabel": "utilizați tema definită de sistem"
+            },
+            "light": {
+                "label": "Aprinde",
+                "ariaLabel": "utilizați tema luminoasă"
+            },
+            "dark": {
+                "label": "Întuneric",
+                "ariaLabel": "utilizați tema întunecată"
+            }
+        },
+        "shortDescription": "Selectați tema care ar trebui să fie utilizată de aplicație.",
+        "ariaLabel": "selectați tema care ar trebui să fie utilizată de aplicație"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "Aceasta denotă rata de voce folosită atunci când cititorul \u201eAI Reader\u201d citește cărți.",
+        "slider": {
+            "highLabel": "Rapid",
+            "ariaLabel": "rata de vorbire a \u201eAI Reader\u201d",
+            "lowLabel": "Lent"
+        },
+        "displayName": "Rata de vorbire %{value}%",
+        "shortDescription": "Selectați rata vocii care va fi utilizată de \u201eAI Reader\u201d."
+    },
+    "parentalLocking": {
+        "longDescription": "Când este activată, datele biometrice ale proprietarilor dispozitivului sunt necesare pentru a debloca funcții avansate din aplicație.",
+        "displayName": "Blocarea parentală",
+        "shortDescription": "Blocarea parentală poate fi utilă atunci când copiii folosesc aplicația.",
+        "ariaLabel": {
+            "disabled": "blocarea parentală este dezactivată",
+            "enabled": "blocarea parentală este activată"
+        }
+    }
+}

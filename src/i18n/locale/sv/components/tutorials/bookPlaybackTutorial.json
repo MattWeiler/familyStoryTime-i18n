@@ -1,0 +1,24 @@
+{
+    "summary": "Du kan spela upp böcker som du har installerat på din enhet.",
+    "splashScreen": {
+        "messages": {
+            "1": "Från startskärmen kan du välja hur du vill att boken ska spelas upp och välja vilken läsare som ska läsa boken, om tillämpligt.",
+            "2": "Om boken har läsare som lagts till kommer du att kunna välja mellan lägena \"Automatisk uppspelning\", \"Läs för mig\" och \"Läs det själv\".",
+            "3": "Läget \"Autouppspelning\" kommer att få den valda läsaren att läsa boken och sidorna ändras automatiskt.",
+            "4": "Läget \"Läs för mig\" kommer att få den valda läsaren att läsa boken, men sidorna måste ändras manuellt. ",
+            "5": "Läget \"Läs det själv\" låter dig läsa boken själv.",
+            "6": "Om boken innehåller källinformation kommer det att finnas en ikon som när den klickas visar den källinformationen. "
+        },
+        "title": "Stänkskärm"
+    },
+    "player": {
+        "messages": {
+            "1": "När du spelar en bok kommer navigeringsknappar att visas som gör att du kan pausa/spela upp läsarljudet samt navigera mellan sidorna.",
+            "2": "Navigeringsknapparna kan döljas/visas genom att enkelt trycka på bilden.",
+            "3": "Vissa gester kan också användas för att navigera.",
+            "4": "Svep åt vänster/höger för att navigera mellan sidorna.",
+            "5": "Dubbeltryckning eller nypning zoomar in/ut. "
+        },
+        "title": "Bokspelare"
+    }
+}

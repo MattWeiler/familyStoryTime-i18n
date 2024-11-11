@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Këndi i leximit",
+        "ariaLabel": "lexoni librat tuaj këtu"
+    },
+    "bookStore": {
+        "text": "Dyqan librash",
+        "ariaLabel": "vizitoni dyqanin e librave"
+    }
+}

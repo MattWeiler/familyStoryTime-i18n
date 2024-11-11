@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "ركن القراءة",
+        "ariaLabel": "إقرأ كتبك هنا"
+    },
+    "bookStore": {
+        "text": "متجر الكتب",
+        "ariaLabel": "قم بزيارة متجر الكتب"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "afișează informațiile despre sursa cărții"},
+        "hideSource": {"ariaLabel": "ascundeți informațiile despre sursa cărții"}
+    },
+    "sourceUrl": {
+        "label": "vizualizați sursa cărții",
+        "ariaLabel": "URL sursă de carte deschisă"
+    },
+    "sourceIllustrator": {"label": "Ilustrator:"},
+    "sourceAuthor": {"label": "Autor:"},
+    "sourcePublisher": {"label": "Editor:"},
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "deschideți căutarea ISBN pentru cartea ISBN"
+    }
+}

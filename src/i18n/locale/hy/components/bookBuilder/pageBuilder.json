@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "էջի %{pageNum} պատկերը"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Վերականգնել էջի տեքստը",
+                "message": "Վստա՞հ եք, որ ցանկանում եք սկանավորել պատկերը տեքստի համար և փոխարինել ձեր առկա էջի տեքստը:"
+            },
+            "ariaLabel": "հանել տեքստը պատկերից %{pageNum} էջի համար"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "տեքստ %{pageNum} էջին ավելացնելու համար",
+                    "withPageText": "տեքստ՝ թարմացնելու համար %{pageNum} էջում"
+                },
+                "title": {
+                    "noPageText": "Սահմանել էջի տեքստը",
+                    "withPageText": "Թարմացրեք էջի տեքստը"
+                },
+                "message": {
+                    "noPageText": "Ի՞նչ է էջի տեքստը:",
+                    "withPageText": "Ինչի՞ կուզենայիք փոխել էջի տեքստը:"
+                },
+                "inputPlaceholder": "տեքստ ավելացնելու համար"
+            },
+            "ariaLabel": "խմբագրել «%{pageText}» տեքստը %{pageNum} էջից"
+        },
+        "moveUpButton": {"ariaLabel": "տեղափոխեք «%{pageText}» տեքստը %{pageNum} էջից վերև"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Ջնջման հաստատում",
+                "message": "Իսկապե՞ս ուզում եք ջնջել այս էջի տեքստը:"
+            },
+            "ariaLabel": "հեռացնել «%{pageText}» տեքստը %{pageNum} էջից"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "տեքստ %{pageNum} էջին ավելացնելու համար",
+                "title": "Սահմանել էջի տեքստը",
+                "message": "Ի՞նչ է էջի տեքստը:",
+                "inputPlaceholder": "տեքստ ավելացնելու համար"
+            },
+            "ariaLabel": "ավելացնել նոր տեքստ %{pageNum} էջին"
+        },
+        "label": "Տեքստ",
+        "showHideButton": {"ariaLabel": {
+            "visible": "թաքցնել «%{pageText}» տեքստը %{pageNum} էջից",
+            "hidden": "ցույց տալ «%{pageText}» տեքստը %{pageNum} էջից"
+        }},
+        "moveDownButton": {"ariaLabel": "տեղափոխեք «%{pageText}» տեքստը %{pageNum} էջից ներքև"}
+    },
+    "moveUpButton": {"ariaLabel": "տեղափոխել %{pageNum} էջը վերև"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "Ձայնը, որը պետք է նվագարկվի, երբ «%{readerDisplayName}»-ը կարդում է %{pageNum} էջը:",
+                "noDisplayName": "Ձայնը, որը պետք է նվագարկվի, երբ այս ընթերցողը կարդում է %{pageNum} էջը:"
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "էջի %{pageNum} %{readerDisplayName} ընթերցող"
+        },
+        "label": "Ընթերցողներ"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Սա կհեռացնի էջի բոլոր ձայնագրությունները այս էջի համար:",
+            "additionalMessage2": "ՍԱ ՉԻ ՀԵՏԱՐԿԵԼ:",
+            "title": "Ջնջման հաստատում",
+            "message": "Իսկապե՞ս ուզում եք ջնջել %{pageNum} էջը:"
+        },
+        "ariaLabel": "հեռացնել էջը %{pageNum}"
+    },
+    "description": "Պատկերը, որը կցուցադրվի %{pageNum} էջում:",
+    "label": "Էջ %{pageNum}",
+    "moveDownButton": {"ariaLabel": "տեղափոխել էջը %{pageNum} ներքև"}
+}

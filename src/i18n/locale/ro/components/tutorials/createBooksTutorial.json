@@ -1,0 +1,96 @@
+{
+    "summary": "Puteți digitiza cărțile preferate ale familiei dvs. și puteți include cât mai mulți cititori sunt dispuși să se înregistreze.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "Deschiderea \u201eBook Builder\u201d",
+            "ariaLabel": {
+                "expanded": "restrânge secțiunea de deschidere a constructorului de cărți",
+                "collapsed": "deschide secțiunea de deschidere a constructorului de cărți"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Din orice pagină, puteți accesa \u201eBook Builder\u201d prin meniul hamburger din partea stângă sus a ecranului.",
+                    "2": "De acolo apăsați opțiunea \u201eBook Builder\u201d."
+                },
+                "title": "Meniu Hamburger"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "Din pagina \u201eReading Corner\u201d, puteți accesa \u201eBook Builder\u201d apăsând butonul (+) din colțul din dreapta jos al ecranului.",
+                    "2": "De acolo apăsați opțiunea \u201ecreați o carte\u201d."
+                },
+                "title": "Buton de acțiune"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "Utilizarea \u201eBuilder de cărți\u201d",
+            "ariaLabel": {
+                "expanded": "restrânge secțiunea folosind generatorul de cărți",
+                "collapsed": "deschideți secțiunea folosind generatorul de cărți"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "O carte trebuie să conțină cel puțin 1 pagină, dar nu are o limită superioară.",
+                    "2": "Când capturați sau încărcați o imagine pentru a fi folosită pentru o pagină, AI va fi folosită pentru a extrage textul din imagine. "
+                },
+                "title": "Pagini de carte"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "În \u201eBook Builder\u201d, vei putea specifica mai multe atribute legate de carte.",
+                    "2": "Titlul cărții, mai multe imagini, informații sursă, întârzieri, cititori și pagini pot fi toate specificate aici."
+                },
+                "title": "Constructor de cărți"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Când toate câmpurile unei cărți au fost completate, cartea trebuie salvată pe dispozitiv.",
+                    "2": "La salvare, datele cărții vor fi verificate pentru a vă asigura că toate sunt valide; "
+                },
+                "title": "Salvarea unei cărți"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Imaginile pot fi fie capturate folosind camera dispozitivului, fie pot fi încărcate din galeria dvs.",
+                    "2": "Când a fost selectată o imagine, aceasta poate fi editată pentru a se asigura că arată cel mai bine posibil.",
+                    "3": "Dacă apăsați pe o imagine existentă, vor apărea butoanele de imagine."
+                },
+                "title": "Imagini de carte"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Pot fi definite întârzieri care vor afecta redarea cărții.",
+                    "2": "Aceste întârzieri pot asigura că redarea audio nu sună prea brusc."
+                },
+                "title": "Întârzieri de carte"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Când o carte este redată automat, un anumit sunet poate fi redat când o pagină se finalizează și pagina următoare este gata să înceapă.",
+                    "2": "Se poate selecta un set de sunete predefinite sau poate fi încărcat sau înregistrat un sunet personalizat."
+                },
+                "title": "Pagina Schimbare Audio"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "O carte poate conține orice număr de cititori.",
+                    "2": "Fiecare cititor se va înregistra citind fiecare pagină a cărții și astfel va fi disponibil să citească cartea în timpul redării cărții."
+                },
+                "title": "Cititori de cărți"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "Informații despre sursă pot fi furnizate despre carte.",
+                    "2": "Deși această sursă de informații este opțională, vă poate ajuta să urmăriți poveștile dvs. preferate."
+                },
+                "title": "Informații despre sursa cărții"
+            }
+        }
+    }
+}

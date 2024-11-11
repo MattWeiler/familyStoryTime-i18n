@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "يختار",
+                "ariaLabel": "حدد الكتاب %{bookTitle}"
+            },
+            "edit": {
+                "title": "يحرر",
+                "ariaLabel": "تحرير الكتاب %{bookTitle}"
+            },
+            "delete": {
+                "title": "يمسح",
+                "ariaLabel": "احذف الكتاب %{bookTitle}"
+            },
+            "export": {
+                "title": "يصدّر",
+                "ariaLabel": "تصدير الكتاب %{bookTitle}"
+            }
+        },
+        "ariaLabel": "افتح قائمة السياق للكتاب %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} صفحة",
+            "one": "صفحة %{count}."
+        },
+        "ariaLabel": {
+            "other": "%{count} صفحة",
+            "one": "صفحة %{count}."
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "حدد الكتاب %{bookTitle}.",
+        "selected": "قم بإلغاء تحديد الكتاب %{bookTitle}."
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} قراء",
+            "one": "%{count} قارئ"
+        },
+        "ariaLabel": {
+            "other": "الكتاب %{bookTitle} به %{count} من القراء",
+            "one": "الكتاب %{bookTitle} به %{count} قارئ"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "اقرأ القصة: %{bookTitle}",
+        "selectionMode": "كتاب %{bookTitle}."
+    }
+}

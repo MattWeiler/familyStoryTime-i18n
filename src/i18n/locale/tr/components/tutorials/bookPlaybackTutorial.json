@@ -1,0 +1,24 @@
+{
+    "summary": "Cihazınıza yüklediğiniz kitapları oynatabilirsiniz.",
+    "splashScreen": {
+        "messages": {
+            "1": "Açılış ekranından kitabın nasıl oynatılmasını istediğinizi seçebilir ve varsa kitabı hangi okuyucunun okuması gerektiğini seçebilirsiniz.",
+            "2": "Kitaba okuyucu eklenmişse, \"Otomatik Oynat\", \"Bana Oku\" ve \"Kendim Oku\" modları arasında seçim yapabileceksiniz.",
+            "3": "\"Otomatik Oynat\" modu seçilen okuyucunun kitabı okumasını sağlayacak ve sayfalar otomatik olarak değiştirilecektir.",
+            "4": "\"Bana Oku\" modu, seçilen okuyucunun kitabı okumasını sağlayacaktır, ancak sayfaların manuel olarak değiştirilmesi gerekecektir. ",
+            "5": "\"Kendim Oku\" modu kitabı kendiniz okumanıza olanak tanır.",
+            "6": "Kitap kaynak bilgisi içeriyorsa, tıklandığında kaynak bilgisini görüntüleyen bir simge olacaktır. "
+        },
+        "title": "Açılış Ekranı"
+    },
+    "player": {
+        "messages": {
+            "1": "Bir kitabı oynatırken, okuyucunun sesini duraklatmanıza/oynatmanıza ve sayfalar arasında gezinmenize olanak tanıyan gezinme düğmeleri görüntülenecektir.",
+            "2": "Gezinme düğmeleri, görüntüye tek basılarak gizlenebilir/gösterilebilir.",
+            "3": "Bazı hareketler gezinmek için de kullanılabilir.",
+            "4": "Sola/sağa kaydırmak sayfalar arasında gezinmeyi sağlar.",
+            "5": "Çift dokunma veya kıstırma yakınlaştırmayı/uzaklaştırmayı sağlar. "
+        },
+        "title": "Kitap Oynatıcı"
+    }
+}

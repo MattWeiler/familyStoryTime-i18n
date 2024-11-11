@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Ο προαιρετικός ήχος για αναπαραγωγή πριν από την ανάγνωση της 1ης σελίδας.",
+        "label": {
+            "withDisplayName": "Εισαγωγικός ήχος του %{readerDisplayName}",
+            "noDisplayName": "Εισαγωγικός ήχος"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} εισαγωγή αναγνώστη",
+            "noDisplayName": "αναγνώστη με αναγνωριστικό %{readerId} εισαγωγή"
+        }
+    },
+    "readerImage": {
+        "description": "Η εικόνα προς εμφάνιση για αυτόν τον αναγνώστη.",
+        "accessibleImageDisplayName": "εικόνα του αναγνώστη %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Αυτό θα καταργήσει όλο τον ήχο της σελίδας που έχει εγγραφεί για αυτόν τον αναγνώστη.",
+            "additionalMessage2": "ΑΥΤΟ ΔΕΝ ΜΠΟΡΕΙ ΝΑ ΑΝΑΚΛΗΘΕΙ!",
+            "title": "Επιβεβαίωση διαγραφής",
+            "message": {
+                "withDisplayName": "Είστε βέβαιοι ότι θέλετε να διαγράψετε τον αναγνώστη \"%{readerDisplayName}\";",
+                "noDisplayName": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτόν τον αναγνώστη;"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "αφαιρέστε τον αναγνώστη %{readerDisplayName}",
+            "noDisplayName": "αφαιρέστε τον αναγνώστη με αναγνωριστικό %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "εμφανιζόμενο όνομα για τον αναγνώστη",
+                "noDisplayName": "εμφανιζόμενο όνομα για τον αναγνώστη"
+            },
+            "title": {
+                "withDisplayName": "Ενημέρωση εμφανιζόμενου ονόματος",
+                "noDisplayName": "Ορισμός εμφανιζόμενου ονόματος"
+            },
+            "message": {
+                "withDisplayName": "Σε τι θα θέλατε να αλλάξετε αυτό το εμφανιζόμενο όνομα του αναγνώστη;",
+                "noDisplayName": "Ποιο είναι το εμφανιζόμενο όνομα για αυτόν τον αναγνώστη;"
+            },
+            "inputPlaceholder": "όνομα αναγνώστη"
+        },
+        "ariaLabel": {
+            "withDisplayName": "αλλαγή του εμφανιζόμενου ονόματος για τον αναγνώστη %{readerDisplayName}",
+            "noDisplayName": "αλλάξτε το εμφανιζόμενο όνομα για τον αναγνώστη με αναγνωριστικό %{readerId}"
+        }
+    }
+}

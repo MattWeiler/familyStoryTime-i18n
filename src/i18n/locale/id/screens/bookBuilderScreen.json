@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "buku tersimpan \"%{bookTitle}\"",
+        "validationFailed": "validasi gagal",
+        "bookSaveFailed": "gagal menyimpan buku"
+    },
+    "bookTitleInput": {
+        "description": "Judul buku.",
+        "label": "Judul buku",
+        "placeholder": "judul buku",
+        "ariaLabel": "judul buku"
+    },
+    "readers": {
+        "label": "Pembaca",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "nama tampilan untuk pembaca baru ini",
+                "buttons": {
+                    "cancel": {"ariaLabel": "batalkan penambahan pembaca baru"},
+                    "add": {"ariaLabel": "tambahkan pembaca baru"}
+                },
+                "description": "Harap berikan nama tampilan untuk pembaca baru ini.",
+                "title": "Tambahkan Pembaca Baru",
+                "inputPlaceholder": "nama pembaca"
+            },
+            "ariaLabel": "tambahkan pembaca baru"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Jumlah milidetik untuk menunggu sebelum memutar halaman mengubah audio.",
+            "label": "Sebelum Halaman Mengubah Audio",
+            "placeholder": "milidetik sebelum memutar halaman, ubah audio",
+            "ariaLabel": "milidetik untuk menunggu sebelum memutar audio perubahan halaman"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Jumlah milidetik untuk menunggu setelah memutar halaman mengubah audio.",
+            "label": "Setelah Halaman Ubah Audio",
+            "placeholder": "milidetik setelah memutar audio perubahan halaman",
+            "ariaLabel": "milidetik untuk menunggu setelah memutar audio perubahan halaman"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Jumlah milidetik untuk menunggu sebelum memutar audio halaman.",
+            "label": "Sebelum Audio Halaman",
+            "placeholder": "milidetik sebelum memutar audio halaman",
+            "ariaLabel": "milidetik untuk menunggu sebelum memutar audio halaman"
+        },
+        "label": "Penundaan"
+    },
+    "bookIconImageSelector": {
+        "description": "Gambar yang akan digunakan sebagai ikon buku.",
+        "label": "Ikon Buku",
+        "accessibleImageDisplayName": "ikon buku"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "Gambar yang akan ditampilkan saat pertama kali meluncurkan buku.",
+        "label": "Gambar Percikan Buku",
+        "accessibleImageDisplayName": "percikan buku"
+    },
+    "confirmations": {"goBack": {
+        "title": "Tinggalkan Perubahan",
+        "message": "Apakah Anda yakin ingin keluar sebelum menyimpan?"
+    }},
+    "pageChangeAudio": {
+        "description": "Audio untuk diputar saat tiba waktunya mengganti halaman.",
+        "label": "Audio Ganti Halaman",
+        "presetAudioModalPicker": {
+            "headerLabel": "Pilih Audio Ubah Halaman",
+            "ariaLabel": "pilih dari daftar opsi audio perubahan halaman preset",
+            "accessibleAudioDisplayName": "perubahan halaman"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Gagal memuat buku.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "penundaan tidak boleh negatif",
+            "bookTitleMissing": "judul buku wajib diisi",
+            "readerDisplayNameMissing": "nama tampilan pembaca diperlukan",
+            "bookIconNotValid": "ikon buku diperlukan",
+            "pageTextMissing": "teks halaman diperlukan",
+            "delayBeforePlayingPageAudioNegative": "penundaan tidak boleh negatif",
+            "pagesMissing": "setidaknya diperlukan 1 halaman",
+            "pageImageNotValid": "gambar halaman diperlukan",
+            "delayBeforePlayingPageChangeAudioNegative": "penundaan tidak boleh negatif",
+            "bookSplashImageNotValid": "gambar percikan buku diperlukan",
+            "readerIntroAudioNotValid": "audio intro pembaca bukan file yang valid",
+            "pageAudioNotValid": "audio halaman diperlukan",
+            "pageChangeAudioNotValid": "audio perubahan halaman diperlukan",
+            "delayAfterPlayingPageChangeAudioNotInteger": "penundaan harus berupa bilangan bulat",
+            "delayBeforePlayingPageAudioNotInteger": "penundaan harus berupa bilangan bulat",
+            "delayBeforePlayingPageChangeAudioNotInteger": "penundaan harus berupa bilangan bulat",
+            "delayBeforePlayingPageAudioRequired": "penundaan diperlukan",
+            "readerImageNotValid": "gambar pembaca diperlukan",
+            "delayBeforePlayingPageChangeAudioRequired": "penundaan diperlukan",
+            "delayAfterPlayingPageChangeAudioRequired": "penundaan diperlukan"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "URL sumber buku.",
+            "label": "URL sumber",
+            "placeholder": "URL sumber",
+            "ariaLabel": "URL sumber buku"
+        },
+        "authorInput": {
+            "description": "Nama penulis buku tersebut.",
+            "label": "Nama Penulis",
+            "placeholder": "penulis buku",
+            "ariaLabel": "nama penulis buku tersebut"
+        },
+        "illustratorInput": {
+            "description": "Nama ilustrator buku tersebut.",
+            "label": "Nama Ilustrator",
+            "placeholder": "ilustrator buku",
+            "ariaLabel": "nama ilustrator buku tersebut"
+        },
+        "publisherInput": {
+            "description": "Nama penerbit buku tersebut.",
+            "label": "Nama Penerbit",
+            "placeholder": "penerbit buku",
+            "ariaLabel": "nama penerbit buku tersebut"
+        },
+        "label": "Sumber",
+        "isbnInput": {
+            "description": "Nomor buku berstandar internasional.",
+            "label": "ISBN",
+            "placeholder": "ISBN buku",
+            "ariaLabel": "nomor buku berstandar internasional"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "tambahkan halaman baru"},
+        "label": "Halaman"
+    }
+}

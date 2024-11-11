@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "الكتاب المحفوظ \"%{bookTitle}\"",
+        "validationFailed": "فشل التحقق من الصحة",
+        "bookSaveFailed": "كتاب حفظ فاشل"
+    },
+    "bookTitleInput": {
+        "description": "عنوان الكتاب.",
+        "label": "عنوان الكتاب",
+        "placeholder": "عنوان الكتاب",
+        "ariaLabel": "عنوان الكتاب"
+    },
+    "readers": {
+        "label": "القراء",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "اسم العرض لهذا القارئ الجديد",
+                "buttons": {
+                    "cancel": {"ariaLabel": "إلغاء إضافة القارئ الجديد"},
+                    "add": {"ariaLabel": "إضافة القارئ الجديد"}
+                },
+                "description": "الرجاء تقديم اسم العرض لهذا القارئ الجديد.",
+                "title": "إضافة قارئ جديد",
+                "inputPlaceholder": "اسم القارئ"
+            },
+            "ariaLabel": "إضافة قارئ جديد"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "عدد المللي ثانية التي يجب انتظارها قبل تشغيل صفحة تغيير الصوت.",
+            "label": "قبل تغيير الصفحة الصوت",
+            "placeholder": "ميلي ثانية قبل تشغيل صفحة تغيير الصوت",
+            "ariaLabel": "ميلي ثانية للانتظار قبل تشغيل صفحة تغيير الصوت"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "عدد المللي ثانية التي يجب انتظارها بعد تشغيل صفحة تغيير الصوت.",
+            "label": "بعد تغيير الصفحة الصوت",
+            "placeholder": "ميلي ثانية بعد تشغيل صفحة تغيير الصوت",
+            "ariaLabel": "مللي ثانية للانتظار بعد تشغيل صفحة تغيير الصوت"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "عدد المللي ثانية التي يجب انتظارها قبل تشغيل صوت الصفحة.",
+            "label": "قبل صفحة الصوت",
+            "placeholder": "مللي ثانية قبل تشغيل صوت الصفحة",
+            "ariaLabel": "مللي ثانية للانتظار قبل تشغيل صوت الصفحة"
+        },
+        "label": "التأخير"
+    },
+    "bookIconImageSelector": {
+        "description": "الصورة التي سيتم استخدامها كأيقونة للكتاب.",
+        "label": "أيقونة الكتاب",
+        "accessibleImageDisplayName": "أيقونة الكتاب"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "الصورة التي ستظهر عند إطلاق الكتاب لأول مرة.",
+        "label": "كتاب سبلاش الصورة",
+        "accessibleImageDisplayName": "دفقة كتاب"
+    },
+    "confirmations": {"goBack": {
+        "title": "ترك التغييرات",
+        "message": "هل أنت متأكد أنك تريد المغادرة قبل الحفظ؟"
+    }},
+    "pageChangeAudio": {
+        "description": "الصوت المطلوب تشغيله عندما يحين وقت تغيير الصفحة.",
+        "label": "صفحة تغيير الصوت",
+        "presetAudioModalPicker": {
+            "headerLabel": "حدد صفحة تغيير الصوت",
+            "ariaLabel": "اختر من قائمة خيارات الصوت لتغيير الصفحة المعدة مسبقًا",
+            "accessibleAudioDisplayName": "تغيير الصفحة"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "فشل تحميل الكتاب.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "لا يمكن أن يكون التأخير سلبيا",
+            "bookTitleMissing": "عنوان الكتاب مطلوب",
+            "readerDisplayNameMissing": "اسم عرض القارئ مطلوب",
+            "bookIconNotValid": "مطلوب أيقونة الكتاب",
+            "pageTextMissing": "نص الصفحة مطلوب",
+            "delayBeforePlayingPageAudioNegative": "لا يمكن أن يكون التأخير سلبيا",
+            "pagesMissing": "مطلوب صفحة واحدة على الأقل",
+            "pageImageNotValid": "صورة الصفحة مطلوبة",
+            "delayBeforePlayingPageChangeAudioNegative": "لا يمكن أن يكون التأخير سلبيا",
+            "bookSplashImageNotValid": "مطلوب صورة دفقة الكتاب",
+            "readerIntroAudioNotValid": "صوت مقدمة القارئ ليس ملفًا صالحًا",
+            "pageAudioNotValid": "مطلوب صوت الصفحة",
+            "pageChangeAudioNotValid": "مطلوب صوت تغيير الصفحة",
+            "delayAfterPlayingPageChangeAudioNotInteger": "يجب أن يكون التأخير عددًا صحيحًا",
+            "delayBeforePlayingPageAudioNotInteger": "يجب أن يكون التأخير عددًا صحيحًا",
+            "delayBeforePlayingPageChangeAudioNotInteger": "يجب أن يكون التأخير عددًا صحيحًا",
+            "delayBeforePlayingPageAudioRequired": "مطلوب تأخير",
+            "readerImageNotValid": "صورة القارئ مطلوبة",
+            "delayBeforePlayingPageChangeAudioRequired": "مطلوب تأخير",
+            "delayAfterPlayingPageChangeAudioRequired": "مطلوب تأخير"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "عنوان URL المصدر للكتاب.",
+            "label": "عنوان URL المصدر",
+            "placeholder": "عنوان URL المصدر",
+            "ariaLabel": "عنوان URL المصدر للكتاب"
+        },
+        "authorInput": {
+            "description": "اسم مؤلف الكتاب.",
+            "label": "اسم المؤلف",
+            "placeholder": "مؤلف الكتاب",
+            "ariaLabel": "اسم مؤلف الكتاب"
+        },
+        "illustratorInput": {
+            "description": "اسم المصور للكتاب.",
+            "label": "اسم المصور",
+            "placeholder": "المصور للكتاب",
+            "ariaLabel": "اسم المصور للكتاب"
+        },
+        "publisherInput": {
+            "description": "اسم ناشر الكتاب.",
+            "label": "اسم الناشر",
+            "placeholder": "ناشر الكتاب",
+            "ariaLabel": "اسم ناشر الكتاب"
+        },
+        "label": "مصدر",
+        "isbnInput": {
+            "description": "الرقم القياسي الدولي للكتاب.",
+            "label": "رقم ISBN",
+            "placeholder": "رقم ISBN للكتاب",
+            "ariaLabel": "رقم الكتاب القياسي الدولي للكتاب"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "إضافة صفحة جديدة"},
+        "label": "الصفحات"
+    }
+}

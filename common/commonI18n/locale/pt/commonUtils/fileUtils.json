@@ -9,7 +9,7 @@
     },
     "megabytes": {
         "other": "%{count}MB",
-        "one": "1 MB"
+        "one": "1MB"
     },
     "gigabytes": {
         "other": "%{count} GB",

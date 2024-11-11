@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Pošiljanje povratnih informacij"},
+        "intro": {"displayName": "Uvod"},
+        "createBooks": {"displayName": "Ustvarjanje knjig"},
+        "parentalLocking": {"displayName": "Starševsko zaklepanje"},
+        "sharingBooks": {"displayName": "Deljenje knjig"},
+        "bookPlayback": {"displayName": "Igranje knjig"},
+        "bookStore": {"displayName": "Knjigarna"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "oglejte si stran %{pageName}"},
+        "backPageButton": {"ariaLabel": "pojdi 1 stran nazaj"},
+        "forwardPageButton": {"ariaLabel": "pojdi 1 stran naprej"}
+    },
+    "startLink": {
+        "label": "Začnite",
+        "ariaLabel": "pojdite na domačo stran"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "applicationSecurityButton": {"ariaLabel": {
+        "unlockParentMode": "Ebeveyn kullanımı için uygulamanın kilidini açın",
+        "initParentMode": "ebeveyn kilitlemeyi etkinleştir",
+        "lockParentMode": "ebeveyn kilidini etkinleştir"
+    }},
+    "hamburgerButton": {"ariaLabel": "hamburger menüsünü göster"}
+}

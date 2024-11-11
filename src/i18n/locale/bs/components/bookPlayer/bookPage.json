@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "pusti audio",
+            "ariaLabel": "pusti audio"
+        },
+        "playing": {
+            "title": "pauzirajte zvuk",
+            "ariaLabel": "pauzirajte zvuk"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "umanjite da biste prikazali cijelu sliku, mogu biti crne trake sa strane",
+        "zoomedOut": "zumirajte kako biste osigurali da je cijeli ekran ispunjen slikom, dio slike možda neće biti vidljiv"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "idi na prethodnu stranicu",
+            "ariaLabel": "idi na prethodnu stranicu"
+        },
+        "noPreviousPage": {
+            "title": "vratite se na izbor knjiga",
+            "ariaLabel": "vratite se na izbor knjiga"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "idite na sljedeću stranicu",
+            "ariaLabel": "idite na sljedeću stranicu"
+        },
+        "noNextPage": {
+            "title": "vratite se na izbor knjiga",
+            "ariaLabel": "vratite se na izbor knjiga"
+        }
+    }
+}

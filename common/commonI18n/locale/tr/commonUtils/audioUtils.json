@@ -1,0 +1,22 @@
+{"durations": {
+    "hours": {
+        "other": "%{displayValue} saat",
+        "one": "%{displayValue} saat"
+    },
+    "mins": {
+        "other": "%{displayValue} dakika",
+        "one": "%{displayValue} dk."
+    },
+    "ms": {
+        "other": "%{displayValue} ms",
+        "one": "%{displayValue} ms"
+    },
+    "secs": {
+        "other": "%{displayValue} saniye",
+        "one": "%{displayValue} saniye"
+    },
+    "days": {
+        "other": "%{displayValue} gün",
+        "one": "%{displayValue} gün"
+    }
+}}

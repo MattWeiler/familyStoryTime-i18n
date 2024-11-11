@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Pojok Baca",
+        "ariaLabel": "baca bukumu di sini"
+    },
+    "bookStore": {
+        "text": "Toko Buku",
+        "ariaLabel": "mengunjungi toko buku"
+    }
+}

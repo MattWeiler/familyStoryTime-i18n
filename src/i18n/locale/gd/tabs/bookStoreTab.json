@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "chan e, na dì-stàlaich an leabhar a tha ri fhaighinn",
+            "yesButtonAriaLabel": "seadh, dì-stàlaich an leabhar a tha ri fhaighinn",
+            "title": "Dearbhaich dì-stàlaich",
+            "message": "A bheil thu cinnteach gu bheil thu airson an leabhar seo a tha ri làimh a dhì-stàladh?\n"
+        },
+        "ariaLabel": "dì-stàlaich an leabhar a tha ri làimh %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "saor"},
+        "newerVersionAvailableMessage": "Ùrachadh ri fhaighinn"
+    },
+    "subtitle": "Lorg sinn sgeulachdan math airson an leughadh.",
+    "loadingFailedMessage": "Cha b\u2019 urrainn dhuinn na leabhraichean a bha rim faighinn a luchdachadh.\n",
+    "title": "Bùth Leabhraichean",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "chan e, na stàlaich an leabhar a tha ri fhaighinn",
+            "yesButtonAriaLabel": "seadh, stàlaich an leabhar a tha ri fhaighinn",
+            "title": "Stàlaich Dearbhadh",
+            "message": "A bheil thu cinnteach gu bheil thu airson an leabhar seo a tha ri làimh a stàladh?\nMa nì thu sin cleachdaidh sinn %{fileSize} de dhàta."
+        },
+        "ariaLabel": "stàlaich an leabhar a tha ri làimh %{bookName}"
+    }
+}

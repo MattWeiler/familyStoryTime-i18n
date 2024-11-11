@@ -1,0 +1,43 @@
+{"hamburgerMenu": {
+    "applicationTitle": "Koha e historisë familjare",
+    "links": {
+        "feedback": {
+            "text": "Feedback",
+            "ariaLabel": "shkoni në ekranin e komenteve"
+        },
+        "settings": {
+            "text": "Cilësimet",
+            "ariaLabel": "shkoni në ekranin e cilësimeve"
+        },
+        "bookSelector": {
+            "text": "Këndi i leximit",
+            "ariaLabel": "shkoni te ekrani i këndit të leximit"
+        },
+        "bookBuilder": {
+            "text": "Ndërtues libri",
+            "ariaLabel": "shkoni te ekrani i ndërtuesit të librave"
+        },
+        "about": {
+            "text": "Rreth Nesh",
+            "ariaLabel": "shkoni te ekrani rreth nesh"
+        },
+        "developerStatus": {
+            "hidden": {
+                "text": "Shfaq statusin e zhvilluesit",
+                "ariaLabel": "tregoni statusin e zhvilluesit"
+            },
+            "showing": {
+                "text": "Fshih statusin e zhvilluesit",
+                "ariaLabel": "fsheh statusin e zhvilluesit"
+            }
+        },
+        "tutorial": {
+            "text": "Tutorial",
+            "ariaLabel": "shikoni tutorialin"
+        },
+        "bookStore": {
+            "text": "Dyqan librash",
+            "ariaLabel": "shkoni në ekranin e librarive"
+        }
+    }
+}}

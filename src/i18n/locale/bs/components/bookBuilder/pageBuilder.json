@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "slika stranice %{pageNum}"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Ponovo skenirajte tekst stranice",
+                "message": "Jeste li sigurni da želite skenirati sliku za tekst i zamijeniti postojeći tekst stranice?"
+            },
+            "ariaLabel": "izdvoji tekst iz slike za stranicu %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "tekst za dodavanje na stranicu %{pageNum}",
+                    "withPageText": "tekst za ažuriranje na stranici %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Postavite tekst stranice",
+                    "withPageText": "Ažurirajte tekst stranice"
+                },
+                "message": {
+                    "noPageText": "Šta je tekst stranice?",
+                    "withPageText": "U šta biste željeli promijeniti tekst stranice?"
+                },
+                "inputPlaceholder": "tekst za dodavanje"
+            },
+            "ariaLabel": "uredite tekst \"%{pageText}\" sa stranice %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "premjestite tekst \"%{pageText}\" sa stranice %{pageNum} prema gore"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Potvrda brisanja",
+                "message": "Jeste li sigurni da želite izbrisati tekst ove stranice?"
+            },
+            "ariaLabel": "uklonite tekst \"%{pageText}\" sa stranice %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "tekst za dodavanje na stranicu %{pageNum}",
+                "title": "Postavite tekst stranice",
+                "message": "Šta je tekst stranice?",
+                "inputPlaceholder": "tekst za dodavanje"
+            },
+            "ariaLabel": "dodaj novi tekst na stranicu %{pageNum}"
+        },
+        "label": "Tekst",
+        "showHideButton": {"ariaLabel": {
+            "visible": "sakrij tekst \"%{pageText}\" sa stranice %{pageNum}",
+            "hidden": "prikaži tekst \"%{pageText}\" sa stranice %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "pomaknite tekst \"%{pageText}\" sa stranice %{pageNum} prema dolje"}
+    },
+    "moveUpButton": {"ariaLabel": "premjestiti stranicu %{pageNum} gore"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "Zvuk za reprodukciju kada \"%{readerDisplayName}\" čita stranicu %{pageNum}.",
+                "noDisplayName": "Zvuk za reprodukciju kada ovaj čitač čita stranicu %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "stranica %{pageNum} %{readerDisplayName} čitač"
+        },
+        "label": "Čitaoci"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Ovo će ukloniti sav audio zapis stranice snimljen za ovu stranicu.",
+            "additionalMessage2": "OVO SE NE MOŽE PONIŠTITI!",
+            "title": "Potvrda brisanja",
+            "message": "Jeste li sigurni da želite izbrisati stranicu %{pageNum}?"
+        },
+        "ariaLabel": "ukloni stranicu %{pageNum}"
+    },
+    "description": "Slika za prikaz na stranici %{pageNum}.",
+    "label": "Stranica %{pageNum}",
+    "moveDownButton": {"ariaLabel": "premjestiti stranicu %{pageNum} prema dolje"}
+}

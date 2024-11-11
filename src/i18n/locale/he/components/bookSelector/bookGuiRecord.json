@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "לִבחוֹר",
+                "ariaLabel": "בחר את הספר %{bookTitle}"
+            },
+            "edit": {
+                "title": "לַעֲרוֹך",
+                "ariaLabel": "ערוך את הספר %{bookTitle}"
+            },
+            "delete": {
+                "title": "לִמְחוֹק",
+                "ariaLabel": "מחק את הספר %{bookTitle}"
+            },
+            "export": {
+                "title": "יְצוּא",
+                "ariaLabel": "ייצא את הספר %{bookTitle}"
+            }
+        },
+        "ariaLabel": "פתח את תפריט ההקשר של הספר %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} דפים",
+            "one": "דף %{count}"
+        },
+        "ariaLabel": {
+            "other": "%{count} דפים",
+            "one": "דף %{count}"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "בחר את הספר %{bookTitle}",
+        "selected": "בטל את הבחירה בספר %{bookTitle}"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} קוראים",
+            "one": "%{count} קורא"
+        },
+        "ariaLabel": {
+            "other": "לספר %{bookTitle} יש %{count} קוראים",
+            "one": "לספר %{bookTitle} יש %{count} קורא"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "קרא את הסיפור: %{bookTitle}",
+        "selectionMode": "ספר %{bookTitle}"
+    }
+}

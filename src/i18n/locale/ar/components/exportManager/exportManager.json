@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "التصدير قيد التشغيل بالفعل، حاول مرة أخرى لاحقًا"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "يلغي",
+            "ariaLabel": "إلغاء التصدير"
+        },
+        "export": {
+            "textLabel": "يصدّر",
+            "ariaLabel": "تصدير الكتب المختارة"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "احفظ كتبك الـ %{count}.",
+        "one": "حفظ الكتاب: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "تحليل ...",
+        "packaging": "التعبئة والتغليف ...",
+        "cancelling": "الإلغاء..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "القراء",
+                    "ariaLabel": "تصدير معلومات القارئ للكتاب %{bookTitle} فقط"
+                },
+                "full": {
+                    "label": "ممتلىء",
+                    "ariaLabel": "تصدير الكتاب بأكمله %{bookTitle}"
+                }
+            },
+            "ariaLabel": "حدد كيفية تصدير الكتاب %{bookTitle}"
+        },
+        "readers": {"checkbox": {"ariaLabel": "لتضمين القارئ %{readerDisplayName} في عملية التصدير"}},
+        "checkbox": {"ariaLabel": "لتضمين الكتاب %{bookTitle} في التصدير"},
+        "bookReadersTooltip": {"label": "سيؤدي تحديد خيار \"القراء\" إلى تصدير القراء المختارين فقط.\n\n"}
+    },
+    "packagedMultiBookFileName": "كتب",
+    "nothingToExport": "لا شيء للتصدير :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "لا تقم بإلغاء التصدير"},
+            "yes": {"ariaLabel": "إلغاء التصدير"}
+        },
+        "title": "تأكيد إلغاء التصدير",
+        "message": "هل أنت متأكد أنك تريد إلغاء التصدير؟"
+    }},
+    "titles": {
+        "booksToExport": "كتب للتصدير",
+        "failedToExport": "فشل تصدير الكتب"
+    },
+    "outputFilenameField": {
+        "label": "اسم ملف الإخراج",
+        "ariaLabel": "اسم ملف الإخراج المتوقع"
+    },
+    "errors": {"invalidOutputFilename": "اسم ملف غير صالح"}
+}

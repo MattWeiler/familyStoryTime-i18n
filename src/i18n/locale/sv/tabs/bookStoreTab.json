@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "nej, avinstallera inte boken Tillgänglig",
+            "yesButtonAriaLabel": "ja, avinstallera den tillgängliga boken",
+            "title": "Avinstallationsbekräftelse",
+            "message": "Är du säker på att du vill avinstallera den här tillgängliga boken?\n"
+        },
+        "ariaLabel": "avinstallera den tillgängliga boken %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "gratis"},
+        "newerVersionAvailableMessage": "Uppdatering tillgänglig"
+    },
+    "subtitle": "Låt oss hitta några bra historier att läsa.",
+    "loadingFailedMessage": "Det gick inte att ladda tillgängliga böcker.\n",
+    "title": "Bokhandel",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "nej, installera inte den tillgängliga boken",
+            "yesButtonAriaLabel": "ja, installera den tillgängliga boken",
+            "title": "Installationsbekräftelse",
+            "message": "Är du säker på att du vill installera den här tillgängliga boken?\nOm du gör det kommer att använda %{filstorlek} av data."
+        },
+        "ariaLabel": "installera den tillgängliga boken %{bookName}"
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "պահված գիրք «%{bookTitle}»",
+        "validationFailed": "վավերացումը ձախողվեց",
+        "bookSaveFailed": "Չհաջողվեց պահպանել գիրքը"
+    },
+    "bookTitleInput": {
+        "description": "Գրքի վերնագիրը.",
+        "label": "Գրքի անվանումը",
+        "placeholder": "գրքի վերնագիր",
+        "ariaLabel": "գրքի վերնագիրը"
+    },
+    "readers": {
+        "label": "Ընթերցողներ",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "ցուցադրվող անունը այս նոր ընթերցողի համար",
+                "buttons": {
+                    "cancel": {"ariaLabel": "չեղարկել նոր ընթերցողի ավելացումը"},
+                    "add": {"ariaLabel": "ավելացնել նոր ընթերցողին"}
+                },
+                "description": "Խնդրում ենք տրամադրել այս նոր ընթերցողի ցուցադրման անունը:",
+                "title": "Ավելացնել նոր ընթերցող",
+                "inputPlaceholder": "ընթերցողի անունը"
+            },
+            "ariaLabel": "ավելացնել նոր ընթերցող"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Էջի փոփոխության աուդիո նվագարկումը սպասելու միլիվայրկյանների քանակը:",
+            "label": "Նախքան էջը փոխել ձայնը",
+            "placeholder": "Էջի փոփոխության աուդիո նվագարկումից միլիվայրկյան առաջ",
+            "ariaLabel": "միլիվայրկյաններով սպասել, նախքան էջի փոփոխության աուդիո նվագարկելը"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Էջի փոփոխության աուդիո նվագարկումից հետո սպասելու միլիվայրկյանների քանակը:",
+            "label": "Աուդիո էջի փոփոխությունից հետո",
+            "placeholder": "Էջի փոփոխության աուդիո նվագարկումից միլիվայրկյաններ անց",
+            "ariaLabel": "Էջի փոփոխության աուդիո նվագարկումից հետո սպասել միլիվայրկյաններով"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Էջի աուդիո նվագարկումից առաջ սպասելու միլիվայրկյանների քանակը:",
+            "label": "Նախքան էջի աուդիոն",
+            "placeholder": "Էջի աուդիո նվագարկումից միլիվայրկյան առաջ",
+            "ariaLabel": "միլիվայրկյաններով սպասել, նախքան էջի աուդիո նվագարկումը"
+        },
+        "label": "Ուշացումներ"
+    },
+    "bookIconImageSelector": {
+        "description": "Պատկերը, որը պետք է օգտագործվի որպես գրքի պատկերակ:",
+        "label": "Գրքի պատկերակ",
+        "accessibleImageDisplayName": "գրքի պատկերակ"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "Պատկերը, որը պետք է ցուցադրվի գիրքը առաջին անգամ գործարկելիս:",
+        "label": "Book Splash Image",
+        "accessibleImageDisplayName": "գրքի շաղ տալ"
+    },
+    "confirmations": {"goBack": {
+        "title": "Թողնել Փոփոխությունները",
+        "message": "Վստա՞հ եք, որ ցանկանում եք հեռանալ նախքան խնայելը:"
+    }},
+    "pageChangeAudio": {
+        "description": "Աուդիո նվագարկումը, երբ էջը փոխելու ժամանակն է:",
+        "label": "Էջի փոփոխության աուդիո",
+        "presetAudioModalPicker": {
+            "headerLabel": "Ընտրեք Էջի փոփոխություն աուդիո",
+            "ariaLabel": "ընտրեք նախադրված էջի փոփոխության աուդիո ընտրանքների ցանկից",
+            "accessibleAudioDisplayName": "էջի փոփոխություն"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Չհաջողվեց բեռնել գիրքը:",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "ուշացումը չի կարող բացասական լինել",
+            "bookTitleMissing": "գրքի անվանումը պարտադիր է",
+            "readerDisplayNameMissing": "ընթերցողի ցուցադրման անունը պահանջվում է",
+            "bookIconNotValid": "գրքի պատկերակը պարտադիր է",
+            "pageTextMissing": "էջի տեքստը պարտադիր է",
+            "delayBeforePlayingPageAudioNegative": "ուշացումը չի կարող բացասական լինել",
+            "pagesMissing": "առնվազն 1 էջ է պահանջվում",
+            "pageImageNotValid": "էջի պատկերը պարտադիր է",
+            "delayBeforePlayingPageChangeAudioNegative": "ուշացումը չի կարող բացասական լինել",
+            "bookSplashImageNotValid": "գրքի շաղ տալ պատկերը պարտադիր է",
+            "readerIntroAudioNotValid": "ընթերցողի ներածական ձայնը վավեր ֆայլ չէ",
+            "pageAudioNotValid": "էջի ձայնը պարտադիր է",
+            "pageChangeAudioNotValid": "էջի փոփոխության ձայնը պարտադիր է",
+            "delayAfterPlayingPageChangeAudioNotInteger": "ուշացումը պետք է լինի ամբողջ թիվ",
+            "delayBeforePlayingPageAudioNotInteger": "ուշացումը պետք է լինի ամբողջ թիվ",
+            "delayBeforePlayingPageChangeAudioNotInteger": "ուշացումը պետք է լինի ամբողջ թիվ",
+            "delayBeforePlayingPageAudioRequired": "ուշացում է պահանջվում",
+            "readerImageNotValid": "պահանջվում է ընթերցողի պատկեր",
+            "delayBeforePlayingPageChangeAudioRequired": "ուշացում է պահանջվում",
+            "delayAfterPlayingPageChangeAudioRequired": "ուշացում է պահանջվում"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "Գրքի աղբյուրի URL-ը։",
+            "label": "Աղբյուրի URL",
+            "placeholder": "աղբյուրի URL",
+            "ariaLabel": "գրքի աղբյուրի URL"
+        },
+        "authorInput": {
+            "description": "Գրքի հեղինակի անունը.",
+            "label": "Հեղինակի անունը",
+            "placeholder": "գրքի հեղինակ",
+            "ariaLabel": "գրքի հեղինակի անունը"
+        },
+        "illustratorInput": {
+            "description": "Գրքի նկարազարդողի անունը.",
+            "label": "Նկարազարդողի անունը",
+            "placeholder": "գրքի նկարազարդող",
+            "ariaLabel": "գրքի նկարազարդողի անունը"
+        },
+        "publisherInput": {
+            "description": "Գրքի հրատարակչի անունը.",
+            "label": "Հրատարակչի անունը",
+            "placeholder": "գրքի հրատարակիչ",
+            "ariaLabel": "գրքի հրատարակչի անունը"
+        },
+        "label": "Աղբյուր",
+        "isbnInput": {
+            "description": "Գրքի միջազգային ստանդարտ գրքի համարը:",
+            "label": "ISBN",
+            "placeholder": "Գրքի ISBN",
+            "ariaLabel": "գրքի միջազգային ստանդարտ գրքի համարը"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "ավելացնել նոր էջ"},
+        "label": "Էջեր"
+    }
+}

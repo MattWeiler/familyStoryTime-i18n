@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "pokazati podatke o izvoru knjige"},
+        "hideSource": {"ariaLabel": "sakriti podatke o izvoru knjige"}
+    },
+    "sourceUrl": {
+        "label": "pogledajte izvor knjige",
+        "ariaLabel": "izvorni URL otvorene knjige"
+    },
+    "sourceIllustrator": {"label": "Ilustrator:"},
+    "sourceAuthor": {"label": "Autor:"},
+    "sourcePublisher": {"label": "Izdavač:"},
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "otvorite ISBN pretragu za ISBN knjige"
+    }
+}

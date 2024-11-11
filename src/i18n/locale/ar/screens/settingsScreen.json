@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "سيؤدي هذا إلى حذف كافة الكتب المثبتة على هذا الجهاز.\n\n",
+        "button": {
+            "label": "يمسح",
+            "title": "حذف جميع الكتب",
+            "ariaLabel": "حذف جميع الكتب"
+        },
+        "displayName": "حذف كافة الكتب",
+        "processingMessage": "حذف ...",
+        "shortDescription": {
+            "disabled": "احذف جميع كتبك، ولكن ليس لديك أي كتب مثبتة حاليًا.",
+            "enabled": "احذف جميع كتبك."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} ويلرهاوس",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "مبردات",
+                "someFontsBy": "الخطوط حسب:"
+            },
+            "label": "شكر خاص",
+            "icons": {
+                "ionicIcons": "IonIcons",
+                "someIconsBy": "أيقونات بواسطة:",
+                "icons8": "أيقونات8",
+                "iconArchive": "أرشيف الأيقونات"
+            }
+        },
+        "version": "الإصدار: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "سيتم استخدام محرر الصور هذا عند التقاط صور كتاب جديدة أو تحرير صورة كتاب حالية.",
+        "displayName": "محرر الصور",
+        "testLabel": "اختبار محرر الصور",
+        "testImage": {"accessibleImageDisplayName": "اختبار صورة محرر الصور"},
+        "options": {
+            "advanced": {
+                "label": "متقدم",
+                "ariaLabel": "استخدم محرر الصور المتقدم"
+            },
+            "simple": {
+                "label": "بسيط",
+                "ariaLabel": "استخدم محرر الصور البسيط"
+            }
+        },
+        "shortDescription": "حدد محرر الصور الذي يجب استخدامه.",
+        "ariaLabel": "حدد محرر الصور الذي يجب استخدامه"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "سيتم استخدام هذا الصوت عندما يقرأ قارئ \"AI Reader\" الكتب.",
+        "displayName": "الصوت المفضل",
+        "selectorButton": {
+            "defaultLabel": "تقصير",
+            "ariaLabel": "حدد صوت \"AI Reader\"."
+        },
+        "shortDescription": "حدد الصوت الذي سيستخدمه \"قارئ الذكاء الاصطناعي\".",
+        "picker": {
+            "default": "تقصير",
+            "networkActionIcon": {"ariaLabel": "إظهار الأصوات المحلية والشبكة"},
+            "label": "أصوات قارئ الذكاء الاصطناعي",
+            "ariaLabel": "حدد صوت \"AI Reader\".",
+            "globalActionIcon": {"ariaLabel": "إظهار جميع اللغات"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "الصوت والفيديو",
+        "ariaLabel": {
+            "expanded": "قم بطي قسم اختيار الصوت والفيديو",
+            "collapsed": "قم بتوسيع قسم اختيار الصوت والفيديو"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "سيتم استخدام جودة الصورة هذه عند التقاط الصور بكاميرا (كاميرات) الجهاز.",
+        "slider": {
+            "highLabel": "عالي",
+            "ariaLabel": "جودة الصورة من الصور",
+            "lowLabel": "قليل"
+        },
+        "displayName": "جودة الكاميرا %{value}%",
+        "testLabel": "كاميرا الاختبار",
+        "testImage": {"accessibleImageDisplayName": "اختبار جودة الصورة الكاميرا"},
+        "shortDescription": "حدد جودة الصورة الملتقطة بالكاميرا."
+    },
+    "title": "إعدادات",
+    "confirmations": {"deleteAllBooks": {
+        "title": "تأكيد الحذف",
+        "message": "هل أنت متأكد أنك تريد حذف كافة الكتب المثبتة؟"
+    }},
+    "exportAllBooks": {
+        "longDescription": "يمكن أن يكون هذا مفيدًا عند الترحيل إلى جهاز جديد أو إضافة كتبك إلى أجهزة متعددة.",
+        "button": {
+            "label": "يصدّر",
+            "title": "تصدير كافة الكتب",
+            "ariaLabel": "تصدير كافة الكتب"
+        },
+        "displayName": "تصدير كافة الكتب",
+        "shortDescription": {
+            "disabled": "قم بتصدير جميع كتبك إلى ملف واحد واحفظه/شاركه، ولكن ليس لديك أي كتب مثبتة حاليًا.",
+            "enabled": "قم بتصدير جميع كتبك إلى ملف واحد واحفظه/شاركه."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "فشل الحذف",
+        "success": {
+            "other": "تم حذف %{count} من الكتب",
+            "one": "تم حذف كتاب واحد"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "قارئ الذكاء الاصطناعي",
+        "testLabel": "اختبار الصوت",
+        "testAriaLabel": {
+            "stopped": "اختبار صوت \"AI Reader\".",
+            "playing": "إيقاف الاختبار الصوتي \"AI Reader\"."
+        },
+        "testPhrase": "مرحبًا، أود أن أقرأ قصصك المفضلة معك.",
+        "description": "عند التمكين، سيكون \"قارئ الذكاء الاصطناعي\" متاحًا كقارئ عند تشغيل الكتب.",
+        "ariaLabel": {
+            "expanded": "قم بطي قسم التحديد \"AI Reader\".",
+            "collapsed": "قم بتوسيع قسم اختيار \"AI Reader\".",
+            "disabled": "تم تعطيل \"AI Reader\".",
+            "enabled": "تم تمكين \"قارئ الذكاء الاصطناعي\"."
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "يشير هذا إلى طبقة الصوت المستخدمة عندما يقرأ قارئ \"AI Reader\" الكتب.",
+        "slider": {
+            "highLabel": "عالي",
+            "ariaLabel": "درجة الصوت لـ \"AI Reader\"",
+            "lowLabel": "قليل"
+        },
+        "displayName": "درجة الصوت %{value}%",
+        "shortDescription": "حدد درجة الصوت الذي سيستخدمه \"قارئ الذكاء الاصطناعي\"."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "سيتم استخدام جودة الصوت هذه عند التسجيل باستخدام ميكروفون الجهاز.",
+        "displayName": "جودة الميكروفون",
+        "testLabel": "اختبار الميكروفون",
+        "options": {
+            "high": {
+                "label": "عالي",
+                "ariaLabel": "استخدام جودة صوت عالية"
+            },
+            "low": {
+                "label": "قليل",
+                "ariaLabel": "استخدام جودة صوت منخفضة"
+            }
+        },
+        "shortDescription": "حدد جودة الصوت للتسجيلات التي تم التقاطها باستخدام الميكروفون.",
+        "ariaLabel": "حدد جودة الصوت للتسجيلات الملتقطة بالميكروفون",
+        "testAudioSelector": {"accessibleAudioDisplayName": "اختبار جودة الميكروفون"}
+    },
+    "subtitle": "قم بتحديث إعدادات التطبيق الخاص بك هنا.",
+    "themeSelection": {
+        "longDescription": "إذا تم تحديد سمة هنا، فسوف تتجاوز إعدادات سمة الجهاز التي قد تكون لديك.",
+        "displayName": "اختيار الموضوع",
+        "options": {
+            "default": {
+                "label": "نظام",
+                "ariaLabel": "استخدم السمة المحددة للنظام"
+            },
+            "light": {
+                "label": "ضوء",
+                "ariaLabel": "استخدم موضوع الضوء"
+            },
+            "dark": {
+                "label": "مظلم",
+                "ariaLabel": "استخدم المظهر المظلم"
+            }
+        },
+        "shortDescription": "حدد السمة التي يجب أن يستخدمها التطبيق.",
+        "ariaLabel": "حدد السمة التي يجب أن يستخدمها التطبيق"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "يشير هذا إلى معدل الصوت المستخدم عندما يقرأ قارئ \"AI Reader\" الكتب.",
+        "slider": {
+            "highLabel": "سريع",
+            "ariaLabel": "معدل الكلام لـ \"AI Reader\"",
+            "lowLabel": "بطيء"
+        },
+        "displayName": "معدل الكلام %{value}%",
+        "shortDescription": "حدد معدل الصوت الذي سيستخدمه \"AI Reader\"."
+    },
+    "parentalLocking": {
+        "longDescription": "عند التمكين، تكون البيانات البيومترية لمالك الجهاز مطلوبة لفتح الميزات المتقدمة في التطبيق.",
+        "displayName": "قفل الوالدين",
+        "shortDescription": "يمكن أن يكون القفل الأبوي مفيدًا عندما يستخدم الأطفال التطبيق.",
+        "ariaLabel": {
+            "disabled": "تم تعطيل القفل الأبوي",
+            "enabled": "تم تمكين القفل الأبوي"
+        }
+    }
+}

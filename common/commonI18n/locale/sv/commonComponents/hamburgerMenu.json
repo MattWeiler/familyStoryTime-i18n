@@ -1,0 +1,8 @@
+{
+    "applicationSecurityButton": {"ariaLabel": {
+        "unlockParentMode": "låsa upp applikation för föräldrabruk",
+        "initParentMode": "aktivera föräldralåsning",
+        "lockParentMode": "aktivera föräldralås"
+    }},
+    "hamburgerButton": {"ariaLabel": "visa hamburgermeny"}
+}

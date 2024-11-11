@@ -1,0 +1,9 @@
+{
+    "mission": "Sevdiklerinizin okuduğu en sevdiğiniz hikayeleri saklamanıza yardımcı olmak istiyoruz.",
+    "subtitle": "Çocukların okumasına yardımcı olacak eğlenceli bir uygulama.",
+    "paragraphs": {"1": "Çocuklar, sevdikleri kişiler uzakta olsa ya da vefat etmiş olsalar bile sevdikleri hikayeleri okuyabilir."},
+    "accessTutorial": {
+        "messages": {"1": "Bu eğitime uygulamanın sol üst köşesindeki hamburger menüsünden istediğiniz zaman ulaşabilirsiniz."},
+        "title": "Eğitime Erişim"
+    }
+}

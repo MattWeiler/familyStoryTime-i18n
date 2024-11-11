@@ -1,0 +1,17 @@
+{
+    "summary": "Gheibh thu leabhraichean àrainn poblach anns a\u2019 bhùth leabhraichean againn.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Faodaidh tu taghadh dè na leabhraichean a tha rim faighinn a tha thu airson luchdachadh sìos.",
+            "2": "Le bhith a\u2019 dèanamh sin stàlaidhidh tu an leabhar(an) air an inneal agad, a\u2019 toirt cothrom dhut an cluich agus eadhon na leughadairean agad fhèin a chur ris."
+        },
+        "title": "Stàladh leabhraichean"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Chì thu cuideachd dè na leabhraichean a chuir thu a-steach mu thràth bhon stòr leabhraichean againn.",
+            "2": "Às an seo, faodaidh tu leabhraichean a chaidh a chuir a-steach roimhe a dhubhadh às no sgrùdadh a dhèanamh airson ùrachaidhean a tha rim faighinn."
+        },
+        "title": "Riaghladh Leabhraichean"
+    }
+}

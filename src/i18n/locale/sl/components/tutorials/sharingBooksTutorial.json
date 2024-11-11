@@ -1,0 +1,25 @@
+{
+    "summary": "Ko ustvarite knjigo, jo lahko delite z družino in prijatelji.",
+    "exporting": {
+        "messages": {
+            "1": "Izvozite lahko eno samo knjigo, prek njenega kontekstnega menija, ali več knjig hkrati, tako da dolgo držite, da izberete več knjig.",
+            "2": "Ko izberete knjigo(e) za izvoz, lahko izberete, kaj točno želite izvoziti.",
+            "3": "Privzeto bo izvožena celotna knjiga, vendar lahko izberete, kateri bralniki bodo vključeni v vsebino knjige, ali pa izberete izvoz samo določenih bralnikov.",
+            "4": "Ko želite samo poslati podatke o bralcu, ki ste jih posneli, nekomu, ki že ima knjigo, lahko ustvarite veliko manjšo datoteko za skupno rabo, tako da vključite samo določene bralce."
+        },
+        "title": "Izvažanje"
+    },
+    "importingMerging": {"messages": {
+        "1": "Pri uvozu knjige, ki je že nameščena v vaši napravi, boste lahko izbrali, ali naj knjiga za uvoz prepiše že nameščeno knjigo ali naj se izvede spajanje.",
+        "2": "Pri združitvi bodo že nameščeni knjigi dodani samo izbrani bralci.",
+        "3": "Če so bralniki, ki jih združujete, že nameščeni v napravi, bodo zamenjani."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Na strani »Kotiček za branje« lahko izberete, katere knjige želite uvoziti, tako da izberete možnost »uvozi knjige«, ko pritisnete gumb (+) v spodnjem desnem kotu zaslona.",
+            "2": "Druga možnost je, da datoteko knjige pošljete v aplikacijo \"Family Story Time\".",
+            "3": "Pri uvozu knjige, ki še ni nameščena v vaši napravi, bo knjiga nameščena."
+        },
+        "title": "Uvažanje"
+    }
+}

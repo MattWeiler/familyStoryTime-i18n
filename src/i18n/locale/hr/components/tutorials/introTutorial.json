@@ -1,0 +1,9 @@
+{
+    "mission": "Želimo pomoći u očuvanju vaših omiljenih priča koje čitaju vaši najmiliji.",
+    "subtitle": "Zabavna aplikacija za pomoć djeci u čitanju.",
+    "paragraphs": {"1": "Djeca mogu slušati svoje omiljene priče koje im čitaju voljeni, čak i ako su ti voljeni daleko ili su preminuli."},
+    "accessTutorial": {
+        "messages": {"1": "Ovom vodiču možete pristupiti bilo kada putem izbornika hamburgera u gornjem lijevom kutu aplikacije."},
+        "title": "Pristup vodiču"
+    }
+}

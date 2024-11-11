@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Emri",
+        "placeholder": "John Doe",
+        "ariaLabel": "sipas dëshirës, \u200b\u200bemri juaj"
+    },
+    "emailInput": {
+        "description": "Jepni nëse doni të dëgjoni përsëri nga ne.",
+        "label": "Adresa e emailit",
+        "placeholder": "dikush@gmail.com",
+        "ariaLabel": "opsionalisht, adresën tuaj të emailit"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "startButton": {
+        "title": "להתחיל את הספר",
+        "ariaLabel": "להתחיל את הספר"
+    },
+    "selectedReaderImage": {"ariaLabel": "בחר את הקול לקריאת הספר"},
+    "skipIntroButton": {
+        "title": "לדלג על המבוא",
+        "ariaLabel": "לדלג על המבוא"
+    },
+    "readMode": {
+        "items": {
+            "autoRead": {
+                "label": "הפעלה אוטומטית",
+                "ariaLabel": "כל עמוד יוקרא למשתמש בקול שיבחר"
+            },
+            "pageRead": {
+                "label": "קרא לי",
+                "ariaLabel": "כל עמוד יוקרא למשתמש בקול שיבחר, \u200b\u200bאך המשתמש אחראי לשנות את העמוד"
+            },
+            "selfRead": {
+                "label": "קרא את זה בעצמי",
+                "ariaLabel": "המשתמש יקרא כל עמוד"
+            }
+        },
+        "ariaLabel": "בחר באיזה מצב קריאה להשתמש"
+    }
+}

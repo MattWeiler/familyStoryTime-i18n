@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "imazhi i faqes %{pageNum}"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "Riskanoni tekstin e faqes",
+                "message": "Jeni i sigurt që dëshironi të skanoni imazhin për tekst dhe të zëvendësoni tekstin ekzistues të faqes tuaj?"
+            },
+            "ariaLabel": "nxjerr tekstin nga imazhi për faqen %{pageNum}"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "tekst për të shtuar në faqen %{pageNum}",
+                    "withPageText": "tekst për tu përditësuar në faqen %{pageNum}"
+                },
+                "title": {
+                    "noPageText": "Cakto tekstin e faqes",
+                    "withPageText": "Përditëso tekstin e faqes"
+                },
+                "message": {
+                    "noPageText": "Cili është teksti i faqes?",
+                    "withPageText": "Në çfarë dëshironi të ndryshoni tekstin e faqes?"
+                },
+                "inputPlaceholder": "tekst për të shtuar"
+            },
+            "ariaLabel": "redaktoni tekstin \"%{pageText}\" nga faqja %{pageNum}"
+        },
+        "moveUpButton": {"ariaLabel": "zhvendosni tekstin \"%{pageText}\" nga faqja %{pageNum} lart"},
+        "removeButton": {
+            "confirmation": {
+                "title": "Konfirmimi i fshirjes",
+                "message": "Jeni i sigurt që dëshironi të fshini këtë tekst të faqes?"
+            },
+            "ariaLabel": "hiq tekstin \"%{pageText}\" nga faqja %{pageNum}"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "tekst për të shtuar në faqen %{pageNum}",
+                "title": "Cakto tekstin e faqes",
+                "message": "Cili është teksti i faqes?",
+                "inputPlaceholder": "tekst për të shtuar"
+            },
+            "ariaLabel": "shtoni tekst të ri në faqen %{pageNum}"
+        },
+        "label": "Teksti",
+        "showHideButton": {"ariaLabel": {
+            "visible": "fshih tekstin \"%{pageText}\" nga faqja %{pageNum}",
+            "hidden": "shfaq tekstin \"%{pageText}\" nga faqja %{pageNum}"
+        }},
+        "moveDownButton": {"ariaLabel": "zhvendos tekstin \"%{pageText}\" nga faqja %{pageNum} poshtë"}
+    },
+    "moveUpButton": {"ariaLabel": "zhvendosni faqen %{pageNum} lart"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "Audioja për t'u luajtur kur "%{readerDisplayName}" po lexon faqen %{pageNum}.",
+                "noDisplayName": "Audioja për t'u luajtur kur ky lexues po lexon faqen %{pageNum}."
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "lexuesi i faqes %{pageNum} %{readerDisplayName}"
+        },
+        "label": "Lexuesit"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Kjo do të heqë të gjithë audion e faqes të regjistruar për këtë faqe.",
+            "additionalMessage2": "KJO NUK MUND TË zhbëhet!",
+            "title": "Konfirmimi i fshirjes",
+            "message": "Jeni i sigurt që dëshironi të fshini faqen %{pageNum}?"
+        },
+        "ariaLabel": "hiq faqen %{pageNum}"
+    },
+    "description": "Imazhi për t'u shfaqur në faqen %{pageNum}.",
+    "label": "Faqja %{pageNum}",
+    "moveDownButton": {"ariaLabel": "zhvendose faqen %{pageNum} poshtë"}
+}

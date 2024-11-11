@@ -1,0 +1,43 @@
+{"hamburgerMenu": {
+    "applicationTitle": "পারিবারিক গল্পের সময়",
+    "links": {
+        "feedback": {
+            "text": "প্রতিক্রিয়া",
+            "ariaLabel": "প্রতিক্রিয়া স্ক্রিনে যান"
+        },
+        "settings": {
+            "text": "সেটিংস",
+            "ariaLabel": "সেটিংস স্ক্রিনে যান"
+        },
+        "bookSelector": {
+            "text": "রিডিং কর্নার",
+            "ariaLabel": "রিডিং কর্নার স্ক্রিনে যান"
+        },
+        "bookBuilder": {
+            "text": "বই নির্মাতা",
+            "ariaLabel": "বই নির্মাতা পর্দায় যান"
+        },
+        "about": {
+            "text": "আমাদের সম্পর্কে",
+            "ariaLabel": "আমাদের সম্পর্কে স্ক্রিনে যান"
+        },
+        "developerStatus": {
+            "hidden": {
+                "text": "ডেভেলপার স্ট্যাটাস দেখান",
+                "ariaLabel": "বিকাশকারীর অবস্থা দেখান"
+            },
+            "showing": {
+                "text": "বিকাশকারী স্থিতি লুকান",
+                "ariaLabel": "বিকাশকারীর অবস্থা লুকান"
+            }
+        },
+        "tutorial": {
+            "text": "টিউটোরিয়াল",
+            "ariaLabel": "টিউটোরিয়াল দেখুন"
+        },
+        "bookStore": {
+            "text": "বইয়ের দোকান",
+            "ariaLabel": "বইয়ের দোকানের পর্দায় যান"
+        }
+    }
+}}

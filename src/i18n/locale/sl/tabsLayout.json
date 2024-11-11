@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Bralni kotiček",
+        "ariaLabel": "preberi svoje knjige tukaj"
+    },
+    "bookStore": {
+        "text": "Knjigarna",
+        "ariaLabel": "obisk knjigarne"
+    }
+}

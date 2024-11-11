@@ -1,0 +1,59 @@
+{
+    "toasts": {"exportAlreadyInProgress": "exportul rulează deja, încercați din nou mai târziu"},
+    "buttons": {
+        "cancel": {
+            "textLabel": "Anula",
+            "ariaLabel": "anulați exportul"
+        },
+        "export": {
+            "textLabel": "Export",
+            "ariaLabel": "exportați cărțile selectate"
+        }
+    },
+    "sharingDialogTitle": {
+        "other": "Salvați-vă %{count} cărțile",
+        "one": "Salvare carte: %{bookName}"
+    },
+    "processingLabels": {
+        "analyzing": "analizand...",
+        "packaging": "ambalaj...",
+        "cancelling": "anulare..."
+    },
+    "booksToExport": {
+        "exportMode": {
+            "modes": {
+                "audioOnly": {
+                    "label": "cititori",
+                    "ariaLabel": "exportați doar informațiile despre cititor pentru cartea %{bookTitle}"
+                },
+                "full": {
+                    "label": "deplin",
+                    "ariaLabel": "exportați întreaga carte %{bookTitle}"
+                }
+            },
+            "ariaLabel": "selectați cum să exportați cartea %{bookTitle}"
+        },
+        "readers": {"checkbox": {"ariaLabel": "pentru a include cititorul %{readerDisplayName} în export"}},
+        "checkbox": {"ariaLabel": "pentru a include cartea %{bookTitle} în export"},
+        "bookReadersTooltip": {"label": "Selectarea opțiunii \u201ecititori\u201d va exporta doar cititorii aleși.\n\n"}
+    },
+    "packagedMultiBookFileName": "Cărți",
+    "nothingToExport": "Nimic de exportat :(",
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "nu anulați exportul"},
+            "yes": {"ariaLabel": "anulați exportul"}
+        },
+        "title": "Confirmați Anulați exportul",
+        "message": "Sigur doriți să anulați exportul?"
+    }},
+    "titles": {
+        "booksToExport": "Cărți de exportat",
+        "failedToExport": "Exportul cărților nu a reușit"
+    },
+    "outputFilenameField": {
+        "label": "Nume fișier de ieșire",
+        "ariaLabel": "numele fișierului de ieșire așteptat"
+    },
+    "errors": {"invalidOutputFilename": "nume de fișier nevalid"}
+}

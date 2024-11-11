@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "leabhar air a shàbhaladh \"%{bookTitle}\"",
+        "validationFailed": "dh'fhàillig an dearbhadh",
+        "bookSaveFailed": "Dh'fhàillig an leabhar a shàbhaladh"
+    },
+    "bookTitleInput": {
+        "description": "Tiotal an leabhair.",
+        "label": "Tiotal an leabhair",
+        "placeholder": "tiotal an leabhair",
+        "ariaLabel": "tiotal an leabhair"
+    },
+    "readers": {
+        "label": "Luchd-leughaidh",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "ainm taisbeanaidh airson an leughadair ùr seo",
+                "buttons": {
+                    "cancel": {"ariaLabel": "cuir dheth an leughadair ùr a chuir ris"},
+                    "add": {"ariaLabel": "cuir an leughadair ùr ris"}
+                },
+                "description": "Feuch an toir thu seachad ainm taisbeanaidh an leughadair ùr seo.",
+                "title": "Cuir Leughadair Ùr ris",
+                "inputPlaceholder": "ainm leughadair"
+            },
+            "ariaLabel": "cuir leughadair ùr ris"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "An àireamh de mhillean-thiogaidean ri feitheamh mus cluich thu duilleag atharraich an fhuaim.",
+            "label": "Mus atharraich duilleag claisneachd",
+            "placeholder": "milliseconds mus cluich thu duilleag atharraich claisneachd",
+            "ariaLabel": "milliseconds ri feitheamh mus cluich thu duilleag atharraich claisneachd"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "An àireamh de milliseconds ri feitheamh às deidh cluich duilleag atharrachadh claisneachd.",
+            "label": "Às deidh claisneachd atharrachadh duilleag",
+            "placeholder": "milliseconds às deidh cluich duilleag atharraich claisneachd",
+            "ariaLabel": "milliseconds ri feitheamh às deidh dhut claisneachd atharrachadh duilleag a chluich"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "An àireamh de milliseconds ri feitheamh mus cluich thu claisneachd duilleag.",
+            "label": "Fuaim na duilleige ro làimh",
+            "placeholder": "milliseconds mus cluich thu claisneachd duilleag",
+            "ariaLabel": "milliseconds ri feitheamh mus cluich thu claisneachd duilleag"
+        },
+        "label": "Moill"
+    },
+    "bookIconImageSelector": {
+        "description": "An ìomhaigh a thèid a chleachdadh mar ìomhaigh airson an leabhair.",
+        "label": "Ìomhaigh leabhar",
+        "accessibleImageDisplayName": "ìomhaigh leabhar"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "An ìomhaigh ri fhaicinn nuair a thèid an leabhar a chuir air bhog an toiseach.",
+        "label": "Dealbh splash leabhar",
+        "accessibleImageDisplayName": "splash leabhar"
+    },
+    "confirmations": {"goBack": {
+        "title": "Fàg Atharrachaidhean",
+        "message": "A bheil thu cinnteach gu bheil thu airson falbh mus sàbhail thu?"
+    }},
+    "pageChangeAudio": {
+        "description": "An fhuaim ri chluich nuair a tha an t-àm ann an duilleag atharrachadh.",
+        "label": "Atharrachadh duilleag claisneachd",
+        "presetAudioModalPicker": {
+            "headerLabel": "Tagh Page Change Audio",
+            "ariaLabel": "tagh bhon liosta de roghainnean claisneachd duilleag ro-shuidhichte",
+            "accessibleAudioDisplayName": "atharrachadh duilleag"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Dh'fhàillig an leabhar a luchdadh a-nuas.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "chan urrainn dàil a bhith àicheil",
+            "bookTitleMissing": "tha feum air tiotal an leabhair",
+            "readerDisplayNameMissing": "feumar ainm taisbeanaidh leughadair",
+            "bookIconNotValid": "tha feum air ìomhaigh leabhar",
+            "pageTextMissing": "tha feum air teacsa na duilleige",
+            "delayBeforePlayingPageAudioNegative": "chan urrainn dàil a bhith àicheil",
+            "pagesMissing": "tha feum air co-dhiù 1 duilleag",
+            "pageImageNotValid": "tha feum air dealbh duilleag",
+            "delayBeforePlayingPageChangeAudioNegative": "chan urrainn dàil a bhith àicheil",
+            "bookSplashImageNotValid": "tha feum air dealbh frasaidh leabhraichean",
+            "readerIntroAudioNotValid": "chan e faidhle dligheach a tha ann an claisneachd intro reader",
+            "pageAudioNotValid": "Tha feum air claisneachd duilleag",
+            "pageChangeAudioNotValid": "Tha feum air fuaim atharrachadh duilleag",
+            "delayAfterPlayingPageChangeAudioNotInteger": "feumaidh dàil a bhith na àireamh slàn",
+            "delayBeforePlayingPageAudioNotInteger": "feumaidh dàil a bhith na àireamh slàn",
+            "delayBeforePlayingPageChangeAudioNotInteger": "feumaidh dàil a bhith na àireamh slàn",
+            "delayBeforePlayingPageAudioRequired": "tha dàil a dhìth",
+            "readerImageNotValid": "tha feum air dealbh leughadair",
+            "delayBeforePlayingPageChangeAudioRequired": "tha dàil a dhìth",
+            "delayAfterPlayingPageChangeAudioRequired": "tha dàil a dhìth"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "URL stòr an leabhair.",
+            "label": "URL an tùs",
+            "placeholder": "URL an tùs",
+            "ariaLabel": "URL stòr an leabhair"
+        },
+        "authorInput": {
+            "description": "Ainm ùghdar an leabhair.",
+            "label": "Ainm an Ughdair",
+            "placeholder": "ùghdar an leabhair",
+            "ariaLabel": "ainm ùghdar an leabhair"
+        },
+        "illustratorInput": {
+            "description": "Ainm neach-deilbh an leabhair.",
+            "label": "Ainm an Dealbhadair",
+            "placeholder": "dealbhadair leabhar",
+            "ariaLabel": "ainm neach-deilbh an leabhair"
+        },
+        "publisherInput": {
+            "description": "Ainm foillsichear an leabhair.",
+            "label": "Ainm Foillsichear",
+            "placeholder": "foillsichear leabhar",
+            "ariaLabel": "ainm foillsichear an leabhair"
+        },
+        "label": "Stòr",
+        "isbnInput": {
+            "description": "Àireamh leabhar àbhaisteach eadar-nàiseanta an leabhair.",
+            "label": "ISBN",
+            "placeholder": "ISBN leabhar",
+            "ariaLabel": "àireamh leabhar àbhaisteach eadar-nàiseanta den leabhar"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "cuir duilleag ùr ris"},
+        "label": "Duilleagan"
+    }
+}

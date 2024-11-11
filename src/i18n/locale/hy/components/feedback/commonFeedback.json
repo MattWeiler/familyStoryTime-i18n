@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Անուն",
+        "placeholder": "Ջոն Դոու",
+        "ariaLabel": "ընտրովի, ձեր անունը"
+    },
+    "emailInput": {
+        "description": "Տրամադրեք, եթե ցանկանում եք մեզնից պատասխան լսել:",
+        "label": "Էլփոստի հասցե",
+        "placeholder": "someone@gmail.com",
+        "ariaLabel": "ընտրովի, ձեր էլ. հասցեն"
+    }
+}

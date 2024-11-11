@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "emailerneq tapersersorneqanngilaq",
+        "submissionFailed": "bug-imik nassiussineq iluatsinngilaq",
+        "submissionSuccess": "bug nassiunneqarpoq"
+    },
+    "submitButton": {
+        "text": "Nassiuk Bug",
+        "ariaLabel": "bug-imik nassiussineq"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Atuakkat/-it ajornartorsiutimut pissutaasinnaasut ilanngukkit.",
+            "label": "Atuakkat Ilanngussassat"
+        },
+        "loadFailed": "atuakkanik ikkussineq iluatsinngilaq",
+        "noBooksInstalled": "atuakkanik ikkussuussisoqanngilaq",
+        "picker": {
+            "header": "Atuakkat toqqaruk",
+            "ariaLabel": "toqqaruk atuakkat sorliit bug feedback-imut ilanngunneqarnissaat"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "allanngortitsisinnaavutit atuakkanut ilanngunneqarsimasunut bug-feedback-imut"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Bug pillugu ilaatigut paasissutissiigit.",
+        "description": "Bug pillugu kisitsisit tunniukkit.",
+        "label": "Bug-ip kisitsisit",
+        "ariaLabel": "bug-ip nassuiaataa"
+    }
+}

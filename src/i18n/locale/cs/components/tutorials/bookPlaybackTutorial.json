@@ -1,0 +1,24 @@
+{
+    "summary": "Můžete přehrávat knihy, které máte nainstalované v zařízení.",
+    "splashScreen": {
+        "messages": {
+            "1": "Na úvodní obrazovce si můžete vybrat, jak chcete knihu přehrávat, a případně vybrat, který čtenář má knihu číst.",
+            "2": "Pokud jsou v knize přidány čtečky, budete si moci vybrat mezi režimy \u201eAutomatické přehrávání\u201c, \u201ePřečtěte mi\u201c a \u201ePřečtěte si to sám\u201c.",
+            "3": "Režim \"Automatické přehrávání\" umožní vybranému čtenáři přečíst knihu a stránky se automaticky změní.",
+            "4": "V režimu \u201ePřečíst mi\u201c bude vybraný čtenář číst knihu, ale stránky bude nutné změnit ručně. ",
+            "5": "Režim \u201ePřečtěte si to sám\u201c vám umožní přečíst si knihu sami.",
+            "6": "Pokud kniha obsahuje informace o zdroji, zobrazí se ikona, na kterou se po kliknutí zobrazí informace o zdroji. "
+        },
+        "title": "Úvodní obrazovka"
+    },
+    "player": {
+        "messages": {
+            "1": "Při přehrávání knihy se zobrazí navigační tlačítka, která vám umožní pozastavit/přehrát zvuk čtečky a také procházet mezi stránkami.",
+            "2": "Navigační tlačítka lze skrýt/zobrazit jediným stisknutím obrázku.",
+            "3": "Některá gesta lze také použít k navigaci.",
+            "4": "Přejetím doleva/doprava se budete pohybovat mezi stránkami.",
+            "5": "Dvojité klepnutí nebo sevření přiblíží/oddálí. "
+        },
+        "title": "Přehrávač knih"
+    }
+}

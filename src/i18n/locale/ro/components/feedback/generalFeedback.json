@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "trimiterea prin e-mail nu este acceptată",
+        "submissionFailed": "Trimiterea feedbackului a eșuat",
+        "submissionSuccess": "feedback trimis"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Vă rugăm să selectați un nivel de satisfacție.",
+        "description": "Cât de probabil aveți să distribuiți aplicația noastră?",
+        "label": "Împărtășirea cu Alții",
+        "levels": {
+            "1": {
+                "displayName": "În nici un caz",
+                "ariaLabel": "în nici un caz"
+            },
+            "2": {
+                "displayName": "Nu este probabil",
+                "ariaLabel": "nu probabil"
+            },
+            "3": {
+                "displayName": "Pot fi",
+                "ariaLabel": "pot fi"
+            },
+            "4": {
+                "displayName": "Da",
+                "ariaLabel": "Da"
+            },
+            "5": {
+                "displayName": "Am deja",
+                "ariaLabel": "au deja"
+            }
+        },
+        "ariaLabel": "selectați cât de probabil aveți să partajați această aplicație mobilă cu alții"
+    },
+    "submitButton": {
+        "text": "Trimiteți feedback",
+        "ariaLabel": "trimite feedback-ul tău"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Vă rugăm să selectați un nivel de satisfacție.",
+        "description": "Cât de mult ți-a plăcut/nu ți-a plăcut aplicația noastră?",
+        "label": "Satisfacția aplicației",
+        "levels": {
+            "1": {
+                "displayName": "Urăsc-o",
+                "ariaLabel": "urăsc-o"
+            },
+            "2": {
+                "displayName": "Dezamăgit",
+                "ariaLabel": "dezamăgit"
+            },
+            "3": {
+                "displayName": "Neutru",
+                "ariaLabel": "neutru"
+            },
+            "4": {
+                "displayName": "Mare",
+                "ariaLabel": "mare"
+            },
+            "5": {
+                "displayName": "Place",
+                "ariaLabel": "place"
+            }
+        },
+        "ariaLabel": "selectați nivelul dvs. de satisfacție cu această aplicație mobilă"
+    },
+    "commentInput": {
+        "description": "Opțional, furnizați orice comentarii suplimentare pe care le aveți.",
+        "label": "Comentariu",
+        "ariaLabel": "opțional, comentarii suplimentare"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Vă rugăm să selectați un nivel de satisfacție.",
+        "description": "Cum ai găsit cărți de joc?",
+        "label": "Jucând cărți",
+        "levels": {
+            "1": {
+                "displayName": "Nu a funcționat",
+                "ariaLabel": "nu a funcționat"
+            },
+            "2": {
+                "displayName": "Nu grozav",
+                "ariaLabel": "nu grozav"
+            },
+            "3": {
+                "displayName": "E bine",
+                "ariaLabel": "e bine"
+            },
+            "4": {
+                "displayName": "Este Ușor",
+                "ariaLabel": "este usor"
+            },
+            "5": {
+                "displayName": "Place",
+                "ariaLabel": "place"
+            }
+        },
+        "ariaLabel": "selectați-vă satisfacția cu redarea cărții"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Vă rugăm să selectați un nivel de satisfacție.",
+        "description": "Cum ți-a plăcut să ai mai mulți cititori?",
+        "label": "Cititori multipli",
+        "levels": {
+            "1": {
+                "displayName": "Nu a funcționat",
+                "ariaLabel": "nu a funcționat"
+            },
+            "2": {
+                "displayName": "Nu grozav",
+                "ariaLabel": "nu grozav"
+            },
+            "3": {
+                "displayName": "E bine",
+                "ariaLabel": "e bine"
+            },
+            "4": {
+                "displayName": "Este Ușor",
+                "ariaLabel": "este usor"
+            },
+            "5": {
+                "displayName": "Place",
+                "ariaLabel": "place"
+            }
+        },
+        "ariaLabel": "selectați-vă satisfacția de a avea mai mulți cititori per carte"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Vă rugăm să selectați un nivel de satisfacție.",
+        "description": "Cum ați găsit să creați cărți?",
+        "label": "Crearea de cărți",
+        "levels": {
+            "1": {
+                "displayName": "Nu a funcționat",
+                "ariaLabel": "nu a funcționat"
+            },
+            "2": {
+                "displayName": "Nu grozav",
+                "ariaLabel": "nu grozav"
+            },
+            "3": {
+                "displayName": "E bine",
+                "ariaLabel": "e bine"
+            },
+            "4": {
+                "displayName": "Este Ușor",
+                "ariaLabel": "este usor"
+            },
+            "5": {
+                "displayName": "Place",
+                "ariaLabel": "place"
+            }
+        },
+        "ariaLabel": "selectați-vă satisfacția față de procesul de creare a cărții"
+    }
+}

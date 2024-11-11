@@ -1,0 +1,24 @@
+{
+    "summary": "Predvajate lahko knjige, ki ste jih namestili v svojo napravo.",
+    "splashScreen": {
+        "messages": {
+            "1": "Na uvodnem zaslonu lahko izberete, kako želite, da se knjiga predvaja, in izberete, kateri bralnik naj prebere knjigo, če je primerno.",
+            "2": "Če ima knjiga dodane bralnike, boste lahko izbirali med načini »Samodejno predvajanje«, »Preberi mi« in »Preberi sam«.",
+            "3": "V načinu »Samodejno predvajanje« izbrani bralec prebere knjigo in strani se samodejno zamenjajo.",
+            "4": "V načinu »Preberi mi« bo izbrani bralec prebral knjigo, vendar bo treba strani spremeniti ročno. ",
+            "5": "Način »Preberi sam« vam bo omogočil, da knjigo preberete sami.",
+            "6": "Če knjiga vsebuje informacije o izvoru, bo prikazana ikona, ki ob kliku prikaže te informacije o izvoru. "
+        },
+        "title": "Začetni zaslon"
+    },
+    "player": {
+        "messages": {
+            "1": "Med predvajanjem knjige bodo prikazani navigacijski gumbi, ki vam bodo omogočili zaustavitev/predvajanje zvoka bralnika in krmarjenje med stranmi.",
+            "2": "Navigacijske gumbe lahko skrijete/prikažete z enim pritiskom na sliko.",
+            "3": "Nekatere poteze lahko uporabite tudi za navigacijo.",
+            "4": "Če povlečete levo/desno, se pomikate med stranmi.",
+            "5": "Dvojni dotik ali približevanje prstov poveča/pomanjša. "
+        },
+        "title": "Predvajalnik knjig"
+    }
+}

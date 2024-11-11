@@ -1,0 +1,96 @@
+{
+    "summary": "Faodaidh tu na leabhraichean as fheàrr le do theaghlaichean a chur ann an cruth didseatach agus na h-uimhir de luchd-leughaidh a ghabhail a-steach a tha deònach iad fhèin a chlàradh.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "A 'fosgladh an \"Book Builder\"",
+            "ariaLabel": {
+                "expanded": "tuiteam sìos fosgladh earrann neach-togail an leabhair",
+                "collapsed": "fosgail an earrann neach-togail leabhar a\u2019 fosgladh"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Bho dhuilleag sam bith, gheibh thu cothrom air an \"Book Builder\" tron \u200b\u200b\u200b\u200bchlàr hamburger aig mullach clì na sgrìn.",
+                    "2": "Às an sin brùth air an roghainn \u201cBook Builder\u201d."
+                },
+                "title": "Clàr Hamburger"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "Bhon duilleag \"Leugh Corner\", gheibh thu cothrom air an \"Book Builder\" le putadh air a 'phutan (+) aig bonn-deas na sgrìn.",
+                    "2": "Às an sin brùth air an roghainn \u201ccruthaich leabhar\u201d."
+                },
+                "title": "Putan Gnìomh"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "A 'cleachdadh an \"Book Builder\"",
+            "ariaLabel": {
+                "expanded": "cuir às don roinn le bhith a\u2019 cleachdadh an roinn neach-togail leabhraichean",
+                "collapsed": "fosgail an earrann a\u2019 cleachdadh an neach-togail leabhraichean"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "Feumaidh co-dhiù 1 duilleag a bhith ann an leabhar, ach chan eil crìoch àrd ann.",
+                    "2": "Nuair a bhios tu a\u2019 glacadh no a\u2019 luchdachadh suas ìomhaigh a thèid a chleachdadh airson duilleag, thèid AI a chleachdadh gus an teacsa a thoirt a-mach às an ìomhaigh. "
+                },
+                "title": "Duilleagan Leabhraichean"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "Anns an \"Book Builder\", bidh e comasach dhut grunn fheartan co-cheangailte ris an leabhar a shònrachadh.",
+                    "2": "Faodar tiotal an leabhair, grunn ìomhaighean, fiosrachadh mu thùsan, dàil, leughadairean agus duilleagan uile a shònrachadh an seo."
+                },
+                "title": "Neach-togail leabhar"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Nuair a bhios a h-uile raon de leabhar air a lìonadh a-mach, feumaidh an leabhar a bhith air a shàbhaladh don inneal.",
+                    "2": "Nuair a thèid a shàbhaladh, thèid dàta an leabhair a sgrùdadh gus dèanamh cinnteach gu bheil e uile dligheach; "
+                },
+                "title": "A ' sàbhaladh leabhar"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Faodar dealbhan a ghlacadh le bhith a\u2019 cleachdadh camara an uidheim agad, no faodar an luchdachadh bhon ghailearaidh agad.",
+                    "2": "Nuair a tha ìomhaigh air a thaghadh, faodar a dheasachadh gus dèanamh cinnteach gu bheil e a\u2019 coimhead cho math \u2018s as urrainn dha.",
+                    "3": "Ma bhriogas tu air ìomhaigh a th\u2019 ann mar-thà bheir sin suas na putanan ìomhaigh."
+                },
+                "title": "Dealbhan leabhar"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Faodar dàil a mhìneachadh a bheir buaidh air ath-chluich an leabhair.",
+                    "2": "Faodaidh an dàil seo dèanamh cinnteach nach bi ath-chluich claisneachd ro obann."
+                },
+                "title": "Moill leabhar"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Nuair a tha leabhar ga chluich gu fèin-obrachail, faodar fuaim sònraichte a chluich nuair a bhios duilleag deiseil agus tha an ath dhuilleag deiseil airson tòiseachadh.",
+                    "2": "Faodar seata de fhuaimean ro-mhìnichte a thaghadh no faodar fuaim àbhaisteach a luchdachadh suas no a chlàradh."
+                },
+                "title": "Atharrachadh duilleag claisneachd"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "Faodaidh àireamh de luchd-leughaidh a bhith ann an leabhar.",
+                    "2": "Clàraidh gach leughadair iad fhèin a\u2019 leughadh gach duilleag den leabhar agus mar sin bidh iad rim faighinn gus an leabhar a leughadh nuair a thèid an leabhar a chluich."
+                },
+                "title": "Luchd-leughaidh leabhraichean"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "Faodar fiosrachadh stòr a thoirt seachad mun leabhar.",
+                    "2": "Ged a tha am fiosrachadh tùsail seo roghainneil, cuidichidh e le bhith cumail sùil air na sgeulachdan as fheàrr leat."
+                },
+                "title": "Stòr Fiosrachaidh Leabhraichean"
+            }
+        }
+    }
+}

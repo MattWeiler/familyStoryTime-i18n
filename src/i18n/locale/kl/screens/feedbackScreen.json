@@ -1,0 +1,17 @@
+{
+    "generalFeedback": {
+        "tab": {
+            "title": "App-imik isumasiuineq",
+            "ariaLabel": "qinnuteqaaterput pillugu isummersinnaavutit"
+        },
+        "description": "Qanoq oqaaseqarnissat tusarniarlugu nuannaarutigissavarput."
+    },
+    "title": "Utimut tunngavilersuut qimakkit",
+    "bugFeedback": {
+        "tab": {
+            "title": "Nalunaarusiaq Bug",
+            "ariaLabel": "qinnuteqaatitsinni nassaarisimasavit kukkuneq nalunaarutigiuk"
+        },
+        "description": "Utoqqatsissutigaarput kukkuneq nassaarisimagit, kisianni sapinngisarput tamaat aaqqissavarput :)"
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "e-posta gönderme desteklenmiyor",
+        "submissionFailed": "geri bildirim gönderilemedi",
+        "submissionSuccess": "geri bildirim gönderildi"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Lütfen bir memnuniyet düzeyi seçin.",
+        "description": "Uygulamamızı paylaşma olasılığınız nedir?",
+        "label": "Başkalarıyla Paylaşma",
+        "levels": {
+            "1": {
+                "displayName": "Mümkün değil",
+                "ariaLabel": "Mümkün değil"
+            },
+            "2": {
+                "displayName": "Muhtemel değil",
+                "ariaLabel": "muhtemel değil"
+            },
+            "3": {
+                "displayName": "Belki",
+                "ariaLabel": "Belki"
+            },
+            "4": {
+                "displayName": "Evet",
+                "ariaLabel": "Evet"
+            },
+            "5": {
+                "displayName": "Zaten Var",
+                "ariaLabel": "zaten var"
+            }
+        },
+        "ariaLabel": "bu mobil uygulamayı başkalarıyla paylaşma olasılığınızı seçin"
+    },
+    "submitButton": {
+        "text": "Geri Bildirim Gönder",
+        "ariaLabel": "geri bildiriminizi gönderin"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Lütfen bir memnuniyet düzeyi seçin.",
+        "description": "Uygulamamızı ne kadar beğendiniz/beğenmediniz?",
+        "label": "Uygulama Memnuniyeti",
+        "levels": {
+            "1": {
+                "displayName": "Nefret ediyorum",
+                "ariaLabel": "nefret ediyorum"
+            },
+            "2": {
+                "displayName": "Hayal kırıklığı",
+                "ariaLabel": "hayal kırıklığına uğramış"
+            },
+            "3": {
+                "displayName": "Doğal",
+                "ariaLabel": "doğal"
+            },
+            "4": {
+                "displayName": "Harika",
+                "ariaLabel": "Harika"
+            },
+            "5": {
+                "displayName": "Onu seviyorum",
+                "ariaLabel": "onu seviyorum"
+            }
+        },
+        "ariaLabel": "Bu mobil uygulamadan memnuniyet düzeyinizi seçin"
+    },
+    "commentInput": {
+        "description": "İsteğe bağlı olarak, sahip olduğunuz ek yorumları sağlayın.",
+        "label": "Yorum",
+        "ariaLabel": "isteğe bağlı olarak ek yorumlar"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Lütfen bir memnuniyet düzeyi seçin.",
+        "description": "Kitap oynamayı nasıl buldun?",
+        "label": "Kitap Oynamak",
+        "levels": {
+            "1": {
+                "displayName": "işe yaramadı",
+                "ariaLabel": "işe yaramadı"
+            },
+            "2": {
+                "displayName": "Harika değil",
+                "ariaLabel": "harika değil"
+            },
+            "3": {
+                "displayName": "Önemli değil",
+                "ariaLabel": "Önemli değil"
+            },
+            "4": {
+                "displayName": "Kolay",
+                "ariaLabel": "bu kolay"
+            },
+            "5": {
+                "displayName": "Onu seviyorum",
+                "ariaLabel": "onu seviyorum"
+            }
+        },
+        "ariaLabel": "kitabın oynatılmasıyla ilgili memnuniyetinizi seçin"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Lütfen bir memnuniyet düzeyi seçin.",
+        "description": "Birden fazla okuyucuya sahip olmak hoşunuza gitti mi?",
+        "label": "Çoklu Okuyucular",
+        "levels": {
+            "1": {
+                "displayName": "işe yaramadı",
+                "ariaLabel": "işe yaramadı"
+            },
+            "2": {
+                "displayName": "Harika değil",
+                "ariaLabel": "harika değil"
+            },
+            "3": {
+                "displayName": "Önemli değil",
+                "ariaLabel": "Önemli değil"
+            },
+            "4": {
+                "displayName": "Kolay",
+                "ariaLabel": "bu kolay"
+            },
+            "5": {
+                "displayName": "Onu seviyorum",
+                "ariaLabel": "onu seviyorum"
+            }
+        },
+        "ariaLabel": "kitap başına birden fazla okuyucuya sahip olmaktan ne kadar memnun olduğunuzu seçin"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Lütfen bir memnuniyet düzeyi seçin.",
+        "description": "Kitap üretmeyi nasıl buldunuz?",
+        "label": "Kitap Oluşturma",
+        "levels": {
+            "1": {
+                "displayName": "işe yaramadı",
+                "ariaLabel": "işe yaramadı"
+            },
+            "2": {
+                "displayName": "Harika değil",
+                "ariaLabel": "harika değil"
+            },
+            "3": {
+                "displayName": "Önemli değil",
+                "ariaLabel": "Önemli değil"
+            },
+            "4": {
+                "displayName": "Kolay",
+                "ariaLabel": "bu kolay"
+            },
+            "5": {
+                "displayName": "Onu seviyorum",
+                "ariaLabel": "onu seviyorum"
+            }
+        },
+        "ariaLabel": "kitap oluşturma sürecindeki memnuniyetinizi seçin"
+    }
+}

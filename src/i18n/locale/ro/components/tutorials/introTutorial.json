@@ -1,0 +1,9 @@
+{
+    "mission": "Dorim să contribuim la păstrarea poveștilor tale preferate, citite de cei dragi.",
+    "subtitle": "O aplicație distractivă pentru a ajuta copiii să citească.",
+    "paragraphs": {"1": "Copiii pot asculta poveștile lor preferate citite de cei dragi, chiar dacă aceștia sunt departe sau au murit."},
+    "accessTutorial": {
+        "messages": {"1": "Puteți accesa acest tutorial oricând prin meniul hamburger din partea stângă sus a aplicației."},
+        "title": "Accesați tutorialul"
+    }
+}

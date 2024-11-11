@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Izberite",
+                "ariaLabel": "izberite knjigo %{bookTitle}"
+            },
+            "edit": {
+                "title": "Uredi",
+                "ariaLabel": "uredi knjigo %{bookTitle}"
+            },
+            "delete": {
+                "title": "Izbriši",
+                "ariaLabel": "izbriši knjigo %{bookTitle}"
+            },
+            "export": {
+                "title": "Izvozi",
+                "ariaLabel": "izvozi knjigo %{bookTitle}"
+            }
+        },
+        "ariaLabel": "odpri kontekstni meni za knjigo %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} strani",
+            "one": "%{count} stran"
+        },
+        "ariaLabel": {
+            "other": "%{count} strani",
+            "one": "%{count} stran"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "izberite knjigo %{bookTitle}",
+        "selected": "prekliči izbiro knjige %{bookTitle}"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} bralcev",
+            "one": "%{count} bralec"
+        },
+        "ariaLabel": {
+            "other": "knjiga %{bookTitle} ima %{count} bralcev",
+            "one": "knjiga %{bookTitle} ima %{count} bralca"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "preberi zgodbo: %{bookTitle}",
+        "selectionMode": "%{bookTitle} knjiga"
+    }
+}

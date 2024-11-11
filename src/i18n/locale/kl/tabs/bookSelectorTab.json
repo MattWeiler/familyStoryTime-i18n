@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "atuakkanik ikkussineq iluatsinngilaq"},
+        "import": {"failure": "import iluatsinngilaq"},
+        "delete": {
+            "failure": "piiaaneq iluatsinngilaq",
+            "success": "atuakkiaq \"%{bookTitle}\" piiarneqartoq."
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "atuakkat %{count} piiarsinnaanngilai",
+                "one": "atuakkamik 1-imik piiaasinnaasimanngilaq"
+            },
+            "success": {
+                "other": "atuakkat %{count} piiarneqarput",
+                "one": "atuakkiaq 1 piiarneqarpoq"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "quppernerit amerlassusaat malillugu sorterlugu",
+                "descending": "quppernerit amerlassusaat malillugu qaffasissumik ordre-mik sorterlugu"
+            }},
+            "searchField": {
+                "placeholder": "atuakkani ujarlugit",
+                "ariaLabel": "atuakkani ujarlugit"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Avammut tunisineq",
+                        "ariaLabel": "atuakkat toqqarneqarsimasut tunisassiarisinnaavatit"
+                    },
+                    "delete": {
+                        "label": "Nunguterpaa",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "aap, atuakkat toqqarneqarsimasut piiarnagit"},
+                                "yes": {"ariaLabel": "aap, atuakkat toqqarneqarsimasut piiakkit"}
+                            },
+                            "title": "Pilersitsineq uppernarsaruk",
+                            "message": {
+                                "other": "Qularnanngilaq atuakkat %{count} toqqakkat piiarniarlugit?",
+                                "one": "Qularnanngilaq atuakkiaq toqqarneqarsimasoq piiarniarlugu?"
+                            }
+                        },
+                        "ariaLabel": "atuakkat toqqarneqarsimasut piiarsinnaavatit"
+                    }
+                },
+                "ariaLabel": "atuakkat toqqarneqarsimasut pillugit kontekstmeny ammaruk"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "atuakkap qulequtaa malillugu sorterlugu allanngorartumik",
+                "descending": "atuakkap qulequtaa malillugu sorterlugu qaffasissumik ordreqarluni"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "atuartut amerlassusaat malillugu sorterlugu allanngorartumik",
+                "descending": "atuartut amerlassusaat malillugu sortererlugu qaffasissumik ordre-mik"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "zoom out-imik ataasiaannarluni amerlanerusunik takusinnaajumallutit",
+                "zoomedOut": "zoom-erlugu assit annertunerusut takusinnaavatit"
+            }}
+        },
+        "loadError": {
+            "text": "Atuakkanik ikkussinissaq iluatsinngilaq.",
+            "ariaLabel": "atuakkanik ikkussisinnaasimanngilaq"
+        },
+        "noBooksFound": {
+            "message": "Atuakkanik nassaartoqanngilaq :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Misilittaruk uagut",
+                    "linkName": "atuakkanik sanasartoq"
+                },
+                "availableBooks": {
+                    "message": "Takuuk uagut",
+                    "linkName": "atuakkanik pisiniarfik"
+                }
+            }
+        }
+    },
+    "subtitle": "Oqaluttuat ilaat atuarlugit nuannaarutigissavagut.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "atuakkamik pilersitsineq",
+                "ariaLabel": "atuakkamik nutaamik pilersitsineq"
+            },
+            "importBooks": {
+                "label": "atuakkanik tunisassiorneq",
+                "ariaLabel": "atuakkanik ataatsimik arlalinnilluunniit tunisassiorneq"
+            },
+            "bookStore": {
+                "label": "atuakkanik pisiniarfik pulaaruk",
+                "ariaLabel": "atuakkanik pisiniarfitsinnut pulaarit"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "close atuakkanik menu-mik ilanngussaq",
+            "collapsed": "open atuakkanik menu-mik ilanngussaq"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "piiarneq ...\n",
+            "one": "piiarneq ...\n",
+            "none": "piiarneq ..."
+        }},
+        "export": {"label": {
+            "other": "tunisassiorneq ...\n",
+            "one": "tunisassiorneq ...\n",
+            "none": "tunisassiorneq ..."
+        }}
+    }},
+    "title": "Atuartarfik",
+    "confirmations": {"deleteBook": {
+        "title": "Deletion Uppernarsaaneq",
+        "message": "Qularnanngilaq atuagaq \"%{bookTitle}?\""
+    }}
+}

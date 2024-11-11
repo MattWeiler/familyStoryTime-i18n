@@ -1,0 +1,43 @@
+{"hamburgerMenu": {
+    "applicationTitle": "Vrijeme porodične priče",
+    "links": {
+        "feedback": {
+            "text": "Povratne informacije",
+            "ariaLabel": "idite na ekran povratnih informacija"
+        },
+        "settings": {
+            "text": "Postavke",
+            "ariaLabel": "idite na ekran postavki"
+        },
+        "bookSelector": {
+            "text": "Reading Corner",
+            "ariaLabel": "idite na ekran ugla za čitanje"
+        },
+        "bookBuilder": {
+            "text": "Book Builder",
+            "ariaLabel": "idite na ekran za pravljenje knjiga"
+        },
+        "about": {
+            "text": "O nama",
+            "ariaLabel": "idite na ekran o nama"
+        },
+        "developerStatus": {
+            "hidden": {
+                "text": "Prikaži status programera",
+                "ariaLabel": "pokazati status programera"
+            },
+            "showing": {
+                "text": "Sakrij status programera",
+                "ariaLabel": "sakriti status programera"
+            }
+        },
+        "tutorial": {
+            "text": "Tutorial",
+            "ariaLabel": "pogledajte tutorijal"
+        },
+        "bookStore": {
+            "text": "Knjižara",
+            "ariaLabel": "idite na ekran knjižare"
+        }
+    }
+}}

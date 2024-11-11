@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "Tamanna atuakkat tamarmik atortumi matumani installereqarsimasut piiarneqassapput.\n\n",
+        "button": {
+            "label": "Nunguterpaa",
+            "title": "atuakkat tamarmik piiakkit",
+            "ariaLabel": "atuakkat tamarmik piiakkit"
+        },
+        "displayName": "Atuakkat tamarmik piiakkit",
+        "processingMessage": "piiarneq ...",
+        "shortDescription": {
+            "disabled": "Atuakkatit tamarmik piiakkit, kisianni ullumikkut atuakkanik installereqarsimanngilatit.",
+            "enabled": "Atuakkatit tamarmik piiakkit."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} Illuutaat",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "Qalipaatit",
+                "someFontsBy": "Fontit atorlugit:"
+            },
+            "label": "Immikkut Qujanaq",
+            "icons": {
+                "ionicIcons": "IonIkonit",
+                "someIconsBy": "Ikonit atorlugit:",
+                "icons8": "Ikonit8",
+                "iconArchive": "Ikon Arkiv"
+            }
+        },
+        "version": "Saqqummersitsineq: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Assiliartaq taanna atorneqassaaq atuakkanik assilisassiat nutaat tiguneqarpata imaluunniit atuakkamik assilisassiaq pioreersoq allanngortinneqarpat.",
+        "displayName": "Assiliarnik aaqqissuussisoq",
+        "testLabel": "Test Assiliartaq",
+        "testImage": {"accessibleImageDisplayName": "misilitsinneq assilisassiortoq assilisassiaq"},
+        "options": {
+            "advanced": {
+                "label": "Siuariaatit",
+                "ariaLabel": "assilisassiortoq siuarsarneqarsimasoq atorlugu"
+            },
+            "simple": {
+                "label": "Ajornanngitsoq",
+                "ariaLabel": "assinik aaqqissuussisoq ajornanngitsoq atorlugu"
+            }
+        },
+        "shortDescription": "Assiliartaq sorleq atorneqarnissaa toqqarlugu.",
+        "ariaLabel": "assiliisartoq sorleq atorneqarnissaa toqqaruk"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Nipi taanna \"AI Reader\"-imik atuartoq atuakkanik atuarpat atorneqassaaq.",
+        "displayName": "Nipit piumaneqarnerpaat",
+        "selectorButton": {
+            "defaultLabel": "nalinginnaasoq",
+            "ariaLabel": "\"AI Reader\"-imik nipimik toqqaasinnaavutit"
+        },
+        "shortDescription": "\"AI Reader\"-imit atorneqartussaq nipi toqqaruk.",
+        "picker": {
+            "default": "nalinginnaasoq",
+            "networkActionIcon": {"ariaLabel": "lokal aamma netværk-imik tunngaveqartumik nipinik takutitsineq"},
+            "label": "AI Atuartoq Nipit",
+            "ariaLabel": "\"AI Reader\"-imik nipimik toqqaasinnaavutit",
+            "globalActionIcon": {"ariaLabel": "oqaatsit tamarmik takutikkit"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Nipit & Video",
+        "ariaLabel": {
+            "expanded": "immikkoortoq lydvideomik toqqaaniarnermi kollapsi",
+            "collapsed": "immikkoortoq lydvideomik toqqaanissaq annertusarlugu"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Assiliinerup pitsaassusaa taanna atorneqassaaq atortup kameraanik/-inik assiliinermi.",
+        "slider": {
+            "highLabel": "Portuvoq",
+            "ariaLabel": "assilisassiat assilisassiat pitsaassusaat",
+            "lowLabel": "Atsittoq"
+        },
+        "displayName": "Kamerap pitsaassusaa %{value}%",
+        "testLabel": "Misilittakkat Kamera",
+        "testImage": {"accessibleImageDisplayName": "misileraalluni kamera pitsaassusaanik assi"},
+        "shortDescription": "Assit kamera atorlugu tiguneqartut assilisassiat pitsaassusaat toqqaruk."
+    },
+    "title": "Inniminniinerit",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Deletion Uppernarsaaneq",
+        "message": "Qularnanngilaq atuakkat installereersimasut tamarmik piiarniarlugit?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "Tamanna iluaqutaasinnaavoq atortumut nutaamut nuunnermi imaluunniit atuakkanik atortunut arlalinnut ilanngutsitsinermi.",
+        "button": {
+            "label": "Avammut tunisineq",
+            "title": "atuakkanik tamanik tunisassiorneq",
+            "ariaLabel": "atuakkanik tamanik tunisassiorneq"
+        },
+        "displayName": "Atuakkat Tamaasa Export",
+        "shortDescription": {
+            "disabled": "Atuakkatit tamarmik ataatsimut file-mut export-erlugit save/share-erlugit, kisianni ullumikkut atuakkanik installereqarsimanngilatit.",
+            "enabled": "Atuakkatit tamarmik ataatsimut file-mut export-erlugit save/share-erlugit."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "piiaaneq iluatsinngilaq",
+        "success": {
+            "other": "atuakkat %{count} piiarneqarput",
+            "one": "atuakkiaq 1 piiarneqarpoq"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "AI Atuartoq",
+        "testLabel": "Test Nipit",
+        "testAriaLabel": {
+            "stopped": "misiliineq \"AI Atuartoq\" nipimik",
+            "playing": "\"AI Reader\"-imik nipimik misissuineq unitsiguk"
+        },
+        "testPhrase": "Hallo, oqaluttuat nuannarinerpaasatit atuarsinnaavakka.",
+        "description": "Atorneqarsinnaappat \"AI Reader\" atuakkanik tusarnaartitsinermi atuarsinnaasutut atorneqarsinnaalissaaq.",
+        "ariaLabel": {
+            "expanded": "\"AI Reader\"-imik toqqagassaq immikkoortoq kollapsi",
+            "collapsed": "immikkoortoq \"AI Reader\" toqqagassaq annertusarlugu",
+            "disabled": "\"AI Atuartoq\" atorneqanngilaq",
+            "enabled": "\"AI Atuartoq\" atorneqarpoq"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "Tamanna \"AI Reader\"-imik atuartup atuakkanik atuarnerani nipimik atorneqartup qaffasissusaanik takutitsivoq.",
+        "slider": {
+            "highLabel": "Portuvoq",
+            "ariaLabel": "\"AI Reader\"-ip nipilersornera.",
+            "lowLabel": "Atsittoq"
+        },
+        "displayName": "Nipit qaffasissusaat %{value}%",
+        "shortDescription": "Nipit \"AI Reader\"-imit atorneqartussat toqqaruk."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Nipit pitsaassusaat taanna atorneqassaaq atortup mikrofonianik immiussisoqarpat.",
+        "displayName": "Mikrofon Pitsaassuseq",
+        "testLabel": "Misilittagaq Mikrofon",
+        "options": {
+            "high": {
+                "label": "Portuvoq",
+                "ariaLabel": "høj lydkvalitet atorlugu"
+            },
+            "low": {
+                "label": "Atsittoq",
+                "ariaLabel": "atorlugu nipimik pitsaassutsip qaffasissusaa"
+            }
+        },
+        "shortDescription": "Mikrofonimik immiussat nipimik pitsaassusaat toqqaruk.",
+        "ariaLabel": "mikrofonimik immiussat nipimik pitsaassusaat toqqaruk",
+        "testAudioSelector": {"accessibleAudioDisplayName": "mikrofonimik misissuineq"}
+    },
+    "subtitle": "Qinnuteqaatit inissititersimasatit uani nutarterlugit.",
+    "themeSelection": {
+        "longDescription": "Uani tema toqqarneqarpat, taanna atortup temaata inissititerneqarnera qanoq ittuunersoq qaangersinnaavaa.",
+        "displayName": "Temamik toqqaaneq",
+        "options": {
+            "default": {
+                "label": "Ingerlatseriaaseq",
+                "ariaLabel": "systemimi aalajangersarneqarsimasoq atorlugu"
+            },
+            "light": {
+                "label": "Qaamasoq",
+                "ariaLabel": "light tema atorlugu"
+            },
+            "dark": {
+                "label": "Taartoq",
+                "ariaLabel": "atorlugu tema qaammaarisoq"
+            }
+        },
+        "shortDescription": "Applikationimi atorneqartussaq qulequtaq toqqaruk.",
+        "ariaLabel": "toqqakkit qulequtaq qinnuteqaammi atorneqartussaq"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "Tamanna \"AI Reader\"-imik atuartup atuakkanik atuarnerani nipimik atorneqartup sukkassusissaanik takutitsivoq.",
+        "slider": {
+            "highLabel": "Aaliagersimasoq",
+            "ariaLabel": "\"AI Reader\"-ip oqalunnerata sukkassusissaa.",
+            "lowLabel": "Arriippoq"
+        },
+        "displayName": "Oqalunnerup annertussusaa %{value}%",
+        "shortDescription": "\"AI Reader\"-imit atorneqartussaq nipit qanoq sukkatiginersut toqqaruk."
+    },
+    "parentalLocking": {
+        "longDescription": "Atorneqarsinnaappat, atortumik piginnittut biometriskimik paasissutissaat pisariaqartinneqarput, applikationimi atortut siuarsakkat ammarniarlugit.",
+        "displayName": "Angajoqqaanut Lakking",
+        "shortDescription": "Angajoqqaatut lakseqarneq iluaqutaasinnaavoq meeqqat applikationimik atuineranni.",
+        "ariaLabel": {
+            "disabled": "angajoqqaat låse-at atorneqanngilaq",
+            "enabled": "angajoqqaat låse-at atuutilersinneqarpoq"
+        }
+    }
+}

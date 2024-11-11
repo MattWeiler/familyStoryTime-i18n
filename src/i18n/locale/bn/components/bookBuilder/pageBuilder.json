@@ -1,0 +1,77 @@
+{
+    "image": {"accessibleImageDisplayName": "পৃষ্ঠা %{pageNum} ছবি"},
+    "texts": {
+        "scanButton": {
+            "confirmation": {
+                "title": "পৃষ্ঠার পাঠ্য পুনরায় স্ক্যান করুন",
+                "message": "আপনি কি নিশ্চিত যে আপনি পাঠ্যের জন্য চিত্রটি স্ক্যান করতে চান এবং আপনার বিদ্যমান পৃষ্ঠার পাঠ্যটি প্রতিস্থাপন করতে চান?"
+            },
+            "ariaLabel": "পৃষ্ঠা %{pageNum} এর জন্য চিত্র থেকে পাঠ্য বের করুন"
+        },
+        "changePageTextButton": {
+            "confirmation": {
+                "inputAriaLabel": {
+                    "noPageText": "পৃষ্ঠায় যোগ করার জন্য পাঠ্য %{pageNum}",
+                    "withPageText": "পৃষ্ঠা %{pageNum} এ আপডেট করার জন্য পাঠ্য"
+                },
+                "title": {
+                    "noPageText": "পৃষ্ঠা পাঠ্য সেট করুন",
+                    "withPageText": "পৃষ্ঠার পাঠ্য আপডেট করুন"
+                },
+                "message": {
+                    "noPageText": "পেজ টেক্সট কি?",
+                    "withPageText": "আপনি কি পৃষ্ঠার পাঠ্য পরিবর্তন করতে চান?"
+                },
+                "inputPlaceholder": "যোগ করার জন্য পাঠ্য"
+            },
+            "ariaLabel": "পৃষ্ঠা %{pageNum} থেকে \"%{pageText}\" পাঠ্য সম্পাদনা করুন"
+        },
+        "moveUpButton": {"ariaLabel": "পৃষ্ঠা %{pageNum} থেকে \"%{pageText}\" পাঠ্যটি উপরে সরান"},
+        "removeButton": {
+            "confirmation": {
+                "title": "মুছে ফেলার নিশ্চিতকরণ",
+                "message": "আপনি কি এই পৃষ্ঠার পাঠ্য মুছে ফেলার বিষয়ে নিশ্চিত?"
+            },
+            "ariaLabel": "পৃষ্ঠা %{pageNum} থেকে \"%{pageText}\" পাঠ্যটি সরান"
+        },
+        "addButton": {
+            "confirmation": {
+                "inputAriaLabel": "পৃষ্ঠায় যোগ করার জন্য পাঠ্য %{pageNum}",
+                "title": "পৃষ্ঠা পাঠ্য সেট করুন",
+                "message": "পেজ টেক্সট কি?",
+                "inputPlaceholder": "যোগ করার জন্য পাঠ্য"
+            },
+            "ariaLabel": "পৃষ্ঠায় নতুন পাঠ যোগ করুন %{pageNum}"
+        },
+        "label": "পাঠ্য",
+        "showHideButton": {"ariaLabel": {
+            "visible": "পৃষ্ঠা %{pageNum} থেকে \"%{pageText}\" পাঠ্যটি লুকান",
+            "hidden": "পৃষ্ঠা %{pageNum} থেকে \"%{pageText}\" পাঠ্য দেখান"
+        }},
+        "moveDownButton": {"ariaLabel": "পৃষ্ঠা %{pageNum} থেকে \"%{pageText}\" পাঠ্যটি নীচে সরান"}
+    },
+    "moveUpButton": {"ariaLabel": "পৃষ্ঠা %{pageNum} উপরে সরান"},
+    "readers": {
+        "reader": {
+            "description": {
+                "withDisplayName": "\"%{readerDisplayName}\" যখন পৃষ্ঠা %{pageNum} পড়ছে তখন চালানোর জন্য অডিও৷",
+                "noDisplayName": "এই পাঠক যখন পৃষ্ঠা %{pageNum} পড়ছেন তখন অডিও চালানো হবে৷"
+            },
+            "label": "%{readerDisplayName}",
+            "accessibleAudioDisplayName": "পৃষ্ঠা %{pageNum} %{readerDisplayName} পাঠক"
+        },
+        "label": "পাঠক"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "এটি এই পৃষ্ঠার জন্য রেকর্ড করা সমস্ত পৃষ্ঠা অডিও মুছে ফেলবে৷",
+            "additionalMessage2": "এটি পূর্বাবস্থায় ফেরানো যাবে না!",
+            "title": "মুছে ফেলার নিশ্চিতকরণ",
+            "message": "আপনি কি পৃষ্ঠা %{pageNum} মুছে ফেলার বিষয়ে নিশ্চিত?"
+        },
+        "ariaLabel": "পৃষ্ঠা %{pageNum} সরান"
+    },
+    "description": "পৃষ্ঠা %{pageNum} এ প্রদর্শিত চিত্র।",
+    "label": "পৃষ্ঠা %{pageNum}",
+    "moveDownButton": {"ariaLabel": "পৃষ্ঠা %{pageNum} নিচে সরান"}
+}

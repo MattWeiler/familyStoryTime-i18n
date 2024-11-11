@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "تصفح للحصول على ملف الصورة",
+        "ariaLabel": "تصفح بحثًا عن ملف صورة لصورة %{imageDisplayName}."
+    },
+    "takePhotoButton": {
+        "title": "التقاط صورة",
+        "ariaLabel": "التقط صورة لصورة %{imageDisplayName}."
+    },
+    "browseImageGalleryButton": {
+        "title": "تصفح معرض الصور",
+        "ariaLabel": "تصفح معرض الصور لصورة %{imageDisplayName}."
+    },
+    "fullscreenButton": {"ariaLabel": "عرض الصورة %{imageDisplayName} في وضع ملء الشاشة"},
+    "imageEditor": {
+        "cropButton": {"text": "اقتصاص"},
+        "cancelButton": {"text": "يلغي"},
+        "backButton": {"text": "خلف"},
+        "saveButton": {"text": "يحفظ"}
+    },
+    "editSelectedImageButton": {
+        "title": "تحرير الصورة",
+        "ariaLabel": "قم بتحرير الصورة %{imageDisplayName}."
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "إظهار عناصر التحكم في الصورة %{imageDisplayName}.",
+        "controlsVisible": "إخفاء عناصر التحكم في الصورة %{imageDisplayName}."
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "تم رفض الإذن",
+            "message": "لقد رفضت الإذن بالوصول إلى الكاميرا الخاصة بك."
+        },
+        "browseImages": {
+            "title": "تم رفض الإذن",
+            "message": "لقد رفضت الإذن بالوصول إلى صورك."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "إغلاق ملء الشاشة"}
+}

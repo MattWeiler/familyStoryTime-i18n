@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Име",
+        "placeholder": "Јохн Дое",
+        "ariaLabel": "опционо, ваше име"
+    },
+    "emailInput": {
+        "description": "Наведите ако желите да се јавимо.",
+        "label": "Адреса е-поште",
+        "placeholder": "неко@гмаил.цом",
+        "ariaLabel": "опционо, ваша адреса е-поште"
+    }
+}

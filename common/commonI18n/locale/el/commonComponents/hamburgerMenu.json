@@ -1,0 +1,8 @@
+{
+    "applicationSecurityButton": {"ariaLabel": {
+        "unlockParentMode": "ξεκλείδωμα εφαρμογής για γονική χρήση",
+        "initParentMode": "ενεργοποιήστε το γονικό κλείδωμα",
+        "lockParentMode": "ενεργοποιήστε το γονικό κλείδωμα"
+    }},
+    "hamburgerButton": {"ariaLabel": "εμφάνιση μενού χάμπουργκερ"}
+}

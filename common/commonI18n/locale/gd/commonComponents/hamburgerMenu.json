@@ -1,0 +1,8 @@
+{
+    "applicationSecurityButton": {"ariaLabel": {
+        "unlockParentMode": "fhuasgladh tagradh airson cleachdadh phàrantan",
+        "initParentMode": "glasadh phàrantan a chomasachadh",
+        "lockParentMode": "cuir an comas glasadh phàrantan"
+    }},
+    "hamburgerButton": {"ariaLabel": "Seall clàr-taice hamburger"}
+}

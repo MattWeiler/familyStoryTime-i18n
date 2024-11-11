@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Виберіть",
+                "ariaLabel": "виберіть книгу %{bookTitle}"
+            },
+            "edit": {
+                "title": "Редагувати",
+                "ariaLabel": "редагувати книгу %{bookTitle}"
+            },
+            "delete": {
+                "title": "Видалити",
+                "ariaLabel": "видалити книгу %{bookTitle}"
+            },
+            "export": {
+                "title": "Експорт",
+                "ariaLabel": "експортувати книгу %{bookTitle}"
+            }
+        },
+        "ariaLabel": "відкрити контекстне меню для книги %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} сторінок",
+            "one": "Сторінка %{count}"
+        },
+        "ariaLabel": {
+            "other": "%{count} сторінок",
+            "one": "Сторінка %{count}"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "виберіть книгу %{bookTitle}",
+        "selected": "скасувати вибір книги %{bookTitle}"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} читачів",
+            "one": "%{count} читач"
+        },
+        "ariaLabel": {
+            "other": "книга %{bookTitle} має %{count} читачів",
+            "one": "книга %{bookTitle} має %{count} читача"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "прочитати історію: %{bookTitle}",
+        "selectionMode": "%{bookTitle} книга"
+    }
+}

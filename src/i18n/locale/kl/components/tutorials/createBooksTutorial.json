@@ -1,0 +1,96 @@
+{
+    "summary": "Ilaqutariinnut atuakkat nuannarinerpaasatit digitalinngortissinnaavatit aammalu atuartut amerlanerpaat namminneq immiussinissamut piumassuseqartut ilanngunneqarsinnaallutik.",
+    "openingBookBuilder": {
+        "collapsible": {
+            "title": "\"Atuakkanik sanasoq\" ammarlugu.",
+            "ariaLabel": {
+                "expanded": "kollaps ammarneq atuakkanik sanasartoq immikkoortoq",
+                "collapsed": "ammarlugu atuakkanik sanasartoq immikkoortoq"
+            }
+        },
+        "content": {
+            "hamburgerMenu": {
+                "messages": {
+                    "1": "Quppernermi sumiluunniit \"Book Builder\"-imut isesinnaavutit hamburger-menu aqqutigalugu skærmip qulaani-venstre-miittoq.",
+                    "2": "Tassanngaanniit \"Book Builder\"-imik toqqagassaq tooruk."
+                },
+                "title": "Hamburger-imik nerisassiorneq"
+            },
+            "actionButton": {
+                "messages": {
+                    "1": "Quppernermi \"Atuarnissamut hjørne\"-miit \"Atuakkiorfimmut\" isesinnaavutit, skærmip ataani-talerperliup tungaani (+) toorlugu.",
+                    "2": "Tassanngaanniit \"atuakkamik pilersitsineq\" toqqakkit."
+                },
+                "title": "Suliassaq Knappi"
+            }
+        }
+    },
+    "usingBookBuilder": {
+        "collapsible": {
+            "title": "\"Atuagassiorfik\" atorlugu.",
+            "ariaLabel": {
+                "expanded": "collapse the atorlugu atuakkanik sanasartoq immikkoortoq",
+                "collapsed": "atuakkanik sanasartoq immikkoortoq atorlugu ammaruk"
+            }
+        },
+        "content": {
+            "bookPage": {
+                "messages": {
+                    "1": "Atuagaq minnerpaamik 1 qupperneqassaaq, kisiannili qulaani killissaqanngilaq.",
+                    "2": "Quppernermut atorneqartussamik assilisassiornermi imaluunniit upload-ertoqartillugu AI atorlugu assilisassiaq allaaserisaq uuttortarneqassaaq. "
+                },
+                "title": "Atuakkat Quppernerit"
+            },
+            "bookBuilder": {
+                "messages": {
+                    "1": "\"Atuakkiornermi\" atuakkamut tunngasut arlallit aalajangersarsinnaavatit.",
+                    "2": "Atuakkap qulequtaa, assit arlallit, paasissutissat pissarsiarineqarsimasut, kinguarsaanerit, atuartut quppernerillu tamarmik uani erseqqissarneqarsinnaapput."
+                },
+                "title": "Atuakkanik Sanaartortoq"
+            },
+            "saveBook": {
+                "messages": {
+                    "1": "Atuakkami allattorsimaffiit tamarmik allanneqarsimappata atuakkaq atortumut ikkussorneqartariaqarpoq.",
+                    "2": "Atuakkap paasissutissaatai \u200b\u200bannaaneqarneranni misissorneqassapput, tamarmik atuuttut qulakkeerniarlugit; "
+                },
+                "title": "Atuakkamik annaasaqarneq"
+            },
+            "modifyingImages": {
+                "messages": {
+                    "1": "Assit atortut kameraat atorlugu tiguneqarsinnaapput, imaluunniit gallerimit ikkussorneqarsinnaallutik.",
+                    "2": "Assilisaq toqqarneqarsimappat, pitsaanerpaamik isikkoqarnissaa qulakkeerlugu allanngortinneqarsinnaavoq.",
+                    "3": "Assilisaq pioreersoq toorlugu assilisassiat toortagaat saqqummersinneqassapput."
+                },
+                "title": "Atuakkat Assit"
+            },
+            "bookDelays": {
+                "messages": {
+                    "1": "Delays-it aalajangersarneqarsinnaapput, atuakkap takutinneqarneranut sunniuteqassanersut.",
+                    "2": "Taakku kingusinaarnerit qulakkeersinnaavaat lyd-imik tusarnaartitsineq annertuumik tusarneqartannginnissaa."
+                },
+                "title": "Atuakkat kinguarsaataat"
+            },
+            "pageChangeAudio": {
+                "messages": {
+                    "1": "Atuakkiaq auto-play-erneqarpat immikkut ittumik nipimik tusarnaartoqarsinnaavoq qupperneq naammassippat aammalu qupperneq tulleq aallartinnissamut piareersimalerpat.",
+                    "2": "Nipit siusinnerusukkut aalajangerneqarsimasut toqqarneqarsinnaapput imaluunniit nipimik naleqqussagaasumik upload-ertoqarsinnaavoq imaluunniit immiussisoqarsinnaalluni."
+                },
+                "title": "Qupperneq allanngortiguk Nipit"
+            },
+            "bookReader": {
+                "messages": {
+                    "1": "Atuagaq atuartunik amerlassusilinnik imaqarsinnaavoq.",
+                    "2": "Atuartut ataasiakkaat atuakkap quppernerit ataasiakkaat atuarlugit namminneq nalunaarsussapput taamaalillutillu atuakkamik tusarnaartitsinerup nalaani atuakkamik atuarsinnaassallutik."
+                },
+                "title": "Atuakkanik Atuartut"
+            },
+            "bookSource": {
+                "messages": {
+                    "1": "Atuagaq pillugu killiffimmi paasissutissiisoqarsinnaavoq.",
+                    "2": "Paasissutissat taakku pissarsiarineqarsinnaagaluartut, oqaluttuat nuannarinerpaasatit malinnaaviginissaannut iluaqutaasinnaapput."
+                },
+                "title": "Atuakkap Killiffia Paasissutissat"
+            }
+        }
+    }
+}

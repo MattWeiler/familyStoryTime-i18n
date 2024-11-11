@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Memberi Kami Masukan"},
+        "intro": {"displayName": "Perkenalan"},
+        "createBooks": {"displayName": "Membuat Buku"},
+        "parentalLocking": {"displayName": "Penguncian Orang Tua"},
+        "sharingBooks": {"displayName": "Berbagi Buku"},
+        "bookPlayback": {"displayName": "Memainkan Buku"},
+        "bookStore": {"displayName": "Toko Buku"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "lihat halaman %{pageName}"},
+        "backPageButton": {"ariaLabel": "kembali 1 halaman"},
+        "forwardPageButton": {"ariaLabel": "maju 1 halaman"}
+    },
+    "startLink": {
+        "label": "Memulai",
+        "ariaLabel": "pergi ke halaman beranda"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Audioja opsionale për t'u luajtur përpara se të lexoni faqen e parë.",
+        "label": {
+            "withDisplayName": "Audioja hyrëse e %{readerDisplayName}",
+            "noDisplayName": "Audio hyrëse"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} prezantim i lexuesit",
+            "noDisplayName": "lexues me ID %{readerId} hyrje"
+        }
+    },
+    "readerImage": {
+        "description": "Imazhi për t'u shfaqur për këtë lexues.",
+        "accessibleImageDisplayName": "imazhi i lexuesit %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Kjo do të heqë të gjithë audion e faqes të regjistruar për këtë lexues.",
+            "additionalMessage2": "KJO NUK MUND TË zhbëhet!",
+            "title": "Konfirmimi i fshirjes",
+            "message": {
+                "withDisplayName": "Jeni i sigurt që dëshironi të fshini lexuesin \"%{readerDisplayName}\"?",
+                "noDisplayName": "Jeni i sigurt që dëshironi ta fshini këtë lexues?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "hiq lexuesin %{readerDisplayName}",
+            "noDisplayName": "hiq lexuesin me ID %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "emri i shfaqur për lexuesin",
+                "noDisplayName": "emri i shfaqur për lexuesin"
+            },
+            "title": {
+                "withDisplayName": "Përditëso emrin e shfaqur",
+                "noDisplayName": "Cakto emrin e shfaqjes"
+            },
+            "message": {
+                "withDisplayName": "Me çfarë dëshironi ta ndryshoni këtë emër të shfaqur të lexuesve?",
+                "noDisplayName": "Cili është emri i shfaqur për këtë lexues?"
+            },
+            "inputPlaceholder": "emri i lexuesit"
+        },
+        "ariaLabel": {
+            "withDisplayName": "ndryshoni emrin e shfaqur për lexuesin %{readerDisplayName}",
+            "noDisplayName": "ndryshoni emrin e shfaqur për lexuesin me ID %{readerId}"
+        }
+    }
+}

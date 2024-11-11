@@ -1,0 +1,43 @@
+{"hamburgerMenu": {
+    "applicationTitle": "Čas na rodinný příběh",
+    "links": {
+        "feedback": {
+            "text": "Zpětná vazba",
+            "ariaLabel": "přejděte na obrazovku zpětné vazby"
+        },
+        "settings": {
+            "text": "Nastavení",
+            "ariaLabel": "přejděte na obrazovku nastavení"
+        },
+        "bookSelector": {
+            "text": "Čtenářský koutek",
+            "ariaLabel": "přejděte na obrazovku čtecího rohu"
+        },
+        "bookBuilder": {
+            "text": "Tvůrce knih",
+            "ariaLabel": "přejděte na obrazovku nástroje pro tvorbu knih"
+        },
+        "about": {
+            "text": "O nás",
+            "ariaLabel": "přejděte na obrazovku O nás"
+        },
+        "developerStatus": {
+            "hidden": {
+                "text": "Zobrazit stav vývojáře",
+                "ariaLabel": "zobrazit stav vývojáře"
+            },
+            "showing": {
+                "text": "Skrýt stav vývojáře",
+                "ariaLabel": "skrýt stav vývojáře"
+            }
+        },
+        "tutorial": {
+            "text": "Konzultace",
+            "ariaLabel": "zobrazit tutoriál"
+        },
+        "bookStore": {
+            "text": "Knihkupectví",
+            "ariaLabel": "přejděte na obrazovku knihkupectví"
+        }
+    }
+}}

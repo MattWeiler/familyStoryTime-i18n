@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "נותן לנו משוב"},
+        "intro": {"displayName": "מָבוֹא"},
+        "createBooks": {"displayName": "יצירת ספרים"},
+        "parentalLocking": {"displayName": "נעילת הורים"},
+        "sharingBooks": {"displayName": "שיתוף ספרים"},
+        "bookPlayback": {"displayName": "משחק ספרים"},
+        "bookStore": {"displayName": "חנות הספרים"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "הצג את הדף %{pageName}"},
+        "backPageButton": {"ariaLabel": "לחזור עמוד 1 אחורה"},
+        "forwardPageButton": {"ariaLabel": "קדימה עמוד אחד"}
+    },
+    "startLink": {
+        "label": "התחל",
+        "ariaLabel": "עבור לדף הבית"
+    }
+}

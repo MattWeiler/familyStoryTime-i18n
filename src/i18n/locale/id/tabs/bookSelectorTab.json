@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "pemuatan buku gagal"},
+        "import": {"failure": "impor gagal"},
+        "delete": {
+            "failure": "penghapusan gagal",
+            "success": "buku yang dihapus \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "gagal menghapus %{count} buku",
+                "one": "gagal menghapus 1 buku"
+            },
+            "success": {
+                "other": "menghapus %{count} buku",
+                "one": "menghapus 1 buku"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "urutkan berdasarkan jumlah halaman dalam urutan menurun",
+                "descending": "urutkan berdasarkan jumlah halaman dalam urutan menaik"
+            }},
+            "searchField": {
+                "placeholder": "mencari bukumu",
+                "ariaLabel": "mencari bukumu"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Ekspor",
+                        "ariaLabel": "ekspor buku yang dipilih"
+                    },
+                    "delete": {
+                        "label": "Menghapus",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "tidak, jangan hapus buku yang dipilih"},
+                                "yes": {"ariaLabel": "ya, hapus buku yang dipilih"}
+                            },
+                            "title": "Konfirmasi Penghapusan",
+                            "message": {
+                                "other": "Apakah Anda yakin ingin menghapus %{count} buku yang dipilih?",
+                                "one": "Apakah Anda yakin ingin menghapus buku yang dipilih?"
+                            }
+                        },
+                        "ariaLabel": "hapus buku yang dipilih"
+                    }
+                },
+                "ariaLabel": "buka menu konteks untuk buku yang dipilih"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "urutkan berdasarkan judul buku dalam urutan menurun",
+                "descending": "urutkan berdasarkan judul buku dalam urutan menaik"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "urutkan berdasarkan jumlah pembaca dalam urutan menurun",
+                "descending": "urutkan berdasarkan jumlah pembaca dalam urutan menaik"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "perkecil untuk melihat lebih banyak item sekaligus",
+                "zoomedOut": "memperbesar untuk melihat gambar yang lebih besar"
+            }}
+        },
+        "loadError": {
+            "text": "Gagal memuat buku.",
+            "ariaLabel": "gagal memuat buku"
+        },
+        "noBooksFound": {
+            "message": "Tidak ada buku yang ditemukan :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Coba kami",
+                    "linkName": "pembuat buku"
+                },
+                "availableBooks": {
+                    "message": "Lihat kami",
+                    "linkName": "toko buku"
+                }
+            }
+        }
+    },
+    "subtitle": "Mari nikmati membaca beberapa cerita.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "membuat buku",
+                "ariaLabel": "membuat buku baru"
+            },
+            "importBooks": {
+                "label": "impor buku",
+                "ariaLabel": "mengimpor satu atau lebih buku"
+            },
+            "bookStore": {
+                "label": "mengunjungi toko buku",
+                "ariaLabel": "kunjungi toko buku kami"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "tutup tambahkan menu buku",
+            "collapsed": "buka menu tambahkan buku"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "menghapus ...\n",
+            "one": "menghapus ...\n",
+            "none": "menghapus ..."
+        }},
+        "export": {"label": {
+            "other": "mengekspor ...\n",
+            "one": "mengekspor ...\n",
+            "none": "mengekspor ..."
+        }}
+    }},
+    "title": "Pojok Baca",
+    "confirmations": {"deleteBook": {
+        "title": "Konfirmasi Penghapusan",
+        "message": "Apakah Anda yakin ingin menghapus buku \"%{bookTitle}?\""
+    }}
+}

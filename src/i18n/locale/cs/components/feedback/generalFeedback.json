@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "zasílání e-mailem není podporováno",
+        "submissionFailed": "odeslání zpětné vazby se nezdařilo",
+        "submissionSuccess": "odeslaná zpětná vazba"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Vyberte prosím úroveň spokojenosti.",
+        "description": "Jaká je pravděpodobnost, že budete naši aplikaci sdílet?",
+        "label": "Sdílení s ostatními",
+        "levels": {
+            "1": {
+                "displayName": "V žádném případě",
+                "ariaLabel": "v žádném případě"
+            },
+            "2": {
+                "displayName": "Není pravděpodobné",
+                "ariaLabel": "není pravděpodobné"
+            },
+            "3": {
+                "displayName": "Možná",
+                "ariaLabel": "možná"
+            },
+            "4": {
+                "displayName": "Ano",
+                "ariaLabel": "Ano"
+            },
+            "5": {
+                "displayName": "Už mám",
+                "ariaLabel": "již mají"
+            }
+        },
+        "ariaLabel": "vyberte, s jakou pravděpodobností budete tuto mobilní aplikaci sdílet s ostatními"
+    },
+    "submitButton": {
+        "text": "Odeslat zpětnou vazbu",
+        "ariaLabel": "odešlete zpětnou vazbu"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Vyberte prosím úroveň spokojenosti.",
+        "description": "Jak moc se vám líbila/nelíbila naše aplikace?",
+        "label": "Spokojenost s aplikací",
+        "levels": {
+            "1": {
+                "displayName": "Nenávidím to",
+                "ariaLabel": "nenávidět"
+            },
+            "2": {
+                "displayName": "Zklamaný",
+                "ariaLabel": "zklamaný"
+            },
+            "3": {
+                "displayName": "Neutrální",
+                "ariaLabel": "neutrální"
+            },
+            "4": {
+                "displayName": "Velký",
+                "ariaLabel": "velký"
+            },
+            "5": {
+                "displayName": "Miluji to",
+                "ariaLabel": "miluji to"
+            }
+        },
+        "ariaLabel": "vyberte si úroveň spokojenosti s touto mobilní aplikací"
+    },
+    "commentInput": {
+        "description": "Volitelně uveďte jakékoli další komentáře, které máte.",
+        "label": "Komentář",
+        "ariaLabel": "případně další komentáře"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Vyberte prosím úroveň spokojenosti.",
+        "description": "Jak jsi našel knížky na hraní?",
+        "label": "Přehrávání knih",
+        "levels": {
+            "1": {
+                "displayName": "Nefungovalo",
+                "ariaLabel": "nefungovalo"
+            },
+            "2": {
+                "displayName": "Ne skvělé",
+                "ariaLabel": "ne skvělé"
+            },
+            "3": {
+                "displayName": "To je v pořádku",
+                "ariaLabel": "to je v pořádku"
+            },
+            "4": {
+                "displayName": "Je to snadné",
+                "ariaLabel": "je to snadné"
+            },
+            "5": {
+                "displayName": "Miluji to",
+                "ariaLabel": "miluji to"
+            }
+        },
+        "ariaLabel": "vyberte svou spokojenost s přehráváním knihy"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Vyberte prosím úroveň spokojenosti.",
+        "description": "Jak se vám líbilo mít více čtenářů?",
+        "label": "Více čtenářů",
+        "levels": {
+            "1": {
+                "displayName": "Nefungovalo",
+                "ariaLabel": "nefungovalo"
+            },
+            "2": {
+                "displayName": "Ne skvělé",
+                "ariaLabel": "ne skvělé"
+            },
+            "3": {
+                "displayName": "To je v pořádku",
+                "ariaLabel": "to je v pořádku"
+            },
+            "4": {
+                "displayName": "Je to snadné",
+                "ariaLabel": "je to snadné"
+            },
+            "5": {
+                "displayName": "Miluji to",
+                "ariaLabel": "miluji to"
+            }
+        },
+        "ariaLabel": "vyberte svou spokojenost s více čtenáři na knihu"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Vyberte prosím úroveň spokojenosti.",
+        "description": "Jak jste se k tvorbě knih dostal?",
+        "label": "Vytváření knih",
+        "levels": {
+            "1": {
+                "displayName": "Nefungovalo",
+                "ariaLabel": "nefungovalo"
+            },
+            "2": {
+                "displayName": "Ne skvělé",
+                "ariaLabel": "ne skvělé"
+            },
+            "3": {
+                "displayName": "To je v pořádku",
+                "ariaLabel": "to je v pořádku"
+            },
+            "4": {
+                "displayName": "Je to snadné",
+                "ariaLabel": "je to snadné"
+            },
+            "5": {
+                "displayName": "Miluji to",
+                "ariaLabel": "miluji to"
+            }
+        },
+        "ariaLabel": "vyberte svou spokojenost s procesem tvorby knihy"
+    }
+}

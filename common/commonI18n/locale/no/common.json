@@ -1,0 +1,25 @@
+{
+    "add": "Legge til",
+    "cancel": "Kansellere",
+    "no": "Ingen",
+    "verifying": "bekrefter ...",
+    "set": "Sett",
+    "yes": "Ja",
+    "back": "Tilbake",
+    "loading": "laster inn ...",
+    "required": "nødvendig",
+    "acknowledgeError": "erkjenner feilen",
+    "saving": "sparer...",
+    "settingsButton": {
+        "text": "Innstillinger",
+        "ariaLabel": "gå til siden for applikasjonsinnstillinger"
+    },
+    "backButton": {
+        "label": "Tilbake",
+        "title": "gå tilbake til siste side",
+        "ariaLabel": "gå tilbake til siste side"
+    },
+    "sending": "sender ...",
+    "create": "Skape",
+    "ok": "Ok"
+}

@@ -1,0 +1,14 @@
+{
+    "feedback": {
+        "subtitle": "Bize nasıl geliştirebileceğimizi söyleyin",
+        "title": "Geri bildirim bırakın"
+    },
+    "settings": {
+        "subtitle": "Ayarlarınızı değiştirin",
+        "title": "Ayarlar"
+    },
+    "bookBuilder": {
+        "subtitle": "Yeni bir kitap oluştur",
+        "title": "Kitap Oluştur"
+    }
+}

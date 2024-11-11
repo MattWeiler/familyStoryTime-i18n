@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Дополнительный аудиофайл, который можно воспроизвести перед прочтением первой страницы.",
+        "label": {
+            "withDisplayName": "Вступительный звук %{readerDisplayName}",
+            "noDisplayName": "Вступительное аудио"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} введение для читателя",
+            "noDisplayName": "читалка с идентификатором %{readerId}, вступление"
+        }
+    },
+    "readerImage": {
+        "description": "Изображение, которое будет отображаться для этого читателя.",
+        "accessibleImageDisplayName": "изображение читателя %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Это приведет к удалению всех аудиозаписей страниц, записанных для этой программы чтения.",
+            "additionalMessage2": "ЭТО НЕЛЬЗЯ ОТМЕНИТЬ!",
+            "title": "Подтверждение удаления",
+            "message": {
+                "withDisplayName": "Вы уверены, что хотите удалить программу чтения \"%{readerDisplayName}\"?",
+                "noDisplayName": "Вы уверены, что хотите удалить эту программу чтения?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "удалить читалку %{readerDisplayName}",
+            "noDisplayName": "удалить читалку с идентификатором %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "отображаемое имя для читателя",
+                "noDisplayName": "отображаемое имя для читателя"
+            },
+            "title": {
+                "withDisplayName": "Обновить отображаемое имя",
+                "noDisplayName": "Установить отображаемое имя"
+            },
+            "message": {
+                "withDisplayName": "На что вы хотите изменить отображаемое имя читателя?",
+                "noDisplayName": "Какое отображаемое имя у этого читателя?"
+            },
+            "inputPlaceholder": "имя читателя"
+        },
+        "ariaLabel": {
+            "withDisplayName": "измените отображаемое имя для читателя %{readerDisplayName}",
+            "noDisplayName": "измените отображаемое имя для читателя с идентификатором %{readerId}"
+        }
+    }
+}

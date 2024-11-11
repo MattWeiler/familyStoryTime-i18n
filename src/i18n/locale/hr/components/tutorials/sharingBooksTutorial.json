@@ -1,0 +1,25 @@
+{
+    "summary": "Nakon što izradite knjigu, možete je podijeliti s obitelji i prijateljima.",
+    "exporting": {
+        "messages": {
+            "1": "Možete izvesti jednu knjigu, putem njezinog kontekstnog izbornika, ili nekoliko knjiga odjednom, dugim držanjem za odabir više knjiga.",
+            "2": "Nakon što ste odabrali knjigu(e) za izvoz, možete odabrati točno ono što želite izvesti.",
+            "3": "Prema zadanim postavkama, cijela knjiga će biti izvezena, ali možete odabrati koji čitači će biti uključeni u sadržaj knjige ili možete odabrati izvoz samo određenih čitača.",
+            "4": "Kada samo želite poslati podatke o čitatelju koje ste snimili nekome tko već ima knjigu, možete stvoriti puno manju datoteku za dijeljenje tako da uključite samo određene čitatelje."
+        },
+        "title": "Izvoz"
+    },
+    "importingMerging": {"messages": {
+        "1": "Prilikom uvoza knjige koja je već instalirana na vašem uređaju, moći ćete odabrati treba li knjiga za uvoz prebrisati već instaliranu knjigu ili treba izvršiti spajanje.",
+        "2": "Prilikom spajanja samo odabrani čitači bit će dodani već instaliranoj knjizi.",
+        "3": "Ako su ti čitači koji se spajaju već instalirani na uređaju, bit će zamijenjeni."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Na stranici \"Kutak za čitanje\" možete odabrati koje knjige želite uvesti odabirom opcije \"uvoz knjiga\" kada pritisnete gumb (+) u donjem desnom kutu zaslona.",
+            "2": "Alternativno, možete poslati datoteku knjige u aplikaciju \"Family Story Time\".",
+            "3": "Prilikom uvoza knjige koja još nije instalirana na vašem uređaju, knjiga će biti instalirana."
+        },
+        "title": "Uvoz"
+    }
+}

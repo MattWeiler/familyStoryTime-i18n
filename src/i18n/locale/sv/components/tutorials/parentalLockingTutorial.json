@@ -1,0 +1,34 @@
+{
+    "summary": "Innan du lämnar din enhet till ditt barn kan du låsa applikationen för att förhindra att barn tar bort några böcker eller gör andra ändringar.",
+    "enabling": {
+        "messages": {
+            "1": "För att aktivera föräldralåsningsfunktionen, öppna hamburgermenyn och tryck på låsikonen uppe till höger.",
+            "2": "Detta kommer att uppmana dig att tillhandahålla din biometriska bekräftelse som kommer att initiera föräldralåsningsfunktionen.",
+            "3": "Nu när föräldralåsningsfunktionen har aktiverats, låser du applikationen genom att trycka på ikonen för öppna lås.",
+            "4": "När föräldralåsningsfunktionen är aktiverad kommer den att vara i låst läge varje gång som applikationen startas."
+        },
+        "title": "Aktivera föräldralås"
+    },
+    "disabling": {
+        "messages": {
+            "1": "För att inaktivera föräldralåsningsfunktionen, öppna hamburgermenyn och tryck på inställningsalternativet längst ner.",
+            "2": "På inställningssidan avmarkerar du funktionen \"Föräldralåsning\"."
+        },
+        "title": "Inaktivera föräldralås"
+    },
+    "lockedBookSelector": {
+        "messages": {
+            "1": "När applikationen är låst kommer flera funktioner i applikationen inte att visas, såsom snabbmenyer eller knappar som låter dig lägga till/ta bort böcker.",
+            "2": "Detta sätter applikationen i ett skrivskyddat läge som är säkert för barn att använda.",
+            "3": "För att komma åt de dolda funktionerna måste du låsa upp applikationen."
+        },
+        "title": "Låsta funktioner"
+    },
+    "locked": {
+        "messages": {
+            "1": "För att låsa upp applikationen, öppna hamburgermenyn och tryck på den stängda låsikonen uppe till höger.",
+            "2": "Detta kommer att uppmana dig att tillhandahålla din biometriska bekräftelse som låser upp applikationen."
+        },
+        "title": "Lås upp applikation"
+    }
+}

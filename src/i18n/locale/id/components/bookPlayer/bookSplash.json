@@ -1,0 +1,28 @@
+{
+    "startButton": {
+        "title": "memulai bukunya",
+        "ariaLabel": "memulai bukunya"
+    },
+    "selectedReaderImage": {"ariaLabel": "pilih suara untuk membaca buku"},
+    "skipIntroButton": {
+        "title": "lewati intronya",
+        "ariaLabel": "lewati intronya"
+    },
+    "readMode": {
+        "items": {
+            "autoRead": {
+                "label": "Putar Otomatis",
+                "ariaLabel": "setiap halaman akan dibacakan kepada pengguna sesuai pilihan mereka"
+            },
+            "pageRead": {
+                "label": "Bacakan Untuk Saya",
+                "ariaLabel": "setiap halaman akan dibacakan kepada pengguna dengan suara yang mereka pilih, tetapi pengguna bertanggung jawab untuk mengubah halaman tersebut"
+            },
+            "selfRead": {
+                "label": "Baca Sendiri",
+                "ariaLabel": "pengguna akan membaca setiap halaman"
+            }
+        },
+        "ariaLabel": "pilih mode membaca mana yang akan digunakan"
+    }
+}

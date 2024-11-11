@@ -1,0 +1,25 @@
+{
+    "summary": "Atuakkamik suliaqareersimaguit ilaquttanut ikinngutinullu avitseqatigisinnaavat.",
+    "exporting": {
+        "messages": {
+            "1": "Atuakkamik ataatsimik, it's context menu aqqutigalugu, imaluunniit atuakkanik arlalinnik ataasiaannarluni, atuakkanik arlalinnik toqqaanissamut long-holding-imik export-ersinnaavutit.",
+            "2": "Atuakkat/-it avammut tunineqarnissaat toqqarsimagukkit, taava eqqortumik suut avammut tunineqarnissaat toqqarsinnaavat.",
+            "3": "Atuakkap tamakkerlugu avammut tunineqassaaq, kisianni atuartut sorliit atuakkap imarisaanut ilanngunneqarnissaat toqqassinnaavat imaluunniit atuartut immikkut ittut kisimik tunineqarnissaat toqqassinnaavat.",
+            "4": "Atuartup paasissutissat allattorsimaffigisatit atuakkamik piginnittumut nassiussaqarniaruit, atuartoq/-it immikkut ittut kisimik ilanngullugit avitseqatigiissutigisinnaasamik filimik minnerujussuarmik pilersitsisinnaavutit."
+        },
+        "title": "Avammut tunisassiorneq"
+    },
+    "importingMerging": {"messages": {
+        "1": "Atuakkamik atortumi installereersimasumik tunisassiortoqarpat, atuakkamik tunisassiortoq atuakkamik installereersimasumik allanngortitsissanersoq imaluunniit ataatsimoortitsisoqartariaqarnersoq toqqassinnaassavat.",
+        "2": "Ataatsimoortitsinermi atuartut toqqarneqarsimasut kisimik atuakkamut inissinneqareersumut ilanngunneqassapput.",
+        "3": "Atuartut taakku ataatsimoortinneqartussat atortumi inissinneqareersimappata, taarserneqassapput."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Quppernermi \"Atuarnissamut hjørne\"-mi atuakkat sorliit tunineqarnissaat toqqassinnaavat, skærmip ataani-talerperliup tungaani (+)-mik toortagaq \"atuakkat tunineqarnissaat\" toqqarlugu.",
+            "2": "Imaluunniit atuakkamik filimik nassiussinnaavutit \"Ilaqutariinnut oqaluttuaq piffissaq\" qinnuteqaammut.",
+            "3": "Atuakkamik atortumi installereqarsimanngitsumik tunisassiortoqarpat atuakkaq installerneqassaaq."
+        },
+        "title": "Tunisassiorneq"
+    }
+}

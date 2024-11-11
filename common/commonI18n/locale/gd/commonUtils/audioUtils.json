@@ -1,0 +1,22 @@
+{"durations": {
+    "hours": {
+        "other": "%{displayValue} uairean",
+        "one": "%{displayValue} uair a thìde"
+    },
+    "mins": {
+        "other": "%{displayValue} mion",
+        "one": "%{displayValue} mion"
+    },
+    "ms": {
+        "other": "%{displayValue} ms",
+        "one": "%{displayValue} ms"
+    },
+    "secs": {
+        "other": "%{displayValue} diog",
+        "one": "%{displayValue} diog"
+    },
+    "days": {
+        "other": "%{displayValue} làithean",
+        "one": "%{displayValue} latha"
+    }
+}}

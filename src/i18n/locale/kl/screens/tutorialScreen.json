@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "Utimut tunngavilersuuteqarneq"},
+        "intro": {"displayName": "Ilisaritsitsineq"},
+        "createBooks": {"displayName": "Atuakkanik pilersitsineq"},
+        "parentalLocking": {"displayName": "Angajoqqaanut Lakking"},
+        "sharingBooks": {"displayName": "Atuakkanik avitseqatigiinneq"},
+        "bookPlayback": {"displayName": "Atuakkanik sungiusarneq"},
+        "bookStore": {"displayName": "Atuakkanik Pisiniarfik"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "qupperneq %{pageName} takuuk"},
+        "backPageButton": {"ariaLabel": "qupperneq 1 uterlugu"},
+        "forwardPageButton": {"ariaLabel": "siumut ingerlagit 1 qupperneq"}
+    },
+    "startLink": {
+        "label": "Aallartitsigit",
+        "ariaLabel": "quppernermut hjemmesidemut ingerlagit"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "আপনার নিজের %{audioDisplayName} অডিও রেকর্ড করুন"},
+    "toasts": {
+        "audioFileLoading": {"failure": "অডিও লোড করতে ব্যর্থ"},
+        "editInitFailed": "অডিও সম্পাদনা করতে ব্যর্থ হয়েছে",
+        "recordingFailed": "অডিও রেকর্ড করতে ব্যর্থ"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "ক্লিয়ার কনফার্মেশন",
+            "message": "আপনি কি নির্বাচিত অডিও সাফ করার বিষয়ে নিশ্চিত?"
+        },
+        "ariaLabel": "নির্বাচিত %{audioDisplayName} অডিও সাফ করুন"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "একটি প্রিসেট %{audioDisplayName} অডিও নির্বাচন করুন"},
+    "selectAudioFileButton": {"ariaLabel": "আপনার নিজের %{audioDisplayName} অডিও ফাইল নির্বাচন করুন"},
+    "playButton": {
+        "stopped": {"ariaLabel": "%{audioDisplayName} অডিও চালান"},
+        "recording": {"ariaLabel": "%{audioDisplayName} রেকর্ডিং বন্ধ করুন"},
+        "playing": {"ariaLabel": "%{audioDisplayName} অডিও চালানো বন্ধ করুন"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "বর্তমানে লোড করা %{audioDisplayName}টি অডিও সম্পাদনা করুন",
+        "cancelConfirmation": {
+            "title": "সম্পাদনা বাতিল করুন",
+            "message": "আপনি কি আপনার করা কোনো সম্পাদনা বাতিল করার বিষয়ে নিশ্চিত?",
+            "buttonAriaLabels": {
+                "no": "না, থাকুন এবং সম্পাদনা চালিয়ে যান",
+                "yes": "হ্যাঁ, সম্পাদনা বাতিল করুন"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "আপলোড করা ফাইল: %{filename}",
+        "recording": "রেকর্ডিং",
+        "preset": "প্রিসেট: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "অনুমতি অস্বীকার করা হয়েছে",
+        "message": "আপনি আপনার মাইক্রোফোন অ্যাক্সেস করার অনুমতি অস্বীকার করেছেন৷"
+    }}
+}

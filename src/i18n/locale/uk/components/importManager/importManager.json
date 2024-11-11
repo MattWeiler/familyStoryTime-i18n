@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "імпортування вже запущено, повторіть спробу пізніше",
+        "download": {"failed": "не вдалося завантажити \"%{bookName}\"."},
+        "install": {
+            "failed": "не вдалося імпортувати \"%{bookName}\"",
+            "successful": "успішно імпортовано \"%{bookName}\""
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Скасувати",
+            "ariaLabel": "скасувати імпорт"
+        },
+        "install": {
+            "textLabel": "встановити",
+            "ariaLabel": "встановити вибрані книги: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "аналізую...",
+        "downloading": "завантаження...",
+        "installing": "встановлення...",
+        "cancelling": "скасування..."
+    },
+    "nothingToInstall": "Нічого для імпорту :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Цей рідер уже є частиною встановленої книги.\n\n"},
+            "checkbox": {"ariaLabel": "щоб включити зчитувач %{readerDisplayName} в імпорт"}
+        },
+        "checkbox": {"ariaLabel": "щоб включити %{bookName} книгу в імпорт"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Ця книга вже є на вашому пристрої.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Якщо ви вирішите перезаписати, поточну книгу буде замінено новою.\n\n"},
+                    "noReaders": {"label": "Ця книга вже є на вашому пристрої.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Цей файл містить лише аудіо, а книга не встановлена \u200b\u200bна вашому пристрої.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Цієї книги немає на вашому пристрої.\n\n"},
+                    "noReaders": {"label": "Цієї книги немає на вашому пристрої.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "злиття",
+                    "ariaLabel": "об\u2019єднати книгу %{bookName}, додавши нових читачів і замінивши існуючі читачі новими читачами"
+                },
+                "overwrite": {
+                    "label": "перезаписати",
+                    "ariaLabel": "перезаписати існуючу книгу %{bookName}"
+                }
+            },
+            "ariaLabel": "вибрати стратегію імпорту для книги %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "не скасовуйте імпорт"},
+            "yes": {"ariaLabel": "скасувати імпорт"}
+        },
+        "title": "Підтвердьте скасування імпорту",
+        "message": "Ви впевнені, що бажаєте скасувати імпорт?"
+    }},
+    "titles": {
+        "booksToInstall": "Книги для встановлення",
+        "failedToInstall": "Не вдалося встановити книги"
+    }
+}

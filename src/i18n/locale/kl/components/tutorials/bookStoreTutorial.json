@@ -1,0 +1,17 @@
+{
+    "summary": "Atuakkat public domain-it atuakkanik pisiniarfitsinni nassaarisinnaavatit.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Atuakkat pissarsiarineqarsinnaasut akornanni sorleq aaneqarnissaa toqqarsinnaavat.",
+            "2": "Taamaaliornikkut atuakkat/atuakkat atortumut ikkussuunneqassapput, taamaalillunilu tusarnaarsinnaallugit aammalu nammineq atuartartunik allanik ilanngussinnaallutit."
+        },
+        "title": "Atuakkanik installerneq"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Aamma atuakkat sorliit installereersimanerlugit atuakkanik pisiniarfitsinniit takusinnaavatit.",
+            "2": "Tassanngaanniit atuakkat siusinnerusukkut installereqarsimasut piiarsinnaavatit imaluunniit nutarterinerit pissarsiarineqarsinnaasut misissorsinnaavatit."
+        },
+        "title": "Atuakkanik aqutsineq"
+    }
+}

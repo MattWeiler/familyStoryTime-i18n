@@ -1,0 +1,123 @@
+{
+    "toasts": {
+        "bookLoading": {"failure": "ngarkimi i librave dështoi"},
+        "import": {"failure": "importi dështoi"},
+        "delete": {
+            "failure": "fshirja dështoi",
+            "success": "libri i fshirë \"%{bookTitle}\""
+        },
+        "deleteSelected": {
+            "failure": {
+                "other": "fshirja e %{count} librave dështoi",
+                "one": "dështoi të fshinte 1 libër"
+            },
+            "success": {
+                "other": "fshiu %{count} libra",
+                "one": "fshihet 1 libër"
+            }
+        }
+    },
+    "installedBooks": {
+        "buttons": {
+            "sortPageCountButton": {"ariaLabel": {
+                "ascending": "renditni sipas numrit të faqeve në rend zbritës",
+                "descending": "renditni sipas numrit të faqeve në rend rritës"
+            }},
+            "searchField": {
+                "placeholder": "kërkoni librat tuaj",
+                "ariaLabel": "kërkoni librat tuaj"
+            },
+            "contextMenuButton": {
+                "options": {
+                    "export": {
+                        "label": "Eksporto",
+                        "ariaLabel": "eksportoni librat e zgjedhur"
+                    },
+                    "delete": {
+                        "label": "Fshije",
+                        "confirmation": {
+                            "buttons": {
+                                "no": {"ariaLabel": "jo, mos i fshini librat e zgjedhur"},
+                                "yes": {"ariaLabel": "po, fshini librat e zgjedhur"}
+                            },
+                            "title": "Konfirmo Fshirjen",
+                            "message": {
+                                "other": "Jeni i sigurt se doni të fshini %{count} librat e zgjedhur?",
+                                "one": "Jeni i sigurt që dëshironi të fshini librin e zgjedhur?"
+                            }
+                        },
+                        "ariaLabel": "fshini librat e zgjedhur"
+                    }
+                },
+                "ariaLabel": "hapni menunë e kontekstit për librat e zgjedhur"
+            },
+            "sortBookTitleButton": {"ariaLabel": {
+                "ascending": "renditni sipas titullit të librit në rend zbritës",
+                "descending": "renditni sipas titullit të librit në rend rritës"
+            }},
+            "sortReaderCountButton": {"ariaLabel": {
+                "ascending": "renditni sipas numrit të lexuesve në rend zbritës",
+                "descending": "renditni sipas numrit të lexuesve në rend rritës"
+            }},
+            "zoomButton": {"ariaLabel": {
+                "zoomedIn": "zmadhoni për të parë më shumë artikuj në të njëjtën kohë",
+                "zoomedOut": "zmadhoni për të parë imazhe më të mëdha"
+            }}
+        },
+        "loadError": {
+            "text": "Ngarkimi i librave dështoi.",
+            "ariaLabel": "dështoi në ngarkimin e librave"
+        },
+        "noBooksFound": {
+            "message": "Nuk u gjet asnjë libër :(",
+            "recommendations": {
+                "creatingABook": {
+                    "message": "Provoni tonën",
+                    "linkName": "ndërtues librash"
+                },
+                "availableBooks": {
+                    "message": "Shikoni tonë",
+                    "linkName": "librari"
+                }
+            }
+        }
+    },
+    "subtitle": "Le të kënaqemi duke lexuar disa histori.",
+    "actionButton": {
+        "subIcons": {
+            "createBook": {
+                "label": "krijoni një libër",
+                "ariaLabel": "krijoni një libër të ri"
+            },
+            "importBooks": {
+                "label": "importimin e librave",
+                "ariaLabel": "importoni një ose më shumë libra"
+            },
+            "bookStore": {
+                "label": "vizitoni librarinë",
+                "ariaLabel": "vizitoni librarinë tonë"
+            }
+        },
+        "mainIcon": {"ariaLabel": {
+            "expanded": "mbyll shto një menu libri",
+            "collapsed": "hapni menynë e shtoni një libri"
+        }}
+    },
+    "processing": {"pending": {
+        "delete": {"label": {
+            "other": "duke fshirë...\n",
+            "one": "duke fshirë...\n",
+            "none": "duke fshirë..."
+        }},
+        "export": {"label": {
+            "other": "duke eksportuar...\n",
+            "one": "duke eksportuar...\n",
+            "none": "duke eksportuar..."
+        }}
+    }},
+    "title": "Këndi i leximit",
+    "confirmations": {"deleteBook": {
+        "title": "Konfirmimi i fshirjes",
+        "message": "Jeni i sigurt që dëshironi të fshini librin \"%{bookTitle}?\""
+    }}
+}

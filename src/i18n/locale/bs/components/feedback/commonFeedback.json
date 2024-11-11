@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Ime",
+        "placeholder": "John Doe",
+        "ariaLabel": "opciono, vaše ime"
+    },
+    "emailInput": {
+        "description": "Navedite ako želite da se čujete od nas.",
+        "label": "Email adresa",
+        "placeholder": "netko@gmail.com",
+        "ariaLabel": "opciono, vaša email adresa"
+    }
+}

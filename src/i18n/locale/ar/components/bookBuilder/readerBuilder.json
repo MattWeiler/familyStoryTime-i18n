@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "الصوت الاختياري الذي سيتم تشغيله قبل قراءة الصفحة الأولى.",
+        "label": {
+            "withDisplayName": "%{readerDisplayName} المقدمة الصوتية",
+            "noDisplayName": "مقدمة الصوت"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} مقدمة القارئ",
+            "noDisplayName": "القارئ بالمعرف %{readerId} مقدمة"
+        }
+    },
+    "readerImage": {
+        "description": "الصورة التي سيتم عرضها لهذا القارئ.",
+        "accessibleImageDisplayName": "صورة القارئ %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "سيؤدي هذا إلى إزالة كافة الملفات الصوتية المسجلة لهذا القارئ.",
+            "additionalMessage2": "لا يمكن التراجع عن هذا!",
+            "title": "تأكيد الحذف",
+            "message": {
+                "withDisplayName": "هل أنت متأكد أنك تريد حذف القارئ \"%{readerDisplayName}\"؟",
+                "noDisplayName": "هل أنت متأكد أنك تريد حذف هذا القارئ؟"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "إزالة القارئ %{readerDisplayName}",
+            "noDisplayName": "قم بإزالة القارئ بالمعرف %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "اسم العرض للقارئ",
+                "noDisplayName": "اسم العرض للقارئ"
+            },
+            "title": {
+                "withDisplayName": "تحديث اسم العرض",
+                "noDisplayName": "تعيين اسم العرض"
+            },
+            "message": {
+                "withDisplayName": "ما الذي تريد تغيير الاسم المعروض للقراء إليه؟",
+                "noDisplayName": "ما هو اسم العرض لهذا القارئ؟"
+            },
+            "inputPlaceholder": "اسم القارئ"
+        },
+        "ariaLabel": {
+            "withDisplayName": "تغيير اسم العرض للقارئ %{readerDisplayName}",
+            "noDisplayName": "تغيير اسم العرض للقارئ بالمعرف %{readerId}"
+        }
+    }
+}

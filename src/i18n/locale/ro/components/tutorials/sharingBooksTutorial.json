@@ -1,0 +1,25 @@
+{
+    "summary": "După ce ați creat o carte, o puteți partaja familiei și prietenilor.",
+    "exporting": {
+        "messages": {
+            "1": "Puteți exporta fie o singură carte, prin meniul contextual al acestuia, fie mai multe cărți simultan, ținând apăsat lung pentru a selecta mai multe cărți.",
+            "2": "După ce ați ales cărțile de exportat, puteți selecta exact ce trebuie exportat.",
+            "3": "În mod implicit, întreaga carte va fi exportată, dar puteți alege cititorii care vor fi incluse în conținutul cărții sau puteți selecta să exportați numai anumiți cititori.",
+            "4": "Când doriți doar să trimiteți informațiile despre cititor pe care le-ați înregistrat unei persoane care deține deja cartea, puteți crea un fișier mult mai mic pe care să îl partajați, incluzând doar cititorii specifici."
+        },
+        "title": "Exportator"
+    },
+    "importingMerging": {"messages": {
+        "1": "Când importați o carte care este deja instalată pe dispozitivul dvs., veți putea selecta dacă cartea de import ar trebui să suprascrie cartea deja instalată sau dacă ar trebui efectuată o îmbinare.",
+        "2": "La îmbinare, doar cititorii selectați vor fi adăugați la cartea deja instalată.",
+        "3": "Dacă acele cititoare care sunt îmbinate sunt deja instalate pe dispozitiv, acestea vor fi înlocuite."
+    }},
+    "importing": {
+        "messages": {
+            "1": "Din pagina \u201eColț de lectură\u201d, puteți selecta ce cărți să importați selectând opțiunea \u201eimport cărți\u201d când apăsați butonul (+) din colțul din dreapta jos al ecranului.",
+            "2": "Alternativ, puteți trimite un fișier de carte în aplicația \u201eOra poveștii în familie\u201d.",
+            "3": "Când importați o carte care nu este deja instalată pe dispozitivul dvs., cartea va fi instalată."
+        },
+        "title": "Import"
+    }
+}

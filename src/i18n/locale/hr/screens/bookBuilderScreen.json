@@ -1,0 +1,135 @@
+{
+    "toasts": {
+        "bookSaved": "spremljena knjiga \"%{bookTitle}\"",
+        "validationFailed": "provjera nije uspjela",
+        "bookSaveFailed": "neuspjela knjiga spremanja"
+    },
+    "bookTitleInput": {
+        "description": "Naslov knjige.",
+        "label": "Naslov knjige",
+        "placeholder": "naslov knjige",
+        "ariaLabel": "naslov knjige"
+    },
+    "readers": {
+        "label": "Čitatelji",
+        "addReaderButton": {
+            "prompt": {
+                "inputAriaLabel": "ime za prikaz za ovaj novi čitač",
+                "buttons": {
+                    "cancel": {"ariaLabel": "odustani od dodavanja novog čitača"},
+                    "add": {"ariaLabel": "dodajte novog čitača"}
+                },
+                "description": "Navedite ime za prikaz ovog novog čitača.",
+                "title": "Dodaj novog čitača",
+                "inputPlaceholder": "ime čitatelja"
+            },
+            "ariaLabel": "dodati novog čitača"
+        }
+    },
+    "delays": {
+        "delayBeforePlayingPageChangeAudio": {
+            "description": "Broj milisekundi čekanja prije reprodukcije zvuka promjene stranice.",
+            "label": "Audio prije promjene stranice",
+            "placeholder": "milisekundi prije reprodukcije zvuka promjene stranice",
+            "ariaLabel": "milisekundi za čekanje prije reprodukcije zvuka promjene stranice"
+        },
+        "delayAfterPlayingPageChangeAudio": {
+            "description": "Broj milisekundi čekanja nakon reprodukcije zvuka promjene stranice.",
+            "label": "Audio nakon promjene stranice",
+            "placeholder": "milisekundi nakon reprodukcije zvuka promjene stranice",
+            "ariaLabel": "milisekundi za čekanje nakon reprodukcije zvuka promjene stranice"
+        },
+        "delayBeforePlayingPageAudio": {
+            "description": "Broj milisekundi čekanja prije reprodukcije zvuka stranice.",
+            "label": "Prije stranice Audio",
+            "placeholder": "milisekundi prije reprodukcije audio stranice",
+            "ariaLabel": "milisekundi za čekanje prije reprodukcije audio stranice"
+        },
+        "label": "Kašnjenja"
+    },
+    "bookIconImageSelector": {
+        "description": "Slika koja će se koristiti kao ikona za knjigu.",
+        "label": "Ikona knjige",
+        "accessibleImageDisplayName": "ikona knjige"
+    },
+    "bookSplashImageImageSelector": {
+        "description": "Slika koja će se prikazati prilikom prvog pokretanja knjige.",
+        "label": "Početna slika knjige",
+        "accessibleImageDisplayName": "prskanje knjige"
+    },
+    "confirmations": {"goBack": {
+        "title": "Ostavi promjene",
+        "message": "Jeste li sigurni da želite otići prije spremanja?"
+    }},
+    "pageChangeAudio": {
+        "description": "Zvuk za reprodukciju kada dođe vrijeme za promjenu stranice.",
+        "label": "Audio za promjenu stranice",
+        "presetAudioModalPicker": {
+            "headerLabel": "Odaberite Page Change Audio",
+            "ariaLabel": "odaberite s popisa unaprijed postavljenih audio opcija za promjenu stranice",
+            "accessibleAudioDisplayName": "promjena stranice"
+        }
+    },
+    "errors": {
+        "failedLoadingBook": "Učitavanje knjige nije uspjelo.",
+        "validationErrors": {
+            "delayAfterPlayingPageChangeAudioNegative": "kašnjenje ne može biti negativno",
+            "bookTitleMissing": "naslov knjige je obavezan",
+            "readerDisplayNameMissing": "potrebno je ime za prikaz čitača",
+            "bookIconNotValid": "potrebna je ikona knjige",
+            "pageTextMissing": "potreban je tekst stranice",
+            "delayBeforePlayingPageAudioNegative": "kašnjenje ne može biti negativno",
+            "pagesMissing": "potrebna je najmanje 1 stranica",
+            "pageImageNotValid": "potrebna je slika stranice",
+            "delayBeforePlayingPageChangeAudioNegative": "kašnjenje ne može biti negativno",
+            "bookSplashImageNotValid": "potrebna je početna slika knjige",
+            "readerIntroAudioNotValid": "audio uvod u čitač nije valjana datoteka",
+            "pageAudioNotValid": "potreban je zvuk stranice",
+            "pageChangeAudioNotValid": "potreban je zvuk promjene stranice",
+            "delayAfterPlayingPageChangeAudioNotInteger": "kašnjenje mora biti cijeli broj",
+            "delayBeforePlayingPageAudioNotInteger": "kašnjenje mora biti cijeli broj",
+            "delayBeforePlayingPageChangeAudioNotInteger": "kašnjenje mora biti cijeli broj",
+            "delayBeforePlayingPageAudioRequired": "potrebno je kašnjenje",
+            "readerImageNotValid": "potrebna je slika čitača",
+            "delayBeforePlayingPageChangeAudioRequired": "potrebno je kašnjenje",
+            "delayAfterPlayingPageChangeAudioRequired": "potrebno je kašnjenje"
+        }
+    },
+    "bookSource": {
+        "sourceUrl": {
+            "description": "Izvorni URL knjige.",
+            "label": "Izvorni URL",
+            "placeholder": "URL izvora",
+            "ariaLabel": "izvorni URL knjige"
+        },
+        "authorInput": {
+            "description": "Ime autora knjige.",
+            "label": "Ime autora",
+            "placeholder": "autor knjige",
+            "ariaLabel": "ime autora knjige"
+        },
+        "illustratorInput": {
+            "description": "Ime ilustratora knjige.",
+            "label": "Ime ilustratora",
+            "placeholder": "ilustrator knjige",
+            "ariaLabel": "ime ilustratora knjige"
+        },
+        "publisherInput": {
+            "description": "Ime izdavača knjige.",
+            "label": "Ime izdavača",
+            "placeholder": "izdavač knjige",
+            "ariaLabel": "ime izdavača knjige"
+        },
+        "label": "Izvor",
+        "isbnInput": {
+            "description": "Međunarodni standardni knjižni broj knjige.",
+            "label": "ISBN",
+            "placeholder": "ISBN knjige",
+            "ariaLabel": "međunarodni standardni knjižni broj knjige"
+        }
+    },
+    "bookPages": {
+        "addPageButton": {"ariaLabel": "dodaj novu stranicu"},
+        "label": "Stranice"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Atuartarfik",
+        "ariaLabel": "atuakkatit uani atuarsinnaavatit"
+    },
+    "bookStore": {
+        "text": "Atuakkanik Pisiniarfik",
+        "ariaLabel": "atuakkanik pisiniarfik pulaaruk"
+    }
+}

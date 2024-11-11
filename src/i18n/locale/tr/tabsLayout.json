@@ -1,0 +1,10 @@
+{
+    "bookSelector": {
+        "text": "Okuma Köşesi",
+        "ariaLabel": "kitaplarınızı burada okuyun"
+    },
+    "bookStore": {
+        "text": "Kitapçı",
+        "ariaLabel": "kitapçıyı ziyaret et"
+    }
+}

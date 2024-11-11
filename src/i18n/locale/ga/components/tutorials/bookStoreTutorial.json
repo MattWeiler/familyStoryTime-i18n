@@ -1,0 +1,17 @@
+{
+    "summary": "Is féidir leat teacht ar leabhair atá san fhearann \u200b\u200bpoiblí inár siopa leabhar.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Is féidir leat a roghnú cé acu de na leabhair atá ar fáil is mian leat a íoslódáil.",
+            "2": "Má dhéanann tú é sin, cuirfear an leabhar/na leabhair isteach ar do ghléas, rud a ligfidh duit iad a sheinm agus fiú do léitheoirí féin a chur leis."
+        },
+        "title": "Leabhair a Shuiteáil"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Is féidir leat freisin féachaint ar na leabhair atá suiteáilte agat cheana féin ónár siopa leabhar.",
+            "2": "Ón áit seo, is féidir leat leabhair a suiteáladh roimhe seo a scriosadh nó seiceáil le haghaidh nuashonruithe atá ar fáil."
+        },
+        "title": "Leabhair a Bhainistiú"
+    }
+}

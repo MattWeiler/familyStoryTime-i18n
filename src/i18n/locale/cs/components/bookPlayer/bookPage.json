@@ -1,0 +1,36 @@
+{
+    "playPauseButton": {
+        "paused": {
+            "title": "přehrávat zvuk",
+            "ariaLabel": "přehrávat zvuk"
+        },
+        "playing": {
+            "title": "pozastavit zvuk",
+            "ariaLabel": "pozastavit zvuk"
+        }
+    },
+    "zoomButton": {"ariaLabel": {
+        "zoomedIn": "oddálit pro zobrazení celého obrázku, po stranách mohou být černé pruhy",
+        "zoomedOut": "přibližte, abyste zajistili, že celá obrazovka bude vyplněna obrázkem, některé z obrázků nemusí být vidět"
+    }},
+    "previousPageButton": {
+        "hasPreviousPage": {
+            "title": "přejít na předchozí stránku",
+            "ariaLabel": "přejít na předchozí stránku"
+        },
+        "noPreviousPage": {
+            "title": "vrátit se k výběru knihy",
+            "ariaLabel": "vrátit se k výběru knihy"
+        }
+    },
+    "nextPageButton": {
+        "hasNextPage": {
+            "title": "přejít na další stránku",
+            "ariaLabel": "přejít na další stránku"
+        },
+        "noNextPage": {
+            "title": "vrátit se k výběru knihy",
+            "ariaLabel": "vrátit se k výběru knihy"
+        }
+    }
+}

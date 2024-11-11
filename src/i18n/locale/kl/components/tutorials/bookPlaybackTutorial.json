@@ -1,0 +1,24 @@
+{
+    "summary": "Atuakkat atortumut ikkussorsimasatit tusarnaarsinnaavatit.",
+    "splashScreen": {
+        "messages": {
+            "1": "Splash screen-imiit toqqassinnaavat atuakkap qanoq tusarnaartitsinissaa aammalu atuartoq sorleq atuakkamik atuarnissaa toqqassinnaavat, atuuttoq.",
+            "2": "Atuakkami atuartunik ilanngussaqarpat, \"Auto Play\", \"Uanga atuarsinnaavat\" aamma \"Nammineq atuarsinnaavat\" akornanni toqqaasinnaavutit.",
+            "3": "\"Auto Play\"-imik atuinermi atuartoq toqqarneqarsimasoq atuakkamik atuartitsissaaq quppernerillu nammineerluni allanngortinneqassapput.",
+            "4": "\"Read To Me\"-mik atuinermi atuartoq toqqarneqarsimasoq atuakkamik atuartitsissaaq, kisianni quppernerit manuelt allanngortinneqartariaqartussaapput. ",
+            "5": "\"Read It Myself\"-imik atuinermi atuakkamik nammineq atuarsinnaavutit.",
+            "6": "Atuakkami source-imik paasissutissanik imaqarpat, taava ikon-imik peqassaaq, taanna toqqarneqarpat source-imik paasissutissanik taanna takutinneqassaaq. "
+        },
+        "title": "Splash Skærmi"
+    },
+    "player": {
+        "messages": {
+            "1": "Atuakkamik tusarnaartitsisoqartillugu navigation-knappi takutinneqassapput, taakku atorlugit atuartup nipilersornera pause-qarsinnaavoq/nipilersorsinnaavat kiisalu quppernerit akornanni navigation-imik suliaqarsinnaallutit.",
+            "2": "Navigation-knappiit assi ataasiaannaq toqqarlugu toqqoqqasinnaapput/takutinneqarsinnaapput.",
+            "3": "Aammattaaq gesturit ilaat atorlugit navianartorsiortoqarsinnaavoq.",
+            "4": "Venstre/højre-mut svingerpat quppernerit akornanni ingerlasinnaavutit.",
+            "5": "Marloriarluni toqqarneqarneq imaluunniit pinngitsoortitsineq zoom-ertitsissaaq/out-ertitsissaaq. "
+        },
+        "title": "Atuakkanik Spiller"
+    }
+}

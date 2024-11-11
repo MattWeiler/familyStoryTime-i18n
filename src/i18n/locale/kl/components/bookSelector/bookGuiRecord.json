@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Toqqaruk",
+                "ariaLabel": "atuagaq %{bookTitle} toqqaruk"
+            },
+            "edit": {
+                "title": "Aaqqissuineq",
+                "ariaLabel": "atuagaq %{bookTitle} allanngortiguk"
+            },
+            "delete": {
+                "title": "Nunguterpaa",
+                "ariaLabel": "atuagaq %{bookTitle} piiaruk"
+            },
+            "export": {
+                "title": "Avammut tunisineq",
+                "ariaLabel": "Atuagaq %{bookTitle} avammut tuniuk"
+            }
+        },
+        "ariaLabel": "atuakkamut %{bookTitle}-mut tunngasut allattorsimaffiat ammaruk"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} quppernerit",
+            "one": "%{count} qupperneq"
+        },
+        "ariaLabel": {
+            "other": "%{count} quppernerit",
+            "one": "%{count} qupperneq"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "atuagaq %{bookTitle} toqqarlugu",
+        "selected": "atuakkamik %{bookTitle}-mik toqqaanissaq unitsiguk"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} atuartut",
+            "one": "%{count} atuartoq"
+        },
+        "ariaLabel": {
+            "other": "atuakkiaq %{bookTitle} %{count} atuartoqarpoq",
+            "one": "atuakkiaq %{bookTitle} %{count} atuartoqarpoq"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "oqaluttuaq atuaruk: %{bookTitle}",
+        "selectionMode": "%{bookTitle} atuakkiaq"
+    }
+}

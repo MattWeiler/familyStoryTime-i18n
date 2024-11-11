@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "e-post støttes ikke",
+        "submissionFailed": "feilsending mislyktes",
+        "submissionSuccess": "feil sendt"
+    },
+    "submitButton": {
+        "text": "Send inn feil",
+        "ariaLabel": "send inn feilen"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Legg til boken(e) som kan være årsaken til problemet.",
+            "label": "Bøker å legge ved"
+        },
+        "loadFailed": "lasting av bøker mislyktes",
+        "noBooksInstalled": "ingen bøker installert",
+        "picker": {
+            "header": "Velg bok(er)",
+            "ariaLabel": "velg hvilke bøker som skal knyttes til feiltilbakemeldingen"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "gjøre endringer i bøkene som er vedlagt feiltilbakemeldingen din"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Vennligst oppgi noen detaljer om feilen.",
+        "description": "Oppgi detaljer om feilen.",
+        "label": "Feildetaljer",
+        "ariaLabel": "beskrivelse av feilen"
+    }
+}

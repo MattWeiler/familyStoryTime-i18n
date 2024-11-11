@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "taisbeanadh fiosrachadh stòr an leabhair"},
+        "hideSource": {"ariaLabel": "cuir am falach fiosrachadh stòr an leabhair"}
+    },
+    "sourceUrl": {
+        "label": "faic stòr leabhar",
+        "ariaLabel": "URL stòr leabhraichean fosgailte"
+    },
+    "sourceIllustrator": {"label": "Dealbhadair:"},
+    "sourceAuthor": {"label": "Ùghdar:"},
+    "sourcePublisher": {"label": "Foillsichear:"},
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "fosgail ISBN lorg an leabhar ISBN"
+    }
+}

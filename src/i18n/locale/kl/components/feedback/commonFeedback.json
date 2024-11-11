@@ -1,0 +1,13 @@
+{
+    "nameInput": {
+        "label": "Ateq",
+        "placeholder": "Johannes Doe",
+        "ariaLabel": "toqqarneqarsinnaavoq, aqqit"
+    },
+    "emailInput": {
+        "description": "Neqeroorutigiuk uagutsinnit tusagaqarusukkuit.",
+        "label": "Email-imik allaffissaq",
+        "placeholder": "ilaat@gmail.com",
+        "ariaLabel": "toqqarneqarsinnaavoq, emailikkut adressi"
+    }
+}

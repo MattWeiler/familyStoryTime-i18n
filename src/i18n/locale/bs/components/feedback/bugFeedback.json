@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "slanje e-pošte nije podržano",
+        "submissionFailed": "slanje greške nije uspjelo",
+        "submissionSuccess": "bug poslat"
+    },
+    "submitButton": {
+        "text": "Pošalji grešku",
+        "ariaLabel": "pošaljite grešku"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Dodajte knjigu(e) koja može uzrokovati problem.",
+            "label": "Knjige za prilaganje"
+        },
+        "loadFailed": "učitavanje knjiga nije uspjelo",
+        "noBooksInstalled": "nema instaliranih knjiga",
+        "picker": {
+            "header": "Odaberite knjigu(e)",
+            "ariaLabel": "odaberite koje knjige treba priložiti povratnim informacijama o greškama"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "izvršite izmjene u knjigama priloženim vašim povratnim informacijama o greškama"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Molimo navedite neke detalje o grešci.",
+        "description": "Navedite detalje o grešci.",
+        "label": "Detalji o grešci",
+        "ariaLabel": "opis greške"
+    }
+}

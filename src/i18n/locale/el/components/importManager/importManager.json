@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "η εισαγωγή εκτελείται ήδη, δοκιμάστε ξανά αργότερα",
+        "download": {"failed": "απέτυχε η λήψη του \"%{bookName}\"."},
+        "install": {
+            "failed": "απέτυχε η εισαγωγή του \"%{bookName}\"",
+            "successful": "εισήχθη με επιτυχία το \"%{bookName}\""
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Ματαίωση",
+            "ariaLabel": "ακυρώστε την εισαγωγή"
+        },
+        "install": {
+            "textLabel": "Εγκαθιστώ",
+            "ariaLabel": "εγκατάσταση επιλεγμένων βιβλίων: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "αναλύοντας...",
+        "downloading": "λήψη...",
+        "installing": "εγκατάσταση...",
+        "cancelling": "ακύρωση..."
+    },
+    "nothingToInstall": "Δεν υπάρχει τίποτα για εισαγωγή :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Αυτός ο αναγνώστης είναι ήδη μέρος του εγκατεστημένου βιβλίου.\n\n"},
+            "checkbox": {"ariaLabel": "για να συμπεριλάβετε τον αναγνώστη %{readerDisplayName} στην εισαγωγή"}
+        },
+        "checkbox": {"ariaLabel": "για να συμπεριλάβετε %{bookName} βιβλίο στην εισαγωγή"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Αυτό το βιβλίο βρίσκεται ήδη στη συσκευή σας.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Εάν επιλέξετε να αντικαταστήσετε, το τρέχον βιβλίο θα αντικατασταθεί με το νέο.\n\n"},
+                    "noReaders": {"label": "Αυτό το βιβλίο βρίσκεται ήδη στη συσκευή σας.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Αυτό το αρχείο περιέχει μόνο ήχο και το βιβλίο δεν είναι εγκατεστημένο στη συσκευή σας.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Αυτό το βιβλίο δεν υπάρχει στη συσκευή σας.\n\n"},
+                    "noReaders": {"label": "Αυτό το βιβλίο δεν υπάρχει στη συσκευή σας.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "συγχώνευση",
+                    "ariaLabel": "συγχωνεύστε το βιβλίο %{bookName} προσθέτοντας νέους αναγνώστες και αντικαθιστώντας τους υπάρχοντες αναγνώστες με νέους αναγνώστες"
+                },
+                "overwrite": {
+                    "label": "αντικατάσταση",
+                    "ariaLabel": "αντικατάσταση υπάρχοντος βιβλίου %{bookName}"
+                }
+            },
+            "ariaLabel": "επιλέξτε ποια στρατηγική εισαγωγής θα χρησιμοποιήσετε για το βιβλίο %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "μην ακυρώσετε την εισαγωγή"},
+            "yes": {"ariaLabel": "ακυρώστε την εισαγωγή"}
+        },
+        "title": "Επιβεβαιώστε την Ακύρωση εισαγωγής",
+        "message": "Είστε βέβαιοι ότι θέλετε να ακυρώσετε την εισαγωγή;"
+    }},
+    "titles": {
+        "booksToInstall": "Βιβλία προς εγκατάσταση",
+        "failedToInstall": "Η εγκατάσταση των Βιβλίων απέτυχε"
+    }
+}

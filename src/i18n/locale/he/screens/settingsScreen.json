@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "פעולה זו תמחק את כל הספרים המותקנים במכשיר זה.\n\n",
+        "button": {
+            "label": "לִמְחוֹק",
+            "title": "למחוק את כל הספרים",
+            "ariaLabel": "למחוק את כל הספרים"
+        },
+        "displayName": "מחק את כל הספרים",
+        "processingMessage": "מוחק...",
+        "shortDescription": {
+            "disabled": "מחק את כל הספרים שלך, אבל כרגע אין לך ספרים מותקנים.",
+            "enabled": "מחק את כל הספרים שלך."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} WeilerHaus",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "מצננים",
+                "someFontsBy": "גופנים מאת:"
+            },
+            "label": "תודה מיוחדת",
+            "icons": {
+                "ionicIcons": "IonIcons",
+                "someIconsBy": "סמלים מאת:",
+                "icons8": "אייקונים8",
+                "iconArchive": "ארכיון אייקונים"
+            }
+        },
+        "version": "גרסה: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "עורך תמונות זה ישמש כאשר מצלמים תמונות חדשות של ספר או עריכת תמונת ספר קיימת.",
+        "displayName": "עורך תמונות",
+        "testLabel": "עורך תמונה לבדיקה",
+        "testImage": {"accessibleImageDisplayName": "תמונת עורך תמונה לבדיקה"},
+        "options": {
+            "advanced": {
+                "label": "מִתקַדֵם",
+                "ariaLabel": "השתמש בעורך התמונות המתקדם"
+            },
+            "simple": {
+                "label": "פָּשׁוּט",
+                "ariaLabel": "השתמש בעורך תמונות פשוט"
+            }
+        },
+        "shortDescription": "בחר באיזה עורך תמונות יש להשתמש.",
+        "ariaLabel": "בחר באיזה עורך תמונות יש להשתמש"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "קול זה ישמש כאשר הקורא \"AI Reader\" קורא ספרים.",
+        "displayName": "קול מועדף",
+        "selectorButton": {
+            "defaultLabel": "בְּרִירַת מֶחדָל",
+            "ariaLabel": "בחר קול \"קורא AI\"."
+        },
+        "shortDescription": "בחר את הקול שישמש את \"קורא AI\".",
+        "picker": {
+            "default": "בְּרִירַת מֶחדָל",
+            "networkActionIcon": {"ariaLabel": "להראות קולות מקומיים ומבוססים ברשת"},
+            "label": "קולות קורא בינה מלאכותית",
+            "ariaLabel": "בחר קול \"קורא AI\".",
+            "globalActionIcon": {"ariaLabel": "הצג את כל השפות"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "אודיו ווידאו",
+        "ariaLabel": {
+            "expanded": "לכווץ את קטע בחירת הווידאו האודיו",
+            "collapsed": "הרחב את קטע בחירת הווידאו האודיו"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "איכות תמונה זו תשמש בעת צילום תמונות עם מצלמות המכשיר.",
+        "slider": {
+            "highLabel": "גָבוֹהַ",
+            "ariaLabel": "איכות תמונה של תמונות",
+            "lowLabel": "נָמוּך"
+        },
+        "displayName": "איכות המצלמה %{value}%",
+        "testLabel": "בדיקת מצלמה",
+        "testImage": {"accessibleImageDisplayName": "בדוק את איכות המצלמה"},
+        "shortDescription": "בחר את איכות התמונה של תמונות שצולמו עם המצלמה."
+    },
+    "title": "הגדרות",
+    "confirmations": {"deleteAllBooks": {
+        "title": "אישור מחיקה",
+        "message": "האם אתה בטוח שברצונך למחוק את כל הספרים המותקנים?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "זה יכול להיות שימושי בעת מעבר למכשיר חדש או הוספת הספרים שלך למספר מכשירים.",
+        "button": {
+            "label": "יְצוּא",
+            "title": "לייצא את כל הספרים",
+            "ariaLabel": "לייצא את כל הספרים"
+        },
+        "displayName": "ייצא את כל הספרים",
+        "shortDescription": {
+            "disabled": "ייצא את כל הספרים שלך לקובץ בודד ושמור/שתף אותו, אך אין לך כרגע ספרים מותקנים.",
+            "enabled": "ייצא את כל הספרים שלך לקובץ בודד ושמור/שתף אותו."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "המחיקה נכשלה",
+        "success": {
+            "other": "נמחקו %{count} ספרים",
+            "one": "מחק ספר 1"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "קורא AI",
+        "testLabel": "בדיקת קול",
+        "testAriaLabel": {
+            "stopped": "בדוק את קול \"AI Reader\".",
+            "playing": "להפסיק את מבחן הקול \"AI Reader\"."
+        },
+        "testPhrase": "שלום, אשמח לקרוא איתך את הסיפורים האהובים עליך.",
+        "description": "כאשר מופעל, \"קורא AI\" יהיה זמין כקורא בעת הפעלת ספרים.",
+        "ariaLabel": {
+            "expanded": "לכווץ את קטע הבחירה \"AI Reader\".",
+            "collapsed": "הרחב את קטע הבחירה של \"קורא AI\".",
+            "disabled": "\"קורא AI\" מושבת",
+            "enabled": "\"קורא AI\" מופעל"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "זה מציין את גובה הקול המשמש כאשר קורא \"AI Reader\" קורא ספרים.",
+        "slider": {
+            "highLabel": "גָבוֹהַ",
+            "ariaLabel": "גובה הקול של \"קורא AI\"",
+            "lowLabel": "נָמוּך"
+        },
+        "displayName": "גובה קול %{value}%",
+        "shortDescription": "בחר את גובה הקול שישמש את \"קורא AI\"."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "איכות שמע זו תשמש בעת הקלטה עם מיקרופון המכשיר.",
+        "displayName": "איכות מיקרופון",
+        "testLabel": "בדיקת מיקרופון",
+        "options": {
+            "high": {
+                "label": "גָבוֹהַ",
+                "ariaLabel": "להשתמש באיכות שמע גבוהה"
+            },
+            "low": {
+                "label": "נָמוּך",
+                "ariaLabel": "השתמש באיכות שמע נמוכה"
+            }
+        },
+        "shortDescription": "בחר את איכות השמע של הקלטות שצולמו עם המיקרופון.",
+        "ariaLabel": "בחר את איכות השמע של הקלטות שצולמו עם המיקרופון",
+        "testAudioSelector": {"accessibleAudioDisplayName": "לבדוק את איכות המיקרופון"}
+    },
+    "subtitle": "עדכן את הגדרות האפליקציה שלך כאן.",
+    "themeSelection": {
+        "longDescription": "אם נבחר עיצוב כאן, הוא יעקוף את כל הגדרות הנושא של המכשיר.",
+        "displayName": "בחירת נושא",
+        "options": {
+            "default": {
+                "label": "מַעֲרֶכֶת",
+                "ariaLabel": "השתמש בערכת הנושא המוגדרת על ידי המערכת"
+            },
+            "light": {
+                "label": "אוֹר",
+                "ariaLabel": "השתמש בנושא האור"
+            },
+            "dark": {
+                "label": "כֵּהֶה",
+                "ariaLabel": "השתמש בנושא האפל"
+            }
+        },
+        "shortDescription": "בחר את ערכת הנושא שאמורה לשמש את האפליקציה.",
+        "ariaLabel": "בחר את ערכת הנושא שאמורה לשמש את האפליקציה"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "זה מציין את קצב הקול בשימוש כאשר קורא \"AI Reader\" קורא ספרים.",
+        "slider": {
+            "highLabel": "מָהִיר",
+            "ariaLabel": "קצב דיבור של \"קורא AI\"",
+            "lowLabel": "לְהַאֵט"
+        },
+        "displayName": "קצב דיבור %{value}%",
+        "shortDescription": "בחר את קצב הקול שישמש את \"קורא AI\"."
+    },
+    "parentalLocking": {
+        "longDescription": "כאשר מופעל, הנתונים הביומטריים של בעלי המכשיר נדרשים כדי לפתוח תכונות מתקדמות באפליקציה.",
+        "displayName": "נעילת הורים",
+        "shortDescription": "נעילת הורים יכולה להיות שימושית כאשר ילדים משתמשים באפליקציה.",
+        "ariaLabel": {
+            "disabled": "נעילת הורים מושבתת",
+            "enabled": "נעילת הורים מופעלת"
+        }
+    }
+}

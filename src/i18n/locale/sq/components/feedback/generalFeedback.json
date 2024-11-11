@@ -1,0 +1,156 @@
+{
+    "toasts": {
+        "emailNotSupported": "dërgimi me email nuk mbështetet",
+        "submissionFailed": "dërgimi i komenteve dështoi",
+        "submissionSuccess": "komentet e dërguara"
+    },
+    "likelyToShareInput": {
+        "errorMessage": "Ju lutemi zgjidhni një nivel kënaqësie.",
+        "description": "Sa gjasa keni për të ndarë aplikacionin tonë?",
+        "label": "Ndarja me të tjerët",
+        "levels": {
+            "1": {
+                "displayName": "Në asnjë mënyrë",
+                "ariaLabel": "asnjë mënyrë"
+            },
+            "2": {
+                "displayName": "Nuk ka gjasa",
+                "ariaLabel": "nuk ka gjasa"
+            },
+            "3": {
+                "displayName": "Ndoshta",
+                "ariaLabel": "ndoshta"
+            },
+            "4": {
+                "displayName": "po",
+                "ariaLabel": "po"
+            },
+            "5": {
+                "displayName": "Tashmë Kanë",
+                "ariaLabel": "tashmë kanë"
+            }
+        },
+        "ariaLabel": "zgjidhni sa gjasa keni ta ndani këtë aplikacion celular me të tjerët"
+    },
+    "submitButton": {
+        "text": "Paraqisni komente",
+        "ariaLabel": "dërgoni komentet tuaja"
+    },
+    "satisfactionInput": {
+        "errorMessage": "Ju lutemi zgjidhni një nivel kënaqësie.",
+        "description": "Sa ju ka pëlqyer/nuk ju ka pëlqyer aplikacioni ynë?",
+        "label": "Kënaqësia e aplikacionit",
+        "levels": {
+            "1": {
+                "displayName": "E urrej",
+                "ariaLabel": "e urrej"
+            },
+            "2": {
+                "displayName": "I zhgënjyer",
+                "ariaLabel": "i zhgënjyer"
+            },
+            "3": {
+                "displayName": "Neutral",
+                "ariaLabel": "neutrale"
+            },
+            "4": {
+                "displayName": "E madhe",
+                "ariaLabel": "i madh"
+            },
+            "5": {
+                "displayName": "Love It",
+                "ariaLabel": "e dua atë"
+            }
+        },
+        "ariaLabel": "zgjidhni nivelin tuaj të kënaqësisë me këtë aplikacion celular"
+    },
+    "commentInput": {
+        "description": "Mundësisht jepni çdo koment shtesë që keni.",
+        "label": "Komentoni",
+        "ariaLabel": "opsionale, komente shtesë"
+    },
+    "playingBooksInput": {
+        "errorMessage": "Ju lutemi zgjidhni një nivel kënaqësie.",
+        "description": "Si e gjetët duke luajtur libra?",
+        "label": "Duke luajtur libra",
+        "levels": {
+            "1": {
+                "displayName": "Nuk Punoi",
+                "ariaLabel": "nuk funksionoi"
+            },
+            "2": {
+                "displayName": "Jo i madh",
+                "ariaLabel": "jo e madhe"
+            },
+            "3": {
+                "displayName": "Është në rregull",
+                "ariaLabel": "eshte ne rregull"
+            },
+            "4": {
+                "displayName": "Është e lehtë",
+                "ariaLabel": "eshte e lehte"
+            },
+            "5": {
+                "displayName": "Love It",
+                "ariaLabel": "e dua atë"
+            }
+        },
+        "ariaLabel": "zgjidhni kënaqësinë tuaj me riprodhimin e librit"
+    },
+    "multipleReadersInput": {
+        "errorMessage": "Ju lutemi zgjidhni një nivel kënaqësie.",
+        "description": "Si ju pëlqeu të kishit shumë lexues?",
+        "label": "Lexues të shumtë",
+        "levels": {
+            "1": {
+                "displayName": "Nuk Punoi",
+                "ariaLabel": "nuk funksionoi"
+            },
+            "2": {
+                "displayName": "Jo i madh",
+                "ariaLabel": "jo e madhe"
+            },
+            "3": {
+                "displayName": "Është në rregull",
+                "ariaLabel": "eshte ne rregull"
+            },
+            "4": {
+                "displayName": "Është e lehtë",
+                "ariaLabel": "eshte e lehte"
+            },
+            "5": {
+                "displayName": "Love It",
+                "ariaLabel": "e dua atë"
+            }
+        },
+        "ariaLabel": "zgjidhni kënaqësinë tuaj me të pasurit e shumë lexuesve për libër"
+    },
+    "creatingBooksInput": {
+        "errorMessage": "Ju lutemi zgjidhni një nivel kënaqësie.",
+        "description": "Si e gjetët krijimin e librave?",
+        "label": "Krijimi i librave",
+        "levels": {
+            "1": {
+                "displayName": "Nuk Punoi",
+                "ariaLabel": "nuk funksionoi"
+            },
+            "2": {
+                "displayName": "Jo i madh",
+                "ariaLabel": "jo e madhe"
+            },
+            "3": {
+                "displayName": "Është në rregull",
+                "ariaLabel": "eshte ne rregull"
+            },
+            "4": {
+                "displayName": "Është e lehtë",
+                "ariaLabel": "eshte e lehte"
+            },
+            "5": {
+                "displayName": "Love It",
+                "ariaLabel": "e dua atë"
+            }
+        },
+        "ariaLabel": "zgjidhni kënaqësinë tuaj me procesin e krijimit të librit"
+    }
+}

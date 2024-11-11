@@ -1,0 +1,17 @@
+{
+    "summary": "V naši knjigarni najdete knjige v javni domeni.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Izberete lahko, katero od razpoložljivih knjig želite prenesti.",
+            "2": "S tem boste na svojo napravo namestili knjige, kar vam bo omogočilo predvajanje in celo dodajanje lastnih bralnikov."
+        },
+        "title": "Namestitev knjig"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Ogledate si lahko tudi, katere knjige ste že namestili iz naše knjigarne.",
+            "2": "Tukaj lahko izbrišete predhodno nameščene knjige ali preverite, ali so na voljo posodobitve."
+        },
+        "title": "Upravljanje knjig"
+    }
+}

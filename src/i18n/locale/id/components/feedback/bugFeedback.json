@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "mengirim email tidak didukung",
+        "submissionFailed": "pengiriman bug gagal",
+        "submissionSuccess": "bug terkirim"
+    },
+    "submitButton": {
+        "text": "Kirim Bug",
+        "ariaLabel": "kirimkan bugnya"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Tambahkan buku yang mungkin menyebabkan masalah.",
+            "label": "Buku untuk Dilampirkan"
+        },
+        "loadFailed": "pemuatan buku gagal",
+        "noBooksInstalled": "tidak ada buku yang dipasang",
+        "picker": {
+            "header": "Pilih Buku",
+            "ariaLabel": "pilih buku mana yang harus dilampirkan pada umpan balik bug"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "buat perubahan pada buku yang dilampirkan pada umpan balik bug Anda"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Harap berikan beberapa detail tentang bug tersebut.",
+        "description": "Berikan detail tentang bug tersebut.",
+        "label": "Detail Bug",
+        "ariaLabel": "deskripsi bugnya"
+    }
+}

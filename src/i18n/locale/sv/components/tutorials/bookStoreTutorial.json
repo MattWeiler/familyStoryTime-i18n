@@ -1,0 +1,17 @@
+{
+    "summary": "Du kan hitta böcker som är allmän egendom i vår bokhandel.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Du kan välja vilken av de tillgängliga böckerna du vill ladda ner.",
+            "2": "Om du gör det installerar du boken/böckerna på din enhet, så att du kan spela upp dem och till och med lägga till dina egna läsare."
+        },
+        "title": "Installera böcker"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Du kan också se vilka böcker du redan har installerat från vår bokhandel.",
+            "2": "Härifrån kan du ta bort tidigare installerade böcker eller leta efter tillgängliga uppdateringar."
+        },
+        "title": "Hantera böcker"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "Velge",
+                "ariaLabel": "velg boken %{bookTitle}"
+            },
+            "edit": {
+                "title": "Redigere",
+                "ariaLabel": "rediger boken %{bookTitle}"
+            },
+            "delete": {
+                "title": "Slett",
+                "ariaLabel": "slett boken %{bookTitle}"
+            },
+            "export": {
+                "title": "Eksport",
+                "ariaLabel": "eksporter boken %{bookTitle}"
+            }
+        },
+        "ariaLabel": "åpne kontekstmenyen for boken %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} sider",
+            "one": "%{count} side"
+        },
+        "ariaLabel": {
+            "other": "%{count} sider",
+            "one": "%{count} side"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "velg %{bookTitle}-boken",
+        "selected": "fjern merket for %{bookTitle}-boken"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} lesere",
+            "one": "%{count} leser"
+        },
+        "ariaLabel": {
+            "other": "boken %{bookTitle} har %{count} lesere",
+            "one": "boken %{bookTitle} har %{count} leser"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "les historien: %{bookTitle}",
+        "selectionMode": "%{bookTitle} bok"
+    }
+}

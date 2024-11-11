@@ -1,0 +1,24 @@
+{
+    "summary": "Možete reproducirati knjige koje ste instalirali na svoj uređaj.",
+    "splashScreen": {
+        "messages": {
+            "1": "Na početnom zaslonu možete odabrati kako želite da se knjiga reproducira i odabrati koji čitatelj treba čitati knjigu, ako je primjenjivo.",
+            "2": "Ako su knjizi dodani čitači, moći ćete birati između načina rada \"Auto Play\", \"Read To Me\" i \"Read It Myself\".",
+            "3": "Način \"Auto Play\" omogućit će odabranom čitatelju da pročita knjigu, a stranice će se automatski mijenjati.",
+            "4": "Način rada \"Čitaj mi\" omogućit će odabranom čitatelju da pročita knjigu, ali će se stranice morati mijenjati ručno. ",
+            "5": "Način rada \"Pročitaj sam\" omogućit će vam da sami pročitate knjigu.",
+            "6": "Ako knjiga sadrži informacije o izvoru, pojavit će se ikona koja će kada se klikne prikazati te informacije o izvoru. "
+        },
+        "title": "Početni zaslon"
+    },
+    "player": {
+        "messages": {
+            "1": "Prilikom reprodukcije knjige prikazat će se gumbi za navigaciju koji će vam omogućiti pauziranje/reprodukciju zvuka čitača kao i navigaciju između stranica.",
+            "2": "Navigacijski gumbi mogu se sakriti/prikazati jednim pritiskom na sliku.",
+            "3": "Neke se geste također mogu koristiti za navigaciju.",
+            "4": "Povlačenjem lijevo/desno prelazite između stranica.",
+            "5": "Dvostruki dodir ili štipanje će povećati/smanjiti. "
+        },
+        "title": "Book Player"
+    }
+}

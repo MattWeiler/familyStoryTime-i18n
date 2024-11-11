@@ -1,0 +1,195 @@
+{
+    "deleteAllBooks": {
+        "longDescription": "S tem boste izbrisali vse knjige, nameščene v tej napravi.\n\n",
+        "button": {
+            "label": "Izbriši",
+            "title": "izbriši vse knjige",
+            "ariaLabel": "izbriši vse knjige"
+        },
+        "displayName": "Izbriši vse knjige",
+        "processingMessage": "brisanje ...",
+        "shortDescription": {
+            "disabled": "Izbrišite vse svoje knjige, vendar trenutno nimate nameščene nobene knjige.",
+            "enabled": "Izbrišite vse svoje knjige."
+        }
+    },
+    "footer": {
+        "copyright": "%{year} WeilerHaus",
+        "specialThanks": {
+            "fonts": {
+                "coolors": "Coolors",
+                "someFontsBy": "Avtor pisave:"
+            },
+            "label": "Posebna hvala",
+            "icons": {
+                "ionicIcons": "IonIkone",
+                "someIconsBy": "Avtor ikon:",
+                "icons8": "Ikone8",
+                "iconArchive": "Arhiv ikon"
+            }
+        },
+        "version": "Različica: %{versionNumber}"
+    },
+    "imageEditor": {
+        "longDescription": "Ta urejevalnik slik bo uporabljen pri snemanju novih slik knjige ali urejanju obstoječe slike knjige.",
+        "displayName": "Urejevalnik slik",
+        "testLabel": "Preizkusite urejevalnik slik",
+        "testImage": {"accessibleImageDisplayName": "preizkusna slika urejevalnika slik"},
+        "options": {
+            "advanced": {
+                "label": "Napredno",
+                "ariaLabel": "uporabite napredni urejevalnik slik"
+            },
+            "simple": {
+                "label": "Enostavno",
+                "ariaLabel": "uporabite preprost urejevalnik slik"
+            }
+        },
+        "shortDescription": "Izberite, kateri urejevalnik slik želite uporabiti.",
+        "ariaLabel": "izberite urejevalnik slik, ki ga želite uporabiti"
+    },
+    "textToSpeechPreferredVoice": {
+        "longDescription": "Ta glas bo uporabljen, ko bo bralnik \"AI Reader\" bral knjige.",
+        "displayName": "Prednostni glas",
+        "selectorButton": {
+            "defaultLabel": "privzeto",
+            "ariaLabel": "izberite glas \"AI Reader\"."
+        },
+        "shortDescription": "Izberite glas, ki ga bo uporabljal \"AI Reader\".",
+        "picker": {
+            "default": "privzeto",
+            "networkActionIcon": {"ariaLabel": "prikaz lokalnih in omrežnih glasov"},
+            "label": "AI Reader Voices",
+            "ariaLabel": "izberite glas \"AI Reader\".",
+            "globalActionIcon": {"ariaLabel": "pokaži vse jezike"}
+        }
+    },
+    "audioVideoSelection": {
+        "displayName": "Avdio in video",
+        "ariaLabel": {
+            "expanded": "strni razdelek za izbiro zvoka in videa",
+            "collapsed": "razširite razdelek za izbiro avdio video"
+        }
+    },
+    "cameraImageQuality": {
+        "longDescription": "Ta kakovost slike bo uporabljena pri fotografiranju s kamero(-ami) naprave.",
+        "slider": {
+            "highLabel": "visoko",
+            "ariaLabel": "kakovost slike slik",
+            "lowLabel": "Nizka"
+        },
+        "displayName": "Kakovost kamere %{value} %",
+        "testLabel": "Testna kamera",
+        "testImage": {"accessibleImageDisplayName": "preizkusite kakovost slike kamere"},
+        "shortDescription": "Izberite kakovost slik, posnetih s fotoaparatom."
+    },
+    "title": "nastavitve",
+    "confirmations": {"deleteAllBooks": {
+        "title": "Potrditev izbrisa",
+        "message": "Ali ste prepričani, da želite izbrisati vse nameščene knjige?"
+    }},
+    "exportAllBooks": {
+        "longDescription": "To je lahko koristno pri selitvi na novo napravo ali dodajanju knjig v več naprav.",
+        "button": {
+            "label": "Izvozi",
+            "title": "izvozi vse knjige",
+            "ariaLabel": "izvozi vse knjige"
+        },
+        "displayName": "Izvozi vse knjige",
+        "shortDescription": {
+            "disabled": "Izvozite vse svoje knjige v eno datoteko in jo shranite/dajte v skupno rabo, vendar trenutno nimate nameščene nobene knjige.",
+            "enabled": "Izvozite vse svoje knjige v eno datoteko in jo shranite/delite z drugimi."
+        }
+    },
+    "toasts": {"deleteAllBooks": {
+        "failure": "brisanje ni uspelo",
+        "success": {
+            "other": "izbrisal %{count} knjig",
+            "one": "izbrisal 1 knjigo"
+        }
+    }},
+    "textToSpeechEnabled": {
+        "displayName": "AI Reader",
+        "testLabel": "Preizkusi glas",
+        "testAriaLabel": {
+            "stopped": "preizkusite glas \"AI Reader\".",
+            "playing": "ustavite glasovni test \"AI Reader\"."
+        },
+        "testPhrase": "Pozdravljeni, rad bi s tabo bral tvoje najljubše zgodbe.",
+        "description": "Ko je omogočen, bo »AI Reader« na voljo kot bralnik pri predvajanju knjig.",
+        "ariaLabel": {
+            "expanded": "strni izbirni razdelek »AI Reader«.",
+            "collapsed": "razširite izbirni razdelek »AI Reader«.",
+            "disabled": "»AI Reader« je onemogočen",
+            "enabled": "»AI Reader« je omogočen"
+        }
+    },
+    "textToSpeechVoicePitch": {
+        "longDescription": "To označuje višino glasu, ki se uporablja, ko bralnik »AI Reader« bere knjige.",
+        "slider": {
+            "highLabel": "visoko",
+            "ariaLabel": "višina glasu \"AI Reader\"",
+            "lowLabel": "Nizka"
+        },
+        "displayName": "Višina glasu %{value} %",
+        "shortDescription": "Izberite višino glasu, ki jo bo uporabljal \"AI Reader\"."
+    },
+    "microphoneAudioQuality": {
+        "longDescription": "Ta kakovost zvoka bo uporabljena pri snemanju z mikrofonom naprave.",
+        "displayName": "Kakovost mikrofona",
+        "testLabel": "Preskusni mikrofon",
+        "options": {
+            "high": {
+                "label": "visoko",
+                "ariaLabel": "uporabite visoko kakovost zvoka"
+            },
+            "low": {
+                "label": "Nizka",
+                "ariaLabel": "uporabite nizko kakovost zvoka"
+            }
+        },
+        "shortDescription": "Izberite kakovost zvoka posnetkov, posnetih z mikrofonom.",
+        "ariaLabel": "izberite kakovost zvoka posnetkov, posnetih z mikrofonom",
+        "testAudioSelector": {"accessibleAudioDisplayName": "preizkusite kakovost mikrofona"}
+    },
+    "subtitle": "Tukaj posodobite nastavitve aplikacije.",
+    "themeSelection": {
+        "longDescription": "Če je tukaj izbrana tema, bo preglasila vse nastavitve teme naprave, ki jih imate.",
+        "displayName": "Izbira teme",
+        "options": {
+            "default": {
+                "label": "Sistem",
+                "ariaLabel": "uporabite sistemsko določeno temo"
+            },
+            "light": {
+                "label": "Svetloba",
+                "ariaLabel": "uporabite svetlo temo"
+            },
+            "dark": {
+                "label": "Temno",
+                "ariaLabel": "uporabite temno temo"
+            }
+        },
+        "shortDescription": "Izberite temo, ki naj jo uporablja aplikacija.",
+        "ariaLabel": "izberite temo, ki naj jo uporablja aplikacija"
+    },
+    "textToSpeechSpeechRate": {
+        "longDescription": "To označuje hitrost glasu, ki se uporablja, ko bralnik \"AI Reader\" bere knjige.",
+        "slider": {
+            "highLabel": "hitro",
+            "ariaLabel": "hitrost govora \"AI Reader\"",
+            "lowLabel": "počasi"
+        },
+        "displayName": "Hitrost govora %{value} %",
+        "shortDescription": "Izberite hitrost glasu, ki jo bo uporabljal \"AI Reader\"."
+    },
+    "parentalLocking": {
+        "longDescription": "Ko je omogočeno, so za odklepanje naprednih funkcij v aplikaciji potrebni biometrični podatki lastnika naprave.",
+        "displayName": "Starševsko zaklepanje",
+        "shortDescription": "Starševsko zaklepanje je lahko koristno, ko aplikacijo uporabljajo otroci.",
+        "ariaLabel": {
+            "disabled": "starševsko zaklepanje je onemogočeno",
+            "enabled": "starševsko zaklepanje je omogočeno"
+        }
+    }
+}

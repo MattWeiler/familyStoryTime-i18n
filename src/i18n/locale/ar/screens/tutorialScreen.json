@@ -1,0 +1,20 @@
+{
+    "pages": {
+        "feedback": {"displayName": "إعطائنا ردود الفعل"},
+        "intro": {"displayName": "مقدمة"},
+        "createBooks": {"displayName": "إنشاء الكتب"},
+        "parentalLocking": {"displayName": "قفل الوالدين"},
+        "sharingBooks": {"displayName": "مشاركة الكتب"},
+        "bookPlayback": {"displayName": "لعب الكتب"},
+        "bookStore": {"displayName": "متجر الكتب"}
+    },
+    "pageSelectionButtons": {
+        "specificPageButton": {"ariaLabel": "عرض صفحة %{pageName}."},
+        "backPageButton": {"ariaLabel": "العودة 1 صفحة"},
+        "forwardPageButton": {"ariaLabel": "المضي قدما 1 صفحة"}
+    },
+    "startLink": {
+        "label": "ابدأ",
+        "ariaLabel": "انتقل إلى الصفحة الرئيسية"
+    }
+}

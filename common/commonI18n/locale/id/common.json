@@ -1,0 +1,25 @@
+{
+    "add": "Menambahkan",
+    "cancel": "Membatalkan",
+    "no": "TIDAK",
+    "verifying": "memverifikasi ...",
+    "set": "Mengatur",
+    "yes": "Ya",
+    "back": "Kembali",
+    "loading": "memuat ...",
+    "required": "diperlukan",
+    "acknowledgeError": "mengakui kesalahannya",
+    "saving": "menyimpan ...",
+    "settingsButton": {
+        "text": "Pengaturan",
+        "ariaLabel": "buka halaman pengaturan aplikasi"
+    },
+    "backButton": {
+        "label": "Kembali",
+        "title": "kembali ke halaman terakhir",
+        "ariaLabel": "kembali ke halaman terakhir"
+    },
+    "sending": "mengirim ...",
+    "create": "Membuat",
+    "ok": "Oke"
+}

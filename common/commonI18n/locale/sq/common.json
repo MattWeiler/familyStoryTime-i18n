@@ -1,0 +1,25 @@
+{
+    "add": "Shto",
+    "cancel": "Anulo",
+    "no": "Nr",
+    "verifying": "duke verifikuar...",
+    "set": "Set",
+    "yes": "po",
+    "back": "Mbrapa",
+    "loading": "duke u ngarkuar...",
+    "required": "kërkohet",
+    "acknowledgeError": "pranoni gabimin",
+    "saving": "duke kursyer...",
+    "settingsButton": {
+        "text": "Cilësimet",
+        "ariaLabel": "shkoni te faqja e cilësimeve të aplikacioneve"
+    },
+    "backButton": {
+        "label": "Mbrapa",
+        "title": "kthehu në faqen e fundit",
+        "ariaLabel": "kthehu në faqen e fundit"
+    },
+    "sending": "duke dërguar...",
+    "create": "Krijo",
+    "ok": "Ok"
+}

@@ -1,0 +1,8 @@
+{
+    "applicationSecurityButton": {"ariaLabel": {
+        "unlockParentMode": "բացել հավելվածը ծնողների օգտագործման համար",
+        "initParentMode": "միացնել ծնողական կողպումը",
+        "lockParentMode": "միացնել ծնողի կողպումը"
+    }},
+    "hamburgerButton": {"ariaLabel": "ցույց տալ համբուրգերի ճաշացանկը"}
+}

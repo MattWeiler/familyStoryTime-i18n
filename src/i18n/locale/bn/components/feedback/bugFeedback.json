@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "ইমেল সমর্থিত নয়",
+        "submissionFailed": "বাগ পাঠাতে ব্যর্থ হয়েছে",
+        "submissionSuccess": "বাগ পাঠানো হয়েছে"
+    },
+    "submitButton": {
+        "text": "বাগ জমা দিন",
+        "ariaLabel": "বাগ জমা দিন"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "সমস্যা সৃষ্টি করতে পারে এমন বই(গুলি) যোগ করুন।",
+            "label": "বই সংযুক্ত করতে"
+        },
+        "loadFailed": "বই লোড করা ব্যর্থ হয়েছে",
+        "noBooksInstalled": "কোন বই ইনস্টল করা হয় না",
+        "picker": {
+            "header": "বই (গুলি) নির্বাচন করুন",
+            "ariaLabel": "বাগ ফিডব্যাকের সাথে কোন বই সংযুক্ত করা উচিত তা নির্বাচন করুন"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "আপনার বাগ প্রতিক্রিয়া সংযুক্ত বই পরিবর্তন করুন"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "বাগ সম্পর্কে কিছু বিবরণ প্রদান করুন.",
+        "description": "বাগ সম্পর্কে বিস্তারিত প্রদান করুন.",
+        "label": "বাগ বিবরণ",
+        "ariaLabel": "বাগ বর্ণনা"
+    }
+}

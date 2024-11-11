@@ -1,0 +1,52 @@
+{
+    "contextMenu": {
+        "items": {
+            "select": {
+                "title": "নির্বাচন করুন",
+                "ariaLabel": "বইটি নির্বাচন করুন %{bookTitle}"
+            },
+            "edit": {
+                "title": "সম্পাদনা করুন",
+                "ariaLabel": "বইটি সম্পাদনা করুন %{bookTitle}"
+            },
+            "delete": {
+                "title": "মুছে দিন",
+                "ariaLabel": "বইটি মুছুন %{bookTitle}"
+            },
+            "export": {
+                "title": "রপ্তানি",
+                "ariaLabel": "বই রপ্তানি করুন %{bookTitle}"
+            }
+        },
+        "ariaLabel": "বইটির জন্য প্রসঙ্গ মেনু খুলুন %{bookTitle}"
+    },
+    "pageCountLabel": {
+        "text": {
+            "other": "%{count} পৃষ্ঠা",
+            "one": "%{count} পৃষ্ঠা"
+        },
+        "ariaLabel": {
+            "other": "%{count} পৃষ্ঠা",
+            "one": "%{count} পৃষ্ঠা"
+        }
+    },
+    "text": "%{bookTitle}",
+    "selectionDot": {"ariaLabel": {
+        "unselected": "%{bookTitle} বইটি নির্বাচন করুন",
+        "selected": "%{bookTitle} বইটি অনির্বাচন করুন"
+    }},
+    "readerCountLabel": {
+        "text": {
+            "other": "%{count} পাঠক",
+            "one": "%{count} পাঠক"
+        },
+        "ariaLabel": {
+            "other": "বইটির %{bookTitle} %{count} পাঠক আছে",
+            "one": "বইটির %{bookTitle} %{count} পাঠক আছে"
+        }
+    },
+    "ariaLabel": {
+        "regularMode": "গল্পটি পড়ুন: %{bookTitle}",
+        "selectionMode": "%{bookTitle} বই"
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "الاستيراد قيد التشغيل بالفعل، حاول مرة أخرى لاحقًا",
+        "download": {"failed": "فشل في تنزيل \"%{bookName}\"."},
+        "install": {
+            "failed": "فشل في استيراد \"%{bookName}\"",
+            "successful": "تم استيراد \"%{bookName}\" بنجاح"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "يلغي",
+            "ariaLabel": "إلغاء الاستيراد"
+        },
+        "install": {
+            "textLabel": "ثَبَّتَ",
+            "ariaLabel": "تثبيت الكتب المحددة: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "تحليل ...",
+        "downloading": "جاري التحميل ...",
+        "installing": "تثبيت ...",
+        "cancelling": "الإلغاء..."
+    },
+    "nothingToInstall": "لا يوجد شيء للاستيراد :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "هذا القارئ هو بالفعل جزء من الكتاب المثبت.\n\n"},
+            "checkbox": {"ariaLabel": "لتضمين القارئ %{readerDisplayName} في عملية الاستيراد"}
+        },
+        "checkbox": {"ariaLabel": "لتضمين كتاب %{bookName} في عملية الاستيراد"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "هذا الكتاب موجود بالفعل على جهازك.\n\n"},
+                "full": {
+                    "withReaders": {"label": "إذا اخترت الكتابة فوقه، فسيتم استبدال الكتاب الحالي بالكتاب الجديد.\n\n"},
+                    "noReaders": {"label": "هذا الكتاب موجود بالفعل على جهازك.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "يحتوي هذا الملف على صوت فقط، والكتاب غير مثبت على جهازك.\n\n"},
+                "full": {
+                    "withReaders": {"label": "هذا الكتاب ليس على جهازك.\n\n"},
+                    "noReaders": {"label": "هذا الكتاب ليس على جهازك.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "دمج",
+                    "ariaLabel": "دمج الكتاب %{bookName} عن طريق إضافة قراء جدد واستبدال القراء الحاليين بقراء جدد"
+                },
+                "overwrite": {
+                    "label": "الكتابة فوق",
+                    "ariaLabel": "استبدال الكتاب الموجود %{bookName}"
+                }
+            },
+            "ariaLabel": "حدد استراتيجية الاستيراد التي سيتم استخدامها للكتاب %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "لا تقم بإلغاء الاستيراد"},
+            "yes": {"ariaLabel": "إلغاء الاستيراد"}
+        },
+        "title": "تأكيد إلغاء الاستيراد",
+        "message": "هل أنت متأكد أنك تريد إلغاء الاستيراد؟"
+    }},
+    "titles": {
+        "booksToInstall": "كتب للتثبيت",
+        "failedToInstall": "فشل في تثبيت الكتب"
+    }
+}

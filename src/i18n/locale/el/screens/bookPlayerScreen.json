@@ -1,0 +1,4 @@
+{
+    "aiReader": {"displayName": "AI Reader"},
+    "errors": {"bookLoadFailure": "Δεν είναι δυνατή η φόρτωση του βιβλίου."}
+}

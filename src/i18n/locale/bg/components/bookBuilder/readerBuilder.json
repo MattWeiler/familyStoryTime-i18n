@@ -1,0 +1,54 @@
+{
+    "introAudio": {
+        "description": "Допълнителното аудио за възпроизвеждане преди четене на първата страница.",
+        "label": {
+            "withDisplayName": "Въвеждащото аудио на %{readerDisplayName}",
+            "noDisplayName": "Въвеждащо аудио"
+        },
+        "accessibleAudioDisplayName": {
+            "withDisplayName": "%{readerDisplayName} въведение в читателя",
+            "noDisplayName": "четец с идентификатор %{readerId} въведение"
+        }
+    },
+    "readerImage": {
+        "description": "Изображението за показване за този четец.",
+        "accessibleImageDisplayName": "изображение на читател %{readerDisplayName}"
+    },
+    "removeButton": {
+        "confirmation": {
+            "additionalMessage1": "Това ще премахне цялото аудио на страницата, записано за този четец.",
+            "additionalMessage2": "ТОВА НЕ МОЖЕ ДА СЕ ОТМЕНИ!",
+            "title": "Потвърждение за изтриване",
+            "message": {
+                "withDisplayName": "Сигурни ли сте, че искате да изтриете четеца \u201e%{readerDisplayName}\u201c?",
+                "noDisplayName": "Сигурни ли сте, че искате да изтриете този четец?"
+            }
+        },
+        "ariaLabel": {
+            "withDisplayName": "премахнете четеца %{readerDisplayName}",
+            "noDisplayName": "премахнете четеца с ID %{readerId}"
+        }
+    },
+    "label": "%{readerDisplayName}",
+    "changeDisplayNameButton": {
+        "confirmation": {
+            "inputAriaLabel": {
+                "withDisplayName": "показвано име за четеца",
+                "noDisplayName": "показвано име за четеца"
+            },
+            "title": {
+                "withDisplayName": "Актуализиране на показваното име",
+                "noDisplayName": "Задаване на показвано име"
+            },
+            "message": {
+                "withDisplayName": "На какво искате да промените показваното име на читателите?",
+                "noDisplayName": "Какво е екранното име за този четец?"
+            },
+            "inputPlaceholder": "име на читател"
+        },
+        "ariaLabel": {
+            "withDisplayName": "променете екранното име за четец %{readerDisplayName}",
+            "noDisplayName": "променете екранното име за четеца с ID %{readerId}"
+        }
+    }
+}

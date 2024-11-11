@@ -1,0 +1,17 @@
+{
+    "summary": "Kamu malı kitapları kitap mağazamızda bulabilirsiniz.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Mevcut kitaplardan hangisini indirmek istediğinizi seçebilirsiniz.",
+            "2": "Bunu yapmak kitap(lar)ı cihazınıza yükleyecek, onları oynatmanıza ve hatta kendi okuyucularınızı eklemenize olanak tanıyacaktır."
+        },
+        "title": "Kitapları Yükleme"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Ayrıca kitap mağazamızdan hangi kitapları yüklediğinizi de görüntüleyebilirsiniz.",
+            "2": "Buradan önceden yüklenmiş kitapları silebilir veya mevcut güncellemeleri kontrol edebilirsiniz."
+        },
+        "title": "Kitapları Yönetme"
+    }
+}

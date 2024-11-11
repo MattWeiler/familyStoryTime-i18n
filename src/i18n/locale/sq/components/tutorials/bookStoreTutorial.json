@@ -1,0 +1,17 @@
+{
+    "summary": "Ju mund të gjeni libra në domenin publik në dyqanin tonë të librave.",
+    "downloadingBook": {
+        "messages": {
+            "1": "Ju mund të zgjidhni cilin nga librat e disponueshëm dëshironi të shkarkoni.",
+            "2": "Duke vepruar kështu do të instaloni librin(ët) në pajisjen tuaj, duke ju lejuar t'i luani ato dhe madje të shtoni lexuesit tuaj."
+        },
+        "title": "Instalimi i librave"
+    },
+    "installedBook": {
+        "messages": {
+            "1": "Ju gjithashtu mund të shikoni se cilat libra keni instaluar tashmë nga dyqani ynë i librave.",
+            "2": "Nga këtu, mund të fshini librat e instaluar më parë ose të kontrolloni për përditësime të disponueshme."
+        },
+        "title": "Menaxhimi i Librave"
+    }
+}

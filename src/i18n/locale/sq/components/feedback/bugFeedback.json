@@ -1,0 +1,30 @@
+{
+    "toasts": {
+        "emailNotSupported": "dërgimi me email nuk mbështetet",
+        "submissionFailed": "dërgimi i gabimeve dështoi",
+        "submissionSuccess": "defekt i dërguar"
+    },
+    "submitButton": {
+        "text": "Paraqisni gabimin",
+        "ariaLabel": "dorëzoni gabimin"
+    },
+    "attachments": {
+        "attachmentList": {
+            "description": "Shtoni librat që mund të shkaktojnë problemin.",
+            "label": "Libra për të bashkëngjitur"
+        },
+        "loadFailed": "ngarkimi i librave dështoi",
+        "noBooksInstalled": "nuk ka libra të instaluar",
+        "picker": {
+            "header": "Zgjidh libri(ët)",
+            "ariaLabel": "zgjidhni cilët libra duhet t'i bashkëngjiten komenteve të gabimeve"
+        },
+        "modifyAttachmentsButton": {"ariaLabel": "bëni ndryshime në librat e bashkangjitur në komentet tuaja për defektet"}
+    },
+    "bugDetailsInput": {
+        "errorMessage": "Ju lutemi jepni disa detaje rreth defektit.",
+        "description": "Jepni detaje rreth defektit.",
+        "label": "Detajet e gabimeve",
+        "ariaLabel": "përshkrimi i defektit"
+    }
+}

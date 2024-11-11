@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "ներմուծումն արդեն աշխատում է, ավելի ուշ նորից փորձեք",
+        "download": {"failed": "չհաջողվեց ներբեռնել «%{bookName}»-ը:"},
+        "install": {
+            "failed": "չհաջողվեց ներմուծել «%{bookName}»-ը",
+            "successful": "հաջողությամբ ներմուծվել է «%{bookName}»"
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Չեղարկել",
+            "ariaLabel": "չեղարկել ներմուծումը"
+        },
+        "install": {
+            "textLabel": "Տեղադրեք",
+            "ariaLabel": "տեղադրեք ընտրված գրքերը՝ %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "վերլուծելով...",
+        "downloading": "ներբեռնում...",
+        "installing": "տեղադրում...",
+        "cancelling": "չեղարկում..."
+    },
+    "nothingToInstall": "Ներմուծելու բան չկա :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Այս ընթերցողն արդեն տեղադրված գրքի մի մասն է:\n\n"},
+            "checkbox": {"ariaLabel": "ներմուծման մեջ ներառել %{readerDisplayName} ընթերցողը"}
+        },
+        "checkbox": {"ariaLabel": "ներմուծման մեջ ներառել %{bookName} գիրք"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Այս գիրքն արդեն ձեր սարքում է:\n\n"},
+                "full": {
+                    "withReaders": {"label": "Եթե \u200b\u200bընտրեք վերագրանցել, ներկայիս գիրքը կփոխարինվի նորով:\n\n"},
+                    "noReaders": {"label": "Այս գիրքն արդեն ձեր սարքում է:\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "Այս ֆայլը պարունակում է միայն աուդիո, և գիրքը տեղադրված չէ ձեր սարքում:\n\n"},
+                "full": {
+                    "withReaders": {"label": "Այս գիրքը ձեր սարքում չէ:\n\n"},
+                    "noReaders": {"label": "Այս գիրքը ձեր սարքում չէ:\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "միաձուլվել",
+                    "ariaLabel": "միավորել գիրքը %{bookName}՝ ավելացնելով նոր ընթերցողներ և վերագրանցելով առկա ընթերցողներին նոր ընթերցողների հետ"
+                },
+                "overwrite": {
+                    "label": "վերագրել",
+                    "ariaLabel": "վերագրանցել գոյություն ունեցող գիրքը %{bookName}"
+                }
+            },
+            "ariaLabel": "ընտրեք ներմուծման ռազմավարությունն օգտագործել գրքի համար %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "մի չեղարկեք ներմուծումը"},
+            "yes": {"ariaLabel": "չեղարկել ներմուծումը"}
+        },
+        "title": "Հաստատեք Չեղարկել ներմուծումը",
+        "message": "Իսկապե՞ս ուզում եք չեղարկել ներմուծումը:"
+    }},
+    "titles": {
+        "booksToInstall": "Գրքեր տեղադրելու համար",
+        "failedToInstall": "Չհաջողվեց տեղադրել գրքերը"
+    }
+}

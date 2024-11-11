@@ -1,0 +1,25 @@
+{
+    "add": "Dodati",
+    "cancel": "Otkazati",
+    "no": "Ne",
+    "verifying": "provjera...",
+    "set": "Set",
+    "yes": "Da",
+    "back": "Nazad",
+    "loading": "učitavanje...",
+    "required": "potreban",
+    "acknowledgeError": "priznati grešku",
+    "saving": "spremanje ...",
+    "settingsButton": {
+        "text": "postavke",
+        "ariaLabel": "idite na stranicu postavki aplikacija"
+    },
+    "backButton": {
+        "label": "Nazad",
+        "title": "vrati se na posljednju stranicu",
+        "ariaLabel": "vrati se na posljednju stranicu"
+    },
+    "sending": "slanje...",
+    "create": "Stvoriti",
+    "ok": "U redu"
+}

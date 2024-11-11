@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "найти файл изображения",
+        "ariaLabel": "найдите файл изображения для изображения %{imageDisplayName}"
+    },
+    "takePhotoButton": {
+        "title": "сфотографировать",
+        "ariaLabel": "сфотографировать для изображения %{imageDisplayName}"
+    },
+    "browseImageGalleryButton": {
+        "title": "просмотреть галерею изображений",
+        "ariaLabel": "просмотреть галерею изображений для изображения %{imageDisplayName}"
+    },
+    "fullscreenButton": {"ariaLabel": "показать изображение %{imageDisplayName} в полноэкранном режиме"},
+    "imageEditor": {
+        "cropButton": {"text": "Обрезать"},
+        "cancelButton": {"text": "Отмена"},
+        "backButton": {"text": "Назад"},
+        "saveButton": {"text": "Сохранять"}
+    },
+    "editSelectedImageButton": {
+        "title": "редактировать изображение",
+        "ariaLabel": "отредактируйте изображение %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "показать элементы управления изображением %{imageDisplayName}",
+        "controlsVisible": "скрыть элементы управления изображениями %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Доступ запрещен",
+            "message": "Вы отказали в разрешении на доступ к вашей камере."
+        },
+        "browseImages": {
+            "title": "Доступ запрещен",
+            "message": "Вы запретили доступ к вашим фотографиям."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "закрыть полноэкранный режим"}
+}

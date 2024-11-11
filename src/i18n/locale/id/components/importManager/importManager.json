@@ -1,0 +1,75 @@
+{
+    "toasts": {
+        "importAlreadyInProgress": "impor sudah berjalan, coba lagi nanti",
+        "download": {"failed": "gagal mengunduh \"%{bookName}\"."},
+        "install": {
+            "failed": "gagal mengimpor \"%{bookName}\"",
+            "successful": "berhasil mengimpor \"%{bookName}\""
+        }
+    },
+    "buttons": {
+        "cancel": {
+            "textLabel": "Membatalkan",
+            "ariaLabel": "membatalkan impor"
+        },
+        "install": {
+            "textLabel": "Memasang",
+            "ariaLabel": "pasang buku yang dipilih: %{bookNames}"
+        }
+    },
+    "processingLabels": {
+        "analyzing": "menganalisis...",
+        "downloading": "mengunduh ...",
+        "installing": "menginstal ...",
+        "cancelling": "membatalkan..."
+    },
+    "nothingToInstall": "Tidak ada yang perlu diimpor :(",
+    "booksToInstall": {
+        "readers": {
+            "existingBookReaderTooltip": {"label": "Pembaca ini sudah menjadi bagian dari buku yang diinstal.\n\n"},
+            "checkbox": {"ariaLabel": "untuk menyertakan pembaca %{readerDisplayName} dalam impor"}
+        },
+        "checkbox": {"ariaLabel": "untuk menyertakan %{bookName} buku dalam impor"},
+        "bookTooltip": {
+            "existing": {
+                "partial": {"label": "Buku ini sudah ada di perangkat Anda.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Jika Anda memilih untuk menimpa, buku saat ini akan diganti dengan yang baru.\n\n"},
+                    "noReaders": {"label": "Buku ini sudah ada di perangkat Anda.\n\n"}
+                }
+            },
+            "new": {
+                "partial": {"label": "File ini hanya berisi audio, dan buku tidak diinstal pada perangkat Anda.\n\n"},
+                "full": {
+                    "withReaders": {"label": "Buku ini tidak ada di perangkat Anda.\n\n"},
+                    "noReaders": {"label": "Buku ini tidak ada di perangkat Anda.\n\n"}
+                }
+            }
+        },
+        "existingBookStrategy": {
+            "strategies": {
+                "merge": {
+                    "label": "menggabungkan",
+                    "ariaLabel": "gabungkan buku %{bookName} dengan menambahkan pembaca baru dan menimpa pembaca yang ada dengan pembaca baru"
+                },
+                "overwrite": {
+                    "label": "menimpa",
+                    "ariaLabel": "menimpa buku yang ada %{bookName}"
+                }
+            },
+            "ariaLabel": "pilih strategi impor apa yang akan digunakan untuk buku %{bookName}"
+        }
+    },
+    "confirmation": {"cancel": {
+        "buttons": {
+            "no": {"ariaLabel": "jangan batalkan impor"},
+            "yes": {"ariaLabel": "membatalkan impor"}
+        },
+        "title": "Konfirmasi Batalkan Impor",
+        "message": "Apakah Anda yakin ingin membatalkan impor?"
+    }},
+    "titles": {
+        "booksToInstall": "Buku untuk Dipasang",
+        "failedToInstall": "Gagal Memasang Buku"
+    }
+}

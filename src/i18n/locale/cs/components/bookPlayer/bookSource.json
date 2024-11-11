@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "zobrazit informace o zdroji knihy"},
+        "hideSource": {"ariaLabel": "skrýt informace o zdroji knihy"}
+    },
+    "sourceUrl": {
+        "label": "zobrazit zdroj knihy",
+        "ariaLabel": "URL zdroje otevřené knihy"
+    },
+    "sourceIllustrator": {"label": "ilustrátor:"},
+    "sourceAuthor": {"label": "Autor:"},
+    "sourcePublisher": {"label": "Vydavatel:"},
+    "sourceIsbn": {
+        "label": "ISBN:",
+        "ariaLabel": "otevřít ISBN hledání knihy ISBN"
+    }
+}

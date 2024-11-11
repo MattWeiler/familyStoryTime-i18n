@@ -1,0 +1,27 @@
+{
+    "uninstallAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "না, উপলব্ধ বইটি আনইনস্টল করবেন না",
+            "yesButtonAriaLabel": "হ্যাঁ, উপলব্ধ বইটি আনইনস্টল করুন",
+            "title": "আনইনস্টল নিশ্চিতকরণ",
+            "message": "আপনি কি নিশ্চিত যে আপনি এই উপলব্ধ বইটি আনইনস্টল করতে চান?\n"
+        },
+        "ariaLabel": "উপলব্ধ বইটি আনইনস্টল করুন %{bookName}"
+    },
+    "books": {
+        "badges": {"free": "বিনামূল্যে"},
+        "newerVersionAvailableMessage": "আপডেট উপলব্ধ"
+    },
+    "subtitle": "আসুন পড়ার জন্য কিছু ভাল গল্প খুঁজে বের করা যাক।",
+    "loadingFailedMessage": "উপলব্ধ বই লোড করতে ব্যর্থ.\n",
+    "title": "বইয়ের দোকান",
+    "installAvailableBook": {
+        "confirmation": {
+            "noButtonAriaLabel": "না, উপলব্ধ বইটি ইনস্টল করবেন না",
+            "yesButtonAriaLabel": "হ্যাঁ, উপলব্ধ বইটি ইনস্টল করুন",
+            "title": "নিশ্চিতকরণ ইনস্টল করুন",
+            "message": "আপনি কি নিশ্চিত যে আপনি এই উপলব্ধ বইটি ইনস্টল করতে চান?\nএটি করলে %{fileSize} ডেটা ব্যবহার হবে৷"
+        },
+        "ariaLabel": "উপলব্ধ বইটি ইনস্টল করুন %{bookName}"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "showHideBookSource": {
+        "showSource": {"ariaLabel": "বই উৎস তথ্য দেখান"},
+        "hideSource": {"ariaLabel": "বই উৎস তথ্য লুকান"}
+    },
+    "sourceUrl": {
+        "label": "বই উৎস দেখুন",
+        "ariaLabel": "ওপেন বুক সোর্স ইউআরএল"
+    },
+    "sourceIllustrator": {"label": "ইলাস্ট্রেটর:"},
+    "sourceAuthor": {"label": "লেখক:"},
+    "sourcePublisher": {"label": "প্রকাশক:"},
+    "sourceIsbn": {
+        "label": "আইএসবিএন:",
+        "ariaLabel": "ISBN বইটির জন্য ISBN অনুসন্ধান খুলুন"
+    }
+}
