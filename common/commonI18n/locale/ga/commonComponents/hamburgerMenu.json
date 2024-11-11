@@ -1,8 +1,0 @@
-{
-    "applicationSecurityButton": {"ariaLabel": {
-        "unlockParentMode": "feidhmchlár le haghaidh úsáide tuismitheoirí a dhíghlasáil",
-        "initParentMode": "glasáil tuismitheoirí a chumasú",
-        "lockParentMode": "glas tuismitheoirí a chumasú"
-    }},
-    "hamburgerButton": {"ariaLabel": "Taispeáin roghchlár hamburger"}
-}

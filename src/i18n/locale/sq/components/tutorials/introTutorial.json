@@ -1,9 +1,0 @@
-{
-    "mission": "Ne duam të ndihmojmë në ruajtjen e tregimeve tuaja të preferuara, të lexuara nga të dashurit tuaj.",
-    "subtitle": "Një aplikacion argëtues për të ndihmuar fëmijët të lexojnë.",
-    "paragraphs": {"1": "Fëmijët mund të dëgjojnë tregimet e tyre të preferuara të lexuara nga të dashurit, edhe nëse ata të dashur janë larg ose kanë vdekur."},
-    "accessTutorial": {
-        "messages": {"1": "Ju mund ta përdorni këtë tutorial në çdo kohë nëpërmjet menysë së hamburgerit në pjesën e sipërme të majtë të aplikacionit."},
-        "title": "Qasja Tutorial"
-    }
-}

@@ -1,8 +1,0 @@
-{
-    "applicationSecurityButton": {"ariaLabel": {
-        "unlockParentMode": "zhbllokoni aplikacionin për përdorim prindëror",
-        "initParentMode": "aktivizoni bllokimin prindëror",
-        "lockParentMode": "aktivizoni kyçjen e prindit"
-    }},
-    "hamburgerButton": {"ariaLabel": "tregoni menunë e hamburgerit"}
-}
