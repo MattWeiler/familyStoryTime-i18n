@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "ਨਮੂਨਾ ਸੁਣਨ ਲਈ ਛਾਂਟਿਆ ਆਡੀਓ ਖੇਡੋ"},
+    "playbackPositionLabel": "ਪਲੇਬੈਕ ਸਥਿਤੀ",
+    "discardButton": {
+        "label": "ਰੱਦ",
+        "title": "ਕੱਟਿਆ ਆਡੀਓ ਰੱਦ ਕਰੋ",
+        "ariaLabel": "ਕੱਟਿਆ ਆਡੀਓ ਰੱਦ ਕਰੋ"
+    },
+    "saveButton": {
+        "label": "ਸੇਵ",
+        "title": "ਕੱਟਿਆ ਆਡੀਓ ਵਰਤੋ",
+        "ariaLabel": "ਕੱਟਿਆ ਆਡੀਓ ਵਰਤੋ"
+    }
+}

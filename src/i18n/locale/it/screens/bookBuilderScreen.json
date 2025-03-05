@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "cambio pagina"
         }
     },
+    "saveButton": {"label": "Salva"},
     "errors": {
         "failedLoadingBook": "Impossibile caricare il libro.",
         "validationErrors": {
@@ -123,7 +124,7 @@
         "label": "Fonte",
         "isbnInput": {
             "description": "Il numero standard internazionale del libro.",
-            "label": "ISBN",
+            "label": "Isbn",
             "placeholder": "ISBN del libro",
             "ariaLabel": "numero di libro standard internazionale del libro"
         }

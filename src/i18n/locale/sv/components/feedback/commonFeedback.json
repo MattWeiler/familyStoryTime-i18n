@@ -1,7 +1,7 @@
 {
     "nameInput": {
         "label": "Namn",
-        "placeholder": "John Doe",
+        "placeholder": "John doe",
         "ariaLabel": "valfritt, ditt namn"
     },
     "emailInput": {

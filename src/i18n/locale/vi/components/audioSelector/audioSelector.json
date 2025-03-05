@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "Ghi lại âm thanh %{audioDisplayName} của riêng bạn"},
+    "toasts": {
+        "audioFileLoading": {"failure": "Không tải âm thanh"},
+        "editInitFailed": "Không chỉnh sửa âm thanh",
+        "recordingFailed": "Không thể ghi lại âm thanh"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Xác nhận rõ ràng",
+            "message": "Bạn có chắc là bạn muốn xóa âm thanh đã chọn?"
+        },
+        "ariaLabel": "Xóa âm thanh %{audioDisplayName} đã chọn"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "Chọn ADEP %{audioDisplayName}"},
+    "selectAudioFileButton": {"ariaLabel": "Chọn tệp âm thanh %{audioDisplayName} của riêng bạn"},
+    "playButton": {
+        "stopped": {"ariaLabel": "phát âm thanh %{audioDisplayName}"},
+        "recording": {"ariaLabel": "Dừng bản ghi %{audioDisplayName}"},
+        "playing": {"ariaLabel": "Dừng âm thanh %{audioDisplayName}"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "Chỉnh sửa âm thanh hiện đang được tải %{audioDisplayName}",
+        "cancelConfirmation": {
+            "title": "Loại bỏ chỉnh sửa",
+            "message": "Bạn có chắc là bạn muốn loại bỏ bất kỳ chỉnh sửa nào mà bạn đã thực hiện?",
+            "buttonAriaLabels": {
+                "no": "Không, ở lại và tiếp tục chỉnh sửa",
+                "yes": "Vâng, loại bỏ các chỉnh sửa"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Tệp đã tải lên: %{filename}",
+        "recording": "Ghi âm",
+        "preset": "Đặt trước: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Sự cho phép bị từ chối",
+        "message": "Bạn đã từ chối cho phép truy cập micrô của bạn."
+    }}
+}

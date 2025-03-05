@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "rimbalzo delle bolle",
-    "MAGICAL_SPARKLE_LOUD": "forti scintillii magici",
-    "MAGICAL_WHOOSH": "sibilo magico",
-    "GLITTER": "luccichio",
-    "_NONE": "nessuno",
-    "MAGICAL_REVEAL_WAVY": "rivelazione magica ondulata",
-    "BUBBLE_POP_BIG": "grande bolla scoppiata",
-    "MAGICAL_REVEAL": "rivelazione magica",
-    "BUBBLE_POP_POP_POP": "bolle pop pop pop",
-    "ICICLES_WHOOSH": "i ghiaccioli sibilano",
-    "RATTLESNAKE": "serpente a sonagli",
-    "BIRD_CHIRP": "cinguettio degli uccelli",
-    "DRIP": "gocciolare",
-    "FLUSH_GROSS": "incasso lordo",
-    "HARP": "arpa",
-    "BUBBLE_POP_SMALL": "piccola bolla pop",
-    "MAGICAL_SPRING": "primavera magica",
-    "MAGICAL_SPARKLE": "scintillii magici"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "rimbalzo delle bolle",
+        "MAGICAL_SPARKLE_LOUD": "forti scintillii magici",
+        "MAGICAL_WHOOSH": "sibilo magico",
+        "GLITTER": "luccichio",
+        "_NONE": "nessuno",
+        "MAGICAL_REVEAL_WAVY": "rivelazione magica ondulata",
+        "BUBBLE_POP_BIG": "grande bolla scoppiata",
+        "MAGICAL_REVEAL": "rivelazione magica",
+        "BUBBLE_POP_POP_POP": "bolle pop pop pop",
+        "ICICLES_WHOOSH": "i ghiaccioli sibilano",
+        "RATTLESNAKE": "serpente a sonagli",
+        "BIRD_CHIRP": "cinguettio degli uccelli",
+        "DRIP": "gocciolare",
+        "FLUSH_GROSS": "incasso lordo",
+        "HARP": "arpa",
+        "BUBBLE_POP_SMALL": "piccola bolla pop",
+        "MAGICAL_SPRING": "primavera magica",
+        "MAGICAL_SPARKLE": "scintillii magici"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} ore",
+            "one": "%{displayValue} ora"
+        },
+        "mins": {
+            "other": "%{displayValue} mins",
+            "one": "%{displayValue} min"
+        },
+        "ms": {
+            "other": "%{displayValue} ms",
+            "one": "%{displayValue} ms"
+        },
+        "secs": {
+            "other": "%{displayValue} secs",
+            "one": "%{displayValue} sec"
+        },
+        "days": {
+            "other": "%{displayValue} giorni",
+            "one": "%{displayValue} day"
+        }
+    }
+}

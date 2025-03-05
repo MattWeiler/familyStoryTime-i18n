@@ -1,18 +1,18 @@
 {"prettyPrintByteSize": {
     "kilobytes": {
-        "other": "%{count} Ko",
-        "one": "1 Ko"
+        "other": "%{count} kb",
+        "one": "1 kb"
     },
     "bytes": {
         "other": "%{count} octets",
         "one": "1 octet"
     },
     "megabytes": {
-        "other": "%{count} Mo",
-        "one": "1 Mo"
+        "other": "%{count} MB",
+        "one": "1 Mb"
     },
     "gigabytes": {
-        "other": "%{count} Go",
+        "other": "%{count} gb",
         "one": "1 Go"
     }
 }}

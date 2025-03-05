@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "เรียกดูไฟล์รูปภาพ",
+        "ariaLabel": "เรียกดูรูปภาพสำหรับ image %{imageDisplayName} ภาพ"
+    },
+    "takePhotoButton": {
+        "title": "ถ่ายภาพ",
+        "ariaLabel": "ถ่ายภาพสำหรับ %{imageDisplayName} รูปภาพ"
+    },
+    "browseImageGalleryButton": {
+        "title": "เรียกดูแกลเลอรี่ภาพ",
+        "ariaLabel": "เรียกดูแกลเลอรี่ภาพสำหรับ %{imageDisplayName} รูปภาพ"
+    },
+    "fullscreenButton": {"ariaLabel": "แสดงภาพ %{imageDisplayName} ใน FullScreen"},
+    "imageEditor": {
+        "cropButton": {"text": "พืชผล"},
+        "cancelButton": {"text": "ยกเลิก"},
+        "backButton": {"text": "กลับ"},
+        "saveButton": {"text": "บันทึก"}
+    },
+    "editSelectedImageButton": {
+        "title": "แก้ไขภาพ",
+        "ariaLabel": "แก้ไขรูปภาพ %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "แสดงการควบคุมภาพ %{imageDisplayName}",
+        "controlsVisible": "ซ่อนการควบคุมภาพ %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "ปฏิเสธการอนุญาต",
+            "message": "คุณได้ปฏิเสธการอนุญาตให้เข้าถึงกล้องของคุณ"
+        },
+        "browseImages": {
+            "title": "ปฏิเสธการอนุญาต",
+            "message": "คุณได้ปฏิเสธการอนุญาตให้เข้าถึงรูปภาพของคุณ"
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "ปิดหน้าจอเต็มหน้าจอ"}
+}

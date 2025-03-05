@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Նայեք պատկերի ֆայլի համար",
+        "ariaLabel": "Նայեք պատկերի ֆայլը %{imageDisplayName} պատկերի համար"
+    },
+    "takePhotoButton": {
+        "title": "լուսանկարել",
+        "ariaLabel": "լուսանկարեք %{imageDisplayName} պատկերով"
+    },
+    "browseImageGalleryButton": {
+        "title": "Դիտեք պատկերի պատկերասրահը",
+        "ariaLabel": "Զննեք պատկերի պատկերասրահը %{imageDisplayName} պատկերի համար"
+    },
+    "fullscreenButton": {"ariaLabel": "Show ույց %{imageDisplayName} պատկեր ամբողջ էկրանով"},
+    "imageEditor": {
+        "cropButton": {"text": "Բերք"},
+        "cancelButton": {"text": "Չեղարկել"},
+        "backButton": {"text": "Ետեվ"},
+        "saveButton": {"text": "Խնայել"}
+    },
+    "editSelectedImageButton": {
+        "title": "Խմբագրել պատկերը",
+        "ariaLabel": "Խմբագրել %{imageDisplayName} պատկերը"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "Show ույց տալ %{imageDisplayName} պատկերի հսկողությունները",
+        "controlsVisible": "Թաքցնել %{imageDisplayName} պատկերի հսկողությունները"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Թույլտվությունը մերժվեց",
+            "message": "Դուք մերժել եք ձեր տեսախցիկը մուտք գործելու թույլտվությունը:"
+        },
+        "browseImages": {
+            "title": "Թույլտվությունը մերժվեց",
+            "message": "Դուք մերժել եք ձեր լուսանկարները մուտք գործելու թույլտվությունը:"
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "Փակեք ամբողջ էկրանը"}
+}

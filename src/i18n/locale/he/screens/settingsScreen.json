@@ -14,7 +14,7 @@
         }
     },
     "footer": {
-        "copyright": "%{year} WeilerHaus",
+        "copyright": "%{year} weilerhaus",
         "specialThanks": {
             "fonts": {
                 "coolors": "מצננים",
@@ -22,7 +22,7 @@
             },
             "label": "תודה מיוחדת",
             "icons": {
-                "ionicIcons": "IonIcons",
+                "ionicIcons": "יוניקונים",
                 "someIconsBy": "סמלים מאת:",
                 "icons8": "אייקונים8",
                 "iconArchive": "ארכיון אייקונים"

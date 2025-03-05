@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "буббле боунце",
-    "MAGICAL_SPARKLE_LOUD": "гласне магичне искре",
-    "MAGICAL_WHOOSH": "магични вух",
-    "GLITTER": "глиттер",
-    "_NONE": "ниједан",
-    "MAGICAL_REVEAL_WAVY": "таласасто магично откривање",
-    "BUBBLE_POP_BIG": "велики буббле поп",
-    "MAGICAL_REVEAL": "магично откривање",
-    "BUBBLE_POP_POP_POP": "буббле поп поп поп",
-    "ICICLES_WHOOSH": "леденице шушкају",
-    "RATTLESNAKE": "звечарка",
-    "BIRD_CHIRP": "цвркут птица",
-    "DRIP": "капати",
-    "FLUSH_GROSS": "бруто флусх",
-    "HARP": "харфа",
-    "BUBBLE_POP_SMALL": "мали буббле поп",
-    "MAGICAL_SPRING": "магично пролеће",
-    "MAGICAL_SPARKLE": "магичне искре"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "буббле боунце",
+        "MAGICAL_SPARKLE_LOUD": "гласне магичне искре",
+        "MAGICAL_WHOOSH": "магични вух",
+        "GLITTER": "глиттер",
+        "_NONE": "ниједан",
+        "MAGICAL_REVEAL_WAVY": "таласасто магично откривање",
+        "BUBBLE_POP_BIG": "велики буббле поп",
+        "MAGICAL_REVEAL": "магично откривање",
+        "BUBBLE_POP_POP_POP": "буббле поп поп поп",
+        "ICICLES_WHOOSH": "леденице шушкају",
+        "RATTLESNAKE": "звечарка",
+        "BIRD_CHIRP": "цвркут птица",
+        "DRIP": "капати",
+        "FLUSH_GROSS": "бруто флусх",
+        "HARP": "харфа",
+        "BUBBLE_POP_SMALL": "мали буббле поп",
+        "MAGICAL_SPRING": "магично пролеће",
+        "MAGICAL_SPARKLE": "магичне искре"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} сати",
+            "one": "%{displayValue} сат"
+        },
+        "mins": {
+            "other": "%{displayValue} мин",
+            "one": "%{displayValue} мин"
+        },
+        "ms": {
+            "other": "%{displayValue} МС",
+            "one": "%{displayValue} МС"
+        },
+        "secs": {
+            "other": "%{displayValue} сецс",
+            "one": "%{displayValue} сек"
+        },
+        "days": {
+            "other": "%{displayValue} Дани",
+            "one": "%{displayValue} Дан"
+        }
+    }
+}

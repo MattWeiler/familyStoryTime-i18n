@@ -1,0 +1,19 @@
+{"contextMenu": {
+    "items": {
+        "selectAll": {
+            "label": "모두를 선택하십시오",
+            "ariaLabel": {
+                "other": "필터링 된 모든 항목을 선택하십시오",
+                "one": "필터링 된 항목을 선택하십시오"
+            }
+        },
+        "cancelSelection": {
+            "label": "선택 취소",
+            "ariaLabel": {
+                "other": "선택한 모든 항목을 선택 해제하십시오",
+                "one": "선택한 항목을 선택 해제하십시오"
+            }
+        }
+    },
+    "ariaLabel": "추가 옵션을보십시오"
+}}

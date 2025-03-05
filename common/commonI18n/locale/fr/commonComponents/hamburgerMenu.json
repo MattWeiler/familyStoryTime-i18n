@@ -1,8 +1,8 @@
 {
     "applicationSecurityButton": {"ariaLabel": {
-        "unlockParentMode": "déverrouiller l'application à usage parental",
-        "initParentMode": "activer le verrouillage parental",
-        "lockParentMode": "activer le verrouillage parental"
+        "unlockParentMode": "Déverrouiller la demande d'utilisation des parents",
+        "initParentMode": "Activer le verrouillage des parents",
+        "lockParentMode": "Activer le verrouillage des parents"
     }},
-    "hamburgerButton": {"ariaLabel": "afficher le menu des hamburgers"}
+    "hamburgerButton": {"ariaLabel": "Afficher le menu du hamburger"}
 }

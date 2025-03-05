@@ -14,10 +14,10 @@
         }
     },
     "footer": {
-        "copyright": "%{year} WeilerHaus",
+        "copyright": "%{year} Weilerhaus",
         "specialThanks": {
             "fonts": {
-                "coolors": "Coolors",
+                "coolors": "Hladilniki",
                 "someFontsBy": "Avtor pisave:"
             },
             "label": "Posebna hvala",
@@ -59,7 +59,7 @@
         "picker": {
             "default": "privzeto",
             "networkActionIcon": {"ariaLabel": "prikaz lokalnih in omrežnih glasov"},
-            "label": "AI Reader Voices",
+            "label": "AI bralni glasovi",
             "ariaLabel": "izberite glas \"AI Reader\".",
             "globalActionIcon": {"ariaLabel": "pokaži vse jezike"}
         }
@@ -109,7 +109,7 @@
         }
     }},
     "textToSpeechEnabled": {
-        "displayName": "AI Reader",
+        "displayName": "AI bralec",
         "testLabel": "Preizkusi glas",
         "testAriaLabel": {
             "stopped": "preizkusite glas \"AI Reader\".",

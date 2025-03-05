@@ -75,7 +75,7 @@
                     "1": "Ko se knjiga samodejno predvaja, se lahko predvaja določen zvok, ko je stran končana in je naslednja stran pripravljena za začetek.",
                     "2": "Izberete lahko nabor vnaprej določenih zvokov ali naložite ali posnamete zvok po meri."
                 },
-                "title": "Page Change Audio"
+                "title": "Stran spremeni zvok"
             },
             "bookReader": {
                 "messages": {

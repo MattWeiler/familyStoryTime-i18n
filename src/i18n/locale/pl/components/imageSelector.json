@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Przeglądaj plik obrazu",
+        "ariaLabel": "Przeglądaj plik obrazu dla obrazu %{imageDisplayName}"
+    },
+    "takePhotoButton": {
+        "title": "Zrób zdjęcie",
+        "ariaLabel": "Zrób zdjęcie dla %{imageDisplayName}"
+    },
+    "browseImageGalleryButton": {
+        "title": "Przeglądaj galerię obrazów",
+        "ariaLabel": "Przeglądaj galerię obrazów dla %{imageDisplayName}"
+    },
+    "fullscreenButton": {"ariaLabel": "pokaż %{imageDisplayName} w pełnym ekranie"},
+    "imageEditor": {
+        "cropButton": {"text": "Przyciąć"},
+        "cancelButton": {"text": "Anulować"},
+        "backButton": {"text": "Z powrotem"},
+        "saveButton": {"text": "Ratować"}
+    },
+    "editSelectedImageButton": {
+        "title": "Edytuj obraz",
+        "ariaLabel": "Edytuj obraz %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "Pokaż kontrole obrazów %{imageDisplayName}",
+        "controlsVisible": "Ukryj elementy obrazy %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Zezwolenie odrzucone",
+            "message": "Odmówiłeś zgody na dostęp do aparatu."
+        },
+        "browseImages": {
+            "title": "Zezwolenie odrzucone",
+            "message": "Odmówiłeś zgody na dostęp do swoich zdjęć."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "Zamknij pełny ekran"}
+}

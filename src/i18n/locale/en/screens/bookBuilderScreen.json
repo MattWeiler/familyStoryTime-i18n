@@ -175,5 +175,9 @@
         "addPageButton": {
             "ariaLabel": "add new page"
         }
+    },
+
+    "saveButton": {
+        "label": "Save"
     }
 }

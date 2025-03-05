@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "Zagraj w przycięty dźwięk, aby usłyszeć próbkę"},
+    "playbackPositionLabel": "Pozycja odtwarzania",
+    "discardButton": {
+        "label": "Wyrzucać",
+        "title": "odrzuć przycięty dźwięk",
+        "ariaLabel": "odrzuć przycięty dźwięk"
+    },
+    "saveButton": {
+        "label": "Ratować",
+        "title": "Użyj przyciętego dźwięku",
+        "ariaLabel": "Użyj przyciętego dźwięku"
+    }
+}

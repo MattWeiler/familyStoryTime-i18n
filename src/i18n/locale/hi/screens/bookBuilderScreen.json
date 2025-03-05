@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "पृष्ठ परिवर्तन"
         }
     },
+    "saveButton": {"label": "बचाना"},
     "errors": {
         "failedLoadingBook": "पुस्तक लोड करने में विफल.",
         "validationErrors": {

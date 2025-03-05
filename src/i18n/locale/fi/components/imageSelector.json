@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Selaa kuvatiedostoa",
+        "ariaLabel": "Selaa kuvatiedostoa %{imageDisplayName} -kuvalle"
+    },
+    "takePhotoButton": {
+        "title": "ottaa kuva",
+        "ariaLabel": "Ota kuva %{imageDisplayName} kuva"
+    },
+    "browseImageGalleryButton": {
+        "title": "Selaa kuvagalleriaa",
+        "ariaLabel": "Selaa {%{imageDisplayName}} kuvagalleria"
+    },
+    "fullscreenButton": {"ariaLabel": "Näytä %{imageDisplayName} kuva koko näytöllä"},
+    "imageEditor": {
+        "cropButton": {"text": "Sato"},
+        "cancelButton": {"text": "Peruuttaa"},
+        "backButton": {"text": "Takaisin"},
+        "saveButton": {"text": "Tallentaa"}
+    },
+    "editSelectedImageButton": {
+        "title": "muokata kuvaa",
+        "ariaLabel": "Muokkaa %{imageDisplayName} kuvaa"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "Näytä %{imageDisplayName} kuvanohjaimet",
+        "controlsVisible": "Piilota %{imageDisplayName} kuvanohjaimet"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Lupa hylätty",
+            "message": "Olet kieltänyt luvan päästä kameraan."
+        },
+        "browseImages": {
+            "title": "Lupa hylätty",
+            "message": "Olet kieltänyt luvan käyttää valokuvia."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "sulje koko näytön"}
+}

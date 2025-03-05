@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Blader door een afbeeldingsbestand",
+        "ariaLabel": "Blader naar een afbeeldingsbestand voor %{imageDisplayName} afbeelding"
+    },
+    "takePhotoButton": {
+        "title": "een foto nemen",
+        "ariaLabel": "Maak een foto voor %{imageDisplayName} afbeelding"
+    },
+    "browseImageGalleryButton": {
+        "title": "Blader door beeldgalerij",
+        "ariaLabel": "Blader door beeldgalerij voor %{imageDisplayName} afbeelding"
+    },
+    "fullscreenButton": {"ariaLabel": "Toon %{imageDisplayName} afbeelding in volledig scherm"},
+    "imageEditor": {
+        "cropButton": {"text": "Gewas"},
+        "cancelButton": {"text": "Annuleren"},
+        "backButton": {"text": "Rug"},
+        "saveButton": {"text": "Redden"}
+    },
+    "editSelectedImageButton": {
+        "title": "Bewerk de afbeelding",
+        "ariaLabel": "Bewerk de afbeelding {%{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "Toon de {%{imageDisplayName} afbeeldingsbesturing",
+        "controlsVisible": "Verberg de {%{imageDisplayName} afbeeldingsbesturing"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Toestemming geweigerd",
+            "message": "U hebt toestemming geweigerd om toegang te krijgen tot uw camera."
+        },
+        "browseImages": {
+            "title": "Toestemming geweigerd",
+            "message": "U hebt toestemming geweigerd om toegang te krijgen tot uw foto's."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "Sluit het volledige scherm"}
+}

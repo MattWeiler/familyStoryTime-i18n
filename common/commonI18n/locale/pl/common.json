@@ -2,24 +2,24 @@
     "add": "Dodać",
     "cancel": "Anulować",
     "no": "NIE",
-    "verifying": "weryfikacja...",
+    "verifying": "weryfikacja ...",
     "set": "Ustawić",
     "yes": "Tak",
     "back": "Z powrotem",
-    "loading": "ładowanie...",
+    "loading": "Ładowanie ...",
     "required": "wymagany",
-    "acknowledgeError": "potwierdzić błąd",
-    "saving": "oszczędzanie...",
+    "acknowledgeError": "potwierdź błąd",
+    "saving": "Oszczędzanie ...",
     "settingsButton": {
         "text": "Ustawienia",
-        "ariaLabel": "przejdź do strony ustawień aplikacji"
+        "ariaLabel": "Przejdź do strony Ustawienia aplikacji"
     },
     "backButton": {
         "label": "Z powrotem",
-        "title": "wróć do ostatniej strony",
-        "ariaLabel": "wróć do ostatniej strony"
+        "title": "Wróć do ostatniej strony",
+        "ariaLabel": "Wróć do ostatniej strony"
     },
-    "sending": "wysyłanie...",
+    "sending": "Wysyłanie ...",
     "create": "Tworzyć",
     "ok": "OK"
 }

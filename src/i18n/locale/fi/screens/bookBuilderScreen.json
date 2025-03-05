@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "sivun muutos"
         }
     },
+    "saveButton": {"label": "Tallentaa"},
     "errors": {
         "failedLoadingBook": "Kirjan lataaminen epäonnistui.",
         "validationErrors": {

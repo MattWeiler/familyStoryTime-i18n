@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "промена странице"
         }
     },
+    "saveButton": {"label": "Сачувај"},
     "errors": {
         "failedLoadingBook": "Учитавање књиге није успело.",
         "validationErrors": {

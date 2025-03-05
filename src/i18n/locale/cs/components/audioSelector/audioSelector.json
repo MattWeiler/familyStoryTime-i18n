@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "Zaznamenejte svůj vlastní %{audioDisplayName} zvuk"},
+    "toasts": {
+        "audioFileLoading": {"failure": "Nepodařilo se načíst zvuk"},
+        "editInitFailed": "Nepodařilo se upravit zvuk",
+        "recordingFailed": "Nepodařilo se zaznamenat zvuk"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Jasné potvrzení",
+            "message": "Jste si jisti, že chcete vymazat vybraný zvuk?"
+        },
+        "ariaLabel": "Vymažte vybraný zvuk %{audioDisplayName}"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "Vyberte předvolbu %{audioDisplayName} zvuk"},
+    "selectAudioFileButton": {"ariaLabel": "Vyberte vlastní %{audioDisplayName} zvukový soubor"},
+    "playButton": {
+        "stopped": {"ariaLabel": "Přehrajte zvuk %{audioDisplayName}"},
+        "recording": {"ariaLabel": "Zastavte nahrávání %{audioDisplayName}"},
+        "playing": {"ariaLabel": "Zastavte přehrávání %{audioDisplayName} zvuk"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "Upravte aktuálně načtený %{audioDisplayName} zvuk",
+        "cancelConfirmation": {
+            "title": "Vyhodit úpravy",
+            "message": "Jste si jisti, že chcete zahodit jakékoli úpravy, které jste provedli?",
+            "buttonAriaLabels": {
+                "no": "Ne, zůstaňte a pokračujte v úpravách",
+                "yes": "Ano, zlikvidujte úpravy"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Nahraný soubor: %{filename}",
+        "recording": "Záznam",
+        "preset": "Předvolba: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Povolení odepřeno",
+        "message": "Odmítli jste povolení k přístupu k mikrofonu."
+    }}
+}

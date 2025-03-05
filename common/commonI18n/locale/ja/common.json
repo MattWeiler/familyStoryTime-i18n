@@ -2,24 +2,24 @@
     "add": "追加",
     "cancel": "キャンセル",
     "no": "いいえ",
-    "verifying": "検証中...",
+    "verifying": "検証...",
     "set": "セット",
     "yes": "はい",
     "back": "戻る",
-    "loading": "読み込み中 ...",
+    "loading": "読み込み...",
     "required": "必須",
-    "acknowledgeError": "間違いを認める",
-    "saving": "保存しています...",
+    "acknowledgeError": "エラーを認めます",
+    "saving": "節約...",
     "settingsButton": {
         "text": "設定",
-        "ariaLabel": "アプリケーション設定ページに移動します"
+        "ariaLabel": "[アプリケーション設定]ページに移動します"
     },
     "backButton": {
         "label": "戻る",
-        "title": "最後のページに戻る",
-        "ariaLabel": "最後のページに戻る"
+        "title": "最後のページに戻ります",
+        "ariaLabel": "最後のページに戻ります"
     },
-    "sending": "...を送信します",
+    "sending": "送信...",
     "create": "作成する",
     "ok": "わかりました"
 }

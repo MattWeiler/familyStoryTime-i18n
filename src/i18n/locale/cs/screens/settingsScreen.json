@@ -14,7 +14,7 @@
         }
     },
     "footer": {
-        "copyright": "%{year} WeilerHaus",
+        "copyright": "%{year} Weilerhaus",
         "specialThanks": {
             "fonts": {
                 "coolors": "Chladiče",
@@ -22,7 +22,7 @@
             },
             "label": "Zvláštní poděkování",
             "icons": {
-                "ionicIcons": "IonIcons",
+                "ionicIcons": "Ionicons",
                 "someIconsBy": "Ikony od:",
                 "icons8": "Ikony8",
                 "iconArchive": "Archiv ikon"
@@ -65,7 +65,7 @@
         }
     },
     "audioVideoSelection": {
-        "displayName": "Audio & Video",
+        "displayName": "Zvuk a video",
         "ariaLabel": {
             "expanded": "sbalit sekci pro výběr zvuku a videa",
             "collapsed": "rozbalte část výběru audio a video"
@@ -109,7 +109,7 @@
         }
     }},
     "textToSpeechEnabled": {
-        "displayName": "AI Reader",
+        "displayName": "AI čtenář",
         "testLabel": "Testovací hlas",
         "testAriaLabel": {
             "stopped": "otestujte hlas \u201eAI Reader\u201c.",

@@ -2,24 +2,24 @@
     "add": "Adăuga",
     "cancel": "Anula",
     "no": "Nu",
-    "verifying": "verificand...",
+    "verifying": "Verificarea ...",
     "set": "Set",
     "yes": "Da",
     "back": "Spate",
-    "loading": "se incarca...",
+    "loading": "Încărcare ...",
     "required": "necesar",
     "acknowledgeError": "recunoașteți eroarea",
-    "saving": "salvează...",
+    "saving": "Economisirea ...",
     "settingsButton": {
         "text": "Setări",
-        "ariaLabel": "accesați pagina de setări a aplicațiilor"
+        "ariaLabel": "Accesați pagina Setări aplicații"
     },
     "backButton": {
         "label": "Spate",
-        "title": "reveniți la ultima pagină",
-        "ariaLabel": "reveniți la ultima pagină"
+        "title": "Reveniți la ultima pagină",
+        "ariaLabel": "Reveniți la ultima pagină"
     },
-    "sending": "trimiterea...",
+    "sending": "Trimiterea ...",
     "create": "Crea",
     "ok": "Bine"
 }

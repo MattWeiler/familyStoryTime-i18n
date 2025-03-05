@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "відскок міхура",
-    "MAGICAL_SPARKLE_LOUD": "гучні чарівні блискітки",
-    "MAGICAL_WHOOSH": "чарівний свист",
-    "GLITTER": "блиск",
-    "_NONE": "немає",
-    "MAGICAL_REVEAL_WAVY": "хвилясте магічне відкриття",
-    "BUBBLE_POP_BIG": "великий міхур",
-    "MAGICAL_REVEAL": "магічне відкриття",
-    "BUBBLE_POP_POP_POP": "міхур поп поп поп",
-    "ICICLES_WHOOSH": "бурульки свистять",
-    "RATTLESNAKE": "гримуча змія",
-    "BIRD_CHIRP": "пташине щебетання",
-    "DRIP": "крапельниця",
-    "FLUSH_GROSS": "валовий змив",
-    "HARP": "арфа",
-    "BUBBLE_POP_SMALL": "маленький пузир",
-    "MAGICAL_SPRING": "чарівна весна",
-    "MAGICAL_SPARKLE": "чарівні блискітки"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "відскок міхура",
+        "MAGICAL_SPARKLE_LOUD": "гучні чарівні блискітки",
+        "MAGICAL_WHOOSH": "чарівний свист",
+        "GLITTER": "блиск",
+        "_NONE": "немає",
+        "MAGICAL_REVEAL_WAVY": "хвилясте магічне відкриття",
+        "BUBBLE_POP_BIG": "великий міхур",
+        "MAGICAL_REVEAL": "магічне відкриття",
+        "BUBBLE_POP_POP_POP": "міхур поп поп поп",
+        "ICICLES_WHOOSH": "бурульки свистять",
+        "RATTLESNAKE": "гримуча змія",
+        "BIRD_CHIRP": "пташине щебетання",
+        "DRIP": "крапельниця",
+        "FLUSH_GROSS": "валовий змив",
+        "HARP": "арфа",
+        "BUBBLE_POP_SMALL": "маленький пузир",
+        "MAGICAL_SPRING": "чарівна весна",
+        "MAGICAL_SPARKLE": "чарівні блискітки"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} годин",
+            "one": "%{displayValue} година"
+        },
+        "mins": {
+            "other": "%{displayValue} хв",
+            "one": "%{displayValue} хв"
+        },
+        "ms": {
+            "other": "%{displayValue} MS",
+            "one": "%{displayValue} MS"
+        },
+        "secs": {
+            "other": "%{displayValue}",
+            "one": "%{displayValue} сек"
+        },
+        "days": {
+            "other": "%{displayValue} Дні",
+            "one": "%{displayValue}"
+        }
+    }
+}

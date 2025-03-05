@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "изменение страницы"
         }
     },
+    "saveButton": {"label": "Сохранять"},
     "errors": {
         "failedLoadingBook": "Не удалось загрузить книгу.",
         "validationErrors": {

@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "sideendring"
         }
     },
+    "saveButton": {"label": "Spare"},
     "errors": {
         "failedLoadingBook": "Kunne ikke laste inn boken.",
         "validationErrors": {

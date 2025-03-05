@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "قم بتشغيل الصوت المقطوع لسماع عينة"},
+    "playbackPositionLabel": "موقف التشغيل",
+    "discardButton": {
+        "label": "ينبذ",
+        "title": "تجاهل الصوت القطع",
+        "ariaLabel": "تجاهل الصوت القطع"
+    },
+    "saveButton": {
+        "label": "يحفظ",
+        "title": "استخدم الصوت القطع",
+        "ariaLabel": "استخدم الصوت القطع"
+    }
+}

@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "Seitenwechsel"
         }
     },
+    "saveButton": {"label": "Speichern"},
     "errors": {
         "failedLoadingBook": "Das Buch konnte nicht geladen werden.",
         "validationErrors": {

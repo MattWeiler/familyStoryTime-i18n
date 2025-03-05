@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "Kendi %{audioDisplayName} sesinizi kaydedin"},
+    "toasts": {
+        "audioFileLoading": {"failure": "ses yükleyemedi"},
+        "editInitFailed": "Sesi düzenleyemedi",
+        "recordingFailed": "Sesi kaydedemedi"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Açık onay",
+            "message": "Seçilen sesi temizlemek istediğinizden emin misiniz?"
+        },
+        "ariaLabel": "Seçilen %{audioDisplayName} Audio'yu temizleyin"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "Ön ayar seçin %{audioDisplayName} ses"},
+    "selectAudioFileButton": {"ariaLabel": "Kendi %{audioDisplayName} ses dosyanızı seçin"},
+    "playButton": {
+        "stopped": {"ariaLabel": "%{audioDisplayName} Audio oynatın"},
+        "recording": {"ariaLabel": "%{audioDisplayName} kaydını durdurun"},
+        "playing": {"ariaLabel": "%{audioDisplayName} Audio oynamayı durdurun"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "Şu anda yüklenen %{audioDisplayName} Audio'yu düzenleyin",
+        "cancelConfirmation": {
+            "title": "Düzenleme atma",
+            "message": "Yaptığınız herhangi bir düzenlemeyi atmak istediğinizden emin misiniz?",
+            "buttonAriaLabels": {
+                "no": "Hayır, kal ve düzenlemeye devam et",
+                "yes": "Evet, düzenlemeleri at"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Yüklenen dosya: %{filename}",
+        "recording": "Kayıt",
+        "preset": "Ön ayar: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "İzin reddedildi",
+        "message": "Mikrofonunuza erişme iznini reddettiniz."
+    }}
+}

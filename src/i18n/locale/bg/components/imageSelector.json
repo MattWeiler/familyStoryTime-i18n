@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Прегледайте файл с изображение",
+        "ariaLabel": "Прегледайте файл с изображение за изображение %{imageDisplayName}"
+    },
+    "takePhotoButton": {
+        "title": "Снимайте",
+        "ariaLabel": "Снимайте за %{imageDisplayName} изображение"
+    },
+    "browseImageGalleryButton": {
+        "title": "Разгледайте галерия с изображения",
+        "ariaLabel": "Прегледайте галерия с изображения за %{imageDisplayName} изображение"
+    },
+    "fullscreenButton": {"ariaLabel": "Показване %{imageDisplayName} изображение в пълен екран"},
+    "imageEditor": {
+        "cropButton": {"text": "Реколта"},
+        "cancelButton": {"text": "Отказ"},
+        "backButton": {"text": "Назад"},
+        "saveButton": {"text": "Запазете"}
+    },
+    "editSelectedImageButton": {
+        "title": "Редактирайте изображението",
+        "ariaLabel": "Редактирайте изображението %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "Покажете контролите на изображението %{imageDisplayName}",
+        "controlsVisible": "Скрийте контролите на изображението %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Разрешение е отказано",
+            "message": "Вие сте отказали разрешение за достъп до вашата камера."
+        },
+        "browseImages": {
+            "title": "Разрешение е отказано",
+            "message": "Отказахте разрешение за достъп до вашите снимки."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "Затворете цял екран"}
+}

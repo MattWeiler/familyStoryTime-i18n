@@ -20,7 +20,7 @@
             "noButtonAriaLabel": "nej, installera inte den tillgängliga boken",
             "yesButtonAriaLabel": "ja, installera den tillgängliga boken",
             "title": "Installationsbekräftelse",
-            "message": "Är du säker på att du vill installera den här tillgängliga boken?\nOm du gör det kommer att använda %{filstorlek} av data."
+            "message": "Är du säker på att du vill installera den här tillgängliga boken?\nOm du gör det kommer att använda %{fileSize} av data."
         },
         "ariaLabel": "installera den tillgängliga boken %{bookName}"
     }

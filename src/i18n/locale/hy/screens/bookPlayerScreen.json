@@ -1,4 +1,4 @@
 {
-    "aiReader": {"displayName": "AI Reader"},
+    "aiReader": {"displayName": "AI ընթերցող"},
     "errors": {"bookLoadFailure": "Չհաջողվեց բեռնել գիրքը:"}
 }

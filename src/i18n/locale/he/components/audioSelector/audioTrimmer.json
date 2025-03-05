@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "הפעל את השמע הגזום כדי לשמוע דוגמה"},
+    "playbackPositionLabel": "מיקום ההפעלה",
+    "discardButton": {
+        "label": "לְהַשְׁלִיך",
+        "title": "זרוק את האודיו הגזום",
+        "ariaLabel": "זרוק את האודיו הגזום"
+    },
+    "saveButton": {
+        "label": "לְהַצִיל",
+        "title": "השתמש בשמע הגזוז",
+        "ariaLabel": "השתמש בשמע הגזוז"
+    }
+}

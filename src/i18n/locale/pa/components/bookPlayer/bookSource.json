@@ -11,7 +11,7 @@
     "sourceAuthor": {"label": "ਲੇਖਕ:"},
     "sourcePublisher": {"label": "ਪ੍ਰਕਾਸ਼ਕ:"},
     "sourceIsbn": {
-        "label": "ISBN:",
+        "label": "ਆਈਐਸਬੀਐਨ:",
         "ariaLabel": "ISBN ਕਿਤਾਬ ਲਈ ISBN ਖੋਜ ਖੋਲ੍ਹੋ"
     }
 }

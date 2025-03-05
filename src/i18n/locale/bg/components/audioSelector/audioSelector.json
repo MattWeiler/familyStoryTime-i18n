@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "Запишете своя собствена аудио %{audioDisplayName}"},
+    "toasts": {
+        "audioFileLoading": {"failure": "Неуспешно зареждане на аудио"},
+        "editInitFailed": "Неуспешно редактиране на аудио",
+        "recordingFailed": "Неуспешно записване на аудио"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Ясно потвърждение",
+            "message": "Сигурни ли сте, че искате да изчистите избраното аудио?"
+        },
+        "ariaLabel": "Изчистете избраното %{audioDisplayName} аудио"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "Изберете предварително зададен %{audioDisplayName} аудио"},
+    "selectAudioFileButton": {"ariaLabel": "Изберете свой собствен %{audioDisplayName} аудио файл"},
+    "playButton": {
+        "stopped": {"ariaLabel": "Възпроизведете аудио %{audioDisplayName}"},
+        "recording": {"ariaLabel": "Спрете записа %{audioDisplayName}"},
+        "playing": {"ariaLabel": "Спрете възпроизвеждането %{audioDisplayName} аудио"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "Редактирайте аудиото за зареждане в момента %{audioDisplayName}",
+        "cancelConfirmation": {
+            "title": "Изхвърлете редактирането",
+            "message": "Сигурни ли сте, че искате да изхвърлите всички редакции, които сте направили?",
+            "buttonAriaLabels": {
+                "no": "Не, останете и продължете да редактирате",
+                "yes": "Да, изхвърлете редакции"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Качен файл: %{filename}",
+        "recording": "Запис",
+        "preset": "Предварително настроен: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Разрешение е отказано",
+        "message": "Вие сте отказали разрешение за достъп до вашия микрофон."
+    }}
+}

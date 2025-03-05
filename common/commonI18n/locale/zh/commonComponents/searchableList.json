@@ -1,0 +1,19 @@
+{"contextMenu": {
+    "items": {
+        "selectAll": {
+            "label": "选择全部",
+            "ariaLabel": {
+                "other": "选择所有过滤项目",
+                "one": "选择过滤的项目"
+            }
+        },
+        "cancelSelection": {
+            "label": "取消选择",
+            "ariaLabel": {
+                "other": "取消选择所有选定的项目",
+                "one": "取消选择选定的项目"
+            }
+        }
+    },
+    "ariaLabel": "查看其他选项"
+}}

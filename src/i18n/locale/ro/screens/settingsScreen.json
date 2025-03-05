@@ -14,7 +14,7 @@
         }
     },
     "footer": {
-        "copyright": "%{year} WeilerHaus",
+        "copyright": "%{year} Weilerhaus",
         "specialThanks": {
             "fonts": {
                 "coolors": "Coolers",
@@ -22,7 +22,7 @@
             },
             "label": "Mulțumiri speciale",
             "icons": {
-                "ionicIcons": "IonIcons",
+                "ionicIcons": "Ioniconi",
                 "someIconsBy": "Pictograme de:",
                 "icons8": "Pictograme8",
                 "iconArchive": "Arhiva pictogramelor"

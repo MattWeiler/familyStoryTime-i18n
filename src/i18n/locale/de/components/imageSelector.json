@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Durchsuchen Sie nach einer Bilddatei",
+        "ariaLabel": "Durchsuchen Sie eine Bilddatei für %{imageDisplayName} Bild"
+    },
+    "takePhotoButton": {
+        "title": "Bild machen",
+        "ariaLabel": "Machen Sie ein Bild für %{imageDisplayName} Bild"
+    },
+    "browseImageGalleryButton": {
+        "title": "Durchsuchen Sie die Bildgalerie",
+        "ariaLabel": "Durchsuchen Sie die Bildgalerie für %{imageDisplayName} Bild"
+    },
+    "fullscreenButton": {"ariaLabel": "anzeigen %{imageDisplayName} Bild im Vollbildmodus"},
+    "imageEditor": {
+        "cropButton": {"text": "Ernte"},
+        "cancelButton": {"text": "Stornieren"},
+        "backButton": {"text": "Zurück"},
+        "saveButton": {"text": "Speichern"}
+    },
+    "editSelectedImageButton": {
+        "title": "Bearbeiten Sie das Bild",
+        "ariaLabel": "Bearbeiten Sie das Bild %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "Zeigen Sie die %{imageDisplayName} Bildsteuerung an",
+        "controlsVisible": "Verstecken Sie die %{imageDisplayName} Bildsteuerung"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Zugriff verweigert",
+            "message": "Sie haben die Erlaubnis verweigert, auf Ihre Kamera zuzugreifen."
+        },
+        "browseImages": {
+            "title": "Zugriff verweigert",
+            "message": "Sie haben die Erlaubnis verweigert, auf Ihre Fotos zuzugreifen."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "Vollbild schließen"}
+}

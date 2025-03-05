@@ -14,7 +14,7 @@
         }
     },
     "footer": {
-        "copyright": "%{year} WeilerHaus",
+        "copyright": "%{year} weilerhaus",
         "specialThanks": {
             "fonts": {
                 "coolors": "Coolors",
@@ -59,7 +59,7 @@
         "picker": {
             "default": "zadana vrijednost",
             "networkActionIcon": {"ariaLabel": "prikaži lokalne i mrežne glasove"},
-            "label": "AI Reader Voices",
+            "label": "Glasovi AI čitača",
             "ariaLabel": "odaberite glas \"AI Reader\".",
             "globalActionIcon": {"ariaLabel": "prikaži sve jezike"}
         }

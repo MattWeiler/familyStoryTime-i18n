@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "změna stránky"
         }
     },
+    "saveButton": {"label": "Uložit"},
     "errors": {
         "failedLoadingBook": "Knihu se nepodařilo načíst.",
         "validationErrors": {

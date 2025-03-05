@@ -75,7 +75,7 @@
                     "1": "Þegar verið er að spila bók sjálfkrafa er hægt að spila ákveðið hljóð þegar síðu lýkur og næsta síða er tilbúin til að byrja.",
                     "2": "Hægt er að velja sett af fyrirfram skilgreindum hljóðum eða hægt er að hlaða upp sérsniðnu hljóði eða taka upp."
                 },
-                "title": "Page Change Audio"
+                "title": "Breyting á blaðsíðu"
             },
             "bookReader": {
                 "messages": {

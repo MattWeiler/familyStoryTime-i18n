@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "Noteer je eigen %{audioDisplayName} audio"},
+    "toasts": {
+        "audioFileLoading": {"failure": "Kan audio niet laden"},
+        "editInitFailed": "Kan audio niet bewerken",
+        "recordingFailed": "Kan audio niet opnemen"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Duidelijke bevestiging",
+            "message": "Weet u zeker dat u de geselecteerde audio wilt wissen?"
+        },
+        "ariaLabel": "Wis de geselecteerde %{audioDisplayName} audio"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "Selecteer een vooraf ingestelde %{audioDisplayName} audio"},
+    "selectAudioFileButton": {"ariaLabel": "Selecteer uw eigen %{audioDisplayName} audiobestand"},
+    "playButton": {
+        "stopped": {"ariaLabel": "Speel de %{audioDisplayName} audio"},
+        "recording": {"ariaLabel": "Stop de opname van {%{audioDisplayName}"},
+        "playing": {"ariaLabel": "Stop het spelen %{audioDisplayName} audio"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "bewerk de momenteel geladen %{audioDisplayName} audio",
+        "cancelConfirmation": {
+            "title": "Weggooien",
+            "message": "Weet je zeker dat je bewerkingen die je hebt gemaakt wilt weggooien?",
+            "buttonAriaLabels": {
+                "no": "Nee, blijf en blijf bewerken",
+                "yes": "Ja, gooi bewerkingen weg"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Geüpload bestand: %{filename}",
+        "recording": "Opname",
+        "preset": "Preset: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Toestemming geweigerd",
+        "message": "U hebt toestemming geweigerd om toegang te krijgen tot uw microfoon."
+    }}
+}

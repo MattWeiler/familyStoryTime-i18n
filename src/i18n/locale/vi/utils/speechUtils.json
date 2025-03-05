@@ -1,7 +1,7 @@
 {
     "voiceDisplayName": {
         "networkVoice": "[%{voiceLanguage}] %{voiceName} (%{voiceQuality}) [mạng]",
-        "localVoice": "[%{voiceLanguage}] %{voiceName} (%{voiceQuality})"
+        "localVoice": "[%{voiceLanguage}] %{voiceName} (%{voiceQuality}))"
     },
     "simpleVoiceDisplayName": "[%{voiceLanguage}] %{voiceName}",
     "voiceQuality": {

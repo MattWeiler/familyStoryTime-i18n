@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "Zahrajte si oříznuté zvuk a uslyšíte vzorek"},
+    "playbackPositionLabel": "Pozice přehrávání",
+    "discardButton": {
+        "label": "Vyřadit",
+        "title": "zlikvidujte oříznutý zvuk",
+        "ariaLabel": "zlikvidujte oříznutý zvuk"
+    },
+    "saveButton": {
+        "label": "Uložit",
+        "title": "Použijte oříznutý zvuk",
+        "ariaLabel": "Použijte oříznutý zvuk"
+    }
+}

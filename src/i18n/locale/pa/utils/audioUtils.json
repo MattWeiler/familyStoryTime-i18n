@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "ਬੁਲਬੁਲਾ ਉਛਾਲ",
-    "MAGICAL_SPARKLE_LOUD": "ਉੱਚੀ ਜਾਦੂਈ ਚਮਕ",
-    "MAGICAL_WHOOSH": "ਜਾਦੂਈ ਹੂਸ਼",
-    "GLITTER": "ਚਮਕ",
-    "_NONE": "ਕੋਈ ਨਹੀਂ",
-    "MAGICAL_REVEAL_WAVY": "wavvy ਜਾਦੂਈ ਪ੍ਰਗਟ",
-    "BUBBLE_POP_BIG": "ਵੱਡਾ ਬੁਲਬੁਲਾ ਪੌਪ",
-    "MAGICAL_REVEAL": "ਜਾਦੂਈ ਖੁਲਾਸਾ",
-    "BUBBLE_POP_POP_POP": "ਬੁਲਬੁਲਾ ਪੌਪ ਪੌਪ ਪੌਪ",
-    "ICICLES_WHOOSH": "icicles whoosh",
-    "RATTLESNAKE": "ਰੈਟਲਸਨੇਕ",
-    "BIRD_CHIRP": "ਪੰਛੀ ਦੀ ਚੀਕਣੀ",
-    "DRIP": "ਤੁਪਕਾ",
-    "FLUSH_GROSS": "ਕੁੱਲ ਫਲੱਸ਼",
-    "HARP": "ਰਬਾਬ",
-    "BUBBLE_POP_SMALL": "ਛੋਟਾ ਬੁਲਬੁਲਾ ਪੌਪ",
-    "MAGICAL_SPRING": "ਜਾਦੂਈ ਬਸੰਤ",
-    "MAGICAL_SPARKLE": "ਜਾਦੂਈ ਚਮਕ"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "ਬੁਲਬੁਲਾ ਉਛਾਲ",
+        "MAGICAL_SPARKLE_LOUD": "ਉੱਚੀ ਜਾਦੂਈ ਚਮਕ",
+        "MAGICAL_WHOOSH": "ਜਾਦੂਈ ਹੂਸ਼",
+        "GLITTER": "ਚਮਕ",
+        "_NONE": "ਕੋਈ ਨਹੀਂ",
+        "MAGICAL_REVEAL_WAVY": "wavvy ਜਾਦੂਈ ਪ੍ਰਗਟ",
+        "BUBBLE_POP_BIG": "ਵੱਡਾ ਬੁਲਬੁਲਾ ਪੌਪ",
+        "MAGICAL_REVEAL": "ਜਾਦੂਈ ਖੁਲਾਸਾ",
+        "BUBBLE_POP_POP_POP": "ਬੁਲਬੁਲਾ ਪੌਪ ਪੌਪ ਪੌਪ",
+        "ICICLES_WHOOSH": "ਆਈਸੀਐਲਯੂਜ਼ ਹੇਸੋਸ਼",
+        "RATTLESNAKE": "ਰੈਟਲਸਨੇਕ",
+        "BIRD_CHIRP": "ਪੰਛੀ ਦੀ ਚੀਕਣੀ",
+        "DRIP": "ਤੁਪਕਾ",
+        "FLUSH_GROSS": "ਕੁੱਲ ਫਲੱਸ਼",
+        "HARP": "ਰਬਾਬ",
+        "BUBBLE_POP_SMALL": "ਛੋਟਾ ਬੁਲਬੁਲਾ ਪੌਪ",
+        "MAGICAL_SPRING": "ਜਾਦੂਈ ਬਸੰਤ",
+        "MAGICAL_SPARKLE": "ਜਾਦੂਈ ਚਮਕ"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} ਘੰਟ",
+            "one": "%{displayValue} ੰਟ"
+        },
+        "mins": {
+            "other": "%{displayValue} ਮਿੰਟ",
+            "one": "%{displayValue} ਮਿੰਟ"
+        },
+        "ms": {
+            "other": "%{displayValue} ਐਮਐਸ",
+            "one": "%{displayValue} ਐਮਐਸ"
+        },
+        "secs": {
+            "other": "%{displayValue}",
+            "one": "%{displayValue}"
+        },
+        "days": {
+            "other": "%{displayValue} ਿਨ",
+            "one": "%{displayValue} ਿਨ"
+        }
+    }
+}

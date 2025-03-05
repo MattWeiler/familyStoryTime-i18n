@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "バブルバウンス",
-    "MAGICAL_SPARKLE_LOUD": "大きな魔法の輝き",
-    "MAGICAL_WHOOSH": "魔法のシューッという音",
-    "GLITTER": "キラキラ",
-    "_NONE": "なし",
-    "MAGICAL_REVEAL_WAVY": "波状の魔法の明らかに",
-    "BUBBLE_POP_BIG": "大きなバブルポップ",
-    "MAGICAL_REVEAL": "魔法の暴露",
-    "BUBBLE_POP_POP_POP": "バブルポップポップポップ",
-    "ICICLES_WHOOSH": "氷柱がヒューヒューと鳴る",
-    "RATTLESNAKE": "ガラガラヘビ",
-    "BIRD_CHIRP": "鳥のさえずり",
-    "DRIP": "滴下",
-    "FLUSH_GROSS": "グロスフラッシュ",
-    "HARP": "ハープ",
-    "BUBBLE_POP_SMALL": "小さなバブルポップ",
-    "MAGICAL_SPRING": "魔法の春",
-    "MAGICAL_SPARKLE": "魔法の輝き"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "バブルバウンス",
+        "MAGICAL_SPARKLE_LOUD": "大きな魔法の輝き",
+        "MAGICAL_WHOOSH": "魔法のシューッという音",
+        "GLITTER": "キラキラ",
+        "_NONE": "なし",
+        "MAGICAL_REVEAL_WAVY": "波状の魔法の明らかに",
+        "BUBBLE_POP_BIG": "大きなバブルポップ",
+        "MAGICAL_REVEAL": "魔法の暴露",
+        "BUBBLE_POP_POP_POP": "バブルポップポップポップ",
+        "ICICLES_WHOOSH": "氷柱がヒューヒューと鳴る",
+        "RATTLESNAKE": "ガラガラヘビ",
+        "BIRD_CHIRP": "鳥のさえずり",
+        "DRIP": "滴下",
+        "FLUSH_GROSS": "グロスフラッシュ",
+        "HARP": "ハープ",
+        "BUBBLE_POP_SMALL": "小さなバブルポップ",
+        "MAGICAL_SPRING": "魔法の春",
+        "MAGICAL_SPARKLE": "魔法の輝き"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue}時間",
+            "one": "%{displayValue}時間"
+        },
+        "mins": {
+            "other": "%{displayValue} mins",
+            "one": "%{displayValue} min"
+        },
+        "ms": {
+            "other": "%{displayValue} ms",
+            "one": "%{displayValue} ms"
+        },
+        "secs": {
+            "other": "%{displayValue}秒",
+            "one": "%{displayValue}秒"
+        },
+        "days": {
+            "other": "%{displayValue}日",
+            "one": "%{displayValue}日"
+        }
+    }
+}

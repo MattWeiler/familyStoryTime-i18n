@@ -1,6 +1,6 @@
 {"prettyPrintByteSize": {
     "kilobytes": {
-        "other": "%{count} केबी",
+        "other": "%{count} kb",
         "one": "1 केबी"
     },
     "bytes": {
@@ -12,7 +12,7 @@
         "one": "1 एमबी"
     },
     "gigabytes": {
-        "other": "%{count} जीबी",
+        "other": "%{count} gb",
         "one": "1 जीबी"
     }
 }}

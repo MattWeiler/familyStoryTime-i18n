@@ -1,0 +1,19 @@
+{"contextMenu": {
+    "items": {
+        "selectAll": {
+            "label": "Selectați toate",
+            "ariaLabel": {
+                "other": "Selectați toate elementele filtrate",
+                "one": "Selectați elementul filtrat"
+            }
+        },
+        "cancelSelection": {
+            "label": "Anulați selecția",
+            "ariaLabel": {
+                "other": "Deselectați toate elementele selectate",
+                "one": "Deselectați elementul selectat"
+            }
+        }
+    },
+    "ariaLabel": "Vizualizați opțiuni suplimentare"
+}}

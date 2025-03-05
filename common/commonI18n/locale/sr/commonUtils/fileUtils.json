@@ -4,12 +4,12 @@
         "one": "1 КБ"
     },
     "bytes": {
-        "other": "%{count} бајтова",
+        "other": "%{count} бајтови",
         "one": "1 бајт"
     },
     "megabytes": {
         "other": "%{count} МБ",
-        "one": "1 МБ"
+        "one": "1 Мб"
     },
     "gigabytes": {
         "other": "%{count} ГБ",

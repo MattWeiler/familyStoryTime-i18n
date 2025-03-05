@@ -2,24 +2,24 @@
     "add": "Přidat",
     "cancel": "Zrušit",
     "no": "Žádný",
-    "verifying": "ověřování...",
+    "verifying": "ověření ...",
     "set": "Soubor",
     "yes": "Ano",
     "back": "Zadní",
-    "loading": "načítání...",
+    "loading": "Načítání ...",
     "required": "požadovaný",
     "acknowledgeError": "potvrdit chybu",
-    "saving": "ukládání...",
+    "saving": "Úspora ...",
     "settingsButton": {
         "text": "Nastavení",
-        "ariaLabel": "přejděte na stránku nastavení aplikací"
+        "ariaLabel": "Přejděte na stránku Nastavení aplikací"
     },
     "backButton": {
         "label": "Zadní",
-        "title": "vrátit se na poslední stránku",
-        "ariaLabel": "vrátit se na poslední stránku"
+        "title": "Vraťte se na poslední stránku",
+        "ariaLabel": "Vraťte se na poslední stránku"
     },
-    "sending": "odesílání...",
+    "sending": "Odeslání ...",
     "create": "Vytvořit",
     "ok": "Dobře"
 }

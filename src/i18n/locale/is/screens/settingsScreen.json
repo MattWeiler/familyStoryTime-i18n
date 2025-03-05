@@ -22,7 +22,7 @@
             },
             "label": "Sérstakar þakkir",
             "icons": {
-                "ionicIcons": "IonIcons",
+                "ionicIcons": "Ionicons",
                 "someIconsBy": "Tákn eftir:",
                 "icons8": "Tákn 8",
                 "iconArchive": "Táknasafn"

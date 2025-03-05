@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "промяна на страницата"
         }
     },
+    "saveButton": {"label": "Запазване"},
     "errors": {
         "failedLoadingBook": "Неуспешно зареждане на книгата.",
         "validationErrors": {
@@ -123,7 +124,7 @@
         "label": "Източник",
         "isbnInput": {
             "description": "Международният стандартен номер на книгата.",
-            "label": "ISBN",
+            "label": "Isbn",
             "placeholder": "ISBN на книгата",
             "ariaLabel": "международен стандартен книжен номер на книгата"
         }

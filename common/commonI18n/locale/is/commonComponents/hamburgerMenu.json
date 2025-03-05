@@ -1,8 +1,8 @@
 {
     "applicationSecurityButton": {"ariaLabel": {
-        "unlockParentMode": "opna forrit til notkunar foreldra",
-        "initParentMode": "virkja foreldralæsingu",
-        "lockParentMode": "virkja foreldralás"
+        "unlockParentMode": "Opnaðu umsókn til notkunar foreldra",
+        "initParentMode": "Virkja læsingu foreldra",
+        "lockParentMode": "Virkja foreldralás"
     }},
-    "hamburgerButton": {"ariaLabel": "sýna hamborgaramatseðil"}
+    "hamburgerButton": {"ariaLabel": "Sýna Hamburger valmynd"}
 }

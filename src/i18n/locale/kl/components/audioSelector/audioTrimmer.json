@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "prøve tusarniarlugu lyd trimmed audio"},
+    "playbackPositionLabel": "Playback Position",
+    "discardButton": {
+        "label": "Kasiilerpaa",
+        "title": "nipimik trimmeqarsimasumik peerlugu",
+        "ariaLabel": "nipimik trimmeqarsimasumik peerlugu"
+    },
+    "saveButton": {
+        "label": "Toqqorpaa",
+        "title": "lyd trimmed atorlugu",
+        "ariaLabel": "lyd trimmed atorlugu"
+    }
+}

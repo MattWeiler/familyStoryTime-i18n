@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "Rekam %{audioDisplayName} audio Anda sendiri"},
+    "toasts": {
+        "audioFileLoading": {"failure": "Gagal memuat audio"},
+        "editInitFailed": "Gagal mengedit audio",
+        "recordingFailed": "Gagal merekam audio"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Konfirmasi yang jelas",
+            "message": "Anda yakin ingin menghapus audio yang dipilih?"
+        },
+        "ariaLabel": "Hapus audio %{audioDisplayName} yang dipilih"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "Pilih Audio Preset %{audioDisplayName}"},
+    "selectAudioFileButton": {"ariaLabel": "Pilih file audio Anda sendiri %{audioDisplayName}"},
+    "playButton": {
+        "stopped": {"ariaLabel": "Mainkan audio %{audioDisplayName}"},
+        "recording": {"ariaLabel": "Hentikan perekaman %{audioDisplayName}"},
+        "playing": {"ariaLabel": "Hentikan audio %{audioDisplayName} bermain"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "Edit audio %{audioDisplayName} yang saat ini dimuat",
+        "cancelConfirmation": {
+            "title": "Buang pengeditan",
+            "message": "Apakah Anda yakin ingin membuang pengeditan yang telah Anda lakukan?",
+            "buttonAriaLabels": {
+                "no": "Tidak, tetap dan terus mengedit",
+                "yes": "Ya, buang suntingan"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "File yang diunggah: %{filename}",
+        "recording": "Rekaman",
+        "preset": "Preset: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Izin ditolak",
+        "message": "Anda telah menolak izin untuk mengakses mikrofon Anda."
+    }}
+}

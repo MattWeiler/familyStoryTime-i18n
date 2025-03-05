@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "ترتد الفقاعة",
-    "MAGICAL_SPARKLE_LOUD": "بريق سحري بصوت عالٍ",
-    "MAGICAL_WHOOSH": "ووش السحرية",
-    "GLITTER": "بريق",
-    "_NONE": "لا أحد",
-    "MAGICAL_REVEAL_WAVY": "الكشف السحري المتموج",
-    "BUBBLE_POP_BIG": "فقاعة كبيرة",
-    "MAGICAL_REVEAL": "الكشف السحري",
-    "BUBBLE_POP_POP_POP": "فقاعة البوب \u200b\u200bالبوب \u200b\u200bالبوب",
-    "ICICLES_WHOOSH": "رقاقات ثلجية",
-    "RATTLESNAKE": "أفعى الجلجلة",
-    "BIRD_CHIRP": "تغريد الطيور",
-    "DRIP": "تقطر",
-    "FLUSH_GROSS": "تدفق الإجمالي",
-    "HARP": "القيثارة",
-    "BUBBLE_POP_SMALL": "فقاعة صغيرة",
-    "MAGICAL_SPRING": "الربيع السحري",
-    "MAGICAL_SPARKLE": "البريق السحري"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "ترتد الفقاعة",
+        "MAGICAL_SPARKLE_LOUD": "بريق سحري بصوت عالٍ",
+        "MAGICAL_WHOOSH": "ووش السحرية",
+        "GLITTER": "بريق",
+        "_NONE": "لا أحد",
+        "MAGICAL_REVEAL_WAVY": "الكشف السحري المتموج",
+        "BUBBLE_POP_BIG": "فقاعة كبيرة",
+        "MAGICAL_REVEAL": "الكشف السحري",
+        "BUBBLE_POP_POP_POP": "فقاعة البوب \u200b\u200bالبوب \u200b\u200bالبوب",
+        "ICICLES_WHOOSH": "رقاقات ثلجية",
+        "RATTLESNAKE": "أفعى الجلجلة",
+        "BIRD_CHIRP": "تغريد الطيور",
+        "DRIP": "تقطر",
+        "FLUSH_GROSS": "تدفق الإجمالي",
+        "HARP": "القيثارة",
+        "BUBBLE_POP_SMALL": "فقاعة صغيرة",
+        "MAGICAL_SPRING": "الربيع السحري",
+        "MAGICAL_SPARKLE": "البريق السحري"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} ساعات",
+            "one": "%{displayValue} ساعة"
+        },
+        "mins": {
+            "other": "%{displayValue} دقيقة",
+            "one": "%{displayValue} دقيقة"
+        },
+        "ms": {
+            "other": "%{displayValue} MS",
+            "one": "%{displayValue} MS"
+        },
+        "secs": {
+            "other": "%{displayValue} secs",
+            "one": "%{displayValue} ثانية"
+        },
+        "days": {
+            "other": "%{displayValue} أيام",
+            "one": "%{displayValue} اليوم"
+        }
+    }
+}

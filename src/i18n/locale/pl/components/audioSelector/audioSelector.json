@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "Nagraj swój własny dźwięk %{audioDisplayName}"},
+    "toasts": {
+        "audioFileLoading": {"failure": "Nie udało się załadować dźwięku"},
+        "editInitFailed": "Nie udało się edytować dźwięku",
+        "recordingFailed": "Nie udało się nagrać dźwięku"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Jasne potwierdzenie",
+            "message": "Czy na pewno chcesz wyczyścić wybrany dźwięk?"
+        },
+        "ariaLabel": "Wyczyść wybrany dźwięk %{audioDisplayName}"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "Wybierz audio wstępne %{audioDisplayName}"},
+    "selectAudioFileButton": {"ariaLabel": "Wybierz własny plik audio %{audioDisplayName}"},
+    "playButton": {
+        "stopped": {"ariaLabel": "Odtwórz dźwięk %{audioDisplayName}"},
+        "recording": {"ariaLabel": "Zatrzymaj nagrywanie %{audioDisplayName}"},
+        "playing": {"ariaLabel": "Zatrzymaj odtwarzanie audio %{audioDisplayName}"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "Edytuj aktualnie załadowany dźwięk %{audioDisplayName}",
+        "cancelConfirmation": {
+            "title": "Odrzuć edycję",
+            "message": "Czy na pewno chcesz odrzucić jakieś edycje, które przeprowadziłeś?",
+            "buttonAriaLabels": {
+                "no": "Nie, zostań i kontynuuj edycję",
+                "yes": "Tak, odrzuć edycje"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Przesłany plik: %{filename}",
+        "recording": "Nagranie",
+        "preset": "PRESET: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Zezwolenie odrzucone",
+        "message": "Odmówiłeś zgody na dostęp do mikrofonu."
+    }}
+}

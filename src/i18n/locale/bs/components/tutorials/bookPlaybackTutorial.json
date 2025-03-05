@@ -9,7 +9,7 @@
             "5": "Režim \"Pročitaj sam\" će vam omogućiti da sami pročitate knjigu.",
             "6": "Ako knjiga sadrži izvorne informacije, pojavit će se ikona na koju se klikne te izvorne informacije. "
         },
-        "title": "Splash Screen"
+        "title": "Splash ekran"
     },
     "player": {
         "messages": {
@@ -19,6 +19,6 @@
             "4": "Prevlačenjem lijevo/desno ćete se kretati između stranica.",
             "5": "Dupli dodir ili štipanje će uvećati/umanjiti prikaz. "
         },
-        "title": "Book Player"
+        "title": "Rezervirajte"
     }
 }

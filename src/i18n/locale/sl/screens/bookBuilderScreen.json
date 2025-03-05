@@ -63,13 +63,14 @@
     }},
     "pageChangeAudio": {
         "description": "Zvok za predvajanje, ko je čas za zamenjavo strani.",
-        "label": "Page Change Audio",
+        "label": "Stran spremeni zvok",
         "presetAudioModalPicker": {
             "headerLabel": "Izberite Page Change Audio",
             "ariaLabel": "izberite s seznama prednastavljenih zvočnih možnosti za spremembo strani",
             "accessibleAudioDisplayName": "sprememba strani"
         }
     },
+    "saveButton": {"label": "Shrani"},
     "errors": {
         "failedLoadingBook": "Knjige ni bilo mogoče naložiti.",
         "validationErrors": {
@@ -123,7 +124,7 @@
         "label": "Vir",
         "isbnInput": {
             "description": "Mednarodna standardna knjižna številka knjige.",
-            "label": "ISBN",
+            "label": "Isbn",
             "placeholder": "ISBN knjige",
             "ariaLabel": "mednarodna standardna knjižna številka knjige"
         }

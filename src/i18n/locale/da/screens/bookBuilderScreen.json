@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "sideskift"
         }
     },
+    "saveButton": {"label": "Spare"},
     "errors": {
         "failedLoadingBook": "Kunne ikke indlæse bogen.",
         "validationErrors": {
@@ -123,7 +124,7 @@
         "label": "Kilde",
         "isbnInput": {
             "description": "Bogens internationale standardbognummer.",
-            "label": "ISBN",
+            "label": "Isbn",
             "placeholder": "ISBN for bogen",
             "ariaLabel": "bogens internationale standardbognummer"
         }

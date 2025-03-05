@@ -1,8 +1,8 @@
 {
     "applicationSecurityButton": {"ariaLabel": {
-        "unlockParentMode": "deblocați aplicația pentru uz parental",
-        "initParentMode": "activați blocarea parentală",
-        "lockParentMode": "activați blocarea părintelui"
+        "unlockParentMode": "Deblocați cererea pentru utilizare parentală",
+        "initParentMode": "Activați blocarea părinților",
+        "lockParentMode": "Activați blocajul părinților"
     }},
-    "hamburgerButton": {"ariaLabel": "arată meniul de hamburgeri"}
+    "hamburgerButton": {"ariaLabel": "Afișați meniul Hamburger"}
 }

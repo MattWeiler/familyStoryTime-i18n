@@ -7,7 +7,7 @@
     "emailInput": {
         "description": "قم بتوفير ما إذا كنت تريد أن تتلقى ردًا منا.",
         "label": "عنوان البريد الإلكتروني",
-        "placeholder": "someone@gmail.com",
+        "placeholder": "شخص@gmail.com",
         "ariaLabel": "اختياريًا، عنوان بريدك الإلكتروني"
     }
 }

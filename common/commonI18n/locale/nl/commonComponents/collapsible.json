@@ -1,4 +1,4 @@
 {"ariaLabel": {
-    "expanded": "samenvouwen %{title}",
-    "collapsed": "uitbreiden %{title}"
+    "expanded": "collapse %{title}",
+    "collapsed": "expand %{title}"
 }}

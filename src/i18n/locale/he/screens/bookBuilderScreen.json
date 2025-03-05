@@ -54,7 +54,7 @@
     },
     "bookSplashImageImageSelector": {
         "description": "התמונה שתוצג בעת השקת הספר לראשונה.",
-        "label": "Book Splash Image",
+        "label": "ספר תמונת ספלאש",
         "accessibleImageDisplayName": "ספר שפריץ"
     },
     "confirmations": {"goBack": {
@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "שינוי עמוד"
         }
     },
+    "saveButton": {"label": "לְהַצִיל"},
     "errors": {
         "failedLoadingBook": "טעינת הספר נכשלה.",
         "validationErrors": {

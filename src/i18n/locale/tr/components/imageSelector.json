@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Bir resim dosyasına göz atın",
+        "ariaLabel": "%{imageDisplayName} görüntü için bir resim dosyasına göz atın"
+    },
+    "takePhotoButton": {
+        "title": "fotoğraf çekmek",
+        "ariaLabel": "%{imageDisplayName} görüntü için fotoğraf çekin"
+    },
+    "browseImageGalleryButton": {
+        "title": "Resim Galerisi'ni Gözat",
+        "ariaLabel": "%{imageDisplayName} görüntü için resim galerisini göz atın"
+    },
+    "fullscreenButton": {"ariaLabel": "Fullscreen'de %{imageDisplayName} görüntüsü göster"},
+    "imageEditor": {
+        "cropButton": {"text": "Mahsul"},
+        "cancelButton": {"text": "İptal etmek"},
+        "backButton": {"text": "Geri"},
+        "saveButton": {"text": "Kaydetmek"}
+    },
+    "editSelectedImageButton": {
+        "title": "Resmi Düzenle",
+        "ariaLabel": "%{imageDisplayName} resmini düzenleyin"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "%{imageDisplayName} görüntü denetimlerini gösterin",
+        "controlsVisible": "%{imageDisplayName} görüntü denetimlerini gizle"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "İzin reddedildi",
+            "message": "Kameranıza erişme iznini reddettiniz."
+        },
+        "browseImages": {
+            "title": "İzin reddedildi",
+            "message": "Fotoğraflarınıza erişme iznini reddettiniz."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "Tam ekran kapatın"}
+}

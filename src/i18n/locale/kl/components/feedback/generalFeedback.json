@@ -42,8 +42,8 @@
         "label": "App Naammagittaalliuut",
         "levels": {
             "1": {
-                "displayName": "Hate It",
-                "ariaLabel": "hate it"
+                "displayName": "Ussakarlugu",
+                "ariaLabel": "haterlugu"
             },
             "2": {
                 "displayName": "Peqqissimisoq",

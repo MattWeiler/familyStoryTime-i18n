@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "Játssza le a vágott hangot, hogy meghallja a mintát"},
+    "playbackPositionLabel": "Lejátszási helyzet",
+    "discardButton": {
+        "label": "Eldob",
+        "title": "Dobja el a vágott hangot",
+        "ariaLabel": "Dobja el a vágott hangot"
+    },
+    "saveButton": {
+        "label": "Megtakarítás",
+        "title": "Használja a vágott audiót",
+        "ariaLabel": "Használja a vágott audiót"
+    }
+}

@@ -1,4 +1,4 @@
 {"ariaLabel": {
-    "expanded": "згорнути %{title}",
-    "collapsed": "розгорнути %{title}"
+    "expanded": "колапс %{title}",
+    "collapsed": "Розширити %{title}"
 }}

@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "अपना खुद का %{audioDisplayName} ऑडियो रिकॉर्ड करें"},
+    "toasts": {
+        "audioFileLoading": {"failure": "ऑडियो लोड करने में विफल"},
+        "editInitFailed": "ऑडियो को संपादित करने में विफल",
+        "recordingFailed": "ऑडियो रिकॉर्ड करने में विफल"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "स्पष्ट पुष्टि",
+            "message": "क्या आप सुनिश्चित हैं कि आप चयनित ऑडियो को साफ करना चाहते हैं?"
+        },
+        "ariaLabel": "चयनित %{audioDisplayName} ऑडियो को साफ़ करें"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "एक प्रीसेट %{audioDisplayName} ऑडियो का चयन करें"},
+    "selectAudioFileButton": {"ariaLabel": "अपनी खुद की %{audioDisplayName} ऑडियो फ़ाइल का चयन करें"},
+    "playButton": {
+        "stopped": {"ariaLabel": "%{audioDisplayName} ऑडियो खेलें"},
+        "recording": {"ariaLabel": "%{audioDisplayName} रिकॉर्डिंग को रोकें"},
+        "playing": {"ariaLabel": "प्लेइंग को रोकें %{audioDisplayName} ऑडियो"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "वर्तमान में लोड किए गए %{audioDisplayName} ऑडियो को संपादित करें",
+        "cancelConfirmation": {
+            "title": "संपादित करना",
+            "message": "क्या आप सुनिश्चित हैं कि आप किसी भी संपादन को छोड़ना चाहते हैं जो आपने बनाया है?",
+            "buttonAriaLabels": {
+                "no": "नहीं, रहो और संपादन जारी रखें",
+                "yes": "हाँ, संपादित करें"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "अपलोड की गई फ़ाइल: %{filename}",
+        "recording": "रिकॉर्डिंग",
+        "preset": "प्रीसेट: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "अनुमति नहीं मिली",
+        "message": "आपने अपने माइक्रोफोन तक पहुंचने की अनुमति से इनकार कर दिया है।"
+    }}
+}

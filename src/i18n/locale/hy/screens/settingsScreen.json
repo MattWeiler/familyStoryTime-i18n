@@ -14,7 +14,7 @@
         }
     },
     "footer": {
-        "copyright": "%{year} WeilerHaus",
+        "copyright": "%{year} Weilerhaus",
         "specialThanks": {
             "fonts": {
                 "coolors": "Գունավորիչներ",
@@ -22,7 +22,7 @@
             },
             "label": "Հատուկ շնորհակալություն",
             "icons": {
-                "ionicIcons": "IonIcons",
+                "ionicIcons": "Իոնիցոններ",
                 "someIconsBy": "Սրբապատկերներ՝",
                 "icons8": "Սրբապատկերներ 8",
                 "iconArchive": "Սրբապատկերների արխիվ"
@@ -59,7 +59,7 @@
         "picker": {
             "default": "լռելյայն",
             "networkActionIcon": {"ariaLabel": "ցույց տալ տեղական և ցանցային ձայները"},
-            "label": "AI Reader Voices",
+            "label": "AI Reader ձայներ",
             "ariaLabel": "ընտրեք «AI Reader» ձայնը",
             "globalActionIcon": {"ariaLabel": "ցույց տալ բոլոր լեզուները"}
         }
@@ -109,7 +109,7 @@
         }
     }},
     "textToSpeechEnabled": {
-        "displayName": "AI Reader",
+        "displayName": "AI ընթերցող",
         "testLabel": "Փորձնական ձայն",
         "testAriaLabel": {
             "stopped": "փորձարկել «AI Reader» ձայնը",

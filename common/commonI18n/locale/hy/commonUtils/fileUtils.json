@@ -1,15 +1,15 @@
 {"prettyPrintByteSize": {
     "kilobytes": {
-        "other": "%{count} ԿԲ",
-        "one": "1 ԿԲ"
+        "other": "%{count} KB",
+        "one": "1 KB"
     },
     "bytes": {
         "other": "%{count} բայթ",
         "one": "1 բայթ"
     },
     "megabytes": {
-        "other": "%{count} ՄԲ",
-        "one": "1 ՄԲ"
+        "other": "%{count} MB",
+        "one": "1 MB"
     },
     "gigabytes": {
         "other": "%{count} ԳԲ",

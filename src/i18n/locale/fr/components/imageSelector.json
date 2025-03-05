@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Parcourir un fichier image",
+        "ariaLabel": "Parcourez un fichier image pour %{imageDisplayName} image"
+    },
+    "takePhotoButton": {
+        "title": "prendre une photo",
+        "ariaLabel": "prendre une photo pour %{imageDisplayName} image"
+    },
+    "browseImageGalleryButton": {
+        "title": "Galerie d'images parcourir",
+        "ariaLabel": "Parcourir la galerie d'images pour %{imageDisplayName} Image"
+    },
+    "fullscreenButton": {"ariaLabel": "Afficher l'image %{imageDisplayName} en plein écran"},
+    "imageEditor": {
+        "cropButton": {"text": "Recadrer"},
+        "cancelButton": {"text": "Annuler"},
+        "backButton": {"text": "Dos"},
+        "saveButton": {"text": "Sauvegarder"}
+    },
+    "editSelectedImageButton": {
+        "title": "Modifier l'image",
+        "ariaLabel": "modifier l'image %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "afficher les contrôles d'image %{imageDisplayName}",
+        "controlsVisible": "Masquer les contrôles d'image %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Permission refusée",
+            "message": "Vous avez nié l'autorisation d'accéder à votre appareil photo."
+        },
+        "browseImages": {
+            "title": "Permission refusée",
+            "message": "Vous avez nié l'autorisation d'accéder à vos photos."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "fermer l'écran complet"}
+}

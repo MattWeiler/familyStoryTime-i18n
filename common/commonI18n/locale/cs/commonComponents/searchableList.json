@@ -1,0 +1,19 @@
+{"contextMenu": {
+    "items": {
+        "selectAll": {
+            "label": "Vyberte všechny",
+            "ariaLabel": {
+                "other": "Vyberte všechny filtrované položky",
+                "one": "Vyberte filtrovanou položku"
+            }
+        },
+        "cancelSelection": {
+            "label": "Zrušit výběr",
+            "ariaLabel": {
+                "other": "Zrušte výběr všech vybraných položek",
+                "one": "Zrušte výběr vybrané položky"
+            }
+        }
+    },
+    "ariaLabel": "Zobrazit další možnosti"
+}}

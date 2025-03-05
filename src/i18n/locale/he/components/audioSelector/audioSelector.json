@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "הקלט %{audioDisplayName} שמע שלך"},
+    "toasts": {
+        "audioFileLoading": {"failure": "נכשל טוען שמע"},
+        "editInitFailed": "נכשל לערוך שמע",
+        "recordingFailed": "הקלטת שמע נכשלה"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "אישור ברור",
+            "message": "האם אתה בטוח שאתה רוצה לנקות את השמע שנבחר?"
+        },
+        "ariaLabel": "נקה את השמע הנבחר %{audioDisplayName}"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "בחר קביעה מוגדרת מראש %{audioDisplayName} שמע"},
+    "selectAudioFileButton": {"ariaLabel": "בחר קובץ שמע משלך %{audioDisplayName}"},
+    "playButton": {
+        "stopped": {"ariaLabel": "הפעל את השמע %{audioDisplayName}"},
+        "recording": {"ariaLabel": "הפסק את ההקלטה %{audioDisplayName}"},
+        "playing": {"ariaLabel": "הפסק את הנגינה %{audioDisplayName} שמע"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "ערוך את השמע העמוס כעת %{audioDisplayName}",
+        "cancelConfirmation": {
+            "title": "השלך את העריכה",
+            "message": "האם אתה בטוח שאתה רוצה להשליך כל עריכות שעשית?",
+            "buttonAriaLabels": {
+                "no": "לא, הישאר והמשיך לערוך",
+                "yes": "כן, זרוק עריכות"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "קובץ שהועלה: %{filename}",
+        "recording": "הַקלָטָה",
+        "preset": "מוגדר מראש: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "אישור נדחה",
+        "message": "שללת אישור לגשת למיקרופון שלך."
+    }}
+}

@@ -1,4 +1,4 @@
 {"ariaLabel": {
-    "expanded": "skjul %{title}",
-    "collapsed": "utvide %{title}"
+    "expanded": "kollapse %{title}",
+    "collapsed": "Utvid %{title}"
 }}

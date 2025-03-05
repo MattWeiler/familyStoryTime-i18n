@@ -1,8 +1,8 @@
 {
     "applicationSecurityButton": {"ariaLabel": {
-        "unlockParentMode": "保護者向けにアプリケーションのロックを解除する",
-        "initParentMode": "ペアレンタルロックを有効にする",
-        "lockParentMode": "親ロックを有効にする"
+        "unlockParentMode": "親の使用のためのアプリケーションのロックを解除します",
+        "initParentMode": "親のロックを有効にします",
+        "lockParentMode": "親ロックを有効にします"
     }},
-    "hamburgerButton": {"ariaLabel": "ハンバーガーメニューを表示"}
+    "hamburgerButton": {"ariaLabel": "ハンバーガーメニューを表示します"}
 }

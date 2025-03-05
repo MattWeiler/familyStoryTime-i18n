@@ -14,10 +14,10 @@
         }
     },
     "footer": {
-        "copyright": "%{year} WeilerHaus",
+        "copyright": "%{year} weilerhaus",
         "specialThanks": {
             "fonts": {
-                "coolors": "Coolors",
+                "coolors": "Охлади",
                 "someFontsBy": "Шрифтове от:"
             },
             "label": "Специални благодарности",
@@ -109,7 +109,7 @@
         }
     }},
     "textToSpeechEnabled": {
-        "displayName": "AI Reader",
+        "displayName": "AI четец",
         "testLabel": "Тествайте глас",
         "testAriaLabel": {
             "stopped": "тествайте гласа на \"AI Reader\".",

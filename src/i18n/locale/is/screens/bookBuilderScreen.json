@@ -63,13 +63,14 @@
     }},
     "pageChangeAudio": {
         "description": "Hljóðið til að spila þegar það er kominn tími til að skipta um síðu.",
-        "label": "Page Change Audio",
+        "label": "Breyting á blaðsíðu",
         "presetAudioModalPicker": {
             "headerLabel": "Veldu Page Change Audio",
             "ariaLabel": "veldu af listanum yfir forstillta hljóðvalkosti fyrir síðubreytingar",
             "accessibleAudioDisplayName": "síðubreyting"
         }
     },
+    "saveButton": {"label": "Vista"},
     "errors": {
         "failedLoadingBook": "Ekki tókst að hlaða bókinni.",
         "validationErrors": {

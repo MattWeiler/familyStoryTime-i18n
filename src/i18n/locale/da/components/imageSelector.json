@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Gennemse efter en billedfil",
+        "ariaLabel": "Gennemse for en billedfil til %{imageDisplayName} billede"
+    },
+    "takePhotoButton": {
+        "title": "Tag billede",
+        "ariaLabel": "Tag billede til %{imageDisplayName} billede"
+    },
+    "browseImageGalleryButton": {
+        "title": "Gennemse billedgalleri",
+        "ariaLabel": "Gennemse billedgalleri til %{imageDisplayName} billede"
+    },
+    "fullscreenButton": {"ariaLabel": "Vis %{imageDisplayName} billede i fuld skærm"},
+    "imageEditor": {
+        "cropButton": {"text": "Afgrøde"},
+        "cancelButton": {"text": "Ophæve"},
+        "backButton": {"text": "Tilbage"},
+        "saveButton": {"text": "Spare"}
+    },
+    "editSelectedImageButton": {
+        "title": "Rediger billedet",
+        "ariaLabel": "Rediger %{imageDisplayName} billedet"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "Vis %{imageDisplayName} billedkontrollerne",
+        "controlsVisible": "Skjul %{imageDisplayName} billedkontrollerne"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Tilladelse nægtet",
+            "message": "Du har nægtet tilladelse til at få adgang til dit kamera."
+        },
+        "browseImages": {
+            "title": "Tilladelse nægtet",
+            "message": "Du har nægtet tilladelse til at få adgang til dine fotos."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "Luk fuldskærm"}
+}

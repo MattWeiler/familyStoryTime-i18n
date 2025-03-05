@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "Запишіть власний %{audioDisplayName} аудіо"},
+    "toasts": {
+        "audioFileLoading": {"failure": "Не вдалося завантажити аудіо"},
+        "editInitFailed": "Не вдалося редагувати аудіо",
+        "recordingFailed": "Не вдалося записати аудіо"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Чітке підтвердження",
+            "message": "Ви впевнені, що хочете очистити вибраний аудіо?"
+        },
+        "ariaLabel": "Очистіть вибраний аудіо %{audioDisplayName}"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "Виберіть попередньо встановлений %{audioDisplayName} аудіо"},
+    "selectAudioFileButton": {"ariaLabel": "Виберіть власний аудіофайл %{audioDisplayName}"},
+    "playButton": {
+        "stopped": {"ariaLabel": "Відтворити аудіо %{audioDisplayName}"},
+        "recording": {"ariaLabel": "Зупиніть запис %{audioDisplayName}"},
+        "playing": {"ariaLabel": "Зупиніть відтворення %{audioDisplayName} аудіо"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "Відредагуйте навантажений аудіо %{audioDisplayName}",
+        "cancelConfirmation": {
+            "title": "Відкинути редагування",
+            "message": "Ви впевнені, що хочете відкинути будь -які редагування, які ви зробили?",
+            "buttonAriaLabels": {
+                "no": "Ні, залишайтеся і продовжуйте редагувати",
+                "yes": "Так, відкиньте редагування"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Завантажений файл: %{filename}",
+        "recording": "Запис",
+        "preset": "Preset: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Дозвіл заперечується",
+        "message": "Ви заперечували дозвіл на доступ до мікрофона."
+    }}
+}

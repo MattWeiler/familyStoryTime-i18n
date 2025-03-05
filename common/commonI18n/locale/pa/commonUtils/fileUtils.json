@@ -1,18 +1,18 @@
 {"prettyPrintByteSize": {
     "kilobytes": {
         "other": "%{count} KB",
-        "one": "1 KB"
+        "one": "1 ਕੇ.ਬੀ."
     },
     "bytes": {
         "other": "%{count} ਬਾਈਟ",
         "one": "1 ਬਾਈਟ"
     },
     "megabytes": {
-        "other": "%{count} MB",
-        "one": "1 MB"
+        "other": "%{count} ਐਮ.ਬੀ.",
+        "one": "1 ਐਮ.ਬੀ."
     },
     "gigabytes": {
-        "other": "%{count} GB",
-        "one": "1 ਜੀ.ਬੀ"
+        "other": "%{count} ਜੀ.ਬੀ.",
+        "one": "1 ਜੀ.ਬੀ."
     }
 }}

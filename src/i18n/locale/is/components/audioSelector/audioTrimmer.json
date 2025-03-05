@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "Spilaðu snyrtu hljóðið til að heyra sýnishorn"},
+    "playbackPositionLabel": "Spilunarstaða",
+    "discardButton": {
+        "label": "Farg",
+        "title": "Fleygðu snyrtu hljóðinu",
+        "ariaLabel": "Fleygðu snyrtu hljóðinu"
+    },
+    "saveButton": {
+        "label": "Vista",
+        "title": "Notaðu snyrtið hljóð",
+        "ariaLabel": "Notaðu snyrtið hljóð"
+    }
+}

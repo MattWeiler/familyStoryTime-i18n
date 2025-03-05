@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Bla gjennom en bildefil",
+        "ariaLabel": "Bla gjennom en bildefil for %{imageDisplayName} bilde"
+    },
+    "takePhotoButton": {
+        "title": "Ta bilde",
+        "ariaLabel": "Ta bilde for %{imageDisplayName} bilde"
+    },
+    "browseImageGalleryButton": {
+        "title": "Bla gjennom bildegalleriet",
+        "ariaLabel": "Bla gjennom bildegalleriet for %{imageDisplayName} bilde"
+    },
+    "fullscreenButton": {"ariaLabel": "Vis %{imageDisplayName} bilde i fullskjerm"},
+    "imageEditor": {
+        "cropButton": {"text": "Avling"},
+        "cancelButton": {"text": "Kansellere"},
+        "backButton": {"text": "Tilbake"},
+        "saveButton": {"text": "Spare"}
+    },
+    "editSelectedImageButton": {
+        "title": "Rediger bildet",
+        "ariaLabel": "Rediger %{imageDisplayName} bildet"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "Vis %{imageDisplayName} bildekontrollene",
+        "controlsVisible": "Skjul %{imageDisplayName} bildekontrollene"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Tillatelse nektet",
+            "message": "Du har nektet tillatelse til å få tilgang til kameraet ditt."
+        },
+        "browseImages": {
+            "title": "Tillatelse nektet",
+            "message": "Du har nektet tillatelse til å få tilgang til bildene dine."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "Lukk fullskjerm"}
+}

@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "Ձայնագրեք ձեր սեփականը %{audioDisplayName} աուդիո"},
+    "toasts": {
+        "audioFileLoading": {"failure": "Չհաջողվեց բեռնել աուդիո"},
+        "editInitFailed": "Չհաջողվեց խմբագրել աուդիո",
+        "recordingFailed": "Չհաջողվեց ձայնագրվել աուդիո"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Մաքրել հաստատում",
+            "message": "Համոզված եք, որ ցանկանում եք մաքրել ընտրված աուդիո:"
+        },
+        "ariaLabel": "Մաքրել ընտրված %{audioDisplayName} աուդիո"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "Ընտրեք նախադրյալ %{audioDisplayName} Աուդիո"},
+    "selectAudioFileButton": {"ariaLabel": "Ընտրեք ձեր սեփական %{audioDisplayName} աուդիո ֆայլը"},
+    "playButton": {
+        "stopped": {"ariaLabel": "Խաղացեք %{audioDisplayName} աուդիո"},
+        "recording": {"ariaLabel": "Դադարեցրեք %{audioDisplayName} ձայնագրությունը"},
+        "playing": {"ariaLabel": "Դադարեցրեք խաղը %{audioDisplayName} աուդիո"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "Խմբագրել ներկայումս բեռնված %{audioDisplayName} աուդիո",
+        "cancelConfirmation": {
+            "title": "Վերացնել խմբագրումը",
+            "message": "Համոզված եք, որ ցանկանում եք հեռացնել ձեր կողմից կատարած ցանկացած խմբագրերը:",
+            "buttonAriaLabels": {
+                "no": "Ոչ, մնացեք եւ շարունակեք խմբագրել",
+                "yes": "Այո, հեռացնել խմբագրումները"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Վերբեռնված ֆայլ,: %{filename}",
+        "recording": "Ձայնագրություն",
+        "preset": "Նախադրված. %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Թույլտվությունը մերժվեց",
+        "message": "Դուք մերժել եք ձեր խոսափող մուտք գործելու թույլտվությունը:"
+    }}
+}

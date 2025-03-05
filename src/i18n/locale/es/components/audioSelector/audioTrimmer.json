@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "Reproduce el audio recortado para escuchar una muestra"},
+    "playbackPositionLabel": "Posición de reproducción",
+    "discardButton": {
+        "label": "Desechar",
+        "title": "Deseche el audio recortado",
+        "ariaLabel": "Deseche el audio recortado"
+    },
+    "saveButton": {
+        "label": "Ahorrar",
+        "title": "Use el audio recortado",
+        "ariaLabel": "Use el audio recortado"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "Afspil den trimmede lyd for at høre en prøve"},
+    "playbackPositionLabel": "Afspilningsposition",
+    "discardButton": {
+        "label": "Kasser",
+        "title": "Kasser den trimmede lyd",
+        "ariaLabel": "Kasser den trimmede lyd"
+    },
+    "saveButton": {
+        "label": "Spare",
+        "title": "Brug den trimmede lyd",
+        "ariaLabel": "Brug den trimmede lyd"
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "이미지 파일을 찾아보십시오",
+        "ariaLabel": "%{imageDisplayName} 이미지의 이미지 파일을 찾아보십시오"
+    },
+    "takePhotoButton": {
+        "title": "사진을 찍으십시오",
+        "ariaLabel": "%{imageDisplayName} 이미지에 대한 사진을 찍습니다"
+    },
+    "browseImageGalleryButton": {
+        "title": "이미지 갤러리를 찾아보세요",
+        "ariaLabel": "%{imageDisplayName} 이미지에 대한 이미지 갤러리를 찾아보십시오"
+    },
+    "fullscreenButton": {"ariaLabel": "전체 화면에 %{imageDisplayName} 이미지를 표시합니다"},
+    "imageEditor": {
+        "cropButton": {"text": "수확고"},
+        "cancelButton": {"text": "취소"},
+        "backButton": {"text": "뒤쪽에"},
+        "saveButton": {"text": "구하다"}
+    },
+    "editSelectedImageButton": {
+        "title": "이미지를 편집하십시오",
+        "ariaLabel": "%{imageDisplayName} 이미지를 편집하십시오"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "%{imageDisplayName} 이미지 컨트롤을 표시하십시오",
+        "controlsVisible": "%{imageDisplayName} 이미지 컨트롤을 숨 깁니다"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "허가 거부",
+            "message": "카메라에 액세스 할 수있는 권한이 거부되었습니다."
+        },
+        "browseImages": {
+            "title": "허가 거부",
+            "message": "사진에 액세스 할 수있는 권한을 거부했습니다."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "전체 화면을 닫습니다"}
+}

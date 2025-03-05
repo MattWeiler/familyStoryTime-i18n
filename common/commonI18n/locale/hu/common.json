@@ -1,25 +1,25 @@
 {
-    "add": "Hozzáadás",
-    "cancel": "Mégsem",
+    "add": "Hozzáad",
+    "cancel": "Töröl",
     "no": "Nem",
-    "verifying": "ellenőrzése...",
+    "verifying": "Ellenőrizni ...",
     "set": "Készlet",
     "yes": "Igen",
     "back": "Vissza",
-    "loading": "betöltés...",
+    "loading": "betöltés ...",
     "required": "kívánt",
-    "acknowledgeError": "nyugtázza a hibát",
-    "saving": "mentés...",
+    "acknowledgeError": "ismerje el a hibát",
+    "saving": "megtakarítás ...",
     "settingsButton": {
-        "text": "Beállítások elemre",
-        "ariaLabel": "lépjen az alkalmazások beállítási oldalára"
+        "text": "Beállítások",
+        "ariaLabel": "Lépjen az Alkalmazások beállításai oldalra"
     },
     "backButton": {
         "label": "Vissza",
-        "title": "vissza az utolsó oldalra",
-        "ariaLabel": "vissza az utolsó oldalra"
+        "title": "Menj vissza az utolsó oldalra",
+        "ariaLabel": "Menj vissza az utolsó oldalra"
     },
-    "sending": "küldés...",
+    "sending": "Küldés ...",
     "create": "Teremt",
     "ok": "Rendben"
 }

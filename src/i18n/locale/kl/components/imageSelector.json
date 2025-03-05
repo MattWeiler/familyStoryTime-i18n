@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "assiliartaq pillugu browse",
+        "ariaLabel": "%{imageDisplayName}-mut assiliartamut filimut browse-erlugu"
+    },
+    "takePhotoButton": {
+        "title": "assiliineq tigujuk",
+        "ariaLabel": "%{imageDisplayName}-mik assimik assilisassiorit"
+    },
+    "browseImageGalleryButton": {
+        "title": "assiliartaliorneq",
+        "ariaLabel": "%{imageDisplayName}-mik assiliartaq atorlugu assiliartaliorneq"
+    },
+    "fullscreenButton": {"ariaLabel": "%{imageDisplayName} assilisassiaq tamakkerlugu takutinneqarluni"},
+    "imageEditor": {
+        "cropButton": {"text": "Inerittut"},
+        "cancelButton": {"text": "taamaatippaa"},
+        "backButton": {"text": "Kingumut"},
+        "saveButton": {"text": "Toqqorpaa"}
+    },
+    "editSelectedImageButton": {
+        "title": "assimik aaqqissuussineq",
+        "ariaLabel": "%{imageDisplayName}-mik assilisassiaq allanngortiguk"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "%{imageDisplayName}-mik assilisassiorneq takutikkit",
+        "controlsVisible": "%{imageDisplayName}-mik assilisassiorneq toqqaruk"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Akuersissut Denied",
+            "message": "Kameramut isernissamut akuersissut itigartitsissutigisimavat."
+        },
+        "browseImages": {
+            "title": "Akuersissut Denied",
+            "message": "Assit iserfiginissaannut akuersissummik itigartitsisimavutit."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "qanimut fullscreen"}
+}

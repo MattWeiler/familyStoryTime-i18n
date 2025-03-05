@@ -1,4 +1,4 @@
 {
-    "aiReader": {"displayName": "AI Reader"},
+    "aiReader": {"displayName": "AI четец"},
     "errors": {"bookLoadFailure": "Книгата не може да се зареди."}
 }

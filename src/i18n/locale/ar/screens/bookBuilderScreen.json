@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "تغيير الصفحة"
         }
     },
+    "saveButton": {"label": "يحفظ"},
     "errors": {
         "failedLoadingBook": "فشل تحميل الكتاب.",
         "validationErrors": {

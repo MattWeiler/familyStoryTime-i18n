@@ -1,10 +1,10 @@
 {"prettyPrintByteSize": {
     "kilobytes": {
-        "other": "%{count} KB",
-        "one": "1 KB"
+        "other": "%{count} কেবি",
+        "one": "1 কেবি"
     },
     "bytes": {
-        "other": "%{count} বাইট",
+        "other": "%{count} বাইটস",
         "one": "1 বাইট"
     },
     "megabytes": {

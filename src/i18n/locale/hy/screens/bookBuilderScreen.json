@@ -54,7 +54,7 @@
     },
     "bookSplashImageImageSelector": {
         "description": "Պատկերը, որը պետք է ցուցադրվի գիրքը առաջին անգամ գործարկելիս:",
-        "label": "Book Splash Image",
+        "label": "Գրքի շաղ տալ պատկերը",
         "accessibleImageDisplayName": "գրքի շաղ տալ"
     },
     "confirmations": {"goBack": {
@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "էջի փոփոխություն"
         }
     },
+    "saveButton": {"label": "Պահպանել"},
     "errors": {
         "failedLoadingBook": "Չհաջողվեց բեռնել գիրքը:",
         "validationErrors": {

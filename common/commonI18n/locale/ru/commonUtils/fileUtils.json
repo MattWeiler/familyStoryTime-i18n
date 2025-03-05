@@ -1,18 +1,18 @@
 {"prettyPrintByteSize": {
     "kilobytes": {
-        "other": "%{count} КБ",
-        "one": "1 КБ"
+        "other": "%{count} кб",
+        "one": "1 кб"
     },
     "bytes": {
-        "other": "%{count} байт",
+        "other": "%{count} байты",
         "one": "1 байт"
     },
     "megabytes": {
-        "other": "%{count} МБ",
+        "other": "%{count} mb",
         "one": "1 МБ"
     },
     "gigabytes": {
-        "other": "%{count} ГБ",
+        "other": "%{count} GB",
         "one": "1 ГБ"
     }
 }}

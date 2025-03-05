@@ -1,8 +1,8 @@
 {
     "applicationSecurityButton": {"ariaLabel": {
-        "unlockParentMode": "odemknout aplikaci pro rodičovské použití",
-        "initParentMode": "povolit rodičovský zámek",
-        "lockParentMode": "povolit rodičovský zámek"
+        "unlockParentMode": "Odemkněte aplikaci pro použití rodičů",
+        "initParentMode": "Povolit rodičovské zamykání",
+        "lockParentMode": "Povolit rodičovský zámek"
     }},
-    "hamburgerButton": {"ariaLabel": "zobrazit hamburgerové menu"}
+    "hamburgerButton": {"ariaLabel": "Zobrazit menu Hamburger"}
 }

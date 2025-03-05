@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "rebond de bulle",
-    "MAGICAL_SPARKLE_LOUD": "de fortes étincelles magiques",
-    "MAGICAL_WHOOSH": "souffle magique",
-    "GLITTER": "paillettes",
-    "_NONE": "aucun",
-    "MAGICAL_REVEAL_WAVY": "révélation magique ondulée",
-    "BUBBLE_POP_BIG": "grosse bulle pop",
-    "MAGICAL_REVEAL": "révélation magique",
-    "BUBBLE_POP_POP_POP": "bulle pop pop pop",
-    "ICICLES_WHOOSH": "glaçons whoosh",
-    "RATTLESNAKE": "crotale",
-    "BIRD_CHIRP": "gazouillis d'oiseaux",
-    "DRIP": "goutte",
-    "FLUSH_GROSS": "couleur brute",
-    "HARP": "harpe",
-    "BUBBLE_POP_SMALL": "petite bulle pop",
-    "MAGICAL_SPRING": "printemps magique",
-    "MAGICAL_SPARKLE": "étincelles magiques"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "rebond de bulle",
+        "MAGICAL_SPARKLE_LOUD": "de fortes étincelles magiques",
+        "MAGICAL_WHOOSH": "souffle magique",
+        "GLITTER": "paillettes",
+        "_NONE": "aucun",
+        "MAGICAL_REVEAL_WAVY": "révélation magique ondulée",
+        "BUBBLE_POP_BIG": "grosse bulle pop",
+        "MAGICAL_REVEAL": "révélation magique",
+        "BUBBLE_POP_POP_POP": "bulle pop pop pop",
+        "ICICLES_WHOOSH": "glaçons whoosh",
+        "RATTLESNAKE": "crotale",
+        "BIRD_CHIRP": "gazouillis d'oiseaux",
+        "DRIP": "goutte",
+        "FLUSH_GROSS": "couleur brute",
+        "HARP": "harpe",
+        "BUBBLE_POP_SMALL": "petite bulle pop",
+        "MAGICAL_SPRING": "printemps magique",
+        "MAGICAL_SPARKLE": "étincelles magiques"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} heures",
+            "one": "%{displayValue} heure"
+        },
+        "mins": {
+            "other": "%{displayValue} min",
+            "one": "%{displayValue} min"
+        },
+        "ms": {
+            "other": "%{displayValue} ms",
+            "one": "%{displayValue} ms"
+        },
+        "secs": {
+            "other": "%{displayValue} Secs",
+            "one": "%{displayValue} sec"
+        },
+        "days": {
+            "other": "%{displayValue} jours",
+            "one": "%{displayValue} jour"
+        }
+    }
+}

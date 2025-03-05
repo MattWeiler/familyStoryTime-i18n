@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "%{audioDisplayName}-mik nammineq immiussigit"},
+    "toasts": {
+        "audioFileLoading": {"failure": "lyd-imik ikkussisinnaasimanngilaq"},
+        "editInitFailed": "lyd-imik allanngortitsisinnaasimanngilaq",
+        "recordingFailed": "nipimik immiussisinnaasimanngilaq"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Uppernarsaaneq ersarissoq",
+            "message": "Qularnanngilaq nipit toqqarneqarsimasut clearerniarlugit?"
+        },
+        "ariaLabel": "%{audioDisplayName} lyd toqqarneqarsimasoq toqqaruk"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "toqqarsinnaavat preset %{audioDisplayName} lyd"},
+    "selectAudioFileButton": {"ariaLabel": "nammineq %{audioDisplayName} lydfil toqqaruk"},
+    "playButton": {
+        "stopped": {"ariaLabel": "%{audioDisplayName} lyd-imik tusarnaarsinnaavutit"},
+        "recording": {"ariaLabel": "%{audioDisplayName} immiussineq unitsiguk"},
+        "playing": {"ariaLabel": "%{audioDisplayName}-mik nipilersorneq unitsiguk"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "ullumikkut %{audioDisplayName}-mik lyd-imik allanngortitsineq",
+        "cancelConfirmation": {
+            "title": "Diskard Reding",
+            "message": "Qularnanngilaq editit suliarisimasatit peerlugit?",
+            "buttonAriaLabels": {
+                "no": "no, stay aamma ingerlateqqillugu",
+                "yes": "aap, editit peerlugit"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Uploaded Fil: %{filename}",
+        "recording": "Allattorsimaffik",
+        "preset": "Siusinnerusukkut: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Akuersissut Denied",
+        "message": "Mikrofonimut isernissamut akuersissummik itigartitsisimavutit."
+    }}
+}

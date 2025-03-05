@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "Spill den trimmede lyden for å høre en prøve"},
+    "playbackPositionLabel": "Avspillingsposisjon",
+    "discardButton": {
+        "label": "Kast",
+        "title": "Kast den trimmede lyden",
+        "ariaLabel": "Kast den trimmede lyden"
+    },
+    "saveButton": {
+        "label": "Spare",
+        "title": "Bruk den trimmede lyden",
+        "ariaLabel": "Bruk den trimmede lyden"
+    }
+}

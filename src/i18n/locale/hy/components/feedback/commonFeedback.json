@@ -7,7 +7,7 @@
     "emailInput": {
         "description": "Տրամադրեք, եթե ցանկանում եք մեզնից պատասխան լսել:",
         "label": "Էլփոստի հասցե",
-        "placeholder": "someone@gmail.com",
+        "placeholder": "somebuse@gmail.com",
         "ariaLabel": "ընտրովի, ձեր էլ. հասցեն"
     }
 }

@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "ਪੰਨਾ ਤਬਦੀਲੀ"
         }
     },
+    "saveButton": {"label": "ਸੇਵ ਕਰੋ"},
     "errors": {
         "failedLoadingBook": "ਕਿਤਾਬ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ।",
         "validationErrors": {
@@ -123,7 +124,7 @@
         "label": "ਸਰੋਤ",
         "isbnInput": {
             "description": "ਪੁਸਤਕ ਦਾ ਅੰਤਰਰਾਸ਼ਟਰੀ ਮਿਆਰੀ ਪੁਸਤਕ ਨੰਬਰ।",
-            "label": "ISBN",
+            "label": "Isbn",
             "placeholder": "ਕਿਤਾਬ ਦਾ ISBN",
             "ariaLabel": "ਕਿਤਾਬ ਦਾ ਅੰਤਰਰਾਸ਼ਟਰੀ ਮਿਆਰੀ ਕਿਤਾਬ ਨੰਬਰ"
         }

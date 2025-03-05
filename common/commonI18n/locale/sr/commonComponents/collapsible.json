@@ -1,4 +1,4 @@
 {"ariaLabel": {
-    "expanded": "скупи %{title}",
-    "collapsed": "прошири %{title}"
+    "expanded": "колапс %{title}",
+    "collapsed": "Прошири %{title}"
 }}

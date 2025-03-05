@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "나만의 %{audioDisplayName} 오디오를 기록하십시오"},
+    "toasts": {
+        "audioFileLoading": {"failure": "오디오를로드하지 못했습니다"},
+        "editInitFailed": "오디오를 편집하지 못했습니다",
+        "recordingFailed": "오디오를 녹음하지 못했습니다"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "명확한 확인",
+            "message": "선택한 오디오를 지우고 싶습니까?"
+        },
+        "ariaLabel": "선택한 %{audioDisplayName} 오디오를 지우십시오"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "사전 설정 %{audioDisplayName} 오디오를 선택하십시오"},
+    "selectAudioFileButton": {"ariaLabel": "자신의 %{audioDisplayName} 오디오 파일을 선택하십시오"},
+    "playButton": {
+        "stopped": {"ariaLabel": "%{audioDisplayName} 오디오를 재생하십시오"},
+        "recording": {"ariaLabel": "%{audioDisplayName} 기록을 중지하십시오"},
+        "playing": {"ariaLabel": "재생 %{audioDisplayName} 오디오를 중지하십시오"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "현재로드 된 %{audioDisplayName} 오디오를 편집하십시오",
+        "cancelConfirmation": {
+            "title": "편집을 폐기하십시오",
+            "message": "당신이 만든 편집물을 버리고 싶습니까?",
+            "buttonAriaLabels": {
+                "no": "아니요, 머무르고 계속 편집하십시오",
+                "yes": "예, 편집을 폐기하십시오"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "업로드 된 파일 : %{filename}",
+        "recording": "녹음",
+        "preset": "사전 설정 : %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "허가 거부",
+        "message": "마이크에 액세스 할 수있는 권한이 거부되었습니다."
+    }}
+}

@@ -1,15 +1,15 @@
 {"prettyPrintByteSize": {
     "kilobytes": {
-        "other": "%{count} KB",
+        "other": "%{count} kb",
         "one": "1 KB"
     },
     "bytes": {
         "other": "%{count} בתים",
-        "one": "1 בייט"
+        "one": "בתים 1"
     },
     "megabytes": {
-        "other": "%{count} MB",
-        "one": "1 MB"
+        "other": "%{count} mb",
+        "one": "1 מגה -בייט"
     },
     "gigabytes": {
         "other": "%{count} GB",

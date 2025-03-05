@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "kupla pomppii",
-    "MAGICAL_SPARKLE_LOUD": "voimakkaita maagisia kimalteita",
-    "MAGICAL_WHOOSH": "maaginen huhu",
-    "GLITTER": "kimallus",
-    "_NONE": "ei yhtään",
-    "MAGICAL_REVEAL_WAVY": "aaltoileva maaginen paljastaminen",
-    "BUBBLE_POP_BIG": "iso bubble pop",
-    "MAGICAL_REVEAL": "maaginen paljastaminen",
-    "BUBBLE_POP_POP_POP": "kupla pop pop pop",
-    "ICICLES_WHOOSH": "jääpuikkoja huhhuh",
-    "RATTLESNAKE": "kalkkarokäärme",
-    "BIRD_CHIRP": "linnun viserrys",
-    "DRIP": "tippua",
-    "FLUSH_GROSS": "karkea huuhtelu",
-    "HARP": "harppu",
-    "BUBBLE_POP_SMALL": "pieni bubble pop",
-    "MAGICAL_SPRING": "maaginen kevät",
-    "MAGICAL_SPARKLE": "maagisia kimalteita"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "kupla pomppii",
+        "MAGICAL_SPARKLE_LOUD": "voimakkaita maagisia kimalteita",
+        "MAGICAL_WHOOSH": "maaginen huhu",
+        "GLITTER": "kimallus",
+        "_NONE": "ei yhtään",
+        "MAGICAL_REVEAL_WAVY": "aaltoileva maaginen paljastaminen",
+        "BUBBLE_POP_BIG": "iso bubble pop",
+        "MAGICAL_REVEAL": "maaginen paljastaminen",
+        "BUBBLE_POP_POP_POP": "kupla pop pop pop",
+        "ICICLES_WHOOSH": "jääpuikkoja huhhuh",
+        "RATTLESNAKE": "kalkkarokäärme",
+        "BIRD_CHIRP": "linnun viserrys",
+        "DRIP": "tippua",
+        "FLUSH_GROSS": "karkea huuhtelu",
+        "HARP": "harppu",
+        "BUBBLE_POP_SMALL": "pieni bubble pop",
+        "MAGICAL_SPRING": "maaginen kevät",
+        "MAGICAL_SPARKLE": "maagisia kimalteita"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} tuntia",
+            "one": "%{displayValue} tunti"
+        },
+        "mins": {
+            "other": "%{displayValue} minit",
+            "one": "%{displayValue} min"
+        },
+        "ms": {
+            "other": "%{displayValue} ms",
+            "one": "%{displayValue} ms"
+        },
+        "secs": {
+            "other": "%{displayValue} sekuntia",
+            "one": "%{displayValue} sekunti"
+        },
+        "days": {
+            "other": "%{displayValue} päivää",
+            "one": "%{displayValue} päivä"
+        }
+    }
+}

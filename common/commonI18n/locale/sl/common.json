@@ -1,25 +1,25 @@
 {
     "add": "Dodaj",
-    "cancel": "Prekliči",
-    "no": "št",
-    "verifying": "preverjanje ...",
+    "cancel": "Odpovedati",
+    "no": "Ne",
+    "verifying": "Preverjanje ...",
     "set": "Set",
-    "yes": "ja",
+    "yes": "DA",
     "back": "Nazaj",
     "loading": "nalaganje ...",
     "required": "potrebno",
-    "acknowledgeError": "priznati napako",
+    "acknowledgeError": "potrdite napako",
     "saving": "varčevanje ...",
     "settingsButton": {
-        "text": "nastavitve",
-        "ariaLabel": "pojdite na stran z nastavitvami aplikacij"
+        "text": "Nastavitve",
+        "ariaLabel": "Pojdite na stran z nastavitvami aplikacij"
     },
     "backButton": {
         "label": "Nazaj",
-        "title": "vrni se na zadnjo stran",
-        "ariaLabel": "vrni se na zadnjo stran"
+        "title": "Vrnite se na zadnjo stran",
+        "ariaLabel": "Vrnite se na zadnjo stran"
     },
     "sending": "pošiljanje ...",
     "create": "Ustvari",
-    "ok": "OK"
+    "ok": "Ok"
 }

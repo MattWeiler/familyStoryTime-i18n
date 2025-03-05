@@ -2,24 +2,24 @@
     "add": "Thêm vào",
     "cancel": "Hủy bỏ",
     "no": "KHÔNG",
-    "verifying": "đang xác minh...",
+    "verifying": "Xác minh ...",
     "set": "Bộ",
     "yes": "Đúng",
     "back": "Mặt sau",
     "loading": "đang tải ...",
     "required": "yêu cầu",
     "acknowledgeError": "thừa nhận lỗi",
-    "saving": "tiết kiệm...",
+    "saving": "Tiết kiệm ...",
     "settingsButton": {
         "text": "Cài đặt",
-        "ariaLabel": "đi tới trang cài đặt ứng dụng"
+        "ariaLabel": "Chuyển đến trang Cài đặt ứng dụng"
     },
     "backButton": {
         "label": "Mặt sau",
-        "title": "quay lại trang cuối cùng",
-        "ariaLabel": "quay lại trang cuối cùng"
+        "title": "Quay lại trang cuối cùng",
+        "ariaLabel": "Quay lại trang cuối cùng"
     },
-    "sending": "gửi...",
+    "sending": "Gửi ...",
     "create": "Tạo nên",
     "ok": "Được rồi"
 }

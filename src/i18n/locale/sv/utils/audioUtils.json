@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "bubbla studs",
-    "MAGICAL_SPARKLE_LOUD": "höga magiska gnistrar",
-    "MAGICAL_WHOOSH": "magiska whoosh",
-    "GLITTER": "glitter",
-    "_NONE": "ingen",
-    "MAGICAL_REVEAL_WAVY": "vågig magisk avslöjande",
-    "BUBBLE_POP_BIG": "stor bubbelpop",
-    "MAGICAL_REVEAL": "magisk avslöjande",
-    "BUBBLE_POP_POP_POP": "bubbel pop pop pop",
-    "ICICLES_WHOOSH": "istappar whoosh",
-    "RATTLESNAKE": "skallerorm",
-    "BIRD_CHIRP": "fågelkvitter",
-    "DRIP": "dropp",
-    "FLUSH_GROSS": "grov spolning",
-    "HARP": "harpa",
-    "BUBBLE_POP_SMALL": "liten bubbelpop",
-    "MAGICAL_SPRING": "magisk vår",
-    "MAGICAL_SPARKLE": "magiska gnistrar"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "bubbla studs",
+        "MAGICAL_SPARKLE_LOUD": "höga magiska gnistrar",
+        "MAGICAL_WHOOSH": "magiska whoosh",
+        "GLITTER": "glitter",
+        "_NONE": "ingen",
+        "MAGICAL_REVEAL_WAVY": "vågig magisk avslöjande",
+        "BUBBLE_POP_BIG": "stor bubbelpop",
+        "MAGICAL_REVEAL": "magisk avslöjande",
+        "BUBBLE_POP_POP_POP": "bubbel pop pop pop",
+        "ICICLES_WHOOSH": "istappar whoosh",
+        "RATTLESNAKE": "skallerorm",
+        "BIRD_CHIRP": "fågelkvitter",
+        "DRIP": "dropp",
+        "FLUSH_GROSS": "grov spolning",
+        "HARP": "harpa",
+        "BUBBLE_POP_SMALL": "liten bubbelpop",
+        "MAGICAL_SPRING": "magisk vår",
+        "MAGICAL_SPARKLE": "magiska gnistrar"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} timmar",
+            "one": "%{displayValue} timme"
+        },
+        "mins": {
+            "other": "%{displayValue} Min",
+            "one": "%{displayValue} min"
+        },
+        "ms": {
+            "other": "%{displayValue} MS",
+            "one": "%{displayValue} MS"
+        },
+        "secs": {
+            "other": "%{displayValue} sek",
+            "one": "%{displayValue} sek"
+        },
+        "days": {
+            "other": "%{displayValue} dagar",
+            "one": "%{displayValue} dag"
+        }
+    }
+}

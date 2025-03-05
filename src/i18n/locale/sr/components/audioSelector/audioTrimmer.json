@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "Играјте подрезани звук да чујете узорак"},
+    "playbackPositionLabel": "Позиција репродукције",
+    "discardButton": {
+        "label": "Одбацити",
+        "title": "Одбаците уређени звук",
+        "ariaLabel": "Одбаците уређени звук"
+    },
+    "saveButton": {
+        "label": "Сачувати",
+        "title": "Користите уређени звук",
+        "ariaLabel": "Користите уређени звук"
+    }
+}

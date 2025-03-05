@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "Joacă sunetul tăiat pentru a auzi un eșantion"},
+    "playbackPositionLabel": "Poziția de redare",
+    "discardButton": {
+        "label": "Aruncat",
+        "title": "Renunțați audio tuns",
+        "ariaLabel": "Renunțați audio tuns"
+    },
+    "saveButton": {
+        "label": "Salva",
+        "title": "Folosiți audio tăiat",
+        "ariaLabel": "Folosiți audio tăiat"
+    }
+}

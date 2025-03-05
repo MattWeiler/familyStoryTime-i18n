@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "saritura cu bule",
-    "MAGICAL_SPARKLE_LOUD": "scântei magice puternice",
-    "MAGICAL_WHOOSH": "zguduit magic",
-    "GLITTER": "sclipici",
-    "_NONE": "nici unul",
-    "MAGICAL_REVEAL_WAVY": "dezvăluire magică ondulată",
-    "BUBBLE_POP_BIG": "bubble pop mare",
-    "MAGICAL_REVEAL": "dezvăluire magică",
-    "BUBBLE_POP_POP_POP": "bubble pop pop pop",
-    "ICICLES_WHOOSH": "țurțuri șuieră",
-    "RATTLESNAKE": "şarpe cu clopoţei",
-    "BIRD_CHIRP": "ciripitul păsărilor",
-    "DRIP": "picurare",
-    "FLUSH_GROSS": "culoare brută",
-    "HARP": "harpă",
-    "BUBBLE_POP_SMALL": "mic bubble pop",
-    "MAGICAL_SPRING": "primăvară magică",
-    "MAGICAL_SPARKLE": "străluciri magice"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "saritura cu bule",
+        "MAGICAL_SPARKLE_LOUD": "scântei magice puternice",
+        "MAGICAL_WHOOSH": "zguduit magic",
+        "GLITTER": "sclipici",
+        "_NONE": "nici unul",
+        "MAGICAL_REVEAL_WAVY": "dezvăluire magică ondulată",
+        "BUBBLE_POP_BIG": "bubble pop mare",
+        "MAGICAL_REVEAL": "dezvăluire magică",
+        "BUBBLE_POP_POP_POP": "Bubble Pop Pop Pop",
+        "ICICLES_WHOOSH": "țurțuri șuieră",
+        "RATTLESNAKE": "şarpe cu clopoţei",
+        "BIRD_CHIRP": "ciripitul păsărilor",
+        "DRIP": "picurare",
+        "FLUSH_GROSS": "culoare brută",
+        "HARP": "harpă",
+        "BUBBLE_POP_SMALL": "mic bubble pop",
+        "MAGICAL_SPRING": "primăvară magică",
+        "MAGICAL_SPARKLE": "străluciri magice"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} ore",
+            "one": "%{displayValue} oră"
+        },
+        "mins": {
+            "other": "%{displayValue} mins",
+            "one": "%{displayValue} min"
+        },
+        "ms": {
+            "other": "%{displayValue} MS",
+            "one": "%{displayValue} MS"
+        },
+        "secs": {
+            "other": "%{displayValue} sec",
+            "one": "%{displayValue} sec"
+        },
+        "days": {
+            "other": "%{displayValue} zile",
+            "one": "%{displayValue} zi"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "Înregistrați -vă propriul %{audioDisplayName} audio"},
+    "toasts": {
+        "audioFileLoading": {"failure": "nu a reușit să încarce audio"},
+        "editInitFailed": "nu a editare audio",
+        "recordingFailed": "nu a reușit să înregistreze audio"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Confirmare clară",
+            "message": "Ești sigur că vrei să ștergi audio selectat?"
+        },
+        "ariaLabel": "Ștergeți audio -ul selectat %{audioDisplayName}"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "Selectați un audio presetat %{audioDisplayName}"},
+    "selectAudioFileButton": {"ariaLabel": "Selectați fișierul audio %{audioDisplayName}"},
+    "playButton": {
+        "stopped": {"ariaLabel": "Redați audio %{audioDisplayName}"},
+        "recording": {"ariaLabel": "Opriți înregistrarea %{audioDisplayName}"},
+        "playing": {"ariaLabel": "Opriți audio redare %{audioDisplayName}"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "editați audio încărcat în prezent %{audioDisplayName}",
+        "cancelConfirmation": {
+            "title": "Aruncați editarea",
+            "message": "Ești sigur că vrei să arunci orice modificări pe care le -ai făcut?",
+            "buttonAriaLabels": {
+                "no": "Nu, rămâneți și continuați să editați",
+                "yes": "Da, aruncați modificările"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Fișier încărcat: %{filename}",
+        "recording": "Înregistrare",
+        "preset": "Presetat: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Acces refuzat",
+        "message": "Ați refuzat permisiunea de a vă accesa microfonul."
+    }}
+}

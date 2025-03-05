@@ -3,7 +3,7 @@
         "description": "Valinnainen ääni, joka toistetaan ennen ensimmäisen sivun lukemista.",
         "label": {
             "withDisplayName": "Käyttäjän %{readerDisplayName} esittelyääni",
-            "noDisplayName": "Intro Audio"
+            "noDisplayName": "Esittelyääni"
         },
         "accessibleAudioDisplayName": {
             "withDisplayName": "%{readerDisplayName} lukijan esittely",

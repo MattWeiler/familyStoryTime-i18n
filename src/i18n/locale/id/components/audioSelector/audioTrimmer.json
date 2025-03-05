@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "Mainkan audio yang dipangkas untuk mendengar sampel"},
+    "playbackPositionLabel": "Posisi pemutaran",
+    "discardButton": {
+        "label": "Membuang",
+        "title": "Buang audio yang dipangkas",
+        "ariaLabel": "Buang audio yang dipangkas"
+    },
+    "saveButton": {
+        "label": "Menyimpan",
+        "title": "Gunakan audio yang dipangkas",
+        "ariaLabel": "Gunakan audio yang dipangkas"
+    }
+}

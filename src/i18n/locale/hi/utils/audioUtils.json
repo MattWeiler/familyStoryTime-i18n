@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "बुलबुला उछाल",
-    "MAGICAL_SPARKLE_LOUD": "तेज़ जादुई चमक",
-    "MAGICAL_WHOOSH": "जादुई हूश",
-    "GLITTER": "चमक",
-    "_NONE": "कोई नहीं",
-    "MAGICAL_REVEAL_WAVY": "लहरदार जादुई खुलासा",
-    "BUBBLE_POP_BIG": "बड़ा बुलबुला पॉप",
-    "MAGICAL_REVEAL": "जादुई खुलासा",
-    "BUBBLE_POP_POP_POP": "बुलबुला पॉप पॉप पॉप",
-    "ICICLES_WHOOSH": "हिमलंब हूश",
-    "RATTLESNAKE": "नाग",
-    "BIRD_CHIRP": "पक्षी का कलरव",
-    "DRIP": "टपक",
-    "FLUSH_GROSS": "सकल फ्लश",
-    "HARP": "वीणा",
-    "BUBBLE_POP_SMALL": "छोटा बुलबुला पॉप",
-    "MAGICAL_SPRING": "जादुई वसंत",
-    "MAGICAL_SPARKLE": "जादुई चमक"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "बुलबुला उछाल",
+        "MAGICAL_SPARKLE_LOUD": "तेज़ जादुई चमक",
+        "MAGICAL_WHOOSH": "जादुई हूश",
+        "GLITTER": "चमक",
+        "_NONE": "कोई नहीं",
+        "MAGICAL_REVEAL_WAVY": "लहरदार जादुई खुलासा",
+        "BUBBLE_POP_BIG": "बड़ा बुलबुला पॉप",
+        "MAGICAL_REVEAL": "जादुई खुलासा",
+        "BUBBLE_POP_POP_POP": "बुलबुला पॉप पॉप पॉप",
+        "ICICLES_WHOOSH": "हिमलंब हूश",
+        "RATTLESNAKE": "नाग",
+        "BIRD_CHIRP": "पक्षी का कलरव",
+        "DRIP": "टपक",
+        "FLUSH_GROSS": "सकल फ्लश",
+        "HARP": "वीणा",
+        "BUBBLE_POP_SMALL": "छोटा बुलबुला पॉप",
+        "MAGICAL_SPRING": "जादुई वसंत",
+        "MAGICAL_SPARKLE": "जादुई चमक"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} घंटे",
+            "one": "%{displayValue} घंटा"
+        },
+        "mins": {
+            "other": "%{displayValue} मिनट",
+            "one": "%{displayValue} मिनट"
+        },
+        "ms": {
+            "other": "%{displayValue} एमएस",
+            "one": "%{displayValue} एमएस"
+        },
+        "secs": {
+            "other": "%{displayValue} सेकंड",
+            "one": "%{displayValue} सेकंड"
+        },
+        "days": {
+            "other": "%{displayValue} दिन",
+            "one": "%{displayValue} दिन"
+        }
+    }
+}

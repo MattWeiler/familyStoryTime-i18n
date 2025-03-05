@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Căutați pentru un fișier de imagine",
+        "ariaLabel": "Parcurgeți un fișier de imagine pentru imaginea %{imageDisplayName}"
+    },
+    "takePhotoButton": {
+        "title": "Faceți poză",
+        "ariaLabel": "Faceți poză pentru imaginea %{imageDisplayName}"
+    },
+    "browseImageGalleryButton": {
+        "title": "Căutați galeria de imagini",
+        "ariaLabel": "Parcurgeți galeria de imagini pentru imaginea %{imageDisplayName}"
+    },
+    "fullscreenButton": {"ariaLabel": "Afișați imaginea %{imageDisplayName} pe ecran complet"},
+    "imageEditor": {
+        "cropButton": {"text": "Cultură"},
+        "cancelButton": {"text": "Anula"},
+        "backButton": {"text": "Spate"},
+        "saveButton": {"text": "Salva"}
+    },
+    "editSelectedImageButton": {
+        "title": "editați imaginea",
+        "ariaLabel": "editați imaginea %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "Afișați controalele de imagine %{imageDisplayName}",
+        "controlsVisible": "Ascundeți controalele de imagine %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Acces refuzat",
+            "message": "Ați refuzat permisiunea de a vă accesa camera."
+        },
+        "browseImages": {
+            "title": "Acces refuzat",
+            "message": "Ați refuzat permisiunea de a vă accesa fotografiile."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "Închideți ecranul complet"}
+}

@@ -11,7 +11,7 @@
     "readMode": {
         "items": {
             "autoRead": {
-                "label": "Auto Play",
+                "label": "Auto reprodukcija",
                 "ariaLabel": "svaka stranica će biti pročitana korisniku glasom koji on odabere"
             },
             "pageRead": {

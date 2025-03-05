@@ -39,10 +39,10 @@
     "satisfactionInput": {
         "errorMessage": "Molimo odaberite nivo zadovoljstva.",
         "description": "Koliko vam se sviđa/ne sviđa naša aplikacija?",
-        "label": "App Satisfaction",
+        "label": "Zadovoljstvo aplikacija",
         "levels": {
             "1": {
-                "displayName": "Hate It",
+                "displayName": "Mrzim",
                 "ariaLabel": "mrzim to"
             },
             "2": {
@@ -58,7 +58,7 @@
                 "ariaLabel": "super"
             },
             "5": {
-                "displayName": "Love It",
+                "displayName": "Voljeti",
                 "ariaLabel": "volim to"
             }
         },
@@ -72,7 +72,7 @@
     "playingBooksInput": {
         "errorMessage": "Molimo odaberite nivo zadovoljstva.",
         "description": "Kako ste otkrili da igrate knjige?",
-        "label": "Playing Books",
+        "label": "Reprodukcija knjiga",
         "levels": {
             "1": {
                 "displayName": "Nije upalilo",
@@ -91,7 +91,7 @@
                 "ariaLabel": "lako je"
             },
             "5": {
-                "displayName": "Love It",
+                "displayName": "Voljeti",
                 "ariaLabel": "volim to"
             }
         },
@@ -100,7 +100,7 @@
     "multipleReadersInput": {
         "errorMessage": "Molimo odaberite nivo zadovoljstva.",
         "description": "Kako vam se svidjelo da imate više čitalaca?",
-        "label": "Multiple Readers",
+        "label": "Više čitalaca",
         "levels": {
             "1": {
                 "displayName": "Nije upalilo",
@@ -119,7 +119,7 @@
                 "ariaLabel": "lako je"
             },
             "5": {
-                "displayName": "Love It",
+                "displayName": "Voljeti",
                 "ariaLabel": "volim to"
             }
         },
@@ -147,7 +147,7 @@
                 "ariaLabel": "lako je"
             },
             "5": {
-                "displayName": "Love It",
+                "displayName": "Voljeti",
                 "ariaLabel": "volim to"
             }
         },

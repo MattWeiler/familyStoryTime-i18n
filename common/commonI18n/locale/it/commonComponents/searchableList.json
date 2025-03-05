@@ -1,0 +1,19 @@
+{"contextMenu": {
+    "items": {
+        "selectAll": {
+            "label": "Seleziona tutto",
+            "ariaLabel": {
+                "other": "Seleziona tutti gli elementi filtrati",
+                "one": "Seleziona l'elemento filtrato"
+            }
+        },
+        "cancelSelection": {
+            "label": "Annulla la selezione",
+            "ariaLabel": {
+                "other": "deselezionare tutti gli elementi selezionati",
+                "one": "deselezionare l'elemento selezionato"
+            }
+        }
+    },
+    "ariaLabel": "Visualizza opzioni aggiuntive"
+}}

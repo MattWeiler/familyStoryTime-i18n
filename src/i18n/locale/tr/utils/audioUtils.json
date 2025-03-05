@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "kabarcık sıçrama",
-    "MAGICAL_SPARKLE_LOUD": "yüksek sesle büyülü parıltılar",
-    "MAGICAL_WHOOSH": "büyülü vızıltı",
-    "GLITTER": "parıltı",
-    "_NONE": "hiçbiri",
-    "MAGICAL_REVEAL_WAVY": "dalgalı büyülü ortaya",
-    "BUBBLE_POP_BIG": "büyük baloncuk patlaması",
-    "MAGICAL_REVEAL": "büyülü ortaya",
-    "BUBBLE_POP_POP_POP": "kabarcık pop pop pop",
-    "ICICLES_WHOOSH": "buz sarkıtları",
-    "RATTLESNAKE": "çıngıraklı yılan",
-    "BIRD_CHIRP": "kuş cıvıltısı",
-    "DRIP": "damlama",
-    "FLUSH_GROSS": "brüt floş",
-    "HARP": "arp",
-    "BUBBLE_POP_SMALL": "küçük kabarcık pop",
-    "MAGICAL_SPRING": "büyülü bahar",
-    "MAGICAL_SPARKLE": "büyülü parıltılar"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "kabarcık sıçrama",
+        "MAGICAL_SPARKLE_LOUD": "yüksek sesle büyülü parıltılar",
+        "MAGICAL_WHOOSH": "büyülü vızıltı",
+        "GLITTER": "parıltı",
+        "_NONE": "hiçbiri",
+        "MAGICAL_REVEAL_WAVY": "dalgalı büyülü ortaya",
+        "BUBBLE_POP_BIG": "büyük baloncuk patlaması",
+        "MAGICAL_REVEAL": "büyülü ortaya",
+        "BUBBLE_POP_POP_POP": "kabarcık pop pop pop",
+        "ICICLES_WHOOSH": "buz sarkıtları",
+        "RATTLESNAKE": "çıngıraklı yılan",
+        "BIRD_CHIRP": "kuş cıvıltısı",
+        "DRIP": "damlama",
+        "FLUSH_GROSS": "brüt floş",
+        "HARP": "arp",
+        "BUBBLE_POP_SMALL": "küçük kabarcık pop",
+        "MAGICAL_SPRING": "büyülü bahar",
+        "MAGICAL_SPARKLE": "büyülü parıltılar"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} saatler",
+            "one": "%{displayValue} saat"
+        },
+        "mins": {
+            "other": "%{displayValue} dakikalar",
+            "one": "%{displayValue} min"
+        },
+        "ms": {
+            "other": "%{displayValue} ms",
+            "one": "%{displayValue} ms"
+        },
+        "secs": {
+            "other": "%{displayValue} Secs",
+            "one": "%{displayValue} Sec"
+        },
+        "days": {
+            "other": "%{displayValue} günler",
+            "one": "%{displayValue} gün"
+        }
+    }
+}

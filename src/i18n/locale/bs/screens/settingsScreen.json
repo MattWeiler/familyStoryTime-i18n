@@ -14,15 +14,15 @@
         }
     },
     "footer": {
-        "copyright": "%{year} WeilerHaus",
+        "copyright": "%{year} Weilerhaus",
         "specialThanks": {
             "fonts": {
-                "coolors": "Coolors",
+                "coolors": "COOLORI",
                 "someFontsBy": "Fontovi prema:"
             },
             "label": "Posebno hvala",
             "icons": {
-                "ionicIcons": "IonIcons",
+                "ionicIcons": "Ionicons",
                 "someIconsBy": "Ikone autora:",
                 "icons8": "Ikone8",
                 "iconArchive": "Arhiva ikona"
@@ -32,7 +32,7 @@
     },
     "imageEditor": {
         "longDescription": "Ovaj uređivač slika će se koristiti kada se snimaju nove slike knjige ili uređuje postojeća slika knjige.",
-        "displayName": "Image Editor",
+        "displayName": "Urednik slika",
         "testLabel": "Testni uređivač slika",
         "testImage": {"accessibleImageDisplayName": "probna slika uređivača slika"},
         "options": {
@@ -52,12 +52,12 @@
         "longDescription": "Ovaj glas će se koristiti kada čitač \"AI Reader\" čita knjige.",
         "displayName": "Preferirani glas",
         "selectorButton": {
-            "defaultLabel": "default",
+            "defaultLabel": "podrazumevano",
             "ariaLabel": "odaberite glas \"AI Reader\"."
         },
         "shortDescription": "Odaberite glas koji će koristiti \"AI Reader\".",
         "picker": {
-            "default": "default",
+            "default": "podrazumevano",
             "networkActionIcon": {"ariaLabel": "prikazati lokalne i mrežne glasove"},
             "label": "AI Glasovi čitača",
             "ariaLabel": "odaberite glas \"AI Reader\".",
@@ -79,7 +79,7 @@
             "lowLabel": "Nisko"
         },
         "displayName": "Kvalitet kamere %{value}%",
-        "testLabel": "Test Camera",
+        "testLabel": "Test kamera",
         "testImage": {"accessibleImageDisplayName": "testirati sliku kvaliteta kamere"},
         "shortDescription": "Odaberite kvalitet slike slika snimljenih kamerom."
     },
@@ -109,8 +109,8 @@
         }
     }},
     "textToSpeechEnabled": {
-        "displayName": "AI Reader",
-        "testLabel": "Test Voice",
+        "displayName": "AI čitač",
+        "testLabel": "Test glas",
         "testAriaLabel": {
             "stopped": "testirajte \"AI Reader\" glas",
             "playing": "zaustavite glasovni test \"AI Reader\"."
@@ -162,11 +162,11 @@
                 "ariaLabel": "koristite sistemski definisanu temu"
             },
             "light": {
-                "label": "Light",
+                "label": "Svjetlost",
                 "ariaLabel": "koristite svijetlu temu"
             },
             "dark": {
-                "label": "Dark",
+                "label": "Mrak",
                 "ariaLabel": "koristite tamnu temu"
             }
         },

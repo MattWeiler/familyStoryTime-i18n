@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "changement de page"
         }
     },
+    "saveButton": {"label": "Sauvegarder"},
     "errors": {
         "failedLoadingBook": "Échec du chargement du livre.",
         "validationErrors": {

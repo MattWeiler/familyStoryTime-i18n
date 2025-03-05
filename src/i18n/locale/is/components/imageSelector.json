@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Skoðaðu myndaskrá",
+        "ariaLabel": "Skoðaðu myndaskrá fyrir %{imageDisplayName} mynd"
+    },
+    "takePhotoButton": {
+        "title": "Taktu mynd",
+        "ariaLabel": "Taktu mynd fyrir %{imageDisplayName} mynd"
+    },
+    "browseImageGalleryButton": {
+        "title": "Vafraðu myndasafnið",
+        "ariaLabel": "Skoðaðu myndasafn fyrir %{imageDisplayName} mynd"
+    },
+    "fullscreenButton": {"ariaLabel": "sýna %{imageDisplayName} mynd á fullri skjá"},
+    "imageEditor": {
+        "cropButton": {"text": "Uppskera"},
+        "cancelButton": {"text": "Hætta við"},
+        "backButton": {"text": "Aftur"},
+        "saveButton": {"text": "Vista"}
+    },
+    "editSelectedImageButton": {
+        "title": "Breyttu myndinni",
+        "ariaLabel": "Breyttu myndinni %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "Sýndu %{imageDisplayName} myndstýringarnar",
+        "controlsVisible": "Fela %{imageDisplayName} myndastýringarnar"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Leyfi hafnað",
+            "message": "Þú hefur neitað leyfi til að fá aðgang að myndavélinni þinni."
+        },
+        "browseImages": {
+            "title": "Leyfi hafnað",
+            "message": "Þú hefur neitað leyfi til að fá aðgang að myndunum þínum."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "Lokaðu fullri skjá"}
+}

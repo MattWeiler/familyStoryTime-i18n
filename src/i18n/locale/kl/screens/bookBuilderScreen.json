@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "qupperneq allanngortinneqarpoq"
         }
     },
+    "saveButton": {"label": "Toqqorpaa"},
     "errors": {
         "failedLoadingBook": "Atuakkap ikkunneqarnissaa iluatsinngilaq.",
         "validationErrors": {

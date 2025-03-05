@@ -14,7 +14,7 @@
         }
     },
     "footer": {
-        "copyright": "%{year} WeilerHaus",
+        "copyright": "%{year} Weilerhaus",
         "specialThanks": {
             "fonts": {
                 "coolors": "Kjølere",
@@ -22,7 +22,7 @@
             },
             "label": "Spesiell takk",
             "icons": {
-                "ionicIcons": "IonIcons",
+                "ionicIcons": "Ionikoner",
                 "someIconsBy": "Ikoner av:",
                 "icons8": "Ikoner8",
                 "iconArchive": "Ikonarkiv"

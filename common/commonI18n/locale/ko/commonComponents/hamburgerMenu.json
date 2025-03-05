@@ -1,8 +1,8 @@
 {
     "applicationSecurityButton": {"ariaLabel": {
-        "unlockParentMode": "부모용 애플리케이션 잠금 해제",
-        "initParentMode": "보호자 잠금 활성화",
-        "lockParentMode": "부모 잠금 활성화"
+        "unlockParentMode": "부모 사용을위한 신청서를 잠금 해제하십시오",
+        "initParentMode": "부모의 잠금을 가능하게합니다",
+        "lockParentMode": "부모 잠금을 활성화합니다"
     }},
-    "hamburgerButton": {"ariaLabel": "햄버거 메뉴 보여 줘"}
+    "hamburgerButton": {"ariaLabel": "햄버거 메뉴를 보여주세요"}
 }

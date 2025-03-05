@@ -1,18 +1,18 @@
 {"prettyPrintByteSize": {
     "kilobytes": {
-        "other": "%{count} KB",
-        "one": "1KB"
+        "other": "%{count} kb",
+        "one": "1 kb"
     },
     "bytes": {
-        "other": "%{count} 字节",
+        "other": "%{count}字节",
         "one": "1字节"
     },
     "megabytes": {
         "other": "%{count} MB",
-        "one": "1MB"
+        "one": "1 MB"
     },
     "gigabytes": {
         "other": "%{count} GB",
-        "one": "1GB"
+        "one": "1 GB"
     }
 }}

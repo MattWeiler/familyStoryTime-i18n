@@ -14,7 +14,7 @@
         }
     },
     "footer": {
-        "copyright": "%{year} WeilerHaus",
+        "copyright": "%{year} Weilerhaus",
         "specialThanks": {
             "fonts": {
                 "coolors": "Kylare",
@@ -22,7 +22,7 @@
             },
             "label": "Speciellt tack",
             "icons": {
-                "ionicIcons": "IonIcons",
+                "ionicIcons": "Jonikoner",
                 "someIconsBy": "Ikoner av:",
                 "icons8": "Ikoner8",
                 "iconArchive": "Ikon Arkiv"

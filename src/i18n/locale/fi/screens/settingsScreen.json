@@ -22,7 +22,7 @@
             },
             "label": "Erityinen kiitos",
             "icons": {
-                "ionicIcons": "IonIcons",
+                "ionicIcons": "Ionicons",
                 "someIconsBy": "Kuvakkeet kirjoittaja:",
                 "icons8": "Kuvakkeet 8",
                 "iconArchive": "Kuvakearkisto"
@@ -59,13 +59,13 @@
         "picker": {
             "default": "oletuksena",
             "networkActionIcon": {"ariaLabel": "näyttää paikallisia ja verkkopohjaisia \u200b\u200bääniä"},
-            "label": "AI Reader Voices",
+            "label": "AI -lukijan äänet",
             "ariaLabel": "valitse \"AI Reader\" -ääni",
             "globalActionIcon": {"ariaLabel": "näytä kaikki kielet"}
         }
     },
     "audioVideoSelection": {
-        "displayName": "Audio & Video",
+        "displayName": "Ääni ja video",
         "ariaLabel": {
             "expanded": "tiivistä äänivideon valintaosio",
             "collapsed": "laajenna äänivideon valintaosaa"

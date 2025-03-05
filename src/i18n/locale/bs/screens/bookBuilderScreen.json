@@ -54,8 +54,8 @@
     },
     "bookSplashImageImageSelector": {
         "description": "Slika koja se prikazuje prilikom prvog pokretanja knjige.",
-        "label": "Book Splash Image",
-        "accessibleImageDisplayName": "book splash"
+        "label": "Knjiga za prskanje knjiga",
+        "accessibleImageDisplayName": "Rezervirajte prskanje"
     },
     "confirmations": {"goBack": {
         "title": "Ostavite promjene",
@@ -63,13 +63,14 @@
     }},
     "pageChangeAudio": {
         "description": "Zvuk za reprodukciju kada dođe vrijeme za promjenu stranice.",
-        "label": "Page Change Audio",
+        "label": "Promjena stranice Stranica",
         "presetAudioModalPicker": {
             "headerLabel": "Odaberite Page Change Audio",
             "ariaLabel": "izaberite sa liste unapred podešenih audio opcija za promenu stranice",
             "accessibleAudioDisplayName": "promjena stranice"
         }
     },
+    "saveButton": {"label": "Sačuvaj"},
     "errors": {
         "failedLoadingBook": "Učitavanje knjige nije uspjelo.",
         "validationErrors": {

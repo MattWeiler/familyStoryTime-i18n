@@ -1,8 +1,8 @@
 {
     "applicationSecurityButton": {"ariaLabel": {
-        "unlockParentMode": "otključaj aplikaciju za roditeljsku upotrebu",
-        "initParentMode": "omogućiti roditeljsko zaključavanje",
-        "lockParentMode": "omogućiti roditeljsko zaključavanje"
+        "unlockParentMode": "Otključajte prijavu za roditeljsku uporabu",
+        "initParentMode": "Omogućite roditeljsko zaključavanje",
+        "lockParentMode": "Omogućite bravu roditelja"
     }},
-    "hamburgerButton": {"ariaLabel": "prikaži jelovnik hamburgera"}
+    "hamburgerButton": {"ariaLabel": "Prikaži izbornik hamburgera"}
 }

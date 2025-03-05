@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Procházejte soubor obrazu",
+        "ariaLabel": "Procházejte obrazový soubor pro obrázek %{imageDisplayName}"
+    },
+    "takePhotoButton": {
+        "title": "vyfotit",
+        "ariaLabel": "Vyfoťte obrázek pro %{imageDisplayName}"
+    },
+    "browseImageGalleryButton": {
+        "title": "Procházejte galerii obrázků",
+        "ariaLabel": "Procházejte galerii obrázků pro obrázek %{imageDisplayName}"
+    },
+    "fullscreenButton": {"ariaLabel": "Zobrazit %{imageDisplayName} obrázek na FullScreen"},
+    "imageEditor": {
+        "cropButton": {"text": "Plodina"},
+        "cancelButton": {"text": "Zrušit"},
+        "backButton": {"text": "Zadní"},
+        "saveButton": {"text": "Uložit"}
+    },
+    "editSelectedImageButton": {
+        "title": "upravit obrázek",
+        "ariaLabel": "Upravte obrázek %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "Zobrazit ovládací prvky obrázků %{imageDisplayName}",
+        "controlsVisible": "skrýt ovládací prvky obrázků %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Povolení odepřeno",
+            "message": "Odmítli jste povolení k přístupu k fotoaparátu."
+        },
+        "browseImages": {
+            "title": "Povolení odepřeno",
+            "message": "Odmítli jste povolení k přístupu k vašim fotografiím."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "Zavřete celou obrazovku"}
+}

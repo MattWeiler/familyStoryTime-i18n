@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "sayfa değişikliği"
         }
     },
+    "saveButton": {"label": "Kaydetmek"},
     "errors": {
         "failedLoadingBook": "Kitap yüklenemedi.",
         "validationErrors": {

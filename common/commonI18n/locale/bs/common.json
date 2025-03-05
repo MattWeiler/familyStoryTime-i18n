@@ -1,25 +1,25 @@
 {
-    "add": "Dodaj",
-    "cancel": "Otkaži",
-    "no": "br",
-    "verifying": "provjeravanje...",
+    "add": "Dodavati",
+    "cancel": "Otkazati",
+    "no": "Ne",
+    "verifying": "Provjera ...",
     "set": "Set",
     "yes": "Da",
-    "back": "Nazad",
-    "loading": "loading ...",
-    "required": "potrebno",
-    "acknowledgeError": "potvrditi grešku",
-    "saving": "ušteda...",
+    "back": "Natrag",
+    "loading": "Učitavanje ...",
+    "required": "potreban",
+    "acknowledgeError": "Priznajte grešku",
+    "saving": "Spremanje ...",
     "settingsButton": {
         "text": "Postavke",
-        "ariaLabel": "idite na stranicu postavki aplikacija"
+        "ariaLabel": "Idite na stranicu Postavke aplikacija"
     },
     "backButton": {
-        "label": "Nazad",
-        "title": "vrati se na posljednju stranicu",
-        "ariaLabel": "vrati se na posljednju stranicu"
+        "label": "Natrag",
+        "title": "Vratite se na zadnju stranicu",
+        "ariaLabel": "Vratite se na zadnju stranicu"
     },
-    "sending": "slanje...",
-    "create": "Kreiraj",
-    "ok": "Ok"
+    "sending": "Slanje ...",
+    "create": "Stvoriti",
+    "ok": "U redu"
 }

@@ -1,14 +1,14 @@
 {"prettyPrintByteSize": {
     "kilobytes": {
-        "other": "%{count} KB",
-        "one": "1 KB"
+        "other": "%{count} kb",
+        "one": "1 kb"
     },
     "bytes": {
         "other": "%{count} octeți",
         "one": "1 octet"
     },
     "megabytes": {
-        "other": "%{count} MB",
+        "other": "%{count} mb",
         "one": "1 MB"
     },
     "gigabytes": {

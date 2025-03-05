@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "Grabe su propio audio %{audioDisplayName}"},
+    "toasts": {
+        "audioFileLoading": {"failure": "No se pudo cargar audio"},
+        "editInitFailed": "No se pudo editar audio",
+        "recordingFailed": "No se pudo grabar audio"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Confirmación clara",
+            "message": "¿Estás seguro de que quieres borrar el audio seleccionado?"
+        },
+        "ariaLabel": "Borre el audio seleccionado %{audioDisplayName}"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "seleccione un audio preestablecido %{audioDisplayName}"},
+    "selectAudioFileButton": {"ariaLabel": "Seleccione su propio archivo de audio %{audioDisplayName}"},
+    "playButton": {
+        "stopped": {"ariaLabel": "Reproducir el audio %{audioDisplayName}"},
+        "recording": {"ariaLabel": "Detener la grabación %{audioDisplayName}"},
+        "playing": {"ariaLabel": "Detén la reproducción de audio %{audioDisplayName}"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "editar el audio %{audioDisplayName} cargado actualmente",
+        "cancelConfirmation": {
+            "title": "Descartar edición",
+            "message": "¿Estás seguro de que quieres descartar las ediciones que hayas hecho?",
+            "buttonAriaLabels": {
+                "no": "No, quédate y continúa editando",
+                "yes": "si, descarte ediciones"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Archivo cargado: %{filename}",
+        "recording": "Grabación",
+        "preset": "Preset: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Permiso denegado",
+        "message": "Ha negado el permiso para acceder a su micrófono."
+    }}
+}

@@ -1,4 +1,4 @@
 {"ariaLabel": {
-    "expanded": "sbalit %{title}",
-    "collapsed": "rozbalit %{title}"
+    "expanded": "kolaps %{title}",
+    "collapsed": "Rozbalte %{title}"
 }}

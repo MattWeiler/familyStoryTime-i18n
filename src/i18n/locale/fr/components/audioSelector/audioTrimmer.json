@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "Jouez à l'audio coupé pour entendre un échantillon"},
+    "playbackPositionLabel": "Position de lecture",
+    "discardButton": {
+        "label": "Jeter",
+        "title": "Jeter l'audio taillé",
+        "ariaLabel": "Jeter l'audio taillé"
+    },
+    "saveButton": {
+        "label": "Sauvegarder",
+        "title": "Utilisez l'audio coupé",
+        "ariaLabel": "Utilisez l'audio coupé"
+    }
+}

@@ -11,7 +11,7 @@
     "sourceAuthor": {"label": "작가:"},
     "sourcePublisher": {"label": "발행자:"},
     "sourceIsbn": {
-        "label": "ISBN:",
+        "label": "ISBN :",
         "ariaLabel": "ISBN 열기 책 ISBN 검색"
     }
 }

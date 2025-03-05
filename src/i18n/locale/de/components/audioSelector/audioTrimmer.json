@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "Spielen Sie das abgeschnittene Audio, um ein Beispiel zu hören"},
+    "playbackPositionLabel": "Wiedergabeposition",
+    "discardButton": {
+        "label": "Verwerfen",
+        "title": "das geschnittene Audio verwerfen",
+        "ariaLabel": "das geschnittene Audio verwerfen"
+    },
+    "saveButton": {
+        "label": "Speichern",
+        "title": "Verwenden Sie das geschnittene Audio",
+        "ariaLabel": "Verwenden Sie das geschnittene Audio"
+    }
+}

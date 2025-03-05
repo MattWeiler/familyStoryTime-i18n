@@ -5,13 +5,13 @@
     },
     "sourceUrl": {
         "label": "se bogkilde",
-        "ariaLabel": "open book source URL"
+        "ariaLabel": "Åbn bogkilde -URL"
     },
     "sourceIllustrator": {"label": "Illustrator:"},
     "sourceAuthor": {"label": "Forfatter:"},
     "sourcePublisher": {"label": "Forlægger:"},
     "sourceIsbn": {
-        "label": "ISBN:",
+        "label": "Isbn:",
         "ariaLabel": "åben ISBN-søgning efter bogens ISBN"
     }
 }

@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "ฟองเด้ง",
-    "MAGICAL_SPARKLE_LOUD": "ประกายเวทย์มนตร์ดัง",
-    "MAGICAL_WHOOSH": "วิเศษหวือ",
-    "GLITTER": "แวววาว",
-    "_NONE": "ไม่มี",
-    "MAGICAL_REVEAL_WAVY": "เปิดเผยเวทย์มนตร์หยัก",
-    "BUBBLE_POP_BIG": "ป๊อปฟองใหญ่",
-    "MAGICAL_REVEAL": "การเปิดเผยที่มีมนต์ขลัง",
-    "BUBBLE_POP_POP_POP": "บับเบิ้ลป๊อปป๊อปป๊อป",
-    "ICICLES_WHOOSH": "น้ำแข็งย้อย โห่",
-    "RATTLESNAKE": "งูหางกระดิ่ง",
-    "BIRD_CHIRP": "นกร้องเจี๊ยก ๆ",
-    "DRIP": "หยด",
-    "FLUSH_GROSS": "ล้างขั้นต้น",
-    "HARP": "พิณ",
-    "BUBBLE_POP_SMALL": "ป๊อปบับเบิ้ลขนาดเล็ก",
-    "MAGICAL_SPRING": "ฤดูใบไม้ผลิมหัศจรรย์",
-    "MAGICAL_SPARKLE": "ประกายวิเศษ"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "ฟองเด้ง",
+        "MAGICAL_SPARKLE_LOUD": "ประกายเวทย์มนตร์ดัง",
+        "MAGICAL_WHOOSH": "วิเศษหวือ",
+        "GLITTER": "แวววาว",
+        "_NONE": "ไม่มี",
+        "MAGICAL_REVEAL_WAVY": "เปิดเผยเวทย์มนตร์หยัก",
+        "BUBBLE_POP_BIG": "ป๊อปฟองใหญ่",
+        "MAGICAL_REVEAL": "การเปิดเผยที่มีมนต์ขลัง",
+        "BUBBLE_POP_POP_POP": "บับเบิ้ลป๊อปป๊อปป๊อป",
+        "ICICLES_WHOOSH": "น้ำแข็งย้อย โห่",
+        "RATTLESNAKE": "งูหางกระดิ่ง",
+        "BIRD_CHIRP": "นกร้องเจี๊ยก ๆ",
+        "DRIP": "หยด",
+        "FLUSH_GROSS": "ล้างขั้นต้น",
+        "HARP": "พิณ",
+        "BUBBLE_POP_SMALL": "ป๊อปบับเบิ้ลขนาดเล็ก",
+        "MAGICAL_SPRING": "ฤดูใบไม้ผลิมหัศจรรย์",
+        "MAGICAL_SPARKLE": "ประกายวิเศษ"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} ชั่วโมง",
+            "one": "%{displayValue} ชั่วโมง"
+        },
+        "mins": {
+            "other": "%{displayValue} นาที",
+            "one": "%{displayValue} นาที"
+        },
+        "ms": {
+            "other": "%{displayValue} ms",
+            "one": "%{displayValue} ms"
+        },
+        "secs": {
+            "other": "%{displayValue} วินาที",
+            "one": "%{displayValue} วินาที"
+        },
+        "days": {
+            "other": "%{displayValue} วัน",
+            "one": "%{displayValue} วัน"
+        }
+    }
+}

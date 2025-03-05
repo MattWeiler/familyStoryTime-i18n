@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "ページ変更"
         }
     },
+    "saveButton": {"label": "保存"},
     "errors": {
         "failedLoadingBook": "本の読み込みに失敗しました。",
         "validationErrors": {

@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Bläddra efter en bildfil",
+        "ariaLabel": "Bläddra för en bildfil för %{imageDisplayName} Bild"
+    },
+    "takePhotoButton": {
+        "title": "ta bild",
+        "ariaLabel": "Ta bilden för %{imageDisplayName} Bild"
+    },
+    "browseImageGalleryButton": {
+        "title": "Bläddra i bildgalleriet",
+        "ariaLabel": "Bläddra i bildgalleriet för %{imageDisplayName} Bild"
+    },
+    "fullscreenButton": {"ariaLabel": "Visa %{imageDisplayName} Bild i fullskärm"},
+    "imageEditor": {
+        "cropButton": {"text": "Beskära"},
+        "cancelButton": {"text": "Avboka"},
+        "backButton": {"text": "Tillbaka"},
+        "saveButton": {"text": "Spara"}
+    },
+    "editSelectedImageButton": {
+        "title": "Redigera bilden",
+        "ariaLabel": "Redigera bilden %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "visa %{imageDisplayName} bildkontrollerna",
+        "controlsVisible": "dölj %{imageDisplayName} bildkontrollerna"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Tillstånd nekad",
+            "message": "Du har förnekat tillåtelse att komma åt din kamera."
+        },
+        "browseImages": {
+            "title": "Tillstånd nekad",
+            "message": "Du har förnekat tillåtelse att komma åt dina foton."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "stänga helskärm"}
+}

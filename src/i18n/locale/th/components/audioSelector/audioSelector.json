@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "บันทึกเสียง %{audioDisplayName} ของคุณเอง"},
+    "toasts": {
+        "audioFileLoading": {"failure": "ไม่สามารถโหลดเสียงได้"},
+        "editInitFailed": "ไม่สามารถแก้ไขเสียงได้",
+        "recordingFailed": "ไม่สามารถบันทึกเสียงได้"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "การยืนยันที่ชัดเจน",
+            "message": "แน่ใจหรือว่าต้องการล้างเสียงที่เลือก?"
+        },
+        "ariaLabel": "ล้างเสียง %{audioDisplayName} ที่เลือก"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "เลือกเสียงที่ตั้งไว้ล่วงหน้า %{audioDisplayName} เสียง"},
+    "selectAudioFileButton": {"ariaLabel": "เลือกไฟล์เสียง %{audioDisplayName} ของคุณเอง"},
+    "playButton": {
+        "stopped": {"ariaLabel": "เล่นเสียง %{audioDisplayName}"},
+        "recording": {"ariaLabel": "หยุดการบันทึก %{audioDisplayName}"},
+        "playing": {"ariaLabel": "หยุดการเล่น %{audioDisplayName} เสียง"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "แก้ไขเสียง %{audioDisplayName} ในปัจจุบัน",
+        "cancelConfirmation": {
+            "title": "ยกเลิกการแก้ไข",
+            "message": "แน่ใจหรือว่าต้องการยกเลิกการแก้ไขใด ๆ ที่คุณทำ?",
+            "buttonAriaLabels": {
+                "no": "ไม่อยู่และแก้ไขต่อไป",
+                "yes": "ใช่ยกเลิกการแก้ไข"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "ไฟล์ที่อัปโหลด: %{filename}",
+        "recording": "การบันทึก",
+        "preset": "ที่ตั้งไว้ล่วงหน้า: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "ปฏิเสธการอนุญาต",
+        "message": "คุณได้ปฏิเสธการอนุญาตให้เข้าถึงไมโครโฟนของคุณ"
+    }}
+}

@@ -2,24 +2,24 @@
     "add": "Tillägga",
     "cancel": "Avboka",
     "no": "Inga",
-    "verifying": "verifierar...",
+    "verifying": "verifiering ...",
     "set": "Uppsättning",
     "yes": "Ja",
     "back": "Tillbaka",
-    "loading": "laddar...",
+    "loading": "Laddar ...",
     "required": "nödvändig",
     "acknowledgeError": "erkänna felet",
-    "saving": "sparar...",
+    "saving": "Sparande ...",
     "settingsButton": {
         "text": "Inställningar",
-        "ariaLabel": "gå till sidan för programinställningar"
+        "ariaLabel": "Gå till Sidan för applikationer"
     },
     "backButton": {
         "label": "Tillbaka",
-        "title": "gå tillbaka till sista sidan",
-        "ariaLabel": "gå tillbaka till sista sidan"
+        "title": "Gå tillbaka till sista sidan",
+        "ariaLabel": "Gå tillbaka till sista sidan"
     },
-    "sending": "skickar...",
+    "sending": "Skickar ...",
     "create": "Skapa",
     "ok": "Ok"
 }

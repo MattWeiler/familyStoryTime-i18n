@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "एक नमूना सुनने के लिए छंटनी ऑडियो खेलें"},
+    "playbackPositionLabel": "प्लेबैक स्थिति",
+    "discardButton": {
+        "label": "खारिज करना",
+        "title": "छंटनी वाले ऑडियो को त्यागें",
+        "ariaLabel": "छंटनी वाले ऑडियो को त्यागें"
+    },
+    "saveButton": {
+        "label": "बचाना",
+        "title": "छंटनी ऑडियो का उपयोग करें",
+        "ariaLabel": "छंटनी ऑडियो का उपयोग करें"
+    }
+}

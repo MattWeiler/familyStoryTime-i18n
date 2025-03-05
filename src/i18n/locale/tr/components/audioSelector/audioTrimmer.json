@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "Bir örnek duymak için kesilmiş sesi çalın"},
+    "playbackPositionLabel": "Playback pozisyonu",
+    "discardButton": {
+        "label": "Atmak",
+        "title": "Kesilmiş sesi atın",
+        "ariaLabel": "Kesilmiş sesi atın"
+    },
+    "saveButton": {
+        "label": "Kaydetmek",
+        "title": "Kesilmiş sesi kullanın",
+        "ariaLabel": "Kesilmiş sesi kullanın"
+    }
+}

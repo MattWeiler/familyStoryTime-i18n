@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "트림 오디오를 재생하여 샘플을 들으십시오"},
+    "playbackPositionLabel": "재생 위치",
+    "discardButton": {
+        "label": "버리다",
+        "title": "트림 오디오를 폐기하십시오",
+        "ariaLabel": "트림 오디오를 폐기하십시오"
+    },
+    "saveButton": {
+        "label": "구하다",
+        "title": "트림 오디오를 사용하십시오",
+        "ariaLabel": "트림 오디오를 사용하십시오"
+    }
+}

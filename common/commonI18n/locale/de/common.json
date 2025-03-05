@@ -2,24 +2,24 @@
     "add": "Hinzufügen",
     "cancel": "Stornieren",
     "no": "NEIN",
-    "verifying": "verifizieren ...",
+    "verifying": "überprüfen ...",
     "set": "Satz",
     "yes": "Ja",
     "back": "Zurück",
     "loading": "Laden ...",
     "required": "erforderlich",
-    "acknowledgeError": "den Fehler quittieren",
+    "acknowledgeError": "Bestätigen Sie den Fehler",
     "saving": "sparen ...",
     "settingsButton": {
         "text": "Einstellungen",
-        "ariaLabel": "Gehen Sie zur Seite mit den Anwendungseinstellungen"
+        "ariaLabel": "Gehen Sie zur Seite \"Einstellungen für Anwendungen\""
     },
     "backButton": {
         "label": "Zurück",
-        "title": "zurück zur letzten Seite",
-        "ariaLabel": "zurück zur letzten Seite"
+        "title": "Gehen Sie zurück zur letzten Seite",
+        "ariaLabel": "Gehen Sie zurück zur letzten Seite"
     },
-    "sending": "senden ...",
+    "sending": "Senden ...",
     "create": "Erstellen",
     "ok": "OK"
 }

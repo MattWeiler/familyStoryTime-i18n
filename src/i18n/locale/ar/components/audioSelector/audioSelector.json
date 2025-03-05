@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "سجل الصوت الخاص بك %{audioDisplayName}"},
+    "toasts": {
+        "audioFileLoading": {"failure": "فشل في تحميل الصوت"},
+        "editInitFailed": "فشل في تحرير الصوت",
+        "recordingFailed": "فشل في تسجيل الصوت"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "تأكيد واضح",
+            "message": "هل أنت متأكد من أنك تريد مسح الصوت المحدد؟"
+        },
+        "ariaLabel": "امسح الصوت المحدد %{audioDisplayName}"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "حدد صوتًا مسبقًا %{audioDisplayName}"},
+    "selectAudioFileButton": {"ariaLabel": "حدد ملف الصوت الخاص بك %{audioDisplayName}"},
+    "playButton": {
+        "stopped": {"ariaLabel": "قم بتشغيل الصوت %{audioDisplayName}"},
+        "recording": {"ariaLabel": "أوقف التسجيل %{audioDisplayName}"},
+        "playing": {"ariaLabel": "أوقف الصوت %{audioDisplayName}"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "تحرير الصوت المحمّل حاليًا %{audioDisplayName}",
+        "cancelConfirmation": {
+            "title": "تجاهل التحرير",
+            "message": "هل أنت متأكد من أنك تريد تجاهل أي تعديلات قمت بها؟",
+            "buttonAriaLabels": {
+                "no": "لا ، ابق ومواصلة التحرير",
+                "yes": "نعم ، تجاهل التعديلات"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "ملف تم تحميله: %{filename}",
+        "recording": "تسجيل",
+        "preset": "الإعداد المسبق: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "تم رفض الإذن",
+        "message": "لقد رفضت إذنًا للوصول إلى الميكروفون الخاص بك."
+    }}
+}

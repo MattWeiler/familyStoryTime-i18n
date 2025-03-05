@@ -1,8 +1,8 @@
 {
     "applicationSecurityButton": {"ariaLabel": {
-        "unlockParentMode": "Entsperren Sie die Anwendung für die Verwendung durch Eltern",
-        "initParentMode": "Aktivieren Sie die Kindersicherung",
-        "lockParentMode": "Elternsperre aktivieren"
+        "unlockParentMode": "Entsperren Sie die Anwendung für die Verwendung der Eltern frei",
+        "initParentMode": "Ermöglichen Sie die elterliche Verriegelung",
+        "lockParentMode": "übergeordnete Lock aktivieren"
     }},
-    "hamburgerButton": {"ariaLabel": "Hamburger-Menü anzeigen"}
+    "hamburgerButton": {"ariaLabel": "Hamburgermenü anzeigen"}
 }

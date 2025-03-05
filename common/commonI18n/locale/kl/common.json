@@ -6,18 +6,18 @@
     "set": "Inissippoq",
     "yes": "Aap",
     "back": "Kingumut",
-    "loading": "ikkussineq ...",
+    "loading": "loading ...",
     "required": "piumasaqaataasoq",
-    "acknowledgeError": "kukkuneq tunniussassavat",
-    "saving": "sipaarniarneq ...",
+    "acknowledgeError": "kukkuneq maluginiarlugu",
+    "saving": "sipaarneq ...",
     "settingsButton": {
-        "text": "Inniminniinerit",
-        "ariaLabel": "applikationit inissititerneqarnerannut quppernermut iserit"
+        "text": "Inissiissutit",
+        "ariaLabel": "Quppernermut applikationit inissititersimasaannut ingerlagit"
     },
     "backButton": {
         "label": "Kingumut",
-        "title": "quppernermut kingullermut uteqqigit",
-        "ariaLabel": "quppernermut kingullermut uteqqigit"
+        "title": "quppernermut kingullermut uteqqissaatit",
+        "ariaLabel": "quppernermut kingullermut uteqqissaatit"
     },
     "sending": "nassiussineq ...",
     "create": "Pilersitaq",

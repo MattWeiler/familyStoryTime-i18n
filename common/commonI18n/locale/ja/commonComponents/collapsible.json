@@ -1,4 +1,4 @@
 {"ariaLabel": {
-    "expanded": "折りたたむ%{title}",
-    "collapsed": "%{title}を展開します"
+    "expanded": "collapse %{title}",
+    "collapsed": "%{title}拡張"
 }}

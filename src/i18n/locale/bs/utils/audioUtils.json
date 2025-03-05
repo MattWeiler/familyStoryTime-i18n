@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "bubble bounce",
-    "MAGICAL_SPARKLE_LOUD": "glasne magične iskre",
-    "MAGICAL_WHOOSH": "magic whoosh",
-    "GLITTER": "glitter",
-    "_NONE": "nijedan",
-    "MAGICAL_REVEAL_WAVY": "valovito magično otkriće",
-    "BUBBLE_POP_BIG": "veliki bubble pop",
-    "MAGICAL_REVEAL": "magično otkriće",
-    "BUBBLE_POP_POP_POP": "bubble pop pop pop",
-    "ICICLES_WHOOSH": "icicles whoosh",
-    "RATTLESNAKE": "zvečarka",
-    "BIRD_CHIRP": "cvrkut ptica",
-    "DRIP": "drip",
-    "FLUSH_GROSS": "bruto flush",
-    "HARP": "harfa",
-    "BUBBLE_POP_SMALL": "mali bubble pop",
-    "MAGICAL_SPRING": "magično proljeće",
-    "MAGICAL_SPARKLE": "magične iskre"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "Bubble odskok",
+        "MAGICAL_SPARKLE_LOUD": "glasne magične iskre",
+        "MAGICAL_WHOOSH": "magic whoosh",
+        "GLITTER": "sjaj",
+        "_NONE": "nijedan",
+        "MAGICAL_REVEAL_WAVY": "valovito magično otkriće",
+        "BUBBLE_POP_BIG": "veliki bubble pop",
+        "MAGICAL_REVEAL": "magično otkriće",
+        "BUBBLE_POP_POP_POP": "Bubble pop pop pop",
+        "ICICLES_WHOOSH": "iclecle",
+        "RATTLESNAKE": "zvečarka",
+        "BIRD_CHIRP": "cvrkut ptica",
+        "DRIP": "kapljati",
+        "FLUSH_GROSS": "bruto flush",
+        "HARP": "harfa",
+        "BUBBLE_POP_SMALL": "mali bubble pop",
+        "MAGICAL_SPRING": "magično proljeće",
+        "MAGICAL_SPARKLE": "magične iskre"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} Sati",
+            "one": "%{displayValue} sat"
+        },
+        "mins": {
+            "other": "%{displayValue} Mins",
+            "one": "%{displayValue} Min"
+        },
+        "ms": {
+            "other": "%{displayValue} MS",
+            "one": "%{displayValue} MS"
+        },
+        "secs": {
+            "other": "%{displayValue} Secs",
+            "one": "%{displayValue} Sec"
+        },
+        "days": {
+            "other": "%{displayValue} Dani",
+            "one": "%{displayValue} Dan"
+        }
+    }
+}

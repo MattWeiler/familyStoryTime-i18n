@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "পৃষ্ঠা পরিবর্তন"
         }
     },
+    "saveButton": {"label": "সংরক্ষণ করুন"},
     "errors": {
         "failedLoadingBook": "বই লোড করতে ব্যর্থ হয়েছে.",
         "validationErrors": {

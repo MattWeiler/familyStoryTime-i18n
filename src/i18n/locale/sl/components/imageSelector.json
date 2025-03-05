@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "brskajte po slikovni datoteki",
+        "ariaLabel": "brskajte po slikovni datoteki za sliko %{imageDisplayName}"
+    },
+    "takePhotoButton": {
+        "title": "fotografirajte",
+        "ariaLabel": "Fotografirajte za sliko %{imageDisplayName}"
+    },
+    "browseImageGalleryButton": {
+        "title": "Brskaj po galeriji slik",
+        "ariaLabel": "Galerija slik Brskaj za sliko %{imageDisplayName}"
+    },
+    "fullscreenButton": {"ariaLabel": "Prikaži sliko %{imageDisplayName} na celotnem zaslonu"},
+    "imageEditor": {
+        "cropButton": {"text": "Pridelek"},
+        "cancelButton": {"text": "Odpovedati"},
+        "backButton": {"text": "Nazaj"},
+        "saveButton": {"text": "Shrani"}
+    },
+    "editSelectedImageButton": {
+        "title": "Uredi sliko",
+        "ariaLabel": "Uredi sliko %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "Prikažite kontrole slike %{imageDisplayName}",
+        "controlsVisible": "Skrij kontrole slike %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Dovoljenje zavrnjeno",
+            "message": "Zavrnili ste dovoljenje za dostop do fotoaparata."
+        },
+        "browseImages": {
+            "title": "Dovoljenje zavrnjeno",
+            "message": "Zavrnili ste dovoljenje za dostop do fotografij."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "Zaprite celozaslonski zaslon"}
+}

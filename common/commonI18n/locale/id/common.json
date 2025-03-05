@@ -9,15 +9,15 @@
     "loading": "memuat ...",
     "required": "diperlukan",
     "acknowledgeError": "mengakui kesalahannya",
-    "saving": "menyimpan ...",
+    "saving": "Menyimpan ...",
     "settingsButton": {
         "text": "Pengaturan",
-        "ariaLabel": "buka halaman pengaturan aplikasi"
+        "ariaLabel": "Buka halaman Pengaturan Aplikasi"
     },
     "backButton": {
         "label": "Kembali",
-        "title": "kembali ke halaman terakhir",
-        "ariaLabel": "kembali ke halaman terakhir"
+        "title": "Kembali ke Halaman Terakhir",
+        "ariaLabel": "Kembali ke Halaman Terakhir"
     },
     "sending": "mengirim ...",
     "create": "Membuat",

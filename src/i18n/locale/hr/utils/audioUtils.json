@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "odbijanje mjehurića",
-    "MAGICAL_SPARKLE_LOUD": "glasne čarobne svjetlucave",
-    "MAGICAL_WHOOSH": "čarobni vrisak",
-    "GLITTER": "svjetlucati",
-    "_NONE": "nikakav",
-    "MAGICAL_REVEAL_WAVY": "valovito čarobno otkrivanje",
-    "BUBBLE_POP_BIG": "pucanje velikog mjehurića",
-    "MAGICAL_REVEAL": "magično otkrivanje",
-    "BUBBLE_POP_POP_POP": "bubble pop pop pop",
-    "ICICLES_WHOOSH": "ledenice whoosh",
-    "RATTLESNAKE": "čegrtuša",
-    "BIRD_CHIRP": "cvrkut ptica",
-    "DRIP": "kapati",
-    "FLUSH_GROSS": "bruto ispiranje",
-    "HARP": "harfa",
-    "BUBBLE_POP_SMALL": "pucanje malih mjehurića",
-    "MAGICAL_SPRING": "čarobno proljeće",
-    "MAGICAL_SPARKLE": "čarobne svjetlucave"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "odbijanje mjehurića",
+        "MAGICAL_SPARKLE_LOUD": "glasne čarobne svjetlucave",
+        "MAGICAL_WHOOSH": "čarobni vrisak",
+        "GLITTER": "svjetlucati",
+        "_NONE": "nikakav",
+        "MAGICAL_REVEAL_WAVY": "valovito čarobno otkrivanje",
+        "BUBBLE_POP_BIG": "pucanje velikog mjehurića",
+        "MAGICAL_REVEAL": "magično otkrivanje",
+        "BUBBLE_POP_POP_POP": "Bubble Pop pop pop",
+        "ICICLES_WHOOSH": "ledenice whoosh",
+        "RATTLESNAKE": "čegrtuša",
+        "BIRD_CHIRP": "cvrkut ptica",
+        "DRIP": "kapati",
+        "FLUSH_GROSS": "bruto ispiranje",
+        "HARP": "harfa",
+        "BUBBLE_POP_SMALL": "pucanje malih mjehurića",
+        "MAGICAL_SPRING": "čarobno proljeće",
+        "MAGICAL_SPARKLE": "čarobne svjetlucave"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} sati",
+            "one": "%{displayValue} sat"
+        },
+        "mins": {
+            "other": "%{displayValue} mins",
+            "one": "%{displayValue} min"
+        },
+        "ms": {
+            "other": "%{displayValue} ms",
+            "one": "%{displayValue} ms"
+        },
+        "secs": {
+            "other": "%{displayValue} secs",
+            "one": "%{displayValue} sec"
+        },
+        "days": {
+            "other": "%{displayValue} dani",
+            "one": "%{displayValue} dan"
+        }
+    }
+}

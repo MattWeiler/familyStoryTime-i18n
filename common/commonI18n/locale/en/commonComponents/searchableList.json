@@ -1,0 +1,23 @@
+{
+    "contextMenu": {
+        "ariaLabel": "view additional options",
+
+        "items": {
+            "selectAll": {
+                "label": "Select All",
+                "ariaLabel": {
+                    "one": "select the filtered item",
+                    "other": "select all filtered items"
+                }
+            },
+
+            "cancelSelection": {
+                "label": "Cancel Selection",
+                "ariaLabel": {
+                    "one": "deselect the selected item",
+                    "other": "deselect all selected items"
+                }
+            }
+        }
+    }
+}

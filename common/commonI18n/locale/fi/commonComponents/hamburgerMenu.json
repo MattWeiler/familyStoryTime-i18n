@@ -1,8 +1,8 @@
 {
     "applicationSecurityButton": {"ariaLabel": {
-        "unlockParentMode": "avaa sovellus vanhempien käyttöön",
-        "initParentMode": "ota lapsilukko käyttöön",
-        "lockParentMode": "ota vanhempien lukitus käyttöön"
+        "unlockParentMode": "Avaa sovellus vanhempien käyttöön",
+        "initParentMode": "Ota vanhempien lukitus käyttöön",
+        "lockParentMode": "Ota vanhempien lukko käyttöön"
     }},
-    "hamburgerButton": {"ariaLabel": "näytä hampurilaismenu"}
+    "hamburgerButton": {"ariaLabel": "Näytä hampurilainen valikko"}
 }

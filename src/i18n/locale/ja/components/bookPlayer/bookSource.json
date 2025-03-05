@@ -11,7 +11,7 @@
     "sourceAuthor": {"label": "著者："},
     "sourcePublisher": {"label": "出版社:"},
     "sourceIsbn": {
-        "label": "ISBN:",
+        "label": "ISBN：",
         "ariaLabel": "ISBN を開く 本の ISBN 検索を開く"
     }
 }

@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "schimbarea paginii"
         }
     },
+    "saveButton": {"label": "Salva"},
     "errors": {
         "failedLoadingBook": "Nu s-a putut încărca cartea.",
         "validationErrors": {

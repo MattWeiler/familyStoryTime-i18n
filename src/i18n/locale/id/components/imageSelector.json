@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Jelajahi file gambar",
+        "ariaLabel": "Jelajahi untuk file gambar untuk %{imageDisplayName} gambar"
+    },
+    "takePhotoButton": {
+        "title": "Ambil foto",
+        "ariaLabel": "Ambil gambar untuk %{imageDisplayName} gambar"
+    },
+    "browseImageGalleryButton": {
+        "title": "Jelajahi Galeri Gambar",
+        "ariaLabel": "Jelajahi galeri gambar untuk %{imageDisplayName} gambar"
+    },
+    "fullscreenButton": {"ariaLabel": "Tampilkan %{imageDisplayName} gambar di layar penuh"},
+    "imageEditor": {
+        "cropButton": {"text": "Tanaman"},
+        "cancelButton": {"text": "Membatalkan"},
+        "backButton": {"text": "Kembali"},
+        "saveButton": {"text": "Menyimpan"}
+    },
+    "editSelectedImageButton": {
+        "title": "Edit gambar",
+        "ariaLabel": "Edit gambar %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "Tampilkan kontrol gambar %{imageDisplayName}",
+        "controlsVisible": "Sembunyikan kontrol gambar %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Izin ditolak",
+            "message": "Anda telah menolak izin untuk mengakses kamera Anda."
+        },
+        "browseImages": {
+            "title": "Izin ditolak",
+            "message": "Anda telah menolak izin untuk mengakses foto Anda."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "Tutup layar penuh"}
+}

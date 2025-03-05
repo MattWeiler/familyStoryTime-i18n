@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "เปลี่ยนหน้า"
         }
     },
+    "saveButton": {"label": "บันทึก"},
     "errors": {
         "failedLoadingBook": "ไม่สามารถโหลดหนังสือได้",
         "validationErrors": {

@@ -2,22 +2,22 @@
     "add": "Adicionar",
     "cancel": "Cancelar",
     "no": "Não",
-    "verifying": "verificando ...",
+    "verifying": "Verificando ...",
     "set": "Definir",
     "yes": "Sim",
     "back": "Voltar",
     "loading": "carregando ...",
     "required": "obrigatório",
     "acknowledgeError": "reconhecer o erro",
-    "saving": "salvando ...",
+    "saving": "Salvando ...",
     "settingsButton": {
         "text": "Configurações",
-        "ariaLabel": "vá para a página de configurações do aplicativo"
+        "ariaLabel": "Vá para a página Configurações de aplicativos"
     },
     "backButton": {
         "label": "Voltar",
-        "title": "voltar para a última página",
-        "ariaLabel": "voltar para a última página"
+        "title": "Volte para a última página",
+        "ariaLabel": "Volte para a última página"
     },
     "sending": "enviando ...",
     "create": "Criar",

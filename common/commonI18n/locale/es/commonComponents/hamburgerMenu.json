@@ -1,8 +1,8 @@
 {
     "applicationSecurityButton": {"ariaLabel": {
-        "unlockParentMode": "desbloquear aplicación para uso parental",
-        "initParentMode": "habilitar el bloqueo parental",
-        "lockParentMode": "habilitar el bloqueo parental"
+        "unlockParentMode": "Desbloquear la aplicación para uso de los padres",
+        "initParentMode": "Habilitar el bloqueo de los padres",
+        "lockParentMode": "habilitar el bloqueo de los padres"
     }},
-    "hamburgerButton": {"ariaLabel": "mostrar menú de hamburguesas"}
+    "hamburgerButton": {"ariaLabel": "Show Hamburger Menu"}
 }

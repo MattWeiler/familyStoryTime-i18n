@@ -7,7 +7,7 @@
     "emailInput": {
         "description": "ระบุหากคุณต้องการได้รับการตอบกลับจากเรา",
         "label": "ที่อยู่อีเมล",
-        "placeholder": "someone@gmail.com",
+        "placeholder": "someeny@gmail.com",
         "ariaLabel": "ที่อยู่อีเมลของคุณ"
     }
 }

@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "画像ファイルを参照します",
+        "ariaLabel": "%{imageDisplayName}画像の画像ファイルを参照します"
+    },
+    "takePhotoButton": {
+        "title": "写真を撮ってください",
+        "ariaLabel": "%{imageDisplayName}画像の写真を撮ります"
+    },
+    "browseImageGalleryButton": {
+        "title": "画像ギャラリーを閲覧します",
+        "ariaLabel": "{%{imageDisplayName}画像の画像ギャラリーを参照します"
+    },
+    "fullscreenButton": {"ariaLabel": "フルスクリーンの%{imageDisplayName}画像を表示します"},
+    "imageEditor": {
+        "cropButton": {"text": "作物"},
+        "cancelButton": {"text": "キャンセル"},
+        "backButton": {"text": "戻る"},
+        "saveButton": {"text": "保存"}
+    },
+    "editSelectedImageButton": {
+        "title": "画像を編集します",
+        "ariaLabel": "%{imageDisplayName}画像を編集します"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "%{imageDisplayName}画像コントロールを表示します",
+        "controlsVisible": "%{imageDisplayName}画像コントロールを非表示にします"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "許可が拒否されました",
+            "message": "カメラにアクセスする許可を拒否しました。"
+        },
+        "browseImages": {
+            "title": "許可が拒否されました",
+            "message": "写真にアクセスする許可を拒否しました。"
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "フルスクリーンを閉じます"}
+}

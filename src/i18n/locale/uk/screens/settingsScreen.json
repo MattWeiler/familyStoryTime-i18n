@@ -14,15 +14,15 @@
         }
     },
     "footer": {
-        "copyright": "%{year} WeilerHaus",
+        "copyright": "%{year} Weilerhaus",
         "specialThanks": {
             "fonts": {
-                "coolors": "Coolors",
+                "coolors": "Охолоджувач",
                 "someFontsBy": "Автор шрифтів:"
             },
             "label": "Особлива подяка",
             "icons": {
-                "ionicIcons": "IonIcons",
+                "ionicIcons": "Іоніки",
                 "someIconsBy": "Автор іконок:",
                 "icons8": "Значки8",
                 "iconArchive": "Архів значків"
@@ -59,7 +59,7 @@
         "picker": {
             "default": "за замовчуванням",
             "networkActionIcon": {"ariaLabel": "показувати локальні та мережеві голоси"},
-            "label": "AI Reader Voices",
+            "label": "AI читач голоси",
             "ariaLabel": "виберіть голос «AI Reader».",
             "globalActionIcon": {"ariaLabel": "показати всі мови"}
         }
@@ -109,7 +109,7 @@
         }
     }},
     "textToSpeechEnabled": {
-        "displayName": "AI Reader",
+        "displayName": "AI Читач",
         "testLabel": "Тестовий голос",
         "testAriaLabel": {
             "stopped": "тест голосу «AI Reader».",

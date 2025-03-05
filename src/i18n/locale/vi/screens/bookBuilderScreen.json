@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "thay đổi trang"
         }
     },
+    "saveButton": {"label": "Cứu"},
     "errors": {
         "failedLoadingBook": "Không thể tải sách.",
         "validationErrors": {

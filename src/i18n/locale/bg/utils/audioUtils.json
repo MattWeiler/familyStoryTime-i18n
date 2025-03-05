@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "балон отскок",
-    "MAGICAL_SPARKLE_LOUD": "силни магически искри",
-    "MAGICAL_WHOOSH": "магическо свистене",
-    "GLITTER": "блясък",
-    "_NONE": "няма",
-    "MAGICAL_REVEAL_WAVY": "вълнообразно магическо разкритие",
-    "BUBBLE_POP_BIG": "пукане на голям балон",
-    "MAGICAL_REVEAL": "магическо разкритие",
-    "BUBBLE_POP_POP_POP": "балон пукане поп поп",
-    "ICICLES_WHOOSH": "ледени висулки",
-    "RATTLESNAKE": "гърмяща змия",
-    "BIRD_CHIRP": "птиче чуруликане",
-    "DRIP": "капково",
-    "FLUSH_GROSS": "брутен флъш",
-    "HARP": "арфа",
-    "BUBBLE_POP_SMALL": "пукане на малък балон",
-    "MAGICAL_SPRING": "магическа пролет",
-    "MAGICAL_SPARKLE": "магически искри"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "балон отскок",
+        "MAGICAL_SPARKLE_LOUD": "силни магически искри",
+        "MAGICAL_WHOOSH": "магическо свистене",
+        "GLITTER": "блясък",
+        "_NONE": "няма",
+        "MAGICAL_REVEAL_WAVY": "вълнообразно магическо разкритие",
+        "BUBBLE_POP_BIG": "пукане на голям балон",
+        "MAGICAL_REVEAL": "магическо разкритие",
+        "BUBBLE_POP_POP_POP": "балон пукане поп поп",
+        "ICICLES_WHOOSH": "ледени висулки",
+        "RATTLESNAKE": "гърмяща змия",
+        "BIRD_CHIRP": "птиче чуруликане",
+        "DRIP": "капково",
+        "FLUSH_GROSS": "брутен флъш",
+        "HARP": "арфа",
+        "BUBBLE_POP_SMALL": "пукане на малък балон",
+        "MAGICAL_SPRING": "магическа пролет",
+        "MAGICAL_SPARKLE": "магически искри"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} часа",
+            "one": "%{displayValue} час"
+        },
+        "mins": {
+            "other": "%{displayValue} минути",
+            "one": "%{displayValue} мин"
+        },
+        "ms": {
+            "other": "%{displayValue} ms",
+            "one": "%{displayValue} ms"
+        },
+        "secs": {
+            "other": "%{displayValue} secs",
+            "one": "%{displayValue} сек"
+        },
+        "days": {
+            "other": "%{displayValue} дни",
+            "one": "%{displayValue} ден"
+        }
+    }
+}

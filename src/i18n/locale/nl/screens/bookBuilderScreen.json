@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "pagina wijzigen"
         }
     },
+    "saveButton": {"label": "Redden"},
     "errors": {
         "failedLoadingBook": "Kan het boek niet laden.",
         "validationErrors": {

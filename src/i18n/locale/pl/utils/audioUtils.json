@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "odbicie bańki",
-    "MAGICAL_SPARKLE_LOUD": "głośne magiczne iskry",
-    "MAGICAL_WHOOSH": "magiczny szum",
-    "GLITTER": "blask",
-    "_NONE": "nic",
-    "MAGICAL_REVEAL_WAVY": "faliste magiczne odkrycie",
-    "BUBBLE_POP_BIG": "wielka bańka",
-    "MAGICAL_REVEAL": "magiczne odkrycie",
-    "BUBBLE_POP_POP_POP": "pop-pop-bąbelkowy pop-pop",
-    "ICICLES_WHOOSH": "sople hurra",
-    "RATTLESNAKE": "grzechotnik",
-    "BIRD_CHIRP": "ćwierkanie ptaka",
-    "DRIP": "kroplówka",
-    "FLUSH_GROSS": "brutto",
-    "HARP": "harfa",
-    "BUBBLE_POP_SMALL": "mały wyskakujący bąbelek",
-    "MAGICAL_SPRING": "magiczna wiosna",
-    "MAGICAL_SPARKLE": "magiczne iskierki"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "odbicie bańki",
+        "MAGICAL_SPARKLE_LOUD": "głośne magiczne iskry",
+        "MAGICAL_WHOOSH": "magiczny szum",
+        "GLITTER": "blask",
+        "_NONE": "nic",
+        "MAGICAL_REVEAL_WAVY": "faliste magiczne odkrycie",
+        "BUBBLE_POP_BIG": "wielka bańka",
+        "MAGICAL_REVEAL": "magiczne odkrycie",
+        "BUBBLE_POP_POP_POP": "pop-pop-bąbelkowy pop-pop",
+        "ICICLES_WHOOSH": "sople hurra",
+        "RATTLESNAKE": "grzechotnik",
+        "BIRD_CHIRP": "ćwierkanie ptaka",
+        "DRIP": "kroplówka",
+        "FLUSH_GROSS": "brutto",
+        "HARP": "harfa",
+        "BUBBLE_POP_SMALL": "mały wyskakujący bąbelek",
+        "MAGICAL_SPRING": "magiczna wiosna",
+        "MAGICAL_SPARKLE": "magiczne iskierki"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} godziny",
+            "one": "%{displayValue} godzina"
+        },
+        "mins": {
+            "other": "%{displayValue} mins",
+            "one": "%{displayValue} min"
+        },
+        "ms": {
+            "other": "%{displayValue} ms",
+            "one": "%{displayValue} ms"
+        },
+        "secs": {
+            "other": "%{displayValue} secs",
+            "one": "%{displayValue} s"
+        },
+        "days": {
+            "other": "%{displayValue} dni",
+            "one": "%{displayValue} dzień"
+        }
+    }
+}

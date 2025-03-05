@@ -1,0 +1,19 @@
+{"contextMenu": {
+    "items": {
+        "selectAll": {
+            "label": "Valitse kaikki",
+            "ariaLabel": {
+                "other": "Valitse kaikki suodatetut kohteet",
+                "one": "Valitse suodatettu kohde"
+            }
+        },
+        "cancelSelection": {
+            "label": "Peruuta valinta",
+            "ariaLabel": {
+                "other": "Poista kaikki valitut kohteet valinta",
+                "one": "Poista valitun kohteen valinta"
+            }
+        }
+    },
+    "ariaLabel": "Katso lisävaihtoehtoja"
+}}

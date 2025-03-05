@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "एक छवि फ़ाइल के लिए ब्राउज़ करें",
+        "ariaLabel": "%{imageDisplayName} छवि के लिए एक छवि फ़ाइल के लिए ब्राउज़ करें"
+    },
+    "takePhotoButton": {
+        "title": "तस्वीर ले लो",
+        "ariaLabel": "%{imageDisplayName} छवि के लिए चित्र लें"
+    },
+    "browseImageGalleryButton": {
+        "title": "ब्राउज़ इमेज गैलरी",
+        "ariaLabel": "%{imageDisplayName} छवि के लिए छवि गैलरी ब्राउज़ करें"
+    },
+    "fullscreenButton": {"ariaLabel": "फुलस्क्रीन में %{imageDisplayName} छवि दिखाएं"},
+    "imageEditor": {
+        "cropButton": {"text": "काटना"},
+        "cancelButton": {"text": "रद्द करना"},
+        "backButton": {"text": "पीछे"},
+        "saveButton": {"text": "बचाना"}
+    },
+    "editSelectedImageButton": {
+        "title": "छवि संपादित करें",
+        "ariaLabel": "%{imageDisplayName} छवि को संपादित करें"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "%{imageDisplayName} छवि नियंत्रण दिखाएं",
+        "controlsVisible": "%{imageDisplayName} छवि नियंत्रण छिपाएं"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "अनुमति नहीं मिली",
+            "message": "आपने अपने कैमरे तक पहुंचने की अनुमति से इनकार कर दिया है।"
+        },
+        "browseImages": {
+            "title": "अनुमति नहीं मिली",
+            "message": "आपने अपनी तस्वीरों तक पहुंचने की अनुमति से इनकार कर दिया है।"
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "फुलस्क्रीन को बंद करें"}
+}

@@ -52,7 +52,7 @@
         "failedToExport": "Mistókst að flytja bækur út"
     },
     "outputFilenameField": {
-        "label": "Output File Name",
+        "label": "Úttaksskráarheiti",
         "ariaLabel": "væntanlegt úttaksskráarheiti"
     },
     "errors": {"invalidOutputFilename": "ógilt skráarheiti"}

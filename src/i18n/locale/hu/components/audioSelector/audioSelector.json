@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "Rögzítse a saját %{audioDisplayName} audio -t"},
+    "toasts": {
+        "audioFileLoading": {"failure": "Nem sikerült betölteni a hangot"},
+        "editInitFailed": "Nem sikerült szerkeszteni audio",
+        "recordingFailed": "Nem sikerült rögzíteni a hangot"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Egyértelmű megerősítés",
+            "message": "Biztosan szeretné törölni a kiválasztott hangot?"
+        },
+        "ariaLabel": "Törölje a kiválasztott %{audioDisplayName} audio"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "Válasszon egy preset %{audioDisplayName} audio -t"},
+    "selectAudioFileButton": {"ariaLabel": "Válassza ki a saját %{audioDisplayName} audio fájlt"},
+    "playButton": {
+        "stopped": {"ariaLabel": "Játssza le a %{audioDisplayName} audio -t"},
+        "recording": {"ariaLabel": "Állítsa le a %{audioDisplayName} felvételt"},
+        "playing": {"ariaLabel": "Állítsa le a lejátszást %{audioDisplayName} audio"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "Szerkessze a jelenleg betöltött %{audioDisplayName} audio",
+        "cancelConfirmation": {
+            "title": "Dobja el a szerkesztést",
+            "message": "Biztos benne, hogy el akarja dobni az Ön által készített szerkesztéseket?",
+            "buttonAriaLabels": {
+                "no": "Nem, maradj és folytassa a szerkesztést",
+                "yes": "Igen, dobja el a szerkesztéseket"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Feltöltött fájl: %{filename}",
+        "recording": "Felvétel",
+        "preset": "Előre beállított: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Az engedély megtagadása",
+        "message": "Megtagadta az engedélyt a mikrofon eléréséhez."
+    }}
+}

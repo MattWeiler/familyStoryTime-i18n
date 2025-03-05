@@ -1,7 +1,7 @@
 {
     "applicationSecurityButton": {"ariaLabel": {
-        "unlockParentMode": "解锁应用程序供家长使用",
-        "initParentMode": "启用家长锁定",
+        "unlockParentMode": "解锁父母使用的申请",
+        "initParentMode": "启用父母锁定",
         "lockParentMode": "启用父锁"
     }},
     "hamburgerButton": {"ariaLabel": "显示汉堡菜单"}

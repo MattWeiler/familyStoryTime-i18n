@@ -1,8 +1,8 @@
 {
     "applicationSecurityButton": {"ariaLabel": {
-        "unlockParentMode": "feloldja az alkalmazást szülői használatra",
-        "initParentMode": "engedélyezze a szülői zárolást",
-        "lockParentMode": "engedélyezze a szülői zárolást"
+        "unlockParentMode": "Nyissa ki a szülői használatra való kérelmet",
+        "initParentMode": "Engedélyezze a szülői zárolást",
+        "lockParentMode": "Engedélyezze a szülőzárat"
     }},
-    "hamburgerButton": {"ariaLabel": "hamburger menü megjelenítése"}
+    "hamburgerButton": {"ariaLabel": "Hamburger menü megjelenítése"}
 }

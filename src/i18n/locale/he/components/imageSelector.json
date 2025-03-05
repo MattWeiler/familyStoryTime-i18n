@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "עיין בקובץ תמונה",
+        "ariaLabel": "עיין בקובץ תמונה עבור %{imageDisplayName} תמונה"
+    },
+    "takePhotoButton": {
+        "title": "צלם",
+        "ariaLabel": "צלם תמונה עבור %{imageDisplayName} תמונה"
+    },
+    "browseImageGalleryButton": {
+        "title": "עיין בגלריית תמונות",
+        "ariaLabel": "עיין בגלריית התמונות עבור %{imageDisplayName} תמונה"
+    },
+    "fullscreenButton": {"ariaLabel": "הצג %{imageDisplayName} תמונה במסך מלא"},
+    "imageEditor": {
+        "cropButton": {"text": "יְבוּל"},
+        "cancelButton": {"text": "לְבַטֵל"},
+        "backButton": {"text": "בְּחֲזָרָה"},
+        "saveButton": {"text": "לְהַצִיל"}
+    },
+    "editSelectedImageButton": {
+        "title": "ערוך את התמונה",
+        "ariaLabel": "ערוך את התמונה %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "הצג את בקרות %{imageDisplayName}",
+        "controlsVisible": "הסתר את הפקדים %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "אישור נדחה",
+            "message": "שללת אישור לגשת למצלמה שלך."
+        },
+        "browseImages": {
+            "title": "אישור נדחה",
+            "message": "שללת אישור לגשת לתמונות שלך."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "סגור מסך מלא"}
+}

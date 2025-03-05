@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "ਇੱਕ ਚਿੱਤਰ ਫਾਈਲ ਲਈ ਬ੍ਰਾ Browse ਜ਼ ਕਰੋ",
+        "ariaLabel": "ੱਤਰ ਨੂੰ %{imageDisplayName} ਚਿੱਤਰ ਲਈ ਬ੍ਰਾਉਜ਼ ਕਰ"
+    },
+    "takePhotoButton": {
+        "title": "ਤਸਵੀਰ ਲਓ",
+        "ariaLabel": "%{imageDisplayName} ੱਤਰ ਲਈ ਤਸਵੀਰ ਲਓ"
+    },
+    "browseImageGalleryButton": {
+        "title": "ਬ੍ਰਾ .ਜ਼ ਕਰੋ ਚਿੱਤਰ ਗੈਲਰੀ",
+        "ariaLabel": "ਚਿੱਤਰ ਨੂੰ %{imageDisplayName} \"ਚਿੱਤਰ ਲਈ ਚਿੱਤਰ ਗੈਲਰੀ ਬ੍ਰਾਉਜ਼ ਕਰੋ"
+    },
+    "fullscreenButton": {"ariaLabel": "ਪੂਰੀ ਸਕਰੀਨ ਵਿੱਚ %{imageDisplayName} ਚਿੱਤਰ ਵੇਖ"},
+    "imageEditor": {
+        "cropButton": {"text": "ਫਸਲ"},
+        "cancelButton": {"text": "ਰੱਦ ਕਰੋ"},
+        "backButton": {"text": "ਵਾਪਸ"},
+        "saveButton": {"text": "ਸੇਵ"}
+    },
+    "editSelectedImageButton": {
+        "title": "ਚਿੱਤਰ ਨੂੰ ਸੋਧੋ",
+        "ariaLabel": "%{imageDisplayName} ੱਤਰ ਨੂੰ ਸੋਧੋ"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "ੱਤਰ ਨਿਯੰਤਰਣ %{imageDisplayName} ਨਿਯੰਤਰਣ ਦਿਖਾਓ",
+        "controlsVisible": "ਚਿੱਤਰ ਨਿਯੰਤਰਣ %{imageDisplayName} ਨਿਯੰਤਰਣ ਨੂੰ ਲੁਕਾਓ"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "ਆਗਿਆ ਤੋਂ ਇਨਕਾਰ",
+            "message": "ਤੁਸੀਂ ਆਪਣੇ ਕੈਮਰੇ ਨੂੰ ਐਕਸੈਸ ਕਰਨ ਲਈ ਇਜਾਜ਼ਤ ਤੋਂ ਇਨਕਾਰ ਕਰ ਦਿੱਤਾ ਹੈ."
+        },
+        "browseImages": {
+            "title": "ਆਗਿਆ ਤੋਂ ਇਨਕਾਰ",
+            "message": "ਤੁਸੀਂ ਆਪਣੀਆਂ ਫੋਟੋਆਂ ਨੂੰ ਐਕਸੈਸ ਕਰਨ ਲਈ ਇਜਾਜ਼ਤ ਤੋਂ ਇਨਕਾਰ ਕਰ ਦਿੱਤਾ ਹੈ."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "ਪੂਰੀ ਸਕਰੀਨ ਬੰਦ ਕਰੋ"}
+}

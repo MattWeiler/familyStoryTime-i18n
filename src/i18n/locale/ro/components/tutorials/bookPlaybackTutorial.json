@@ -9,7 +9,7 @@
             "5": "Modul \u201eRead It Myself\u201d vă va permite să citiți singur cartea.",
             "6": "Dacă cartea conține informații despre sursă, va exista o pictogramă care, atunci când este făcută clic, va afișa informațiile respective. "
         },
-        "title": "Splash Screen"
+        "title": "Ecran Splash"
     },
     "player": {
         "messages": {
@@ -19,6 +19,6 @@
             "4": "Glisând la stânga/dreapta va naviga între pagini.",
             "5": "Atingerea de două ori sau ciupirea va mări / micșora. "
         },
-        "title": "Book Player"
+        "title": "Jucător de carte"
     }
 }

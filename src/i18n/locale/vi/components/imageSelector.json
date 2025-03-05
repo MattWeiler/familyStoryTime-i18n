@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Duyệt cho một tệp hình ảnh",
+        "ariaLabel": "Duyệt cho một tệp hình ảnh cho hình ảnh %{imageDisplayName}"
+    },
+    "takePhotoButton": {
+        "title": "Chụp ảnh",
+        "ariaLabel": "Chụp ảnh cho hình ảnh %{imageDisplayName}"
+    },
+    "browseImageGalleryButton": {
+        "title": "Duyệt bộ sưu tập hình ảnh",
+        "ariaLabel": "Duyệt bộ sưu tập hình ảnh cho %{imageDisplayName} hình ảnh"
+    },
+    "fullscreenButton": {"ariaLabel": "Hiển thị hình ảnh %{imageDisplayName} trong toàn màn hình"},
+    "imageEditor": {
+        "cropButton": {"text": "Mùa vụ"},
+        "cancelButton": {"text": "Hủy bỏ"},
+        "backButton": {"text": "Mặt sau"},
+        "saveButton": {"text": "Cứu"}
+    },
+    "editSelectedImageButton": {
+        "title": "Chỉnh sửa hình ảnh",
+        "ariaLabel": "Chỉnh sửa hình ảnh %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "Hiển thị các điều khiển hình ảnh %{imageDisplayName}",
+        "controlsVisible": "Ẩn các điều khiển hình ảnh %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Sự cho phép bị từ chối",
+            "message": "Bạn đã từ chối cho phép truy cập máy ảnh của bạn."
+        },
+        "browseImages": {
+            "title": "Sự cho phép bị từ chối",
+            "message": "Bạn đã từ chối cho phép truy cập ảnh của bạn."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "Đóng toàn màn hình"}
+}

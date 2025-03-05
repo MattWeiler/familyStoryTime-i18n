@@ -7,7 +7,7 @@
     "emailInput": {
         "description": "ספק אם אתה רוצה לשמוע מאיתנו בחזרה.",
         "label": "כתובת אימייל",
-        "placeholder": "someone@gmail.com",
+        "placeholder": "מישהו@gmail.com",
         "ariaLabel": "באופן אופציונלי, כתובת הדוא\"ל שלך"
     }
 }

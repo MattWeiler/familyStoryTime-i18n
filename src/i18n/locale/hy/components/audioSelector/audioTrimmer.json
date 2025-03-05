@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "Խաղացեք մանրացված աուդիո, նմուշ լսելու համար"},
+    "playbackPositionLabel": "Նվագարկման դիրքը",
+    "discardButton": {
+        "label": "Հանել",
+        "title": "Վերացրեք կտրված աուդիո",
+        "ariaLabel": "Վերացրեք կտրված աուդիո"
+    },
+    "saveButton": {
+        "label": "Խնայել",
+        "title": "Օգտագործեք կտրված աուդիո",
+        "ariaLabel": "Օգտագործեք կտրված աուդիո"
+    }
+}

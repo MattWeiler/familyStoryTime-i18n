@@ -10,11 +10,11 @@
             "ariaLabel": "idite na ekran postavki"
         },
         "bookSelector": {
-            "text": "Reading Corner",
+            "text": "Čitanje ugao",
             "ariaLabel": "idite na ekran ugla za čitanje"
         },
         "bookBuilder": {
-            "text": "Book Builder",
+            "text": "Builder za knjige",
             "ariaLabel": "idite na ekran za pravljenje knjiga"
         },
         "about": {
@@ -32,7 +32,7 @@
             }
         },
         "tutorial": {
-            "text": "Tutorial",
+            "text": "Udžbenik",
             "ariaLabel": "pogledajte tutorijal"
         },
         "bookStore": {

@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "sidbyte"
         }
     },
+    "saveButton": {"label": "Spara"},
     "errors": {
         "failedLoadingBook": "Det gick inte att ladda boken.",
         "validationErrors": {

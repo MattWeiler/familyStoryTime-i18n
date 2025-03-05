@@ -1,8 +1,8 @@
 {
     "applicationSecurityButton": {"ariaLabel": {
-        "unlockParentMode": "فتح التطبيق للاستخدام الأبوي",
-        "initParentMode": "تمكين القفل الأبوي",
+        "unlockParentMode": "فتح تطبيق لاستخدام الوالدين",
+        "initParentMode": "تمكين قفل الوالدين",
         "lockParentMode": "تمكين قفل الوالدين"
     }},
-    "hamburgerButton": {"ariaLabel": "عرض قائمة الهامبرغر"}
+    "hamburgerButton": {"ariaLabel": "إظهار قائمة الهامبرغر"}
 }

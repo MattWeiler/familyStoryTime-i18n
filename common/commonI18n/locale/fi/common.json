@@ -2,24 +2,24 @@
     "add": "Lisätä",
     "cancel": "Peruuttaa",
     "no": "Ei",
-    "verifying": "tarkistetaan...",
+    "verifying": "Vahvistaminen ...",
     "set": "Sarja",
     "yes": "Kyllä",
     "back": "Takaisin",
-    "loading": "ladataan...",
-    "required": "vaaditaan",
-    "acknowledgeError": "kuittaa virhe",
-    "saving": "säästää...",
+    "loading": "Lataus ...",
+    "required": "vaadittu",
+    "acknowledgeError": "KUVAA VIRHE",
+    "saving": "Säästäminen ...",
     "settingsButton": {
         "text": "Asetukset",
-        "ariaLabel": "mene sovellusten asetussivulle"
+        "ariaLabel": "Siirry sovellusasetusten sivulle"
     },
     "backButton": {
         "label": "Takaisin",
-        "title": "palaa viimeiselle sivulle",
-        "ariaLabel": "palaa viimeiselle sivulle"
+        "title": "Palaa takaisin viimeiselle sivulle",
+        "ariaLabel": "Palaa takaisin viimeiselle sivulle"
     },
-    "sending": "lähetetään...",
+    "sending": "Lähetetään ...",
     "create": "Luoda",
-    "ok": "Ok"
+    "ok": "Hyvä"
 }

@@ -2,24 +2,24 @@
     "add": "לְהוֹסִיף",
     "cancel": "לְבַטֵל",
     "no": "לֹא",
-    "verifying": "מאמת...",
+    "verifying": "אימות ...",
     "set": "מַעֲרֶכֶת",
     "yes": "כֵּן",
     "back": "בְּחֲזָרָה",
-    "loading": "טוען...",
+    "loading": "טוען ...",
     "required": "דָרוּשׁ",
-    "acknowledgeError": "מאשרים את השגיאה",
-    "saving": "חוסך...",
+    "acknowledgeError": "הכיר בשגיאה",
+    "saving": "חוסך ...",
     "settingsButton": {
         "text": "הגדרות",
         "ariaLabel": "עבור לדף הגדרות יישומים"
     },
     "backButton": {
         "label": "בְּחֲזָרָה",
-        "title": "לחזור לעמוד האחרון",
-        "ariaLabel": "לחזור לעמוד האחרון"
+        "title": "חזור לעמוד האחרון",
+        "ariaLabel": "חזור לעמוד האחרון"
     },
-    "sending": "שולח...",
+    "sending": "שולח ...",
     "create": "לִיצוֹר",
     "ok": "בְּסֵדֶר"
 }

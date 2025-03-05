@@ -22,7 +22,7 @@
             },
             "label": "Besonderer Dank",
             "icons": {
-                "ionicIcons": "IonIcons",
+                "ionicIcons": "Ionicons",
                 "someIconsBy": "Ikonen von:",
                 "icons8": "Symbole8",
                 "iconArchive": "Symbolarchiv"

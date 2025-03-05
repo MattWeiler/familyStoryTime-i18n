@@ -1,20 +1,44 @@
-{"presetPageChangeAudio": {
-    "BUBBLE_BOUNCE": "պղպջակների ցատկում",
-    "MAGICAL_SPARKLE_LOUD": "բարձր կախարդական կայծեր",
-    "MAGICAL_WHOOSH": "կախարդական վուշ",
-    "GLITTER": "փայլեր",
-    "_NONE": "ոչ մեկը",
-    "MAGICAL_REVEAL_WAVY": "ալիքաձև կախարդական բացահայտում",
-    "BUBBLE_POP_BIG": "մեծ փուչիկ փոփ",
-    "MAGICAL_REVEAL": "կախարդական բացահայտում",
-    "BUBBLE_POP_POP_POP": "bubble pop pop pop",
-    "ICICLES_WHOOSH": "icicles whoosh",
-    "RATTLESNAKE": "չախչախ օձ",
-    "BIRD_CHIRP": "թռչնի ծլվլոց",
-    "DRIP": "կաթել",
-    "FLUSH_GROSS": "կոպիտ ողողում",
-    "HARP": "քնար",
-    "BUBBLE_POP_SMALL": "փոքրիկ փուչիկ փոփ",
-    "MAGICAL_SPRING": "կախարդական գարուն",
-    "MAGICAL_SPARKLE": "կախարդական փայլեր"
-}}
+{
+    "presetPageChangeAudio": {
+        "BUBBLE_BOUNCE": "պղպջակների ցատկում",
+        "MAGICAL_SPARKLE_LOUD": "բարձր կախարդական կայծեր",
+        "MAGICAL_WHOOSH": "կախարդական վուշ",
+        "GLITTER": "փայլեր",
+        "_NONE": "ոչ մեկը",
+        "MAGICAL_REVEAL_WAVY": "ալիքաձև կախարդական բացահայտում",
+        "BUBBLE_POP_BIG": "մեծ փուչիկ փոփ",
+        "MAGICAL_REVEAL": "կախարդական բացահայտում",
+        "BUBBLE_POP_POP_POP": "Bubble փոփ փոփ փոփ",
+        "ICICLES_WHOOSH": "icicles whoosh",
+        "RATTLESNAKE": "չախչախ օձ",
+        "BIRD_CHIRP": "թռչնի ծլվլոց",
+        "DRIP": "կաթել",
+        "FLUSH_GROSS": "կոպիտ ողողում",
+        "HARP": "քնար",
+        "BUBBLE_POP_SMALL": "փոքրիկ փուչիկ փոփ",
+        "MAGICAL_SPRING": "կախարդական գարուն",
+        "MAGICAL_SPARKLE": "կախարդական փայլեր"
+    },
+    "durations": {
+        "hours": {
+            "other": "%{displayValue} ժամ",
+            "one": "%{displayValue} ժամ"
+        },
+        "mins": {
+            "other": "%{displayValue} MINS",
+            "one": "%{displayValue} min"
+        },
+        "ms": {
+            "other": "%{displayValue} MS",
+            "one": "%{displayValue} MS"
+        },
+        "secs": {
+            "other": "%{displayValue} SECS",
+            "one": "%{displayValue} SEC"
+        },
+        "days": {
+            "other": "%{displayValue} օր",
+            "one": "%{displayValue} օր"
+        }
+    }
+}

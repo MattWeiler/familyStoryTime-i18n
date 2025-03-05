@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "独自の%{audioDisplayName}オーディオを記録します"},
+    "toasts": {
+        "audioFileLoading": {"failure": "オーディオの読み込みに失敗しました"},
+        "editInitFailed": "オーディオの編集に失敗しました",
+        "recordingFailed": "オーディオの録音に失敗しました"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "明確な確認",
+            "message": "選択したオーディオをクリアしたいですか？"
+        },
+        "ariaLabel": "選択した%{audioDisplayName}オーディオをクリアします"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "プリセット%{audioDisplayName}オーディオを選択します"},
+    "selectAudioFileButton": {"ariaLabel": "独自の%{audioDisplayName}オーディオファイルを選択します"},
+    "playButton": {
+        "stopped": {"ariaLabel": "%{audioDisplayName}オーディオを再生します"},
+        "recording": {"ariaLabel": "%{audioDisplayName}録音を停止します"},
+        "playing": {"ariaLabel": "%{audioDisplayName}オーディオを停止します"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "現在ロードされている%{audioDisplayName}オーディオを編集します",
+        "cancelConfirmation": {
+            "title": "編集を破棄します",
+            "message": "作成した編集を破棄したいですか？",
+            "buttonAriaLabels": {
+                "no": "いいえ、編集を続けてください",
+                "yes": "はい、編集を破棄します"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "アップロードされたファイル：%{filename}",
+        "recording": "録音",
+        "preset": "プリセット：%{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "許可が拒否されました",
+        "message": "マイクにアクセスする許可を拒否しました。"
+    }}
+}

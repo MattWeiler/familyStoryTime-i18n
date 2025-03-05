@@ -7,7 +7,7 @@
     "emailInput": {
         "description": "Надайте, якщо ви хочете отримати відповідь від нас.",
         "label": "Адреса електронної пошти",
-        "placeholder": "someone@gmail.com",
+        "placeholder": "хтось@gmail.com",
         "ariaLabel": "необов'язково, вашу електронну адресу"
     }
 }

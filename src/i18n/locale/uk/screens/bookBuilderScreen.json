@@ -63,13 +63,14 @@
     }},
     "pageChangeAudio": {
         "description": "Аудіо для відтворення, коли приходить час змінити сторінку.",
-        "label": "Page Change Audio",
+        "label": "Зміна сторінки Аудіо",
         "presetAudioModalPicker": {
             "headerLabel": "Виберіть Page Change Audio",
             "ariaLabel": "виберіть зі списку попередньо встановлених опцій зміни аудіо",
             "accessibleAudioDisplayName": "зміна сторінки"
         }
     },
+    "saveButton": {"label": "зберегти"},
     "errors": {
         "failedLoadingBook": "Не вдалося завантажити книгу.",
         "validationErrors": {

@@ -5,7 +5,7 @@
         "createBooks": {"displayName": "Kreiranje knjiga"},
         "parentalLocking": {"displayName": "Roditeljsko zaključavanje"},
         "sharingBooks": {"displayName": "Dijeljenje knjiga"},
-        "bookPlayback": {"displayName": "Playing Books"},
+        "bookPlayback": {"displayName": "Reprodukcija knjiga"},
         "bookStore": {"displayName": "Knjižara"}
     },
     "pageSelectionButtons": {

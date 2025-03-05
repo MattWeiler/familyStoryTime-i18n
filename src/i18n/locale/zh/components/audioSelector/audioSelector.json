@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "记录自己的%{audioDisplayName}音频"},
+    "toasts": {
+        "audioFileLoading": {"failure": "无法加载音频"},
+        "editInitFailed": "无法编辑音频",
+        "recordingFailed": "无法记录音频"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "明确的确认",
+            "message": "您确定要清除所选音频吗？"
+        },
+        "ariaLabel": "清除选定的%{audioDisplayName}音频"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "选择一个预设%{audioDisplayName}音频"},
+    "selectAudioFileButton": {"ariaLabel": "选择自己的{%{audioDisplayName}音频文件"},
+    "playButton": {
+        "stopped": {"ariaLabel": "播放%{audioDisplayName}音频"},
+        "recording": {"ariaLabel": "停止%{audioDisplayName}记录"},
+        "playing": {"ariaLabel": "停止播放%{audioDisplayName}音频"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "编辑当前加载%{audioDisplayName}音频",
+        "cancelConfirmation": {
+            "title": "丢弃编辑",
+            "message": "您确定要丢弃所做的任何编辑吗？",
+            "buttonAriaLabels": {
+                "no": "不，留下来继续编辑",
+                "yes": "是的，丢弃编辑"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "上传文件：%{filename}",
+        "recording": "记录",
+        "preset": "预设：%{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "没有权限",
+        "message": "您否认允许访问麦克风。"
+    }}
+}

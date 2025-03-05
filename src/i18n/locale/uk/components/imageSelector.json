@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Перегляньте файл зображення",
+        "ariaLabel": "Перегляньте файл зображення для %{imageDisplayName}"
+    },
+    "takePhotoButton": {
+        "title": "сфотографувати",
+        "ariaLabel": "Сфотографуйте для %{imageDisplayName} зображення"
+    },
+    "browseImageGalleryButton": {
+        "title": "Перегляньте галерею зображень",
+        "ariaLabel": "Перегляньте галерею зображень для %{imageDisplayName} зображення"
+    },
+    "fullscreenButton": {"ariaLabel": "Показати %{imageDisplayName} зображення на повному екрані"},
+    "imageEditor": {
+        "cropButton": {"text": "Урожай"},
+        "cancelButton": {"text": "Скасувати"},
+        "backButton": {"text": "Спинка"},
+        "saveButton": {"text": "Заощадити"}
+    },
+    "editSelectedImageButton": {
+        "title": "відредагуйте зображення",
+        "ariaLabel": "Відредагуйте зображення %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "Показати %{imageDisplayName} керування зображенням",
+        "controlsVisible": "приховати %{imageDisplayName} керування зображенням"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Дозвіл заперечується",
+            "message": "Ви заперечували дозвіл на доступ до своєї камери."
+        },
+        "browseImages": {
+            "title": "Дозвіл заперечується",
+            "message": "Ви заперечували дозвіл на доступ до своїх фотографій."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "Закрити повне екран"}
+}

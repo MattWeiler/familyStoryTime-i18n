@@ -115,7 +115,7 @@
             "none": "izvozi..."
         }}
     }},
-    "title": "Reading Corner",
+    "title": "Čitanje ugao",
     "confirmations": {"deleteBook": {
         "title": "Potvrda brisanja",
         "message": "Jeste li sigurni da želite izbrisati knjigu \"%{bookTitle}?\""

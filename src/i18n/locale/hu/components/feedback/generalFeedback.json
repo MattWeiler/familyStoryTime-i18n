@@ -42,7 +42,7 @@
         "label": "Alkalmazás elégedettsége",
         "levels": {
             "1": {
-                "displayName": "Hate It",
+                "displayName": "Utál",
                 "ariaLabel": "utálom"
             },
             "2": {

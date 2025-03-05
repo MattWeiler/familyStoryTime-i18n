@@ -1,0 +1,40 @@
+{
+    "browseFileButton": {
+        "title": "Explorar un archivo de imagen",
+        "ariaLabel": "Explorar un archivo de imagen para la imagen %{imageDisplayName}"
+    },
+    "takePhotoButton": {
+        "title": "tomar una foto",
+        "ariaLabel": "Tome una foto para la imagen %{imageDisplayName}"
+    },
+    "browseImageGalleryButton": {
+        "title": "Examinar la galería de imágenes",
+        "ariaLabel": "Examinar la galería de imágenes para %{imageDisplayName} imagen"
+    },
+    "fullscreenButton": {"ariaLabel": "show %{imageDisplayName} imagen en pantalla completa"},
+    "imageEditor": {
+        "cropButton": {"text": "Cultivo"},
+        "cancelButton": {"text": "Cancelar"},
+        "backButton": {"text": "Atrás"},
+        "saveButton": {"text": "Ahorrar"}
+    },
+    "editSelectedImageButton": {
+        "title": "editar la imagen",
+        "ariaLabel": "editar la imagen %{imageDisplayName}"
+    },
+    "previewImage": {"ariaLabel": {
+        "controlsHidden": "Mostrar los controles de imagen %{imageDisplayName}",
+        "controlsVisible": "ocultar los controles de imagen %{imageDisplayName}"
+    }},
+    "permissionDenied": {
+        "takePicture": {
+            "title": "Permiso denegado",
+            "message": "Ha negado el permiso para acceder a su cámara."
+        },
+        "browseImages": {
+            "title": "Permiso denegado",
+            "message": "Has negado el permiso para acceder a sus fotos."
+        }
+    },
+    "closeFullscreenButton": {"ariaLabel": "Cerrar pantalla completa"}
+}

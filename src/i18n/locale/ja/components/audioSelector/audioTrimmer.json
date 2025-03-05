@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "トリミングされたオーディオを再生して、サンプルを聞きます"},
+    "playbackPositionLabel": "再生位置",
+    "discardButton": {
+        "label": "破棄",
+        "title": "トリミングされたオーディオを破棄します",
+        "ariaLabel": "トリミングされたオーディオを破棄します"
+    },
+    "saveButton": {
+        "label": "保存",
+        "title": "トリミングされたオーディオを使用します",
+        "ariaLabel": "トリミングされたオーディオを使用します"
+    }
+}

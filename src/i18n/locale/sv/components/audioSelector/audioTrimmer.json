@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "Spela det trimmade ljudet för att höra ett prov"},
+    "playbackPositionLabel": "Uppspelningsposition",
+    "discardButton": {
+        "label": "Kassera",
+        "title": "Kassera det trimmade ljudet",
+        "ariaLabel": "Kassera det trimmade ljudet"
+    },
+    "saveButton": {
+        "label": "Spara",
+        "title": "Använd det trimmade ljudet",
+        "ariaLabel": "Använd det trimmade ljudet"
+    }
+}

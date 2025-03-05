@@ -22,7 +22,7 @@
             },
             "label": "Külön köszönet",
             "icons": {
-                "ionicIcons": "IonIcons",
+                "ionicIcons": "Ionikonok",
                 "someIconsBy": "Ikonok szerzője:",
                 "icons8": "Ikonok8",
                 "iconArchive": "Ikonarchívum"

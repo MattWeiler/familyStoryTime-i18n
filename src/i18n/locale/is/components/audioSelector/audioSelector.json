@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "Taktu upp þitt eigið %{audioDisplayName} hljóð"},
+    "toasts": {
+        "audioFileLoading": {"failure": "Ekki tókst að hlaða hljóð"},
+        "editInitFailed": "Mistókst að breyta hljóði",
+        "recordingFailed": "Ekki tókst að taka upp hljóð"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Skýr staðfesting",
+            "message": "Ertu viss um að þú viljir hreinsa valið hljóð?"
+        },
+        "ariaLabel": "hreinsaðu valið %{audioDisplayName} hljóð"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "Veldu forstillingu %{audioDisplayName} hljóð"},
+    "selectAudioFileButton": {"ariaLabel": "Veldu eigin %{audioDisplayName} hljóðskrá"},
+    "playButton": {
+        "stopped": {"ariaLabel": "Spilaðu %{audioDisplayName} hljóðið"},
+        "recording": {"ariaLabel": "Hættu %{audioDisplayName} upptöku"},
+        "playing": {"ariaLabel": "Hættu að spila %{audioDisplayName} hljóð"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "Breyttu nú sem hlaðið %{audioDisplayName} hljóð",
+        "cancelConfirmation": {
+            "title": "Fleygja klippingu",
+            "message": "Ertu viss um að þú viljir henda öllum breytingum sem þú hefur gert?",
+            "buttonAriaLabels": {
+                "no": "Nei, vertu og haltu áfram að breyta",
+                "yes": "Já, fargaðu breytingum"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "Hlaðið skrá: %{filename}",
+        "recording": "Upptaka",
+        "preset": "Forstillt: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Leyfi hafnað",
+        "message": "Þú hefur neitað leyfi til að fá aðgang að hljóðnemanum þínum."
+    }}
+}

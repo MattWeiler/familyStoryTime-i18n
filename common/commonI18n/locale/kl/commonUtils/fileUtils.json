@@ -4,7 +4,7 @@
         "one": "1 KB"
     },
     "bytes": {
-        "other": "%{count} bytit",
+        "other": "%{count} bytes",
         "one": "1 byte"
     },
     "megabytes": {
@@ -12,7 +12,7 @@
         "one": "1 MB"
     },
     "gigabytes": {
-        "other": "%{count} GB-iuvoq",
+        "other": "%{count} GB",
         "one": "1 GB"
     }
 }}

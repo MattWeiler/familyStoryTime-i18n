@@ -1,4 +1,4 @@
 {"ariaLabel": {
-    "expanded": "sažimi %{title}",
-    "collapsed": "proširi %{title}"
+    "expanded": "kolaps %{title}",
+    "collapsed": "proširiti %{title}"
 }}

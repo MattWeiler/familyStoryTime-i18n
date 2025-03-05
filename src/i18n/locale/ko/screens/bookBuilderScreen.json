@@ -70,6 +70,7 @@
             "accessibleAudioDisplayName": "페이지 변경"
         }
     },
+    "saveButton": {"label": "구하다"},
     "errors": {
         "failedLoadingBook": "책을 로드하지 못했습니다.",
         "validationErrors": {

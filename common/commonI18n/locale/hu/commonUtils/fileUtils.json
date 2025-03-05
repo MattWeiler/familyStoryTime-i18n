@@ -1,7 +1,7 @@
 {"prettyPrintByteSize": {
     "kilobytes": {
         "other": "%{count} KB",
-        "one": "1 KB"
+        "one": "1 kb"
     },
     "bytes": {
         "other": "%{count} bájt",

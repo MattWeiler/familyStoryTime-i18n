@@ -1,0 +1,14 @@
+{
+    "previewButton": {"ariaLabel": "Jogue o áudio aparado para ouvir uma amostra"},
+    "playbackPositionLabel": "Posição de reprodução",
+    "discardButton": {
+        "label": "Descartar",
+        "title": "descarte o áudio aparado",
+        "ariaLabel": "descarte o áudio aparado"
+    },
+    "saveButton": {
+        "label": "Salvar",
+        "title": "Use o áudio aparado",
+        "ariaLabel": "Use o áudio aparado"
+    }
+}

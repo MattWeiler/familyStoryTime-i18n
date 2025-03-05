@@ -1,0 +1,42 @@
+{
+    "recordAudioButton": {"ariaLabel": "Registra il tuo audio %{audioDisplayName}"},
+    "toasts": {
+        "audioFileLoading": {"failure": "Impossibile caricare audio"},
+        "editInitFailed": "Impossibile modificare l'audio",
+        "recordingFailed": "Impossibile registrare l'audio"
+    },
+    "clearAudioButton": {
+        "confirmation": {
+            "title": "Chiara conferma",
+            "message": "Sei sicuro di voler cancellare l'audio selezionato?"
+        },
+        "ariaLabel": "Cancella l'audio selezionato %{audioDisplayName}"
+    },
+    "selectPresetAudioButton": {"ariaLabel": "Seleziona un preset %{audioDisplayName} audio"},
+    "selectAudioFileButton": {"ariaLabel": "Seleziona il tuo file audio %{audioDisplayName}"},
+    "playButton": {
+        "stopped": {"ariaLabel": "riproduci l'audio %{audioDisplayName}"},
+        "recording": {"ariaLabel": "Stop la registrazione %{audioDisplayName}"},
+        "playing": {"ariaLabel": "Stop l'Audio di riproduzione %{audioDisplayName}"}
+    },
+    "editAudioButton": {
+        "ariaLabel": "Modifica audio Audio %{audioDisplayName} attualmente caricato",
+        "cancelConfirmation": {
+            "title": "Editing scartato",
+            "message": "Sei sicuro di voler scartare eventuali modifiche che hai fatto?",
+            "buttonAriaLabels": {
+                "no": "No, resta e continua a montaggio",
+                "yes": "Sì, scartare le modifiche"
+            }
+        }
+    },
+    "audioIdentifiers": {
+        "custom": "File caricato: %{filename}",
+        "recording": "Registrazione",
+        "preset": "Preimpostazione: %{presetName}"
+    },
+    "permissionDenied": {"recording": {
+        "title": "Permesso negato",
+        "message": "Hai negato il permesso di accedere al microfono."
+    }}
+}
