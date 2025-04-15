@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Selkeä vahvistus",
-            "message": "Haluatko varmasti tyhjentää valitun äänen?"
+            "message": "Haluatko varmasti tyhjentää valitun äänen?",
+            "ariaLabel": "Varmista, että haluat tyhjentää valitun äänen"
         },
         "ariaLabel": "tyhjennä valittu %{audioDisplayName} ääni"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "Ei, pysy ja jatka muokkaamista",
                 "yes": "Kyllä, hylkää muokkaukset"
-            }
+            },
+            "ariaLabel": "Vahvista, jos haluat hylätä tekemäsi muokkaukset"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "Lupa hylätty",
-        "message": "Olet kieltänyt luvan käyttää mikrofoniasi."
+        "message": "Olet kieltänyt luvan käyttää mikrofoniasi.",
+        "ariaLabel": "Olet kieltänyt luvan käyttää mikrofoniasi"
     }}
 }

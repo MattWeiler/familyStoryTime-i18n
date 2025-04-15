@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Tem certeza de que deseja excluir o leitor \"%{readerDisplayName}\"?",
                 "noDisplayName": "Tem certeza de que deseja excluir este leitor?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Confirme que deseja excluir o leitor \"%{readerDisplayName}\"",
+                "noDisplayName": "Confirme que deseja excluir este leitor"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "Como você gostaria de alterar o nome de exibição deste leitor?",
                 "noDisplayName": "Qual é o nome de exibição deste leitor?"
             },
-            "inputPlaceholder": "nome do leitor"
+            "inputPlaceholder": "nome do leitor",
+            "ariaLabel": {
+                "withDisplayName": "Atualize o nome de exibição existente",
+                "noDisplayName": "Especifique o novo nome de exibição"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "altere o nome de exibição do leitor %{readerDisplayName}",

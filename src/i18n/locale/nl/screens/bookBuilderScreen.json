@@ -21,7 +21,8 @@
                 },
                 "description": "Geef de weergavenaam op voor deze nieuwe lezer.",
                 "title": "Nieuwe lezer toevoegen",
-                "inputPlaceholder": "naam van lezer"
+                "inputPlaceholder": "naam van lezer",
+                "ariaLabel": "Voeg een nieuwe lezer toe"
             },
             "ariaLabel": "nieuwe lezer toevoegen"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "Wijzigingen achterlaten",
-        "message": "Weet u zeker dat u wilt vertrekken voordat u opslaat?"
+        "message": "Weet u zeker dat u wilt vertrekken voordat u opslaat?",
+        "ariaLabel": "Bevestig dat u wilt vertrekken voordat u spaart"
     }},
     "pageChangeAudio": {
         "description": "De audio die wordt afgespeeld wanneer het tijd is om de pagina te wijzigen.",

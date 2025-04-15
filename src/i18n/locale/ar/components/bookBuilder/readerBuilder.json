@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "هل أنت متأكد أنك تريد حذف القارئ \"%{readerDisplayName}\"؟",
                 "noDisplayName": "هل أنت متأكد أنك تريد حذف هذا القارئ؟"
+            },
+            "ariaLabel": {
+                "withDisplayName": "تأكد من أنك تريد حذف القارئ \"%{readerDisplayName}",
+                "noDisplayName": "تأكد من أنك تريد حذف هذا القارئ"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "ما الذي تريد تغيير الاسم المعروض للقراء إليه؟",
                 "noDisplayName": "ما هو اسم العرض لهذا القارئ؟"
             },
-            "inputPlaceholder": "اسم القارئ"
+            "inputPlaceholder": "اسم القارئ",
+            "ariaLabel": {
+                "withDisplayName": "تحديث اسم العرض الحالي",
+                "noDisplayName": "حدد اسم العرض الجديد"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "تغيير اسم العرض للقارئ %{readerDisplayName}",

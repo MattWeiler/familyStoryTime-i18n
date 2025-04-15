@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Seçilen %{count} kitabı silmek istediğinizden emin misiniz?",
                                 "one": "Seçilen kitabı silmek istediğinizden emin misiniz?"
+                            },
+                            "ariaLabel": {
+                                "other": "Seçilen %{count} kitaplarını silmek istediğinizi onaylayın",
+                                "one": "Seçilen kitabı silmek istediğinizi onaylayın"
                             }
                         },
                         "ariaLabel": "seçilen kitapları sil"
@@ -118,6 +122,7 @@
     "title": "Okuma Köşesi",
     "confirmations": {"deleteBook": {
         "title": "Silme Onayı",
-        "message": "\"%{bookTitle}\" kitabını silmek istediğinizden emin misiniz?"
+        "message": "\"%{bookTitle}\" kitabını silmek istediğinizden emin misiniz?",
+        "ariaLabel": "\"%{bookTitle}\" kitabını silmek istediğinizi onaylayın."
     }}
 }

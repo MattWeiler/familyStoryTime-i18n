@@ -19,24 +19,6 @@
         "packaging": "kemasan ...",
         "cancelling": "membatalkan..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "pembaca",
-                    "ariaLabel": "hanya ekspor informasi pembaca untuk buku %{bookTitle}"
-                },
-                "full": {
-                    "label": "penuh",
-                    "ariaLabel": "ekspor seluruh buku %{bookTitle}"
-                }
-            },
-            "ariaLabel": "pilih cara mengekspor buku %{bookTitle}"
-        },
-        "readers": {"checkbox": {"ariaLabel": "untuk menyertakan pembaca %{readerDisplayName} dalam ekspor"}},
-        "checkbox": {"ariaLabel": "untuk menyertakan buku %{bookTitle} dalam ekspor"},
-        "bookReadersTooltip": {"label": "Memilih opsi \"pembaca\" hanya akan mengekspor pembaca yang dipilih.\n\n"}
-    },
     "packagedMultiBookFileName": "Buku",
     "nothingToExport": "Tidak ada yang perlu diekspor :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "membatalkan ekspor"}
         },
         "title": "Konfirmasi Batalkan Ekspor",
-        "message": "Apakah Anda yakin ingin membatalkan ekspor?"
+        "message": "Apakah Anda yakin ingin membatalkan ekspor?",
+        "ariaLabel": "Konfirmasikan bahwa Anda ingin membatalkan impor"
     }},
     "titles": {
         "booksToExport": "Buku untuk Diekspor",

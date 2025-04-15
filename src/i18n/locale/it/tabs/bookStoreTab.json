@@ -4,7 +4,8 @@
             "noButtonAriaLabel": "no, non disinstallare il libro Disponibile",
             "yesButtonAriaLabel": "sì, disinstalla il libro disponibile",
             "title": "Conferma disinstallazione",
-            "message": "Sei sicuro di voler disinstallare questo libro disponibile?\n"
+            "message": "Sei sicuro di voler disinstallare questo libro disponibile?\n",
+            "ariaLabel": "Conferma di voler disinstallare il libro disponibile"
         },
         "ariaLabel": "disinstalla il libro disponibile %{bookName}"
     },
@@ -20,7 +21,8 @@
             "noButtonAriaLabel": "no, non installare il libro disponibile",
             "yesButtonAriaLabel": "sì, installa il libro disponibile",
             "title": "Conferma installazione",
-            "message": "Vuoi davvero installare questo libro disponibile?\nQuesta operazione utilizzerà %{fileSize} di dati."
+            "message": "Vuoi davvero installare questo libro disponibile?\nQuesta operazione utilizzerà %{fileSize} di dati.",
+            "ariaLabel": "Conferma di voler installare il libro disponibile"
         },
         "ariaLabel": "installa il libro disponibile %{bookName}"
     }

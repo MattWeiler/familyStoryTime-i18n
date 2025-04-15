@@ -1,0 +1,31 @@
+{
+    "checkbox": {
+        "ariaLabel": "to include the book %{bookTitle} in the export"
+    },
+
+    "bookReadersTooltip": {
+        "label": "Selecting the \"readers\" option will export only the chosen readers.\n\nThis is useful for adding specific readers to a device that already has the book installed but lacks these readers."
+    },
+
+    "exportMode": {
+        "ariaLabel": "select how to export book %{bookTitle}",
+
+        "modes": {
+            "full": {
+                "label": "full",
+                "ariaLabel": "export the entire book %{bookTitle}"
+            },
+
+            "audioOnly": {
+                "label": "readers",
+                "ariaLabel": "only export the reader information for book %{bookTitle}"
+            }
+        }
+    },
+
+    "readers": {
+        "checkbox": {
+            "ariaLabel": "to include the reader %{readerDisplayName} in the export"
+        }
+    }
+}

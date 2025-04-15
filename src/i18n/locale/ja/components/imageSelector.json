@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "許可が拒否されました",
-            "message": "カメラにアクセスする許可を拒否しました。"
+            "message": "カメラにアクセスする許可を拒否しました。",
+            "ariaLabel": "カメラで写真を撮る、アクセスを許可するか、そうする能力を失う許可が拒否されました"
         },
         "browseImages": {
             "title": "許可が拒否されました",
-            "message": "写真にアクセスする許可を拒否しました。"
+            "message": "写真にアクセスする許可を拒否しました。",
+            "ariaLabel": "写真にアクセスしたり、アクセスを許可したり、そうする能力を失ったりする許可が拒否されました"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "フルスクリーンを閉じます"}

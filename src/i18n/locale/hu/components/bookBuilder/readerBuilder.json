@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Biztosan törli a \"%{readerDisplayName}\" olvasót?",
                 "noDisplayName": "Biztosan törli ezt az olvasót?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Erősítse meg, hogy törölni szeretné a \"%{readerDisplayName}\" olvasót",
+                "noDisplayName": "Erősítse meg, hogy törölni szeretné ezt az olvasót"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "Mire szeretné megváltoztatni ezt az olvasói megjelenített nevet?",
                 "noDisplayName": "Mi ennek az olvasónak a megjelenített neve?"
             },
-            "inputPlaceholder": "olvasó neve"
+            "inputPlaceholder": "olvasó neve",
+            "ariaLabel": {
+                "withDisplayName": "Frissítse a meglévő kijelző nevét",
+                "noDisplayName": "Adja meg az új kijelző nevét"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "módosítsa a %{readerDisplayName} olvasó megjelenített nevét",

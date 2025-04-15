@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "Dette vil slette alle bøkene som er installert på denne enheten.\n\n",
-        "button": {
-            "label": "Slett",
-            "title": "slette alle bøker",
-            "ariaLabel": "slette alle bøker"
-        },
-        "displayName": "Slett alle bøker",
-        "processingMessage": "sletter ...",
+    "bookDataManagement": {
+        "longDescription": "Trenger du å flytte bøkene dine? ",
+        "displayName": "Book Data Management",
         "shortDescription": {
-            "disabled": "Slett alle bøkene dine, men du har for øyeblikket ingen bøker installert.",
-            "enabled": "Slett alle bøkene dine."
+            "disabled": "Du har ingen bøker installert ennå, men når du først har gjort det, kan du ta kontroll over biblioteket ditt - eksportere eller fjerne bøker etter behov.",
+            "enabled": "Ta kontroll over biblioteket ditt - eksport eller fjern bøker etter behov."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "Ionikoner",
                 "someIconsBy": "Ikoner av:",
                 "icons8": "Ikoner8",
-                "iconArchive": "Ikonarkiv"
+                "iconArchive": "Ikonarkiv",
+                "veryIcon": "Veldig ikon"
             }
         },
         "version": "Versjon: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Enkel",
                 "ariaLabel": "bruk enkel bilderedigering"
+            },
+            "beta": {
+                "label": "Beta",
+                "ariaLabel": "Bruk Beta Image Editor"
             }
         },
         "shortDescription": "Velg hvilket bilderedigeringsprogram som skal brukes.",
@@ -71,6 +70,11 @@
             "collapsed": "utvide delen for valg av lyd og video"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Eksporter alle bøker",
+        "title": "Eksporter alle bøker",
+        "ariaLabel": "Eksporter alle bøker"
+    },
     "cameraImageQuality": {
         "longDescription": "Denne bildekvaliteten vil bli brukt når du tar bilder med enhetens kamera(er).",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "Innstillinger",
     "confirmations": {"deleteAllBooks": {
-        "title": "Bekreftelse på sletting",
-        "message": "Er du sikker på at du vil slette alle installerte bøker?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "Dette kan være nyttig når du migrerer til en ny enhet eller legger til bøkene dine på flere enheter.",
-        "button": {
-            "label": "Eksport",
-            "title": "eksportere alle bøker",
-            "ariaLabel": "eksportere alle bøker"
+        "buttons": {
+            "no": {"ariaLabel": "Ikke slett alle installerte bøker"},
+            "yes": {"ariaLabel": "Ja, slett alle installerte bøker"}
         },
-        "displayName": "Eksporter alle bøker",
-        "shortDescription": {
-            "disabled": "Eksporter alle bøkene dine til én enkelt fil og lagre/del den, men du har for øyeblikket ingen bøker installert.",
-            "enabled": "Eksporter alle bøkene dine til én enkelt fil og lagre/del den."
-        }
-    },
+        "title": "Bekreftelse på sletting",
+        "message": "Er du sikker på at du vil slette alle installerte bøker?",
+        "ariaLabel": "Bekreft om du vil slette alle installerte bøker"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "sletting mislyktes",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Talefrekvens %{value} %",
         "shortDescription": "Velg hastigheten på stemmen som skal brukes av \"AI Reader\"."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "Slette bøker ...",
+        "label": "Slett alle bøker",
+        "title": "Slett alle bøker",
+        "ariaLabel": "Slett alle bøker"
     },
     "parentalLocking": {
         "longDescription": "Når den er aktivert, kreves enhetseierens biometriske data for å låse opp avanserte funksjoner i applikasjonen.",

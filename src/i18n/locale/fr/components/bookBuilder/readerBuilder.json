@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Êtes-vous sûr de vouloir supprimer le lecteur « %{readerDisplayName} » ?",
                 "noDisplayName": "Êtes-vous sûr de vouloir supprimer ce lecteur ?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Confirmez que vous souhaitez supprimer le lecteur \"%{readerDisplayName}\"",
+                "noDisplayName": "Confirmez que vous souhaitez supprimer ce lecteur"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "Par quoi souhaiteriez-vous changer le nom d\u2019affichage de ce lecteur ?",
                 "noDisplayName": "Quel est le nom d'affichage de ce lecteur ?"
             },
-            "inputPlaceholder": "nom du lecteur"
+            "inputPlaceholder": "nom du lecteur",
+            "ariaLabel": {
+                "withDisplayName": "Mettre à jour le nom d'affichage existant",
+                "noDisplayName": "Spécifiez le nouveau nom d'affichage"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "changer le nom d'affichage du lecteur %{readerDisplayName}",

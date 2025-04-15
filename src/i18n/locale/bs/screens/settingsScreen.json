@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "Ovo će izbrisati sve knjige instalirane na ovom uređaju.\n\n",
-        "button": {
-            "label": "Izbriši",
-            "title": "izbrisati sve knjige",
-            "ariaLabel": "izbrisati sve knjige"
-        },
-        "displayName": "Izbriši sve knjige",
-        "processingMessage": "brisanje...",
+    "bookDataManagement": {
+        "longDescription": "Trebate premjestiti svoje knjige? ",
+        "displayName": "Upravljanje podacima o knjizi",
         "shortDescription": {
-            "disabled": "Izbrišite sve svoje knjige, ali trenutno nemate instaliranu nijednu knjigu.",
-            "enabled": "Izbrišite sve svoje knjige."
+            "disabled": "Još nemate instalirane knjige, ali nakon što to učinite, možete preuzeti kontrolu nad svojim bibliotečkim izvozom ili ukloniti knjige po potrebi.",
+            "enabled": "Preuzmite kontrolu nad svojim bibliotečkim izvozom ili uklonite knjige po potrebi."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "Ionicons",
                 "someIconsBy": "Ikone autora:",
                 "icons8": "Ikone8",
-                "iconArchive": "Arhiva ikona"
+                "iconArchive": "Arhiva ikona",
+                "veryIcon": "Vrlo ikona"
             }
         },
         "version": "Verzija: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Jednostavno",
                 "ariaLabel": "koristite jednostavan editor slika"
+            },
+            "beta": {
+                "label": "Beta",
+                "ariaLabel": "Upotrijebite urednik beta slike"
             }
         },
         "shortDescription": "Odaberite koji uređivač slika treba koristiti.",
@@ -71,6 +70,11 @@
             "collapsed": "proširite odjeljak za odabir audio videa"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Izvezite sve knjige",
+        "title": "Izvezite sve knjige",
+        "ariaLabel": "Izvezite sve knjige"
+    },
     "cameraImageQuality": {
         "longDescription": "Ovaj kvalitet slike će se koristiti kada snimate slike kamerom(ama) uređaja.",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "Postavke",
     "confirmations": {"deleteAllBooks": {
-        "title": "Potvrda brisanja",
-        "message": "Jeste li sigurni da želite izbrisati sve instalirane knjige?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "Ovo može biti korisno prilikom migracije na novi uređaj ili dodavanja knjiga na više uređaja.",
-        "button": {
-            "label": "Izvoz",
-            "title": "izvoz svih knjiga",
-            "ariaLabel": "izvoz svih knjiga"
+        "buttons": {
+            "no": {"ariaLabel": "Ne brišite sve instalirane knjige"},
+            "yes": {"ariaLabel": "Da, izbrišite sve instalirane knjige"}
         },
-        "displayName": "Izvezi sve knjige",
-        "shortDescription": {
-            "disabled": "Izvezite sve svoje knjige u jednu datoteku i sačuvajte/dijelite je, ali trenutno nemate instaliranu nijednu knjigu.",
-            "enabled": "Izvezite sve svoje knjige u jednu datoteku i spremite/dijelite je."
-        }
-    },
+        "title": "Potvrda brisanja",
+        "message": "Jeste li sigurni da želite izbrisati sve instalirane knjige?",
+        "ariaLabel": "Potvrdite ako želite izbrisati sve instalirane knjige"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "brisanje nije uspjelo",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Brzina govora %{value}%",
         "shortDescription": "Odaberite brzinu glasa koju će koristiti \"AI Reader\"."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "Brisanje knjiga ...",
+        "label": "Izbrišite sve knjige",
+        "title": "Izbrišite sve knjige",
+        "ariaLabel": "Izbrišite sve knjige"
     },
     "parentalLocking": {
         "longDescription": "Kada je omogućeno, biometrijski podaci vlasnika uređaja potrebni su za otključavanje naprednih funkcija u aplikaciji.",

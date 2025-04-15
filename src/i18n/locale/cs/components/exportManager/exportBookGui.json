@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "čtenáři",
+                "ariaLabel": "pouze exportujte informace o čtení pro knihu %{bookTitle}"
+            },
+            "full": {
+                "label": "plný",
+                "ariaLabel": "Exportujte celou knihu %{bookTitle}"
+            }
+        },
+        "ariaLabel": "Vyberte, jak exportovat knihu %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "do exportu zahrnout čtečku %{readerDisplayName}"}},
+    "checkbox": {"ariaLabel": "do exportu zahrnout knihu %{bookTitle}"},
+    "bookReadersTooltip": {"label": "Výběr možnosti \u201ečtenářů\u201c exportuje pouze vybrané čtenáře.\n\n"}
+}

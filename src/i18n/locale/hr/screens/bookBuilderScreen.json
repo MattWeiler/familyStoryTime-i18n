@@ -21,7 +21,8 @@
                 },
                 "description": "Navedite ime za prikaz ovog novog čitača.",
                 "title": "Dodaj novog čitača",
-                "inputPlaceholder": "ime čitatelja"
+                "inputPlaceholder": "ime čitatelja",
+                "ariaLabel": "Dodajte novi čitač"
             },
             "ariaLabel": "dodati novog čitača"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "Ostavi promjene",
-        "message": "Jeste li sigurni da želite otići prije spremanja?"
+        "message": "Jeste li sigurni da želite otići prije spremanja?",
+        "ariaLabel": "Potvrdite da želite otići prije spašavanja"
     }},
     "pageChangeAudio": {
         "description": "Zvuk za reprodukciju kada dođe vrijeme za promjenu stranice.",

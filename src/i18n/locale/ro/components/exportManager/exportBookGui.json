@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "cititori",
+                "ariaLabel": "Exportați doar informațiile despre cititor pentru carte %{bookTitle}"
+            },
+            "full": {
+                "label": "deplin",
+                "ariaLabel": "Exportați întreaga carte %{bookTitle}"
+            }
+        },
+        "ariaLabel": "selectați cum să exportați cartea %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "să includă cititorul %{readerDisplayName} în export"}},
+    "checkbox": {"ariaLabel": "să includă cartea %{bookTitle} în export"},
+    "bookReadersTooltip": {"label": "Selectarea opțiunii \u201ecititori\u201d va exporta doar cititorii aleși.\n\n"}
+}

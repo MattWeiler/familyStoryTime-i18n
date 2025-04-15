@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Confirmare clară",
-            "message": "Ești sigur că vrei să ștergi audio selectat?"
+            "message": "Ești sigur că vrei să ștergi audio selectat?",
+            "ariaLabel": "Confirmați că doriți să ștergeți audio selectat"
         },
         "ariaLabel": "Ștergeți audio -ul selectat %{audioDisplayName}"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "Nu, rămâneți și continuați să editați",
                 "yes": "Da, aruncați modificările"
-            }
+            },
+            "ariaLabel": "Confirmați dacă doriți să aruncați orice modificări pe care le -ați făcut"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "Acces refuzat",
-        "message": "Ați refuzat permisiunea de a vă accesa microfonul."
+        "message": "Ați refuzat permisiunea de a vă accesa microfonul.",
+        "ariaLabel": "Ați refuzat permisiunea de a vă accesa microfonul"
     }}
 }

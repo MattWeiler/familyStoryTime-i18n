@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Pridelek",
+        "ariaLabel": "Preklopite na način pridelka"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "zavržene spremembe",
+        "rotation": "zavržene spremembe vrtenja",
+        "perspectiveCrop": "zavrzite perspektivne spremembe pridelkov",
+        "crop": "zavrzite spremembe pridelkov"
+    }},
+    "headerLabel": {
+        "default": "Uredi fotografijo",
+        "rotation": "Vrtenje",
+        "perspectiveCrop": "Perspektivni pridelek",
+        "crop": "Pridelek"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Ne zavrzite sprememb in se vrnite v urejevalnik slik"},
+        "discardButton": {
+            "label": "Zavreči",
+            "ariaLabel": "Ali zavrzite spremembe in zaprete urejevalnik slik"
+        },
+        "title": "Zavržene spremembe",
+        "message": "Ste prepričani, da želite zavreči spremembe?",
+        "ariaLabel": "potrdite, da želite zavreči vse spremembe, ki ste jih naredili na ureditvi slike"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "Zavrtite -90 stopinj"},
+        "saveButton": {
+            "label": "Shrani",
+            "ariaLabel": "shranite vrtenje"
+        },
+        "90PlusButton": {"ariaLabel": "Zavrtite +90 stopinj"},
+        "resetButton": {
+            "label": "Ponastaviti",
+            "ariaLabel": "Ponastavite vrtenje"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Flip horizontalno",
+        "ariaLabel": "Sliko obrnite vodoravno"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Ne nalagajte slike"},
+        "title": "Ponovno naloži sliko",
+        "message": "Ste prepričani, da želite ponovno naložiti sliko?\n",
+        "initButton": {
+            "label": "Ponovno naloži",
+            "ariaLabel": "Naložite sliko in izgubite vse izvedene spremembe"
+        },
+        "ariaLabel": "potrdite, da želite ponovno naložiti sliko in izgubiti vse spremembe, ki ste jih naredili na ureditvi slike"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Shrani",
+            "ariaLabel": "Shranite perspektivni pridelek"
+        },
+        "resetButton": {
+            "label": "Ponastaviti",
+            "ariaLabel": "Ponastavite perspektivni pridelek"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Perspektivni pridelek",
+        "ariaLabel": "Preklopite na način perspektivnega pridelka"
+    },
+    "reloadButton": {
+        "label": "Ponovno naloži",
+        "ariaLabel": "Ponovno naložite sliko iz vira"
+    },
+    "doneButton": {"ariaLabel": "Shrani spremembe"},
+    "rotationButton": {
+        "label": "Vrti",
+        "ariaLabel": "Preklopite na način vrtenja"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Shrani",
+            "ariaLabel": "shranite pridelek"
+        },
+        "resetButton": {
+            "label": "Ponastaviti",
+            "ariaLabel": "ponastavite pridelek"
+        }
+    }
+}

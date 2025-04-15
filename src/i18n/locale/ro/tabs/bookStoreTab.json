@@ -4,7 +4,8 @@
             "noButtonAriaLabel": "nu, nu dezinstalați cartea disponibilă",
             "yesButtonAriaLabel": "da, dezinstalează cartea disponibilă",
             "title": "Dezinstalați Confirmare",
-            "message": "Sunteți sigur că doriți să dezinstalați această carte disponibilă?\n"
+            "message": "Sunteți sigur că doriți să dezinstalați această carte disponibilă?\n",
+            "ariaLabel": "Confirmați că doriți să dezinstalați cartea disponibilă"
         },
         "ariaLabel": "dezinstalați cartea disponibilă %{bookName}"
     },
@@ -20,7 +21,8 @@
             "noButtonAriaLabel": "nu, nu instalați cartea disponibilă",
             "yesButtonAriaLabel": "da, instalează cartea disponibilă",
             "title": "Instalare Confirmare",
-            "message": "Sunteți sigur că doriți să instalați această carte disponibilă?\nProcedând astfel, veți folosi %{fileSize} de date."
+            "message": "Sunteți sigur că doriți să instalați această carte disponibilă?\nProcedând astfel, veți folosi %{fileSize} de date.",
+            "ariaLabel": "Confirmați că doriți să instalați cartea disponibilă"
         },
         "ariaLabel": "instalați cartea disponibilă %{bookName}"
     }

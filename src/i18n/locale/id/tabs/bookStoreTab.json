@@ -4,7 +4,8 @@
             "noButtonAriaLabel": "tidak, jangan uninstall buku Tersedia",
             "yesButtonAriaLabel": "ya, uninstall buku yang tersedia",
             "title": "Copot Pemasangan Konfirmasi",
-            "message": "Apakah Anda yakin ingin menghapus instalan buku yang tersedia ini?\n"
+            "message": "Apakah Anda yakin ingin menghapus instalan buku yang tersedia ini?\n",
+            "ariaLabel": "Konfirmasikan bahwa Anda ingin menghapus instalan buku yang tersedia"
         },
         "ariaLabel": "hapus instalan buku yang tersedia %{bookName}"
     },
@@ -20,7 +21,8 @@
             "noButtonAriaLabel": "tidak, jangan instal buku yang tersedia",
             "yesButtonAriaLabel": "ya, instal buku yang tersedia",
             "title": "Instal Konfirmasi",
-            "message": "Apakah Anda yakin ingin menginstal buku yang tersedia ini?\nMelakukan hal tersebut akan menggunakan data sebesar %{fileSize}."
+            "message": "Apakah Anda yakin ingin menginstal buku yang tersedia ini?\nMelakukan hal tersebut akan menggunakan data sebesar %{fileSize}.",
+            "ariaLabel": "Konfirmasikan bahwa Anda ingin menginstal buku yang tersedia"
         },
         "ariaLabel": "pasang buku yang tersedia %{bookName}"
     }

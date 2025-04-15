@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "lukijat",
+                "ariaLabel": "Vie vain kirjan lukijatiedot %{bookTitle}"
+            },
+            "full": {
+                "label": "koko",
+                "ariaLabel": "Vie koko kirja %{bookTitle}"
+            }
+        },
+        "ariaLabel": "Valitse kuinka vientikirjaa %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "Lukijan %{readerDisplayName} sisällyttäminen vientiin"}},
+    "checkbox": {"ariaLabel": "Kirjan %{bookTitle} sisällyttäminen vientiin"},
+    "bookReadersTooltip": {"label": "\"Readers\" -vaihtoehdon valitseminen vie vain valitut lukijat.\n\n"}
+}

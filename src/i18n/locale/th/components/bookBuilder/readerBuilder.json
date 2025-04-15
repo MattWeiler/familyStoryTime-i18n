@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "คุณแน่ใจหรือไม่ว่าต้องการลบโปรแกรมอ่าน \"%{readerDisplayName}\"",
                 "noDisplayName": "คุณแน่ใจหรือไม่ว่าต้องการลบโปรแกรมอ่านนี้"
+            },
+            "ariaLabel": {
+                "withDisplayName": "ยืนยันว่าคุณต้องการลบเครื่องอ่าน \"%{readerDisplayName}\"",
+                "noDisplayName": "ยืนยันว่าคุณต้องการลบผู้อ่านนี้"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "คุณต้องการเปลี่ยนชื่อที่แสดงของผู้อ่านรายนี้เป็นชื่ออะไร",
                 "noDisplayName": "ชื่อที่แสดงสำหรับผู้อ่านรายนี้คืออะไร?"
             },
-            "inputPlaceholder": "ชื่อผู้อ่าน"
+            "inputPlaceholder": "ชื่อผู้อ่าน",
+            "ariaLabel": {
+                "withDisplayName": "อัปเดตชื่อจอแสดงผลที่มีอยู่",
+                "noDisplayName": "ระบุชื่อที่แสดงใหม่"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "เปลี่ยนชื่อที่แสดงสำหรับผู้อ่าน %{readerDisplayName}",

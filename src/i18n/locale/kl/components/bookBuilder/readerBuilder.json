@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Qularnanngilaq atuartoq \"%{readerDisplayName}\" piiarniarlugu?",
                 "noDisplayName": "Qularnanngilaq atuartoq una piiarniarlugu?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "uppernarsarlugu atuartoq \"%{readerDisplayName}\" piiarniarlugu",
+                "noDisplayName": "atuartoq una piiarniarlugu uppernarsarlugu"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "Atuartut takussutissiaat una qanoq allanngortissaviuk?",
                 "noDisplayName": "Atuartumut tassunga takussutissiaq qanoq ateqarpa?"
             },
-            "inputPlaceholder": "atuartup aqqa"
+            "inputPlaceholder": "atuartup aqqa",
+            "ariaLabel": {
+                "withDisplayName": "display-ip aqqa pioreersoq nutarterlugu",
+                "noDisplayName": "display-ip aqqa nutaaq allappaa"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "atuartumut %{readerDisplayName} takutinneqartussaq allanngortiguk",

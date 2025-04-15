@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Toestemming geweigerd",
-            "message": "U hebt toestemming geweigerd om toegang te krijgen tot uw camera."
+            "message": "U hebt toestemming geweigerd om toegang te krijgen tot uw camera.",
+            "ariaLabel": "Toestemming is geweigerd om foto's te maken met uw camera, ofwel de toegang toe te kennen of de mogelijkheid te verliezen om dit te doen"
         },
         "browseImages": {
             "title": "Toestemming geweigerd",
-            "message": "U hebt toestemming geweigerd om toegang te krijgen tot uw foto's."
+            "message": "U hebt toestemming geweigerd om toegang te krijgen tot uw foto's.",
+            "ariaLabel": "Toestemming is geweigerd om toegang te krijgen tot uw foto's, ofwel de toegang toe te kennen of de mogelijkheid te verliezen om dit te doen"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Sluit het volledige scherm"}

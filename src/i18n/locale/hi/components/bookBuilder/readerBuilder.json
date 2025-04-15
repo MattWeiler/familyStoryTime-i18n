@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "क्या आप वाकई \"%{readerDisplayName}\" रीडर को हटाना चाहते हैं?",
                 "noDisplayName": "क्या आप वाकई इस रीडर को हटाना चाहते हैं?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "पुष्टि करें कि आप \"%{readerDisplayName}\" पाठक को हटाना चाहते हैं",
+                "noDisplayName": "पुष्टि करें कि आप इस पाठक को हटाना चाहते हैं"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "आप इस पाठक प्रदर्शन नाम को किसमें बदलना चाहेंगे?",
                 "noDisplayName": "इस रीडर का प्रदर्शन नाम क्या है?"
             },
-            "inputPlaceholder": "पाठक का नाम"
+            "inputPlaceholder": "पाठक का नाम",
+            "ariaLabel": {
+                "withDisplayName": "मौजूदा डिस्प्ले नाम को अपडेट करें",
+                "noDisplayName": "नया डिस्प्ले नाम निर्दिष्ट करें"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "रीडर %{readerDisplayName} के लिए प्रदर्शन नाम बदलें",

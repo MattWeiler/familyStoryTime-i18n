@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Quét lại văn bản trang",
-                "message": "Bạn có chắc chắn muốn quét hình ảnh để tìm văn bản và thay thế văn bản trang hiện có của mình không?"
+                "message": "Bạn có chắc chắn muốn quét hình ảnh để tìm văn bản và thay thế văn bản trang hiện có của mình không?",
+                "ariaLabel": "Xác nhận rằng bạn muốn quét lại hình ảnh cho văn bản"
             },
             "ariaLabel": "trích xuất văn bản từ hình ảnh cho trang %{pageNum}"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Văn bản trang là gì?",
                     "withPageText": "Bạn muốn thay đổi văn bản trang thành gì?"
                 },
-                "inputPlaceholder": "văn bản để thêm"
+                "inputPlaceholder": "văn bản để thêm",
+                "ariaLabel": {
+                    "noPageText": "Chỉ định văn bản trang",
+                    "withPageText": "Cập nhật văn bản trang hiện có"
+                }
             },
             "ariaLabel": "chỉnh sửa văn bản \"%{pageText}\" từ trang %{pageNum}"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Xác nhận xóa",
-                "message": "Bạn có chắc chắn muốn xóa văn bản trang này?"
+                "message": "Bạn có chắc chắn muốn xóa văn bản trang này?",
+                "ariaLabel": "Xác nhận rằng bạn muốn xóa văn bản trang này"
             },
             "ariaLabel": "xóa văn bản \"%{pageText}\" khỏi trang %{pageNum}"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "văn bản để thêm vào trang %{pageNum}",
                 "title": "Đặt văn bản trang",
                 "message": "Văn bản trang là gì?",
-                "inputPlaceholder": "văn bản để thêm"
+                "inputPlaceholder": "văn bản để thêm",
+                "ariaLabel": "Chỉ định văn bản mới để thêm vào trang %{pageNum}"
             },
             "ariaLabel": "thêm văn bản mới vào trang %{pageNum}"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "Thao tác này sẽ xóa tất cả âm thanh trang được ghi cho trang này.",
             "additionalMessage2": "ĐIỀU NÀY KHÔNG THỂ HOÀN TÁC!",
             "title": "Xác nhận xóa",
-            "message": "Bạn có chắc chắn muốn xóa trang %{pageNum} không?"
+            "message": "Bạn có chắc chắn muốn xóa trang %{pageNum} không?",
+            "ariaLabel": "Xác nhận rằng bạn muốn xóa trang %{pageNum}"
         },
         "ariaLabel": "xóa trang %{pageNum}"
     },

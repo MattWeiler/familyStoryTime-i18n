@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "atuartut",
+                "ariaLabel": "atuartup paasissutissaata atuakkamut %{bookTitle}-mut export-erpaa."
+            },
+            "full": {
+                "label": "ulikkaarpoq",
+                "ariaLabel": "atuakkap tamakkerlugu %{bookTitle} export-erpaa."
+            }
+        },
+        "ariaLabel": "toqqaruk qanoq atuakkiaq export-ersinnaanerlugu %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "atuartoq %{readerDisplayName} exportimi ilanngunneqarnissaanut"}},
+    "checkbox": {"ariaLabel": "atuakkap %{bookTitle} exportimi ilanngunneqarnissaanut"},
+    "bookReadersTooltip": {"label": "\"Atuartut\" toqqagassaq toqqarlugu atuartartut toqqarneqarsimasut kisimik export-issapput.\n\n"}
+}

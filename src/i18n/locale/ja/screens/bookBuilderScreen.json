@@ -21,7 +21,8 @@
                 },
                 "description": "この新しいリーダーの表示名を入力してください。",
                 "title": "新しいリーダーを追加",
-                "inputPlaceholder": "読者名"
+                "inputPlaceholder": "読者名",
+                "ariaLabel": "新しいリーダーを追加します"
             },
             "ariaLabel": "新しいリーダーを追加する"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "変更を残す",
-        "message": "保存する前に終了してもよろしいですか?"
+        "message": "保存する前に終了してもよろしいですか?",
+        "ariaLabel": "保存する前に去りたいことを確認してください"
     }},
     "pageChangeAudio": {
         "description": "ページを変更するときに再生されるオーディオ。",

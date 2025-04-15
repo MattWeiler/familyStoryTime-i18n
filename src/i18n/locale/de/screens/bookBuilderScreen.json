@@ -21,7 +21,8 @@
                 },
                 "description": "Bitte geben Sie den Anzeigenamen für diesen neuen Reader an.",
                 "title": "Neuen Reader hinzufügen",
-                "inputPlaceholder": "Lesername"
+                "inputPlaceholder": "Lesername",
+                "ariaLabel": "Fügen Sie einen neuen Leser hinzu"
             },
             "ariaLabel": "neuen Leser hinzufügen"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "Änderungen hinterlassen",
-        "message": "Sind Sie sicher, dass Sie die Seite vor dem Speichern verlassen möchten?"
+        "message": "Sind Sie sicher, dass Sie die Seite vor dem Speichern verlassen möchten?",
+        "ariaLabel": "Bestätigen Sie, dass Sie vor dem Speichern gehen möchten"
     }},
     "pageChangeAudio": {
         "description": "Der Ton, der abgespielt wird, wenn es Zeit ist, die Seite zu wechseln.",

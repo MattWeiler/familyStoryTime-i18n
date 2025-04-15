@@ -12,7 +12,8 @@
                 "someIconsBy": "Icons by: ",
                 "icons8": "Icons8",
                 "ionicIcons": "IonIcons",
-                "iconArchive": "Icon Archive"
+                "iconArchive": "Icon Archive",
+                "veryIcon": "Very Icon"
             },
 
             "fonts": {
@@ -24,8 +25,19 @@
 
     "confirmations": {
         "deleteAllBooks": {
+            "ariaLabel": "confirm if you want to delete all installed books",
             "title": "Deletion Confirmation",
-            "message": "Are you sure you want to delete all installed books?"
+            "message": "Are you sure you want to delete all installed books?",
+
+            "buttons": {
+                "no": {
+                    "ariaLabel": "do not delete all installed books"
+                },
+
+                "yes": {
+                    "ariaLabel": "yes, delete all installed books"
+                }
+            }
         }
     },
 
@@ -205,9 +217,15 @@
                 "label": "Simple",
                 "ariaLabel": "use simple image editor"
             },
+
             "advanced": {
                 "label": "Advanced",
                 "ariaLabel": "use the advanced image editor"
+            },
+
+            "beta": {
+                "label": "Beta",
+                "ariaLabel": "use the beta image editor"
             }
         },
 
@@ -218,35 +236,26 @@
         }
     },
 
-    "exportAllBooks": {
-        "displayName": "Export All Books",
-        "shortDescription": {
-            "enabled": "Export all of your books to a single file and save/share it.",
-            "disabled": "Export all of your books to a single file and save/share it, but you don't currently have any books installed."
-        },
-        "longDescription": "This can be useful when migrating to a new device or adding your books to multiple devices.",
+    "bookDataManagement": {
+        "displayName": "Book Data Management",
 
-        "button": {
-            "label": "Export",
-            "ariaLabel": "export all books",
-            "title": "export all books"
-        }
+        "shortDescription": {
+            "enabled": "Take control of your library—export or remove books as needed.",
+            "disabled": "You have no books installed yet, but once you do, you can take control of your library—export or remove books as needed."
+        },
+        "longDescription": "Need to move your books? Export them to transfer to a new device or access them on multiple devices.\n\nIf you've already backed them up, you can delete all your books for a clean slate."
     },
 
-    "deleteAllBooks": {
-        "displayName": "Delete All Books",
-        "shortDescription": {
-            "enabled": "Delete all of your books.",
-            "disabled": "Delete all of your books, but you don't currently have any books installed."
-        },
-        "longDescription": "This will delete all of the books installed on this device.\n\nTHIS CANNOT BE UNDONE.",
+    "exportAllBooksButton": {
+        "label": "Export All Books",
+        "ariaLabel": "export all books",
+        "title": "export all books"
+    },
 
-        "processingMessage": "deleting ...",
-
-        "button": {
-            "label": "Delete",
-            "ariaLabel": "delete all books",
-            "title": "delete all books"
-        }
+    "deleteAllBooksButton": {
+        "label": "Delete All Books",
+        "ariaLabel": "delete all books",
+        "title": "delete all books",
+        "processingMessage": "deleting books ..."
     }
 }

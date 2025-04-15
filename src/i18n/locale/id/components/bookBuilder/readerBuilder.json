@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Apakah Anda yakin ingin menghapus pembaca \"%{readerDisplayName}\"?",
                 "noDisplayName": "Apakah Anda yakin ingin menghapus pembaca ini?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Konfirmasikan bahwa Anda ingin menghapus pembaca \"%{readerDisplayName}\"",
+                "noDisplayName": "Konfirmasikan bahwa Anda ingin menghapus pembaca ini"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "Anda ingin mengubah nama tampilan pembaca ini menjadi apa?",
                 "noDisplayName": "Apa nama tampilan untuk pembaca ini?"
             },
-            "inputPlaceholder": "nama pembaca"
+            "inputPlaceholder": "nama pembaca",
+            "ariaLabel": {
+                "withDisplayName": "Perbarui nama tampilan yang ada",
+                "noDisplayName": "Tentukan nama tampilan baru"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "ubah nama tampilan untuk pembaca %{readerDisplayName}",

@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Znovu naskenovat text stránky",
-                "message": "Opravdu chcete v obrázku naskenovat text a nahradit stávající text stránky?"
+                "message": "Opravdu chcete v obrázku naskenovat text a nahradit stávající text stránky?",
+                "ariaLabel": "Potvrďte, že chcete znovu získat obrázek pro text"
             },
             "ariaLabel": "extrahovat text z obrázku pro stránku %{pageNum}"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Jaký je text stránky?",
                     "withPageText": "Na co byste chtěli změnit text stránky?"
                 },
-                "inputPlaceholder": "text k doplnění"
+                "inputPlaceholder": "text k doplnění",
+                "ariaLabel": {
+                    "noPageText": "Zadejte text stránky",
+                    "withPageText": "Aktualizujte existující text stránky"
+                }
             },
             "ariaLabel": "upravit text \"%{pageText}\" ze stránky %{pageNum}"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Potvrzení smazání",
-                "message": "Opravdu chcete smazat text této stránky?"
+                "message": "Opravdu chcete smazat text této stránky?",
+                "ariaLabel": "Potvrďte, že chcete odstranit tuto stránku text"
             },
             "ariaLabel": "odstranit text \u201e%{pageText}\u201c ze stránky %{pageNum}"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "text k přidání na stránku %{pageNum}",
                 "title": "Nastavte Text stránky",
                 "message": "Jaký je text stránky?",
-                "inputPlaceholder": "text k doplnění"
+                "inputPlaceholder": "text k doplnění",
+                "ariaLabel": "Určete nový text, který se má přidat na stránku %{pageNum}"
             },
             "ariaLabel": "přidat nový text na stránku %{pageNum}"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "Tím se odstraní veškerý zvuk stránky zaznamenaný pro tuto stránku.",
             "additionalMessage2": "TOTO NELZE VRÁTIT!",
             "title": "Potvrzení smazání",
-            "message": "Opravdu chcete smazat stránku %{pageNum}?"
+            "message": "Opravdu chcete smazat stránku %{pageNum}?",
+            "ariaLabel": "Potvrďte, že chcete odstranit stránku %{pageNum}"
         },
         "ariaLabel": "odstranit stránku %{pageNum}"
     },

@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "重新扫描页面文本",
-                "message": "您确定要扫描图像中的文本并替换现有的页面文本吗？"
+                "message": "您确定要扫描图像中的文本并替换现有的页面文本吗？",
+                "ariaLabel": "确认您想重新扫描文本的图像"
             },
             "ariaLabel": "从页面 %{pageNum} 的图像中提取文本"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "页面文字是什么？",
                     "withPageText": "您想将页面文本更改为什么？"
                 },
-                "inputPlaceholder": "要添加的文本"
+                "inputPlaceholder": "要添加的文本",
+                "ariaLabel": {
+                    "noPageText": "指定页面文字",
+                    "withPageText": "更新现有页面文字"
+                }
             },
             "ariaLabel": "编辑第 %{pageNum} 页中的文本\u201c%{pageText}\u201d"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "删除确认",
-                "message": "您确定要删除此页面文本吗？"
+                "message": "您确定要删除此页面文本吗？",
+                "ariaLabel": "确认您要删除此页面文字"
             },
             "ariaLabel": "从页 %{pageNum} 中删除文本\u201c%{pageText}\u201d"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "要添加到页面 %{pageNum} 的文本",
                 "title": "设置页面文本",
                 "message": "页面文字是什么？",
-                "inputPlaceholder": "要添加的文本"
+                "inputPlaceholder": "要添加的文本",
+                "ariaLabel": "指定要添加到页面%{pageNum}的新文本"
             },
             "ariaLabel": "将新文本添加到第 %{pageNum} 页"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "这将删除为此页面录制的所有页面音频。",
             "additionalMessage2": "这无法撤销！",
             "title": "删除确认",
-            "message": "您确定要删除第 %{pageNum} 页吗？"
+            "message": "您确定要删除第 %{pageNum} 页吗？",
+            "ariaLabel": "确认您要删除页面%{pageNum}"
         },
         "ariaLabel": "删除页 %{pageNum}"
     },

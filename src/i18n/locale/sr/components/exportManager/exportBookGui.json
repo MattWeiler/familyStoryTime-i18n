@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "читаоци",
+                "ariaLabel": "Извезите само информације о читаоцу за књигу %{bookTitle}"
+            },
+            "full": {
+                "label": "пун",
+                "ariaLabel": "Извезите целу књигу %{bookTitle}"
+            }
+        },
+        "ariaLabel": "Изаберите како извозити књигу %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "да укључи читач %{readerDisplayName} у извоз"}},
+    "checkbox": {"ariaLabel": "да укључи књигу %{bookTitle} у извозу"},
+    "bookReadersTooltip": {"label": "Одабир опције \"читаоци\" ће извозити само изабране читаоце.\n\n"}
+}

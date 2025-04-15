@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "庄稼",
+        "ariaLabel": "切换到作物模式"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "丢弃变化",
+        "rotation": "丢弃旋转变化",
+        "perspectiveCrop": "丢弃观点的裁剪变化",
+        "crop": "丢弃作物的变化"
+    }},
+    "headerLabel": {
+        "default": "编辑照片",
+        "rotation": "旋转",
+        "perspectiveCrop": "透视作物",
+        "crop": "庄稼"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "不要丢弃更改，然后返回图像编辑器"},
+        "discardButton": {
+            "label": "丢弃",
+            "ariaLabel": "丢弃更改并关闭图像编辑器"
+        },
+        "title": "丢弃变化",
+        "message": "您确定要丢弃更改吗？",
+        "ariaLabel": "确认您要丢弃对要编辑图像的任何更改"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "旋转-90度"},
+        "saveButton": {
+            "label": "节省",
+            "ariaLabel": "保存旋转"
+        },
+        "90PlusButton": {"ariaLabel": "旋转+90度"},
+        "resetButton": {
+            "label": "重置",
+            "ariaLabel": "重置旋转"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "翻转水平",
+        "ariaLabel": "水平翻转图像"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "不要重新加载图像"},
+        "title": "重新加载图像",
+        "message": "您确定要重新加载图像吗？\n",
+        "initButton": {
+            "label": "重新加载",
+            "ariaLabel": "重新加载图像，丢失所有所做的更改"
+        },
+        "ariaLabel": "确认您想重新加载图像，失去对要编辑图像的任何更改"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "节省",
+            "ariaLabel": "保存透视作物"
+        },
+        "resetButton": {
+            "label": "重置",
+            "ariaLabel": "重置视角作物"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "透视作物",
+        "ariaLabel": "切换到透视作物模式"
+    },
+    "reloadButton": {
+        "label": "重新加载",
+        "ariaLabel": "从源重新加载图像"
+    },
+    "doneButton": {"ariaLabel": "保存更改"},
+    "rotationButton": {
+        "label": "旋转",
+        "ariaLabel": "切换到旋转模式"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "节省",
+            "ariaLabel": "保存农作物"
+        },
+        "resetButton": {
+            "label": "重置",
+            "ariaLabel": "重置农作物"
+        }
+    }
+}

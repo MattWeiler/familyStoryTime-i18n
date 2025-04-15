@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Uppskera",
+        "ariaLabel": "Skiptu yfir í uppskeru"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "Fleygðu breytingum",
+        "rotation": "Fleygðu snúningsbreytingum",
+        "perspectiveCrop": "Fleygðu breytingum á uppskeru",
+        "crop": "Fleygðu uppskerubreytingum"
+    }},
+    "headerLabel": {
+        "default": "Breyta mynd",
+        "rotation": "Snúningur",
+        "perspectiveCrop": "Sjónarhorn uppskeru",
+        "crop": "Uppskera"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Ekki henda breytingum og snúa aftur til Image Editor"},
+        "discardButton": {
+            "label": "Fleyg",
+            "ariaLabel": "Farið breytingum og lokaðu myndritstjóra"
+        },
+        "title": "Fleygðu breytingum",
+        "message": "Ertu viss um að þú viljir henda breytingum?",
+        "ariaLabel": "Staðfestu að þú viljir henda öllum breytingum sem þú hefur gert á myndinni sem er breytt"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "Snúðu -90 gráður"},
+        "saveButton": {
+            "label": "Vista",
+            "ariaLabel": "Vistaðu snúninginn"
+        },
+        "90PlusButton": {"ariaLabel": "Snúðu +90 gráður"},
+        "resetButton": {
+            "label": "Endurstilla",
+            "ariaLabel": "Endurstilla snúninginn"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Flip Lárétt",
+        "ariaLabel": "flettu myndinni lárétt"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Ekki endurhlaða myndina"},
+        "title": "Endurhlaðið mynd",
+        "message": "Ertu viss um að þú viljir endurhlaða myndina?\n",
+        "initButton": {
+            "label": "Endurhlaðið",
+            "ariaLabel": "endurhlaða myndina, missa allar breytingar gerðar"
+        },
+        "ariaLabel": "Staðfestu að þú viljir endurhlaða myndina, missa allar breytingar sem þú hefur gert á myndinni sem er breytt"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Vista",
+            "ariaLabel": "Vistaðu sjónarhornið"
+        },
+        "resetButton": {
+            "label": "Endurstilla",
+            "ariaLabel": "Endurstilltu sjónarhornið"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Sjónarhorn uppskeru",
+        "ariaLabel": "Skiptu yfir í Perspective Crop Mode"
+    },
+    "reloadButton": {
+        "label": "Endurhlaðið",
+        "ariaLabel": "Endurhlaðið myndina frá upptökum"
+    },
+    "doneButton": {"ariaLabel": "Vistaðu breytingar"},
+    "rotationButton": {
+        "label": "Snúa",
+        "ariaLabel": "Skiptu yfir í snúningsstillingu"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Vista",
+            "ariaLabel": "Vistaðu uppskeruna"
+        },
+        "resetButton": {
+            "label": "Endurstilla",
+            "ariaLabel": "Endurstilla uppskeruna"
+        }
+    }
+}

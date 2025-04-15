@@ -21,6 +21,7 @@
         "ariaLabel": "edit the currently loaded %{audioDisplayName} audio",
 
         "cancelConfirmation": {
+            "ariaLabel": "confirm if you want to discard any edits that you have made",
             "title": "Discard Editing",
             "message": "Are you sure you want to discard any edits that you have made?",
 
@@ -47,6 +48,7 @@
         "ariaLabel": "clear the selected %{audioDisplayName} audio",
 
         "confirmation": {
+            "ariaLabel": "confirm that you want to clear the selected audio",
             "title": "Clear Confirmation",
             "message": "Are you sure you want to clear the selected audio?"
         }
@@ -64,6 +66,7 @@
 
     "permissionDenied": {
         "recording": {
+            "ariaLabel": "you have denied permission to access your microphone",
             "title": "Permission Denied",
             "message": "You have denied permission to access your microphone."
         }

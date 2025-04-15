@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Dovoljenje zavrnjeno",
-            "message": "Zavrnili ste dovoljenje za dostop do fotoaparata."
+            "message": "Zavrnili ste dovoljenje za dostop do fotoaparata.",
+            "ariaLabel": "Dovoljenje je bilo zavrnjeno fotografirati s fotoaparatom, bodisi odobriti dostop ali izgubiti možnost, da to stori"
         },
         "browseImages": {
             "title": "Dovoljenje zavrnjeno",
-            "message": "Zavrnili ste dovoljenje za dostop do fotografij."
+            "message": "Zavrnili ste dovoljenje za dostop do fotografij.",
+            "ariaLabel": "Za dostop do vaših fotografij je bilo zavrnjeno dovoljenje, bodisi omogočite dostop ali izgubite možnost"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Zaprite celozaslonski zaslon"}

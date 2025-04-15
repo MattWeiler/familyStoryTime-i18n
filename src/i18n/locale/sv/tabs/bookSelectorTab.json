@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Är du säker på att du vill ta bort de %{count} valda böckerna?",
                                 "one": "Är du säker på att du vill ta bort den valda boken?"
+                            },
+                            "ariaLabel": {
+                                "other": "Bekräfta att du vill ta bort de valda %{count} böckerna",
+                                "one": "Bekräfta att du vill ta bort den valda boken"
                             }
                         },
                         "ariaLabel": "radera de valda böckerna"
@@ -118,6 +122,7 @@
     "title": "Läshörna",
     "confirmations": {"deleteBook": {
         "title": "Borttagningsbekräftelse",
-        "message": "Är du säker på att du vill ta bort boken \"%{bookTitle}?\""
+        "message": "Är du säker på att du vill ta bort boken \"%{bookTitle}?\"",
+        "ariaLabel": "Bekräfta att du vill ta bort boken \"%{bookTitle}\""
     }}
 }

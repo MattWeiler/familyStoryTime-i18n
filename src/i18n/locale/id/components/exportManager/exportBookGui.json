@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "pembaca",
+                "ariaLabel": "hanya mengekspor informasi pembaca untuk buku %{bookTitle}"
+            },
+            "full": {
+                "label": "penuh",
+                "ariaLabel": "Ekspor seluruh buku %{bookTitle}"
+            }
+        },
+        "ariaLabel": "Pilih cara mengekspor buku %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "untuk memasukkan pembaca %{readerDisplayName} dalam ekspor"}},
+    "checkbox": {"ariaLabel": "untuk memasukkan buku %{bookTitle} dalam ekspor"},
+    "bookReadersTooltip": {"label": "Memilih opsi \"Pembaca\" hanya akan mengekspor pembaca yang dipilih.\n\n"}
+}

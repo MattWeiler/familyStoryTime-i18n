@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Skýr staðfesting",
-            "message": "Ertu viss um að þú viljir hreinsa valið hljóð?"
+            "message": "Ertu viss um að þú viljir hreinsa valið hljóð?",
+            "ariaLabel": "Staðfestu að þú viljir hreinsa valið hljóð"
         },
         "ariaLabel": "hreinsaðu valið %{audioDisplayName} hljóð"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "Nei, vertu og haltu áfram að breyta",
                 "yes": "Já, fargaðu breytingum"
-            }
+            },
+            "ariaLabel": "Staðfestu hvort þú vilt henda öllum breytingum sem þú hefur gert"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "Leyfi hafnað",
-        "message": "Þú hefur neitað leyfi til að fá aðgang að hljóðnemanum þínum."
+        "message": "Þú hefur neitað leyfi til að fá aðgang að hljóðnemanum þínum.",
+        "ariaLabel": "Þú hefur neitað leyfi til að fá aðgang að hljóðnemanum þínum"
     }}
 }

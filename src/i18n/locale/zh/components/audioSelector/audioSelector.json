@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "明确的确认",
-            "message": "您确定要清除所选音频吗？"
+            "message": "您确定要清除所选音频吗？",
+            "ariaLabel": "确认您要清除选定的音频"
         },
         "ariaLabel": "清除选定的%{audioDisplayName}音频"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "不，留下来继续编辑",
                 "yes": "是的，丢弃编辑"
-            }
+            },
+            "ariaLabel": "确认您是否要丢弃您进行的任何编辑"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "没有权限",
-        "message": "您否认允许访问麦克风。"
+        "message": "您否认允许访问麦克风。",
+        "ariaLabel": "您否认允许访问麦克风"
     }}
 }

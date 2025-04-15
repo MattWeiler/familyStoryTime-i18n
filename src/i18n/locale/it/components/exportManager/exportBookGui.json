@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "lettori",
+                "ariaLabel": "Esporta solo le informazioni sul lettore per il libro %{bookTitle}"
+            },
+            "full": {
+                "label": "pieno",
+                "ariaLabel": "Esporta l'intero libro %{bookTitle}"
+            }
+        },
+        "ariaLabel": "Seleziona come esportare il libro %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "Per includere il lettore %{readerDisplayName} nell'esportazione"}},
+    "checkbox": {"ariaLabel": "per includere il libro %{bookTitle} nell'esportazione"},
+    "bookReadersTooltip": {"label": "La selezione dell'opzione \"lettori\" esporta solo i lettori scelti.\n\n"}
+}

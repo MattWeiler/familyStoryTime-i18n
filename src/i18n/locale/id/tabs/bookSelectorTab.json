@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Apakah Anda yakin ingin menghapus %{count} buku yang dipilih?",
                                 "one": "Apakah Anda yakin ingin menghapus buku yang dipilih?"
+                            },
+                            "ariaLabel": {
+                                "other": "Konfirmasikan bahwa Anda ingin menghapus buku %{count} yang dipilih",
+                                "one": "Konfirmasikan bahwa Anda ingin menghapus buku yang dipilih"
                             }
                         },
                         "ariaLabel": "hapus buku yang dipilih"
@@ -118,6 +122,7 @@
     "title": "Pojok Baca",
     "confirmations": {"deleteBook": {
         "title": "Konfirmasi Penghapusan",
-        "message": "Apakah Anda yakin ingin menghapus buku \"%{bookTitle}?\""
+        "message": "Apakah Anda yakin ingin menghapus buku \"%{bookTitle}?\"",
+        "ariaLabel": "Konfirmasikan bahwa Anda ingin menghapus buku \"%{bookTitle}\""
     }}
 }

@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Ernte",
+        "ariaLabel": "Wechseln Sie in den Erntemodus"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "Veränderungen verwerfen",
+        "rotation": "Rotationsänderungen verwerfen",
+        "perspectiveCrop": "Perspektive der Perspektive zu Veränderungen der Ernte verwerfen",
+        "crop": "Veränderungen der Ernte verwerfen"
+    }},
+    "headerLabel": {
+        "default": "Foto bearbeiten",
+        "rotation": "Drehung",
+        "perspectiveCrop": "Perspektive Ernte",
+        "crop": "Ernte"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Verwerfen Sie Änderungen nicht und kehren Sie zum Image Editor zurück"},
+        "discardButton": {
+            "label": "VERWERFEN",
+            "ariaLabel": "Verwerfen Sie Änderungen und schließen Sie den Image -Editor"
+        },
+        "title": "Veränderungen verwerfen",
+        "message": "Sind Sie sicher, dass Sie Änderungen abwerfen möchten?",
+        "ariaLabel": "Bestätigen Sie, dass Sie alle Änderungen, die Sie vor dem bearbeiteten Bild vorgenommen haben, verwerfen möchten"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "Drehen Sie -90 Grad"},
+        "saveButton": {
+            "label": "Speichern",
+            "ariaLabel": "Speichern Sie die Rotation"
+        },
+        "90PlusButton": {"ariaLabel": "+90 Grad drehen"},
+        "resetButton": {
+            "label": "Zurücksetzen",
+            "ariaLabel": "Setzen Sie die Rotation zurück"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Flip Horizontal",
+        "ariaLabel": "das Bild horizontal umdrehen"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Laden Sie das Bild nicht neu."},
+        "title": "Bild neu laden",
+        "message": "Sind Sie sicher, dass Sie das Bild neu laden möchten?\n",
+        "initButton": {
+            "label": "Neu laden",
+            "ariaLabel": "Laden Sie das Bild neu und verlieren Sie alle vorgenommenen Änderungen"
+        },
+        "ariaLabel": "Bestätigen Sie, dass Sie das Bild neu laden möchten und Änderungen verlieren, die Sie an dem zu bearbeitenden Bild vorgenommen haben"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Speichern",
+            "ariaLabel": "Speichern Sie die Perspektiveernte"
+        },
+        "resetButton": {
+            "label": "Zurücksetzen",
+            "ariaLabel": "Setzen Sie die Perspektivernte zurück"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Perspektive Ernte",
+        "ariaLabel": "Wechseln Sie zum Perspektiven -Erntemodus"
+    },
+    "reloadButton": {
+        "label": "Neu laden",
+        "ariaLabel": "Laden Sie das Bild aus der Quelle neu"
+    },
+    "doneButton": {"ariaLabel": "Änderungen speichern"},
+    "rotationButton": {
+        "label": "Drehen",
+        "ariaLabel": "Wechseln Sie in den Rotationsmodus"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Speichern",
+            "ariaLabel": "Speichern Sie die Ernte"
+        },
+        "resetButton": {
+            "label": "Zurücksetzen",
+            "ariaLabel": "Setzen Sie die Ernte zurück"
+        }
+    }
+}

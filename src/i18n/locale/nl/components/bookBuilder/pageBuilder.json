@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Paginatekst opnieuw scannen",
-                "message": "Weet u zeker dat u de afbeelding op tekst wilt scannen en uw bestaande paginatekst wilt vervangen?"
+                "message": "Weet u zeker dat u de afbeelding op tekst wilt scannen en uw bestaande paginatekst wilt vervangen?",
+                "ariaLabel": "Bevestig dat u de afbeelding voor tekst opnieuw wilt scaneren"
             },
             "ariaLabel": "extraheer tekst uit afbeelding voor pagina %{pageNum}"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Wat is de paginatekst?",
                     "withPageText": "Waarin wilt u de paginatekst wijzigen?"
                 },
-                "inputPlaceholder": "tekst toe te voegen"
+                "inputPlaceholder": "tekst toe te voegen",
+                "ariaLabel": {
+                    "noPageText": "Geef de paginakekst op",
+                    "withPageText": "Werk de bestaande paginakekst bij"
+                }
             },
             "ariaLabel": "bewerk de tekst \"%{pageText}\" van pagina %{pageNum}"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Bevestiging van verwijdering",
-                "message": "Weet u zeker dat u deze paginatekst wilt verwijderen?"
+                "message": "Weet u zeker dat u deze paginatekst wilt verwijderen?",
+                "ariaLabel": "Bevestig dat u deze pagina -tekst wilt verwijderen"
             },
             "ariaLabel": "verwijder de tekst \"%{pageText}\" van pagina %{pageNum}"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "tekst om toe te voegen aan pagina %{pageNum}",
                 "title": "Paginatekst instellen",
                 "message": "Wat is de paginatekst?",
-                "inputPlaceholder": "tekst toe te voegen"
+                "inputPlaceholder": "tekst toe te voegen",
+                "ariaLabel": "Geef de nieuwe tekst op om toe te voegen aan pagina %{pageNum}"
             },
             "ariaLabel": "nieuwe tekst toevoegen aan pagina %{pageNum}"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "Hiermee wordt alle pagina-audio verwijderd die voor deze pagina is opgenomen.",
             "additionalMessage2": "DIT KAN NIET ONGEDAAN WORDEN!",
             "title": "Bevestiging van verwijdering",
-            "message": "Weet u zeker dat u pagina %{pageNum} wilt verwijderen?"
+            "message": "Weet u zeker dat u pagina %{pageNum} wilt verwijderen?",
+            "ariaLabel": "Bevestig dat u pagina wilt verwijderen %{pageNum}"
         },
         "ariaLabel": "verwijder pagina %{pageNum}"
     },

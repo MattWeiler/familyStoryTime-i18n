@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Jeste li sigurni da želite izbrisati %{count} odabranih knjiga?",
                                 "one": "Jeste li sigurni da želite izbrisati odabranu knjigu?"
+                            },
+                            "ariaLabel": {
+                                "other": "potvrdite da želite izbrisati odabrane knjige %{count}",
+                                "one": "Potvrdite da želite izbrisati odabranu knjigu"
                             }
                         },
                         "ariaLabel": "izbrisati odabrane knjige"
@@ -118,6 +122,7 @@
     "title": "Čitanje ugao",
     "confirmations": {"deleteBook": {
         "title": "Potvrda brisanja",
-        "message": "Jeste li sigurni da želite izbrisati knjigu \"%{bookTitle}?\""
+        "message": "Jeste li sigurni da želite izbrisati knjigu \"%{bookTitle}?\"",
+        "ariaLabel": "Potvrdite da želite izbrisati knjigu \"%{bookTitle}\""
     }}
 }

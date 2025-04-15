@@ -19,24 +19,6 @@
         "packaging": "pakkaus...",
         "cancelling": "peruutetaan..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "lukijat",
-                    "ariaLabel": "vie vain kirjan %{bookTitle} lukijatiedot"
-                },
-                "full": {
-                    "label": "koko",
-                    "ariaLabel": "vie koko kirja %{bookTitle}"
-                }
-            },
-            "ariaLabel": "valitse kuinka viedä kirja %{bookTitle}"
-        },
-        "readers": {"checkbox": {"ariaLabel": "sisällyttääksesi lukijan %{readerDisplayName} vientiin"}},
-        "checkbox": {"ariaLabel": "sisällyttääksesi kirjan %{bookTitle} vientiin"},
-        "bookReadersTooltip": {"label": "\"Lukijat\"-vaihtoehdon valitseminen vie vain valitut lukijat.\n\n"}
-    },
     "packagedMultiBookFileName": "Kirjat",
     "nothingToExport": "Ei mitään vietävää :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "peruuttaa vienti"}
         },
         "title": "Vahvista Peruuta vienti",
-        "message": "Haluatko varmasti peruuttaa viennin?"
+        "message": "Haluatko varmasti peruuttaa viennin?",
+        "ariaLabel": "Varmista, että haluat peruuttaa tuonnin"
     }},
     "titles": {
         "booksToExport": "Vietäviä kirjoja",

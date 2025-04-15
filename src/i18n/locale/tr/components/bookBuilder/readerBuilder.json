@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "\"%{readerDisplayName}\" okuyucusunu silmek istediğinizden emin misiniz?",
                 "noDisplayName": "Bu okuyucuyu silmek istediğinizden emin misiniz?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "\"%{readerDisplayName}\" okuyucusunu silmek istediğinizi onaylayın",
+                "noDisplayName": "Bu okuyucuyu silmek istediğinizi onaylayın"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "Bu okuyucunun görünen adını ne olarak değiştirmek istersiniz?",
                 "noDisplayName": "Bu okuyucunun görünen adı nedir?"
             },
-            "inputPlaceholder": "okuyucu adı"
+            "inputPlaceholder": "okuyucu adı",
+            "ariaLabel": {
+                "withDisplayName": "Mevcut ekran adını güncelleyin",
+                "noDisplayName": "Yeni görüntü adını belirtin"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "%{readerDisplayName} okuyucusunun görünen adını değiştirin",

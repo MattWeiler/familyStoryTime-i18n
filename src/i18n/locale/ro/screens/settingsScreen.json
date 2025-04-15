@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "Aceasta va șterge toate cărțile instalate pe acest dispozitiv.\n\n",
-        "button": {
-            "label": "Şterge",
-            "title": "șterge toate cărțile",
-            "ariaLabel": "șterge toate cărțile"
-        },
-        "displayName": "Ștergeți toate cărțile",
-        "processingMessage": "se șterge...",
+    "bookDataManagement": {
+        "longDescription": "Trebuie să vă mutați cărțile? ",
+        "displayName": "Managementul datelor de carte",
         "shortDescription": {
-            "disabled": "Ștergeți toate cărțile dvs., dar în prezent nu aveți nicio carte instalată.",
-            "enabled": "Ștergeți toate cărțile dvs."
+            "disabled": "Încă nu aveți cărți instalate, dar, după ce ați făcut -o, puteți prelua controlul bibliotecii dvs. - Exportați sau eliminați cărțile după cum este necesar.",
+            "enabled": "Preluați controlul bibliotecii dvs. - Exportați sau eliminați cărțile, după cum este necesar."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "Ioniconi",
                 "someIconsBy": "Pictograme de:",
                 "icons8": "Pictograme8",
-                "iconArchive": "Arhiva pictogramelor"
+                "iconArchive": "Arhiva pictogramelor",
+                "veryIcon": "Foarte pictogramă"
             }
         },
         "version": "Versiune: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Simplu",
                 "ariaLabel": "utilizați un editor de imagini simplu"
+            },
+            "beta": {
+                "label": "Beta",
+                "ariaLabel": "Folosiți editorul de imagini beta"
             }
         },
         "shortDescription": "Selectați ce editor de imagini trebuie utilizat.",
@@ -71,6 +70,11 @@
             "collapsed": "extindeți secțiunea de selecție audio video"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Exportați toate cărțile",
+        "title": "Exportați toate cărțile",
+        "ariaLabel": "Exportați toate cărțile"
+    },
     "cameraImageQuality": {
         "longDescription": "Această calitate a imaginii va fi utilizată atunci când faceți fotografii cu camerele aparatului.",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "Setări",
     "confirmations": {"deleteAllBooks": {
-        "title": "Confirmare ștergere",
-        "message": "Sigur doriți să ștergeți toate cărțile instalate?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "Acest lucru poate fi util atunci când migrați pe un dispozitiv nou sau adăugați cărțile pe mai multe dispozitive.",
-        "button": {
-            "label": "Export",
-            "title": "exportați toate cărțile",
-            "ariaLabel": "exportați toate cărțile"
+        "buttons": {
+            "no": {"ariaLabel": "Nu ștergeți toate cărțile instalate"},
+            "yes": {"ariaLabel": "Da, ștergeți toate cărțile instalate"}
         },
-        "displayName": "Exportați toate cărțile",
-        "shortDescription": {
-            "disabled": "Exportați toate cărțile dvs. într-un singur fișier și salvați/distribuiți-l, dar în prezent nu aveți nicio carte instalată.",
-            "enabled": "Exportați toate cărțile dvs. într-un singur fișier și salvați/distribuiți-l."
-        }
-    },
+        "title": "Confirmare ștergere",
+        "message": "Sigur doriți să ștergeți toate cărțile instalate?",
+        "ariaLabel": "Confirmați dacă doriți să ștergeți toate cărțile instalate"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "ștergerea nu a reușit",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Rata de vorbire %{value}%",
         "shortDescription": "Selectați rata vocii care va fi utilizată de \u201eAI Reader\u201d."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "Ștergerea cărților ...",
+        "label": "Ștergeți toate cărțile",
+        "title": "Ștergeți toate cărțile",
+        "ariaLabel": "Ștergeți toate cărțile"
     },
     "parentalLocking": {
         "longDescription": "Când este activată, datele biometrice ale proprietarilor dispozitivului sunt necesare pentru a debloca funcții avansate din aplicație.",

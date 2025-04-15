@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Ali ste prepričani, da želite izbrisati %{count} izbranih knjig?",
                                 "one": "Ali ste prepričani, da želite izbrisati izbrano knjigo?"
+                            },
+                            "ariaLabel": {
+                                "other": "Potrdite, da želite izbrisati izbrane knjige %{count}",
+                                "one": "potrdite, da želite izbrisati izbrano knjigo"
                             }
                         },
                         "ariaLabel": "izbrišite izbrane knjige"
@@ -118,6 +122,7 @@
     "title": "Bralni kotiček",
     "confirmations": {"deleteBook": {
         "title": "Potrditev izbrisa",
-        "message": "Ali ste prepričani, da želite izbrisati knjigo \"%{bookTitle}?\""
+        "message": "Ali ste prepričani, da želite izbrisati knjigo \"%{bookTitle}?\"",
+        "ariaLabel": "Potrdite, da želite izbrisati knjigo \"%{bookTitle}\""
     }}
 }

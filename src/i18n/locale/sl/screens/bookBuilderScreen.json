@@ -21,7 +21,8 @@
                 },
                 "description": "Navedite prikazno ime za ta novi bralnik.",
                 "title": "Dodaj novega bralnika",
-                "inputPlaceholder": "ime bralca"
+                "inputPlaceholder": "ime bralca",
+                "ariaLabel": "Dodajte novega bralca"
             },
             "ariaLabel": "dodaj novega bralnika"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "Zapusti spremembe",
-        "message": "Ali ste prepričani, da želite zapustiti, preden shranite?"
+        "message": "Ali ste prepričani, da želite zapustiti, preden shranite?",
+        "ariaLabel": "potrdite, da želite oditi, preden shranite"
     }},
     "pageChangeAudio": {
         "description": "Zvok za predvajanje, ko je čas za zamenjavo strani.",

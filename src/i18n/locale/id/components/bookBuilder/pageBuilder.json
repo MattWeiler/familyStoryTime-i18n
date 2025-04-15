@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Pindai Ulang Teks Halaman",
-                "message": "Apakah Anda yakin ingin memindai gambar untuk mencari teks dan mengganti teks halaman yang ada?"
+                "message": "Apakah Anda yakin ingin memindai gambar untuk mencari teks dan mengganti teks halaman yang ada?",
+                "ariaLabel": "Konfirmasikan bahwa Anda ingin memindai kembali gambar untuk teks"
             },
             "ariaLabel": "ekstrak teks dari gambar untuk halaman %{pageNum}"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Apa teks halamannya?",
                     "withPageText": "Anda ingin mengubah teks halaman menjadi apa?"
                 },
-                "inputPlaceholder": "teks untuk ditambahkan"
+                "inputPlaceholder": "teks untuk ditambahkan",
+                "ariaLabel": {
+                    "noPageText": "Tentukan teks halaman",
+                    "withPageText": "Perbarui teks halaman yang ada"
+                }
             },
             "ariaLabel": "edit teks \"%{pageText}\" dari halaman %{pageNum}"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Konfirmasi Penghapusan",
-                "message": "Apakah Anda yakin ingin menghapus teks halaman ini?"
+                "message": "Apakah Anda yakin ingin menghapus teks halaman ini?",
+                "ariaLabel": "Konfirmasikan bahwa Anda ingin menghapus teks halaman ini"
             },
             "ariaLabel": "hapus teks \"%{pageText}\" dari halaman %{pageNum}"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "teks untuk ditambahkan ke halaman %{pageNum}",
                 "title": "Atur Teks Halaman",
                 "message": "Apa teks halamannya?",
-                "inputPlaceholder": "teks untuk ditambahkan"
+                "inputPlaceholder": "teks untuk ditambahkan",
+                "ariaLabel": "Tentukan teks baru yang akan ditambahkan ke halaman %{pageNum}"
             },
             "ariaLabel": "tambahkan teks baru ke halaman %{pageNum}"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "Ini akan menghapus semua audio halaman yang direkam untuk halaman ini.",
             "additionalMessage2": "INI TIDAK DAPAT DIBATALKAN!",
             "title": "Konfirmasi Penghapusan",
-            "message": "Apakah Anda yakin ingin menghapus halaman %{pageNum}?"
+            "message": "Apakah Anda yakin ingin menghapus halaman %{pageNum}?",
+            "ariaLabel": "Konfirmasikan bahwa Anda ingin menghapus halaman %{pageNum}"
         },
         "ariaLabel": "hapus halaman %{pageNum}"
     },

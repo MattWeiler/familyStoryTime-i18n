@@ -1,0 +1,120 @@
+{
+    "dismissButton": {
+        "ariaLabel": {
+            "default": "discard changes",
+            "crop": "discard crop changes",
+            "rotation": "discard rotation changes",
+            "perspectiveCrop": "discard perspective crop changes"
+        }
+    },
+
+    "headerLabel": {
+        "default": "Edit Photo",
+        "crop": "Crop",
+        "rotation": "Rotation",
+        "perspectiveCrop": "Perspective Crop"
+    },
+
+    "doneButton": {
+        "ariaLabel": "save changes"
+    },
+
+    "reloadButton": {
+        "label": "Reload",
+        "ariaLabel": "reload the image from the source"
+    },
+
+    "cropButton": {
+        "label": "Crop",
+        "ariaLabel": "switch to crop mode"
+    },
+
+    "rotationButton": {
+        "label": "Rotate",
+        "ariaLabel": "switch to rotation mode"
+    },
+
+    "flipHorizontalButton": {
+        "label": "Flip Horizontal",
+        "ariaLabel": "flip the image horizontally"
+    },
+
+    "perspectiveCropButton": {
+        "label": "Perspective Crop",
+        "ariaLabel": "switch to perspective crop mode"
+    },
+
+    "crop": {
+        "resetButton": {
+            "label": "Reset",
+            "ariaLabel": "reset the crop"
+        },
+
+        "saveButton": {
+            "label": "Save",
+            "ariaLabel": "save the crop"
+        }
+    },
+
+    "rotation": {
+        "90MinusButton": {
+            "ariaLabel": "rotate -90 degrees"
+        },
+
+        "90PlusButton": {
+            "ariaLabel": "rotate +90 degrees"
+        },
+
+        "resetButton": {
+            "label": "Reset",
+            "ariaLabel": "reset the rotation"
+        },
+
+        "saveButton": {
+            "label": "Save",
+            "ariaLabel": "save the rotation"
+        }
+    },
+
+    "perspectiveCrop": {
+        "resetButton": {
+            "label": "Reset",
+            "ariaLabel": "reset the perspective crop"
+        },
+
+        "saveButton": {
+            "label": "Save",
+            "ariaLabel": "save the perspective crop"
+        }
+    },
+
+    "confirmDiscard": {
+        "ariaLabel": "confirm that you want to discard any changes that you have made to the image being edited",
+        "title": "Discard Changes",
+        "message": "Are you sure that you want to discard changes?",
+
+        "cancelButton": {
+            "ariaLabel": "do not discard changes and return to image editor"
+        },
+
+        "discardButton": {
+            "label": "DISCARD",
+            "ariaLabel": "do discard changes and close the image editor"
+        }
+    },
+
+    "confirmInitImage": {
+        "ariaLabel": "confirm that you want to reload the image, losing any changes that you have made to the image being edited",
+        "title": "Reload Image",
+        "message": "Are you sure that you want to reload the image?\nAny changes made will be lost.",
+
+        "cancelButton": {
+            "ariaLabel": "do not reload the image"
+        },
+
+        "initButton": {
+            "label": "Reload",
+            "ariaLabel": "do reload the image, loosing all changes made"
+        }
+    }
+}

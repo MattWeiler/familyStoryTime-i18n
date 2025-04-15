@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Oletko varma, että haluat poistaa %{count} valittua kirjaa?",
                                 "one": "Oletko varma, että haluat poistaa valitun kirjan?"
+                            },
+                            "ariaLabel": {
+                                "other": "Varmista, että haluat poistaa valitut %{count} kirjat",
+                                "one": "Varmista, että haluat poistaa valitun kirjan"
                             }
                         },
                         "ariaLabel": "poista valitut kirjat"
@@ -118,6 +122,7 @@
     "title": "Lukunurkkaus",
     "confirmations": {"deleteBook": {
         "title": "Poiston vahvistus",
-        "message": "Haluatko varmasti poistaa kirjan \"%{bookTitle}?\""
+        "message": "Haluatko varmasti poistaa kirjan \"%{bookTitle}?\"",
+        "ariaLabel": "Varmista, että haluat poistaa kirjan \"%{bookTitle}\""
     }}
 }

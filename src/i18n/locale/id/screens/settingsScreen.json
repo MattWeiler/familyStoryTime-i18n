@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "Ini akan menghapus semua buku yang terpasang di perangkat ini.\n\n",
-        "button": {
-            "label": "Menghapus",
-            "title": "hapus semua buku",
-            "ariaLabel": "hapus semua buku"
-        },
-        "displayName": "Hapus Semua Buku",
-        "processingMessage": "menghapus ...",
+    "bookDataManagement": {
+        "longDescription": "Perlu memindahkan buku Anda? ",
+        "displayName": "Buku Manajemen Data",
         "shortDescription": {
-            "disabled": "Hapus semua buku Anda, namun saat ini Anda belum memasang buku apa pun.",
-            "enabled": "Hapus semua buku Anda."
+            "disabled": "Anda belum memiliki buku yang diinstal, tetapi begitu Anda melakukannya, Anda dapat mengendalikan perpustakaan Anda - mengekspor atau menghapus buku sesuai kebutuhan.",
+            "enabled": "Kendalikan perpustakaan Anda - Ekspor atau hapus buku sesuai kebutuhan."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "Ikon Ion",
                 "someIconsBy": "Ikon oleh:",
                 "icons8": "Ikon8",
-                "iconArchive": "Arsip Ikon"
+                "iconArchive": "Arsip Ikon",
+                "veryIcon": "Sangat ikon"
             }
         },
         "version": "Versi: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Sederhana",
                 "ariaLabel": "gunakan editor gambar sederhana"
+            },
+            "beta": {
+                "label": "Beta",
+                "ariaLabel": "Gunakan editor gambar beta"
             }
         },
         "shortDescription": "Pilih editor gambar mana yang akan digunakan.",
@@ -71,6 +70,11 @@
             "collapsed": "perluas bagian pilihan audio video"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Ekspor semua buku",
+        "title": "Ekspor semua buku",
+        "ariaLabel": "Ekspor semua buku"
+    },
     "cameraImageQuality": {
         "longDescription": "Kualitas gambar ini akan digunakan saat mengambil gambar dengan kamera perangkat.",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "Pengaturan",
     "confirmations": {"deleteAllBooks": {
-        "title": "Konfirmasi Penghapusan",
-        "message": "Apakah Anda yakin ingin menghapus semua buku yang terpasang?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "Ini berguna saat bermigrasi ke perangkat baru atau menambahkan buku Anda ke beberapa perangkat.",
-        "button": {
-            "label": "Ekspor",
-            "title": "ekspor semua buku",
-            "ariaLabel": "ekspor semua buku"
+        "buttons": {
+            "no": {"ariaLabel": "Jangan hapus semua buku terpasang"},
+            "yes": {"ariaLabel": "Ya, hapus semua buku yang diinstal"}
         },
-        "displayName": "Ekspor Semua Buku",
-        "shortDescription": {
-            "disabled": "Ekspor semua buku Anda ke satu file dan simpan/bagikan, namun saat ini Anda belum memasang buku apa pun.",
-            "enabled": "Ekspor semua buku Anda ke satu file dan simpan/bagikan."
-        }
-    },
+        "title": "Konfirmasi Penghapusan",
+        "message": "Apakah Anda yakin ingin menghapus semua buku yang terpasang?",
+        "ariaLabel": "Konfirmasikan jika Anda ingin menghapus semua buku yang diinstal"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "penghapusan gagal",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Kecepatan Bicara %{value}%",
         "shortDescription": "Pilih kecepatan suara yang akan digunakan oleh \"AI Reader\"."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "Menghapus buku ...",
+        "label": "Hapus semua buku",
+        "title": "Hapus semua buku",
+        "ariaLabel": "Hapus semua buku"
     },
     "parentalLocking": {
         "longDescription": "Jika diaktifkan, data biometrik pemilik perangkat diperlukan untuk membuka fitur lanjutan dalam aplikasi.",

@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Skannaa sivun teksti uudelleen",
-                "message": "Oletko varma, että haluat skannata kuvan tekstin varalta ja korvata olemassa olevan sivun tekstin?"
+                "message": "Oletko varma, että haluat skannata kuvan tekstin varalta ja korvata olemassa olevan sivun tekstin?",
+                "ariaLabel": "Vahvista, että haluat kuvata kuvan uudelleen tekstiksi"
             },
             "ariaLabel": "poimi tekstiä kuvasta sivulle %{pageNum}"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Mikä on sivun teksti?",
                     "withPageText": "Mihin haluat muuttaa sivun tekstin?"
                 },
-                "inputPlaceholder": "lisättävä teksti"
+                "inputPlaceholder": "lisättävä teksti",
+                "ariaLabel": {
+                    "noPageText": "Määritä sivuteksti",
+                    "withPageText": "Päivitä olemassa oleva sivuteksti"
+                }
             },
             "ariaLabel": "muokkaa tekstiä \"%{pageText}\" sivulta %{pageNum}"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Poiston vahvistus",
-                "message": "Haluatko varmasti poistaa tämän sivutekstin?"
+                "message": "Haluatko varmasti poistaa tämän sivutekstin?",
+                "ariaLabel": "Varmista, että haluat poistaa tämän sivun tekstin"
             },
             "ariaLabel": "poista teksti \"%{pageText}\" sivulta %{pageNum}"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "teksti lisättäväksi sivulle %{pageNum}",
                 "title": "Aseta sivuteksti",
                 "message": "Mikä on sivun teksti?",
-                "inputPlaceholder": "lisättävä teksti"
+                "inputPlaceholder": "lisättävä teksti",
+                "ariaLabel": "Määritä uusi teksti, joka lisätään sivulle %{pageNum}"
             },
             "ariaLabel": "lisää uusi teksti sivulle %{pageNum}"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "Tämä poistaa kaiken tälle sivulle tallennetun sivun äänen.",
             "additionalMessage2": "TÄTÄ EI VOI PERUUTA!",
             "title": "Poiston vahvistus",
-            "message": "Haluatko varmasti poistaa sivun %{pageNum}?"
+            "message": "Haluatko varmasti poistaa sivun %{pageNum}?",
+            "ariaLabel": "Varmista, että haluat poistaa sivun %{pageNum}"
         },
         "ariaLabel": "poista sivu %{pageNum}"
     },

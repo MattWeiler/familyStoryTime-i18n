@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "明確な確認",
-            "message": "選択したオーディオをクリアしたいですか？"
+            "message": "選択したオーディオをクリアしたいですか？",
+            "ariaLabel": "選択したオーディオをクリアすることを確認してください"
         },
         "ariaLabel": "選択した%{audioDisplayName}オーディオをクリアします"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "いいえ、編集を続けてください",
                 "yes": "はい、編集を破棄します"
-            }
+            },
+            "ariaLabel": "作成した編集を破棄するかどうかを確認してください"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "許可が拒否されました",
-        "message": "マイクにアクセスする許可を拒否しました。"
+        "message": "マイクにアクセスする許可を拒否しました。",
+        "ariaLabel": "マイクにアクセスする許可を拒否しました"
     }}
 }

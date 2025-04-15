@@ -21,7 +21,8 @@
                 },
                 "description": "Podaj nazwę wyświetlaną tego nowego czytnika.",
                 "title": "Dodaj nowego czytelnika",
-                "inputPlaceholder": "imię czytelnika"
+                "inputPlaceholder": "imię czytelnika",
+                "ariaLabel": "Dodaj nowego czytelnika"
             },
             "ariaLabel": "dodaj nowego czytelnika"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "Opuść zmiany",
-        "message": "Czy na pewno chcesz wyjść przed zapisaniem?"
+        "message": "Czy na pewno chcesz wyjść przed zapisaniem?",
+        "ariaLabel": "Potwierdź, że chcesz odejść przed oszczędzaniem"
     }},
     "pageChangeAudio": {
         "description": "Dźwięk do odtworzenia, gdy nadejdzie czas zmiany strony.",

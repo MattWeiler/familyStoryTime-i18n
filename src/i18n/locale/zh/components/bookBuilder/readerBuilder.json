@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "您确定要删除\u201c%{readerDisplayName}\u201d阅读器吗？",
                 "noDisplayName": "您确定要删除该阅读器吗？"
+            },
+            "ariaLabel": {
+                "withDisplayName": "确认您要删除\u201c %{readerDisplayName}\u201d读取器",
+                "noDisplayName": "确认您要删除此读者"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "您想将此读者的显示名称更改为什么？",
                 "noDisplayName": "该阅读器的显示名称是什么？"
             },
-            "inputPlaceholder": "读者姓名"
+            "inputPlaceholder": "读者姓名",
+            "ariaLabel": {
+                "withDisplayName": "更新现有显示名称",
+                "noDisplayName": "指定新显示名称"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "更改阅读器 %{readerDisplayName} 的显示名称",

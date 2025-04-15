@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Skanna síðutexta aftur",
-                "message": "Ertu viss um að þú viljir skanna myndina fyrir texta og skipta út núverandi síðutexta?"
+                "message": "Ertu viss um að þú viljir skanna myndina fyrir texta og skipta út núverandi síðutexta?",
+                "ariaLabel": "Staðfestu að þú viljir skanna myndina fyrir texta"
             },
             "ariaLabel": "draga texta úr mynd fyrir síðu %{pageNum}"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Hver er síðutextinn?",
                     "withPageText": "Hvað viltu breyta síðutextanum í?"
                 },
-                "inputPlaceholder": "texta til að bæta við"
+                "inputPlaceholder": "texta til að bæta við",
+                "ariaLabel": {
+                    "noPageText": "Tilgreindu blaðsíðutexta",
+                    "withPageText": "Uppfærðu fyrirliggjandi blaðsíðutexta"
+                }
             },
             "ariaLabel": "breyttu textanum \"%{pageText}\" af síðunni %{pageNum}"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Staðfesting á eyðingu",
-                "message": "Ertu viss um að þú viljir eyða þessum síðutexta?"
+                "message": "Ertu viss um að þú viljir eyða þessum síðutexta?",
+                "ariaLabel": "Staðfestu að þú viljir fjarlægja þessa síðu texta"
             },
             "ariaLabel": "fjarlægðu textann \u201e%{pageText}\u201c af síðunni %{pageNum}"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "texti til að bæta við síðu %{pageNum}",
                 "title": "Stilla síðutexta",
                 "message": "Hver er síðutextinn?",
-                "inputPlaceholder": "texta til að bæta við"
+                "inputPlaceholder": "texta til að bæta við",
+                "ariaLabel": "Tilgreindu nýja textann til að bæta við síðu %{pageNum}"
             },
             "ariaLabel": "bæta nýjum texta við síðu %{pageNum}"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "Þetta mun fjarlægja allt hljóð sem tekið er upp fyrir þessa síðu.",
             "additionalMessage2": "ÞETTA ER EKKI ENDURLAGT!",
             "title": "Staðfesting á eyðingu",
-            "message": "Ertu viss um að þú viljir eyða síðu %{pageNum}?"
+            "message": "Ertu viss um að þú viljir eyða síðu %{pageNum}?",
+            "ariaLabel": "Staðfestu að þú viljir fjarlægja síðu %{pageNum}"
         },
         "ariaLabel": "fjarlægja síðu %{pageNum}"
     },

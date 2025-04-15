@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Sayfa Metnini Yeniden Tara",
-                "message": "Görüntüde metin taraması yapmak ve mevcut sayfa metninizi değiştirmek istediğinizden emin misiniz?"
+                "message": "Görüntüde metin taraması yapmak ve mevcut sayfa metninizi değiştirmek istediğinizden emin misiniz?",
+                "ariaLabel": "Görüntüyü metin için yeniden taramak istediğinizi onaylayın"
             },
             "ariaLabel": "%{pageNum}. sayfa için resimden metin çıkar"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Sayfa metni nedir?",
                     "withPageText": "Sayfa metnini neyle değiştirmek istersiniz?"
                 },
-                "inputPlaceholder": "eklenecek metin"
+                "inputPlaceholder": "eklenecek metin",
+                "ariaLabel": {
+                    "noPageText": "Sayfa metnini belirtin",
+                    "withPageText": "Mevcut sayfa metnini güncelleyin"
+                }
             },
             "ariaLabel": "%{pageNum} sayfasından \"%{pageText}\" metnini düzenle"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Silme Onayı",
-                "message": "Bu sayfa metnini silmek istediğinizden emin misiniz?"
+                "message": "Bu sayfa metnini silmek istediğinizden emin misiniz?",
+                "ariaLabel": "Bu sayfa metnini kaldırmak istediğinizi onaylayın"
             },
             "ariaLabel": "\"%{pageText}\" metnini %{pageNum} sayfasından kaldır"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "%{pageNum} sayfasına eklenecek metin",
                 "title": "Sayfa Metnini Ayarla",
                 "message": "Sayfa metni nedir?",
-                "inputPlaceholder": "eklenecek metin"
+                "inputPlaceholder": "eklenecek metin",
+                "ariaLabel": "%{pageNum} sayfasına eklemek için yeni metni belirtin"
             },
             "ariaLabel": "%{pageNum} sayfasına yeni metin ekle"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "Bu, bu sayfa için kaydedilen tüm sayfa seslerini kaldıracaktır.",
             "additionalMessage2": "BU GERİ ALINMAZ!",
             "title": "Silme Onayı",
-            "message": "%{pageNum} sayfasını silmek istediğinizden emin misiniz?"
+            "message": "%{pageNum} sayfasını silmek istediğinizden emin misiniz?",
+            "ariaLabel": "%{pageNum} sayfasını kaldırmak istediğinizi onaylayın"
         },
         "ariaLabel": "%{pageNum} sayfasını kaldır"
     },

@@ -21,7 +21,8 @@
                 },
                 "description": "Kérjük, adja meg ennek az új olvasónak a megjelenített nevét.",
                 "title": "Új olvasó hozzáadása",
-                "inputPlaceholder": "olvasó neve"
+                "inputPlaceholder": "olvasó neve",
+                "ariaLabel": "Adjon hozzá egy új olvasót"
             },
             "ariaLabel": "új olvasó hozzáadása"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "Hagyja el a Módosításokat",
-        "message": "Biztos benne, hogy ki akar menni a mentés előtt?"
+        "message": "Biztos benne, hogy ki akar menni a mentés előtt?",
+        "ariaLabel": "Erősítse meg, hogy megtakarítás előtt el akar távozni"
     }},
     "pageChangeAudio": {
         "description": "A lejátszandó hang, amikor eljön az ideje az oldalváltásnak.",

@@ -19,24 +19,6 @@
         "packaging": "บรรจุภัณฑ์ ...",
         "cancelling": "กำลังยกเลิก ..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "ผู้อ่าน",
-                    "ariaLabel": "ส่งออกข้อมูลผู้อ่านสำหรับหนังสือ %{bookTitle} เท่านั้น"
-                },
-                "full": {
-                    "label": "เต็ม",
-                    "ariaLabel": "ส่งออกหนังสือทั้งเล่ม %{bookTitle}"
-                }
-            },
-            "ariaLabel": "เลือกวิธีการส่งออกหนังสือ %{bookTitle}"
-        },
-        "readers": {"checkbox": {"ariaLabel": "เพื่อรวมเครื่องอ่าน %{readerDisplayName} ในการส่งออก"}},
-        "checkbox": {"ariaLabel": "เพื่อรวมหนังสือ %{bookTitle} ในการส่งออก"},
-        "bookReadersTooltip": {"label": "การเลือกตัวเลือก \"ผู้อ่าน\" จะส่งออกเฉพาะผู้อ่านที่เลือกเท่านั้น\n\n"}
-    },
     "packagedMultiBookFileName": "หนังสือ",
     "nothingToExport": "ไม่มีสิ่งใดที่จะส่งออก :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "ยกเลิกการส่งออก"}
         },
         "title": "ยืนยันการยกเลิกการส่งออก",
-        "message": "คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการส่งออก"
+        "message": "คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการส่งออก",
+        "ariaLabel": "ยืนยันว่าคุณต้องการยกเลิกการนำเข้า"
     }},
     "titles": {
         "booksToExport": "หนังสือที่จะส่งออก",

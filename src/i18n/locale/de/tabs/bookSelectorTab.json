@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Sind Sie sicher, dass Sie die %{count} ausgewählten Bücher löschen möchten?",
                                 "one": "Sind Sie sicher, dass Sie das ausgewählte Buch löschen möchten?"
+                            },
+                            "ariaLabel": {
+                                "other": "Bestätigen Sie, dass Sie die ausgewählten %{count} -Bücher löschen möchten",
+                                "one": "Bestätigen Sie, dass Sie das ausgewählte Buch löschen möchten"
                             }
                         },
                         "ariaLabel": "Löschen Sie die ausgewählten Bücher"
@@ -118,6 +122,7 @@
     "title": "Leseecke",
     "confirmations": {"deleteBook": {
         "title": "Löschbestätigung",
-        "message": "Sind Sie sicher, dass Sie das Buch \u201e%{bookTitle}\u201c löschen möchten?"
+        "message": "Sind Sie sicher, dass Sie das Buch \u201e%{bookTitle}\u201c löschen möchten?",
+        "ariaLabel": "Bestätigen Sie, dass Sie das Buch \"%{bookTitle}\" löschen möchten."
     }}
 }

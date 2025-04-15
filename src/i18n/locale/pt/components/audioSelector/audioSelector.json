@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Confirmação clara",
-            "message": "Tem certeza de que deseja limpar o áudio selecionado?"
+            "message": "Tem certeza de que deseja limpar o áudio selecionado?",
+            "ariaLabel": "Confirme que deseja limpar o áudio selecionado"
         },
         "ariaLabel": "limpe o áudio selecionado %{audioDisplayName}"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "Não, fique e continue editando",
                 "yes": "Sim, descarte as edições"
-            }
+            },
+            "ariaLabel": "Confirme se você deseja descartar qualquer edição que você fez"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "Permissão negada",
-        "message": "Você negou permissão para acessar seu microfone."
+        "message": "Você negou permissão para acessar seu microfone.",
+        "ariaLabel": "você negou permissão para acessar seu microfone"
     }}
 }

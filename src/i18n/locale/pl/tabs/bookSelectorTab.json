@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Czy na pewno chcesz usunąć wybrane książki (%{count})?",
                                 "one": "Czy na pewno chcesz usunąć wybraną książkę?"
+                            },
+                            "ariaLabel": {
+                                "other": "Potwierdź, że chcesz usunąć wybrane książki %{count}",
+                                "one": "Potwierdź, że chcesz usunąć wybraną książkę"
                             }
                         },
                         "ariaLabel": "usuń wybrane książki"
@@ -118,6 +122,7 @@
     "title": "Kącik czytelniczy",
     "confirmations": {"deleteBook": {
         "title": "Potwierdzenie usunięcia",
-        "message": "Czy na pewno chcesz usunąć książkę \u201e%{bookTitle}?\u201d"
+        "message": "Czy na pewno chcesz usunąć książkę \u201e%{bookTitle}?\u201d",
+        "ariaLabel": "Potwierdź, że chcesz usunąć książkę \u201e%{bookTitle}\u201d"
     }}
 }

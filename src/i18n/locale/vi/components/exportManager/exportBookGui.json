@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "Độc giả",
+                "ariaLabel": "Chỉ xuất thông tin đầu đọc cho sách %{bookTitle}"
+            },
+            "full": {
+                "label": "đầy",
+                "ariaLabel": "Xuất toàn bộ cuốn sách %{bookTitle}"
+            }
+        },
+        "ariaLabel": "Chọn cách xuất sách %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "Để bao gồm đầu đọc %{readerDisplayName} trong xuất"}},
+    "checkbox": {"ariaLabel": "Để bao gồm cuốn sách %{bookTitle} trong xuất khẩu"},
+    "bookReadersTooltip": {"label": "Chọn tùy chọn \"Độc giả\" sẽ chỉ xuất các độc giả đã chọn.\n\n"}
+}

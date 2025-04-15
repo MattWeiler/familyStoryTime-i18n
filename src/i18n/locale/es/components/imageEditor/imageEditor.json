@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Cultivo",
+        "ariaLabel": "Cambiar al modo de cultivo"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "descartar cambios",
+        "rotation": "descartar cambios de rotación",
+        "perspectiveCrop": "Descartar los cambios en la perspectiva de los cultivos",
+        "crop": "Deseche los cambios de cultivos"
+    }},
+    "headerLabel": {
+        "default": "Editar foto",
+        "rotation": "Rotación",
+        "perspectiveCrop": "Perspective Crop",
+        "crop": "Cultivo"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "No descarte los cambios y vuelva al editor de imágenes"},
+        "discardButton": {
+            "label": "DESECHAR",
+            "ariaLabel": "Deseche los cambios y cierre el editor de imágenes"
+        },
+        "title": "Descartar cambios",
+        "message": "¿Estás seguro de que quieres descartar los cambios?",
+        "ariaLabel": "Confirme que desea descartar cualquier cambio que haya realizado en la imagen que se está editando"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "girar -90 grados"},
+        "saveButton": {
+            "label": "Ahorrar",
+            "ariaLabel": "Guardar la rotación"
+        },
+        "90PlusButton": {"ariaLabel": "girar +90 grados"},
+        "resetButton": {
+            "label": "Reiniciar",
+            "ariaLabel": "restablecer la rotación"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Flip horizontal",
+        "ariaLabel": "voltea la imagen horizontalmente"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "No vuelva a cargar la imagen"},
+        "title": "Imagen de recarga",
+        "message": "¿Estás seguro de que quieres recargar la imagen?\n",
+        "initButton": {
+            "label": "Recargar",
+            "ariaLabel": "Recargue la imagen, perdiendo todos los cambios realizados"
+        },
+        "ariaLabel": "Confirme que desea recargar la imagen, perdiendo cualquier cambio que haya realizado en la imagen que se está editando"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Ahorrar",
+            "ariaLabel": "Guardar la cosecha de perspectiva"
+        },
+        "resetButton": {
+            "label": "Reiniciar",
+            "ariaLabel": "Restablecer la cosecha de perspectiva"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Perspective Crop",
+        "ariaLabel": "Cambiar al modo de cultivo en perspectiva"
+    },
+    "reloadButton": {
+        "label": "Recargar",
+        "ariaLabel": "Recargar la imagen de la fuente"
+    },
+    "doneButton": {"ariaLabel": "Guardar cambios"},
+    "rotationButton": {
+        "label": "Girar",
+        "ariaLabel": "cambiar al modo de rotación"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Ahorrar",
+            "ariaLabel": "salvar la cosecha"
+        },
+        "resetButton": {
+            "label": "Reiniciar",
+            "ariaLabel": "restablecer la cosecha"
+        }
+    }
+}

@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Zeskanuj ponownie tekst strony",
-                "message": "Czy na pewno chcesz przeskanować obraz w poszukiwaniu tekstu i zastąpić istniejący tekst strony?"
+                "message": "Czy na pewno chcesz przeskanować obraz w poszukiwaniu tekstu i zastąpić istniejący tekst strony?",
+                "ariaLabel": "Potwierdź, że chcesz ponownie skanować obraz dla tekstu"
             },
             "ariaLabel": "wyodrębnij tekst z obrazu dla strony %{pageNum}"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Jaki jest tekst strony?",
                     "withPageText": "Na co chcesz zmienić tekst strony?"
                 },
-                "inputPlaceholder": "tekst do dodania"
+                "inputPlaceholder": "tekst do dodania",
+                "ariaLabel": {
+                    "noPageText": "Podaj tekst strony",
+                    "withPageText": "Zaktualizuj istniejący tekst strony"
+                }
             },
             "ariaLabel": "edytuj tekst \u201e%{pageText}\u201d ze strony %{pageNum}"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Potwierdzenie usunięcia",
-                "message": "Czy na pewno chcesz usunąć tekst tej strony?"
+                "message": "Czy na pewno chcesz usunąć tekst tej strony?",
+                "ariaLabel": "Potwierdź, że chcesz usunąć ten tekst strony"
             },
             "ariaLabel": "usuń tekst \u201e%{pageText}\u201d ze strony %{pageNum}"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "tekst do dodania do strony %{pageNum}",
                 "title": "Ustaw tekst strony",
                 "message": "Jaki jest tekst strony?",
-                "inputPlaceholder": "tekst do dodania"
+                "inputPlaceholder": "tekst do dodania",
+                "ariaLabel": "Podaj nowy tekst, aby dodać do strony %{pageNum}"
             },
             "ariaLabel": "dodaj nowy tekst do strony %{pageNum}"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "Spowoduje to usunięcie całego dźwięku strony nagranego dla tej strony.",
             "additionalMessage2": "TEGO NIE MOŻNA COFNĄĆ!",
             "title": "Potwierdzenie usunięcia",
-            "message": "Czy na pewno chcesz usunąć stronę %{pageNum}?"
+            "message": "Czy na pewno chcesz usunąć stronę %{pageNum}?",
+            "ariaLabel": "Potwierdź, że chcesz usunąć stronę %{pageNum}"
         },
         "ariaLabel": "usuń stronę %{pageNum}"
     },

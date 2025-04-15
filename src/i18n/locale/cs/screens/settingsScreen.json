@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "Tímto smažete všechny knihy nainstalované v tomto zařízení.\n\n",
-        "button": {
-            "label": "Vymazat",
-            "title": "smazat všechny knihy",
-            "ariaLabel": "smazat všechny knihy"
-        },
-        "displayName": "Smazat všechny knihy",
-        "processingMessage": "mazání...",
+    "bookDataManagement": {
+        "longDescription": "Potřebujete přesunout své knihy? ",
+        "displayName": "Správa dat knih",
         "shortDescription": {
-            "disabled": "Smažte všechny své knihy, ale aktuálně nemáte nainstalované žádné knihy.",
-            "enabled": "Smažte všechny své knihy."
+            "disabled": "Zatím nemáte nainstalované knihy, ale jakmile to uděláte, můžete převzít kontrolu nad svou knihovnou - podle potřeby exportujte nebo odstraňte knihy.",
+            "enabled": "Převezměte kontrolu nad svou knihovnou - podle potřeby exportujte nebo odstraňte knihy."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "Ionicons",
                 "someIconsBy": "Ikony od:",
                 "icons8": "Ikony8",
-                "iconArchive": "Archiv ikon"
+                "iconArchive": "Archiv ikon",
+                "veryIcon": "Velmi ikona"
             }
         },
         "version": "Verze: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Jednoduchý",
                 "ariaLabel": "použijte jednoduchý editor obrázků"
+            },
+            "beta": {
+                "label": "Beta",
+                "ariaLabel": "Použijte editor Beta Image Editor"
             }
         },
         "shortDescription": "Vyberte, který editor obrázků chcete použít.",
@@ -71,6 +70,11 @@
             "collapsed": "rozbalte část výběru audio a video"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Exportujte všechny knihy",
+        "title": "Exportujte všechny knihy",
+        "ariaLabel": "Exportujte všechny knihy"
+    },
     "cameraImageQuality": {
         "longDescription": "Tato kvalita obrazu bude použita při pořizování snímků fotoaparátem(y) zařízení.",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "Nastavení",
     "confirmations": {"deleteAllBooks": {
-        "title": "Potvrzení smazání",
-        "message": "Opravdu chcete smazat všechny nainstalované knihy?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "To může být užitečné při migraci na nové zařízení nebo přidávání knih do více zařízení.",
-        "button": {
-            "label": "Vývozní",
-            "title": "exportovat všechny knihy",
-            "ariaLabel": "exportovat všechny knihy"
+        "buttons": {
+            "no": {"ariaLabel": "Neodstraňujte všechny nainstalované knihy"},
+            "yes": {"ariaLabel": "Ano, smažte všechny nainstalované knihy"}
         },
-        "displayName": "Exportovat všechny knihy",
-        "shortDescription": {
-            "disabled": "Exportujte všechny své knihy do jednoho souboru a uložte/sdílejte jej, ale aktuálně nemáte nainstalované žádné knihy.",
-            "enabled": "Exportujte všechny své knihy do jednoho souboru a uložte/sdílejte jej."
-        }
-    },
+        "title": "Potvrzení smazání",
+        "message": "Opravdu chcete smazat všechny nainstalované knihy?",
+        "ariaLabel": "Potvrďte, zda chcete odstranit všechny nainstalované knihy"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "smazání se nezdařilo",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Rychlost řeči %{value} %",
         "shortDescription": "Vyberte rychlost hlasu, kterou bude používat \"AI Reader\"."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "mazání knih ...",
+        "label": "Odstranit všechny knihy",
+        "title": "Odstranit všechny knihy",
+        "ariaLabel": "Odstranit všechny knihy"
     },
     "parentalLocking": {
         "longDescription": "Je-li tato možnost povolena, jsou k odemknutí pokročilých funkcí v aplikaci vyžadována biometrická data vlastníků zařízení.",

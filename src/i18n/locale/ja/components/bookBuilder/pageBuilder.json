@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "ページテキストを再スキャンする",
-                "message": "画像のテキストをスキャンして、既存のページのテキストを置き換えてもよろしいですか?"
+                "message": "画像のテキストをスキャンして、既存のページのテキストを置き換えてもよろしいですか?",
+                "ariaLabel": "テキストの画像を再スキャンしたいことを確認してください"
             },
             "ariaLabel": "ページ %{pageNum} の画像からテキストを抽出します"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "ページのテキストは何ですか?",
                     "withPageText": "ページのテキストを何に変更しますか?"
                 },
-                "inputPlaceholder": "追加するテキスト"
+                "inputPlaceholder": "追加するテキスト",
+                "ariaLabel": {
+                    "noPageText": "ページテキストを指定します",
+                    "withPageText": "既存のページテキストを更新します"
+                }
             },
             "ariaLabel": "ページ %{pageNum} のテキスト「%{pageText}」を編集します"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "削除の確認",
-                "message": "このページのテキストを削除してもよろしいですか?"
+                "message": "このページのテキストを削除してもよろしいですか?",
+                "ariaLabel": "このページのテキストを削除することを確認してください"
             },
             "ariaLabel": "ページ %{pageNum} からテキスト「%{pageText}」を削除します"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "ページ %{pageNum} に追加するテキスト",
                 "title": "ページテキストの設定",
                 "message": "ページのテキストは何ですか?",
-                "inputPlaceholder": "追加するテキスト"
+                "inputPlaceholder": "追加するテキスト",
+                "ariaLabel": "%{pageNum}に追加する新しいテキストを指定します"
             },
             "ariaLabel": "新しいテキストをページ %{pageNum} に追加します"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "これにより、このページに記録されたすべてのページ音声が削除されます。",
             "additionalMessage2": "これは取り消しできません!",
             "title": "削除の確認",
-            "message": "ページ %{pageNum} を削除してもよろしいですか?"
+            "message": "ページ %{pageNum} を削除してもよろしいですか?",
+            "ariaLabel": "%{pageNum}を削除することを確認してください"
         },
         "ariaLabel": "ページ %{pageNum} を削除します"
     },

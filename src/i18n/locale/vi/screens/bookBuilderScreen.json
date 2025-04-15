@@ -21,7 +21,8 @@
                 },
                 "description": "Vui lòng cung cấp tên hiển thị cho người đọc mới này.",
                 "title": "Thêm trình đọc mới",
-                "inputPlaceholder": "tên người đọc"
+                "inputPlaceholder": "tên người đọc",
+                "ariaLabel": "Thêm một đầu đọc mới"
             },
             "ariaLabel": "thêm người đọc mới"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "Thay đổi nghỉ phép",
-        "message": "Bạn có chắc chắn muốn thoát trước khi lưu không?"
+        "message": "Bạn có chắc chắn muốn thoát trước khi lưu không?",
+        "ariaLabel": "Xác nhận rằng bạn muốn rời đi trước khi tiết kiệm"
     }},
     "pageChangeAudio": {
         "description": "Âm thanh sẽ phát khi đến lúc thay đổi trang.",

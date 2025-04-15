@@ -1,6 +1,7 @@
 {
     "confirmation": {
         "cancel": {
+            "ariaLabel": "confirm that you want to cancel the import",
             "title": "Confirm Cancel Import",
             "message": "Are you sure you want to cancel the import?",
 

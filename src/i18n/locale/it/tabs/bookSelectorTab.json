@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Sei sicuro di voler eliminare i %{count} libri selezionati?",
                                 "one": "Sei sicuro di voler eliminare il libro selezionato?"
+                            },
+                            "ariaLabel": {
+                                "other": "Conferma di voler eliminare i libri selezionati %{count}",
+                                "one": "Conferma di voler eliminare il libro selezionato"
                             }
                         },
                         "ariaLabel": "eliminare i libri selezionati"
@@ -118,6 +122,7 @@
     "title": "Angolo lettura",
     "confirmations": {"deleteBook": {
         "title": "Conferma di cancellazione",
-        "message": "Sei sicuro di voler eliminare il libro \"%{bookTitle}?\""
+        "message": "Sei sicuro di voler eliminare il libro \"%{bookTitle}?\"",
+        "ariaLabel": "Conferma di voler eliminare il libro \"%{bookTitle}\""
     }}
 }

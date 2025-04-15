@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "סרוק מחדש את טקסט העמוד",
-                "message": "האם אתה בטוח שברצונך לסרוק את התמונה לאיתור טקסט ולהחליף את טקסט העמוד הקיים שלך?"
+                "message": "האם אתה בטוח שברצונך לסרוק את התמונה לאיתור טקסט ולהחליף את טקסט העמוד הקיים שלך?",
+                "ariaLabel": "אשר שאתה רוצה לסרוק מחדש את התמונה לטקסט"
             },
             "ariaLabel": "חלץ טקסט מהתמונה עבור הדף %{pageNum}"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "מהו טקסט העמוד?",
                     "withPageText": "למה תרצה לשנות את טקסט העמוד?"
                 },
-                "inputPlaceholder": "טקסט להוספה"
+                "inputPlaceholder": "טקסט להוספה",
+                "ariaLabel": {
+                    "noPageText": "ציין את טקסט העמוד",
+                    "withPageText": "עדכן את טקסט העמוד הקיים"
+                }
             },
             "ariaLabel": "ערוך את הטקסט \"%{pageText}\" מהדף %{pageNum}"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "אישור מחיקה",
-                "message": "האם אתה בטוח שברצונך למחוק את טקסט הדף הזה?"
+                "message": "האם אתה בטוח שברצונך למחוק את טקסט הדף הזה?",
+                "ariaLabel": "אשר שאתה רוצה להסיר טקסט של דף זה"
             },
             "ariaLabel": "הסר את הטקסט \"%{pageText}\" מהדף %{pageNum}"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "טקסט להוספה לדף %{pageNum}",
                 "title": "הגדר טקסט עמוד",
                 "message": "מהו טקסט העמוד?",
-                "inputPlaceholder": "טקסט להוספה"
+                "inputPlaceholder": "טקסט להוספה",
+                "ariaLabel": "ציין את הטקסט החדש כדי להוסיף לדף %{pageNum}"
             },
             "ariaLabel": "הוסף טקסט חדש לדף %{pageNum}"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "פעולה זו תסיר את כל האודיו של הדף שהוקלט עבור הדף הזה.",
             "additionalMessage2": "לא ניתן לבטל את זה!",
             "title": "אישור מחיקה",
-            "message": "האם אתה בטוח שברצונך למחוק את הדף %{pageNum}?"
+            "message": "האם אתה בטוח שברצונך למחוק את הדף %{pageNum}?",
+            "ariaLabel": "אשר שאתה רוצה להסיר את העמוד %{pageNum}"
         },
         "ariaLabel": "הסר דף %{pageNum}"
     },

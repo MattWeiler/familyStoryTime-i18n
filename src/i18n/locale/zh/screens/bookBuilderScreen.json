@@ -21,7 +21,8 @@
                 },
                 "description": "请提供该新读者的显示名称。",
                 "title": "添加新读者",
-                "inputPlaceholder": "读者姓名"
+                "inputPlaceholder": "读者姓名",
+                "ariaLabel": "添加新读者"
             },
             "ariaLabel": "添加新读者"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "休假变更",
-        "message": "您确定要在保存之前离开吗？"
+        "message": "您确定要在保存之前离开吗？",
+        "ariaLabel": "确认您要在保存之前离开"
     }},
     "pageChangeAudio": {
         "description": "需要更改页面时播放的音频。",

@@ -16,6 +16,7 @@
         "ariaLabel": "install the available book %{bookName}",
 
         "confirmation": {
+            "ariaLabel": "confirm that you want to install the available book",
             "title": "Install Confirmation",
             "message": "Are you sure that you want to install this available book?\nDoing so will use %{fileSize} of data.",
             "yesButtonAriaLabel": "yes, install the available book",
@@ -27,6 +28,7 @@
         "ariaLabel": "uninstall the available book %{bookName}",
 
         "confirmation": {
+            "ariaLabel": "confirm that you want to uninstall the available book",
             "title": "Uninstall Confirmation",
             "message": "Are you sure that you want to uninstall this available book?\nAny audio tracks that you may have added will be lost.",
             "yesButtonAriaLabel": "yes, uninstall the available book",

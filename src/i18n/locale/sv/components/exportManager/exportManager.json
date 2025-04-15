@@ -19,24 +19,6 @@
         "packaging": "förpackning...",
         "cancelling": "avbryter..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "läsare",
-                    "ariaLabel": "exportera endast läsarinformationen för boken %{bookTitle}"
-                },
-                "full": {
-                    "label": "full",
-                    "ariaLabel": "exportera hela boken %{bookTitle}"
-                }
-            },
-            "ariaLabel": "välj hur boken ska exporteras %{bookTitle}"
-        },
-        "readers": {"checkbox": {"ariaLabel": "för att inkludera läsaren %{readerDisplayName} i exporten"}},
-        "checkbox": {"ariaLabel": "för att inkludera boken %{bookTitle} i exporten"},
-        "bookReadersTooltip": {"label": "Om du väljer alternativet \"läsare\" exporteras endast de valda läsarna.\n\n"}
-    },
     "packagedMultiBookFileName": "Böcker",
     "nothingToExport": "Inget att exportera :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "avbryta exporten"}
         },
         "title": "Bekräfta Avbryt export",
-        "message": "Är du säker på att du vill avbryta exporten?"
+        "message": "Är du säker på att du vill avbryta exporten?",
+        "ariaLabel": "Bekräfta att du vill avbryta importen"
     }},
     "titles": {
         "booksToExport": "Böcker att exportera",

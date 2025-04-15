@@ -21,7 +21,8 @@
                 },
                 "description": "Veuillez fournir le nom d'affichage de ce nouveau lecteur.",
                 "title": "Ajouter un nouveau lecteur",
-                "inputPlaceholder": "nom du lecteur"
+                "inputPlaceholder": "nom du lecteur",
+                "ariaLabel": "Ajouter un nouveau lecteur"
             },
             "ariaLabel": "ajouter un nouveau lecteur"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "Laisser les modifications",
-        "message": "Etes-vous sûr de vouloir quitter avant d'enregistrer ?"
+        "message": "Etes-vous sûr de vouloir quitter avant d'enregistrer ?",
+        "ariaLabel": "Confirmez que vous voulez partir avant d'économiser"
     }},
     "pageChangeAudio": {
         "description": "L'audio à jouer lorsqu'il est temps de changer de page.",

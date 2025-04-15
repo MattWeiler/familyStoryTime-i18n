@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "القراء",
+                "ariaLabel": "فقط تصدير معلومات القارئ للكتاب %{bookTitle}"
+            },
+            "full": {
+                "label": "ممتلىء",
+                "ariaLabel": "تصدير الكتاب بأكمله %{bookTitle}"
+            }
+        },
+        "ariaLabel": "حدد كيفية تصدير كتاب %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "لتضمين القارئ %{readerDisplayName} في التصدير"}},
+    "checkbox": {"ariaLabel": "لتضمين الكتاب %{bookTitle} في التصدير"},
+    "bookReadersTooltip": {"label": "سيؤدي تحديد خيار \"القراء\" إلى تصدير القراء المختارين فقط.\n\n"}
+}

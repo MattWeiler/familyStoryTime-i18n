@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Permission refusée",
-            "message": "Vous avez nié l'autorisation d'accéder à votre appareil photo."
+            "message": "Vous avez nié l'autorisation d'accéder à votre appareil photo.",
+            "ariaLabel": "L'autorisation a été refusée de prendre des photos avec votre appareil photo, soit accorder l'accès ou perdre la possibilité de le faire"
         },
         "browseImages": {
             "title": "Permission refusée",
-            "message": "Vous avez nié l'autorisation d'accéder à vos photos."
+            "message": "Vous avez nié l'autorisation d'accéder à vos photos.",
+            "ariaLabel": "L'autorisation a été refusée pour accéder à vos photos, soit accorder l'accès ou perdre la possibilité de le faire"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "fermer l'écran complet"}

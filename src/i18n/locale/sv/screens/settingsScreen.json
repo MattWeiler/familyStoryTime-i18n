@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "Detta tar bort alla böcker som är installerade på den här enheten.\n\n",
-        "button": {
-            "label": "Radera",
-            "title": "radera alla böcker",
-            "ariaLabel": "radera alla böcker"
-        },
-        "displayName": "Ta bort alla böcker",
-        "processingMessage": "raderar...",
+    "bookDataManagement": {
+        "longDescription": "Behöver du flytta dina böcker? ",
+        "displayName": "Bokdatahantering",
         "shortDescription": {
-            "disabled": "Ta bort alla dina böcker, men du har för närvarande inga böcker installerade.",
-            "enabled": "Ta bort alla dina böcker."
+            "disabled": "Du har inga böcker installerade ännu, men när du gör det kan du ta kontroll över ditt bibliotek - export eller ta bort böcker efter behov.",
+            "enabled": "Ta kontroll över ditt bibliotek - export eller ta bort böcker efter behov."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "Jonikoner",
                 "someIconsBy": "Ikoner av:",
                 "icons8": "Ikoner8",
-                "iconArchive": "Ikon Arkiv"
+                "iconArchive": "Ikon Arkiv",
+                "veryIcon": "Väldigt ikon"
             }
         },
         "version": "Version: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Enkel",
                 "ariaLabel": "använd enkel bildredigerare"
+            },
+            "beta": {
+                "label": "Beta",
+                "ariaLabel": "Använd Beta Image Editor"
             }
         },
         "shortDescription": "Välj vilken bildredigerare som ska användas.",
@@ -71,6 +70,11 @@
             "collapsed": "expandera avsnittet för val av ljud och video"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Exportera alla böcker",
+        "title": "Exportera alla böcker",
+        "ariaLabel": "Exportera alla böcker"
+    },
     "cameraImageQuality": {
         "longDescription": "Denna bildkvalitet kommer att användas när du tar bilder med enhetens kameror.",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "Inställningar",
     "confirmations": {"deleteAllBooks": {
-        "title": "Borttagningsbekräftelse",
-        "message": "Är du säker på att du vill ta bort alla installerade böcker?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "Detta kan vara användbart när du migrerar till en ny enhet eller lägger till dina böcker på flera enheter.",
-        "button": {
-            "label": "Exportera",
-            "title": "exportera alla böcker",
-            "ariaLabel": "exportera alla böcker"
+        "buttons": {
+            "no": {"ariaLabel": "Ta inte bort alla installerade böcker"},
+            "yes": {"ariaLabel": "Ja, ta bort alla installerade böcker"}
         },
-        "displayName": "Exportera alla böcker",
-        "shortDescription": {
-            "disabled": "Exportera alla dina böcker till en enda fil och spara/dela \u200b\u200bden, men du har för närvarande inga böcker installerade.",
-            "enabled": "Exportera alla dina böcker till en enda fil och spara/dela \u200b\u200bden."
-        }
-    },
+        "title": "Borttagningsbekräftelse",
+        "message": "Är du säker på att du vill ta bort alla installerade böcker?",
+        "ariaLabel": "Bekräfta om du vill ta bort alla installerade böcker"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "raderingen misslyckades",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Talhastighet %{value} %",
         "shortDescription": "Välj hastigheten på rösten som ska användas av \"AI Reader\"."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "Radera böcker ...",
+        "label": "Ta bort alla böcker",
+        "title": "ta bort alla böcker",
+        "ariaLabel": "ta bort alla böcker"
     },
     "parentalLocking": {
         "longDescription": "När det är aktiverat krävs biometrisk data från enhetens ägare för att låsa upp avancerade funktioner i applikationen.",

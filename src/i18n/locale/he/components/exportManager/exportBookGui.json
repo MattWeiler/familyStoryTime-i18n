@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "קוראים",
+                "ariaLabel": "רק ייצא את פרטי הקורא לספר %{bookTitle}"
+            },
+            "full": {
+                "label": "מָלֵא",
+                "ariaLabel": "ייצא את הספר כולו %{bookTitle}"
+            }
+        },
+        "ariaLabel": "בחר כיצד לייצא ספר %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "לכלול את הקורא %{readerDisplayName} ביצוא"}},
+    "checkbox": {"ariaLabel": "לכלול את הספר %{bookTitle} ביצוא"},
+    "bookReadersTooltip": {"label": "בחירת האפשרות \"קוראים\" תייצא רק את הקוראים שנבחרו.\n\n"}
+}

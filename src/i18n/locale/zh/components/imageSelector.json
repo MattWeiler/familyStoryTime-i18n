@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "没有权限",
-            "message": "您否认允许访问相机。"
+            "message": "您否认允许访问相机。",
+            "ariaLabel": "许可已被拒绝与您的相机拍照，要么授予访问权限或失去这样做的能力"
         },
         "browseImages": {
             "title": "没有权限",
-            "message": "您已否认访问照片的权限。"
+            "message": "您已否认访问照片的权限。",
+            "ariaLabel": "允许访问您的照片的许可，要么授予访问权限或失去这样做的能力"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "关闭全屏"}

@@ -21,7 +21,8 @@
                 },
                 "description": "Anna tämän uuden lukijan näyttönimi.",
                 "title": "Lisää uusi lukija",
-                "inputPlaceholder": "lukijan nimi"
+                "inputPlaceholder": "lukijan nimi",
+                "ariaLabel": "Lisää uusi lukija"
             },
             "ariaLabel": "lisää uusi lukija"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "Jätä muutokset",
-        "message": "Oletko varma, että haluat lähteä ennen tallentamista?"
+        "message": "Oletko varma, että haluat lähteä ennen tallentamista?",
+        "ariaLabel": "Varmista, että haluat lähteä ennen tallentamista"
     }},
     "pageChangeAudio": {
         "description": "Ääni, joka toistetaan, kun on aika vaihtaa sivua.",

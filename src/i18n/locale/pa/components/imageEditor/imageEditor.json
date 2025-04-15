@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "ਫਸਲ",
+        "ariaLabel": "ਫਸਲ ਮੋਡ ਤੇ ਜਾਓ"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "ਤਬਦੀਲੀਆਂ ਰੱਦ ਕਰੋ",
+        "rotation": "ਰੋਟੇਸ਼ਨ ਤਬਦੀਲੀਆਂ ਰੱਦ ਕਰੋ",
+        "perspectiveCrop": "ਪਰਿਪੇਖ ਫਸਲ ਤਬਦੀਲੀਆਂ ਰੱਦ ਕਰੋ",
+        "crop": "ਫਸਲਾਂ ਦੀਆਂ ਤਬਦੀਲੀਆਂ ਰੱਦ ਕਰੋ"
+    }},
+    "headerLabel": {
+        "default": "ਫੋਟੋ ਸੋਧੋ",
+        "rotation": "ਰੋਟੇਸ਼ਨ",
+        "perspectiveCrop": "ਪਰਿਪੇਖ ਫਸਲ",
+        "crop": "ਫਸਲ"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "ਤਬਦੀਲੀਆਂ ਰੱਦ ਨਾ ਕਰੋ ਅਤੇ ਚਿੱਤਰ ਸੰਪਾਦਕ ਤੇ ਵਾਪਸ ਜਾਓ"},
+        "discardButton": {
+            "label": "ਰੱਦ",
+            "ariaLabel": "ਤਬਦੀਲੀਆਂ ਰੱਦ ਕਰੋ ਅਤੇ ਚਿੱਤਰ ਸੰਪਾਦਕ ਨੂੰ ਬੰਦ ਕਰੋ"
+        },
+        "title": "ਤਬਦੀਲੀਆਂ ਰੱਦ ਕਰੋ",
+        "message": "ਕੀ ਤੁਹਾਨੂੰ ਯਕੀਨ ਹੈ ਕਿ ਤੁਸੀਂ ਤਬਦੀਲੀਆਂ ਰੱਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?",
+        "ariaLabel": "ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਤੁਸੀਂ ਕੋਈ ਤਬਦੀਲੀ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਜੋ ਤੁਸੀਂ ਸੰਪਾਦਿਤ ਕੀਤੇ ਚਿੱਤਰ ਨੂੰ ਕੀਤੇ ਹਨ"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "ਰੋਟੇਟ -90 ਡਿਗਰੀ"},
+        "saveButton": {
+            "label": "ਸੇਵ",
+            "ariaLabel": "ਰੋਟੇਸ਼ਨ ਨੂੰ ਬਚਾਓ"
+        },
+        "90PlusButton": {"ariaLabel": "+90 ਡਿਗਰੀ ਘੁੰਮਾਓ"},
+        "resetButton": {
+            "label": "ਰੀਸੈੱਟ",
+            "ariaLabel": "ਰੋਟੇਸ਼ਨ ਰੀਸੈਟ ਕਰੋ"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "ਹਰੀਜੱਟਲ ਫਲਿੱਪ ਕਰੋ",
+        "ariaLabel": "ਚਿੱਤਰ ਨੂੰ ਖਿਤਿਜੀ ਫਲਿੱਪ ਕਰੋ"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "ਚਿੱਤਰ ਨੂੰ ਮੁੜ ਲੋਡ ਨਾ ਕਰੋ"},
+        "title": "ਚਿੱਤਰ ਮੁੜ ਲੋਡ ਕਰੋ",
+        "message": "ਕੀ ਤੁਹਾਨੂੰ ਯਕੀਨ ਹੈ ਕਿ ਤੁਸੀਂ ਚਿੱਤਰ ਨੂੰ ਮੁੜ ਲੋਡ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?\n",
+        "initButton": {
+            "label": "ਮੁੜ ਲੋਡ ਕਰੋ",
+            "ariaLabel": "ਚਿੱਤਰ ਨੂੰ ਮੁੜ ਲੋਡ ਕਰੋ, ਬਣੀਆਂ ਸਾਰੀਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਗੁਆਉਣਾ"
+        },
+        "ariaLabel": "ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਤੁਸੀਂ ਚਿੱਤਰ ਨੂੰ ਮੁੜ ਮੁੜ ਚਾਲੂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਕੋਈ ਤਬਦੀਲੀ ਗੁਆਉਣਾ ਜੋ ਤੁਸੀਂ ਸੰਪਾਦਿਤ ਕੀਤੇ ਚਿੱਤਰ ਨੂੰ ਕੀਤੇ ਹਨ"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "ਸੇਵ",
+            "ariaLabel": "ਪਰਿਪੇਖ ਫਸਲ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ"
+        },
+        "resetButton": {
+            "label": "ਰੀਸੈੱਟ",
+            "ariaLabel": "ਪਰਿਪੇਖ ਫਸਲ ਨੂੰ ਰੀਸੈਟ ਕਰੋ"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "ਪਰਿਪੇਖ ਫਸਲ",
+        "ariaLabel": "ਪਰਸੋਲਕ ਮੋਡ ਤੇ ਜਾਓ"
+    },
+    "reloadButton": {
+        "label": "ਮੁੜ ਲੋਡ ਕਰੋ",
+        "ariaLabel": "ਚਿੱਤਰ ਤੋਂ ਚਿੱਤਰ ਨੂੰ ਮੁੜ ਲੋਡ ਕਰੋ"
+    },
+    "doneButton": {"ariaLabel": "ਤਬਦੀਲੀਆਂ ਸੰਭਾਲੋ"},
+    "rotationButton": {
+        "label": "ਘੁੰਮਾਓ",
+        "ariaLabel": "ਰੋਟੇਸ਼ਨ ਮੋਡ ਤੇ ਜਾਓ"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "ਸੇਵ",
+            "ariaLabel": "ਫਸਲ ਨੂੰ ਬਚਾਓ"
+        },
+        "resetButton": {
+            "label": "ਰੀਸੈੱਟ",
+            "ariaLabel": "ਫਸਲ ਨੂੰ ਰੀਸੈਟ ਕਰੋ"
+        }
+    }
+}

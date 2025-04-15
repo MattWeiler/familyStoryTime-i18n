@@ -19,24 +19,6 @@
         "packaging": "balení...",
         "cancelling": "zrušení..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "čtenáři",
-                    "ariaLabel": "pouze exportujte informace o čtení pro knihu %{bookTitle}"
-                },
-                "full": {
-                    "label": "plný",
-                    "ariaLabel": "Exportujte celou knihu %{bookTitle}"
-                }
-            },
-            "ariaLabel": "vyberte způsob exportu knihy %{bookTitle}"
-        },
-        "readers": {"checkbox": {"ariaLabel": "k zahrnutí čtečky %{readerDisplayName} do exportu"}},
-        "checkbox": {"ariaLabel": "k zahrnutí knihy %{bookTitle} do exportu"},
-        "bookReadersTooltip": {"label": "Výběrem možnosti \"čtenáři\" se exportují pouze vybrané čtenáře.\n\n"}
-    },
     "packagedMultiBookFileName": "knihy",
     "nothingToExport": "Není co exportovat :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "export zrušit"}
         },
         "title": "Potvrďte Zrušit export",
-        "message": "Opravdu chcete export zrušit?"
+        "message": "Opravdu chcete export zrušit?",
+        "ariaLabel": "Potvrďte, že chcete zrušit import"
     }},
     "titles": {
         "booksToExport": "Knihy k exportu",

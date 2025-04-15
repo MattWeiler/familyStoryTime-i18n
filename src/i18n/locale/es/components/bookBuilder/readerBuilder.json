@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "¿Está seguro de que desea eliminar el lector \"%{readerDisplayName}\"?",
                 "noDisplayName": "¿Estás seguro de que deseas eliminar este lector?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "confirmar que desea eliminar el lector \"%{readerDisplayName}\"",
+                "noDisplayName": "Confirme que desea eliminar este lector"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "¿A qué le gustaría cambiar el nombre para mostrar de este lector?",
                 "noDisplayName": "¿Cuál es el nombre para mostrar de este lector?"
             },
-            "inputPlaceholder": "nombre del lector"
+            "inputPlaceholder": "nombre del lector",
+            "ariaLabel": {
+                "withDisplayName": "Actualizar el nombre de la pantalla existente",
+                "noDisplayName": "especificar el nuevo nombre de la pantalla"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "cambiar el nombre para mostrar del lector %{readerDisplayName}",

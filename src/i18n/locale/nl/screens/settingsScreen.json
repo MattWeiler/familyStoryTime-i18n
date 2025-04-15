@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "Hiermee worden alle boeken verwijderd die op dit apparaat zijn geïnstalleerd.\n\n",
-        "button": {
-            "label": "Verwijderen",
-            "title": "verwijder alle boeken",
-            "ariaLabel": "verwijder alle boeken"
-        },
-        "displayName": "Verwijder alle boeken",
-        "processingMessage": "verwijderen...",
+    "bookDataManagement": {
+        "longDescription": "Wilt u uw boeken verplaatsen? ",
+        "displayName": "Boek gegevensbeheer",
         "shortDescription": {
-            "disabled": "Verwijder al uw boeken, maar er zijn momenteel geen boeken geïnstalleerd.",
-            "enabled": "Verwijder al uw boeken."
+            "disabled": "U hebt nog geen boeken geïnstalleerd, maar zodra u dat doet, kunt u de controle over uw bibliotheek nemen - exporteren of boeken verwijderen indien nodig.",
+            "enabled": "Neem de controle over uw bibliotheek - export of verwijder indien nodig boeken."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "IonIconen",
                 "someIconsBy": "Iconen door:",
                 "icons8": "Pictogrammen8",
-                "iconArchive": "Icoonarchief"
+                "iconArchive": "Icoonarchief",
+                "veryIcon": "Zeer icoon"
             }
         },
         "version": "Versie: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Eenvoudig",
                 "ariaLabel": "gebruik een eenvoudige afbeeldingseditor"
+            },
+            "beta": {
+                "label": "Bèta",
+                "ariaLabel": "Gebruik de Beta Image Editor"
             }
         },
         "shortDescription": "Selecteer welke afbeeldingseditor moet worden gebruikt.",
@@ -71,6 +70,11 @@
             "collapsed": "vouw het gedeelte voor audio-videoselectie uit"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Exporteer alle boeken",
+        "title": "Exporteer alle boeken",
+        "ariaLabel": "Exporteer alle boeken"
+    },
     "cameraImageQuality": {
         "longDescription": "Deze beeldkwaliteit wordt gebruikt bij het maken van foto's met de camera('s) van het apparaat.",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "Instellingen",
     "confirmations": {"deleteAllBooks": {
-        "title": "Bevestiging van verwijdering",
-        "message": "Weet u zeker dat u alle geïnstalleerde boeken wilt verwijderen?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "Dit kan handig zijn als u naar een nieuw apparaat migreert of uw boeken aan meerdere apparaten toevoegt.",
-        "button": {
-            "label": "Exporteren",
-            "title": "exporteer alle boeken",
-            "ariaLabel": "exporteer alle boeken"
+        "buttons": {
+            "no": {"ariaLabel": "Verwijder niet alle geïnstalleerde boeken"},
+            "yes": {"ariaLabel": "Ja, verwijder alle geïnstalleerde boeken"}
         },
-        "displayName": "Exporteer alle boeken",
-        "shortDescription": {
-            "disabled": "Exporteer al uw boeken naar één bestand en sla het op/deel het, maar er zijn momenteel geen boeken geïnstalleerd.",
-            "enabled": "Exporteer al uw boeken naar één bestand en sla het op/deel het."
-        }
-    },
+        "title": "Bevestiging van verwijdering",
+        "message": "Weet u zeker dat u alle geïnstalleerde boeken wilt verwijderen?",
+        "ariaLabel": "Bevestig of u alle geïnstalleerde boeken wilt verwijderen"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "verwijderen is mislukt",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Spraaksnelheid %{value}%",
         "shortDescription": "Selecteer de snelheid van de stem die door de \"AI Reader\" moet worden gebruikt."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "Boeken verwijderen ...",
+        "label": "Verwijder alle boeken",
+        "title": "Verwijder alle boeken",
+        "ariaLabel": "Verwijder alle boeken"
     },
     "parentalLocking": {
         "longDescription": "Indien ingeschakeld, zijn biometrische gegevens van de apparaateigenaar vereist om geavanceerde functies in de applicatie te ontgrendelen.",

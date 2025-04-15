@@ -66,7 +66,8 @@
             "yes": {"ariaLabel": "avbryta importen"}
         },
         "title": "Bekräfta Avbryt import",
-        "message": "Är du säker på att du vill avbryta importen?"
+        "message": "Är du säker på att du vill avbryta importen?",
+        "ariaLabel": "Bekräfta att du vill avbryta importen"
     }},
     "titles": {
         "booksToInstall": "Böcker att installera",

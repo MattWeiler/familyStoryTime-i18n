@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Haluatko varmasti poistaa \"%{readerDisplayName}\" -lukijan?",
                 "noDisplayName": "Haluatko varmasti poistaa tämän lukijan?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Varmista, että haluat poistaa \"%{readerDisplayName}\" lukija",
+                "noDisplayName": "Varmista, että haluat poistaa tämän lukijan"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "Mihin haluaisit muuttaa tämän lukijoiden näyttönimen?",
                 "noDisplayName": "Mikä on tämän lukijan näyttönimi?"
             },
-            "inputPlaceholder": "lukijan nimi"
+            "inputPlaceholder": "lukijan nimi",
+            "ariaLabel": {
+                "withDisplayName": "Päivitä nykyinen näytönimi",
+                "noDisplayName": "Määritä uusi näytönimi"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "muuta näyttönimi lukijalle %{readerDisplayName}",

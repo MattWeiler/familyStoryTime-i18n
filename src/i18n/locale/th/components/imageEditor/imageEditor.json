@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "พืชผล",
+        "ariaLabel": "เปลี่ยนเป็นโหมดการครอบตัด"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "ทิ้งการเปลี่ยนแปลง",
+        "rotation": "ยกเลิกการเปลี่ยนแปลงการหมุนเวียน",
+        "perspectiveCrop": "ทิ้งการเปลี่ยนแปลงการครอบตัดมุมมอง",
+        "crop": "ทิ้งการเปลี่ยนแปลงการครอบตัด"
+    }},
+    "headerLabel": {
+        "default": "แก้ไขรูปภาพ",
+        "rotation": "การหมุน",
+        "perspectiveCrop": "พืชมุมมอง",
+        "crop": "พืชผล"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "อย่าละทิ้งการเปลี่ยนแปลงและกลับไปที่ตัวแก้ไขรูปภาพ"},
+        "discardButton": {
+            "label": "ทิ้ง",
+            "ariaLabel": "ยกเลิกการเปลี่ยนแปลงและปิดตัวแก้ไขภาพ"
+        },
+        "title": "ทิ้งการเปลี่ยนแปลง",
+        "message": "แน่ใจหรือว่าคุณต้องการยกเลิกการเปลี่ยนแปลง?",
+        "ariaLabel": "ยืนยันว่าคุณต้องการยกเลิกการเปลี่ยนแปลงใด ๆ ที่คุณทำกับภาพที่ถูกแก้ไข"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "หมุน -90 องศา"},
+        "saveButton": {
+            "label": "บันทึก",
+            "ariaLabel": "บันทึกการหมุน"
+        },
+        "90PlusButton": {"ariaLabel": "หมุน +90 องศา"},
+        "resetButton": {
+            "label": "รีเซ็ต",
+            "ariaLabel": "รีเซ็ตการหมุน"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "พลิกแนวนอน",
+        "ariaLabel": "พลิกภาพในแนวนอน"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "อย่าโหลดภาพใหม่"},
+        "title": "โหลดภาพใหม่",
+        "message": "แน่ใจหรือว่าต้องการโหลดภาพใหม่?\n",
+        "initButton": {
+            "label": "โหลดใหม่",
+            "ariaLabel": "โหลดภาพซ้ำการเปลี่ยนแปลงการเปลี่ยนแปลงทั้งหมดที่เกิดขึ้น"
+        },
+        "ariaLabel": "ยืนยันว่าคุณต้องการโหลดภาพซ้ำการสูญเสียการเปลี่ยนแปลงใด ๆ ที่คุณทำกับภาพที่ถูกแก้ไข"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "บันทึก",
+            "ariaLabel": "บันทึกการครอบตัดมุมมอง"
+        },
+        "resetButton": {
+            "label": "รีเซ็ต",
+            "ariaLabel": "รีเซ็ตการครอบตัดมุมมอง"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "พืชมุมมอง",
+        "ariaLabel": "เปลี่ยนไปใช้โหมดการครอบตัดมุมมอง"
+    },
+    "reloadButton": {
+        "label": "โหลดใหม่",
+        "ariaLabel": "โหลดภาพใหม่จากแหล่งที่มา"
+    },
+    "doneButton": {"ariaLabel": "บันทึกการเปลี่ยนแปลง"},
+    "rotationButton": {
+        "label": "หมุน",
+        "ariaLabel": "เปลี่ยนเป็นโหมดการหมุน"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "บันทึก",
+            "ariaLabel": "บันทึกพืชผล"
+        },
+        "resetButton": {
+            "label": "รีเซ็ต",
+            "ariaLabel": "รีเซ็ตพืชผล"
+        }
+    }
+}

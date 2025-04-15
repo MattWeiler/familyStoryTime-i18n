@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "読者",
+                "ariaLabel": "book %{bookTitle}の読者情報のみをエクスポートする"
+            },
+            "full": {
+                "label": "満杯",
+                "ariaLabel": "本全体をエクスポート%{bookTitle}"
+            }
+        },
+        "ariaLabel": "book %{bookTitle}のエクスポート方法を選択します"
+    },
+    "readers": {"checkbox": {"ariaLabel": "エクスポートにReader %{readerDisplayName}を含める"}},
+    "checkbox": {"ariaLabel": "エクスポートに本%{bookTitle}を含める"},
+    "bookReadersTooltip": {"label": "「読者」オプションを選択すると、選択した読者のみがエクスポートされます。\n\n"}
+}

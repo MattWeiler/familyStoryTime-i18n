@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Er du sikker på at du vil slette de %{count} valgte bøkene?",
                                 "one": "Er du sikker på at du vil slette den valgte boken?"
+                            },
+                            "ariaLabel": {
+                                "other": "Bekreft at du vil slette de valgte %{count} bøkene",
+                                "one": "Bekreft at du vil slette den valgte boken"
                             }
                         },
                         "ariaLabel": "slette de valgte bøkene"
@@ -118,6 +122,7 @@
     "title": "Lesehjørne",
     "confirmations": {"deleteBook": {
         "title": "Bekreftelse på sletting",
-        "message": "Er du sikker på at du vil slette boken \"%{bookTitle}?\""
+        "message": "Er du sikker på at du vil slette boken \"%{bookTitle}?\"",
+        "ariaLabel": "Bekreft at du vil slette boka \"%{bookTitle}\""
     }}
 }

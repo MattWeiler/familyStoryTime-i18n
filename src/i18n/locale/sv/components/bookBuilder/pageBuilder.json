@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Skanna sidtext igen",
-                "message": "Är du säker på att du vill skanna bilden efter text och ersätta din befintliga sidtext?"
+                "message": "Är du säker på att du vill skanna bilden efter text och ersätta din befintliga sidtext?",
+                "ariaLabel": "Bekräfta att du vill skanka på bilden för text"
             },
             "ariaLabel": "extrahera text från bild för sidan %{pageNum}"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Vad är sidtexten?",
                     "withPageText": "Vad vill du ändra sidtexten till?"
                 },
-                "inputPlaceholder": "text att lägga till"
+                "inputPlaceholder": "text att lägga till",
+                "ariaLabel": {
+                    "noPageText": "Ange sidtexten",
+                    "withPageText": "Uppdatera den befintliga sidtexten"
+                }
             },
             "ariaLabel": "redigera texten \"%{pageText}\" från sidan %{pageNum}"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Borttagningsbekräftelse",
-                "message": "Är du säker på att du vill ta bort den här sidtexten?"
+                "message": "Är du säker på att du vill ta bort den här sidtexten?",
+                "ariaLabel": "Bekräfta att du vill ta bort den här sidtexten"
             },
             "ariaLabel": "ta bort texten \"%{pageText}\" från sidan %{pageNum}"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "text att lägga till på sidan %{pageNum}",
                 "title": "Ställ in sidtext",
                 "message": "Vad är sidtexten?",
-                "inputPlaceholder": "text att lägga till"
+                "inputPlaceholder": "text att lägga till",
+                "ariaLabel": "Ange den nya texten för att lägga till på sidan %{pageNum}"
             },
             "ariaLabel": "lägg till ny text på sidan %{pageNum}"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "Detta tar bort allt sidljud som spelats in för den här sidan.",
             "additionalMessage2": "DETTA KAN INTE ÅNGRAS!",
             "title": "Borttagningsbekräftelse",
-            "message": "Är du säker på att du vill ta bort sidan %{pageNum}?"
+            "message": "Är du säker på att du vill ta bort sidan %{pageNum}?",
+            "ariaLabel": "Bekräfta att du vill ta bort sidan %{pageNum}"
         },
         "ariaLabel": "ta bort sida %{pageNum}"
     },

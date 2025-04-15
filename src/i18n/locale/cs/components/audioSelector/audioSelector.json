@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Jasné potvrzení",
-            "message": "Jste si jisti, že chcete vymazat vybraný zvuk?"
+            "message": "Jste si jisti, že chcete vymazat vybraný zvuk?",
+            "ariaLabel": "Potvrďte, že chcete vyčistit vybraný zvuk"
         },
         "ariaLabel": "Vymažte vybraný zvuk %{audioDisplayName}"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "Ne, zůstaňte a pokračujte v úpravách",
                 "yes": "Ano, zlikvidujte úpravy"
-            }
+            },
+            "ariaLabel": "Potvrďte, zda chcete zahodit jakékoli úpravy, které jste provedli"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "Povolení odepřeno",
-        "message": "Odmítli jste povolení k přístupu k mikrofonu."
+        "message": "Odmítli jste povolení k přístupu k mikrofonu.",
+        "ariaLabel": "Odmítli jste povolení k přístupu k mikrofonu"
     }}
 }

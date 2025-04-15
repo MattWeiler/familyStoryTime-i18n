@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Raccolto",
+        "ariaLabel": "Passa alla modalità di raccolta"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "scartare i cambiamenti",
+        "rotation": "scartare i cambiamenti di rotazione",
+        "perspectiveCrop": "Scartare i cambiamenti del raccolto prospettico",
+        "crop": "scartare i cambiamenti delle colture"
+    }},
+    "headerLabel": {
+        "default": "Modifica foto",
+        "rotation": "Rotazione",
+        "perspectiveCrop": "Coltura prospettica",
+        "crop": "Raccolto"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Non scartare le modifiche e tornare all'editor di immagini"},
+        "discardButton": {
+            "label": "Scartare",
+            "ariaLabel": "Scartare le modifiche e chiudere l'editor di immagini"
+        },
+        "title": "Scartare i cambiamenti",
+        "message": "Sei sicuro di voler scartare i cambiamenti?",
+        "ariaLabel": "Conferma di voler eliminare eventuali modifiche che hai apportato all'immagine da modificare"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "Ruotare -90 gradi"},
+        "saveButton": {
+            "label": "Salva",
+            "ariaLabel": "Salva la rotazione"
+        },
+        "90PlusButton": {"ariaLabel": "Ruotare +90 gradi"},
+        "resetButton": {
+            "label": "Reset",
+            "ariaLabel": "Ripristina la rotazione"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Capovolgi orizzontale",
+        "ariaLabel": "capovolgi l'immagine in orizzontale"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Non ricaricare l'immagine"},
+        "title": "Ricarica immagine",
+        "message": "Sei sicuro di voler ricaricare l'immagine?\n",
+        "initButton": {
+            "label": "Ricaricare",
+            "ariaLabel": "Ricarica l'immagine, perdendo tutte le modifiche apportate"
+        },
+        "ariaLabel": "Conferma di voler ricaricare l'immagine, perdendo eventuali modifiche che hai apportato all'immagine da modificare"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Salva",
+            "ariaLabel": "Salva il raccolto prospettico"
+        },
+        "resetButton": {
+            "label": "Reset",
+            "ariaLabel": "Ripristina il raccolto prospettico"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Coltura prospettica",
+        "ariaLabel": "Passa alla modalità di raccolta prospettica"
+    },
+    "reloadButton": {
+        "label": "Ricaricare",
+        "ariaLabel": "Ricarica l'immagine dalla sorgente"
+    },
+    "doneButton": {"ariaLabel": "Salva le modifiche"},
+    "rotationButton": {
+        "label": "Ruotare",
+        "ariaLabel": "Passa alla modalità di rotazione"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Salva",
+            "ariaLabel": "Salva il raccolto"
+        },
+        "resetButton": {
+            "label": "Reset",
+            "ariaLabel": "Ripristina il raccolto"
+        }
+    }
+}

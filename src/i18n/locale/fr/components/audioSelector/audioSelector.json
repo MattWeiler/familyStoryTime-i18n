@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Confirmation claire",
-            "message": "Êtes-vous sûr de vouloir effacer l'audio sélectionné?"
+            "message": "Êtes-vous sûr de vouloir effacer l'audio sélectionné?",
+            "ariaLabel": "Confirmez que vous souhaitez effacer l'audio sélectionné"
         },
         "ariaLabel": "Effacer l'audio %{audioDisplayName} sélectionné"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "Non, restez et continuez d'édition",
                 "yes": "Oui, jetez les modifications"
-            }
+            },
+            "ariaLabel": "Confirmez si vous souhaitez éliminer les modifications que vous avez faites"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "Permission refusée",
-        "message": "Vous avez nié l'autorisation d'accéder à votre microphone."
+        "message": "Vous avez nié l'autorisation d'accéder à votre microphone.",
+        "ariaLabel": "Vous avez nié l'autorisation d'accéder à votre microphone"
     }}
 }

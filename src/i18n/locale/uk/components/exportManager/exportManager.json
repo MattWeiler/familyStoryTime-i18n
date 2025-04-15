@@ -19,24 +19,6 @@
         "packaging": "упаковка...",
         "cancelling": "скасування..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "читачі",
-                    "ariaLabel": "експортувати інформацію про читача лише для книги %{bookTitle}"
-                },
-                "full": {
-                    "label": "повний",
-                    "ariaLabel": "експортувати всю книгу %{bookTitle}"
-                }
-            },
-            "ariaLabel": "вибрати спосіб експорту книги %{bookTitle}"
-        },
-        "readers": {"checkbox": {"ariaLabel": "щоб включити зчитувач %{readerDisplayName} до експорту"}},
-        "checkbox": {"ariaLabel": "щоб включити книгу %{bookTitle} в експорт"},
-        "bookReadersTooltip": {"label": "Вибір опції «зчитувачі» експортує лише вибрані зчитувачі.\n\n"}
-    },
     "packagedMultiBookFileName": "Книги",
     "nothingToExport": "Нічого для експорту :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "скасувати експорт"}
         },
         "title": "Підтвердьте скасування експорту",
-        "message": "Ви впевнені, що хочете скасувати експорт?"
+        "message": "Ви впевнені, що хочете скасувати експорт?",
+        "ariaLabel": "підтвердити, що ви хочете скасувати імпорт"
     }},
     "titles": {
         "booksToExport": "Книги для експорту",

@@ -30,6 +30,7 @@
 
     "confirmations": {
         "deleteBook": {
+            "ariaLabel": "confirm that you want to delete the book \"%{bookTitle}\"",
             "title": "Deletion Confirmation",
             "message": "Are you sure you want to delete the book \"%{bookTitle}?\""
         }
@@ -98,7 +99,12 @@
                         "ariaLabel": "delete the selected books",
 
                         "confirmation": {
+                            "ariaLabel": {
+                                "one": "confirm that you want to delete the selected book",
+                                "other": "confirm that you want to delete the selected %{count} books"
+                            },
                             "title": "Confirm Deletion",
+
                             "message": {
                                 "one": "Are you sure that you want to delete the selected book?",
                                 "other": "Are you sure that you want to delete the %{count} selected books?"

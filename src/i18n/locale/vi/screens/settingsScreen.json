@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "Thao tác này sẽ xóa tất cả sách được cài đặt trên thiết bị này.\n\n",
-        "button": {
-            "label": "Xóa bỏ",
-            "title": "xóa tất cả sách",
-            "ariaLabel": "xóa tất cả sách"
-        },
-        "displayName": "Xóa tất cả sách",
-        "processingMessage": "xóa ...",
+    "bookDataManagement": {
+        "longDescription": "Cần di chuyển sách của bạn? ",
+        "displayName": "Quản lý dữ liệu sách",
         "shortDescription": {
-            "disabled": "Xóa tất cả sách của bạn nhưng hiện tại bạn chưa cài đặt bất kỳ cuốn sách nào.",
-            "enabled": "Xóa tất cả sách của bạn."
+            "disabled": "Bạn chưa có sách nào được cài đặt, nhưng một khi bạn làm, bạn có thể kiểm soát thư viện của mình xuất khẩu hoặc xóa sách khi cần thiết.",
+            "enabled": "Kiểm soát thư viện của bạn xuất khẩu hoặc xóa sách khi cần thiết."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "IonBiểu tượng",
                 "someIconsBy": "Biểu tượng bởi:",
                 "icons8": "Biểu tượng8",
-                "iconArchive": "Lưu trữ biểu tượng"
+                "iconArchive": "Lưu trữ biểu tượng",
+                "veryIcon": "Rất biểu tượng"
             }
         },
         "version": "Phiên bản: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Đơn giản",
                 "ariaLabel": "sử dụng trình chỉnh sửa hình ảnh đơn giản"
+            },
+            "beta": {
+                "label": "Beta",
+                "ariaLabel": "Sử dụng Trình chỉnh sửa hình ảnh Beta"
             }
         },
         "shortDescription": "Chọn trình chỉnh sửa hình ảnh nào sẽ được sử dụng.",
@@ -71,6 +70,11 @@
             "collapsed": "mở rộng phần lựa chọn video âm thanh"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Xuất tất cả sách",
+        "title": "Xuất tất cả sách",
+        "ariaLabel": "Xuất tất cả sách"
+    },
     "cameraImageQuality": {
         "longDescription": "Chất lượng hình ảnh này sẽ được sử dụng khi chụp ảnh bằng (các) camera của thiết bị.",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "Cài đặt",
     "confirmations": {"deleteAllBooks": {
-        "title": "Xác nhận xóa",
-        "message": "Bạn có chắc chắn muốn xóa tất cả sách đã cài đặt không?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "Điều này có thể hữu ích khi di chuyển sang thiết bị mới hoặc thêm sách của bạn vào nhiều thiết bị.",
-        "button": {
-            "label": "Xuất khẩu",
-            "title": "xuất tất cả sách",
-            "ariaLabel": "xuất tất cả sách"
+        "buttons": {
+            "no": {"ariaLabel": "Không xóa tất cả các sách đã cài đặt"},
+            "yes": {"ariaLabel": "Có, xóa tất cả các sách đã cài đặt"}
         },
-        "displayName": "Xuất tất cả sách",
-        "shortDescription": {
-            "disabled": "Xuất tất cả sách của bạn sang một tệp duy nhất và lưu/chia sẻ nó, nhưng hiện tại bạn chưa cài đặt bất kỳ cuốn sách nào.",
-            "enabled": "Xuất tất cả sách của bạn sang một tệp duy nhất và lưu/chia sẻ nó."
-        }
-    },
+        "title": "Xác nhận xóa",
+        "message": "Bạn có chắc chắn muốn xóa tất cả sách đã cài đặt không?",
+        "ariaLabel": "Xác nhận nếu bạn muốn xóa tất cả các sách đã cài đặt"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "xóa không thành công",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Tốc độ nói %{value}%",
         "shortDescription": "Chọn tốc độ giọng nói sẽ được \"AI Reader\" sử dụng."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "Xóa sách ...",
+        "label": "Xóa tất cả các cuốn sách",
+        "title": "Xóa tất cả các cuốn sách",
+        "ariaLabel": "Xóa tất cả các cuốn sách"
     },
     "parentalLocking": {
         "longDescription": "Khi được bật, dữ liệu sinh trắc học của chủ sở hữu thiết bị được yêu cầu để mở khóa các tính năng nâng cao trong ứng dụng.",

@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Dozvola odbijena",
-            "message": "Odbili ste dozvolu za pristup fotoaparatu."
+            "message": "Odbili ste dozvolu za pristup fotoaparatu.",
+            "ariaLabel": "Dozvola je odbijena da slika sa vašim kamerom, ili dajte pristup ili izgubite sposobnost da to učinite"
         },
         "browseImages": {
             "title": "Dozvola odbijena",
-            "message": "Odbili ste dozvolu za pristup svojim fotografijama."
+            "message": "Odbili ste dozvolu za pristup svojim fotografijama.",
+            "ariaLabel": "Dozvola je uskraćena za pristup vašim fotografijama, ili dajte pristup ili izgubite sposobnost da to učinite"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Zatvorite puni ekran"}

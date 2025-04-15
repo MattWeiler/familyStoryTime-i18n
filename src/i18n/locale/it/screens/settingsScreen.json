@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "Questa operazione eliminerà tutti i libri installati su questo dispositivo.\n\n",
-        "button": {
-            "label": "Eliminare",
-            "title": "eliminare tutti i libri",
-            "ariaLabel": "eliminare tutti i libri"
-        },
-        "displayName": "Elimina tutti i libri",
-        "processingMessage": "eliminando...",
+    "bookDataManagement": {
+        "longDescription": "Hai bisogno di spostare i tuoi libri? ",
+        "displayName": "Gestione dei dati dei libri",
         "shortDescription": {
-            "disabled": "Elimina tutti i tuoi libri, ma al momento non ne hai installato alcuno.",
-            "enabled": "Elimina tutti i tuoi libri."
+            "disabled": "Non hai ancora libri installati, ma una volta che lo fai, puoi prendere il controllo della tua biblioteca: esportare o rimuovere libri secondo necessità.",
+            "enabled": "Prendi il controllo della tua biblioteca: esporta o rimuovi i libri secondo necessità."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "Icone di ioni",
                 "someIconsBy": "Icone di:",
                 "icons8": "Icone8",
-                "iconArchive": "Archivio di icone"
+                "iconArchive": "Archivio di icone",
+                "veryIcon": "Molto icona"
             }
         },
         "version": "Versione: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Semplice",
                 "ariaLabel": "utilizzare un semplice editor di immagini"
+            },
+            "beta": {
+                "label": "Beta",
+                "ariaLabel": "Usa l'editor di immagini beta"
             }
         },
         "shortDescription": "Seleziona quale editor di immagini deve essere utilizzato.",
@@ -71,6 +70,11 @@
             "collapsed": "espandere la sezione di selezione audio video"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Esporta tutti i libri",
+        "title": "esporta tutti i libri",
+        "ariaLabel": "esporta tutti i libri"
+    },
     "cameraImageQuality": {
         "longDescription": "Questa qualità dell'immagine verrà utilizzata quando si scattano foto con le fotocamere del dispositivo.",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "Impostazioni",
     "confirmations": {"deleteAllBooks": {
-        "title": "Conferma di cancellazione",
-        "message": "Sei sicuro di voler eliminare tutti i libri installati?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "Ciò può essere utile durante la migrazione a un nuovo dispositivo o l'aggiunta dei tuoi libri a più dispositivi.",
-        "button": {
-            "label": "Esportare",
-            "title": "esportare tutti i libri",
-            "ariaLabel": "esportare tutti i libri"
+        "buttons": {
+            "no": {"ariaLabel": "Non eliminare tutti i libri installati"},
+            "yes": {"ariaLabel": "Sì, elimina tutti i libri installati"}
         },
-        "displayName": "Esporta tutti i libri",
-        "shortDescription": {
-            "disabled": "Esporta tutti i tuoi libri in un singolo file e salvalo/condividi, ma al momento non hai nessun libro installato.",
-            "enabled": "Esporta tutti i tuoi libri in un unico file e salvalo/condividilo."
-        }
-    },
+        "title": "Conferma di cancellazione",
+        "message": "Sei sicuro di voler eliminare tutti i libri installati?",
+        "ariaLabel": "Conferma se si desidera eliminare tutti i libri installati"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "eliminazione non riuscita",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Velocità di parola %{value}%",
         "shortDescription": "Selezionare la velocità della voce che verrà utilizzata da \"AI Reader\"."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "Eliminazione di libri ...",
+        "label": "Elimina tutti i libri",
+        "title": "Elimina tutti i libri",
+        "ariaLabel": "Elimina tutti i libri"
     },
     "parentalLocking": {
         "longDescription": "Se abilitati, sono necessari i dati biometrici del proprietario del dispositivo per sbloccare funzionalità avanzate nell'applicazione.",

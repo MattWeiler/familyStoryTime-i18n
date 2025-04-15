@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Tem certeza de que deseja excluir os %{count} livros selecionados?",
                                 "one": "Tem certeza de que deseja excluir o livro selecionado?"
+                            },
+                            "ariaLabel": {
+                                "other": "Confirme que deseja excluir os livros selecionados %{count}",
+                                "one": "Confirme que deseja excluir o livro selecionado"
                             }
                         },
                         "ariaLabel": "excluir os livros selecionados"
@@ -118,6 +122,7 @@
     "title": "Canto de leitura",
     "confirmations": {"deleteBook": {
         "title": "Confirmação de exclusão",
-        "message": "Tem certeza de que deseja excluir o livro \"%{bookTitle}?\""
+        "message": "Tem certeza de que deseja excluir o livro \"%{bookTitle}?\"",
+        "ariaLabel": "Confirme que deseja excluir o livro \"%{bookTitle}\""
     }}
 }

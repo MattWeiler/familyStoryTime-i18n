@@ -4,7 +4,8 @@
             "noButtonAriaLabel": "nem, ne távolítsa el az Elérhető könyvet",
             "yesButtonAriaLabel": "igen, távolítsa el az elérhető könyvet",
             "title": "Eltávolítás megerősítése",
-            "message": "Biztos benne, hogy el kívánja távolítani ezt az elérhető könyvet?\n"
+            "message": "Biztos benne, hogy el kívánja távolítani ezt az elérhető könyvet?\n",
+            "ariaLabel": "Erősítse meg, hogy el akarja távolítani a rendelkezésre álló könyvet"
         },
         "ariaLabel": "távolítsa el az elérhető könyvet %{bookName}"
     },
@@ -20,7 +21,8 @@
             "noButtonAriaLabel": "nem, ne telepítse a rendelkezésre álló könyvet",
             "yesButtonAriaLabel": "igen, telepítse a rendelkezésre álló könyvet",
             "title": "Telepítés megerősítése",
-            "message": "Biztos benne, hogy telepíteni kívánja ezt a rendelkezésre álló könyvet?\nHa ezt megteszi, akkor az adatmennyiség %{fileSize} lesz."
+            "message": "Biztos benne, hogy telepíteni kívánja ezt a rendelkezésre álló könyvet?\nHa ezt megteszi, akkor az adatmennyiség %{fileSize} lesz.",
+            "ariaLabel": "Erősítse meg, hogy telepíteni szeretné -e a rendelkezésre álló könyvet"
         },
         "ariaLabel": "telepítse az elérhető könyvet %{bookName}"
     }

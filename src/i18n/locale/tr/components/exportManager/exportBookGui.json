@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "okuyucular",
+                "ariaLabel": "Yalnızca %{bookTitle} kitap için okuyucu bilgilerini dışa aktarın"
+            },
+            "full": {
+                "label": "tam dolu",
+                "ariaLabel": "%{bookTitle} kitabının tamamını dışa aktarın"
+            }
+        },
+        "ariaLabel": "%{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "%{readerDisplayName} okuyucusunu dışa aktara dahil etmek için"}},
+    "checkbox": {"ariaLabel": "Dışa aktara %{bookTitle} kitabını eklemek için"},
+    "bookReadersTooltip": {"label": "\"Okuyucular\" seçeneğini seçmek yalnızca seçilen okuyucuları dışa aktarır.\n\n"}
+}

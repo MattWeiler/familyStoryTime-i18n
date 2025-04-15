@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Klare Bestätigung",
-            "message": "Sind Sie sicher, dass Sie das ausgewählte Audio löschen möchten?"
+            "message": "Sind Sie sicher, dass Sie das ausgewählte Audio löschen möchten?",
+            "ariaLabel": "Bestätigen Sie, dass Sie das ausgewählte Audio löschen möchten"
         },
         "ariaLabel": "Löschen Sie das ausgewählte Audio %{audioDisplayName}"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "Nein, bleib und weiter bearbeitet",
                 "yes": "Ja, Verwerfen von Bearbeitungen"
-            }
+            },
+            "ariaLabel": "Bestätigen Sie, ob Sie alle von Ihnen vorgenommenen Änderungen verwerfen möchten"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "Zugriff verweigert",
-        "message": "Sie haben die Erlaubnis verweigert, auf Ihr Mikrofon zuzugreifen."
+        "message": "Sie haben die Erlaubnis verweigert, auf Ihr Mikrofon zuzugreifen.",
+        "ariaLabel": "Sie haben die Erlaubnis verweigert, auf Ihr Mikrofon zuzugreifen"
     }}
 }

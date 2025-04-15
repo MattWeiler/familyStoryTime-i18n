@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "이 기기에 설치된 모든 책이 삭제됩니다.\n\n",
-        "button": {
-            "label": "삭제",
-            "title": "모든 책 삭제",
-            "ariaLabel": "모든 책 삭제"
-        },
-        "displayName": "모든 도서 삭제",
-        "processingMessage": "삭제 중 ...",
+    "bookDataManagement": {
+        "longDescription": "책을 옮겨야합니까? ",
+        "displayName": "책 데이터 관리",
         "shortDescription": {
-            "disabled": "모든 책을 삭제하지만 현재 설치된 책은 없습니다.",
-            "enabled": "모든 책을 삭제하세요."
+            "disabled": "아직 책이 설치되어 있지 않지만 일단 도서관을 제어 할 수 있습니다. 필요에 따라 책을 수출하거나 제거하십시오.",
+            "enabled": "도서관을 제어하십시오 - 필요에 따라 책 을출하거나 책을 제거하십시오."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "이온아이콘",
                 "someIconsBy": "아이콘 작성자:",
                 "icons8": "아이콘8",
-                "iconArchive": "아이콘 아카이브"
+                "iconArchive": "아이콘 아카이브",
+                "veryIcon": "매우 아이콘"
             }
         },
         "version": "버전: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "단순한",
                 "ariaLabel": "간단한 이미지 편집기 사용"
+            },
+            "beta": {
+                "label": "베타",
+                "ariaLabel": "베타 이미지 편집기를 사용하십시오"
             }
         },
         "shortDescription": "어떤 이미지 편집기를 사용해야 하는지 선택하세요.",
@@ -71,6 +70,11 @@
             "collapsed": "오디오 비디오 선택 섹션 확장"
         }
     },
+    "exportAllBooksButton": {
+        "label": "모든 책을 내보내십시오",
+        "title": "모든 책을 내보내십시오",
+        "ariaLabel": "모든 책을 내보내십시오"
+    },
     "cameraImageQuality": {
         "longDescription": "이 이미지 품질은 장치 카메라로 사진을 찍을 때 사용됩니다.",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "설정",
     "confirmations": {"deleteAllBooks": {
-        "title": "삭제 확인",
-        "message": "설치된 모든 책을 삭제하시겠습니까?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "이는 새 기기로 이전하거나 책을 여러 기기에 추가할 때 유용할 수 있습니다.",
-        "button": {
-            "label": "내보내다",
-            "title": "모든 책 내보내기",
-            "ariaLabel": "모든 책 내보내기"
+        "buttons": {
+            "no": {"ariaLabel": "설치된 모든 책을 삭제하지 마십시오"},
+            "yes": {"ariaLabel": "예, 설치된 모든 책을 삭제하십시오"}
         },
-        "displayName": "모든 도서 내보내기",
-        "shortDescription": {
-            "disabled": "모든 책을 단일 파일로 내보내고 저장/공유하지만 현재 설치된 책이 없습니다.",
-            "enabled": "모든 책을 단일 파일로 내보내고 저장/공유하세요."
-        }
-    },
+        "title": "삭제 확인",
+        "message": "설치된 모든 책을 삭제하시겠습니까?",
+        "ariaLabel": "설치된 모든 책을 삭제하려는 지 확인하십시오"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "삭제 실패",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "말하는 속도 %{value}%",
         "shortDescription": "\"AI 리더\"에서 사용할 음성의 속도를 선택합니다."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "책 삭제 ...",
+        "label": "모든 책을 삭제하십시오",
+        "title": "모든 책을 삭제하십시오",
+        "ariaLabel": "모든 책을 삭제하십시오"
     },
     "parentalLocking": {
         "longDescription": "활성화되면 애플리케이션의 고급 기능을 잠금 해제하려면 장치 소유자의 생체 인식 데이터가 필요합니다.",

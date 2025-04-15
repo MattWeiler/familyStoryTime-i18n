@@ -38,12 +38,15 @@
         "backButton": {
             "text": "Back"
         },
+
         "cancelButton": {
             "text": "Cancel"
         },
+
         "cropButton": {
             "text": "Crop"
         },
+
         "saveButton": {
             "text": "Save"
         }
@@ -51,10 +54,13 @@
 
     "permissionDenied": {
         "browseImages": {
+            "ariaLabel": "permission has been denied to access your photos, either grant the access or lose the ability to do so",
             "title": "Permission Denied",
             "message": "You have denied permission to access your photos."
         },
+
         "takePicture": {
+            "ariaLabel": "permission has been denied to take pictures with your camera, either grant the access or lose the ability to do so",
             "title": "Permission Denied",
             "message": "You have denied permission to access your camera."
         }

@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "허가 거부",
-            "message": "카메라에 액세스 할 수있는 권한이 거부되었습니다."
+            "message": "카메라에 액세스 할 수있는 권한이 거부되었습니다.",
+            "ariaLabel": "카메라로 사진을 찍거나 액세스 권한을 부여하거나 그렇게 할 수있는 능력을 잃을 수있는 권한이 거부되었습니다."
         },
         "browseImages": {
             "title": "허가 거부",
-            "message": "사진에 액세스 할 수있는 권한을 거부했습니다."
+            "message": "사진에 액세스 할 수있는 권한을 거부했습니다.",
+            "ariaLabel": "사진에 액세스하거나 액세스 권한을 부여하거나 그렇게 할 수있는 능력을 잃을 수있는 권한이 거부되었습니다."
         }
     },
     "closeFullscreenButton": {"ariaLabel": "전체 화면을 닫습니다"}

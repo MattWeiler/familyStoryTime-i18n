@@ -4,7 +4,8 @@
             "noButtonAriaLabel": "Nein, deinstallieren Sie das verfügbare Buch nicht",
             "yesButtonAriaLabel": "Ja, deinstallieren Sie das verfügbare Buch",
             "title": "Deinstallationsbestätigung",
-            "message": "Sind Sie sicher, dass Sie dieses verfügbare Buch deinstallieren möchten?\n"
+            "message": "Sind Sie sicher, dass Sie dieses verfügbare Buch deinstallieren möchten?\n",
+            "ariaLabel": "Bestätigen Sie, dass Sie das verfügbare Buch deinstallieren möchten"
         },
         "ariaLabel": "Deinstallieren Sie das verfügbare Buch %{bookName}"
     },
@@ -20,7 +21,8 @@
             "noButtonAriaLabel": "Nein, installieren Sie das verfügbare Buch nicht",
             "yesButtonAriaLabel": "Ja, installieren Sie das verfügbare Buch",
             "title": "Installationsbestätigung",
-            "message": "Möchten Sie dieses verfügbare Buch wirklich installieren?\nDabei werden %{fileSize} Daten verbraucht."
+            "message": "Möchten Sie dieses verfügbare Buch wirklich installieren?\nDabei werden %{fileSize} Daten verbraucht.",
+            "ariaLabel": "Bestätigen Sie, dass Sie das verfügbare Buch installieren möchten"
         },
         "ariaLabel": "Installieren Sie das verfügbare Buch %{bookName}"
     }

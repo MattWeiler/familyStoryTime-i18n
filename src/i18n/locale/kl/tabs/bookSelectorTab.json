@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Qularnanngilaq atuakkat %{count} toqqakkat piiarniarlugit?",
                                 "one": "Qularnanngilaq atuakkiaq toqqarneqarsimasoq piiarniarlugu?"
+                            },
+                            "ariaLabel": {
+                                "other": "uppernarsarlugu atuakkat %{count} toqqarneqarsimasut piiarniarlugit",
+                                "one": "uppernarsarlugu atuakkap toqqarneqarsimasup piiarneqarnissaa"
                             }
                         },
                         "ariaLabel": "atuakkat toqqarneqarsimasut piiarsinnaavatit"
@@ -118,6 +122,7 @@
     "title": "Atuartarfik",
     "confirmations": {"deleteBook": {
         "title": "Deletion Uppernarsaaneq",
-        "message": "Qularnanngilaq atuagaq \"%{bookTitle}?\""
+        "message": "Qularnanngilaq atuagaq \"%{bookTitle}?\"",
+        "ariaLabel": "uppernarsarlugu atuakkiaq \"%{bookTitle}\" piiarniarlugu"
     }}
 }

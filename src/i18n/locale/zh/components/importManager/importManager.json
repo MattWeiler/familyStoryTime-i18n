@@ -66,7 +66,8 @@
             "yes": {"ariaLabel": "取消导入"}
         },
         "title": "确认 取消 导入",
-        "message": "您确定要取消导入吗？"
+        "message": "您确定要取消导入吗？",
+        "ariaLabel": "确认您要取消导入"
     }},
     "titles": {
         "booksToInstall": "要安装的书籍",

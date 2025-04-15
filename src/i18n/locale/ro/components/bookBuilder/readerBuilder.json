@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Sigur doriți să ștergeți cititorul \u201e%{readerDisplayName}\u201d?",
                 "noDisplayName": "Sigur doriți să ștergeți acest cititor?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Confirmați că doriți să ștergeți cititorul \u201e%{readerDisplayName}\u201d",
+                "noDisplayName": "Confirmați că doriți să ștergeți acest cititor"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "În ce ați dori să schimbați acest nume afișat pentru cititori?",
                 "noDisplayName": "Care este numele afișat pentru acest cititor?"
             },
-            "inputPlaceholder": "numele cititorului"
+            "inputPlaceholder": "numele cititorului",
+            "ariaLabel": {
+                "withDisplayName": "Actualizați numele de afișare existent",
+                "noDisplayName": "Specificați noul nume de afișare"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "schimbați numele afișat pentru cititorul %{readerDisplayName}",

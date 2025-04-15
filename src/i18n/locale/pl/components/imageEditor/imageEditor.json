@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Przyciąć",
+        "ariaLabel": "Przejdź na tryb uprawy"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "Odrzuć zmiany",
+        "rotation": "Odrzuć zmiany obrotu",
+        "perspectiveCrop": "Odrzuć zmiany upraw perspektywy",
+        "crop": "Odrzuć zmiany upraw"
+    }},
+    "headerLabel": {
+        "default": "Edytuj zdjęcie",
+        "rotation": "Obrót",
+        "perspectiveCrop": "Uprawy perspektywiczne",
+        "crop": "Przyciąć"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Nie odrzucaj zmian i wracaj do edytora obrazu"},
+        "discardButton": {
+            "label": "WYRZUCAĆ",
+            "ariaLabel": "Odrzuć zmiany i zamknij edytor obrazu"
+        },
+        "title": "Odrzuć zmiany",
+        "message": "Czy na pewno chcesz odrzucić zmiany?",
+        "ariaLabel": "Potwierdź, że chcesz odrzucić wszelkie zmiany, które wprowadziłeś na edytowany obraz"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "Obróć -90 stopni"},
+        "saveButton": {
+            "label": "Ratować",
+            "ariaLabel": "Zapisz obrót"
+        },
+        "90PlusButton": {"ariaLabel": "Obróć +90 stopni"},
+        "resetButton": {
+            "label": "Nastawić",
+            "ariaLabel": "Zresetuj obrót"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Flip poziomy",
+        "ariaLabel": "Odwróć obraz w poziomie"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Nie przeładuj obrazu"},
+        "title": "Załaduj obraz",
+        "message": "Czy na pewno chcesz ponownie załadować obraz?\n",
+        "initButton": {
+            "label": "Przeładować",
+            "ariaLabel": "Załaduj obraz obrazu, tracąc wszystkie wprowadzone zmiany"
+        },
+        "ariaLabel": "Potwierdź, że chcesz ponownie załadować obraz, tracąc wszelkie zmiany, które wprowadziłeś na edytowany obraz"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Ratować",
+            "ariaLabel": "Oszczędzaj uprawę perspektywiczną"
+        },
+        "resetButton": {
+            "label": "Nastawić",
+            "ariaLabel": "Zresetuj uprawy perspektywiczne"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Uprawy perspektywiczne",
+        "ariaLabel": "Przejdź na tryb uprawy perspektywicznej"
+    },
+    "reloadButton": {
+        "label": "Przeładować",
+        "ariaLabel": "Załaduj ponownie obraz ze źródła"
+    },
+    "doneButton": {"ariaLabel": "Zapisz zmiany"},
+    "rotationButton": {
+        "label": "Obracać",
+        "ariaLabel": "Przełącz do trybu obrotu"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Ratować",
+            "ariaLabel": "Oszczędzaj uprawę"
+        },
+        "resetButton": {
+            "label": "Nastawić",
+            "ariaLabel": "Zresetuj uprawę"
+        }
+    }
+}

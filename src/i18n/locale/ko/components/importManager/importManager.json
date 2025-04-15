@@ -66,7 +66,8 @@
             "yes": {"ariaLabel": "가져오기 취소"}
         },
         "title": "확인 가져오기 취소",
-        "message": "가져오기를 취소하시겠습니까?"
+        "message": "가져오기를 취소하시겠습니까?",
+        "ariaLabel": "가져 오기를 취소 하려는지 확인하십시오"
     }},
     "titles": {
         "booksToInstall": "설치할 책",

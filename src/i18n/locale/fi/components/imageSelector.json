@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Lupa hylätty",
-            "message": "Olet kieltänyt luvan päästä kameraan."
+            "message": "Olet kieltänyt luvan päästä kameraan.",
+            "ariaLabel": "Lupa on kielletty ottavan kuvia kamerasi kanssa, joko myöntämällä pääsy tai menetät kyvyn tehdä niin"
         },
         "browseImages": {
             "title": "Lupa hylätty",
-            "message": "Olet kieltänyt luvan käyttää valokuvia."
+            "message": "Olet kieltänyt luvan käyttää valokuvia.",
+            "ariaLabel": "Lupa on kielletty pääsemään valokuviin joko antamaan pääsy tai menetät kyvyn tehdä niin"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "sulje koko näytön"}

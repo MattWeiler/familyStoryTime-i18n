@@ -21,7 +21,8 @@
                 },
                 "description": "Vinsamlegast gefðu upp skjáheitið fyrir þennan nýja lesanda.",
                 "title": "Bæta við nýjum lesanda",
-                "inputPlaceholder": "nafn lesanda"
+                "inputPlaceholder": "nafn lesanda",
+                "ariaLabel": "Bættu við nýjum lesanda"
             },
             "ariaLabel": "bæta við nýjum lesanda"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "Skildu eftir breytingar",
-        "message": "Ertu viss um að þú viljir fara áður en þú vistar?"
+        "message": "Ertu viss um að þú viljir fara áður en þú vistar?",
+        "ariaLabel": "Staðfestu að þú viljir fara áður en þú sparar"
     }},
     "pageChangeAudio": {
         "description": "Hljóðið til að spila þegar það er kominn tími til að skipta um síðu.",

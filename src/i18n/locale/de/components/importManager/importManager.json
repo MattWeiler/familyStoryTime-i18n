@@ -66,7 +66,8 @@
             "yes": {"ariaLabel": "Brechen Sie den Import ab"}
         },
         "title": "Bestätigen Sie \u201eImport abbrechen\u201c.",
-        "message": "Möchten Sie den Import wirklich abbrechen?"
+        "message": "Möchten Sie den Import wirklich abbrechen?",
+        "ariaLabel": "Bestätigen Sie, dass Sie den Import stornieren möchten"
     }},
     "titles": {
         "booksToInstall": "Bücher zum Installieren",

@@ -4,7 +4,8 @@
             "noButtonAriaLabel": "ne, nemojte deinstalirati Dostupnu knjigu",
             "yesButtonAriaLabel": "da, deinstalirajte dostupnu knjigu",
             "title": "Potvrda deinstaliranja",
-            "message": "Jeste li sigurni da želite deinstalirati ovu dostupnu knjigu?\n"
+            "message": "Jeste li sigurni da želite deinstalirati ovu dostupnu knjigu?\n",
+            "ariaLabel": "Potvrdite da želite deinstalirati dostupnu knjigu"
         },
         "ariaLabel": "deinstalirajte dostupnu knjigu %{bookName}"
     },
@@ -20,7 +21,8 @@
             "noButtonAriaLabel": "ne, nemojte instalirati dostupnu knjigu",
             "yesButtonAriaLabel": "da, instalirajte dostupnu knjigu",
             "title": "Potvrda instalacije",
-            "message": "Jeste li sigurni da želite instalirati ovu dostupnu knjigu?\nTo će učiniti %{fileSize} podataka."
+            "message": "Jeste li sigurni da želite instalirati ovu dostupnu knjigu?\nTo će učiniti %{fileSize} podataka.",
+            "ariaLabel": "Potvrdite da želite instalirati dostupnu knjigu"
         },
         "ariaLabel": "instalirajte dostupnu knjigu %{bookName}"
     }

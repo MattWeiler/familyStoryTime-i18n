@@ -66,7 +66,8 @@
             "yes": {"ariaLabel": "hủy nhập khẩu"}
         },
         "title": "Xác nhận Hủy nhập",
-        "message": "Bạn có chắc chắn muốn hủy quá trình nhập không?"
+        "message": "Bạn có chắc chắn muốn hủy quá trình nhập không?",
+        "ariaLabel": "xác nhận rằng bạn muốn hủy nhập khẩu"
     }},
     "titles": {
         "booksToInstall": "Sách để cài đặt",

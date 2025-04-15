@@ -21,7 +21,8 @@
                 },
                 "description": "Lütfen bu yeni okuyucunun görünen adını belirtin.",
                 "title": "Yeni Okuyucu Ekle",
-                "inputPlaceholder": "okuyucu adı"
+                "inputPlaceholder": "okuyucu adı",
+                "ariaLabel": "Yeni bir okuyucu ekleyin"
             },
             "ariaLabel": "yeni okuyucu ekle"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "Değişiklikleri Bırak",
-        "message": "Kaydetmeden önce ayrılmak istediğinizden emin misiniz?"
+        "message": "Kaydetmeden önce ayrılmak istediğinizden emin misiniz?",
+        "ariaLabel": "Kaydetmeden önce ayrılmak istediğinizi onaylayın"
     }},
     "pageChangeAudio": {
         "description": "Sayfayı değiştirme zamanı geldiğinde çalınacak ses.",

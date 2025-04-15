@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Är du säker på att du vill ta bort \"%{readerDisplayName}\"-läsaren?",
                 "noDisplayName": "Är du säker på att du vill ta bort den här läsaren?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Bekräfta att du vill ta bort \"%{readerDisplayName}\" läsaren",
+                "noDisplayName": "Bekräfta att du vill ta bort den här läsaren"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "Vad skulle du vilja ändra denna läsares visningsnamn till?",
                 "noDisplayName": "Vad är visningsnamnet för den här läsaren?"
             },
-            "inputPlaceholder": "läsarens namn"
+            "inputPlaceholder": "läsarens namn",
+            "ariaLabel": {
+                "withDisplayName": "Uppdatera det befintliga visningsnamnet",
+                "noDisplayName": "Ange det nya visningsnamnet"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "ändra visningsnamnet för läsaren %{readerDisplayName}",

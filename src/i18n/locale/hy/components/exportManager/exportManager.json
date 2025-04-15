@@ -19,24 +19,6 @@
         "packaging": "փաթեթավորում...",
         "cancelling": "չեղարկում..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "ընթերցողներ",
-                    "ariaLabel": "արտահանել միայն ընթերցողի տեղեկությունները %{bookTitle} գրքի համար"
-                },
-                "full": {
-                    "label": "լիքը",
-                    "ariaLabel": "արտահանել ամբողջ գիրքը %{bookTitle}"
-                }
-            },
-            "ariaLabel": "ընտրեք, թե ինչպես արտահանել գիրքը %{bookTitle}"
-        },
-        "readers": {"checkbox": {"ariaLabel": "արտահանման մեջ ներառելու %{readerDisplayName} ընթերցողը"}},
-        "checkbox": {"ariaLabel": "%{bookTitle} գիրքը արտահանման մեջ ներառելու համար"},
-        "bookReadersTooltip": {"label": "Ընտրելով «ընթերցողներ» տարբերակը, կարտահանվեն միայն ընտրված ընթերցողները:\n\n"}
-    },
     "packagedMultiBookFileName": "Գրքեր",
     "nothingToExport": "Արտահանելու բան չկա :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "չեղարկել արտահանումը"}
         },
         "title": "Հաստատեք Չեղարկել արտահանումը",
-        "message": "Իսկապե՞ս ուզում եք չեղարկել արտահանումը:"
+        "message": "Իսկապե՞ս ուզում եք չեղարկել արտահանումը:",
+        "ariaLabel": "Հաստատեք, որ ցանկանում եք չեղարկել ներմուծումը"
     }},
     "titles": {
         "booksToExport": "Գրքեր արտահանման համար",

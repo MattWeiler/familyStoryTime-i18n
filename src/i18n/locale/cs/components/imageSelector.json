@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Povolení odepřeno",
-            "message": "Odmítli jste povolení k přístupu k fotoaparátu."
+            "message": "Odmítli jste povolení k přístupu k fotoaparátu.",
+            "ariaLabel": "Bylo zamítnuto povolení k fotografování pomocí fotoaparátu, buď udělit přístup nebo ztratit schopnost tak učinit"
         },
         "browseImages": {
             "title": "Povolení odepřeno",
-            "message": "Odmítli jste povolení k přístupu k vašim fotografiím."
+            "message": "Odmítli jste povolení k přístupu k vašim fotografiím.",
+            "ariaLabel": "Bylo zamítnuto povolení k přístupu k vašim fotografiím, buď poskytnutí přístupu, nebo ztratí schopnost tak učinit"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Zavřete celou obrazovku"}

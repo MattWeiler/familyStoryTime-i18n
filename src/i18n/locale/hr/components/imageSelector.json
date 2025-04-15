@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Odobrenje odbijeno",
-            "message": "Negirali ste dozvolu za pristup fotoaparatu."
+            "message": "Negirali ste dozvolu za pristup fotoaparatu.",
+            "ariaLabel": "Odbijeno je dopuštenje da se slika s vašom kamerom, ili odobrite pristup ili izgubite mogućnost da to učinite"
         },
         "browseImages": {
             "title": "Odobrenje odbijeno",
-            "message": "Negirali ste dopuštenje za pristup svojim fotografijama."
+            "message": "Negirali ste dopuštenje za pristup svojim fotografijama.",
+            "ariaLabel": "Odbijeno je dopuštenje za pristup vašim fotografijama, odobriti pristup ili izgubiti mogućnost da to učinite"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Zatvorite punu zaslonu"}

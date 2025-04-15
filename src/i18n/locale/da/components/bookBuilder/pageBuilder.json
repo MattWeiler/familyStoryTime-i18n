@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Scan sidetekst igen",
-                "message": "Er du sikker på, at du vil scanne billedet for tekst og erstatte din eksisterende sidetekst?"
+                "message": "Er du sikker på, at du vil scanne billedet for tekst og erstatte din eksisterende sidetekst?",
+                "ariaLabel": "Bekræft, at du vil scanne billedet til tekst igen"
             },
             "ariaLabel": "udtræk tekst fra billede til side %{pageNum}"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Hvad er sideteksten?",
                     "withPageText": "Hvad vil du gerne ændre sideteksten til?"
                 },
-                "inputPlaceholder": "tekst at tilføje"
+                "inputPlaceholder": "tekst at tilføje",
+                "ariaLabel": {
+                    "noPageText": "Angiv sideteksten",
+                    "withPageText": "Opdater den eksisterende sidetekst"
+                }
             },
             "ariaLabel": "rediger teksten \"%{pageText}\" fra side %{pageNum}"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Bekræftelse af sletning",
-                "message": "Er du sikker på, at du vil slette denne sidetekst?"
+                "message": "Er du sikker på, at du vil slette denne sidetekst?",
+                "ariaLabel": "Bekræft, at du vil fjerne denne side -tekst"
             },
             "ariaLabel": "fjern teksten \"%{pageText}\" fra siden %{pageNum}"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "tekst, der skal tilføjes til side %{pageNum}",
                 "title": "Indstil sidetekst",
                 "message": "Hvad er sideteksten?",
-                "inputPlaceholder": "tekst at tilføje"
+                "inputPlaceholder": "tekst at tilføje",
+                "ariaLabel": "Angiv den nye tekst, der skal tilføjes til side %{pageNum}"
             },
             "ariaLabel": "føj ny tekst til side %{pageNum}"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "Dette vil fjerne al sidelyd, der er optaget for denne side.",
             "additionalMessage2": "DETTE KAN IKKE FORTRYDS!",
             "title": "Bekræftelse af sletning",
-            "message": "Er du sikker på, at du vil slette siden %{pageNum}?"
+            "message": "Er du sikker på, at du vil slette siden %{pageNum}?",
+            "ariaLabel": "Bekræft, at du vil fjerne side %{pageNum}"
         },
         "ariaLabel": "fjern side %{pageNum}"
     },

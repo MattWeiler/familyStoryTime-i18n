@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "اقتصاص",
+        "ariaLabel": "التبديل إلى وضع المحاصيل"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "تجاهل التغييرات",
+        "rotation": "تجاهل تغييرات الدوران",
+        "perspectiveCrop": "تجاهل تغييرات المحاصيل منظور",
+        "crop": "تجاهل تغييرات المحاصيل"
+    }},
+    "headerLabel": {
+        "default": "تحرير الصورة",
+        "rotation": "تناوب",
+        "perspectiveCrop": "محصول المنظور",
+        "crop": "اقتصاص"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "لا تتجاهل التغييرات والعودة إلى محرر الصور"},
+        "discardButton": {
+            "label": "ينبذ",
+            "ariaLabel": "هل تجاهل التغييرات وأغلق محرر الصور"
+        },
+        "title": "تجاهل التغييرات",
+        "message": "هل أنت متأكد من أنك تريد تجاهل التغييرات؟",
+        "ariaLabel": "تأكد من أنك ترغب في تجاهل أي تغييرات قمت بإجراءها على الصورة التي يتم تحريرها"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "تدوير -90 درجة"},
+        "saveButton": {
+            "label": "يحفظ",
+            "ariaLabel": "حفظ الدوران"
+        },
+        "90PlusButton": {"ariaLabel": "تدوير +90 درجة"},
+        "resetButton": {
+            "label": "إعادة ضبط",
+            "ariaLabel": "إعادة ضبط الدوران"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "الوجه الأفقي",
+        "ariaLabel": "اقلب الصورة أفقيا"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "لا تعيد تحميل الصورة"},
+        "title": "صورة إعادة تحميل",
+        "message": "هل أنت متأكد من أنك تريد إعادة تحميل الصورة؟\n",
+        "initButton": {
+            "label": "إعادة تحميل",
+            "ariaLabel": "قم بإعادة تحميل الصورة ، وفقدان جميع التغييرات التي تم إجراؤها"
+        },
+        "ariaLabel": "تأكد من أنك ترغب في إعادة تحميل الصورة ، وفقد أي تغييرات قمت بإخضاعها على الصورة التي يتم تحريرها"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "يحفظ",
+            "ariaLabel": "احفظ محصول المنظور"
+        },
+        "resetButton": {
+            "label": "إعادة ضبط",
+            "ariaLabel": "أعد ضبط محصول المنظور"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "محصول المنظور",
+        "ariaLabel": "التبديل إلى وضع المحاصيل المنظور"
+    },
+    "reloadButton": {
+        "label": "إعادة تحميل",
+        "ariaLabel": "إعادة تحميل الصورة من المصدر"
+    },
+    "doneButton": {"ariaLabel": "حفظ التغييرات"},
+    "rotationButton": {
+        "label": "تناوب",
+        "ariaLabel": "التبديل إلى وضع الدوران"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "يحفظ",
+            "ariaLabel": "حفظ المحصول"
+        },
+        "resetButton": {
+            "label": "إعادة ضبط",
+            "ariaLabel": "إعادة ضبط المحصول"
+        }
+    }
+}

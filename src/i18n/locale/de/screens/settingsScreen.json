@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "Dadurch werden alle auf diesem Gerät installierten Bücher gelöscht.\n\n",
-        "button": {
-            "label": "Löschen",
-            "title": "Alle Bücher löschen",
-            "ariaLabel": "Alle Bücher löschen"
-        },
-        "displayName": "Alle Bücher löschen",
-        "processingMessage": "löschen ...",
+    "bookDataManagement": {
+        "longDescription": "Müssen Sie Ihre Bücher bewegen? ",
+        "displayName": "Buchdatenmanagement",
         "shortDescription": {
-            "disabled": "Löschen Sie alle Ihre Bücher, aber Sie haben derzeit keine Bücher installiert.",
-            "enabled": "Löschen Sie alle Ihre Bücher."
+            "disabled": "Sie haben noch keine Bücher installiert, aber sobald Sie dies getan haben, können Sie die Kontrolle über Ihre Bibliothek übernehmen - nach Bedarf Bücher exportieren oder entfernen.",
+            "enabled": "Übernehmen Sie die Kontrolle über Ihre Bibliothek - exportieren oder entfernen Sie Bücher nach Bedarf."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "Ionicons",
                 "someIconsBy": "Ikonen von:",
                 "icons8": "Symbole8",
-                "iconArchive": "Symbolarchiv"
+                "iconArchive": "Symbolarchiv",
+                "veryIcon": "Sehr Ikone"
             }
         },
         "version": "Version: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Einfach",
                 "ariaLabel": "Verwenden Sie einen einfachen Bildeditor"
+            },
+            "beta": {
+                "label": "Beta",
+                "ariaLabel": "Verwenden Sie den Beta Image Editor"
             }
         },
         "shortDescription": "Wählen Sie aus, welcher Bildeditor verwendet werden soll.",
@@ -71,6 +70,11 @@
             "collapsed": "Erweitern Sie den Abschnitt zur Audio-Video-Auswahl"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Exportieren Sie alle Bücher",
+        "title": "Exportieren Sie alle Bücher",
+        "ariaLabel": "Exportieren Sie alle Bücher"
+    },
     "cameraImageQuality": {
         "longDescription": "Diese Bildqualität wird beim Aufnehmen von Bildern mit der/den Gerätekamera(s) verwendet.",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "Einstellungen",
     "confirmations": {"deleteAllBooks": {
-        "title": "Löschbestätigung",
-        "message": "Sind Sie sicher, dass Sie alle installierten Bücher löschen möchten?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "Dies kann nützlich sein, wenn Sie auf ein neues Gerät migrieren oder Ihre Bücher auf mehreren Geräten hinzufügen.",
-        "button": {
-            "label": "Export",
-            "title": "Alle Bücher exportieren",
-            "ariaLabel": "Alle Bücher exportieren"
+        "buttons": {
+            "no": {"ariaLabel": "Löschen Sie nicht alle installierten Bücher"},
+            "yes": {"ariaLabel": "Ja, löschen Sie alle installierten Bücher"}
         },
-        "displayName": "Alle Bücher exportieren",
-        "shortDescription": {
-            "disabled": "Exportieren Sie alle Ihre Bücher in eine einzige Datei und speichern/teilen Sie sie, aber Sie haben derzeit keine Bücher installiert.",
-            "enabled": "Exportieren Sie alle Ihre Bücher in eine einzige Datei und speichern/teilen Sie sie."
-        }
-    },
+        "title": "Löschbestätigung",
+        "message": "Sind Sie sicher, dass Sie alle installierten Bücher löschen möchten?",
+        "ariaLabel": "Bestätigen Sie, ob Sie alle installierten Bücher löschen möchten"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "Löschen fehlgeschlagen",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Sprechrate %{value}%",
         "shortDescription": "Wählen Sie die vom \u201eAI Reader\u201c zu verwendende Sprachrate aus."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "Bücher löschen ...",
+        "label": "Alle Bücher löschen",
+        "title": "Alle Bücher löschen",
+        "ariaLabel": "Alle Bücher löschen"
     },
     "parentalLocking": {
         "longDescription": "Wenn diese Option aktiviert ist, sind die biometrischen Daten des Gerätebesitzers erforderlich, um erweiterte Funktionen in der Anwendung freizuschalten.",

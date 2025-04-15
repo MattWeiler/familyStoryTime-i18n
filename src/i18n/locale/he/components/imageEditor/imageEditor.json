@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "יְבוּל",
+        "ariaLabel": "עבור למצב יבול"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "השלך שינויים",
+        "rotation": "השליך שינויי סיבוב",
+        "perspectiveCrop": "השלך את שינויים ביבול בפרספקטיבה",
+        "crop": "השלך את שינויי היבול"
+    }},
+    "headerLabel": {
+        "default": "ערוך תמונה",
+        "rotation": "רוֹטַציָה",
+        "perspectiveCrop": "יבול פרספקטיבה",
+        "crop": "יְבוּל"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "אל תשליך שינויים וחזור לעורך תמונות"},
+        "discardButton": {
+            "label": "לְהַשְׁלִיך",
+            "ariaLabel": "האם לזרוק שינויים וסגור את עורך התמונות"
+        },
+        "title": "השלך שינויים",
+        "message": "האם אתה בטוח שאתה רוצה להשליך שינויים?",
+        "ariaLabel": "אשר שאתה רוצה להשליך את כל השינויים שביצעת בתמונה שנערכה"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "סובב -90 מעלות"},
+        "saveButton": {
+            "label": "לְהַצִיל",
+            "ariaLabel": "שמור את הסיבוב"
+        },
+        "90PlusButton": {"ariaLabel": "סובב +90 מעלות"},
+        "resetButton": {
+            "label": "אִתחוּל",
+            "ariaLabel": "אפס את הסיבוב"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "הפוך אופקי",
+        "ariaLabel": "הפוך את התמונה אופקית"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "אל תטען מחדש את התמונה"},
+        "title": "טען מחדש תמונה",
+        "message": "האם אתה בטוח שאתה רוצה לטעון מחדש את התמונה?\n",
+        "initButton": {
+            "label": "לִטעוֹן מִחָדָשׁ",
+            "ariaLabel": "האם טען מחדש את התמונה, מאבד את כל השינויים שנעשו"
+        },
+        "ariaLabel": "אשר שאתה רוצה לטעון מחדש את התמונה, לאבד את כל השינויים שביצעת בתמונה שנערכה"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "לְהַצִיל",
+            "ariaLabel": "שמור את יבול הפרספקטיבה"
+        },
+        "resetButton": {
+            "label": "אִתחוּל",
+            "ariaLabel": "אפס את יבול הפרספקטיבה"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "יבול פרספקטיבה",
+        "ariaLabel": "לעבור למצב יבול פרספקטיבה"
+    },
+    "reloadButton": {
+        "label": "לִטעוֹן מִחָדָשׁ",
+        "ariaLabel": "טען מחדש את התמונה מהמקור"
+    },
+    "doneButton": {"ariaLabel": "שמור שינויים"},
+    "rotationButton": {
+        "label": "לְסוֹבֵב",
+        "ariaLabel": "עבור למצב סיבוב"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "לְהַצִיל",
+            "ariaLabel": "שמור את היבול"
+        },
+        "resetButton": {
+            "label": "אִתחוּל",
+            "ariaLabel": "אפס את היבול"
+        }
+    }
+}

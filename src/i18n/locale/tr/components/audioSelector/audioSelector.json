@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Açık onay",
-            "message": "Seçilen sesi temizlemek istediğinizden emin misiniz?"
+            "message": "Seçilen sesi temizlemek istediğinizden emin misiniz?",
+            "ariaLabel": "Seçilen sesi temizlemek istediğinizi onaylayın"
         },
         "ariaLabel": "Seçilen %{audioDisplayName} Audio'yu temizleyin"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "Hayır, kal ve düzenlemeye devam et",
                 "yes": "Evet, düzenlemeleri at"
-            }
+            },
+            "ariaLabel": "Yaptığınız herhangi bir düzenlemeyi atmak isteyip istemediğinizi onaylayın"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "İzin reddedildi",
-        "message": "Mikrofonunuza erişme iznini reddettiniz."
+        "message": "Mikrofonunuza erişme iznini reddettiniz.",
+        "ariaLabel": "Mikrofonunuza erişme iznini reddettiniz"
     }}
 }

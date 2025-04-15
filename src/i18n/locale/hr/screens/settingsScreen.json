@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "Ovo će izbrisati sve knjige instalirane na ovom uređaju.\n\n",
-        "button": {
-            "label": "Izbrisati",
-            "title": "izbrisati sve knjige",
-            "ariaLabel": "izbrisati sve knjige"
-        },
-        "displayName": "Izbriši sve knjige",
-        "processingMessage": "brisanje...",
+    "bookDataManagement": {
+        "longDescription": "Trebate premjestiti svoje knjige? ",
+        "displayName": "Upravljanje podacima knjige",
         "shortDescription": {
-            "disabled": "Izbrišite sve svoje knjige, ali trenutno nemate nijednu instaliranu knjigu.",
-            "enabled": "Izbriši sve svoje knjige."
+            "disabled": "Još nemate instalirane knjige, ali jednom kad to učinite, možete preuzeti kontrolu nad svojom bibliotekom - izvesti ili ukloniti knjige po potrebi.",
+            "enabled": "Preuzmite kontrolu nad svojom bibliotekom - izvedite ili uklonite knjige po potrebi."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "Ionske ikone",
                 "someIconsBy": "Ikone autora:",
                 "icons8": "Ikone8",
-                "iconArchive": "Arhiva ikona"
+                "iconArchive": "Arhiva ikona",
+                "veryIcon": "Vrlo ikona"
             }
         },
         "version": "Verzija: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Jednostavan",
                 "ariaLabel": "koristiti jednostavan uređivač slika"
+            },
+            "beta": {
+                "label": "Beta",
+                "ariaLabel": "Koristite beta uređivač slike"
             }
         },
         "shortDescription": "Odaberite koji uređivač slika treba koristiti.",
@@ -71,6 +70,11 @@
             "collapsed": "proširite odjeljak odabira zvuka i videa"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Izvezite sve knjige",
+        "title": "Izvezite sve knjige",
+        "ariaLabel": "Izvezite sve knjige"
+    },
     "cameraImageQuality": {
         "longDescription": "Ova će se kvaliteta slike koristiti pri snimanju fotografija kamerom(ama) uređaja.",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "postavke",
     "confirmations": {"deleteAllBooks": {
-        "title": "Potvrda brisanja",
-        "message": "Jeste li sigurni da želite izbrisati sve instalirane knjige?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "To može biti korisno prilikom prelaska na novi uređaj ili dodavanja knjiga na više uređaja.",
-        "button": {
-            "label": "Izvoz",
-            "title": "izvezi sve knjige",
-            "ariaLabel": "izvezi sve knjige"
+        "buttons": {
+            "no": {"ariaLabel": "Ne brišite sve instalirane knjige"},
+            "yes": {"ariaLabel": "Da, izbrišite sve instalirane knjige"}
         },
-        "displayName": "Izvezi sve knjige",
-        "shortDescription": {
-            "disabled": "Izvezite sve svoje knjige u jednu datoteku i spremite/podijelite je, ali trenutno nemate nijednu instaliranu knjigu.",
-            "enabled": "Izvezite sve svoje knjige u jednu datoteku i spremite je/podijelite."
-        }
-    },
+        "title": "Potvrda brisanja",
+        "message": "Jeste li sigurni da želite izbrisati sve instalirane knjige?",
+        "ariaLabel": "Potvrdite želite li izbrisati sve instalirane knjige"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "brisanje nije uspjelo",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Brzina govora %{value}%",
         "shortDescription": "Odaberite brzinu glasa koju će koristiti \"AI Reader\"."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "Brisanje knjiga ...",
+        "label": "Izbriši sve knjige",
+        "title": "Izbriši sve knjige",
+        "ariaLabel": "Izbriši sve knjige"
     },
     "parentalLocking": {
         "longDescription": "Kada je omogućeno, biometrijski podaci vlasnika uređaja potrebni su za otključavanje naprednih značajki u aplikaciji.",

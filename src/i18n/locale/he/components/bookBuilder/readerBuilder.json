@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "האם אתה בטוח שברצונך למחוק את הקורא \"%{readerDisplayName}\"?",
                 "noDisplayName": "האם אתה בטוח שברצונך למחוק את הקורא הזה?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "אשר שרצונך למחוק את הקורא \"%{readerDisplayName}}\"",
+                "noDisplayName": "אשר שאתה רוצה למחוק את הקורא הזה"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "למה תרצה לשנות את שם התצוגה של הקוראים?",
                 "noDisplayName": "מהו שם התצוגה של הקורא הזה?"
             },
-            "inputPlaceholder": "שם הקורא"
+            "inputPlaceholder": "שם הקורא",
+            "ariaLabel": {
+                "withDisplayName": "עדכן את שם התצוגה הקיים",
+                "noDisplayName": "ציין את שם התצוגה החדש"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "שנה את שם התצוגה עבור הקורא %{readerDisplayName}",

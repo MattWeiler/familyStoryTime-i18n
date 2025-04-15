@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Seitentext erneut scannen",
-                "message": "Sind Sie sicher, dass Sie das Bild nach Text durchsuchen und den vorhandenen Seitentext ersetzen möchten?"
+                "message": "Sind Sie sicher, dass Sie das Bild nach Text durchsuchen und den vorhandenen Seitentext ersetzen möchten?",
+                "ariaLabel": "Bestätigen Sie, dass Sie das Bild für Text erneut scANieren möchten"
             },
             "ariaLabel": "Text aus Bild für Seite %{pageNum} extrahieren"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Wie lautet der Seitentext?",
                     "withPageText": "In was möchten Sie den Seitentext ändern?"
                 },
-                "inputPlaceholder": "Text zum Hinzufügen"
+                "inputPlaceholder": "Text zum Hinzufügen",
+                "ariaLabel": {
+                    "noPageText": "Geben Sie den Seitentext an",
+                    "withPageText": "Aktualisieren Sie den vorhandenen Seitentext"
+                }
             },
             "ariaLabel": "Bearbeiten Sie den Text \u201e%{pageText}\u201c von Seite %{pageNum}"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Löschbestätigung",
-                "message": "Sind Sie sicher, dass Sie diesen Seitentext löschen möchten?"
+                "message": "Sind Sie sicher, dass Sie diesen Seitentext löschen möchten?",
+                "ariaLabel": "Bestätigen Sie, dass Sie diesen Seitentext entfernen möchten"
             },
             "ariaLabel": "entferne den Text \u201e%{pageText}\u201c von der Seite %{pageNum}"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "Text zum Hinzufügen zur Seite %{pageNum}",
                 "title": "Seitentext festlegen",
                 "message": "Wie lautet der Seitentext?",
-                "inputPlaceholder": "Text zum Hinzufügen"
+                "inputPlaceholder": "Text zum Hinzufügen",
+                "ariaLabel": "Geben Sie den neuen Text an, der zu Seite %{pageNum} hinzugefügt wird"
             },
             "ariaLabel": "Füge neuen Text zur Seite %{pageNum} hinzu"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "Dadurch wird das gesamte für diese Seite aufgezeichnete Seitenaudio entfernt.",
             "additionalMessage2": "Dies kann nicht rückgängig gemacht werden!",
             "title": "Löschbestätigung",
-            "message": "Sind Sie sicher, dass Sie die Seite %{pageNum} löschen möchten?"
+            "message": "Sind Sie sicher, dass Sie die Seite %{pageNum} löschen möchten?",
+            "ariaLabel": "Bestätigen Sie, dass Sie Seite %{pageNum} entfernen möchten"
         },
         "ariaLabel": "Seite %{pageNum} entfernen"
     },

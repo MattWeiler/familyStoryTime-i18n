@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Gewas",
+        "ariaLabel": "Schakel over naar de gewasmodus"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "Veranderingen weggooien",
+        "rotation": "Gooi rotatiewisselingen weg",
+        "perspectiveCrop": "Verwending van het perspectief van het perspectief",
+        "crop": "Gooi gewasveranderingen weg"
+    }},
+    "headerLabel": {
+        "default": "Bewerk foto",
+        "rotation": "Rotatie",
+        "perspectiveCrop": "Perspectiefgewas",
+        "crop": "Gewas"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Gooi wijzigingen niet weg en keer terug naar de beeldeditor"},
+        "discardButton": {
+            "label": "WEGGOOIEN",
+            "ariaLabel": "Gooi wijzigingen weg en sluit de afbeeldingseditor"
+        },
+        "title": "Veranderingen weggooien",
+        "message": "Weet u zeker dat u wijzigingen wilt weggooien?",
+        "ariaLabel": "Bevestig dat u eventuele wijzigingen die u hebt aangebracht in de afbeelding wilt weggooien die u hebt aangebracht"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "roteer -90 graden"},
+        "saveButton": {
+            "label": "Redden",
+            "ariaLabel": "Bewaar de rotatie"
+        },
+        "90PlusButton": {"ariaLabel": "roteer +90 graden"},
+        "resetButton": {
+            "label": "Resetten",
+            "ariaLabel": "Reset de rotatie"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Horizontaal omdraaien",
+        "ariaLabel": "Draai de afbeelding horizontaal om"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Laad de afbeelding niet opnieuw"},
+        "title": "Herlaad afbeelding",
+        "message": "Weet u zeker dat u de afbeelding wilt herladen?\n",
+        "initButton": {
+            "label": "Herladen",
+            "ariaLabel": "Laad de afbeelding opnieuw, verlies alle aangebrachte wijzigingen"
+        },
+        "ariaLabel": "Bevestig dat u de afbeelding wilt herladen en verliest alle wijzigingen die u hebt aangebracht in de bewerkte afbeelding"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Redden",
+            "ariaLabel": "Bewaar het perspectiefgewas"
+        },
+        "resetButton": {
+            "label": "Resetten",
+            "ariaLabel": "Reset het perspectiefgewas"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Perspectiefgewas",
+        "ariaLabel": "Schakel over naar de perspectief van de gewasmodus"
+    },
+    "reloadButton": {
+        "label": "Herladen",
+        "ariaLabel": "Herlaad de afbeelding van de bron"
+    },
+    "doneButton": {"ariaLabel": "Bewaar wijzigingen"},
+    "rotationButton": {
+        "label": "Draaien",
+        "ariaLabel": "Schakel over naar rotatiemodus"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Redden",
+            "ariaLabel": "Bewaar het gewas"
+        },
+        "resetButton": {
+            "label": "Resetten",
+            "ariaLabel": "Reset het gewas"
+        }
+    }
+}

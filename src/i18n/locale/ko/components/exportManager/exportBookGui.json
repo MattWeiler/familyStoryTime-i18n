@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "독자",
+                "ariaLabel": "책 %{bookTitle}에 대한 독자 정보 만 내보내십시오."
+            },
+            "full": {
+                "label": "가득한",
+                "ariaLabel": "전체 책 %{bookTitle} 내보내기"
+            }
+        },
+        "ariaLabel": "책을 내보내는 방법을 선택하십시오 %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "내보내기에 독자 %{readerDisplayName}를 포함합니다"}},
+    "checkbox": {"ariaLabel": "수출에 %{bookTitle} 책을 포함합니다"},
+    "bookReadersTooltip": {"label": "\"독자\"옵션을 선택하면 선택한 독자 만 내보내게됩니다.\n\n"}
+}

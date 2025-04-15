@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "수확고",
+        "ariaLabel": "자르기 모드로 전환하십시오"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "변경 사항을 폐기하십시오",
+        "rotation": "회전 변경을 폐기하십시오",
+        "perspectiveCrop": "관점 작물 변화를 버립니다",
+        "crop": "작물 변화를 폐기하십시오"
+    }},
+    "headerLabel": {
+        "default": "사진 편집",
+        "rotation": "회전",
+        "perspectiveCrop": "관점 작물",
+        "crop": "수확고"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "변경 사항을 버리고 이미지 편집기로 돌아 가지 마십시오"},
+        "discardButton": {
+            "label": "버리다",
+            "ariaLabel": "변경 사항을 폐기하고 이미지 편집기를 닫습니다"
+        },
+        "title": "변경 사항을 폐기하십시오",
+        "message": "변경 사항을 폐기하고 싶습니까?",
+        "ariaLabel": "편집중인 이미지에 대한 변경 사항을 폐기 하려는지 확인하십시오."
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "-90도 회전합니다"},
+        "saveButton": {
+            "label": "구하다",
+            "ariaLabel": "회전을 저장하십시오"
+        },
+        "90PlusButton": {"ariaLabel": "+90도 회전합니다"},
+        "resetButton": {
+            "label": "다시 놓기",
+            "ariaLabel": "회전을 재설정하십시오"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "수평을 뒤집습니다",
+        "ariaLabel": "이미지를 가로로 뒤집습니다"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "이미지를 다시로드하지 마십시오"},
+        "title": "새로 고침 이미지",
+        "message": "이미지를 다시로드하고 싶습니까?\n",
+        "initButton": {
+            "label": "새로 고침",
+            "ariaLabel": "모든 변경 사항을 잃어버린 이미지를 다시로드하십시오"
+        },
+        "ariaLabel": "편집중인 이미지에 대한 변경 사항을 잃어버린 이미지를 다시로드 하려는지 확인하십시오."
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "구하다",
+            "ariaLabel": "관점 작물을 저장하십시오"
+        },
+        "resetButton": {
+            "label": "다시 놓기",
+            "ariaLabel": "관점 작물을 재설정하십시오"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "관점 작물",
+        "ariaLabel": "원근법 자르기 모드로 전환하십시오"
+    },
+    "reloadButton": {
+        "label": "새로 고침",
+        "ariaLabel": "소스에서 이미지를 다시로드하십시오"
+    },
+    "doneButton": {"ariaLabel": "변경 사항을 저장하십시오"},
+    "rotationButton": {
+        "label": "회전",
+        "ariaLabel": "회전 모드로 전환하십시오"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "구하다",
+            "ariaLabel": "작물을 저장하십시오"
+        },
+        "resetButton": {
+            "label": "다시 놓기",
+            "ariaLabel": "작물을 재설정하십시오"
+        }
+    }
+}

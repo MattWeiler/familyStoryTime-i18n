@@ -21,7 +21,8 @@
                 },
                 "description": "Harap berikan nama tampilan untuk pembaca baru ini.",
                 "title": "Tambahkan Pembaca Baru",
-                "inputPlaceholder": "nama pembaca"
+                "inputPlaceholder": "nama pembaca",
+                "ariaLabel": "Tambahkan pembaca baru"
             },
             "ariaLabel": "tambahkan pembaca baru"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "Tinggalkan Perubahan",
-        "message": "Apakah Anda yakin ingin keluar sebelum menyimpan?"
+        "message": "Apakah Anda yakin ingin keluar sebelum menyimpan?",
+        "ariaLabel": "Konfirmasikan bahwa Anda ingin pergi sebelum menabung"
     }},
     "pageChangeAudio": {
         "description": "Audio untuk diputar saat tiba waktunya mengganti halaman.",

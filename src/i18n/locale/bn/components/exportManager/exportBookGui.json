@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "পাঠক",
+                "ariaLabel": "কেবল বইয়ের জন্য পাঠকের তথ্য রফতানি করুন %{bookTitle}"
+            },
+            "full": {
+                "label": "পূর্ণ",
+                "ariaLabel": "পুরো বইটি %{bookTitle} রফতানি করুন"
+            }
+        },
+        "ariaLabel": "কীভাবে বই %{bookTitle} রফতানি করবেন তা নির্বাচন করুন"
+    },
+    "readers": {"checkbox": {"ariaLabel": "রফতানিতে পাঠককে %{readerDisplayName} অন্তর্ভুক্ত করতে"}},
+    "checkbox": {"ariaLabel": "রফতানিত %{bookTitle} book বইটি অন্তর্ভুক্ত করত"},
+    "bookReadersTooltip": {"label": "\"পাঠক\" বিকল্পটি নির্বাচন করা কেবল নির্বাচিত পাঠকদের রফতানি করবে।\n\n"}
+}

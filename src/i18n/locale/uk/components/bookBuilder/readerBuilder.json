@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Ви впевнені, що бажаєте видалити зчитувач \"%{readerDisplayName}\"?",
                 "noDisplayName": "Ви впевнені, що хочете видалити цього читача?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "підтвердити, що ви хочете видалити читач \"%{readerDisplayName}\"",
+                "noDisplayName": "підтвердити, що ви хочете видалити цього читача"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "На що ви хочете змінити відображуване ім\u2019я для читачів?",
                 "noDisplayName": "Яка відображувана назва цього пристрою для читання?"
             },
-            "inputPlaceholder": "ім'я читача"
+            "inputPlaceholder": "ім'я читача",
+            "ariaLabel": {
+                "withDisplayName": "Оновіть наявне ім\u2019я відображення",
+                "noDisplayName": "Вкажіть нове ім\u2019я відображення"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "змінити відображуване ім'я для читача %{readerDisplayName}",

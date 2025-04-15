@@ -66,7 +66,8 @@
             "yes": {"ariaLabel": "hætta við innflutninginn"}
         },
         "title": "Staðfestu Hætta við innflutning",
-        "message": "Ertu viss um að þú viljir hætta við innflutninginn?"
+        "message": "Ertu viss um að þú viljir hætta við innflutninginn?",
+        "ariaLabel": "Staðfestu að þú viljir hætta við innflutninginn"
     }},
     "titles": {
         "booksToInstall": "Bækur til að setja upp",

@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Ponovno skeniraj tekst stranice",
-                "message": "Jeste li sigurni da želite skenirati sliku za tekst i zamijeniti postojeći tekst stranice?"
+                "message": "Jeste li sigurni da želite skenirati sliku za tekst i zamijeniti postojeći tekst stranice?",
+                "ariaLabel": "Potvrdite da želite ponovno skenirati sliku za tekst"
             },
             "ariaLabel": "izdvoji tekst sa slike za stranicu %{pageNum}"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Što je tekst stranice?",
                     "withPageText": "U što želite promijeniti tekst stranice?"
                 },
-                "inputPlaceholder": "tekst za dodavanje"
+                "inputPlaceholder": "tekst za dodavanje",
+                "ariaLabel": {
+                    "noPageText": "Navedite tekst stranice",
+                    "withPageText": "Ažurirajte postojeći tekst stranice"
+                }
             },
             "ariaLabel": "uredi tekst \"%{pageText}\" sa stranice %{pageNum}"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Potvrda brisanja",
-                "message": "Jeste li sigurni da želite izbrisati ovaj tekst stranice?"
+                "message": "Jeste li sigurni da želite izbrisati ovaj tekst stranice?",
+                "ariaLabel": "Potvrdite da želite ukloniti tekst ove stranice"
             },
             "ariaLabel": "ukloni tekst \"%{pageText}\" sa stranice %{pageNum}"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "tekst za dodavanje na stranicu %{pageNum}",
                 "title": "Postavite tekst stranice",
                 "message": "Što je tekst stranice?",
-                "inputPlaceholder": "tekst za dodavanje"
+                "inputPlaceholder": "tekst za dodavanje",
+                "ariaLabel": "Navedite novi tekst za dodavanje na stranicu %{pageNum}"
             },
             "ariaLabel": "dodaj novi tekst na stranicu %{pageNum}"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "Ovo će ukloniti sav audio zapis snimljen za ovu stranicu.",
             "additionalMessage2": "OVO SE NE MOŽE PONIŠTITI!",
             "title": "Potvrda brisanja",
-            "message": "Jeste li sigurni da želite izbrisati stranicu %{pageNum}?"
+            "message": "Jeste li sigurni da želite izbrisati stranicu %{pageNum}?",
+            "ariaLabel": "Potvrdite da želite ukloniti stranicu %{pageNum}"
         },
         "ariaLabel": "ukloni stranicu %{pageNum}"
     },

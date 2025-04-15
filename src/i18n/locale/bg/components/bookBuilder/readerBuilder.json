@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Сигурни ли сте, че искате да изтриете четеца \u201e%{readerDisplayName}\u201c?",
                 "noDisplayName": "Сигурни ли сте, че искате да изтриете този четец?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Потвърдете, че искате да изтриете четеца \"%{readerDisplayName}\"",
+                "noDisplayName": "Потвърдете, че искате да изтриете този четец"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "На какво искате да промените показваното име на читателите?",
                 "noDisplayName": "Какво е екранното име за този четец?"
             },
-            "inputPlaceholder": "име на читател"
+            "inputPlaceholder": "име на читател",
+            "ariaLabel": {
+                "withDisplayName": "Актуализирайте съществуващото име на дисплея",
+                "noDisplayName": "Посочете новото име на дисплея"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "променете екранното име за четец %{readerDisplayName}",

@@ -4,7 +4,8 @@
             "noButtonAriaLabel": "아니요, 사용 가능한 책을 제거하지 마세요.",
             "yesButtonAriaLabel": "네, 사용 가능한 책을 제거하세요",
             "title": "제거 확인",
-            "message": "사용 가능한 이 책을 제거하시겠습니까?\n"
+            "message": "사용 가능한 이 책을 제거하시겠습니까?\n",
+            "ariaLabel": "사용 가능한 책을 제거 하려는지 확인하십시오"
         },
         "ariaLabel": "사용 가능한 책 %{bookName} 제거"
     },
@@ -20,7 +21,8 @@
             "noButtonAriaLabel": "아니요, 사용 가능한 책을 설치하지 마세요",
             "yesButtonAriaLabel": "네, 사용 가능한 책을 설치하세요",
             "title": "설치 확인",
-            "message": "이 사용 가능한 책을 설치하시겠습니까?\n그렇게 하면 %{fileSize}의 데이터가 사용됩니다."
+            "message": "이 사용 가능한 책을 설치하시겠습니까?\n그렇게 하면 %{fileSize}의 데이터가 사용됩니다.",
+            "ariaLabel": "사용 가능한 책을 설치 하려는지 확인하십시오"
         },
         "ariaLabel": "사용 가능한 책 %{bookName} 설치"
     }

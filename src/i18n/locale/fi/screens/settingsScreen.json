@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "Tämä poistaa kaikki tälle laitteelle asennetut kirjat.\n\n",
-        "button": {
-            "label": "Poistaa",
-            "title": "poistaa kaikki kirjat",
-            "ariaLabel": "poistaa kaikki kirjat"
-        },
-        "displayName": "Poista kaikki kirjat",
-        "processingMessage": "poistaminen...",
+    "bookDataManagement": {
+        "longDescription": "Tarvitseeko siirtää kirjojasi? ",
+        "displayName": "Kirjatietojen hallinta",
         "shortDescription": {
-            "disabled": "Poista kaikki kirjasi, mutta sinulla ei ole tällä hetkellä yhtään kirjaa asennettuna.",
-            "enabled": "Poista kaikki kirjasi."
+            "disabled": "Sinulla ei ole vielä asennettuja kirjoja, mutta kun olet tehnyt, voit hallita kirjastoasi - vientiä tai poistaa kirjoja tarpeen mukaan.",
+            "enabled": "Hallitse kirjastosi - vientiä tai poista kirjoja tarpeen mukaan."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "Ionicons",
                 "someIconsBy": "Kuvakkeet kirjoittaja:",
                 "icons8": "Kuvakkeet 8",
-                "iconArchive": "Kuvakearkisto"
+                "iconArchive": "Kuvakearkisto",
+                "veryIcon": "Hyvin kuvake"
             }
         },
         "version": "Versio: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Yksinkertainen",
                 "ariaLabel": "käytä yksinkertaista kuvankäsittelyohjelmaa"
+            },
+            "beta": {
+                "label": "Beeta",
+                "ariaLabel": "Käytä beetakuvaeditoria"
             }
         },
         "shortDescription": "Valitse käytettävä kuvankäsittelyohjelma.",
@@ -71,6 +70,11 @@
             "collapsed": "laajenna äänivideon valintaosaa"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Vie kaikki kirjat",
+        "title": "Vie kaikki kirjat",
+        "ariaLabel": "Vie kaikki kirjat"
+    },
     "cameraImageQuality": {
         "longDescription": "Tätä kuvanlaatua käytetään otettaessa kuvia laitteen kameroilla.",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "Asetukset",
     "confirmations": {"deleteAllBooks": {
-        "title": "Poiston vahvistus",
-        "message": "Haluatko varmasti poistaa kaikki asennetut kirjat?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "Tästä voi olla hyötyä, kun siirryt uuteen laitteeseen tai lisäät kirjojasi useisiin laitteisiin.",
-        "button": {
-            "label": "Viedä",
-            "title": "viedä kaikki kirjat",
-            "ariaLabel": "viedä kaikki kirjat"
+        "buttons": {
+            "no": {"ariaLabel": "Älä poista kaikkia asennettuja kirjoja"},
+            "yes": {"ariaLabel": "Kyllä, poista kaikki asennetut kirjat"}
         },
-        "displayName": "Vie kaikki kirjat",
-        "shortDescription": {
-            "disabled": "Vie kaikki kirjasi yhteen tiedostoon ja tallenna/jaa se, mutta sinulla ei ole tällä hetkellä asennettuna yhtään kirjaa.",
-            "enabled": "Vie kaikki kirjasi yhteen tiedostoon ja tallenna/jaa se."
-        }
-    },
+        "title": "Poiston vahvistus",
+        "message": "Haluatko varmasti poistaa kaikki asennetut kirjat?",
+        "ariaLabel": "Vahvista, jos haluat poistaa kaikki asennetut kirjat"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "poistaminen epäonnistui",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Puhenopeus %{value} %",
         "shortDescription": "Valitse \"AI Readerin\" käyttämän äänen nopeus."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "Kirjojen poistaminen ...",
+        "label": "Poista kaikki kirjat",
+        "title": "Poista kaikki kirjat",
+        "ariaLabel": "Poista kaikki kirjat"
     },
     "parentalLocking": {
         "longDescription": "Kun tämä on käytössä, laitteen omistajien biometrisiä tietoja tarvitaan sovelluksen lisäominaisuuksien avaamiseen.",

@@ -1,6 +1,7 @@
 {
     "confirmations": {
         "goBack": {
+            "ariaLabel": "confirm that you want to leave before saving",
             "title": "Leave Changes",
             "message": "Are you sure that you want to leave before saving?"
         }
@@ -151,6 +152,7 @@
             "ariaLabel": "add new reader",
 
             "prompt": {
+                "ariaLabel": "add a new reader",
                 "title": "Add New Reader",
                 "description": "Please provide the display name for this new reader.",
                 "inputAriaLabel": "display name for this new reader",

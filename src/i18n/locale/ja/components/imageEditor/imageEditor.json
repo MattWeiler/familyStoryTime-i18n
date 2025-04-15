@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "作物",
+        "ariaLabel": "トリミングモードに切り替えます"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "変更を破棄します",
+        "rotation": "回転の変更を破棄します",
+        "perspectiveCrop": "視点の作物の変化を捨てます",
+        "crop": "作物の変更を廃棄します"
+    }},
+    "headerLabel": {
+        "default": "写真を編集します",
+        "rotation": "回転",
+        "perspectiveCrop": "視点作物",
+        "crop": "作物"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "変更を破棄して画像エディターに戻さないでください"},
+        "discardButton": {
+            "label": "破棄",
+            "ariaLabel": "変更を破棄し、画像エディターを閉じます"
+        },
+        "title": "変更を破棄します",
+        "message": "変更を破棄したいですか？",
+        "ariaLabel": "編集中の画像に対して行った変更を破棄したいことを確認してください"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "-90度回転します"},
+        "saveButton": {
+            "label": "保存",
+            "ariaLabel": "回転を保存します"
+        },
+        "90PlusButton": {"ariaLabel": "+90度回転します"},
+        "resetButton": {
+            "label": "リセット",
+            "ariaLabel": "回転をリセットします"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "フリップ水平",
+        "ariaLabel": "画像を水平に裏返します"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "画像をリロードしないでください"},
+        "title": "画像をリロードします",
+        "message": "画像をリロードしたいですか？\n",
+        "initButton": {
+            "label": "リロード",
+            "ariaLabel": "画像をリロードして、行われたすべての変更を失います"
+        },
+        "ariaLabel": "画像をリロードしたいことを確認し、編集中の画像に対して行った変更を失います"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "保存",
+            "ariaLabel": "視点の作物を保存します"
+        },
+        "resetButton": {
+            "label": "リセット",
+            "ariaLabel": "視点の作物をリセットします"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "視点作物",
+        "ariaLabel": "パースペクティブクロップモードに切り替えます"
+    },
+    "reloadButton": {
+        "label": "リロード",
+        "ariaLabel": "ソースから画像をリロードします"
+    },
+    "doneButton": {"ariaLabel": "変更を保存します"},
+    "rotationButton": {
+        "label": "回転します",
+        "ariaLabel": "回転モードに切り替えます"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "保存",
+            "ariaLabel": "作物を保存します"
+        },
+        "resetButton": {
+            "label": "リセット",
+            "ariaLabel": "作物をリセットします"
+        }
+    }
+}

@@ -4,7 +4,8 @@
             "noButtonAriaLabel": "ne, neodinstalujte dostupnou knihu",
             "yesButtonAriaLabel": "ano, odinstalovat dostupnou knihu",
             "title": "Potvrzení odinstalace",
-            "message": "Opravdu chcete tuto dostupnou knihu odinstalovat?\n"
+            "message": "Opravdu chcete tuto dostupnou knihu odinstalovat?\n",
+            "ariaLabel": "Potvrďte, že chcete odinstalovat dostupnou knihu"
         },
         "ariaLabel": "odinstalovat dostupnou knihu %{bookName}"
     },
@@ -20,7 +21,8 @@
             "noButtonAriaLabel": "ne, neinstalujte dostupnou knihu",
             "yesButtonAriaLabel": "ano, nainstalovat dostupnou knihu",
             "title": "Potvrzení instalace",
-            "message": "Jste si jisti, že chcete nainstalovat tuto dostupnou knihu?\nPokud tak učiníte, použije se %{fileSize} dat."
+            "message": "Jste si jisti, že chcete nainstalovat tuto dostupnou knihu?\nPokud tak učiníte, použije se %{fileSize} dat.",
+            "ariaLabel": "Potvrďte, že chcete nainstalovat dostupnou knihu"
         },
         "ariaLabel": "nainstalovat dostupnou knihu %{bookName}"
     }

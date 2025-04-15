@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Oldalszöveg újraolvasása",
-                "message": "Biztos benne, hogy be akarja szkennelni a képet szövegért, és lecseréli a meglévő oldalszöveget?"
+                "message": "Biztos benne, hogy be akarja szkennelni a képet szövegért, és lecseréli a meglévő oldalszöveget?",
+                "ariaLabel": "Erősítse meg, hogy a képet újból meg akarja szkennelni a szöveghez"
             },
             "ariaLabel": "szöveg kibontása a képből a %{pageNum} oldalhoz"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Mi az oldal szövege?",
                     "withPageText": "Mire szeretné módosítani az oldal szövegét?"
                 },
-                "inputPlaceholder": "hozzáadandó szöveg"
+                "inputPlaceholder": "hozzáadandó szöveg",
+                "ariaLabel": {
+                    "noPageText": "Adja meg az oldal szövegét",
+                    "withPageText": "Frissítse a meglévő oldalszöveget"
+                }
             },
             "ariaLabel": "szerkessze a \"%{pageText}\" szöveget a %{pageNum} oldalról"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Törlés megerősítése",
-                "message": "Biztosan törli ezt az oldal szövegét?"
+                "message": "Biztosan törli ezt az oldal szövegét?",
+                "ariaLabel": "Erősítse meg, hogy el akarja távolítani ezt az oldal szöveget"
             },
             "ariaLabel": "távolítsa el a \"%{pageText}\" szöveget a %{pageNum} oldalról"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "szöveg a(z) %{pageNum} oldalhoz",
                 "title": "Oldalszöveg beállítása",
                 "message": "Mi az oldal szövege?",
-                "inputPlaceholder": "hozzáadandó szöveg"
+                "inputPlaceholder": "hozzáadandó szöveg",
+                "ariaLabel": "Adja meg az új szöveget a %{pageNum} oldalhoz."
             },
             "ariaLabel": "új szöveg hozzáadása a %{pageNum} oldalhoz"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "Ezzel eltávolítja az oldalhoz rögzített összes hangot.",
             "additionalMessage2": "EZ NEM VISSZAVONHATÓ!",
             "title": "Törlés megerősítése",
-            "message": "Biztosan törli a %{pageNum} oldalt?"
+            "message": "Biztosan törli a %{pageNum} oldalt?",
+            "ariaLabel": "Erősítse meg, hogy el szeretné távolítani a %{pageNum} oldalt"
         },
         "ariaLabel": "%{pageNum} oldal eltávolítása"
     },

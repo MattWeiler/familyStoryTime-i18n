@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Acces refuzat",
-            "message": "Ați refuzat permisiunea de a vă accesa camera."
+            "message": "Ați refuzat permisiunea de a vă accesa camera.",
+            "ariaLabel": "Permisiunea a fost refuzată să facă poze cu camera dvs., fie să acordați accesul, fie să pierdeți capacitatea de a face acest lucru"
         },
         "browseImages": {
             "title": "Acces refuzat",
-            "message": "Ați refuzat permisiunea de a vă accesa fotografiile."
+            "message": "Ați refuzat permisiunea de a vă accesa fotografiile.",
+            "ariaLabel": "Permisiunea a fost refuzată să vă acceseze fotografiile, fie să acordați accesul, fie să pierdeți capacitatea de a face acest lucru"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Închideți ecranul complet"}

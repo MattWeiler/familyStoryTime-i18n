@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Sato",
+        "ariaLabel": "Vaihda viljelytilaan"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "hylätä muutokset",
+        "rotation": "Hävitä kierto muutokset",
+        "perspectiveCrop": "Hävitä perspektiivi sadon muutokset",
+        "crop": "Hävitä sadon muutokset"
+    }},
+    "headerLabel": {
+        "default": "Muokata valokuva",
+        "rotation": "Kierto",
+        "perspectiveCrop": "Perspektiivi",
+        "crop": "Sato"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Älä hävitä muutoksia ja palaa kuvaeditoriin"},
+        "discardButton": {
+            "label": "Hylätä",
+            "ariaLabel": "Hävitä muutokset ja sulje kuvaeditori"
+        },
+        "title": "Hylätä muutokset",
+        "message": "Oletko varma, että haluat hylätä muutokset?",
+        "ariaLabel": "Varmista, että haluat hylätä muutokset, jotka olet tehnyt muokattavalle kuvalle"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "kiertää -90 astetta"},
+        "saveButton": {
+            "label": "Tallentaa",
+            "ariaLabel": "Tallenna kierto"
+        },
+        "90PlusButton": {"ariaLabel": "kiertää +90 astetta"},
+        "resetButton": {
+            "label": "Nollata",
+            "ariaLabel": "Nollaa kierto"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Kääntää vaakasuora",
+        "ariaLabel": "Käännä kuva vaakasuoraan"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Älä lataa kuvaa uudelleen"},
+        "title": "Ladata kuva",
+        "message": "Oletko varma, että haluat kuvan uudelleen?\n",
+        "initButton": {
+            "label": "Ladata uudelleen",
+            "ariaLabel": "Lataa kuva uudelleen menettämällä kaikki tehdyt muutokset"
+        },
+        "ariaLabel": "Varmista, että haluat kuvan uudelleen ladata, menettämällä muutokset, jotka olet tehnyt muokattavalle kuvalle"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Tallentaa",
+            "ariaLabel": "Tallenna perspektiivisato"
+        },
+        "resetButton": {
+            "label": "Nollata",
+            "ariaLabel": "Nollaa perspektiivisato"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Perspektiivi",
+        "ariaLabel": "Vaihda perspektiivin sato -tilaan"
+    },
+    "reloadButton": {
+        "label": "Ladata uudelleen",
+        "ariaLabel": "Lataa kuva uudelleen lähteestä"
+    },
+    "doneButton": {"ariaLabel": "Tallenna muutokset"},
+    "rotationButton": {
+        "label": "Kiertää",
+        "ariaLabel": "Vaihda kiertotilaan"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Tallentaa",
+            "ariaLabel": "pelastaa sato"
+        },
+        "resetButton": {
+            "label": "Nollata",
+            "ariaLabel": "Nollaa sato"
+        }
+    }
+}

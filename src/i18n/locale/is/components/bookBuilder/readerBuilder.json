@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Ertu viss um að þú viljir eyða \u201e%{readerDisplayName}\u201c lesandanum?",
                 "noDisplayName": "Ertu viss um að þú viljir eyða þessum lesanda?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Staðfestu að þú viljir eyða \u201e%{readerDisplayName}\u201c lesandanum",
+                "noDisplayName": "Staðfestu að þú viljir eyða þessum lesanda"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "Í hvað viltu breyta skjánafni þessa lesenda?",
                 "noDisplayName": "Hvað er skjáheitið fyrir þennan lesanda?"
             },
-            "inputPlaceholder": "nafn lesanda"
+            "inputPlaceholder": "nafn lesanda",
+            "ariaLabel": {
+                "withDisplayName": "Uppfærðu núverandi skjáheiti",
+                "noDisplayName": "Tilgreindu nýja skjánafnið"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "breyttu skjáheitinu fyrir lesandann %{readerDisplayName}",

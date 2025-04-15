@@ -66,7 +66,8 @@
             "yes": {"ariaLabel": "annuler l'importation"}
         },
         "title": "Confirmer Annuler l'importation",
-        "message": "Etes-vous sûr de vouloir annuler l'importation ?"
+        "message": "Etes-vous sûr de vouloir annuler l'importation ?",
+        "ariaLabel": "Confirmez que vous souhaitez annuler l'importation"
     }},
     "titles": {
         "booksToInstall": "Livres à installer",

@@ -66,7 +66,8 @@
             "yes": {"ariaLabel": "annullere importen"}
         },
         "title": "Bekræft Annuller import",
-        "message": "Er du sikker på, at du vil annullere importen?"
+        "message": "Er du sikker på, at du vil annullere importen?",
+        "ariaLabel": "bekræft, at du vil annullere importen"
     }},
     "titles": {
         "booksToInstall": "Bøger der skal installeres",

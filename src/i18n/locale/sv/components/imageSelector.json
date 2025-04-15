@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Tillstånd nekad",
-            "message": "Du har förnekat tillåtelse att komma åt din kamera."
+            "message": "Du har förnekat tillåtelse att komma åt din kamera.",
+            "ariaLabel": "Tillstånd har nekats att ta bilder med din kamera, antingen ge åtkomsten eller förlora förmågan att göra det"
         },
         "browseImages": {
             "title": "Tillstånd nekad",
-            "message": "Du har förnekat tillåtelse att komma åt dina foton."
+            "message": "Du har förnekat tillåtelse att komma åt dina foton.",
+            "ariaLabel": "Tillstånd har nekats för att få åtkomst till dina foton, antingen ge åtkomsten eller förlora förmågan att göra det"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "stänga helskärm"}

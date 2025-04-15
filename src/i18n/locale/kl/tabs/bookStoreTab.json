@@ -4,7 +4,8 @@
             "noButtonAriaLabel": "aap, atuakkiaq Available uninngatinnagu",
             "yesButtonAriaLabel": "aap, atuakkiaq pissarsiarineqarsinnaasoq uninstalleruk",
             "title": "Uppernarsaaneq aallaavigalugu",
-            "message": "Qularnanngilaq atuakkiaq una pissarsiarineqarsinnaasoq uninngatinniarlugu?\n"
+            "message": "Qularnanngilaq atuakkiaq una pissarsiarineqarsinnaasoq uninngatinniarlugu?\n",
+            "ariaLabel": "uppernarsarlugu atuakkiaq atorneqarsinnaasoq unitsissallugu"
         },
         "ariaLabel": "atuagaq pissarsiarineqarsinnaasoq %{bookName} peerlugu"
     },
@@ -20,7 +21,8 @@
             "noButtonAriaLabel": "aap, atuakkamik pissarsiarineqarsinnaasumik installereqanngilatit",
             "yesButtonAriaLabel": "aap, atuakkiaq pissarsiarineqarsinnaasoq installeruk",
             "title": "Installerneq Uppernarsaaneq",
-            "message": "Qularnanngilaq atuakkiaq una pissarsiarineqarsinnaasoq installerusukkukku?\nTaamaaliornikkut %{fileSize} data atorneqassaaq."
+            "message": "Qularnanngilaq atuakkiaq una pissarsiarineqarsinnaasoq installerusukkukku?\nTaamaaliornikkut %{fileSize} data atorneqassaaq.",
+            "ariaLabel": "uppernarsarlugu atuakkamik pissarsiarineqarsinnaasumik installereqarusunnerit"
         },
         "ariaLabel": "atuagaq pissarsiarineqarsinnaasoq %{bookName} ikkuguk"
     }

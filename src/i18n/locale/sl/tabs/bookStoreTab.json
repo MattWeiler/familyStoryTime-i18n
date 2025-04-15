@@ -4,7 +4,8 @@
             "noButtonAriaLabel": "ne, ne odstranite knjige Na voljo",
             "yesButtonAriaLabel": "da, odstrani razpoložljivo knjigo",
             "title": "Potrditev odstranitve",
-            "message": "Ali ste prepričani, da želite odstraniti to razpoložljivo knjigo?\n"
+            "message": "Ali ste prepričani, da želite odstraniti to razpoložljivo knjigo?\n",
+            "ariaLabel": "potrdite, da želite odstraniti razpoložljivo knjigo"
         },
         "ariaLabel": "odstranite razpoložljivo knjigo %{bookName}"
     },
@@ -20,7 +21,8 @@
             "noButtonAriaLabel": "ne, ne nameščaj razpoložljive knjige",
             "yesButtonAriaLabel": "da, namestite razpoložljivo knjigo",
             "title": "Potrditev namestitve",
-            "message": "Ali ste prepričani, da želite namestiti to razpoložljivo knjigo?\nS tem boste porabili %{fileSize} podatkov."
+            "message": "Ali ste prepričani, da želite namestiti to razpoložljivo knjigo?\nS tem boste porabili %{fileSize} podatkov.",
+            "ariaLabel": "Potrdite, da želite namestiti razpoložljivo knjigo"
         },
         "ariaLabel": "namestite razpoložljivo knjigo %{bookName}"
     }

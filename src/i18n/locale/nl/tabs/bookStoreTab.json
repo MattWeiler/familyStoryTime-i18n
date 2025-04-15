@@ -4,7 +4,8 @@
             "noButtonAriaLabel": "nee, verwijder het Beschikbare boek niet",
             "yesButtonAriaLabel": "ja, verwijder het beschikbare boek",
             "title": "Bevestiging verwijderen",
-            "message": "Weet u zeker dat u dit beschikbare boek wilt verwijderen?\n"
+            "message": "Weet u zeker dat u dit beschikbare boek wilt verwijderen?\n",
+            "ariaLabel": "Bevestig dat u het beschikbare boek wilt verwijderen"
         },
         "ariaLabel": "verwijder het beschikbare boek %{bookName}"
     },
@@ -20,7 +21,8 @@
             "noButtonAriaLabel": "nee, installeer het beschikbare boek niet",
             "yesButtonAriaLabel": "ja, installeer het beschikbare boek",
             "title": "Installatiebevestiging",
-            "message": "Weet u zeker dat u dit beschikbare boek wilt installeren?\nAls u dit doet, wordt %{fileSize} aan gegevens gebruikt."
+            "message": "Weet u zeker dat u dit beschikbare boek wilt installeren?\nAls u dit doet, wordt %{fileSize} aan gegevens gebruikt.",
+            "ariaLabel": "Bevestig dat u het beschikbare boek wilt installeren"
         },
         "ariaLabel": "installeer het beschikbare boek %{bookName}"
     }

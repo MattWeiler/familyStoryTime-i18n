@@ -19,24 +19,6 @@
         "packaging": "poortorneq ...",
         "cancelling": "unitsitsineq ..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "atuartartut",
-                    "ariaLabel": "atuakkamut %{bookTitle}-mut atuartup paasissutissaatai \u200b\u200bkisimik avammut tunisinnaavatit"
-                },
-                "full": {
-                    "label": "ulikkaarpoq",
-                    "ariaLabel": "atuagaq tamakkerlugu %{bookTitle} avammut tuniuk"
-                }
-            },
-            "ariaLabel": "atuakkamik %{bookTitle} qanoq tunisassiorsinnaanerlutit toqqaruk"
-        },
-        "readers": {"checkbox": {"ariaLabel": "atuartoq %{readerDisplayName} avammut ilanngunniarlugu"}},
-        "checkbox": {"ariaLabel": "atuakkap %{bookTitle}-ip tunisassiornermut ilanngunneqarnissaa"},
-        "bookReadersTooltip": {"label": "\"Atuartut\" toqqarukku atuartut toqqarneqarsimasut kisimik exporterneqassapput.\n\n"}
-    },
     "packagedMultiBookFileName": "Atuakkat",
     "nothingToExport": "Avammut tuniniaanissamut susoqanngilaq :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "avammut tuniniaaneq unitsiguk"}
         },
         "title": "Uppernarsaruk Export-imik unitsitsineq",
-        "message": "Qularnanngilaq avammut tuniniaaneq unitsissallugu?"
+        "message": "Qularnanngilaq avammut tuniniaaneq unitsissallugu?",
+        "ariaLabel": "uppernarsarlugu import-imik unitsitsiniarnerit"
     }},
     "titles": {
         "booksToExport": "Atuakkat Avammut tunineqarnissaat",

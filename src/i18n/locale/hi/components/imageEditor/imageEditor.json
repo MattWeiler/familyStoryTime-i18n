@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "काटना",
+        "ariaLabel": "फसल मोड पर स्विच करें"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "परिवर्तनों को निरस्त करें",
+        "rotation": "रोटेशन परिवर्तन को छोड़ दें",
+        "perspectiveCrop": "परिप्रेक्ष्य फसल परिवर्तन त्यागें",
+        "crop": "फसल में बदलाव को छोड़ दें"
+    }},
+    "headerLabel": {
+        "default": "फ़ोटो संपादित करें",
+        "rotation": "ROTATION",
+        "perspectiveCrop": "परिप्रेक्ष्य फसल",
+        "crop": "काटना"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "परिवर्तनों को त्याग न करें और छवि संपादक पर लौटें"},
+        "discardButton": {
+            "label": "खारिज करना",
+            "ariaLabel": "परिवर्तनों को छोड़ दें और छवि संपादक को बंद करें"
+        },
+        "title": "परिवर्तनों को निरस्त करें",
+        "message": "क्या आप सुनिश्चित हैं कि आप परिवर्तनों को छोड़ना चाहते हैं?",
+        "ariaLabel": "इस बात की पुष्टि करें कि आप किसी भी बदलाव को छोड़ना चाहते हैं जो आपने संपादित की जा रही छवि में किए हैं"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "-90 डिग्री घुमाएं"},
+        "saveButton": {
+            "label": "बचाना",
+            "ariaLabel": "रोटेशन बचाओ"
+        },
+        "90PlusButton": {"ariaLabel": "+90 डिग्री घुमाएं"},
+        "resetButton": {
+            "label": "रीसेट करना",
+            "ariaLabel": "रोटेशन को रीसेट करें"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "क्षैतिज",
+        "ariaLabel": "छवि को क्षैतिज रूप से फ्लिप करें"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "छवि को फिर से लोड न करें"},
+        "title": "पुनः लोड छवि",
+        "message": "क्या आप सुनिश्चित हैं कि आप छवि को फिर से लोड करना चाहते हैं?\n",
+        "initButton": {
+            "label": "फिर से लोड करना",
+            "ariaLabel": "छवि को फिर से लोड करें, किए गए सभी परिवर्तनों को खो दें"
+        },
+        "ariaLabel": "पुष्टि करें कि आप छवि को फिर से लोड करना चाहते हैं, जो आपने संपादित की जा रही छवि में किए गए किसी भी परिवर्तन को खो दिया है"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "बचाना",
+            "ariaLabel": "परिप्रेक्ष्य फसल बचाओ"
+        },
+        "resetButton": {
+            "label": "रीसेट करना",
+            "ariaLabel": "परिप्रेक्ष्य फसल को रीसेट करें"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "परिप्रेक्ष्य फसल",
+        "ariaLabel": "परिप्रेक्ष्य फसल मोड पर स्विच करें"
+    },
+    "reloadButton": {
+        "label": "फिर से लोड करना",
+        "ariaLabel": "स्रोत से छवि को पुनः लोड करें"
+    },
+    "doneButton": {"ariaLabel": "परिवर्तनों को सुरक्षित करें"},
+    "rotationButton": {
+        "label": "घुमाएँ",
+        "ariaLabel": "रोटेशन मोड पर स्विच करें"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "बचाना",
+            "ariaLabel": "फसल बचाओ"
+        },
+        "resetButton": {
+            "label": "रीसेट करना",
+            "ariaLabel": "फसल को रीसेट करें"
+        }
+    }
+}

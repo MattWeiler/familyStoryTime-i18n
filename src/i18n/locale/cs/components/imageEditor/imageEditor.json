@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Plodina",
+        "ariaLabel": "Přepněte do režimu plodiny"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "zlikvidovat změny",
+        "rotation": "Změny zlikvidujte",
+        "perspectiveCrop": "Vyhoďte perspektivní změny plodin",
+        "crop": "zlikvidovat změny plodin"
+    }},
+    "headerLabel": {
+        "default": "Upravit fotografii",
+        "rotation": "Otáčení",
+        "perspectiveCrop": "Perspektivní plodina",
+        "crop": "Plodina"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Nezahrnujte změny a vraťte se do editoru obrázků"},
+        "discardButton": {
+            "label": "VYŘADIT",
+            "ariaLabel": "Vyhoďte změny a zavřete editor obrázků"
+        },
+        "title": "Zlikvidovat změny",
+        "message": "Jste si jisti, že chcete zahodit změny?",
+        "ariaLabel": "Potvrďte, že chcete zahodit všechny změny, které jste provedli s upraveným obrázkem"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "Otočte -90 stupňů"},
+        "saveButton": {
+            "label": "Uložit",
+            "ariaLabel": "Uložte rotaci"
+        },
+        "90PlusButton": {"ariaLabel": "Otočte +90 stupňů"},
+        "resetButton": {
+            "label": "Resetovat",
+            "ariaLabel": "Resetujte rotaci"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Překlopit horizontální",
+        "ariaLabel": "Otočte obrázek vodorovně"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Nepřeplňte obrázek"},
+        "title": "Obrázek načtení",
+        "message": "Jste si jisti, že chcete obrázek znovu načíst?\n",
+        "initButton": {
+            "label": "Obnovit",
+            "ariaLabel": "Znovu načtěte obrázek a ztratíte všechny provedené změny"
+        },
+        "ariaLabel": "Potvrďte, že chcete obrázek znovu načíst a ztrácet jakékoli změny, které jste provedli s upraveným obrázkem"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Uložit",
+            "ariaLabel": "uložte perspektivní plodinu"
+        },
+        "resetButton": {
+            "label": "Resetovat",
+            "ariaLabel": "resetovat perspektivu plodiny"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Perspektivní plodina",
+        "ariaLabel": "Přepněte do perspektivního režimu plodiny"
+    },
+    "reloadButton": {
+        "label": "Obnovit",
+        "ariaLabel": "Znovu načtěte obrázek ze zdroje"
+    },
+    "doneButton": {"ariaLabel": "Ušetřete změny"},
+    "rotationButton": {
+        "label": "Střídat",
+        "ariaLabel": "Přepněte do režimu rotace"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Uložit",
+            "ariaLabel": "Uložte úrodu"
+        },
+        "resetButton": {
+            "label": "Resetovat",
+            "ariaLabel": "resetovat plodinu"
+        }
+    }
+}

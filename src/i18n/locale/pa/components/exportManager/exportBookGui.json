@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "ਪਾਠਕ",
+                "ariaLabel": "ਕਿਤਾਬ for %{bookTitle} ਲਈ ਪਾਠਕ ਜਾਣਕਾਰੀ ਨੂੰ ਹੀ ਨਿਰਯਾਤ ਕਰ"
+            },
+            "full": {
+                "label": "ਪੂਰਾ",
+                "ariaLabel": "ਪੂਰੀ ਕਿਤਾਬ %{bookTitle} ਨਿਰਯਾਤ ਕਰੋ"
+            }
+        },
+        "ariaLabel": "ਚੁਣੋ ਕਿ ਕਿਤਾਬ} %{bookTitle} ਨੂੰ ਕਿਵੇਂ ਨਿਰਯਾਤ ਕਰਨਾ ਹ"
+    },
+    "readers": {"checkbox": {"ariaLabel": "ਰੀਡਰ ਨੂੰ ਐਕਸਪੋਰਟ ਵਿੱਚ %{readerDisplayName} \"ਸ਼ਾਮਲ ਕਰਨ ਲਈ"}},
+    "checkbox": {"ariaLabel": "ਬਰਾਮਦ ਵਿੱਚ ਕਿਤਾਬ for %{bookTitle} ਨੂੰ ਸ਼ਾਮਲ ਕਰਨ ਲਈ"},
+    "bookReadersTooltip": {"label": "\"ਪਾਠਕਾਂ ਦੀ ਚੋਣ ਕਰਨਾ ਚੋਣ ਸਿਰਫ ਚੁਣੇ ਪਾਠਕਾਂ ਨੂੰ ਨਿਰਯਾਤ ਕਰੇਗੀ.\n\n"}
+}

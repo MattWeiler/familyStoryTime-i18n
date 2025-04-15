@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "これにより、このデバイスにインストールされているすべての書籍が削除されます。\n\n",
-        "button": {
-            "label": "消去",
-            "title": "すべての本を削除する",
-            "ariaLabel": "すべての本を削除する"
-        },
-        "displayName": "すべての書籍を削除",
-        "processingMessage": "削除しています ...",
+    "bookDataManagement": {
+        "longDescription": "あなたの本を動かす必要がありますか？",
+        "displayName": "予約データ管理",
         "shortDescription": {
-            "disabled": "すべてのブックを削除しますが、現在インストールされているブックはありません。",
-            "enabled": "すべての書籍を削除します。"
+            "disabled": "まだインストールされている本はありませんが、一度したら、ライブラリを制御することができます。必要に応じて本を出したり削除したりできます。",
+            "enabled": "ライブラリを制御してください。必要に応じて書籍を省略または削除します。"
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "イオンアイコン",
                 "someIconsBy": "アイコンの作者:",
                 "icons8": "アイコン8",
-                "iconArchive": "アイコンアーカイブ"
+                "iconArchive": "アイコンアーカイブ",
+                "veryIcon": "非常にアイコン"
             }
         },
         "version": "バージョン: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "単純",
                 "ariaLabel": "シンプルな画像エディタを使用する"
+            },
+            "beta": {
+                "label": "ベータ",
+                "ariaLabel": "ベータ画像エディターを使用します"
             }
         },
         "shortDescription": "どの画像エディタを使用するかを選択します。",
@@ -71,6 +70,11 @@
             "collapsed": "オーディオビデオ選択セクションを展開します"
         }
     },
+    "exportAllBooksButton": {
+        "label": "すべての本をエクスポートします",
+        "title": "すべての本をエクスポートします",
+        "ariaLabel": "すべての本をエクスポートします"
+    },
     "cameraImageQuality": {
         "longDescription": "この画質は、デバイスのカメラで写真を撮るときに使用されます。",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "設定",
     "confirmations": {"deleteAllBooks": {
-        "title": "削除の確認",
-        "message": "インストールされているブックをすべて削除してもよろしいですか?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "これは、新しいデバイスに移行するとき、または書籍を複数のデバイスに追加するときに役立ちます。",
-        "button": {
-            "label": "輸出",
-            "title": "すべての書籍をエクスポートする",
-            "ariaLabel": "すべての書籍をエクスポートする"
+        "buttons": {
+            "no": {"ariaLabel": "インストールされているすべての本を削除しないでください"},
+            "yes": {"ariaLabel": "はい、インストールされているすべての本を削除します"}
         },
-        "displayName": "すべての書籍をエクスポート",
-        "shortDescription": {
-            "disabled": "すべての書籍を 1 つのファイルにエクスポートして保存/共有しますが、現在書籍がインストールされていません。",
-            "enabled": "すべての書籍を 1 つのファイルにエクスポートし、保存/共有します。"
-        }
-    },
+        "title": "削除の確認",
+        "message": "インストールされているブックをすべて削除してもよろしいですか?",
+        "ariaLabel": "インストールされているすべての本を削除するかどうかを確認してください"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "削除に失敗しました",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "発話率 %{value}%",
         "shortDescription": "「AIリーダー」が使用する音声の速度を選択します。"
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "本の削除...",
+        "label": "すべての本を削除します",
+        "title": "すべての本を削除します",
+        "ariaLabel": "すべての本を削除します"
     },
     "parentalLocking": {
         "longDescription": "有効にすると、アプリケーションの高度な機能のロックを解除するには、デバイス所有者の生体認証データが必要になります。",

@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Zugriff verweigert",
-            "message": "Sie haben die Erlaubnis verweigert, auf Ihre Kamera zuzugreifen."
+            "message": "Sie haben die Erlaubnis verweigert, auf Ihre Kamera zuzugreifen.",
+            "ariaLabel": "Es wurde die Erlaubnis verweigert, Fotos mit Ihrer Kamera zu machen, entweder den Zugang zu gewähren oder die Möglichkeit zu verlieren, dies zu tun"
         },
         "browseImages": {
             "title": "Zugriff verweigert",
-            "message": "Sie haben die Erlaubnis verweigert, auf Ihre Fotos zuzugreifen."
+            "message": "Sie haben die Erlaubnis verweigert, auf Ihre Fotos zuzugreifen.",
+            "ariaLabel": "Es wurde die Erlaubnis verweigert, auf Ihre Fotos zuzugreifen, entweder den Zugang zu gewähren oder die Möglichkeit zu verlieren, dies zu tun"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Vollbild schließen"}

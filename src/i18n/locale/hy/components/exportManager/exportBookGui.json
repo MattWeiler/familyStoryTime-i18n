@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "ընթերցողներ",
+                "ariaLabel": "Միայն ընթերցողի տեղեկությունները արտահանեք գրքի համար %{bookTitle}"
+            },
+            "full": {
+                "label": "լի",
+                "ariaLabel": "Արտահանեք ամբողջ գիրքը %{bookTitle}"
+            }
+        },
+        "ariaLabel": "Ընտրեք Ինչպես արտահանել գիրքը %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "արտահանման մեջ ներառել ընթերցող %{readerDisplayName}"}},
+    "checkbox": {"ariaLabel": "արտահանման մեջ ներառել գիրքը %{bookTitle}"},
+    "bookReadersTooltip": {"label": "Ընտրելով «Ընթերցողների» տարբերակը արտահանելու է միայն ընտրված ընթերցողներ:\n\n"}
+}

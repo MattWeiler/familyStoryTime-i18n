@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Egyértelmű megerősítés",
-            "message": "Biztosan szeretné törölni a kiválasztott hangot?"
+            "message": "Biztosan szeretné törölni a kiválasztott hangot?",
+            "ariaLabel": "erősítse meg, hogy törölje a kiválasztott audio -t"
         },
         "ariaLabel": "Törölje a kiválasztott %{audioDisplayName} audio"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "Nem, maradj és folytassa a szerkesztést",
                 "yes": "Igen, dobja el a szerkesztéseket"
-            }
+            },
+            "ariaLabel": "Erősítse meg, ha el szeretné dobni az Ön által készített szerkesztéseket"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "Az engedély megtagadása",
-        "message": "Megtagadta az engedélyt a mikrofon eléréséhez."
+        "message": "Megtagadta az engedélyt a mikrofon eléréséhez.",
+        "ariaLabel": "megtagadta az engedélyt a mikrofon eléréséhez"
     }}
 }

@@ -4,7 +4,8 @@
             "noButtonAriaLabel": "nej, avinstallera inte boken Tillgänglig",
             "yesButtonAriaLabel": "ja, avinstallera den tillgängliga boken",
             "title": "Avinstallationsbekräftelse",
-            "message": "Är du säker på att du vill avinstallera den här tillgängliga boken?\n"
+            "message": "Är du säker på att du vill avinstallera den här tillgängliga boken?\n",
+            "ariaLabel": "Bekräfta att du vill avinstallera den tillgängliga boken"
         },
         "ariaLabel": "avinstallera den tillgängliga boken %{bookName}"
     },
@@ -20,7 +21,8 @@
             "noButtonAriaLabel": "nej, installera inte den tillgängliga boken",
             "yesButtonAriaLabel": "ja, installera den tillgängliga boken",
             "title": "Installationsbekräftelse",
-            "message": "Är du säker på att du vill installera den här tillgängliga boken?\nOm du gör det kommer att använda %{fileSize} av data."
+            "message": "Är du säker på att du vill installera den här tillgängliga boken?\nOm du gör det kommer att använda %{fileSize} av data.",
+            "ariaLabel": "Bekräfta att du vill installera den tillgängliga boken"
         },
         "ariaLabel": "installera den tillgängliga boken %{bookName}"
     }

@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Ponovno skeniraj besedilo strani",
-                "message": "Ali ste prepričani, da želite skenirati sliko za besedilo in zamenjati obstoječe besedilo strani?"
+                "message": "Ali ste prepričani, da želite skenirati sliko za besedilo in zamenjati obstoječe besedilo strani?",
+                "ariaLabel": "Potrdite, da želite ponovno skenirati sliko za besedilo"
             },
             "ariaLabel": "izvleček besedila iz slike za stran %{pageNum}"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Kakšno je besedilo strani?",
                     "withPageText": "V kaj bi radi spremenili besedilo strani?"
                 },
-                "inputPlaceholder": "besedilo za dodajanje"
+                "inputPlaceholder": "besedilo za dodajanje",
+                "ariaLabel": {
+                    "noPageText": "Določite besedilo strani",
+                    "withPageText": "Posodobite obstoječe besedilo strani"
+                }
             },
             "ariaLabel": "uredi besedilo »%{pageText}« s strani %{pageNum}"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Potrditev izbrisa",
-                "message": "Ali ste prepričani, da želite izbrisati to besedilo strani?"
+                "message": "Ali ste prepričani, da želite izbrisati to besedilo strani?",
+                "ariaLabel": "potrdite, da želite odstraniti besedilo strani"
             },
             "ariaLabel": "odstranite besedilo »%{pageText}« s strani %{pageNum}"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "besedilo za dodajanje strani %{pageNum}",
                 "title": "Nastavi besedilo strani",
                 "message": "Kakšno je besedilo strani?",
-                "inputPlaceholder": "besedilo za dodajanje"
+                "inputPlaceholder": "besedilo za dodajanje",
+                "ariaLabel": "Navedite novo besedilo, ki ga želite dodati na stran %{pageNum}"
             },
             "ariaLabel": "dodaj novo besedilo na stran %{pageNum}"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "S tem boste odstranili ves zvok strani, posnet za to stran.",
             "additionalMessage2": "TEGA NI MOGOČE RAZVELJAVITI!",
             "title": "Potrditev izbrisa",
-            "message": "Ali ste prepričani, da želite izbrisati stran %{pageNum}?"
+            "message": "Ali ste prepričani, da želite izbrisati stran %{pageNum}?",
+            "ariaLabel": "Potrdite, da želite odstraniti stran %{pageNum}"
         },
         "ariaLabel": "odstrani stran %{pageNum}"
     },

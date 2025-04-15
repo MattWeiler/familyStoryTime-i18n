@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Usjev",
+        "ariaLabel": "Prebacite se na način usjeva"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "odbaciti promjene",
+        "rotation": "odbaciti promjene rotacije",
+        "perspectiveCrop": "odbaciti perspektivne promjene usjeva",
+        "crop": "odbaciti promjene usjeva"
+    }},
+    "headerLabel": {
+        "default": "Uredi fotografiju",
+        "rotation": "Rotacija",
+        "perspectiveCrop": "Perspektivni usjev",
+        "crop": "Usjev"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Ne odbacujte promjene i vratite se u uređivač slike"},
+        "discardButton": {
+            "label": "ODBACITI",
+            "ariaLabel": "Odbacite promjene i zatvorite uređivač slike"
+        },
+        "title": "Odbaciti promjene",
+        "message": "Jeste li sigurni da želite odbaciti promjene?",
+        "ariaLabel": "Potvrdite da želite odbaciti sve promjene koje ste napravili na slici koja se uređuje"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "Zakrenite -90 stupnjeva"},
+        "saveButton": {
+            "label": "Uštedjeti",
+            "ariaLabel": "Spremite rotaciju"
+        },
+        "90PlusButton": {"ariaLabel": "Zakrenite +90 stupnjeva"},
+        "resetButton": {
+            "label": "Resetirati",
+            "ariaLabel": "resetirati rotaciju"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Okrenuti horizontalni",
+        "ariaLabel": "Okrenite sliku vodoravno"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Ne ponovno učitajte sliku"},
+        "title": "Ponovno utovarite sliku",
+        "message": "Jeste li sigurni da želite ponovno učitati sliku?\n",
+        "initButton": {
+            "label": "Ponovo napuniti",
+            "ariaLabel": "Ponovno učitajte sliku, izgubivši sve napravljene promjene"
+        },
+        "ariaLabel": "Potvrdite da želite ponovno učitati sliku, izgubivši bilo kakve promjene koje ste napravili u uređivanju slike"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Uštedjeti",
+            "ariaLabel": "Spremite perspektivni usjev"
+        },
+        "resetButton": {
+            "label": "Resetirati",
+            "ariaLabel": "resetirajte perspektivni usjev"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Perspektivni usjev",
+        "ariaLabel": "Prebacite se na perspektivni način usjeva"
+    },
+    "reloadButton": {
+        "label": "Ponovo napuniti",
+        "ariaLabel": "Ponovno učitajte sliku iz izvora"
+    },
+    "doneButton": {"ariaLabel": "Spremite promjene"},
+    "rotationButton": {
+        "label": "Rotirati",
+        "ariaLabel": "Prebacite se na način rotacije"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Uštedjeti",
+            "ariaLabel": "Spremite usjev"
+        },
+        "resetButton": {
+            "label": "Resetirati",
+            "ariaLabel": "resetirajte usjev"
+        }
+    }
+}

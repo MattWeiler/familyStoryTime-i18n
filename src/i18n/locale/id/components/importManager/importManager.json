@@ -66,7 +66,8 @@
             "yes": {"ariaLabel": "membatalkan impor"}
         },
         "title": "Konfirmasi Batalkan Impor",
-        "message": "Apakah Anda yakin ingin membatalkan impor?"
+        "message": "Apakah Anda yakin ingin membatalkan impor?",
+        "ariaLabel": "Konfirmasikan bahwa Anda ingin membatalkan impor"
     }},
     "titles": {
         "booksToInstall": "Buku untuk Dipasang",

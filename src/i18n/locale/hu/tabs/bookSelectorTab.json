@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Biztos benne, hogy törölni szeretné a %{count} kiválasztott könyvet?",
                                 "one": "Biztos benne, hogy törölni szeretné a kiválasztott könyvet?"
+                            },
+                            "ariaLabel": {
+                                "other": "Erősítse meg, hogy törölni szeretné a kiválasztott %{count} könyveket",
+                                "one": "Erősítse meg, hogy törölni szeretné a kiválasztott könyvet"
                             }
                         },
                         "ariaLabel": "törölje a kiválasztott könyveket"
@@ -118,6 +122,7 @@
     "title": "Olvasósarok",
     "confirmations": {"deleteBook": {
         "title": "Törlés megerősítése",
-        "message": "Biztosan törli a(z) \"%{bookTitle}\" könyvet?"
+        "message": "Biztosan törli a(z) \"%{bookTitle}\" könyvet?",
+        "ariaLabel": "Erősítse meg, hogy törölni kívánja -e a \"%{bookTitle}\" könyvet"
     }}
 }

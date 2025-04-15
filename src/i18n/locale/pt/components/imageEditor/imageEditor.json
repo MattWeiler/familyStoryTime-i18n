@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Cortar",
+        "ariaLabel": "Mudar para o modo de corte"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "descarte as mudanças",
+        "rotation": "Descartar mudanças de rotação",
+        "perspectiveCrop": "Descartar mudanças de colheita em perspectiva",
+        "crop": "descartar mudanças nas culturas"
+    }},
+    "headerLabel": {
+        "default": "Editar foto",
+        "rotation": "Rotação",
+        "perspectiveCrop": "Colheita de perspectiva",
+        "crop": "Cortar"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Não descarte as mudanças e retorne ao editor de imagens"},
+        "discardButton": {
+            "label": "DESCARTAR",
+            "ariaLabel": "Descarte as alterações e feche o editor de imagens"
+        },
+        "title": "Descarte as mudanças",
+        "message": "Tem certeza de que deseja descartar as alterações?",
+        "ariaLabel": "Confirme que deseja descartar quaisquer alterações que você fez na imagem que está sendo editada"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "Gire -90 graus"},
+        "saveButton": {
+            "label": "Salvar",
+            "ariaLabel": "salve a rotação"
+        },
+        "90PlusButton": {"ariaLabel": "Gire +90 graus"},
+        "resetButton": {
+            "label": "Reiniciar",
+            "ariaLabel": "redefinir a rotação"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Flip Horizontal",
+        "ariaLabel": "Vire a imagem horizontalmente"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Não recarregue a imagem"},
+        "title": "Recarregue a imagem",
+        "message": "Tem certeza de que deseja recarregar a imagem?\n",
+        "initButton": {
+            "label": "Recarregar",
+            "ariaLabel": "Recarregue a imagem, perdendo todas as alterações feitas"
+        },
+        "ariaLabel": "Confirme que deseja recarregar a imagem, perdendo as alterações que você fez na imagem que está sendo editada"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Salvar",
+            "ariaLabel": "salve a colheita de perspectiva"
+        },
+        "resetButton": {
+            "label": "Reiniciar",
+            "ariaLabel": "Redefina a colheita de perspectiva"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Colheita de perspectiva",
+        "ariaLabel": "Mudar para o modo de colheita em perspectiva"
+    },
+    "reloadButton": {
+        "label": "Recarregar",
+        "ariaLabel": "Recarregue a imagem da fonte"
+    },
+    "doneButton": {"ariaLabel": "salvar alterações"},
+    "rotationButton": {
+        "label": "Girar",
+        "ariaLabel": "Mudar para o modo de rotação"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Salvar",
+            "ariaLabel": "salve a colheita"
+        },
+        "resetButton": {
+            "label": "Reiniciar",
+            "ariaLabel": "Redefina a colheita"
+        }
+    }
+}

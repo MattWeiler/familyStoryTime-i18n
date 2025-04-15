@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Duidelijke bevestiging",
-            "message": "Weet u zeker dat u de geselecteerde audio wilt wissen?"
+            "message": "Weet u zeker dat u de geselecteerde audio wilt wissen?",
+            "ariaLabel": "Bevestig dat u de geselecteerde audio wilt wissen"
         },
         "ariaLabel": "Wis de geselecteerde %{audioDisplayName} audio"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "Nee, blijf en blijf bewerken",
                 "yes": "Ja, gooi bewerkingen weg"
-            }
+            },
+            "ariaLabel": "Bevestig of u eventuele bewerkingen wilt weggooien die u hebt aangebracht"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "Toestemming geweigerd",
-        "message": "U hebt toestemming geweigerd om toegang te krijgen tot uw microfoon."
+        "message": "U hebt toestemming geweigerd om toegang te krijgen tot uw microfoon.",
+        "ariaLabel": "U hebt toestemming geweigerd om toegang te krijgen tot uw microfoon"
     }}
 }

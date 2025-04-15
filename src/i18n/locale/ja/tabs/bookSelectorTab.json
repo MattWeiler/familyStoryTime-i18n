@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "選択した %{count} 冊の書籍を削除してもよろしいですか?",
                                 "one": "選択した本を削除してもよろしいですか?"
+                            },
+                            "ariaLabel": {
+                                "other": "選択した%{count}本を削除することを確認してください",
+                                "one": "選択した本を削除することを確認してください"
                             }
                         },
                         "ariaLabel": "選択した本を削除します"
@@ -118,6 +122,7 @@
     "title": "読書コーナー",
     "confirmations": {"deleteBook": {
         "title": "削除の確認",
-        "message": "書籍「%{bookTitle}」を削除してもよろしいですか?"
+        "message": "書籍「%{bookTitle}」を削除してもよろしいですか?",
+        "ariaLabel": "本「%{bookTitle}」を削除することを確認してください"
     }}
 }

@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "Lesendur",
+                "ariaLabel": "Flyttu aðeins út upplýsingar lesandans fyrir bók %{bookTitle}"
+            },
+            "full": {
+                "label": "Full",
+                "ariaLabel": "Flyttu út alla bókina %{bookTitle}"
+            }
+        },
+        "ariaLabel": "Veldu hvernig á að flytja út bók %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "Til að fela lesandann %{readerDisplayName} í útflutninginn"}},
+    "checkbox": {"ariaLabel": "Til að taka bókina %{bookTitle} í útflutninginn"},
+    "bookReadersTooltip": {"label": "Að velja valkostinn \u201eLesendur\u201c mun aðeins flytja út valinn lesendur.\n\n"}
+}

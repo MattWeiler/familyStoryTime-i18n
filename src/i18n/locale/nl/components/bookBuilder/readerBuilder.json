@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Weet u zeker dat u de lezer \"%{readerDisplayName}\" wilt verwijderen?",
                 "noDisplayName": "Weet u zeker dat u deze reader wilt verwijderen?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Bevestig dat u de lezer \"%{readerDisplayName}\" wilt verwijderen",
+                "noDisplayName": "Bevestig dat u deze lezer wilt verwijderen"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "Waarin wilt u de weergavenaam van deze lezer wijzigen?",
                 "noDisplayName": "Wat is de weergavenaam voor deze lezer?"
             },
-            "inputPlaceholder": "naam van lezer"
+            "inputPlaceholder": "naam van lezer",
+            "ariaLabel": {
+                "withDisplayName": "Werk de bestaande weergavenaam bij",
+                "noDisplayName": "Geef de nieuwe weergavenaam op"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "wijzig de weergavenaam voor lezer %{readerDisplayName}",

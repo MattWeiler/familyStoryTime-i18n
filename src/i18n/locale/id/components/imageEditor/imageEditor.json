@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Tanaman",
+        "ariaLabel": "beralih ke mode tanaman"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "Buang Perubahan",
+        "rotation": "Buang perubahan rotasi",
+        "perspectiveCrop": "Buang Perubahan Tanaman Perspektif",
+        "crop": "Buang perubahan tanaman"
+    }},
+    "headerLabel": {
+        "default": "Edit foto",
+        "rotation": "Rotasi",
+        "perspectiveCrop": "Tanaman perspektif",
+        "crop": "Tanaman"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Jangan membuang perubahan dan kembali ke editor gambar"},
+        "discardButton": {
+            "label": "MEMBUANG",
+            "ariaLabel": "Buang perubahan dan tutup editor gambar"
+        },
+        "title": "Buang Perubahan",
+        "message": "Apakah Anda yakin ingin membuang perubahan?",
+        "ariaLabel": "Konfirmasikan bahwa Anda ingin membuang perubahan apa pun yang telah Anda buat pada gambar yang diedit"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "Putar -90 derajat"},
+        "saveButton": {
+            "label": "Menyimpan",
+            "ariaLabel": "Simpan rotasi"
+        },
+        "90PlusButton": {"ariaLabel": "Putar +90 derajat"},
+        "resetButton": {
+            "label": "Mengatur ulang",
+            "ariaLabel": "Setel ulang rotasi"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Flip Horizontal",
+        "ariaLabel": "Balikkan gambar secara horizontal"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Jangan memuat ulang gambar"},
+        "title": "Muat Ulang Gambar",
+        "message": "Apakah Anda yakin ingin memuat ulang gambar?\n",
+        "initButton": {
+            "label": "Muat ulang",
+            "ariaLabel": "Lakukan Muat Ulang Gambar, Kehilangan Semua Perubahan yang Dibuat"
+        },
+        "ariaLabel": "Konfirmasikan bahwa Anda ingin memuat ulang gambar, kehilangan perubahan yang telah Anda buat pada gambar yang diedit"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Menyimpan",
+            "ariaLabel": "Simpan tanaman perspektif"
+        },
+        "resetButton": {
+            "label": "Mengatur ulang",
+            "ariaLabel": "Setel ulang tanaman perspektif"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Tanaman perspektif",
+        "ariaLabel": "beralih ke mode tanaman perspektif"
+    },
+    "reloadButton": {
+        "label": "Muat ulang",
+        "ariaLabel": "Muat Ulang Gambar dari Sumber"
+    },
+    "doneButton": {"ariaLabel": "Simpan perubahan"},
+    "rotationButton": {
+        "label": "Memutar",
+        "ariaLabel": "beralih ke mode rotasi"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Menyimpan",
+            "ariaLabel": "Simpan tanaman"
+        },
+        "resetButton": {
+            "label": "Mengatur ulang",
+            "ariaLabel": "Setel ulang tanaman"
+        }
+    }
+}

@@ -4,7 +4,8 @@
             "noButtonAriaLabel": "hayır, Mevcut kitabı kaldırmayın",
             "yesButtonAriaLabel": "evet, mevcut kitabı kaldır",
             "title": "Onayı Kaldırma",
-            "message": "Bu mevcut kitabı kaldırmak istediğinizden emin misiniz?\n"
+            "message": "Bu mevcut kitabı kaldırmak istediğinizden emin misiniz?\n",
+            "ariaLabel": "Mevcut kitabı kaldırmak istediğinizi onaylayın"
         },
         "ariaLabel": "mevcut %{bookName} kitabını kaldır"
     },
@@ -20,7 +21,8 @@
             "noButtonAriaLabel": "hayır, mevcut kitabı yükleme",
             "yesButtonAriaLabel": "evet, mevcut kitabı yükle",
             "title": "Onayı Yükle",
-            "message": "Bu mevcut kitabı yüklemek istediğinizden emin misiniz?\nBunu yapmak %{fileSize} veri kullanacaktır."
+            "message": "Bu mevcut kitabı yüklemek istediğinizden emin misiniz?\nBunu yapmak %{fileSize} veri kullanacaktır.",
+            "ariaLabel": "Mevcut kitabı yüklemek istediğinizi onaylayın"
         },
         "ariaLabel": "mevcut kitabı yükle %{bookName}"
     }

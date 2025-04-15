@@ -4,7 +4,8 @@
             "noButtonAriaLabel": "nei, ekki fjarlægja Available bókina",
             "yesButtonAriaLabel": "já, fjarlægðu tiltæka bók",
             "title": "Fjarlægðu staðfestingu",
-            "message": "Ertu viss um að þú viljir fjarlægja þessa tiltæku bók?\n"
+            "message": "Ertu viss um að þú viljir fjarlægja þessa tiltæku bók?\n",
+            "ariaLabel": "Staðfestu að þú viljir fjarlægja bókina sem til er"
         },
         "ariaLabel": "fjarlægja tiltæka bók %{bookName}"
     },
@@ -20,7 +21,8 @@
             "noButtonAriaLabel": "nei, ekki setja upp tiltæka bók",
             "yesButtonAriaLabel": "já, settu upp tiltæka bók",
             "title": "Uppsetning staðfesting",
-            "message": "Ertu viss um að þú viljir setja upp þessa tiltæku bók?\nÞegar þú gerir það mun %{fileSize} af gögnum nota."
+            "message": "Ertu viss um að þú viljir setja upp þessa tiltæku bók?\nÞegar þú gerir það mun %{fileSize} af gögnum nota.",
+            "ariaLabel": "Staðfestu að þú viljir setja upp fyrirliggjandi bók"
         },
         "ariaLabel": "settu upp tiltæka bók %{bookName}"
     }

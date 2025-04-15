@@ -66,7 +66,8 @@
             "yes": {"ariaLabel": "tunisassiorneq unitsissavaa"}
         },
         "title": "Uppernarsaruk Tunisassiorneq unitsissallugu",
-        "message": "Qularnanngilaq tunisassiorneq unitsissallugu?"
+        "message": "Qularnanngilaq tunisassiorneq unitsissallugu?",
+        "ariaLabel": "uppernarsarlugu import-imik unitsitsiniarnerit"
     }},
     "titles": {
         "booksToInstall": "Atuakkat Installerneqartussat",

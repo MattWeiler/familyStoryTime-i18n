@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Recadrer",
+        "ariaLabel": "Passez au mode Crop"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "jeter les changements",
+        "rotation": "éliminer les changements de rotation",
+        "perspectiveCrop": "Jeter les changements de culture en perspective",
+        "crop": "Jeter les changements de récolte"
+    }},
+    "headerLabel": {
+        "default": "Modifier la photo",
+        "rotation": "Rotation",
+        "perspectiveCrop": "Recadrage en perspective",
+        "crop": "Recadrer"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Ne jetez pas les modifications et ne revenez pas à l'éditeur d'image"},
+        "discardButton": {
+            "label": "JETER",
+            "ariaLabel": "Délicez les modifications et fermez l'éditeur d'image"
+        },
+        "title": "Jeter les changements",
+        "message": "Êtes-vous sûr que vous souhaitez jeter des changements?",
+        "ariaLabel": "Confirmez que vous souhaitez éliminer les modifications que vous avez apportées à l'image en cours de modification"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "faire tourner -90 degrés"},
+        "saveButton": {
+            "label": "Sauvegarder",
+            "ariaLabel": "Enregistrer la rotation"
+        },
+        "90PlusButton": {"ariaLabel": "faire tourner +90 degrés"},
+        "resetButton": {
+            "label": "Réinitialiser",
+            "ariaLabel": "Réinitialisez la rotation"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Flip horizontal",
+        "ariaLabel": "retourner l'image horizontalement"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Ne rechargez pas l'image"},
+        "title": "Image de rechargement",
+        "message": "Êtes-vous sûr que vous souhaitez recharger l'image?\n",
+        "initButton": {
+            "label": "Recharger",
+            "ariaLabel": "Recharger l'image, perdant toutes les modifications apportées"
+        },
+        "ariaLabel": "Confirmez que vous souhaitez recharger l'image, perdant les modifications que vous avez apportées à l'image en cours de modification"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Sauvegarder",
+            "ariaLabel": "sauver la culture en perspective"
+        },
+        "resetButton": {
+            "label": "Réinitialiser",
+            "ariaLabel": "Réinitialisez la culture en perspective"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Recadrage en perspective",
+        "ariaLabel": "Passez au mode de recadrage en perspective"
+    },
+    "reloadButton": {
+        "label": "Recharger",
+        "ariaLabel": "Recharger l'image de la source"
+    },
+    "doneButton": {"ariaLabel": "Enregistrer les modifications"},
+    "rotationButton": {
+        "label": "Tourner",
+        "ariaLabel": "Passer en mode rotation"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Sauvegarder",
+            "ariaLabel": "Sauver la récolte"
+        },
+        "resetButton": {
+            "label": "Réinitialiser",
+            "ariaLabel": "Réinitialisez la récolte"
+        }
+    }
+}

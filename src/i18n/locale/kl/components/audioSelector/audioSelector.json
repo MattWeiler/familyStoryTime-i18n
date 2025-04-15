@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Uppernarsaaneq ersarissoq",
-            "message": "Qularnanngilaq nipit toqqarneqarsimasut clearerniarlugit?"
+            "message": "Qularnanngilaq nipit toqqarneqarsimasut clearerniarlugit?",
+            "ariaLabel": "uppernarsarlugu nipit toqqarneqarsimasut clearerniarlugit"
         },
         "ariaLabel": "%{audioDisplayName} lyd toqqarneqarsimasoq toqqaruk"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "no, stay aamma ingerlateqqillugu",
                 "yes": "aap, editit peerlugit"
-            }
+            },
+            "ariaLabel": "uppernarsaruk redigerisimasatit suulluunniit suliarisimasatit annaarusukkukkit"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "Akuersissut Denied",
-        "message": "Mikrofonimut isernissamut akuersissummik itigartitsisimavutit."
+        "message": "Mikrofonimut isernissamut akuersissummik itigartitsisimavutit.",
+        "ariaLabel": "mikrofonimut isernissamut akuersissummik itigartitsisimavutit"
     }}
 }

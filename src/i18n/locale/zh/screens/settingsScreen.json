@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "这将删除该设备上安装的所有书籍。\n\n",
-        "button": {
-            "label": "删除",
-            "title": "删除所有书籍",
-            "ariaLabel": "删除所有书籍"
-        },
-        "displayName": "删除所有书籍",
-        "processingMessage": "删除...",
+    "bookDataManagement": {
+        "longDescription": "需要搬你的书吗？",
+        "displayName": "图书数据管理",
         "shortDescription": {
-            "disabled": "删除所有图书，但您当前没有安装任何图书。",
-            "enabled": "删除你所有的书。"
+            "disabled": "您还没有安装书籍，但是一旦这样做，就可以控制图书馆，或者根据需要删除书籍。",
+            "enabled": "控制您的图书馆 - 外部或根据需要删除书籍。"
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "离子图标",
                 "someIconsBy": "图标：",
                 "icons8": "图标8",
-                "iconArchive": "图标档案"
+                "iconArchive": "图标档案",
+                "veryIcon": "非常图标"
             }
         },
         "version": "版本：%{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "简单的",
                 "ariaLabel": "使用简单的图像编辑器"
+            },
+            "beta": {
+                "label": "beta",
+                "ariaLabel": "使用beta图像编辑器"
             }
         },
         "shortDescription": "选择应使用的图像编辑器。",
@@ -71,6 +70,11 @@
             "collapsed": "展开音频视频选择部分"
         }
     },
+    "exportAllBooksButton": {
+        "label": "导出所有书籍",
+        "title": "导出所有书籍",
+        "ariaLabel": "导出所有书籍"
+    },
     "cameraImageQuality": {
         "longDescription": "使用设备相机拍照时将使用此图像质量。",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "设置",
     "confirmations": {"deleteAllBooks": {
-        "title": "删除确认",
-        "message": "您确定要删除所有已安装的图书吗？"
-    }},
-    "exportAllBooks": {
-        "longDescription": "当迁移到新设备或将图书添加到多个设备时，这非常有用。",
-        "button": {
-            "label": "出口",
-            "title": "导出所有书籍",
-            "ariaLabel": "导出所有书籍"
+        "buttons": {
+            "no": {"ariaLabel": "不要删除所有已安装的书籍"},
+            "yes": {"ariaLabel": "是的，删除所有已安装的书籍"}
         },
-        "displayName": "导出所有书籍",
-        "shortDescription": {
-            "disabled": "将所有图书导出到单个文件并保存/共享它，但您当前尚未安装任何图书。",
-            "enabled": "将所有书籍导出到一个文件并保存/共享。"
-        }
-    },
+        "title": "删除确认",
+        "message": "您确定要删除所有已安装的图书吗？",
+        "ariaLabel": "确认是否要删除所有已安装的书籍"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "删除失败",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "语速%{value}%",
         "shortDescription": "选择\u201cAI Reader\u201d使用的语音速率。"
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "删除书...",
+        "label": "删除所有书籍",
+        "title": "删除所有书籍",
+        "ariaLabel": "删除所有书籍"
     },
     "parentalLocking": {
         "longDescription": "启用后，设备所有者需要生物识别数据才能解锁应用程序中的高级功能。",

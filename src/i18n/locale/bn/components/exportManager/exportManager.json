@@ -19,24 +19,6 @@
         "packaging": "প্যাকেজিং...",
         "cancelling": "বাতিল হচ্ছে..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "পাঠক",
-                    "ariaLabel": "শুধুমাত্র বই %{bookTitle} এর জন্য পাঠকের তথ্য রপ্তানি করুন"
-                },
-                "full": {
-                    "label": "পূর্ণ",
-                    "ariaLabel": "পুরো বই রপ্তানি করুন %{bookTitle}"
-                }
-            },
-            "ariaLabel": "কীভাবে বই রপ্তানি করবেন তা নির্বাচন করুন %{bookTitle}"
-        },
-        "readers": {"checkbox": {"ariaLabel": "রপ্তানিতে পাঠক %{readerDisplayName} অন্তর্ভুক্ত করতে"}},
-        "checkbox": {"ariaLabel": "রপ্তানিতে বই %{bookTitle} অন্তর্ভুক্ত করতে"},
-        "bookReadersTooltip": {"label": "\"পাঠক\" বিকল্পটি নির্বাচন করলে শুধুমাত্র নির্বাচিত পাঠক রপ্তানি হবে৷\n\n"}
-    },
     "packagedMultiBookFileName": "বই",
     "nothingToExport": "রপ্তানি করার কিছু নেই :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "রপ্তানি বাতিল করুন"}
         },
         "title": "রপ্তানি বাতিল নিশ্চিত করুন",
-        "message": "আপনি কি নিশ্চিত আপনি রপ্তানি বাতিল করতে চান?"
+        "message": "আপনি কি নিশ্চিত আপনি রপ্তানি বাতিল করতে চান?",
+        "ariaLabel": "আপনি আমদানি বাতিল করতে চান তা নিশ্চিত করুন"
     }},
     "titles": {
         "booksToExport": "রপ্তানি করার জন্য বই",

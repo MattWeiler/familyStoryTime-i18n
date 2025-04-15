@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Klar bekreftelse",
-            "message": "Er du sikker på at du vil fjerne den valgte lyden?"
+            "message": "Er du sikker på at du vil fjerne den valgte lyden?",
+            "ariaLabel": "Bekreft at du vil tømme den valgte lyden"
         },
         "ariaLabel": "Fjern den valgte %{audioDisplayName} lyden"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "Nei, bli og fortsett å redigere",
                 "yes": "Ja, kast redigeringer"
-            }
+            },
+            "ariaLabel": "Bekreft om du vil forkaste eventuelle redigeringer du har gjort"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "Tillatelse nektet",
-        "message": "Du har nektet tillatelse til å få tilgang til mikrofonen din."
+        "message": "Du har nektet tillatelse til å få tilgang til mikrofonen din.",
+        "ariaLabel": "Du har nektet tillatelse til å få tilgang til mikrofonen din"
     }}
 }

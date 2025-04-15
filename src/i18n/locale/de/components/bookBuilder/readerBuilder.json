@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Sind Sie sicher, dass Sie den Reader \u201e%{readerDisplayName}\u201c löschen möchten?",
                 "noDisplayName": "Sind Sie sicher, dass Sie diesen Leser löschen möchten?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Bestätigen Sie, dass Sie den Leser \"{%{readerDisplayName}\" löschen möchten",
+                "noDisplayName": "Bestätigen Sie, dass Sie diesen Leser löschen möchten"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "In was möchten Sie den Anzeigenamen dieses Lesers ändern?",
                 "noDisplayName": "Wie lautet der Anzeigename für diesen Reader?"
             },
-            "inputPlaceholder": "Lesername"
+            "inputPlaceholder": "Lesername",
+            "ariaLabel": {
+                "withDisplayName": "Aktualisieren Sie den vorhandenen Anzeigeamen",
+                "noDisplayName": "Geben Sie den neuen Anzeigenamen an"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "Ändern Sie den Anzeigenamen für Leser %{readerDisplayName}",

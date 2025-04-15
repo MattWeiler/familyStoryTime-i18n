@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Avling",
+        "ariaLabel": "Bytt til avlingsmodus"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "Kast endringer",
+        "rotation": "Kast rotasjonsendringer",
+        "perspectiveCrop": "Kast perspektivavlingsendringer",
+        "crop": "Kast avlingsendringer"
+    }},
+    "headerLabel": {
+        "default": "Rediger bilde",
+        "rotation": "Rotasjon",
+        "perspectiveCrop": "Perspektivavling",
+        "crop": "Avling"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Ikke kast endringer og gå tilbake til Image Editor"},
+        "discardButton": {
+            "label": "Kast",
+            "ariaLabel": "Forkast endringer og lukk bilderedigereren"
+        },
+        "title": "Kast endringer",
+        "message": "Er du sikker på at du vil forkaste endringer?",
+        "ariaLabel": "Bekreft at du vil forkaste eventuelle endringer du har gjort til at bildet blir redigert"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "roter -90 grader"},
+        "saveButton": {
+            "label": "Spare",
+            "ariaLabel": "Lagre rotasjonen"
+        },
+        "90PlusButton": {"ariaLabel": "roter +90 grader"},
+        "resetButton": {
+            "label": "Tilbakestill",
+            "ariaLabel": "Tilbakestill rotasjonen"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Flip horisontalt",
+        "ariaLabel": "Vend bildet horisontalt"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Ikke last inn bildet på nytt"},
+        "title": "Last inn bildet på nytt",
+        "message": "Er du sikker på at du vil laste inn bildet på nytt?\n",
+        "initButton": {
+            "label": "Last på nytt",
+            "ariaLabel": "Last inn bildet på nytt, mister alle endringer som er gjort"
+        },
+        "ariaLabel": "Bekreft at du vil laste inn bildet på nytt, og miste eventuelle endringer du har gjort til at bildet blir redigert"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Spare",
+            "ariaLabel": "Lagre perspektivavlingen"
+        },
+        "resetButton": {
+            "label": "Tilbakestill",
+            "ariaLabel": "Tilbakestill perspektivavlingen"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Perspektivavling",
+        "ariaLabel": "Bytt til perspektivavlingsmodus"
+    },
+    "reloadButton": {
+        "label": "Last på nytt",
+        "ariaLabel": "Last inn bildet på nytt fra kilden"
+    },
+    "doneButton": {"ariaLabel": "Lagre endringer"},
+    "rotationButton": {
+        "label": "Rotere",
+        "ariaLabel": "Bytt til rotasjonsmodus"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Spare",
+            "ariaLabel": "Lagre avlingen"
+        },
+        "resetButton": {
+            "label": "Tilbakestill",
+            "ariaLabel": "Tilbakestill avlingen"
+        }
+    }
+}

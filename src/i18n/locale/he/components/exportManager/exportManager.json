@@ -19,24 +19,6 @@
         "packaging": "אריזה...",
         "cancelling": "מבטל..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "קוראים",
-                    "ariaLabel": "ייצא רק את פרטי הקורא עבור הספר %{bookTitle}"
-                },
-                "full": {
-                    "label": "מָלֵא",
-                    "ariaLabel": "ייצא את הספר כולו %{bookTitle}"
-                }
-            },
-            "ariaLabel": "בחר כיצד לייצא ספר %{bookTitle}"
-        },
-        "readers": {"checkbox": {"ariaLabel": "כדי לכלול את הקורא %{readerDisplayName} בייצוא"}},
-        "checkbox": {"ariaLabel": "כדי לכלול את הספר %{bookTitle} בייצוא"},
-        "bookReadersTooltip": {"label": "בחירה באפשרות \"קוראים\" תייצא רק את הקוראים שנבחרו.\n\n"}
-    },
     "packagedMultiBookFileName": "ספרים",
     "nothingToExport": "אין מה לייצא :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "לבטל את הייצוא"}
         },
         "title": "אשר בטל ייצוא",
-        "message": "האם אתה בטוח שברצונך לבטל את הייצוא?"
+        "message": "האם אתה בטוח שברצונך לבטל את הייצוא?",
+        "ariaLabel": "אשר שאתה רוצה לבטל את הייבוא"
     }},
     "titles": {
         "booksToExport": "ספרים לייצוא",

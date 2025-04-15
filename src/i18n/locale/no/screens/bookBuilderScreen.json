@@ -21,7 +21,8 @@
                 },
                 "description": "Vennligst oppgi visningsnavnet for denne nye leseren.",
                 "title": "Legg til ny leser",
-                "inputPlaceholder": "lesernavn"
+                "inputPlaceholder": "lesernavn",
+                "ariaLabel": "Legg til en ny leser"
             },
             "ariaLabel": "legg til ny leser"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "La endringer",
-        "message": "Er du sikker på at du vil forlate før du lagrer?"
+        "message": "Er du sikker på at du vil forlate før du lagrer?",
+        "ariaLabel": "Bekreft at du vil forlate før du sparer"
     }},
     "pageChangeAudio": {
         "description": "Lyden som skal spilles av når det er på tide å bytte side.",

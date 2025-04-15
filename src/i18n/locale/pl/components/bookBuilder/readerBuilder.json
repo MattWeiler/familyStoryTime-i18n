@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Czy na pewno chcesz usunąć czytnik \u201e%{readerDisplayName}\u201d?",
                 "noDisplayName": "Czy na pewno chcesz usunąć tego czytnika?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Potwierdź, że chcesz usunąć czytnik \u201e%{readerDisplayName}",
+                "noDisplayName": "Potwierdź, że chcesz usunąć tego czytelnika"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "Na jaką nazwę chcesz zmienić wyświetlaną nazwę czytnika?",
                 "noDisplayName": "Jaka jest nazwa wyświetlana tego czytnika?"
             },
-            "inputPlaceholder": "imię czytelnika"
+            "inputPlaceholder": "imię czytelnika",
+            "ariaLabel": {
+                "withDisplayName": "Zaktualizuj istniejącą nazwę wyświetlania",
+                "noDisplayName": "Podaj nową nazwę wyświetlania"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "zmień nazwę wyświetlaną dla czytnika %{readerDisplayName}",

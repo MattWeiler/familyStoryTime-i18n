@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "Þetta mun eyða öllum bókunum sem eru uppsettar á þessu tæki.\n\n",
-        "button": {
-            "label": "Eyða",
-            "title": "eyða öllum bókum",
-            "ariaLabel": "eyða öllum bókum"
-        },
-        "displayName": "Eyða öllum bókum",
-        "processingMessage": "eyðir...",
+    "bookDataManagement": {
+        "longDescription": "Þarftu að flytja bækurnar þínar? ",
+        "displayName": "Bókaðu gagnastjórnun",
         "shortDescription": {
-            "disabled": "Eyddu öllum bókunum þínum, en þú ert ekki með neinar bækur uppsettar.",
-            "enabled": "Eyddu öllum bókunum þínum."
+            "disabled": "Þú hefur engar bækur settar upp ennþá, en þegar þú hefur gert það geturðu tekið stjórn á bókasafninu þínu - útflutning eða fjarlægt bækur eftir þörfum.",
+            "enabled": "Taktu stjórn á bókasafninu þínu - útflutnings eða fjarlægðu bækur eftir þörfum."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "Ionicons",
                 "someIconsBy": "Tákn eftir:",
                 "icons8": "Tákn 8",
-                "iconArchive": "Táknasafn"
+                "iconArchive": "Táknasafn",
+                "veryIcon": "Mjög táknmynd"
             }
         },
         "version": "Útgáfa: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Einfalt",
                 "ariaLabel": "notaðu einfaldan myndvinnsluforrit"
+            },
+            "beta": {
+                "label": "Beta",
+                "ariaLabel": "Notaðu Beta Image Editor"
             }
         },
         "shortDescription": "Veldu hvaða myndvinnsluforrit á að nota.",
@@ -71,6 +70,11 @@
             "collapsed": "stækkaðu hlutann fyrir hljóðmyndval"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Flytja út allar bækur",
+        "title": "Flytja út allar bækur",
+        "ariaLabel": "Flytja út allar bækur"
+    },
     "cameraImageQuality": {
         "longDescription": "Þessi myndgæði verða notuð þegar myndir eru teknar með myndavél(um) tækisins.",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "Stillingar",
     "confirmations": {"deleteAllBooks": {
-        "title": "Staðfesting á eyðingu",
-        "message": "Ertu viss um að þú viljir eyða öllum uppsettum bókum?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "Þetta getur verið gagnlegt þegar þú ferð yfir í nýtt tæki eða bætir bókunum þínum við mörg tæki.",
-        "button": {
-            "label": "Útflutningur",
-            "title": "flytja allar bækur út",
-            "ariaLabel": "flytja allar bækur út"
+        "buttons": {
+            "no": {"ariaLabel": "Ekki eyða öllum uppsettum bókum"},
+            "yes": {"ariaLabel": "Já, eyddu öllum uppsettum bókum"}
         },
-        "displayName": "Flytja út allar bækur",
-        "shortDescription": {
-            "disabled": "Flyttu út allar bækurnar þínar í eina skrá og vistaðu/deildu henni, en þú ert ekki með neinar bækur uppsettar.",
-            "enabled": "Flyttu út allar bækurnar þínar í eina skrá og vistaðu/deildu henni."
-        }
-    },
+        "title": "Staðfesting á eyðingu",
+        "message": "Ertu viss um að þú viljir eyða öllum uppsettum bókum?",
+        "ariaLabel": "Staðfestu hvort þú viljir eyða öllum uppsettum bókum"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "mistókst að eyða",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Talhraði %{value}%",
         "shortDescription": "Veldu hraða raddarinnar sem \"AI Reader\" á að nota."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "Eyða bækur ...",
+        "label": "Eyða öllum bókum",
+        "title": "Eyða öllum bókum",
+        "ariaLabel": "Eyða öllum bókum"
     },
     "parentalLocking": {
         "longDescription": "Þegar það er virkt þarf líffræðileg tölfræðigögn eiganda tækisins til að opna háþróaða eiginleika í forritinu.",

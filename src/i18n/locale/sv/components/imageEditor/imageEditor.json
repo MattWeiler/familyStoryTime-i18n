@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Beskära",
+        "ariaLabel": "Byt till skördläge"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "Kassera förändringar",
+        "rotation": "Kassera rotationsförändringar",
+        "perspectiveCrop": "Kassera perspektivförändringar",
+        "crop": "Kassera grödförändringar"
+    }},
+    "headerLabel": {
+        "default": "Redigera foto",
+        "rotation": "Rotation",
+        "perspectiveCrop": "Perspektivskörd",
+        "crop": "Beskära"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Kassera inte ändringar och återgå till Image Editor"},
+        "discardButton": {
+            "label": "KASSERA",
+            "ariaLabel": "Kassera ändringar och stänga bildredigeraren"
+        },
+        "title": "Kassera förändringar",
+        "message": "Är du säker på att du vill kasta ändringar?",
+        "ariaLabel": "Bekräfta att du vill kassera alla ändringar som du har gjort i bilden som redigeras"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "rotera -90 grader"},
+        "saveButton": {
+            "label": "Spara",
+            "ariaLabel": "Spara rotationen"
+        },
+        "90PlusButton": {"ariaLabel": "rotera +90 grader"},
+        "resetButton": {
+            "label": "Återställa",
+            "ariaLabel": "Återställ rotationen"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Vän horisontellt",
+        "ariaLabel": "Vänd bilden horisontellt"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Ladda inte om bilden"},
+        "title": "Ladda om bild",
+        "message": "Är du säker på att du vill ladda om bilden?\n",
+        "initButton": {
+            "label": "Ladda om",
+            "ariaLabel": "Ladda om bilden och förlorar alla ändringar som gjorts"
+        },
+        "ariaLabel": "Bekräfta att du vill ladda om bilden och förlora alla ändringar som du har gjort i bilden som redigeras"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Spara",
+            "ariaLabel": "Spara perspektivskörden"
+        },
+        "resetButton": {
+            "label": "Återställa",
+            "ariaLabel": "Återställ perspektivskörden"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Perspektivskörd",
+        "ariaLabel": "Byt till perspektivskördläge"
+    },
+    "reloadButton": {
+        "label": "Ladda om",
+        "ariaLabel": "Ladda om bilden från källan"
+    },
+    "doneButton": {"ariaLabel": "Spara förändringar"},
+    "rotationButton": {
+        "label": "Rotera",
+        "ariaLabel": "Byt till rotationsläge"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Spara",
+            "ariaLabel": "rädda grödan"
+        },
+        "resetButton": {
+            "label": "Återställa",
+            "ariaLabel": "Återställ grödan"
+        }
+    }
+}

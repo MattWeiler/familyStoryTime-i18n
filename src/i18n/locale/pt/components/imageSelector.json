@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Permissão negada",
-            "message": "Você negou permissão para acessar sua câmera."
+            "message": "Você negou permissão para acessar sua câmera.",
+            "ariaLabel": "A permissão foi negado para tirar fotos com sua câmera, conceder o acesso ou perder a capacidade de fazê -lo"
         },
         "browseImages": {
             "title": "Permissão negada",
-            "message": "Você negou permissão para acessar suas fotos."
+            "message": "Você negou permissão para acessar suas fotos.",
+            "ariaLabel": "A permissão foi negado para acessar suas fotos, conceda o acesso ou perca a capacidade de fazê -lo"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Feche a tela cheia"}

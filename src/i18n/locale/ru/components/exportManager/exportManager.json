@@ -19,24 +19,6 @@
         "packaging": "упаковка...",
         "cancelling": "отмена..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "читатели",
-                    "ariaLabel": "экспортируйте только информацию о читателях книги %{bookTitle}"
-                },
-                "full": {
-                    "label": "полный",
-                    "ariaLabel": "экспортировать всю книгу %{bookTitle}"
-                }
-            },
-            "ariaLabel": "выберите способ экспорта книги %{bookTitle}"
-        },
-        "readers": {"checkbox": {"ariaLabel": "чтобы включить считыватель %{readerDisplayName} в экспорт"}},
-        "checkbox": {"ariaLabel": "чтобы включить книгу %{bookTitle} в экспорт"},
-        "bookReadersTooltip": {"label": "Если выбрать опцию «Читатели», будут экспортированы только выбранные читатели.\n\n"}
-    },
     "packagedMultiBookFileName": "Книги",
     "nothingToExport": "Экспортировать нечего :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "отменить экспорт"}
         },
         "title": "Подтвердить Отменить экспорт",
-        "message": "Вы уверены, что хотите отменить экспорт?"
+        "message": "Вы уверены, что хотите отменить экспорт?",
+        "ariaLabel": "Убедитесь, что вы хотите отменить импорт"
     }},
     "titles": {
         "booksToExport": "Книги на экспорт",

@@ -21,7 +21,8 @@
                 },
                 "description": "Ange visningsnamnet för den här nya läsaren.",
                 "title": "Lägg till ny läsare",
-                "inputPlaceholder": "läsarens namn"
+                "inputPlaceholder": "läsarens namn",
+                "ariaLabel": "Lägg till en ny läsare"
             },
             "ariaLabel": "lägg till ny läsare"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "Lämna ändringar",
-        "message": "Är du säker på att du vill lämna innan du sparar?"
+        "message": "Är du säker på att du vill lämna innan du sparar?",
+        "ariaLabel": "Bekräfta att du vill lämna innan du sparar"
     }},
     "pageChangeAudio": {
         "description": "Ljudet som ska spelas upp när det är dags att byta sida.",

@@ -19,24 +19,6 @@
         "packaging": "ambalaj...",
         "cancelling": "anulare..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "cititori",
-                    "ariaLabel": "exportați doar informațiile despre cititor pentru cartea %{bookTitle}"
-                },
-                "full": {
-                    "label": "deplin",
-                    "ariaLabel": "exportați întreaga carte %{bookTitle}"
-                }
-            },
-            "ariaLabel": "selectați cum să exportați cartea %{bookTitle}"
-        },
-        "readers": {"checkbox": {"ariaLabel": "pentru a include cititorul %{readerDisplayName} în export"}},
-        "checkbox": {"ariaLabel": "pentru a include cartea %{bookTitle} în export"},
-        "bookReadersTooltip": {"label": "Selectarea opțiunii \u201ecititori\u201d va exporta doar cititorii aleși.\n\n"}
-    },
     "packagedMultiBookFileName": "Cărți",
     "nothingToExport": "Nimic de exportat :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "anulați exportul"}
         },
         "title": "Confirmați Anulați exportul",
-        "message": "Sigur doriți să anulați exportul?"
+        "message": "Sigur doriți să anulați exportul?",
+        "ariaLabel": "Confirmați că doriți să anulați importul"
     }},
     "titles": {
         "booksToExport": "Cărți de exportat",

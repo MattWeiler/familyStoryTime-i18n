@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Mahsul",
+        "ariaLabel": "Kırpma moduna geçin"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "Değişiklikleri at",
+        "rotation": "Döndürme değişikliklerini at",
+        "perspectiveCrop": "Perspektif kırpma değişikliklerini atın",
+        "crop": "Mahsul değişikliklerini atın"
+    }},
+    "headerLabel": {
+        "default": "Fotoğrafı düzenle",
+        "rotation": "Dönme",
+        "perspectiveCrop": "Perspektif mahsulü",
+        "crop": "Mahsul"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Değişiklikleri atmayın ve görüntü düzenleyiciye dönün"},
+        "discardButton": {
+            "label": "Atmak",
+            "ariaLabel": "Değişiklikleri atın ve görüntü düzenleyiciyi kapatın"
+        },
+        "title": "Değişiklikleri at",
+        "message": "Değişiklikleri atmak istediğinizden emin misiniz?",
+        "ariaLabel": "Düzenlenen görüntüyle yaptığınız değişiklikleri atmak istediğinizi onaylayın"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "-90 derece döndürün"},
+        "saveButton": {
+            "label": "Kaydetmek",
+            "ariaLabel": "rotasyonu kaydedin"
+        },
+        "90PlusButton": {"ariaLabel": "+90 derece döndürün"},
+        "resetButton": {
+            "label": "Sıfırlamak",
+            "ariaLabel": "Rotasyonu sıfırlayın"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Yatay çevir",
+        "ariaLabel": "Görüntüyü yatay olarak çevirin"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Görüntüyü yeniden yüklemeyin"},
+        "title": "Görüntüyü Yeniden Yükle",
+        "message": "Görüntüyü yeniden yüklemek istediğinizden emin misiniz?\n",
+        "initButton": {
+            "label": "Yeniden yüklemek",
+            "ariaLabel": "Görüntüyü yeniden yükleyin, yapılan tüm değişiklikleri kaybeder"
+        },
+        "ariaLabel": "Görüntüyü yeniden yüklemek istediğinizi onaylayın, düzenlenen görüntüye göre yaptığınız değişiklikleri kaybeder"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Kaydetmek",
+            "ariaLabel": "Perspektif mahsulü kaydedin"
+        },
+        "resetButton": {
+            "label": "Sıfırlamak",
+            "ariaLabel": "Perspektif mahsulü sıfırlayın"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Perspektif mahsulü",
+        "ariaLabel": "Perspektif kırpma moduna geçin"
+    },
+    "reloadButton": {
+        "label": "Yeniden yüklemek",
+        "ariaLabel": "Görüntüyü kaynaktan yeniden yükleyin"
+    },
+    "doneButton": {"ariaLabel": "Değişiklikleri Kaydet"},
+    "rotationButton": {
+        "label": "Döndürmek",
+        "ariaLabel": "Döndürme moduna geç"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Kaydetmek",
+            "ariaLabel": "mahsulü kurtar"
+        },
+        "resetButton": {
+            "label": "Sıfırlamak",
+            "ariaLabel": "mahsulü sıfırlayın"
+        }
+    }
+}

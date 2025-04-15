@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Jasna potvrda",
-            "message": "Jeste li sigurni da želite očistiti odabrani audio?"
+            "message": "Jeste li sigurni da želite očistiti odabrani audio?",
+            "ariaLabel": "Potvrdite da želite očistiti odabrani zvuk"
         },
         "ariaLabel": "Očistite odabrani %{audioDisplayName} audio"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "Ne, ostanite i nastavite uređivati",
                 "yes": "Da, odbacite Edits"
-            }
+            },
+            "ariaLabel": "Potvrdite ako želite odbaciti sve izmjene koje ste napravili"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "Dozvola odbijena",
-        "message": "Odbili ste dozvolu za pristup vašem mikrofonu."
+        "message": "Odbili ste dozvolu za pristup vašem mikrofonu.",
+        "ariaLabel": "Odbili ste dozvolu za pristup vašem mikrofonu"
     }}
 }

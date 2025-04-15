@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "读者",
+                "ariaLabel": "仅导出书籍%{bookTitle}的读取器信息"
+            },
+            "full": {
+                "label": "满的",
+                "ariaLabel": "导出整本书%{bookTitle}"
+            }
+        },
+        "ariaLabel": "选择如何导出书%{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "在导出中包括读者%{readerDisplayName}"}},
+    "checkbox": {"ariaLabel": "在导出中包括书%{bookTitle}"},
+    "bookReadersTooltip": {"label": "选择\u201c读者\u201d选项将仅导出所选读者。\n\n"}
+}

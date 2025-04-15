@@ -21,7 +21,8 @@
                 },
                 "description": "Atuartumut nutaamut una takutinneqartussaq allaguk.",
                 "title": "Atuartoq nutaaq ilanngukkit",
-                "inputPlaceholder": "atuartup aqqa"
+                "inputPlaceholder": "atuartup aqqa",
+                "ariaLabel": "atuartoq nutaaq ilanngukkit"
             },
             "ariaLabel": "atuartoq nutaaq ilanngukkit"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "Allanngortitsinerit qimakkit",
-        "message": "Qularnanngilaq annaasaqannginnermi qimagussorniarsarissasutit?"
+        "message": "Qularnanngilaq annaasaqannginnermi qimagussorniarsarissasutit?",
+        "ariaLabel": "sipaarniarneq sioqqullugu aninissat uppernarsaruk"
     }},
     "pageChangeAudio": {
         "description": "Quppernerup allanngortinnissaanut piffissanngoraangat nipilersorneq.",

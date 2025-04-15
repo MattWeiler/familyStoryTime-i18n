@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "Dette vil slette alle de bøger, der er installeret på denne enhed.\n\n",
-        "button": {
-            "label": "Slet",
-            "title": "slette alle bøger",
-            "ariaLabel": "slette alle bøger"
-        },
-        "displayName": "Slet alle bøger",
-        "processingMessage": "sletter...",
+    "bookDataManagement": {
+        "longDescription": "Brug for at flytte dine bøger? ",
+        "displayName": "Book Data Management",
         "shortDescription": {
-            "disabled": "Slet alle dine bøger, men du har i øjeblikket ingen bøger installeret.",
-            "enabled": "Slet alle dine bøger."
+            "disabled": "Du har ingen bøger installeret endnu, men når du først har gjort det, kan du tage kontrol over dit bibliotek - eksport eller fjerne bøger efter behov.",
+            "enabled": "Tag kontrol over dit bibliotek - eksort eller fjern bøger efter behov."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "Ioniconer",
                 "someIconsBy": "Ikoner af:",
                 "icons8": "Ikoner 8",
-                "iconArchive": "Ikonarkiv"
+                "iconArchive": "Ikonarkiv",
+                "veryIcon": "Meget ikon"
             }
         },
         "version": "Version: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Enkel",
                 "ariaLabel": "brug simpel billededitor"
+            },
+            "beta": {
+                "label": "Beta",
+                "ariaLabel": "Brug beta -billedredaktøren"
             }
         },
         "shortDescription": "Vælg hvilken billededitor der skal bruges.",
@@ -71,6 +70,11 @@
             "collapsed": "Udvid sektionen for valg af lyd og video"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Eksporter alle bøger",
+        "title": "Eksporter alle bøger",
+        "ariaLabel": "Eksporter alle bøger"
+    },
     "cameraImageQuality": {
         "longDescription": "Denne billedkvalitet vil blive brugt, når du tager billeder med enhedens kamera(er).",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "Indstillinger",
     "confirmations": {"deleteAllBooks": {
-        "title": "Bekræftelse af sletning",
-        "message": "Er du sikker på, at du vil slette alle installerede bøger?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "Dette kan være nyttigt, når du migrerer til en ny enhed eller tilføjer dine bøger til flere enheder.",
-        "button": {
-            "label": "Eksportere",
-            "title": "eksportere alle bøger",
-            "ariaLabel": "eksportere alle bøger"
+        "buttons": {
+            "no": {"ariaLabel": "Slet ikke alle installerede bøger"},
+            "yes": {"ariaLabel": "Ja, slet alle installerede bøger"}
         },
-        "displayName": "Eksporter alle bøger",
-        "shortDescription": {
-            "disabled": "Eksporter alle dine bøger til en enkelt fil og gem/del den, men du har i øjeblikket ingen bøger installeret.",
-            "enabled": "Eksporter alle dine bøger til en enkelt fil og gem/del den."
-        }
-    },
+        "title": "Bekræftelse af sletning",
+        "message": "Er du sikker på, at du vil slette alle installerede bøger?",
+        "ariaLabel": "Bekræft, om du vil slette alle installerede bøger"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "sletning mislykkedes",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Talehastighed %{value}%",
         "shortDescription": "Vælg den stemmehastighed, der skal bruges af \"AI Reader\"."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "Sletning af bøger ...",
+        "label": "Slet alle bøger",
+        "title": "Slet alle bøger",
+        "ariaLabel": "Slet alle bøger"
     },
     "parentalLocking": {
         "longDescription": "Når det er aktiveret, er enhedsejerens biometriske data påkrævet for at låse op for avancerede funktioner i applikationen.",

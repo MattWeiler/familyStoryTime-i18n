@@ -21,7 +21,8 @@
                 },
                 "description": "Uveďte prosím zobrazovaný název této nové čtečky.",
                 "title": "Přidat novou čtečku",
-                "inputPlaceholder": "jméno čtenáře"
+                "inputPlaceholder": "jméno čtenáře",
+                "ariaLabel": "Přidejte nový čtenář"
             },
             "ariaLabel": "přidat novou čtečku"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "Nechte změny",
-        "message": "Opravdu chcete před uložením odejít?"
+        "message": "Opravdu chcete před uložením odejít?",
+        "ariaLabel": "Potvrďte, že chcete odejít před uložením"
     }},
     "pageChangeAudio": {
         "description": "Zvuk, který se přehraje, když je čas změnit stránku.",

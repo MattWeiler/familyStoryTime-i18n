@@ -19,24 +19,6 @@
         "packaging": "umbúðir...",
         "cancelling": "hætta við..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "lesendum",
-                    "ariaLabel": "flyttu aðeins út lesendaupplýsingarnar fyrir bókina %{bookTitle}"
-                },
-                "full": {
-                    "label": "fullur",
-                    "ariaLabel": "flytja alla bókina %{bookTitle}"
-                }
-            },
-            "ariaLabel": "veldu hvernig á að flytja út bók %{bookTitle}"
-        },
-        "readers": {"checkbox": {"ariaLabel": "að hafa lesandann %{readerDisplayName} með í útflutningnum"}},
-        "checkbox": {"ariaLabel": "að hafa bókina %{bookTitle} með í útflutningnum"},
-        "bookReadersTooltip": {"label": "Ef valkosturinn \u201elesarar\u201c er valinn verða aðeins valdir lesendur fluttir út.\n\n"}
-    },
     "packagedMultiBookFileName": "Bækur",
     "nothingToExport": "Ekkert til að flytja út :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "hætta við útflutninginn"}
         },
         "title": "Staðfestu Hætta við útflutning",
-        "message": "Ertu viss um að þú viljir hætta við útflutninginn?"
+        "message": "Ertu viss um að þú viljir hætta við útflutninginn?",
+        "ariaLabel": "Staðfestu að þú viljir hætta við innflutninginn"
     }},
     "titles": {
         "booksToExport": "Bækur til útflutnings",

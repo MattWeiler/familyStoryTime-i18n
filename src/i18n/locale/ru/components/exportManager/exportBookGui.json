@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "читатели",
+                "ariaLabel": "Только экспортировать информацию читателя для книги %{bookTitle}"
+            },
+            "full": {
+                "label": "полный",
+                "ariaLabel": "Экспорт всей книги %{bookTitle}"
+            }
+        },
+        "ariaLabel": "Выберите, как экспортировать книгу %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "Чтобы включить читателя %{readerDisplayName} в экспорт"}},
+    "checkbox": {"ariaLabel": "Чтобы включить книгу %{bookTitle} в экспорт"},
+    "bookReadersTooltip": {"label": "Выбор опции «Читателей» будет экспортировать только выбранных читателей.\n\n"}
+}

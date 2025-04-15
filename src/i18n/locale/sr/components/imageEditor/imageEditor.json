@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Усев",
+        "ariaLabel": "Пребаците се на режим усева"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "одбаците промене",
+        "rotation": "Одбаците промене ротације",
+        "perspectiveCrop": "Одбаците перспективне промене усева",
+        "crop": "Одбаците промене усева"
+    }},
+    "headerLabel": {
+        "default": "Едит Пхото",
+        "rotation": "Ротација",
+        "perspectiveCrop": "Перспективни усев",
+        "crop": "Усев"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Не одбацујте промене и вратите се на уређивач слика"},
+        "discardButton": {
+            "label": "Одбацити",
+            "ariaLabel": "Одбаците промене и затворите уређивач слика"
+        },
+        "title": "Одбаците промене",
+        "message": "Јесте ли сигурни да желите да одбаците промене?",
+        "ariaLabel": "Потврдите да желите да одбаците било какве измене које сте направили на слику која је уређена"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "Ротирање -90 степени"},
+        "saveButton": {
+            "label": "Сачувати",
+            "ariaLabel": "Спреми ротацију"
+        },
+        "90PlusButton": {"ariaLabel": "Ротирајте +90 степени"},
+        "resetButton": {
+            "label": "Ресетовати",
+            "ariaLabel": "Ресетујте ротацију"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Флип хоризонтално",
+        "ariaLabel": "окрените слику хоризонтално"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Не убаците слику"},
+        "title": "Поново учитај слику",
+        "message": "Јесте ли сигурни да желите да поново учитате слику?\n",
+        "initButton": {
+            "label": "Поново учитати",
+            "ariaLabel": "урадите поново учитајте слику, губите све промене"
+        },
+        "ariaLabel": "Потврдите да желите да поново учитате слику, губите све промене које сте направили у игри која се уређује"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Сачувати",
+            "ariaLabel": "Спремите перспективну усеву"
+        },
+        "resetButton": {
+            "label": "Ресетовати",
+            "ariaLabel": "Ресетујте перспективну усеву"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Перспективни усев",
+        "ariaLabel": "Пређите на перспективни режим усева"
+    },
+    "reloadButton": {
+        "label": "Поново учитати",
+        "ariaLabel": "Поново учитајте слику са извора"
+    },
+    "doneButton": {"ariaLabel": "Спремите промене"},
+    "rotationButton": {
+        "label": "Закренути",
+        "ariaLabel": "Пређите на режим ротације"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Сачувати",
+            "ariaLabel": "сачувајте усев"
+        },
+        "resetButton": {
+            "label": "Ресетовати",
+            "ariaLabel": "Ресетујте усев"
+        }
+    }
+}

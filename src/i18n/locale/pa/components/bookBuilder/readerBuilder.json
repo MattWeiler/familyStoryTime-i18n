@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ \"%{readerDisplayName}\" ਰੀਡਰ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
                 "noDisplayName": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਇਸ ਰੀਡਰ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਤੁਸੀਂ \"%{readerDisplayName}\" ਪਾਠਕ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹ",
+                "noDisplayName": "ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਤੁਸੀਂ ਇਸ ਪਾਠਕ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "ਤੁਸੀਂ ਇਸ ਪਾਠਕਾਂ ਦੇ ਡਿਸਪਲੇ ਨਾਮ ਨੂੰ ਕਿਸ ਵਿੱਚ ਬਦਲਣਾ ਚਾਹੋਗੇ?",
                 "noDisplayName": "ਇਸ ਪਾਠਕ ਲਈ ਡਿਸਪਲੇ ਨਾਮ ਕੀ ਹੈ?"
             },
-            "inputPlaceholder": "ਪਾਠਕ ਦਾ ਨਾਮ"
+            "inputPlaceholder": "ਪਾਠਕ ਦਾ ਨਾਮ",
+            "ariaLabel": {
+                "withDisplayName": "ਮੌਜੂਦਾ ਡਿਸਪਲੇਅ ਨਾਮ ਨੂੰ ਅਪਡੇਟ ਕਰੋ",
+                "noDisplayName": "ਨਵਾਂ ਡਿਸਪਲੇਅ ਨਾਮ ਦੱਸੋ"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "ਰੀਡਰ %{readerDisplayName} ਲਈ ਡਿਸਪਲੇ ਨਾਮ ਬਦਲੋ",

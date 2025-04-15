@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "¿Estás seguro de que deseas eliminar los %{count} libros seleccionados?",
                                 "one": "¿Estás seguro de que deseas eliminar el libro seleccionado?"
+                            },
+                            "ariaLabel": {
+                                "other": "Confirme que desea eliminar los libros seleccionados %{count}",
+                                "one": "Confirme que desea eliminar el libro seleccionado"
                             }
                         },
                         "ariaLabel": "eliminar los libros seleccionados"
@@ -118,6 +122,7 @@
     "title": "Rincón de lectura",
     "confirmations": {"deleteBook": {
         "title": "Confirmación de eliminación",
-        "message": "¿Está seguro de que desea eliminar el libro \"%{bookTitle}?\""
+        "message": "¿Está seguro de que desea eliminar el libro \"%{bookTitle}?\"",
+        "ariaLabel": "Confirme que desea eliminar el libro \"%{bookTitle}\""
     }}
 }

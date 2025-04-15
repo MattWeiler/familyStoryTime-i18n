@@ -19,24 +19,6 @@
         "packaging": "emballage...",
         "cancelling": "annuler..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "lecteurs",
-                    "ariaLabel": "exporter uniquement les informations du lecteur pour le livre %{bookTitle}"
-                },
-                "full": {
-                    "label": "complet",
-                    "ariaLabel": "exporter le livre entier %{bookTitle}"
-                }
-            },
-            "ariaLabel": "sélectionnez comment exporter le livre %{bookTitle}"
-        },
-        "readers": {"checkbox": {"ariaLabel": "pour inclure le lecteur %{readerDisplayName} dans l'export"}},
-        "checkbox": {"ariaLabel": "pour inclure le livre %{bookTitle} dans l'export"},
-        "bookReadersTooltip": {"label": "La sélection de l'option \"lecteurs\" exportera uniquement les lecteurs choisis.\n\n"}
-    },
     "packagedMultiBookFileName": "Livres",
     "nothingToExport": "Rien à exporter :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "annuler l'exportation"}
         },
         "title": "Confirmer Annuler l'exportation",
-        "message": "Etes-vous sûr de vouloir annuler l'exportation ?"
+        "message": "Etes-vous sûr de vouloir annuler l'exportation ?",
+        "ariaLabel": "Confirmez que vous souhaitez annuler l'importation"
     }},
     "titles": {
         "booksToExport": "Livres à exporter",

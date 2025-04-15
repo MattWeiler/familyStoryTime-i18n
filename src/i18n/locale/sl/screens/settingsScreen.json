@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "S tem boste izbrisali vse knjige, nameščene v tej napravi.\n\n",
-        "button": {
-            "label": "Izbriši",
-            "title": "izbriši vse knjige",
-            "ariaLabel": "izbriši vse knjige"
-        },
-        "displayName": "Izbriši vse knjige",
-        "processingMessage": "brisanje ...",
+    "bookDataManagement": {
+        "longDescription": "Morate premakniti svoje knjige? ",
+        "displayName": "Knjižna upravljanje podatkov",
         "shortDescription": {
-            "disabled": "Izbrišite vse svoje knjige, vendar trenutno nimate nameščene nobene knjige.",
-            "enabled": "Izbrišite vse svoje knjige."
+            "disabled": "Knjige še nimate nameščenih, a ko to storite, lahko prevzamete nadzor nad svojo knjižnico - izvozite ali odstranite knjige po potrebi.",
+            "enabled": "Prevzemite nadzor nad svojo knjižnico - po potrebi odstranite knjige."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "IonIkone",
                 "someIconsBy": "Avtor ikon:",
                 "icons8": "Ikone8",
-                "iconArchive": "Arhiv ikon"
+                "iconArchive": "Arhiv ikon",
+                "veryIcon": "Zelo ikona"
             }
         },
         "version": "Različica: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Enostavno",
                 "ariaLabel": "uporabite preprost urejevalnik slik"
+            },
+            "beta": {
+                "label": "Beta",
+                "ariaLabel": "Uporabite urejevalnik beta"
             }
         },
         "shortDescription": "Izberite, kateri urejevalnik slik želite uporabiti.",
@@ -71,6 +70,11 @@
             "collapsed": "razširite razdelek za izbiro avdio video"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Izvozite vse knjige",
+        "title": "izvozite vse knjige",
+        "ariaLabel": "izvozite vse knjige"
+    },
     "cameraImageQuality": {
         "longDescription": "Ta kakovost slike bo uporabljena pri fotografiranju s kamero(-ami) naprave.",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "nastavitve",
     "confirmations": {"deleteAllBooks": {
-        "title": "Potrditev izbrisa",
-        "message": "Ali ste prepričani, da želite izbrisati vse nameščene knjige?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "To je lahko koristno pri selitvi na novo napravo ali dodajanju knjig v več naprav.",
-        "button": {
-            "label": "Izvozi",
-            "title": "izvozi vse knjige",
-            "ariaLabel": "izvozi vse knjige"
+        "buttons": {
+            "no": {"ariaLabel": "Ne izbrišite vseh nameščenih knjig"},
+            "yes": {"ariaLabel": "Da, izbrišite vse nameščene knjige"}
         },
-        "displayName": "Izvozi vse knjige",
-        "shortDescription": {
-            "disabled": "Izvozite vse svoje knjige v eno datoteko in jo shranite/dajte v skupno rabo, vendar trenutno nimate nameščene nobene knjige.",
-            "enabled": "Izvozite vse svoje knjige v eno datoteko in jo shranite/delite z drugimi."
-        }
-    },
+        "title": "Potrditev izbrisa",
+        "message": "Ali ste prepričani, da želite izbrisati vse nameščene knjige?",
+        "ariaLabel": "Potrdite, če želite izbrisati vse nameščene knjige"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "brisanje ni uspelo",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Hitrost govora %{value} %",
         "shortDescription": "Izberite hitrost glasu, ki jo bo uporabljal \"AI Reader\"."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "Brisanje knjig ...",
+        "label": "Izbrišite vse knjige",
+        "title": "Izbrišite vse knjige",
+        "ariaLabel": "Izbrišite vse knjige"
     },
     "parentalLocking": {
         "longDescription": "Ko je omogočeno, so za odklepanje naprednih funkcij v aplikaciji potrebni biometrični podatki lastnika naprave.",

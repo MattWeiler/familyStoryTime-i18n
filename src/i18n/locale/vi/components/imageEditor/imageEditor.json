@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Mùa vụ",
+        "ariaLabel": "Chuyển sang chế độ trồng trọt"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "loại bỏ các thay đổi",
+        "rotation": "loại bỏ thay đổi xoay vòng",
+        "perspectiveCrop": "Loại bỏ các thay đổi về cây trồng",
+        "crop": "Loại bỏ thay đổi cây trồng"
+    }},
+    "headerLabel": {
+        "default": "Chỉnh sửa ảnh",
+        "rotation": "Xoay vòng",
+        "perspectiveCrop": "Phối cảnh cây trồng",
+        "crop": "Mùa vụ"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Không loại bỏ các thay đổi và quay lại trình chỉnh sửa hình ảnh"},
+        "discardButton": {
+            "label": "Loại bỏ",
+            "ariaLabel": "DO DEF HÀNG HÀNG VÀ Đóng Trình chỉnh sửa hình ảnh"
+        },
+        "title": "Loại bỏ các thay đổi",
+        "message": "Bạn có chắc chắn rằng bạn muốn loại bỏ các thay đổi?",
+        "ariaLabel": "Xác nhận rằng bạn muốn loại bỏ mọi thay đổi mà bạn đã thực hiện đối với hình ảnh được chỉnh sửa"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "Xoay -90 độ"},
+        "saveButton": {
+            "label": "Cứu",
+            "ariaLabel": "Lưu vòng quay"
+        },
+        "90PlusButton": {"ariaLabel": "Xoay +90 độ"},
+        "resetButton": {
+            "label": "Cài lại",
+            "ariaLabel": "Đặt lại vòng quay"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Lật ngang",
+        "ariaLabel": "lật hình ảnh theo chiều ngang"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Không tải lại hình ảnh"},
+        "title": "Tải lại hình ảnh",
+        "message": "Bạn có chắc chắn rằng bạn muốn tải lại hình ảnh?\n",
+        "initButton": {
+            "label": "Tải lại",
+            "ariaLabel": "Tải lại hình ảnh, mất tất cả các thay đổi được thực hiện"
+        },
+        "ariaLabel": "Xác nhận rằng bạn muốn tải lại hình ảnh, mất bất kỳ thay đổi nào mà bạn đã thực hiện đối với hình ảnh được chỉnh sửa"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Cứu",
+            "ariaLabel": "Lưu lại cây trồng phối cảnh"
+        },
+        "resetButton": {
+            "label": "Cài lại",
+            "ariaLabel": "Đặt lại cây trồng phối cảnh"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Phối cảnh cây trồng",
+        "ariaLabel": "Chuyển sang chế độ cắt phối cảnh"
+    },
+    "reloadButton": {
+        "label": "Tải lại",
+        "ariaLabel": "Tải lại hình ảnh từ nguồn"
+    },
+    "doneButton": {"ariaLabel": "Lưu các thay đổi"},
+    "rotationButton": {
+        "label": "Quay",
+        "ariaLabel": "Chuyển sang chế độ xoay"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Cứu",
+            "ariaLabel": "Lưu lại vụ mùa"
+        },
+        "resetButton": {
+            "label": "Cài lại",
+            "ariaLabel": "Đặt lại vụ mùa"
+        }
+    }
+}

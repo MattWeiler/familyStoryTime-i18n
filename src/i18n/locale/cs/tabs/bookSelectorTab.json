@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Opravdu chcete smazat %{count} vybraných knih?",
                                 "one": "Opravdu chcete smazat vybranou knihu?"
+                            },
+                            "ariaLabel": {
+                                "other": "Potvrďte, že chcete smazat vybrané knihy %{count}",
+                                "one": "Potvrďte, že chcete smazat vybranou knihu"
                             }
                         },
                         "ariaLabel": "smazat vybrané knihy"
@@ -118,6 +122,7 @@
     "title": "Čtenářský koutek",
     "confirmations": {"deleteBook": {
         "title": "Potvrzení smazání",
-        "message": "Opravdu chcete smazat knihu \u201e%{bookTitle}?\u201c"
+        "message": "Opravdu chcete smazat knihu \u201e%{bookTitle}?\u201c",
+        "ariaLabel": "Potvrďte, že chcete knihu smazat \"%{bookTitle}\""
     }}
 }

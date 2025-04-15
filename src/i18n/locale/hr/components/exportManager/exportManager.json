@@ -19,24 +19,6 @@
         "packaging": "pakiranje...",
         "cancelling": "otkazivanje..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "čitateljima",
-                    "ariaLabel": "izvezi samo informacije o čitatelju za knjigu %{bookTitle}"
-                },
-                "full": {
-                    "label": "puna",
-                    "ariaLabel": "izvezi cijelu knjigu %{bookTitle}"
-                }
-            },
-            "ariaLabel": "odaberite kako izvesti knjigu %{bookTitle}"
-        },
-        "readers": {"checkbox": {"ariaLabel": "za uključivanje čitača %{readerDisplayName} u izvoz"}},
-        "checkbox": {"ariaLabel": "za uključivanje knjige %{bookTitle} u izvoz"},
-        "bookReadersTooltip": {"label": "Odabirom opcije \"čitatelji\" izvest će se samo odabrani čitači.\n\n"}
-    },
     "packagedMultiBookFileName": "knjige",
     "nothingToExport": "Ništa za izvoz :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "poništiti izvoz"}
         },
         "title": "Potvrdite Odustani od izvoza",
-        "message": "Jeste li sigurni da želite otkazati izvoz?"
+        "message": "Jeste li sigurni da želite otkazati izvoz?",
+        "ariaLabel": "Potvrdite da želite otkazati uvoz"
     }},
     "titles": {
         "booksToExport": "Knjige za izvoz",

@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "您确定要删除所选的 %{count} 本书吗？",
                                 "one": "您确定要删除所选的图书吗？"
+                            },
+                            "ariaLabel": {
+                                "other": "确认您要删除所选%{count}书籍",
+                                "one": "确认您要删除所选的书"
                             }
                         },
                         "ariaLabel": "删除选定的书籍"
@@ -118,6 +122,7 @@
     "title": "读书角",
     "confirmations": {"deleteBook": {
         "title": "删除确认",
-        "message": "您确定要删除图书\u201c%{bookTitle}\u201d吗？"
+        "message": "您确定要删除图书\u201c%{bookTitle}\u201d吗？",
+        "ariaLabel": "确认您要删除\u201c %{bookTitle}\u201d一书"
     }}
 }

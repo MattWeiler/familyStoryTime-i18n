@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "\"%{readerDisplayName}\" 리더를 삭제하시겠습니까?",
                 "noDisplayName": "이 리더를 삭제하시겠습니까?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "\"%{readerDisplayName}\"리더를 삭제 하려는지 확인하십시오",
+                "noDisplayName": "이 리더를 삭제 하려는지 확인하십시오"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "이 독자 표시 이름을 무엇으로 변경하시겠습니까?",
                 "noDisplayName": "이 리더의 표시 이름은 무엇입니까?"
             },
-            "inputPlaceholder": "독자 이름"
+            "inputPlaceholder": "독자 이름",
+            "ariaLabel": {
+                "withDisplayName": "기존 디스플레이 이름을 업데이트하십시오",
+                "noDisplayName": "새 디스플레이 이름을 지정합니다"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "리더 %{readerDisplayName}의 표시 이름 변경",

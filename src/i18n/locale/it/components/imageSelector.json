@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Permesso negato",
-            "message": "Hai negato il permesso di accedere alla fotocamera."
+            "message": "Hai negato il permesso di accedere alla fotocamera.",
+            "ariaLabel": "Il permesso è stato negato di scattare foto con la fotocamera, concedere l'accesso o perdere la possibilità di farlo"
         },
         "browseImages": {
             "title": "Permesso negato",
-            "message": "Hai negato il permesso di accedere alle tue foto."
+            "message": "Hai negato il permesso di accedere alle tue foto.",
+            "ariaLabel": "L'autorizzazione è stata negata di accedere alle tue foto, concedere l'accesso o perdere la possibilità di farlo"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Chiudi schermo intero"}

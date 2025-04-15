@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Sự cho phép bị từ chối",
-            "message": "Bạn đã từ chối cho phép truy cập máy ảnh của bạn."
+            "message": "Bạn đã từ chối cho phép truy cập máy ảnh của bạn.",
+            "ariaLabel": "Quyền đã bị từ chối chụp ảnh bằng máy ảnh của bạn, cấp quyền truy cập hoặc mất khả năng làm như vậy"
         },
         "browseImages": {
             "title": "Sự cho phép bị từ chối",
-            "message": "Bạn đã từ chối cho phép truy cập ảnh của bạn."
+            "message": "Bạn đã từ chối cho phép truy cập ảnh của bạn.",
+            "ariaLabel": "quyền đã bị từ chối truy cập ảnh của bạn, cấp quyền truy cập hoặc mất khả năng làm như vậy"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Đóng toàn màn hình"}

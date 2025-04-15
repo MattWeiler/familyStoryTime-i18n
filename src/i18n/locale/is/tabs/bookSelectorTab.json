@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Ertu viss um að þú viljir eyða %{count} völdum bókum?",
                                 "one": "Ertu viss um að þú viljir eyða völdu bókinni?"
+                            },
+                            "ariaLabel": {
+                                "other": "Staðfestu að þú viljir eyða völdum %{count} bókum",
+                                "one": "Staðfestu að þú viljir eyða valinni bók"
                             }
                         },
                         "ariaLabel": "eyða völdum bókum"
@@ -118,6 +122,7 @@
     "title": "Lestrarhorn",
     "confirmations": {"deleteBook": {
         "title": "Staðfesting á eyðingu",
-        "message": "Ertu viss um að þú viljir eyða bókinni \"%{bookTitle}?\""
+        "message": "Ertu viss um að þú viljir eyða bókinni \"%{bookTitle}?\"",
+        "ariaLabel": "Staðfestu að þú viljir eyða bókinni \"%{bookTitle}\""
     }}
 }

@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Leyfi hafnað",
-            "message": "Þú hefur neitað leyfi til að fá aðgang að myndavélinni þinni."
+            "message": "Þú hefur neitað leyfi til að fá aðgang að myndavélinni þinni.",
+            "ariaLabel": "Leyfi hefur verið hafnað um að taka myndir með myndavélinni þinni, annað hvort veita aðganginn eða missa getu til þess"
         },
         "browseImages": {
             "title": "Leyfi hafnað",
-            "message": "Þú hefur neitað leyfi til að fá aðgang að myndunum þínum."
+            "message": "Þú hefur neitað leyfi til að fá aðgang að myndunum þínum.",
+            "ariaLabel": "Leyfi hefur verið hafnað til að fá aðgang að myndunum þínum, annað hvort veita aðganginn eða missa getu til þess"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Lokaðu fullri skjá"}

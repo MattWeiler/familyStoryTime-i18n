@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Konfirmasi yang jelas",
-            "message": "Anda yakin ingin menghapus audio yang dipilih?"
+            "message": "Anda yakin ingin menghapus audio yang dipilih?",
+            "ariaLabel": "Konfirmasikan bahwa Anda ingin menghapus audio yang dipilih"
         },
         "ariaLabel": "Hapus audio %{audioDisplayName} yang dipilih"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "Tidak, tetap dan terus mengedit",
                 "yes": "Ya, buang suntingan"
-            }
+            },
+            "ariaLabel": "Konfirmasikan jika Anda ingin membuang pengeditan yang telah Anda lakukan"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "Izin ditolak",
-        "message": "Anda telah menolak izin untuk mengakses mikrofon Anda."
+        "message": "Anda telah menolak izin untuk mengakses mikrofon Anda.",
+        "ariaLabel": "Anda telah menolak izin untuk mengakses mikrofon Anda"
     }}
 }

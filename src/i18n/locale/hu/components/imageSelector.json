@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Az engedély megtagadása",
-            "message": "Megtagadta az engedélyt a fényképezőgéphez való hozzáféréshez."
+            "message": "Megtagadta az engedélyt a fényképezőgéphez való hozzáféréshez.",
+            "ariaLabel": "Az engedélyt megtagadták a fényképezőgéppel kapcsolatos képek készítése, vagy biztosítsák a hozzáférést, vagy elveszítik a képességét"
         },
         "browseImages": {
             "title": "Az engedély megtagadása",
-            "message": "Megtagadta az engedélyt a fényképek eléréséhez."
+            "message": "Megtagadta az engedélyt a fényképek eléréséhez.",
+            "ariaLabel": "Az engedélyt megtagadták a fényképek eléréséhez, vagy biztosítsák a hozzáférést, vagy elveszítsék a képességét"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Zárja be a teljes képernyőt"}

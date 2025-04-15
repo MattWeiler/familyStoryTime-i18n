@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Իսկապե՞ս ուզում եք ջնջել «%{readerDisplayName}» ընթերցողը:",
                 "noDisplayName": "Իսկապե՞ս ուզում եք ջնջել այս ընթերցողը:"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Հաստատեք, որ ցանկանում եք ջնջել «%{readerDisplayName}» ընթերցողը",
+                "noDisplayName": "Հաստատեք, որ ցանկանում եք ջնջել այս ընթերցողը"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "Ինչո՞վ կուզենայիք փոխել այս ընթերցողների ցուցադրվող անունը:",
                 "noDisplayName": "Ո՞րն է այս ընթերցողի ցուցադրման անունը:"
             },
-            "inputPlaceholder": "ընթերցողի անունը"
+            "inputPlaceholder": "ընթերցողի անունը",
+            "ariaLabel": {
+                "withDisplayName": "Թարմացրեք առկա ցուցադրման անունը",
+                "noDisplayName": "Նշեք ցուցադրման նոր անունը"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "փոխել ցուցադրվող անունը ընթերցողի համար %{readerDisplayName}",

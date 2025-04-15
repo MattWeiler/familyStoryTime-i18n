@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Termés",
+        "ariaLabel": "Váltás a növényi üzemmódra"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "dobja el a változásokat",
+        "rotation": "Dobja el a forgási változásokat",
+        "perspectiveCrop": "Dobja el a perspektíva növényi változásait",
+        "crop": "dobja el a növényi változásokat"
+    }},
+    "headerLabel": {
+        "default": "Fotó szerkesztése",
+        "rotation": "Forgás",
+        "perspectiveCrop": "Perspektíva termés",
+        "crop": "Termés"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Ne dobja el a változásokat és ne térjen vissza a képszerkesztőhöz"},
+        "discardButton": {
+            "label": "Eldob",
+            "ariaLabel": "Dobja el a változásokat, és zárja be a képszerkesztőt"
+        },
+        "title": "Dobja el a változásokat",
+        "message": "Biztos benne, hogy el akarja dobni a változásokat?",
+        "ariaLabel": "Erősítse meg, hogy el akarja dobni a szerkesztett képen végrehajtott változtatásokat"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "forogni -90 fok"},
+        "saveButton": {
+            "label": "Megtakarítás",
+            "ariaLabel": "Mentse el a forgást"
+        },
+        "90PlusButton": {"ariaLabel": "forogjon +90 fok"},
+        "resetButton": {
+            "label": "Visszaállít",
+            "ariaLabel": "Állítsa vissza a forgást"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Vízszintes",
+        "ariaLabel": "Fordítsa meg a képet vízszintesen"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Ne töltse újra a képet"},
+        "title": "Újratöltési kép",
+        "message": "Biztos benne, hogy újratölti a képet?\n",
+        "initButton": {
+            "label": "Újratöltés",
+            "ariaLabel": "Töltse le újra a képet, elveszíti az összes végrehajtott módosítást"
+        },
+        "ariaLabel": "Erősítse meg, hogy újratölti -e a képet, elveszítve a szerkesztett képen elvégzett változtatásokat"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Megtakarítás",
+            "ariaLabel": "Mentse el a perspektíva termését"
+        },
+        "resetButton": {
+            "label": "Visszaállít",
+            "ariaLabel": "Állítsa vissza a perspektíva termését"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Perspektíva termés",
+        "ariaLabel": "Váltás a perspektíva növényi módra"
+    },
+    "reloadButton": {
+        "label": "Újratöltés",
+        "ariaLabel": "Töltse le újra a képet a forrásból"
+    },
+    "doneButton": {"ariaLabel": "Mentse el a változásokat"},
+    "rotationButton": {
+        "label": "Forog",
+        "ariaLabel": "Váltás a forgási módra"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Megtakarítás",
+            "ariaLabel": "Mentse el a termést"
+        },
+        "resetButton": {
+            "label": "Visszaállít",
+            "ariaLabel": "állítsa vissza a termést"
+        }
+    }
+}

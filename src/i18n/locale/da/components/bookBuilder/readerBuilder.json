@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Er du sikker på, at du vil slette \"%{readerDisplayName}\"-læseren?",
                 "noDisplayName": "Er du sikker på, at du vil slette denne læser?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Bekræft, at du vil slette læseren \"%{readerDisplayName}\"",
+                "noDisplayName": "bekræft, at du vil slette denne læser"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "Hvad vil du gerne ændre dette læserens visningsnavn til?",
                 "noDisplayName": "Hvad er visningsnavnet for denne læser?"
             },
-            "inputPlaceholder": "læsers navn"
+            "inputPlaceholder": "læsers navn",
+            "ariaLabel": {
+                "withDisplayName": "Opdater det eksisterende visningsnavn",
+                "noDisplayName": "Angiv det nye visningsnavn"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "ændre visningsnavnet for læseren %{readerDisplayName}",

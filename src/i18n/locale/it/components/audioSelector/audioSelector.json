@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Chiara conferma",
-            "message": "Sei sicuro di voler cancellare l'audio selezionato?"
+            "message": "Sei sicuro di voler cancellare l'audio selezionato?",
+            "ariaLabel": "Conferma di voler cancellare l'audio selezionato"
         },
         "ariaLabel": "Cancella l'audio selezionato %{audioDisplayName}"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "No, resta e continua a montaggio",
                 "yes": "Sì, scartare le modifiche"
-            }
+            },
+            "ariaLabel": "Conferma se si desidera scartare le modifiche che hai fatto"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "Permesso negato",
-        "message": "Hai negato il permesso di accedere al microfono."
+        "message": "Hai negato il permesso di accedere al microfono.",
+        "ariaLabel": "Hai negato il permesso di accedere al tuo microfono"
     }}
 }

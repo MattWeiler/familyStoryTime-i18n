@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "İzin reddedildi",
-            "message": "Kameranıza erişme iznini reddettiniz."
+            "message": "Kameranıza erişme iznini reddettiniz.",
+            "ariaLabel": "Kameranızla fotoğraf çekmek için izin reddedildi, ya erişim verin veya bunu yapma yeteneğini kaybetmek"
         },
         "browseImages": {
             "title": "İzin reddedildi",
-            "message": "Fotoğraflarınıza erişme iznini reddettiniz."
+            "message": "Fotoğraflarınıza erişme iznini reddettiniz.",
+            "ariaLabel": "Fotoğraflarınıza erişmek için izin reddedildi, erişim sağlayın ya da bunu yapma yeteneğini kaybetti"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Tam ekran kapatın"}

@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Jeste li sigurni da želite izbrisati \"%{readerDisplayName}\" čitač?",
                 "noDisplayName": "Jeste li sigurni da želite izbrisati ovog čitača?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Potvrdite da želite izbrisati čitač \"%{readerDisplayName}\"",
+                "noDisplayName": "Potvrdite da želite izbrisati ovaj čitač"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "U šta biste željeli promijeniti ime za prikaz ovog čitača?",
                 "noDisplayName": "Koje je ime za prikaz za ovaj čitač?"
             },
-            "inputPlaceholder": "ime čitaoca"
+            "inputPlaceholder": "ime čitaoca",
+            "ariaLabel": {
+                "withDisplayName": "Ažurirajte postojeće ime prikaza",
+                "noDisplayName": "Navedite novo ime prikaza"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "promijenite naziv za prikaz za čitač %{readerDisplayName}",

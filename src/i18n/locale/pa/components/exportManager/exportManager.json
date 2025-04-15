@@ -19,24 +19,6 @@
         "packaging": "ਪੈਕੇਜਿੰਗ...",
         "cancelling": "ਰੱਦ ਕਰ ਰਿਹਾ ਹੈ..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "ਪਾਠਕ",
-                    "ariaLabel": "ਸਿਰਫ਼ ਕਿਤਾਬ %{bookTitle} ਲਈ ਰੀਡਰ ਜਾਣਕਾਰੀ ਨਿਰਯਾਤ ਕਰੋ"
-                },
-                "full": {
-                    "label": "ਪੂਰਾ",
-                    "ariaLabel": "ਪੂਰੀ ਕਿਤਾਬ %{bookTitle} ਨੂੰ ਨਿਰਯਾਤ ਕਰੋ"
-                }
-            },
-            "ariaLabel": "ਚੁਣੋ ਕਿ ਕਿਤਾਬ %{bookTitle} ਨੂੰ ਕਿਵੇਂ ਨਿਰਯਾਤ ਕਰਨਾ ਹੈ"
-        },
-        "readers": {"checkbox": {"ariaLabel": "ਨਿਰਯਾਤ ਵਿੱਚ ਰੀਡਰ %{readerDisplayName} ਨੂੰ ਸ਼ਾਮਲ ਕਰਨ ਲਈ"}},
-        "checkbox": {"ariaLabel": "ਨਿਰਯਾਤ ਵਿੱਚ ਕਿਤਾਬ %{bookTitle} ਨੂੰ ਸ਼ਾਮਲ ਕਰਨ ਲਈ"},
-        "bookReadersTooltip": {"label": "\"ਪਾਠਕ\" ਵਿਕਲਪ ਨੂੰ ਚੁਣਨਾ ਸਿਰਫ਼ ਚੁਣੇ ਹੋਏ ਪਾਠਕਾਂ ਨੂੰ ਨਿਰਯਾਤ ਕਰੇਗਾ।\n\n"}
-    },
     "packagedMultiBookFileName": "ਕਿਤਾਬਾਂ",
     "nothingToExport": "ਨਿਰਯਾਤ ਕਰਨ ਲਈ ਕੁਝ ਨਹੀਂ :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "ਨਿਰਯਾਤ ਨੂੰ ਰੱਦ ਕਰੋ"}
         },
         "title": "ਨਿਰਯਾਤ ਰੱਦ ਕਰਨ ਦੀ ਪੁਸ਼ਟੀ ਕਰੋ",
-        "message": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਨਿਰਯਾਤ ਨੂੰ ਰੱਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?"
+        "message": "ਕੀ ਤੁਸੀਂ ਯਕੀਨੀ ਤੌਰ 'ਤੇ ਨਿਰਯਾਤ ਨੂੰ ਰੱਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?",
+        "ariaLabel": "ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਤੁਸੀਂ ਆਯਾਤ ਨੂੰ ਰੱਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ"
     }},
     "titles": {
         "booksToExport": "ਨਿਰਯਾਤ ਕਰਨ ਲਈ ਕਿਤਾਬਾਂ",

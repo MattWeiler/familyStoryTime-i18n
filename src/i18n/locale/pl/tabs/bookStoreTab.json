@@ -4,7 +4,8 @@
             "noButtonAriaLabel": "nie, nie odinstalowuj książki Dostępne",
             "yesButtonAriaLabel": "tak, odinstaluj dostępną książkę",
             "title": "Odinstaluj potwierdzenie",
-            "message": "Czy na pewno chcesz odinstalować tę dostępną książkę?\n"
+            "message": "Czy na pewno chcesz odinstalować tę dostępną książkę?\n",
+            "ariaLabel": "Potwierdź, że chcesz odinstalować dostępną książkę"
         },
         "ariaLabel": "odinstaluj dostępną książkę %{bookName}"
     },
@@ -20,7 +21,8 @@
             "noButtonAriaLabel": "nie, nie instaluj dostępnej książki",
             "yesButtonAriaLabel": "tak, zainstaluj dostępną książkę",
             "title": "Zainstaluj potwierdzenie",
-            "message": "Czy na pewno chcesz zainstalować tę dostępną książkę?\nW takim przypadku wykorzystane zostanie %{fileSize} danych."
+            "message": "Czy na pewno chcesz zainstalować tę dostępną książkę?\nW takim przypadku wykorzystane zostanie %{fileSize} danych.",
+            "ariaLabel": "Potwierdź, że chcesz zainstalować dostępną książkę"
         },
         "ariaLabel": "zainstaluj dostępną książkę %{bookName}"
     }

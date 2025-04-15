@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Jasne potwierdzenie",
-            "message": "Czy na pewno chcesz wyczyścić wybrany dźwięk?"
+            "message": "Czy na pewno chcesz wyczyścić wybrany dźwięk?",
+            "ariaLabel": "Potwierdź, że chcesz wyczyścić wybrany dźwięk"
         },
         "ariaLabel": "Wyczyść wybrany dźwięk %{audioDisplayName}"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "Nie, zostań i kontynuuj edycję",
                 "yes": "Tak, odrzuć edycje"
-            }
+            },
+            "ariaLabel": "Potwierdź, czy chcesz odrzucić jakiekolwiek edycje, które dokonałeś"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "Zezwolenie odrzucone",
-        "message": "Odmówiłeś zgody na dostęp do mikrofonu."
+        "message": "Odmówiłeś zgody na dostęp do mikrofonu.",
+        "ariaLabel": "Odmówiłeś zgody na dostęp do mikrofonu"
     }}
 }

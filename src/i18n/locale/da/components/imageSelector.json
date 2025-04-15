@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Tilladelse nægtet",
-            "message": "Du har nægtet tilladelse til at få adgang til dit kamera."
+            "message": "Du har nægtet tilladelse til at få adgang til dit kamera.",
+            "ariaLabel": "Tilladelse er blevet nægtet at tage billeder med dit kamera, enten give adgangen eller miste evnen til at gøre det"
         },
         "browseImages": {
             "title": "Tilladelse nægtet",
-            "message": "Du har nægtet tilladelse til at få adgang til dine fotos."
+            "message": "Du har nægtet tilladelse til at få adgang til dine fotos.",
+            "ariaLabel": "Tilladelse er blevet nægtet at få adgang til dine fotos, enten give adgangen eller miste evnen til at gøre det"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Luk fuldskærm"}

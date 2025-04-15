@@ -19,24 +19,6 @@
         "packaging": "đóng gói...",
         "cancelling": "hủy bỏ..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "độc giả",
-                    "ariaLabel": "chỉ xuất thông tin người đọc cho cuốn sách %{bookTitle}"
-                },
-                "full": {
-                    "label": "đầy",
-                    "ariaLabel": "xuất toàn bộ cuốn sách %{bookTitle}"
-                }
-            },
-            "ariaLabel": "chọn cách xuất sách %{bookTitle}"
-        },
-        "readers": {"checkbox": {"ariaLabel": "để đưa trình đọc %{readerDisplayName} vào bản xuất"}},
-        "checkbox": {"ariaLabel": "để đưa cuốn sách %{bookTitle} vào bản xuất"},
-        "bookReadersTooltip": {"label": "Việc chọn tùy chọn \"người đọc\" sẽ chỉ xuất những người đọc đã chọn.\n\n"}
-    },
     "packagedMultiBookFileName": "Sách",
     "nothingToExport": "Không có gì để xuất :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "hủy xuất khẩu"}
         },
         "title": "Xác nhận Hủy Xuất",
-        "message": "Bạn có chắc chắn muốn hủy việc xuất không?"
+        "message": "Bạn có chắc chắn muốn hủy việc xuất không?",
+        "ariaLabel": "xác nhận rằng bạn muốn hủy nhập khẩu"
     }},
     "titles": {
         "booksToExport": "Sách để xuất khẩu",

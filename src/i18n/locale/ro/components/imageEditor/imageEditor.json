@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Cultură",
+        "ariaLabel": "Treceți la modul de cultură"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "renunțați la modificările",
+        "rotation": "Renunțați la modificările de rotație",
+        "perspectiveCrop": "Renunțați la perspectiva schimbărilor culturilor",
+        "crop": "Renunțați la schimbările culturilor"
+    }},
+    "headerLabel": {
+        "default": "Editați fotografia",
+        "rotation": "Rotaţie",
+        "perspectiveCrop": "Perspectiva culturii",
+        "crop": "Cultură"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Nu renunțați la modificări și nu reveniți la editorul de imagini"},
+        "discardButton": {
+            "label": "Aruncat",
+            "ariaLabel": "Renunțați la modificările și închideți editorul de imagini"
+        },
+        "title": "Renunțați la modificările",
+        "message": "Ești sigur că vrei să renunți la modificări?",
+        "ariaLabel": "Confirmați că doriți să renunțați la orice modificări pe care le -ați făcut la imaginea editată"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "rotiți -90 grade"},
+        "saveButton": {
+            "label": "Salva",
+            "ariaLabel": "Salvați rotația"
+        },
+        "90PlusButton": {"ariaLabel": "rotiți +90 grade"},
+        "resetButton": {
+            "label": "Resetează",
+            "ariaLabel": "Resetați rotația"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Flip orizontal",
+        "ariaLabel": "Rotiți imaginea pe orizontală"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Nu reîncărcați imaginea"},
+        "title": "Reîncărcare imagine",
+        "message": "Ești sigur că vrei să reîncărcați imaginea?\n",
+        "initButton": {
+            "label": "Reîncarcă",
+            "ariaLabel": "Reîncărcați imaginea, pierzând toate modificările făcute"
+        },
+        "ariaLabel": "Confirmați că doriți să reîncărcați imaginea, pierzând orice modificări pe care le -ați făcut la imaginea editată"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Salva",
+            "ariaLabel": "Salvați cultura perspectivă"
+        },
+        "resetButton": {
+            "label": "Resetează",
+            "ariaLabel": "resetați cultura perspectivă"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Perspectiva culturii",
+        "ariaLabel": "Treceți la modul de cultură perspectivă"
+    },
+    "reloadButton": {
+        "label": "Reîncarcă",
+        "ariaLabel": "Reîncărcați imaginea din sursă"
+    },
+    "doneButton": {"ariaLabel": "Salvați modificări"},
+    "rotationButton": {
+        "label": "Roti",
+        "ariaLabel": "Treceți la modul de rotație"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Salva",
+            "ariaLabel": "Salvați cultura"
+        },
+        "resetButton": {
+            "label": "Resetează",
+            "ariaLabel": "Resetați cultura"
+        }
+    }
+}

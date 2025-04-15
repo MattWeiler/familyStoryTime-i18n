@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Rescan Side Tekst",
-                "message": "Qularnanngilaq assi allaaserisaq scannerniarlugu aammalu quppernermi allaaserisat pioreersut taarserlugit?"
+                "message": "Qularnanngilaq assi allaaserisaq scannerniarlugu aammalu quppernermi allaaserisat pioreersut taarserlugit?",
+                "ariaLabel": "uppernarsarlugu assilisassiaq allagarsiinermut re-scan-erniarlugu"
             },
             "ariaLabel": "quppernermut %{pageNum}-mut assimit allaaserisaq uuttortaruk"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Quppernerup allassimaffia qanoq ippa?",
                     "withPageText": "Quppernerup allattorsimaffia qanoq allanngortikkusuppiuk?"
                 },
-                "inputPlaceholder": "tekst ilanngussallugu"
+                "inputPlaceholder": "tekst ilanngussallugu",
+                "ariaLabel": {
+                    "noPageText": "qupperneq allaaserisaq allappaa",
+                    "withPageText": "qupperneq allaaserisaq pioreersoq nutarterlugu"
+                }
             },
             "ariaLabel": "allaaserisaq \"%{pageText}\" quppernermi %{pageNum}-miit allanngortiguk"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Deletion Uppernarsaaneq",
-                "message": "Quppernerup allaaserisaa una piiarniarlugu qularnanngilaq?"
+                "message": "Quppernerup allaaserisaa una piiarniarlugu qularnanngilaq?",
+                "ariaLabel": "uppernarsarlugu qupperneq una allaaserisaq peerlugu"
             },
             "ariaLabel": "allaaserisaq \"%{pageText}\" quppernermit %{pageNum} peerlugu"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "allaaserisaq quppernermut %{pageNum} ilanngunneqartussaq",
                 "title": "Set Side Tekst",
                 "message": "Quppernerup allassimaffia qanoq ippa?",
-                "inputPlaceholder": "tekst ilanngussallugu"
+                "inputPlaceholder": "tekst ilanngussallugu",
+                "ariaLabel": "allaaserisaq nutaaq qupperneq %{pageNum}-mut ilanngunniarlugu allassavat."
             },
             "ariaLabel": "allaaserisaq nutaaq quppernermut %{pageNum} ilanngukkit"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "Tamanna quppernerup nipimik quppernermut matumunnga immiussanik tamanik peersitsissaaq.",
             "additionalMessage2": "TAMANNA UNNUSSINNAANNGILLAQ!",
             "title": "Deletion Uppernarsaaneq",
-            "message": "Qupperneq %{pageNum} piiarusuppiuk?"
+            "message": "Qupperneq %{pageNum} piiarusuppiuk?",
+            "ariaLabel": "uppernarsarlugu qupperneq %{pageNum} peerlugu."
         },
         "ariaLabel": "Qupperneq %{pageNum} peerlugu"
     },

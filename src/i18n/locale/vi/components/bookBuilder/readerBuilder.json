@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Bạn có chắc chắn muốn xóa trình đọc \"%{readerDisplayName}\" không?",
                 "noDisplayName": "Bạn có chắc chắn muốn xóa trình đọc này không?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Xác nhận rằng bạn muốn xóa trình đọc \"%{readerDisplayName}\"",
+                "noDisplayName": "Xác nhận rằng bạn muốn xóa trình đọc này"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "Bạn muốn thay đổi tên hiển thị của độc giả này thành gì?",
                 "noDisplayName": "Tên hiển thị của đầu đọc này là gì?"
             },
-            "inputPlaceholder": "tên người đọc"
+            "inputPlaceholder": "tên người đọc",
+            "ariaLabel": {
+                "withDisplayName": "Cập nhật tên hiển thị hiện có",
+                "noDisplayName": "Chỉ định tên hiển thị mới"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "thay đổi tên hiển thị cho đầu đọc %{readerDisplayName}",

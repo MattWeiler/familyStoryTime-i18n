@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "「%{readerDisplayName}」リーダーを削除してもよろしいですか?",
                 "noDisplayName": "このリーダーを削除してもよろしいですか?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "「{%{readerDisplayName}」リーダーを削除することを確認します",
+                "noDisplayName": "この読者を削除することを確認してください"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "この読者の表示名を何に変更しますか?",
                 "noDisplayName": "このリーダーの表示名は何ですか?"
             },
-            "inputPlaceholder": "読者名"
+            "inputPlaceholder": "読者名",
+            "ariaLabel": {
+                "withDisplayName": "既存の表示名を更新します",
+                "noDisplayName": "新しいディスプレイ名を指定します"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "リーダー %{readerDisplayName} の表示名を変更します",

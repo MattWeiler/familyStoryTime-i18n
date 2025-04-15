@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "Bu işlem, bu cihazda yüklü olan tüm kitapların silinmesine neden olacaktır.\n\n",
-        "button": {
-            "label": "Silmek",
-            "title": "tüm kitapları sil",
-            "ariaLabel": "tüm kitapları sil"
-        },
-        "displayName": "Tüm Kitapları Sil",
-        "processingMessage": "siliniyor...",
+    "bookDataManagement": {
+        "longDescription": "Kitaplarınızı taşımanız mı gerekiyor? ",
+        "displayName": "Kitap Veri Yönetimi",
         "shortDescription": {
-            "disabled": "Tüm kitaplarınızı silin, ancak şu anda yüklü herhangi bir kitabınız yok.",
-            "enabled": "Tüm kitaplarınızı silin."
+            "disabled": "Henüz yüklü bir kitap yok, ancak bir kez yaptıktan sonra, kütüphanenizin kontrolünü ele geçirebilirsiniz - ihraç edebilir veya gerektiğinde kitapları kaldırabilirsiniz.",
+            "enabled": "Kütüphanenizin kontrolünü ele alalım - ihraç edin veya gerektiğinde kitapları kaldırın."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "İyonSimgeleri",
                 "someIconsBy": "Simgeler:",
                 "icons8": "Simgeler8",
-                "iconArchive": "Simge Arşivi"
+                "iconArchive": "Simge Arşivi",
+                "veryIcon": "Çok simge"
             }
         },
         "version": "Sürüm: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Basit",
                 "ariaLabel": "basit resim düzenleyiciyi kullan"
+            },
+            "beta": {
+                "label": "Beta",
+                "ariaLabel": "Beta görüntü düzenleyicisini kullanın"
             }
         },
         "shortDescription": "Hangi resim düzenleyicinin kullanılması gerektiğini seçin.",
@@ -71,6 +70,11 @@
             "collapsed": "ses video seçimi bölümünü genişletin"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Tüm kitapları ihraç et",
+        "title": "Tüm kitapları ihraç et",
+        "ariaLabel": "Tüm kitapları ihraç et"
+    },
     "cameraImageQuality": {
         "longDescription": "Bu görüntü kalitesi, cihazın kamera(lar)ı ile fotoğraf çekilirken kullanılacaktır.",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "Ayarlar",
     "confirmations": {"deleteAllBooks": {
-        "title": "Silme Onayı",
-        "message": "Yüklü tüm kitapları silmek istediğinizden emin misiniz?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "Bu, yeni bir cihaza geçiş yaparken veya kitaplarınızı birden fazla cihaza eklerken faydalı olabilir.",
-        "button": {
-            "label": "İhracat",
-            "title": "tüm kitapları dışa aktar",
-            "ariaLabel": "tüm kitapları dışa aktar"
+        "buttons": {
+            "no": {"ariaLabel": "Yüklü tüm kitapları silmeyin"},
+            "yes": {"ariaLabel": "Evet, yüklü tüm kitapları sil"}
         },
-        "displayName": "Tüm Kitapları Dışa Aktar",
-        "shortDescription": {
-            "disabled": "Tüm kitaplarınızı tek bir dosyaya aktarın ve kaydedin/paylaşın, ancak şu anda yüklü herhangi bir kitabınız yok.",
-            "enabled": "Tüm kitaplarınızı tek bir dosyaya aktarın ve kaydedin/paylaşın."
-        }
-    },
+        "title": "Silme Onayı",
+        "message": "Yüklü tüm kitapları silmek istediğinizden emin misiniz?",
+        "ariaLabel": "Yüklü tüm kitapları silmek isteyip istemediğinizi onaylayın"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "silme başarısız oldu",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Konuşma Hızı %%{value}",
         "shortDescription": "\"AI Reader\" tarafından kullanılacak ses hızını seçin."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "Kitapları Silme ...",
+        "label": "Tüm kitapları sil",
+        "title": "Tüm kitapları sil",
+        "ariaLabel": "Tüm kitapları sil"
     },
     "parentalLocking": {
         "longDescription": "Etkinleştirildiğinde, uygulamadaki gelişmiş özelliklerin kilidini açmak için cihaz sahibinin biyometrik verileri gerekir.",

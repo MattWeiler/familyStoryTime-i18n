@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Afgrøde",
+        "ariaLabel": "Skift til afgrødetilstand"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "Kasser ændringer",
+        "rotation": "Kasser rotationsændringer",
+        "perspectiveCrop": "Kasser perspektiv afgrødeændringer",
+        "crop": "Kasser afgrødeændringer"
+    }},
+    "headerLabel": {
+        "default": "Rediger foto",
+        "rotation": "Rotation",
+        "perspectiveCrop": "Perspektiv afgrøde",
+        "crop": "Afgrøde"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "Kasser ikke ændringer og vend tilbage til billedredaktør"},
+        "discardButton": {
+            "label": "Kasser",
+            "ariaLabel": "Kasser ændringer og luk billededitoren"
+        },
+        "title": "Kasser ændringer",
+        "message": "Er du sikker på, at du vil kassere ændringer?",
+        "ariaLabel": "Bekræft, at du vil kassere eventuelle ændringer, du har foretaget til det billede, der redigeres"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "Drej -90 grader"},
+        "saveButton": {
+            "label": "Spare",
+            "ariaLabel": "Gem rotationen"
+        },
+        "90PlusButton": {"ariaLabel": "Drej +90 grader"},
+        "resetButton": {
+            "label": "Nulstil",
+            "ariaLabel": "Nulstil rotationen"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Vend vandret",
+        "ariaLabel": "Vend billedet vandret"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "Genindlæs ikke billedet"},
+        "title": "Genindlæs billedet",
+        "message": "Er du sikker på, at du vil genindlæse billedet?\n",
+        "initButton": {
+            "label": "Genindlæs",
+            "ariaLabel": "Genindlæs billedet, mister alle foretagne ændringer"
+        },
+        "ariaLabel": "Bekræft, at du vil genindlæse billedet og miste eventuelle ændringer, du har foretaget til det billede, der redigeres"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Spare",
+            "ariaLabel": "Gem perspektivet afgrøder"
+        },
+        "resetButton": {
+            "label": "Nulstil",
+            "ariaLabel": "Nulstil perspektivafgrøden"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Perspektiv afgrøde",
+        "ariaLabel": "Skift til perspektivafgrødetilstand"
+    },
+    "reloadButton": {
+        "label": "Genindlæs",
+        "ariaLabel": "Genindlæs billedet fra kilden"
+    },
+    "doneButton": {"ariaLabel": "Gem ændringer"},
+    "rotationButton": {
+        "label": "Rotere",
+        "ariaLabel": "Skift til rotationstilstand"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Spare",
+            "ariaLabel": "Gem afgrøden"
+        },
+        "resetButton": {
+            "label": "Nulstil",
+            "ariaLabel": "Nulstil afgrøden"
+        }
+    }
+}

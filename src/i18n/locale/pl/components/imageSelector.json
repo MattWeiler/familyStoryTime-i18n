@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Zezwolenie odrzucone",
-            "message": "Odmówiłeś zgody na dostęp do aparatu."
+            "message": "Odmówiłeś zgody na dostęp do aparatu.",
+            "ariaLabel": "odmówiono Ci pozwolenia na robienie zdjęć Twoim aparatem, udziel dostępu lub odbierz możliwość robienia tego"
         },
         "browseImages": {
             "title": "Zezwolenie odrzucone",
-            "message": "Odmówiłeś zgody na dostęp do swoich zdjęć."
+            "message": "Odmówiłeś zgody na dostęp do swoich zdjęć.",
+            "ariaLabel": "Zezwolił na dostęp do twoich zdjęć, albo udzielić dostępu, albo stracić możliwość tego"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Zamknij pełny ekran"}

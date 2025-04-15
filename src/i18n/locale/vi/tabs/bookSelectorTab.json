@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Bạn có chắc chắn muốn xóa %{count} sách đã chọn không?",
                                 "one": "Bạn có chắc chắn muốn xóa sách đã chọn không?"
+                            },
+                            "ariaLabel": {
+                                "other": "Xác nhận rằng bạn muốn xóa sách %{count} đã chọn",
+                                "one": "Xác nhận rằng bạn muốn xóa cuốn sách đã chọn"
                             }
                         },
                         "ariaLabel": "xóa những cuốn sách đã chọn"
@@ -118,6 +122,7 @@
     "title": "Góc đọc sách",
     "confirmations": {"deleteBook": {
         "title": "Xác nhận xóa",
-        "message": "Bạn có chắc chắn muốn xóa cuốn sách \"%{bookTitle}?\""
+        "message": "Bạn có chắc chắn muốn xóa cuốn sách \"%{bookTitle}?\"",
+        "ariaLabel": "Xác nhận rằng bạn muốn xóa cuốn sách \"%{bookTitle}\""
     }}
 }

@@ -1,16 +1,10 @@
 {
-    "deleteAllBooks": {
-        "longDescription": "Tamanna atuakkat tamarmik atortumi matumani installereqarsimasut piiarneqassapput.\n\n",
-        "button": {
-            "label": "Nunguterpaa",
-            "title": "atuakkat tamarmik piiakkit",
-            "ariaLabel": "atuakkat tamarmik piiakkit"
-        },
-        "displayName": "Atuakkat tamarmik piiakkit",
-        "processingMessage": "piiarneq ...",
+    "bookDataManagement": {
+        "longDescription": "Atuakkanik nuutsitsisariaqarpit? ",
+        "displayName": "Atuakkanik paasissutissanik aqutsineq",
         "shortDescription": {
-            "disabled": "Atuakkatit tamarmik piiakkit, kisianni ullumikkut atuakkanik installereqarsimanngilatit.",
-            "enabled": "Atuakkatit tamarmik piiakkit."
+            "disabled": "Suli atuakkanik ikkussuussisoqanngilatit, kisianni taamaaliorpat atuagaarniarfik aqutsisinnaavat \u2014 pisariaqartinneqartunik atuakkanik tuniniaaneq imaluunniit peersitsisinnaavutit.",
+            "enabled": "Atuagaarniarfik aqutsiuk \u2014 pisariaqartinneqartunik atuakkanik tuniniaaneq imaluunniit peersitsigit."
         }
     },
     "footer": {
@@ -25,7 +19,8 @@
                 "ionicIcons": "IonIkonit",
                 "someIconsBy": "Ikonit atorlugit:",
                 "icons8": "Ikonit8",
-                "iconArchive": "Ikon Arkiv"
+                "iconArchive": "Ikon Arkiv",
+                "veryIcon": "Icon assut"
             }
         },
         "version": "Saqqummersitsineq: %{versionNumber}"
@@ -43,6 +38,10 @@
             "simple": {
                 "label": "Ajornanngitsoq",
                 "ariaLabel": "assinik aaqqissuussisoq ajornanngitsoq atorlugu"
+            },
+            "beta": {
+                "label": "Beta",
+                "ariaLabel": "beta-mik assiliineq atorlugu"
             }
         },
         "shortDescription": "Assiliartaq sorleq atorneqarnissaa toqqarlugu.",
@@ -71,6 +70,11 @@
             "collapsed": "immikkoortoq lydvideomik toqqaanissaq annertusarlugu"
         }
     },
+    "exportAllBooksButton": {
+        "label": "Atuakkat tamarmik tuniniaruk",
+        "title": "nioqqutigiuk atuakkat tamarmik",
+        "ariaLabel": "nioqqutigiuk atuakkat tamarmik"
+    },
     "cameraImageQuality": {
         "longDescription": "Assiliinerup pitsaassusaa taanna atorneqassaaq atortup kameraanik/-inik assiliinermi.",
         "slider": {
@@ -85,22 +89,14 @@
     },
     "title": "Inniminniinerit",
     "confirmations": {"deleteAllBooks": {
-        "title": "Deletion Uppernarsaaneq",
-        "message": "Qularnanngilaq atuakkat installereersimasut tamarmik piiarniarlugit?"
-    }},
-    "exportAllBooks": {
-        "longDescription": "Tamanna iluaqutaasinnaavoq atortumut nutaamut nuunnermi imaluunniit atuakkanik atortunut arlalinnut ilanngutsitsinermi.",
-        "button": {
-            "label": "Avammut tunisineq",
-            "title": "atuakkanik tamanik tunisassiorneq",
-            "ariaLabel": "atuakkanik tamanik tunisassiorneq"
+        "buttons": {
+            "no": {"ariaLabel": "atuakkat installereersimasut tamarmik piiarnagit"},
+            "yes": {"ariaLabel": "aap, atuakkat tamarmik installereerlugit"}
         },
-        "displayName": "Atuakkat Tamaasa Export",
-        "shortDescription": {
-            "disabled": "Atuakkatit tamarmik ataatsimut file-mut export-erlugit save/share-erlugit, kisianni ullumikkut atuakkanik installereqarsimanngilatit.",
-            "enabled": "Atuakkatit tamarmik ataatsimut file-mut export-erlugit save/share-erlugit."
-        }
-    },
+        "title": "Deletion Uppernarsaaneq",
+        "message": "Qularnanngilaq atuakkat installereersimasut tamarmik piiarniarlugit?",
+        "ariaLabel": "uppernarsaruk atuakkat installereersimasut tamarmik piiarniarlugit"
+    }},
     "toasts": {"deleteAllBooks": {
         "failure": "piiaaneq iluatsinngilaq",
         "success": {
@@ -182,6 +178,12 @@
         },
         "displayName": "Oqalunnerup annertussusaa %{value}%",
         "shortDescription": "\"AI Reader\"-imit atorneqartussaq nipit qanoq sukkatiginersut toqqaruk."
+    },
+    "deleteAllBooksButton": {
+        "processingMessage": "atuakkanik piiaaneq ...",
+        "label": "Atuakkat tamarmik piiarlugit",
+        "title": "atuakkat tamarmik piiarlugit",
+        "ariaLabel": "atuakkat tamarmik piiarlugit"
     },
     "parentalLocking": {
         "longDescription": "Atorneqarsinnaappat, atortumik piginnittut biometriskimik paasissutissaat pisariaqartinneqarput, applikationimi atortut siuarsakkat ammarniarlugit.",

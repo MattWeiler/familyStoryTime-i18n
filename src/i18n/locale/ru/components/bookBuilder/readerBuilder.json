@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Вы уверены, что хотите удалить программу чтения \"%{readerDisplayName}\"?",
                 "noDisplayName": "Вы уверены, что хотите удалить эту программу чтения?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Убедитесь, что вы хотите удалить считывание \"%{readerDisplayName}\"",
+                "noDisplayName": "Подтвердите, что вы хотите удалить этого читателя"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "На что вы хотите изменить отображаемое имя читателя?",
                 "noDisplayName": "Какое отображаемое имя у этого читателя?"
             },
-            "inputPlaceholder": "имя читателя"
+            "inputPlaceholder": "имя читателя",
+            "ariaLabel": {
+                "withDisplayName": "Обновите существующее отображаемое имя",
+                "noDisplayName": "Укажите новое отображаемое имя"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "измените отображаемое имя для читателя %{readerDisplayName}",

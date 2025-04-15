@@ -21,7 +21,8 @@
                 },
                 "description": "Vă rugăm să furnizați numele afișat pentru acest nou cititor.",
                 "title": "Adăugați un cititor nou",
-                "inputPlaceholder": "numele cititorului"
+                "inputPlaceholder": "numele cititorului",
+                "ariaLabel": "Adăugați un cititor nou"
             },
             "ariaLabel": "adăugați un cititor nou"
         }
@@ -59,7 +60,8 @@
     },
     "confirmations": {"goBack": {
         "title": "Lasă modificări",
-        "message": "Ești sigur că vrei să pleci înainte de a salva?"
+        "message": "Ești sigur că vrei să pleci înainte de a salva?",
+        "ariaLabel": "Confirmați că doriți să plecați înainte de economisire"
     }},
     "pageChangeAudio": {
         "description": "Sunetul de redat când este timpul să schimbați pagina.",

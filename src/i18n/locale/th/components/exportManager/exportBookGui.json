@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "ผู้อ่าน",
+                "ariaLabel": "ส่งออกข้อมูลผู้อ่านสำหรับหนังสือ %{bookTitle} เฉพาะ"
+            },
+            "full": {
+                "label": "เต็ม",
+                "ariaLabel": "ส่งออกหนังสือทั้งเล่ม %{bookTitle}"
+            }
+        },
+        "ariaLabel": "เลือกวิธีส่งออกหนังสือ %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "เพื่อรวมตัวอ่าน %{readerDisplayName} ในการส่งออก"}},
+    "checkbox": {"ariaLabel": "เพื่อรวมหนังสือ %{bookTitle} ในการส่งออก"},
+    "bookReadersTooltip": {"label": "การเลือกตัวเลือก \"ผู้อ่าน\" จะส่งออกเฉพาะผู้อ่านที่เลือก\n\n"}
+}

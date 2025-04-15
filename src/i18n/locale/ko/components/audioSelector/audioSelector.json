@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "명확한 확인",
-            "message": "선택한 오디오를 지우고 싶습니까?"
+            "message": "선택한 오디오를 지우고 싶습니까?",
+            "ariaLabel": "선택한 오디오를 지우려면 확인하십시오"
         },
         "ariaLabel": "선택한 %{audioDisplayName} 오디오를 지우십시오"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "아니요, 머무르고 계속 편집하십시오",
                 "yes": "예, 편집을 폐기하십시오"
-            }
+            },
+            "ariaLabel": "당신이 만든 편집물을 버리고 싶은지 확인하십시오."
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "허가 거부",
-        "message": "마이크에 액세스 할 수있는 권한이 거부되었습니다."
+        "message": "마이크에 액세스 할 수있는 권한이 거부되었습니다.",
+        "ariaLabel": "마이크에 액세스 할 수있는 권한이 거부되었습니다"
     }}
 }

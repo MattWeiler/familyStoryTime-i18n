@@ -66,7 +66,8 @@
             "yes": {"ariaLabel": "prekličite uvoz"}
         },
         "title": "Potrdite Prekliči uvoz",
-        "message": "Ali ste prepričani, da želite preklicati uvoz?"
+        "message": "Ali ste prepričani, da želite preklicati uvoz?",
+        "ariaLabel": "potrdite, da želite preklicati uvoz"
     }},
     "titles": {
         "booksToInstall": "Knjige za namestitev",

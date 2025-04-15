@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "olvasók",
+                "ariaLabel": "Csak az olvasóinformációkat exportálja a %{bookTitle} könyvhez"
+            },
+            "full": {
+                "label": "tele",
+                "ariaLabel": "Exportálja a teljes könyvet %{bookTitle}"
+            }
+        },
+        "ariaLabel": "Válassza ki a könyv exportálásának módját %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "A %{readerDisplayName} olvasó beillesztése az exportba"}},
+    "checkbox": {"ariaLabel": "A %{bookTitle} könyv beillesztése az exportba"},
+    "bookReadersTooltip": {"label": "Az \"Olvasók\" opció kiválasztása csak a kiválasztott olvasókat exportálja.\n\n"}
+}

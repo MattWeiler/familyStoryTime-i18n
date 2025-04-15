@@ -4,7 +4,8 @@
             "noButtonAriaLabel": "ei, älä poista Käytettävissä olevan kirjan asennusta",
             "yesButtonAriaLabel": "kyllä, poista käytettävissä olevan kirjan asennus",
             "title": "Asennuksen poiston vahvistus",
-            "message": "Oletko varma, että haluat poistaa tämän saatavilla olevan kirjan?\n"
+            "message": "Oletko varma, että haluat poistaa tämän saatavilla olevan kirjan?\n",
+            "ariaLabel": "Varmista, että haluat poistaa käytettävissä olevan kirjan asennuksen"
         },
         "ariaLabel": "poista käytettävissä oleva kirja %{bookName}"
     },
@@ -20,7 +21,8 @@
             "noButtonAriaLabel": "ei, älä asenna saatavilla olevaa kirjaa",
             "yesButtonAriaLabel": "kyllä, asenna saatavilla oleva kirja",
             "title": "Asennuksen vahvistus",
-            "message": "Oletko varma, että haluat asentaa tämän saatavilla olevan kirjan?\nTämä käyttää %{fileSize} dataa."
+            "message": "Oletko varma, että haluat asentaa tämän saatavilla olevan kirjan?\nTämä käyttää %{fileSize} dataa.",
+            "ariaLabel": "Varmista, että haluat asentaa käytettävissä olevan kirjan"
         },
         "ariaLabel": "asenna saatavilla oleva kirja %{bookName}"
     }

@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Akuersissut Denied",
-            "message": "Kameramut isernissamut akuersissut itigartitsissutigisimavat."
+            "message": "Kameramut isernissamut akuersissut itigartitsissutigisimavat.",
+            "ariaLabel": "akuersissut kamerat atorlugu assiliinissamut itigartinneqarsimavoq, imaluunniit access-imik tunniussinissaq imaluunniit taamaaliornissamut piginnaassuseq annaaneqarsimavoq"
         },
         "browseImages": {
             "title": "Akuersissut Denied",
-            "message": "Assit iserfiginissaannut akuersissummik itigartitsisimavutit."
+            "message": "Assit iserfiginissaannut akuersissummik itigartitsisimavutit.",
+            "ariaLabel": "akuersissutit assinut isernissamut akuersissut itigartinneqarpoq, imaluunniit access-imik tunniussinissaq imaluunniit taamaaliornissamut piginnaassuseq annaaneqarsimavoq"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "qanimut fullscreen"}

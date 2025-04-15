@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Rescanați textul paginii",
-                "message": "Sunteți sigur că doriți să scanați imaginea pentru text și să înlocuiți textul paginii existente?"
+                "message": "Sunteți sigur că doriți să scanați imaginea pentru text și să înlocuiți textul paginii existente?",
+                "ariaLabel": "Confirmați că doriți să re-scanați imaginea pentru text"
             },
             "ariaLabel": "extrage text din imagine pentru pagina %{pageNum}"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Care este textul paginii?",
                     "withPageText": "În ce ați dori să schimbați textul paginii?"
                 },
-                "inputPlaceholder": "text de adăugat"
+                "inputPlaceholder": "text de adăugat",
+                "ariaLabel": {
+                    "noPageText": "Specificați textul paginii",
+                    "withPageText": "Actualizați textul paginii existent"
+                }
             },
             "ariaLabel": "editați textul \u201e%{pageText}\u201d din pagina %{pageNum}"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Confirmare ștergere",
-                "message": "Sigur doriți să ștergeți textul acestei pagini?"
+                "message": "Sigur doriți să ștergeți textul acestei pagini?",
+                "ariaLabel": "Confirmați că doriți să eliminați această pagină text"
             },
             "ariaLabel": "eliminați textul \u201e%{pageText}\u201d din pagina %{pageNum}"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "text de adăugat la pagina %{pageNum}",
                 "title": "Setează textul paginii",
                 "message": "Care este textul paginii?",
-                "inputPlaceholder": "text de adăugat"
+                "inputPlaceholder": "text de adăugat",
+                "ariaLabel": "Specificați noul text pentru a adăuga la pagina %{pageNum}"
             },
             "ariaLabel": "adăugați text nou la pagina %{pageNum}"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "Aceasta va elimina toate paginile audio înregistrate pentru această pagină.",
             "additionalMessage2": "ACESTA NU POATE FI DESFĂGĂ!",
             "title": "Confirmare ștergere",
-            "message": "Sigur doriți să ștergeți pagina %{pageNum}?"
+            "message": "Sigur doriți să ștergeți pagina %{pageNum}?",
+            "ariaLabel": "Confirmați că doriți să eliminați pagina %{pageNum}"
         },
         "ariaLabel": "eliminați pagina %{pageNum}"
     },

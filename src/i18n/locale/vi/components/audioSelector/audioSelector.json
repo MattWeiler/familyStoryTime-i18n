@@ -8,7 +8,8 @@
     "clearAudioButton": {
         "confirmation": {
             "title": "Xác nhận rõ ràng",
-            "message": "Bạn có chắc là bạn muốn xóa âm thanh đã chọn?"
+            "message": "Bạn có chắc là bạn muốn xóa âm thanh đã chọn?",
+            "ariaLabel": "Xác nhận rằng bạn muốn xóa âm thanh đã chọn"
         },
         "ariaLabel": "Xóa âm thanh %{audioDisplayName} đã chọn"
     },
@@ -27,7 +28,8 @@
             "buttonAriaLabels": {
                 "no": "Không, ở lại và tiếp tục chỉnh sửa",
                 "yes": "Vâng, loại bỏ các chỉnh sửa"
-            }
+            },
+            "ariaLabel": "Xác nhận nếu bạn muốn loại bỏ bất kỳ chỉnh sửa nào mà bạn đã thực hiện"
         }
     },
     "audioIdentifiers": {
@@ -37,6 +39,7 @@
     },
     "permissionDenied": {"recording": {
         "title": "Sự cho phép bị từ chối",
-        "message": "Bạn đã từ chối cho phép truy cập micrô của bạn."
+        "message": "Bạn đã từ chối cho phép truy cập micrô của bạn.",
+        "ariaLabel": "Bạn đã từ chối cho phép truy cập micrô của mình"
     }}
 }

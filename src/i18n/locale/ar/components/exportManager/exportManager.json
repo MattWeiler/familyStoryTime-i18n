@@ -19,24 +19,6 @@
         "packaging": "التعبئة والتغليف ...",
         "cancelling": "الإلغاء..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "القراء",
-                    "ariaLabel": "تصدير معلومات القارئ للكتاب %{bookTitle} فقط"
-                },
-                "full": {
-                    "label": "ممتلىء",
-                    "ariaLabel": "تصدير الكتاب بأكمله %{bookTitle}"
-                }
-            },
-            "ariaLabel": "حدد كيفية تصدير الكتاب %{bookTitle}"
-        },
-        "readers": {"checkbox": {"ariaLabel": "لتضمين القارئ %{readerDisplayName} في عملية التصدير"}},
-        "checkbox": {"ariaLabel": "لتضمين الكتاب %{bookTitle} في التصدير"},
-        "bookReadersTooltip": {"label": "سيؤدي تحديد خيار \"القراء\" إلى تصدير القراء المختارين فقط.\n\n"}
-    },
     "packagedMultiBookFileName": "كتب",
     "nothingToExport": "لا شيء للتصدير :(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "إلغاء التصدير"}
         },
         "title": "تأكيد إلغاء التصدير",
-        "message": "هل أنت متأكد أنك تريد إلغاء التصدير؟"
+        "message": "هل أنت متأكد أنك تريد إلغاء التصدير؟",
+        "ariaLabel": "تأكد من أنك تريد إلغاء الاستيراد"
     }},
     "titles": {
         "booksToExport": "كتب للتصدير",

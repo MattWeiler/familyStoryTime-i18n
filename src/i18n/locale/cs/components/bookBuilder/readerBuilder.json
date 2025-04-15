@@ -22,6 +22,10 @@
             "message": {
                 "withDisplayName": "Opravdu chcete smazat čtečku \u201e%{readerDisplayName}\u201c?",
                 "noDisplayName": "Opravdu chcete smazat tuto čtečku?"
+            },
+            "ariaLabel": {
+                "withDisplayName": "Potvrďte, že chcete odstranit čtečku \"%{readerDisplayName}\"",
+                "noDisplayName": "Potvrďte, že chcete tento čtenář smazat"
             }
         },
         "ariaLabel": {
@@ -44,7 +48,11 @@
                 "withDisplayName": "Na co byste chtěli změnit tento zobrazovaný název čtenářů?",
                 "noDisplayName": "Jaký je zobrazovaný název této čtečky?"
             },
-            "inputPlaceholder": "jméno čtenáře"
+            "inputPlaceholder": "jméno čtenáře",
+            "ariaLabel": {
+                "withDisplayName": "Aktualizujte stávající zobrazovací název",
+                "noDisplayName": "Určete nový název zobrazení"
+            }
         },
         "ariaLabel": {
             "withDisplayName": "změnit zobrazovaný název pro čtečku %{readerDisplayName}",

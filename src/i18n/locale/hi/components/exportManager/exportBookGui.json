@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "पाठकों",
+                "ariaLabel": "केवल पुस्तक के लिए पाठक जानकारी निर्यात करें %{bookTitle}"
+            },
+            "full": {
+                "label": "भरा हुआ",
+                "ariaLabel": "पूरी पुस्तक को निर्यात करें %{bookTitle}"
+            }
+        },
+        "ariaLabel": "पुस्तक निर्यात करने का तरीका चुनें %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "निर्यात में पाठक %{readerDisplayName} को शामिल करने के लिए"}},
+    "checkbox": {"ariaLabel": "निर्यात में पुस्तक %{bookTitle} को शामिल करने के लिए"},
+    "bookReadersTooltip": {"label": "\"पाठकों\" विकल्प का चयन करने से केवल चुने हुए पाठकों को निर्यात किया जाएगा।\n\n"}
+}

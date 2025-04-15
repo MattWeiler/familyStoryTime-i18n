@@ -1,0 +1,8 @@
+{
+    "degreeText": {
+        "ariaLabel": {
+            "one": "set to 1 degree",
+            "other": "set to %{count} degrees"
+        }
+    }
+}

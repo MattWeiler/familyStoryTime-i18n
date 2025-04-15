@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Tillatelse nektet",
-            "message": "Du har nektet tillatelse til å få tilgang til kameraet ditt."
+            "message": "Du har nektet tillatelse til å få tilgang til kameraet ditt.",
+            "ariaLabel": "Tillatelse har blitt nektet å ta bilder med kameraet ditt, enten gi tilgangen eller miste muligheten til det"
         },
         "browseImages": {
             "title": "Tillatelse nektet",
-            "message": "Du har nektet tillatelse til å få tilgang til bildene dine."
+            "message": "Du har nektet tillatelse til å få tilgang til bildene dine.",
+            "ariaLabel": "Tillatelse er blitt nektet for å få tilgang til bildene dine, enten gi tilgangen eller miste muligheten til å gjøre det"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Lukk fullskjerm"}

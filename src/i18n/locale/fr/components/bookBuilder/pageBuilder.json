@@ -4,7 +4,8 @@
         "scanButton": {
             "confirmation": {
                 "title": "Réanalyser le texte de la page",
-                "message": "Êtes-vous sûr de vouloir numériser l'image à la recherche de texte et remplacer le texte de votre page existante ?"
+                "message": "Êtes-vous sûr de vouloir numériser l'image à la recherche de texte et remplacer le texte de votre page existante ?",
+                "ariaLabel": "Confirmez que vous souhaitez rediffuser l'image pour le texte"
             },
             "ariaLabel": "extraire le texte de l'image pour la page %{pageNum}"
         },
@@ -22,7 +23,11 @@
                     "noPageText": "Quel est le texte de la page ?",
                     "withPageText": "Par quoi souhaitez-vous modifier le texte de la page ?"
                 },
-                "inputPlaceholder": "texte à ajouter"
+                "inputPlaceholder": "texte à ajouter",
+                "ariaLabel": {
+                    "noPageText": "Spécifiez le texte de la page",
+                    "withPageText": "Mettre à jour le texte de la page existante"
+                }
             },
             "ariaLabel": "modifier le texte \"%{pageText}\" de la page %{pageNum}"
         },
@@ -30,7 +35,8 @@
         "removeButton": {
             "confirmation": {
                 "title": "Confirmation de suppression",
-                "message": "Êtes-vous sûr de vouloir supprimer le texte de cette page ?"
+                "message": "Êtes-vous sûr de vouloir supprimer le texte de cette page ?",
+                "ariaLabel": "Confirmez que vous souhaitez supprimer le texte de cette page"
             },
             "ariaLabel": "supprimez le texte \"%{pageText}\" de la page %{pageNum}"
         },
@@ -39,7 +45,8 @@
                 "inputAriaLabel": "texte à ajouter à la page %{pageNum}",
                 "title": "Définir le texte de la page",
                 "message": "Quel est le texte de la page ?",
-                "inputPlaceholder": "texte à ajouter"
+                "inputPlaceholder": "texte à ajouter",
+                "ariaLabel": "Spécifiez le nouveau texte à ajouter à la page %{pageNum}"
             },
             "ariaLabel": "ajouter un nouveau texte à la page %{pageNum}"
         },
@@ -67,7 +74,8 @@
             "additionalMessage1": "Cela supprimera tous les fichiers audio de la page enregistrés pour cette page.",
             "additionalMessage2": "CELA NE PEUT PAS ÊTRE DÉFAITE !",
             "title": "Confirmation de suppression",
-            "message": "Êtes-vous sûr de vouloir supprimer la page %{pageNum} ?"
+            "message": "Êtes-vous sûr de vouloir supprimer la page %{pageNum} ?",
+            "ariaLabel": "Confirmez que vous souhaitez supprimer la page %{pageNum}"
         },
         "ariaLabel": "supprimer la page %{pageNum}"
     },

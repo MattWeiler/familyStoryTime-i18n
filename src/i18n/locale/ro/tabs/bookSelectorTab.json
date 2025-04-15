@@ -44,6 +44,10 @@
                             "message": {
                                 "other": "Sunteți sigur că doriți să ștergeți %{count} cărțile selectate?",
                                 "one": "Sunteți sigur că doriți să ștergeți cartea selectată?"
+                            },
+                            "ariaLabel": {
+                                "other": "Confirmați că doriți să ștergeți cărțile selectate %{count}",
+                                "one": "Confirmați că doriți să ștergeți cartea selectată"
                             }
                         },
                         "ariaLabel": "ștergeți cărțile selectate"
@@ -118,6 +122,7 @@
     "title": "Colțul de lectură",
     "confirmations": {"deleteBook": {
         "title": "Confirmare ștergere",
-        "message": "Sigur doriți să ștergeți cartea \u201e%{bookTitle}?\u201d"
+        "message": "Sigur doriți să ștergeți cartea \u201e%{bookTitle}?\u201d",
+        "ariaLabel": "Confirmați că doriți să ștergeți cartea \"%{bookTitle}\""
     }}
 }

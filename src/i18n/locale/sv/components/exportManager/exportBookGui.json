@@ -1,0 +1,18 @@
+{
+    "exportMode": {
+        "modes": {
+            "audioOnly": {
+                "label": "läsare",
+                "ariaLabel": "Exportera endast läsarinformationen för bok %{bookTitle}"
+            },
+            "full": {
+                "label": "full",
+                "ariaLabel": "Exportera hela boken %{bookTitle}"
+            }
+        },
+        "ariaLabel": "Välj hur du exportar bok %{bookTitle}"
+    },
+    "readers": {"checkbox": {"ariaLabel": "att inkludera läsaren %{readerDisplayName} i exporten"}},
+    "checkbox": {"ariaLabel": "att inkludera boken %{bookTitle} i exporten"},
+    "bookReadersTooltip": {"label": "Att välja alternativet \"läsare\" kommer endast att exportera de valda läsarna.\n\n"}
+}

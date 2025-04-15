@@ -29,11 +29,13 @@
     "permissionDenied": {
         "takePicture": {
             "title": "Izin ditolak",
-            "message": "Anda telah menolak izin untuk mengakses kamera Anda."
+            "message": "Anda telah menolak izin untuk mengakses kamera Anda.",
+            "ariaLabel": "Izin telah ditolak untuk mengambil gambar dengan kamera Anda, baik memberikan akses atau kehilangan kemampuan untuk melakukannya"
         },
         "browseImages": {
             "title": "Izin ditolak",
-            "message": "Anda telah menolak izin untuk mengakses foto Anda."
+            "message": "Anda telah menolak izin untuk mengakses foto Anda.",
+            "ariaLabel": "Izin telah ditolak untuk mengakses foto Anda, baik memberikan akses atau kehilangan kemampuan untuk melakukannya"
         }
     },
     "closeFullscreenButton": {"ariaLabel": "Tutup layar penuh"}

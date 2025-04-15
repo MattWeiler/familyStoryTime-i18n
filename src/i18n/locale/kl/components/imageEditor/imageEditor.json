@@ -1,0 +1,87 @@
+{
+    "cropButton": {
+        "label": "Inerittut",
+        "ariaLabel": "crop-modus-imut skift"
+    },
+    "dismissButton": {"ariaLabel": {
+        "default": "allanngortitsineq",
+        "rotation": "peerlugu rotationip allanngornera",
+        "perspectiveCrop": "perspektivimik naatitsinermik allanngortitsineq peerlugu",
+        "crop": "naatitanik allanngortitsineq peerlugu"
+    }},
+    "headerLabel": {
+        "default": "Edit Assilisaq",
+        "rotation": "Rotation",
+        "perspectiveCrop": "Perspektiv Crop",
+        "crop": "Inerittut"
+    },
+    "confirmDiscard": {
+        "cancelButton": {"ariaLabel": "allanngortiterinerit peerlugit aamma imageeditorimut uteqqinngilatit"},
+        "discardButton": {
+            "label": "KASIILERPAA",
+            "ariaLabel": "allanngortiterineq eqqumiigiuk aamma imageeditorip matusiuk"
+        },
+        "title": "Diskort-imik allanngortitsineq",
+        "message": "Qularnanngilaq allanngortitsinerit unitsinniarlugit?",
+        "ariaLabel": "uppernarsarlugu assilisassiap allanngortinneqartup allanngortinneqarneranik allanngortitsisoqarpat"
+    },
+    "rotation": {
+        "90MinusButton": {"ariaLabel": "-90 gradit"},
+        "saveButton": {
+            "label": "Toqqorpaa",
+            "ariaLabel": "rotationi allaaserlugu"
+        },
+        "90PlusButton": {"ariaLabel": "+90 gradit"},
+        "resetButton": {
+            "label": "Nutarterineq",
+            "ariaLabel": "rotationi nutarterpaa"
+        }
+    },
+    "flipHorizontalButton": {
+        "label": "Flip Horizontal",
+        "ariaLabel": "flip-i horisontalimik"
+    },
+    "confirmInitImage": {
+        "cancelButton": {"ariaLabel": "assilisassiaq ikkunngilat"},
+        "title": "Reload Assilisaq",
+        "message": "Qularnanngilaq assilisassiaq reload-erniarlugu?\n",
+        "initButton": {
+            "label": "Reload",
+            "ariaLabel": "assilisaq reload-erlugu, allanngortiterinerit tamarmik loos-erlugit"
+        },
+        "ariaLabel": "uppernarsarlugu assilisassiaq reload-erusunnerlugu, assimik allanngortitsisoqarnissaanut allanngortitsisoqarsimasoq annaassallugu"
+    },
+    "perspectiveCrop": {
+        "saveButton": {
+            "label": "Toqqorpaa",
+            "ariaLabel": "perspektivimik naatitsineq annaasaq"
+        },
+        "resetButton": {
+            "label": "Nutarterineq",
+            "ariaLabel": "perspektivimik naatitsineq nutarterpaa"
+        }
+    },
+    "perspectiveCropButton": {
+        "label": "Perspektiv Crop",
+        "ariaLabel": "perspektivi crop-modus-imut allanngortitsineq"
+    },
+    "reloadButton": {
+        "label": "Reload",
+        "ariaLabel": "assimik pissarsiorfimmiit ikkukkit"
+    },
+    "doneButton": {"ariaLabel": "allanngortitsineq allanngortitsineq"},
+    "rotationButton": {
+        "label": "Rotate",
+        "ariaLabel": "rotation-modus-imut skift"
+    },
+    "crop": {
+        "saveButton": {
+            "label": "Toqqorpaa",
+            "ariaLabel": "naatitat annaakkit"
+        },
+        "resetButton": {
+            "label": "Nutarterineq",
+            "ariaLabel": "naatitanik nutarterineq"
+        }
+    }
+}

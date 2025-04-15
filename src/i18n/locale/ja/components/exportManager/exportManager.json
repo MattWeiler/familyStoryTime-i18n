@@ -19,24 +19,6 @@
         "packaging": "梱包...",
         "cancelling": "キャンセルしています..."
     },
-    "booksToExport": {
-        "exportMode": {
-            "modes": {
-                "audioOnly": {
-                    "label": "読者",
-                    "ariaLabel": "書籍 %{bookTitle} の読者情報のみをエクスポートします"
-                },
-                "full": {
-                    "label": "満杯",
-                    "ariaLabel": "本全体 %{bookTitle} をエクスポートします"
-                }
-            },
-            "ariaLabel": "本 %{bookTitle} をエクスポートする方法を選択してください"
-        },
-        "readers": {"checkbox": {"ariaLabel": "リーダー %{readerDisplayName} をエクスポートに含めるには"}},
-        "checkbox": {"ariaLabel": "ブック %{bookTitle} をエクスポートに含めるには"},
-        "bookReadersTooltip": {"label": "「リーダー」オプションを選択すると、選択したリーダーのみがエクスポートされます。\n\n"}
-    },
     "packagedMultiBookFileName": "本",
     "nothingToExport": "エクスポートするものがありません:(",
     "confirmation": {"cancel": {
@@ -45,7 +27,8 @@
             "yes": {"ariaLabel": "エクスポートをキャンセルする"}
         },
         "title": "エクスポートのキャンセルを確認",
-        "message": "エクスポートをキャンセルしてもよろしいですか?"
+        "message": "エクスポートをキャンセルしてもよろしいですか?",
+        "ariaLabel": "インポートをキャンセルすることを確認してください"
     }},
     "titles": {
         "booksToExport": "輸出する書籍",
