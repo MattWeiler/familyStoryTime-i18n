@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "\"%{bookTitle}\" mentett könyv",
+        "inProgressBookReloaded": "helyreállított \"%{bookTitle}\"",
         "validationFailed": "érvényesítés sikertelen",
         "bookSaveFailed": "könyv mentése sikertelen"
     },

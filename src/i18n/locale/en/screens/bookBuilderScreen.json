@@ -48,7 +48,8 @@
     "toasts": {
         "validationFailed": "validation failed",
         "bookSaved": "saved book \"%{bookTitle}\"",
-        "bookSaveFailed": "failed saving book"
+        "bookSaveFailed": "failed saving book",
+        "inProgressBookReloaded": "recovered \"%{bookTitle}\""
     },
 
     "bookTitleInput": {

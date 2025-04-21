@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "Buch \u201e%{bookTitle}\u201c gespeichert",
+        "inProgressBookReloaded": "wiederhergestellt \"%{bookTitle}\"",
         "validationFailed": "Validierung fehlgeschlagen",
         "bookSaveFailed": "Das Speichern des Buchs ist fehlgeschlagen"
     },

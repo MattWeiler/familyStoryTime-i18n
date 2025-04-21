@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "已保存的图书\u201c%{bookTitle}\u201d",
+        "inProgressBookReloaded": "恢复的\u201c %{bookTitle}\u201d",
         "validationFailed": "验证失败",
         "bookSaveFailed": "保存书籍失败"
     },

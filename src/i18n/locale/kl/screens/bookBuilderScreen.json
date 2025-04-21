@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "atuakkiaq toqqoqqasoq \"%{bookTitle}\"",
+        "inProgressBookReloaded": "taarserneqarpoq \"%{bookTitle}\".",
         "validationFailed": "uppernarsaasiineq iluatsinngilaq",
         "bookSaveFailed": "kukkuneqarsimasoq sipaarniarnermi atuakka"
     },

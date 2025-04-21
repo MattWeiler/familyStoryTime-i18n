@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "ਸੁਰੱਖਿਅਤ ਕੀਤੀ ਕਿਤਾਬ \"%{bookTitle}\"",
+        "inProgressBookReloaded": "ਬਰਾਮਦ ਕੀਤੀ \"%{bookTitle}\"",
         "validationFailed": "ਪ੍ਰਮਾਣਿਕਤਾ ਅਸਫਲ ਰਹੀ",
         "bookSaveFailed": "ਕਿਤਾਬ ਨੂੰ ਸੰਭਾਲਣ ਵਿੱਚ ਅਸਫਲ"
     },

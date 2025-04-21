@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "সংরক্ষিত বই \"%{bookTitle}\"",
+        "inProgressBookReloaded": "পুনরুদ্ধার \"%{bookTitle}\"",
         "validationFailed": "বৈধতা ব্যর্থ হয়েছে",
         "bookSaveFailed": "বই সংরক্ষণ করতে ব্যর্থ হয়েছে"
     },

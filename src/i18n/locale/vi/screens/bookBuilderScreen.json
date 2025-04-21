@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "sách đã lưu \"%{bookTitle}\"",
+        "inProgressBookReloaded": "Đã phục hồi \"%{bookTitle}\"",
         "validationFailed": "xác thực không thành công",
         "bookSaveFailed": "sổ tiết kiệm thất bại"
     },

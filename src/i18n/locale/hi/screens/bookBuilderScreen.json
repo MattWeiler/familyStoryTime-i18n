@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "सहेजी गई पुस्तक \"%{bookTitle}\"",
+        "inProgressBookReloaded": "बरामद \"%{bookTitle}\"",
         "validationFailed": "प्रमाणीकरण विफल रहा",
         "bookSaveFailed": "पुस्तक सहेजने में विफल"
     },

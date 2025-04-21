@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "cartea salvată \u201e%{bookTitle}\u201d",
+        "inProgressBookReloaded": "recuperat \"%{bookTitle}\"",
         "validationFailed": "validarea a eșuat",
         "bookSaveFailed": "nu a salvat cartea"
     },

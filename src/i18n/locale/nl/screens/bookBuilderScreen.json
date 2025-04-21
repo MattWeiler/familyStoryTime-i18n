@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "opgeslagen boek \"%{bookTitle}\"",
+        "inProgressBookReloaded": "hersteld \"%{bookTitle}\"",
         "validationFailed": "validatie is mislukt",
         "bookSaveFailed": "het opslaan van het boek is mislukt"
     },

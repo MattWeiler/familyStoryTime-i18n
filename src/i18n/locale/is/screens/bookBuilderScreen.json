@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "vistuð bók \"%{bookTitle}\"",
+        "inProgressBookReloaded": "endurheimt \"%{bookTitle}\"",
         "validationFailed": "staðfesting mistókst",
         "bookSaveFailed": "mistókst að vista bók"
     },

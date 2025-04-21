@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "запазена книга \u201e%{bookTitle}\u201c",
+        "inProgressBookReloaded": "възстанови \"%{bookTitle}\"",
         "validationFailed": "валидирането е неуспешно",
         "bookSaveFailed": "неуспешно записване на книга"
     },

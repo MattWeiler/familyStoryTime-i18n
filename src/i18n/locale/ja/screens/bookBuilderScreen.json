@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "保存された本「%{bookTitle}」",
+        "inProgressBookReloaded": "回復した \"%{bookTitle}\"",
         "validationFailed": "検証に失敗しました",
         "bookSaveFailed": "本の保存に失敗しました"
     },

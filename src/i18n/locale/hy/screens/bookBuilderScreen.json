@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "պահված գիրք «%{bookTitle}»",
+        "inProgressBookReloaded": "վերականգնվել է «%{bookTitle}»",
         "validationFailed": "վավերացումը ձախողվեց",
         "bookSaveFailed": "Չհաջողվեց պահպանել գիրքը"
     },

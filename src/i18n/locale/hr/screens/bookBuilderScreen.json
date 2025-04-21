@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "spremljena knjiga \"%{bookTitle}\"",
+        "inProgressBookReloaded": "oporavljen \"%{bookTitle}\"",
         "validationFailed": "provjera nije uspjela",
         "bookSaveFailed": "neuspjela knjiga spremanja"
     },

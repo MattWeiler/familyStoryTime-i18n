@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "uložená kniha \u201e%{bookTitle}\u201c",
+        "inProgressBookReloaded": "obnoveno \"%{bookTitle}\"",
         "validationFailed": "ověření se nezdařilo",
         "bookSaveFailed": "nepodařilo uložit knihu"
     },

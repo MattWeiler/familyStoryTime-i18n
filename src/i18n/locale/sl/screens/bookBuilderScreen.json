@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "shranjena knjiga \"%{bookTitle}\"",
+        "inProgressBookReloaded": "obnovljeno \"%{bookTitle}\"",
         "validationFailed": "preverjanje ni uspelo",
         "bookSaveFailed": "neuspelo shranjevanje knjige"
     },

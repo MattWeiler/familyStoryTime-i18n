@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "tallennettu kirja \"%{bookTitle}\"",
+        "inProgressBookReloaded": "palautettu \"%{bookTitle}\"",
         "validationFailed": "vahvistus epäonnistui",
         "bookSaveFailed": "kirjan tallennus epäonnistui"
     },

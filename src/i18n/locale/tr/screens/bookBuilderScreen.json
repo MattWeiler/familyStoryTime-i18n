@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "kayıtlı kitap \"%{bookTitle}\"",
+        "inProgressBookReloaded": "kurtarıldı \"%{bookTitle}\"",
         "validationFailed": "doğrulama başarısız oldu",
         "bookSaveFailed": "kitap kaydedilemedi"
     },

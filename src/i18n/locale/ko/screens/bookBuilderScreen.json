@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "저장된 책 \"%{bookTitle}\"",
+        "inProgressBookReloaded": "회복 된 \"%{bookTitle}\"",
         "validationFailed": "유효성 검사 실패",
         "bookSaveFailed": "책 저장 실패"
     },

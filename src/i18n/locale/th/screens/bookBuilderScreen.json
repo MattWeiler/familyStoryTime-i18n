@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "หนังสือที่บันทึกไว้ \"%{bookTitle}\"",
+        "inProgressBookReloaded": "กู้คืน \"%{bookTitle}\"",
         "validationFailed": "การตรวจสอบล้มเหลว",
         "bookSaveFailed": "การบันทึกสมุดล้มเหลว"
     },

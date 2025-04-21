@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "الكتاب المحفوظ \"%{bookTitle}\"",
+        "inProgressBookReloaded": "استعاد \"%{bookTitle}\"",
         "validationFailed": "فشل التحقق من الصحة",
         "bookSaveFailed": "كتاب حفظ فاشل"
     },

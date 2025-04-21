@@ -1,6 +1,7 @@
 {
     "toasts": {
         "bookSaved": "sparad bok \"%{bookTitle}\"",
+        "inProgressBookReloaded": "återhämtat \"%{bookTitle}\"",
         "validationFailed": "validering misslyckades",
         "bookSaveFailed": "misslyckades med att spara boken"
     },
