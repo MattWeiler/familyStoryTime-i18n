@@ -3,6 +3,16 @@
         "title": "画像ファイルを参照します",
         "ariaLabel": "%{imageDisplayName}画像の画像ファイルを参照します"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "写真をキャプチャします"},
+        "changeDeviceButton": {"ariaLabel": "次のカメラに変更します"},
+        "closeButton": {"ariaLabel": "カメラを閉じます"},
+        "flashButton": {"ariaLabel": {
+            "auto": "フラッシュをオートからオンに変更します",
+            "off": "フラッシュをオフからオートに変更します",
+            "on": "フラッシュをオンからオフに変更します"
+        }}
+    },
     "takePhotoButton": {
         "title": "写真を撮ってください",
         "ariaLabel": "%{imageDisplayName}画像の写真を撮ります"

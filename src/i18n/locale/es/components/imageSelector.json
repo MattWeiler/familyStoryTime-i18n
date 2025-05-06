@@ -3,6 +3,16 @@
         "title": "Explorar un archivo de imagen",
         "ariaLabel": "Explorar un archivo de imagen para la imagen %{imageDisplayName}"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "capturar una imagen"},
+        "changeDeviceButton": {"ariaLabel": "Cambiar a la siguiente cámara"},
+        "closeButton": {"ariaLabel": "Cerrar la cámara"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Cambiar flash de auto a encendido",
+            "off": "Cambiar Flash de OFF a Auto",
+            "on": "Cambiar flash de encendido a desactivado"
+        }}
+    },
     "takePhotoButton": {
         "title": "tomar una foto",
         "ariaLabel": "Tome una foto para la imagen %{imageDisplayName}"

@@ -3,6 +3,16 @@
         "title": "Selaa kuvatiedostoa",
         "ariaLabel": "Selaa kuvatiedostoa %{imageDisplayName} -kuvalle"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "Kaappaa kuva"},
+        "changeDeviceButton": {"ariaLabel": "Vaihda seuraavaan kameraan"},
+        "closeButton": {"ariaLabel": "sulje kamera"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Vaihda salama autosta",
+            "off": "Vaihda Flash pois Autosta",
+            "on": "Vaihda salama päälle"
+        }}
+    },
     "takePhotoButton": {
         "title": "ottaa kuva",
         "ariaLabel": "Ota kuva %{imageDisplayName} kuva"

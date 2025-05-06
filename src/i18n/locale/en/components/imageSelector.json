@@ -64,5 +64,27 @@
             "title": "Permission Denied",
             "message": "You have denied permission to access your camera."
         }
+    },
+
+    "visionCamera": {
+        "closeButton": {
+            "ariaLabel": "close the camera"
+        },
+
+        "flashButton": {
+            "ariaLabel": {
+                "auto": "change flash from auto to on",
+                "on": "change flash from on to off",
+                "off": "change flash from off to auto"
+            }
+        },
+
+        "captureButton": {
+            "ariaLabel": "capture a picture"
+        },
+
+        "changeDeviceButton": {
+            "ariaLabel": "change to next camera"
+        }
     }
 }

@@ -3,6 +3,16 @@
         "title": "이미지 파일을 찾아보십시오",
         "ariaLabel": "%{imageDisplayName} 이미지의 이미지 파일을 찾아보십시오"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "사진을 캡처하십시오"},
+        "changeDeviceButton": {"ariaLabel": "다음 카메라로 변경하십시오"},
+        "closeButton": {"ariaLabel": "카메라를 닫으십시오"},
+        "flashButton": {"ariaLabel": {
+            "auto": "플래시를 자동에서 켜기로 변경합니다",
+            "off": "오프에서 자동으로 플래시를 변경하십시오",
+            "on": "플래시를 켜지십시오"
+        }}
+    },
     "takePhotoButton": {
         "title": "사진을 찍으십시오",
         "ariaLabel": "%{imageDisplayName} 이미지에 대한 사진을 찍습니다"

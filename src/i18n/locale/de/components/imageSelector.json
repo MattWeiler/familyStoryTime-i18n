@@ -3,6 +3,16 @@
         "title": "Durchsuchen Sie nach einer Bilddatei",
         "ariaLabel": "Durchsuchen Sie eine Bilddatei für %{imageDisplayName} Bild"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "Erfassen Sie ein Bild"},
+        "changeDeviceButton": {"ariaLabel": "Wechseln Sie zur nächsten Kamera"},
+        "closeButton": {"ariaLabel": "Schließen Sie die Kamera"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Wechseln Sie den Flash von automatisch auf ein",
+            "off": "Wechseln Sie den Flash von Off zu Auto",
+            "on": "Wechseln Sie den Flash von eins nach Off"
+        }}
+    },
     "takePhotoButton": {
         "title": "Bild machen",
         "ariaLabel": "Machen Sie ein Bild für %{imageDisplayName} Bild"

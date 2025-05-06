@@ -3,6 +3,16 @@
         "title": "assiliartaq pillugu browse",
         "ariaLabel": "%{imageDisplayName}-mut assiliartamut filimut browse-erlugu"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "assimik tigusineq"},
+        "changeDeviceButton": {"ariaLabel": "kameramut tullermut allanngortitsineq"},
+        "closeButton": {"ariaLabel": "kamera matullugu"},
+        "flashButton": {"ariaLabel": {
+            "auto": "auto-mit on-imut flash-imik allanngortitsineq",
+            "off": "off-imiit auto-mut flash-imik allanngortitsineq",
+            "on": "allanngortiguk flash-imiit off-imut"
+        }}
+    },
     "takePhotoButton": {
         "title": "assiliineq tigujuk",
         "ariaLabel": "%{imageDisplayName}-mik assimik assilisassiorit"

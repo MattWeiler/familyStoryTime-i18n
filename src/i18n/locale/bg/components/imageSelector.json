@@ -3,6 +3,16 @@
         "title": "Прегледайте файл с изображение",
         "ariaLabel": "Прегледайте файл с изображение за изображение %{imageDisplayName}"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "улавете снимка"},
+        "changeDeviceButton": {"ariaLabel": "Променете в следващата камера"},
+        "closeButton": {"ariaLabel": "Затворете камерата"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Променете светкавицата от Auto на ON",
+            "off": "Променете светкавицата от изключване към автоматично",
+            "on": "Променете светкавицата от ON до OFF"
+        }}
+    },
     "takePhotoButton": {
         "title": "Снимайте",
         "ariaLabel": "Снимайте за %{imageDisplayName} изображение"

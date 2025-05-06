@@ -3,6 +3,16 @@
         "title": "Blader door een afbeeldingsbestand",
         "ariaLabel": "Blader naar een afbeeldingsbestand voor %{imageDisplayName} afbeelding"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "Maak een foto"},
+        "changeDeviceButton": {"ariaLabel": "Verander naar de volgende camera"},
+        "closeButton": {"ariaLabel": "Sluit de camera"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Wijzig flits van auto in in",
+            "off": "Wijzig Flash van off in Auto",
+            "on": "Wijzig flits van aan naar uit"
+        }}
+    },
     "takePhotoButton": {
         "title": "een foto nemen",
         "ariaLabel": "Maak een foto voor %{imageDisplayName} afbeelding"

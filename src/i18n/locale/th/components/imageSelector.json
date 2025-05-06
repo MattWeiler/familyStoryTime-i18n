@@ -3,6 +3,16 @@
         "title": "เรียกดูไฟล์รูปภาพ",
         "ariaLabel": "เรียกดูรูปภาพสำหรับ image %{imageDisplayName} ภาพ"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "จับภาพ"},
+        "changeDeviceButton": {"ariaLabel": "เปลี่ยนเป็นกล้องถัดไป"},
+        "closeButton": {"ariaLabel": "ปิดกล้อง"},
+        "flashButton": {"ariaLabel": {
+            "auto": "เปลี่ยนแฟลชจากอัตโนมัติเป็นเปิด",
+            "off": "เปลี่ยนแฟลชจากปิดเป็นอัตโนมัติ",
+            "on": "เปลี่ยนแฟลชจากที่หนึ่งไปเป็นปิด"
+        }}
+    },
     "takePhotoButton": {
         "title": "ถ่ายภาพ",
         "ariaLabel": "ถ่ายภาพสำหรับ %{imageDisplayName} รูปภาพ"

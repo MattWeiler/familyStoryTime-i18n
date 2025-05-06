@@ -3,6 +3,16 @@
         "title": "Bla gjennom en bildefil",
         "ariaLabel": "Bla gjennom en bildefil for %{imageDisplayName} bilde"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "ta et bilde"},
+        "changeDeviceButton": {"ariaLabel": "Bytt til neste kamera"},
+        "closeButton": {"ariaLabel": "Lukk kameraet"},
+        "flashButton": {"ariaLabel": {
+            "auto": "endre blitz fra auto til på",
+            "off": "endre blits fra av til auto",
+            "on": "Endre blits fra til til av"
+        }}
+    },
     "takePhotoButton": {
         "title": "Ta bilde",
         "ariaLabel": "Ta bilde for %{imageDisplayName} bilde"

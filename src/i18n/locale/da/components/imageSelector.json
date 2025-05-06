@@ -3,6 +3,16 @@
         "title": "Gennemse efter en billedfil",
         "ariaLabel": "Gennemse for en billedfil til %{imageDisplayName} billede"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "Fang et billede"},
+        "changeDeviceButton": {"ariaLabel": "Skift til næste kamera"},
+        "closeButton": {"ariaLabel": "Luk kameraet"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Skift flash fra bil til på",
+            "off": "Skift flash fra off til auto",
+            "on": "Skift flash fra videre til off"
+        }}
+    },
     "takePhotoButton": {
         "title": "Tag billede",
         "ariaLabel": "Tag billede til %{imageDisplayName} billede"

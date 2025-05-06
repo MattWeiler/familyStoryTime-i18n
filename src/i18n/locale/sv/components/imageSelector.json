@@ -3,6 +3,16 @@
         "title": "Bläddra efter en bildfil",
         "ariaLabel": "Bläddra för en bildfil för %{imageDisplayName} Bild"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "fånga en bild"},
+        "changeDeviceButton": {"ariaLabel": "Byt till nästa kamera"},
+        "closeButton": {"ariaLabel": "Stäng kameran"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Ändra blixt från auto till på",
+            "off": "Ändra blixt från off till auto",
+            "on": "Ändra blixt från på till av"
+        }}
+    },
     "takePhotoButton": {
         "title": "ta bild",
         "ariaLabel": "Ta bilden för %{imageDisplayName} Bild"

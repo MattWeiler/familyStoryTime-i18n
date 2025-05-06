@@ -3,6 +3,16 @@
         "title": "Procházejte soubor obrazu",
         "ariaLabel": "Procházejte obrazový soubor pro obrázek %{imageDisplayName}"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "zachytit obrázek"},
+        "changeDeviceButton": {"ariaLabel": "Změna na další kameru"},
+        "closeButton": {"ariaLabel": "Zavřete kameru"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Změňte blesk z automobilu na ON",
+            "off": "Změňte blesk z OFF na auto",
+            "on": "Změňte blesk z ON na OFF"
+        }}
+    },
     "takePhotoButton": {
         "title": "vyfotit",
         "ariaLabel": "Vyfoťte obrázek pro %{imageDisplayName}"

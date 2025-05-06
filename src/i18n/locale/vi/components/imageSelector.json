@@ -3,6 +3,16 @@
         "title": "Duyệt cho một tệp hình ảnh",
         "ariaLabel": "Duyệt cho một tệp hình ảnh cho hình ảnh %{imageDisplayName}"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "chụp ảnh"},
+        "changeDeviceButton": {"ariaLabel": "Thay đổi thành camera tiếp theo"},
+        "closeButton": {"ariaLabel": "Đóng máy ảnh"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Thay đổi đèn flash từ tự động sang bật",
+            "off": "Thay đổi đèn flash từ TẮT thành Tự động",
+            "on": "Thay đổi đèn flash từ bật sang tắt"
+        }}
+    },
     "takePhotoButton": {
         "title": "Chụp ảnh",
         "ariaLabel": "Chụp ảnh cho hình ảnh %{imageDisplayName}"

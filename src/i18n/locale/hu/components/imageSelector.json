@@ -3,6 +3,16 @@
         "title": "Böngésszen egy képfájlhoz",
         "ariaLabel": "Keresse meg a %{imageDisplayName} kép képfájlját"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "Rögzítsen egy képet"},
+        "changeDeviceButton": {"ariaLabel": "Váltás a következő kamerára"},
+        "closeButton": {"ariaLabel": "Csukja be a kamerát"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Változtassa meg a flash -ot az Auto -ről BE -re",
+            "off": "Cserélje ki a flash -ot kifelé az autóra",
+            "on": "Változtassa meg a flash -ot befelé"
+        }}
+    },
     "takePhotoButton": {
         "title": "képet készít",
         "ariaLabel": "Készítsen képet a %{imageDisplayName} képhez"

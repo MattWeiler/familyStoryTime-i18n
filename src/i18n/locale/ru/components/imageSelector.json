@@ -3,6 +3,16 @@
         "title": "Просмотрите файл изображения",
         "ariaLabel": "Просмотрите файл изображения для %{imageDisplayName} изображения"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "Захватить картинку"},
+        "changeDeviceButton": {"ariaLabel": "изменить на следующую камеру"},
+        "closeButton": {"ariaLabel": "Закройте камеру"},
+        "flashButton": {"ariaLabel": {
+            "auto": "изменить вспышку с автоматического",
+            "off": "изменить вспышку с отключения на авто",
+            "on": "изменить вспышку с неверного"
+        }}
+    },
     "takePhotoButton": {
         "title": "Сфотографировать",
         "ariaLabel": "Сделайте изображение для %{imageDisplayName} изображения"

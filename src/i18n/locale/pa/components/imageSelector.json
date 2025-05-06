@@ -3,6 +3,16 @@
         "title": "ਇੱਕ ਚਿੱਤਰ ਫਾਈਲ ਲਈ ਬ੍ਰਾ Browse ਜ਼ ਕਰੋ",
         "ariaLabel": "ੱਤਰ ਨੂੰ %{imageDisplayName} ਚਿੱਤਰ ਲਈ ਬ੍ਰਾਉਜ਼ ਕਰ"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "ਇੱਕ ਤਸਵੀਰ ਕੈਪਚਰ"},
+        "changeDeviceButton": {"ariaLabel": "ਅਗਲੇ ਕੈਮਰਾ ਵਿੱਚ ਬਦਲੋ"},
+        "closeButton": {"ariaLabel": "ਕੈਮਰਾ ਬੰਦ ਕਰੋ"},
+        "flashButton": {"ariaLabel": {
+            "auto": "ਆਟੋ ਤੋਂ ਆਟੋ ਤੋਂ ਫਲੈਸ਼ ਬਦਲੋ",
+            "off": "ਫਲੈਸ਼ ਤੋਂ ਆਟੋ ਤੱਕ ਫਲੈਸ਼ ਕਰੋ",
+            "on": "ਫਲੈਸ਼ ਨੂੰ ਬੰਦ ਕਰਨ ਲਈ ਬਦਲੋ"
+        }}
+    },
     "takePhotoButton": {
         "title": "ਤਸਵੀਰ ਲਓ",
         "ariaLabel": "%{imageDisplayName} ੱਤਰ ਲਈ ਤਸਵੀਰ ਲਓ"

@@ -3,6 +3,16 @@
         "title": "تصفح ملف صورة",
         "ariaLabel": "تصفح للحصول على ملف صورة لـ %{imageDisplayName}"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "التقاط صورة"},
+        "changeDeviceButton": {"ariaLabel": "تغيير إلى الكاميرا التالية"},
+        "closeButton": {"ariaLabel": "أغلق الكاميرا"},
+        "flashButton": {"ariaLabel": {
+            "auto": "تغيير الفلاش من السيارات إلى ON",
+            "off": "تغيير الفلاش من OFF إلى Auto",
+            "on": "قم بتغيير الفلاش من ON إلى OFF"
+        }}
+    },
     "takePhotoButton": {
         "title": "خذ الصورة",
         "ariaLabel": "خذ صورة لصورة %{imageDisplayName}"

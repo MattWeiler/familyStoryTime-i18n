@@ -3,6 +3,16 @@
         "title": "Претражите за датотеку слике",
         "ariaLabel": "Прегледајте датотеку слике за %{imageDisplayName} слику"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "снимите слику"},
+        "changeDeviceButton": {"ariaLabel": "Промените се на следећу камеру"},
+        "closeButton": {"ariaLabel": "Затворите камеру"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Промените блиц са ауто у то",
+            "off": "Промените блиц од аутомобила",
+            "on": "Промените блиц са у ОФФ"
+        }}
+    },
     "takePhotoButton": {
         "title": "сликати се",
         "ariaLabel": "сликати се за %{imageDisplayName} слику"

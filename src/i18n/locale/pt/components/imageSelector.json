@@ -3,6 +3,16 @@
         "title": "Navegue por um arquivo de imagem",
         "ariaLabel": "Navegue por um arquivo de imagem para %{imageDisplayName} imagem"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "Capture uma imagem"},
+        "changeDeviceButton": {"ariaLabel": "Mudar para a próxima câmera"},
+        "closeButton": {"ariaLabel": "Feche a câmera"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Mude o flash de automático para",
+            "off": "Altere o flash de OFF para AUTO",
+            "on": "Mude o flash de ON para OFF"
+        }}
+    },
     "takePhotoButton": {
         "title": "Tire uma foto",
         "ariaLabel": "Tire uma foto para %{imageDisplayName} imagem"

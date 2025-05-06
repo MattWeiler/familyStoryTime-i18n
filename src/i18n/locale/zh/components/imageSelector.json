@@ -3,6 +3,16 @@
         "title": "浏览图像文件",
         "ariaLabel": "浏览%{imageDisplayName}图像的图像文件"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "捕获图片"},
+        "changeDeviceButton": {"ariaLabel": "更改为下一个相机"},
+        "closeButton": {"ariaLabel": "关闭相机"},
+        "flashButton": {"ariaLabel": {
+            "auto": "将闪光从汽车更改为ON",
+            "off": "将闪光从关闭变为自动",
+            "on": "从开始更改闪光灯"
+        }}
+    },
     "takePhotoButton": {
         "title": "拍照",
         "ariaLabel": "拍照%{imageDisplayName}图像"

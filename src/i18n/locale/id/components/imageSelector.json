@@ -3,6 +3,16 @@
         "title": "Jelajahi file gambar",
         "ariaLabel": "Jelajahi untuk file gambar untuk %{imageDisplayName} gambar"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "menangkap gambar"},
+        "changeDeviceButton": {"ariaLabel": "Ubah ke kamera berikutnya"},
+        "closeButton": {"ariaLabel": "Tutup kamera"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Ubah Flash dari Otomatis ke ON",
+            "off": "Ubah Flash Dari Off ke Otomatis",
+            "on": "Ubah flash dari ke OFF"
+        }}
+    },
     "takePhotoButton": {
         "title": "Ambil foto",
         "ariaLabel": "Ambil gambar untuk %{imageDisplayName} gambar"

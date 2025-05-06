@@ -3,6 +3,16 @@
         "title": "עיין בקובץ תמונה",
         "ariaLabel": "עיין בקובץ תמונה עבור %{imageDisplayName} תמונה"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "לצלם תמונה"},
+        "changeDeviceButton": {"ariaLabel": "שנה למצלמה הבאה"},
+        "closeButton": {"ariaLabel": "סגור את המצלמה"},
+        "flashButton": {"ariaLabel": {
+            "auto": "שנה את הפלאש ממכונית ל- ON",
+            "off": "החלף פלאש מ- Off ל- Auto",
+            "on": "החלף את הפלאש מלהכבה"
+        }}
+    },
     "takePhotoButton": {
         "title": "צלם",
         "ariaLabel": "צלם תמונה עבור %{imageDisplayName} תמונה"

@@ -3,6 +3,16 @@
         "title": "একটি চিত্র ফাইলের জন্য ব্রাউজ করুন",
         "ariaLabel": "%{imageDisplayName} চিত্রের জন্য একটি চিত্র ফাইলের জন্য ব্রাউজ করুন"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "একটি ছবি ক্যাপচার"},
+        "changeDeviceButton": {"ariaLabel": "পরবর্তী ক্যামেরায় পরিবর্তন করুন"},
+        "closeButton": {"ariaLabel": "ক্যামেরা বন্ধ করুন"},
+        "flashButton": {"ariaLabel": {
+            "auto": "অটো থেকে অন ফ্ল্যাশ পরিবর্তন করুন",
+            "off": "অফ থেকে অটোতে ফ্ল্যাশ পরিবর্তন করুন",
+            "on": "অন \u200b\u200bথেকে অফে ফ্ল্যাশ পরিবর্তন করুন"
+        }}
+    },
     "takePhotoButton": {
         "title": "ছবি তুলুন",
         "ariaLabel": "%{imageDisplayName} চিত্রের জন্য ছবি তুলুন"

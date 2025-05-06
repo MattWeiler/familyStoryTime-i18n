@@ -3,6 +3,16 @@
         "title": "Căutați pentru un fișier de imagine",
         "ariaLabel": "Parcurgeți un fișier de imagine pentru imaginea %{imageDisplayName}"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "capturați o poză"},
+        "changeDeviceButton": {"ariaLabel": "Schimbați -vă la următoarea cameră"},
+        "closeButton": {"ariaLabel": "Închideți camera"},
+        "flashButton": {"ariaLabel": {
+            "auto": "schimbați blițul de la automat la ON",
+            "off": "Schimbați blițul de la off la auto",
+            "on": "Schimbați blițul de la ON la OFF"
+        }}
+    },
     "takePhotoButton": {
         "title": "Faceți poză",
         "ariaLabel": "Faceți poză pentru imaginea %{imageDisplayName}"

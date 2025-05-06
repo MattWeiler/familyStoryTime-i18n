@@ -3,6 +3,16 @@
         "title": "Sfoglia un file di immagine",
         "ariaLabel": "Sfoglia un file di immagine per %{imageDisplayName} immagine"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "catturare un'immagine"},
+        "changeDeviceButton": {"ariaLabel": "Passa alla prossima fotocamera"},
+        "closeButton": {"ariaLabel": "Chiudi la fotocamera"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Cambia il flash da auto a on",
+            "off": "Cambia Flash da Off a Auto",
+            "on": "Cambia Flash da On a Off"
+        }}
+    },
     "takePhotoButton": {
         "title": "scattare foto",
         "ariaLabel": "Scatta l'immagine per %{imageDisplayName} immagine"

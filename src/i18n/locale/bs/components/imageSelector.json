@@ -3,6 +3,16 @@
         "title": "Pregledajte datoteku slike",
         "ariaLabel": "Pregledajte datoteku slike za %{imageDisplayName} sliku"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "Snimite sliku"},
+        "changeDeviceButton": {"ariaLabel": "Promjena na sljedeću kameru"},
+        "closeButton": {"ariaLabel": "Zatvorite kameru"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Promijenite Flash iz Auto na uključi",
+            "off": "Promijenite bljeskalicu od AUTO",
+            "on": "Promijenite bljeskalicu od isključena"
+        }}
+    },
     "takePhotoButton": {
         "title": "slikati se",
         "ariaLabel": "slikajte se za sliku %{imageDisplayName}"

@@ -3,6 +3,16 @@
         "title": "Նայեք պատկերի ֆայլի համար",
         "ariaLabel": "Նայեք պատկերի ֆայլը %{imageDisplayName} պատկերի համար"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "Նկարեք նկարը"},
+        "changeDeviceButton": {"ariaLabel": "Փոխեք հաջորդ տեսախցիկը"},
+        "closeButton": {"ariaLabel": "Փակեք տեսախցիկը"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Փոխեք Flash- ը ավտոմատից մինչեւ",
+            "off": "Փոփոխեք Flash- ից Auto- ից",
+            "on": "Փոխեք Flash- ը մինչեւ անջատված"
+        }}
+    },
     "takePhotoButton": {
         "title": "լուսանկարել",
         "ariaLabel": "լուսանկարեք %{imageDisplayName} պատկերով"

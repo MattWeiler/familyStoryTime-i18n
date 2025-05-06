@@ -3,6 +3,16 @@
         "title": "Skoðaðu myndaskrá",
         "ariaLabel": "Skoðaðu myndaskrá fyrir %{imageDisplayName} mynd"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "handtaka mynd"},
+        "changeDeviceButton": {"ariaLabel": "Breyttu í næstu myndavél"},
+        "closeButton": {"ariaLabel": "Lokaðu myndavélinni"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Breyttu flass úr farartæki í ON",
+            "off": "Skiptu um flass úr slökkt í farartæki",
+            "on": "Breyttu flass úr On til Off"
+        }}
+    },
     "takePhotoButton": {
         "title": "Taktu mynd",
         "ariaLabel": "Taktu mynd fyrir %{imageDisplayName} mynd"

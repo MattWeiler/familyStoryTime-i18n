@@ -3,6 +3,16 @@
         "title": "Przeglądaj plik obrazu",
         "ariaLabel": "Przeglądaj plik obrazu dla obrazu %{imageDisplayName}"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "Wykonaj zdjęcie"},
+        "changeDeviceButton": {"ariaLabel": "Zmień na następny aparat"},
+        "closeButton": {"ariaLabel": "Zamknij aparat"},
+        "flashButton": {"ariaLabel": {
+            "auto": "Zmień błysk z automatycznego na ON",
+            "off": "Zmień Flash z Off na Auto",
+            "on": "Zmień błysk z włączania"
+        }}
+    },
     "takePhotoButton": {
         "title": "Zrób zdjęcie",
         "ariaLabel": "Zrób zdjęcie dla %{imageDisplayName}"

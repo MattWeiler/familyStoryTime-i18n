@@ -3,6 +3,16 @@
         "title": "Bir resim dosyasına göz atın",
         "ariaLabel": "%{imageDisplayName} görüntü için bir resim dosyasına göz atın"
     },
+    "visionCamera": {
+        "captureButton": {"ariaLabel": "Bir resim yakalayın"},
+        "changeDeviceButton": {"ariaLabel": "Sonraki Kameraya Değiştir"},
+        "closeButton": {"ariaLabel": "Kamerayı kapat"},
+        "flashButton": {"ariaLabel": {
+            "auto": "flaşı otomatikten aç",
+            "off": "Flaşı kapalıdan otomatik olarak değiştir",
+            "on": "Flash'ı açıktan kapalı olarak değiştir"
+        }}
+    },
     "takePhotoButton": {
         "title": "fotoğraf çekmek",
         "ariaLabel": "%{imageDisplayName} görüntü için fotoğraf çekin"
