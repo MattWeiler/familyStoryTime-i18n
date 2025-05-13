@@ -1,43 +1,47 @@
-{"hamburgerMenu": {
-    "applicationTitle": "पारिवारिक कहानी का समय",
-    "links": {
-        "feedback": {
-            "text": "प्रतिक्रिया",
-            "ariaLabel": "फीडबैक स्क्रीन पर जाएं"
-        },
-        "settings": {
-            "text": "सेटिंग्स",
-            "ariaLabel": "सेटिंग स्क्रीन पर जाएं"
-        },
-        "bookSelector": {
-            "text": "पढ़ने का कोना",
-            "ariaLabel": "रीडिंग कॉर्नर स्क्रीन पर जाएं"
-        },
-        "bookBuilder": {
-            "text": "पुस्तक निर्माता",
-            "ariaLabel": "बुक बिल्डर स्क्रीन पर जाएं"
-        },
-        "about": {
-            "text": "हमारे बारे में",
-            "ariaLabel": "हमारे बारे में स्क्रीन पर जाएं"
-        },
-        "developerStatus": {
-            "hidden": {
-                "text": "डेवलपर स्थिति दिखाएँ",
-                "ariaLabel": "डेवलपर स्थिति दिखाएं"
+{
+    "hamburgerMenu": {
+        "applicationTitle": "पारिवारिक कहानी का समय",
+        "links": {
+            "feedback": {
+                "text": "प्रतिक्रिया",
+                "ariaLabel": "फीडबैक स्क्रीन पर जाएं"
             },
-            "showing": {
-                "text": "डेवलपर स्थिति छिपाएँ",
-                "ariaLabel": "डेवलपर स्थिति छुपाएं"
+            "settings": {
+                "text": "सेटिंग्स",
+                "ariaLabel": "सेटिंग स्क्रीन पर जाएं"
+            },
+            "bookSelector": {
+                "text": "पढ़ने का कोना",
+                "ariaLabel": "रीडिंग कॉर्नर स्क्रीन पर जाएं"
+            },
+            "bookBuilder": {
+                "text": "पुस्तक निर्माता",
+                "ariaLabel": "बुक बिल्डर स्क्रीन पर जाएं"
+            },
+            "about": {
+                "text": "हमारे बारे में",
+                "ariaLabel": "हमारे बारे में स्क्रीन पर जाएं"
+            },
+            "developerStatus": {
+                "hidden": {
+                    "text": "डेवलपर स्थिति दिखाएँ",
+                    "ariaLabel": "डेवलपर स्थिति दिखाएं"
+                },
+                "showing": {
+                    "text": "डेवलपर स्थिति छिपाएँ",
+                    "ariaLabel": "डेवलपर स्थिति छुपाएं"
+                }
+            },
+            "tutorial": {
+                "text": "ट्यूटोरियल",
+                "ariaLabel": "ट्यूटोरियल देखें"
+            },
+            "bookStore": {
+                "text": "किताब की दुकान",
+                "ariaLabel": "बुक स्टोर स्क्रीन पर जाएँ"
             }
-        },
-        "tutorial": {
-            "text": "ट्यूटोरियल",
-            "ariaLabel": "ट्यूटोरियल देखें"
-        },
-        "bookStore": {
-            "text": "किताब की दुकान",
-            "ariaLabel": "बुक स्टोर स्क्रीन पर जाएँ"
         }
-    }
-}}
+    },
+    "databaseLoading": "इनिशियलाइज़िंग डेटाबेस ...",
+    "applicationLoadFailed": "अनुप्रयोग लोड करने में विफल रहा"
+}

@@ -1,43 +1,47 @@
-{"hamburgerMenu": {
-    "applicationTitle": "Aile Hikayesi Zamanı",
-    "links": {
-        "feedback": {
-            "text": "Geri bildirim",
-            "ariaLabel": "geri bildirim ekranına gidin"
-        },
-        "settings": {
-            "text": "Ayarlar",
-            "ariaLabel": "ayarlar ekranına gidin"
-        },
-        "bookSelector": {
-            "text": "Okuma Köşesi",
-            "ariaLabel": "okuma köşesi ekranına gidin"
-        },
-        "bookBuilder": {
-            "text": "Kitap Oluşturucu",
-            "ariaLabel": "kitap oluşturucu ekranına gidin"
-        },
-        "about": {
-            "text": "Hakkımızda",
-            "ariaLabel": "hakkımızda ekranına gidin"
-        },
-        "developerStatus": {
-            "hidden": {
-                "text": "Geliştirici Durumunu Göster",
-                "ariaLabel": "geliştirici durumunu göster"
+{
+    "hamburgerMenu": {
+        "applicationTitle": "Aile Hikayesi Zamanı",
+        "links": {
+            "feedback": {
+                "text": "Geri bildirim",
+                "ariaLabel": "geri bildirim ekranına gidin"
             },
-            "showing": {
-                "text": "Geliştirici Durumunu Gizle",
-                "ariaLabel": "geliştirici durumunu gizle"
+            "settings": {
+                "text": "Ayarlar",
+                "ariaLabel": "ayarlar ekranına gidin"
+            },
+            "bookSelector": {
+                "text": "Okuma Köşesi",
+                "ariaLabel": "okuma köşesi ekranına gidin"
+            },
+            "bookBuilder": {
+                "text": "Kitap Oluşturucu",
+                "ariaLabel": "kitap oluşturucu ekranına gidin"
+            },
+            "about": {
+                "text": "Hakkımızda",
+                "ariaLabel": "hakkımızda ekranına gidin"
+            },
+            "developerStatus": {
+                "hidden": {
+                    "text": "Geliştirici Durumunu Göster",
+                    "ariaLabel": "geliştirici durumunu göster"
+                },
+                "showing": {
+                    "text": "Geliştirici Durumunu Gizle",
+                    "ariaLabel": "geliştirici durumunu gizle"
+                }
+            },
+            "tutorial": {
+                "text": "öğretici",
+                "ariaLabel": "öğreticiyi görüntüle"
+            },
+            "bookStore": {
+                "text": "Kitapçı",
+                "ariaLabel": "kitapçı ekranına git"
             }
-        },
-        "tutorial": {
-            "text": "öğretici",
-            "ariaLabel": "öğreticiyi görüntüle"
-        },
-        "bookStore": {
-            "text": "Kitapçı",
-            "ariaLabel": "kitapçı ekranına git"
         }
-    }
-}}
+    },
+    "databaseLoading": "Veritabanını başlatma ...",
+    "applicationLoadFailed": "Uygulama yüklenemedi"
+}

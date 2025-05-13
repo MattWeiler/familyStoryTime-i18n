@@ -1,43 +1,47 @@
-{"hamburgerMenu": {
-    "applicationTitle": "Perhetarinoiden aika",
-    "links": {
-        "feedback": {
-            "text": "Palaute",
-            "ariaLabel": "siirry palautenäyttöön"
-        },
-        "settings": {
-            "text": "Asetukset",
-            "ariaLabel": "mene asetusnäyttöön"
-        },
-        "bookSelector": {
-            "text": "Lukunurkkaus",
-            "ariaLabel": "siirry lukukulmanäyttöön"
-        },
-        "bookBuilder": {
-            "text": "Kirjanrakentaja",
-            "ariaLabel": "siirry kirjanrakennusnäyttöön"
-        },
-        "about": {
-            "text": "Tietoja meistä",
-            "ariaLabel": "siirry Tietoja meistä -näyttöön"
-        },
-        "developerStatus": {
-            "hidden": {
-                "text": "Näytä kehittäjän tila",
-                "ariaLabel": "näyttää kehittäjän tilan"
+{
+    "hamburgerMenu": {
+        "applicationTitle": "Perhetarinoiden aika",
+        "links": {
+            "feedback": {
+                "text": "Palaute",
+                "ariaLabel": "siirry palautenäyttöön"
             },
-            "showing": {
-                "text": "Piilota kehittäjän tila",
-                "ariaLabel": "piilottaa kehittäjän tilan"
+            "settings": {
+                "text": "Asetukset",
+                "ariaLabel": "mene asetusnäyttöön"
+            },
+            "bookSelector": {
+                "text": "Lukunurkkaus",
+                "ariaLabel": "siirry lukukulmanäyttöön"
+            },
+            "bookBuilder": {
+                "text": "Kirjanrakentaja",
+                "ariaLabel": "siirry kirjanrakennusnäyttöön"
+            },
+            "about": {
+                "text": "Tietoja meistä",
+                "ariaLabel": "siirry Tietoja meistä -näyttöön"
+            },
+            "developerStatus": {
+                "hidden": {
+                    "text": "Näytä kehittäjän tila",
+                    "ariaLabel": "näyttää kehittäjän tilan"
+                },
+                "showing": {
+                    "text": "Piilota kehittäjän tila",
+                    "ariaLabel": "piilottaa kehittäjän tilan"
+                }
+            },
+            "tutorial": {
+                "text": "Opetusohjelma",
+                "ariaLabel": "katso opetusohjelma"
+            },
+            "bookStore": {
+                "text": "Kirjakauppa",
+                "ariaLabel": "mene kirjakaupan näyttöön"
             }
-        },
-        "tutorial": {
-            "text": "Opetusohjelma",
-            "ariaLabel": "katso opetusohjelma"
-        },
-        "bookStore": {
-            "text": "Kirjakauppa",
-            "ariaLabel": "mene kirjakaupan näyttöön"
         }
-    }
-}}
+    },
+    "databaseLoading": "Tietokannan alustaminen ...",
+    "applicationLoadFailed": "Sovellus epäonnistui"
+}

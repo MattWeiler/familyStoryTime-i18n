@@ -1,43 +1,47 @@
-{"hamburgerMenu": {
-    "applicationTitle": "Familjens sagotid",
-    "links": {
-        "feedback": {
-            "text": "Feed-back",
-            "ariaLabel": "gå till feedbackskärmen"
-        },
-        "settings": {
-            "text": "Inställningar",
-            "ariaLabel": "gå till inställningsskärmen"
-        },
-        "bookSelector": {
-            "text": "Läshörna",
-            "ariaLabel": "gå till skärmen för läshörnet"
-        },
-        "bookBuilder": {
-            "text": "Bokbyggare",
-            "ariaLabel": "gå till bokbyggarens skärm"
-        },
-        "about": {
-            "text": "Om oss",
-            "ariaLabel": "gå till skärmen Om oss"
-        },
-        "developerStatus": {
-            "hidden": {
-                "text": "Visa utvecklarstatus",
-                "ariaLabel": "visa utvecklarstatusen"
+{
+    "hamburgerMenu": {
+        "applicationTitle": "Familjens sagotid",
+        "links": {
+            "feedback": {
+                "text": "Feed-back",
+                "ariaLabel": "gå till feedbackskärmen"
             },
-            "showing": {
-                "text": "Dölj utvecklarstatus",
-                "ariaLabel": "dölj utvecklarstatusen"
+            "settings": {
+                "text": "Inställningar",
+                "ariaLabel": "gå till inställningsskärmen"
+            },
+            "bookSelector": {
+                "text": "Läshörna",
+                "ariaLabel": "gå till skärmen för läshörnet"
+            },
+            "bookBuilder": {
+                "text": "Bokbyggare",
+                "ariaLabel": "gå till bokbyggarens skärm"
+            },
+            "about": {
+                "text": "Om oss",
+                "ariaLabel": "gå till skärmen Om oss"
+            },
+            "developerStatus": {
+                "hidden": {
+                    "text": "Visa utvecklarstatus",
+                    "ariaLabel": "visa utvecklarstatusen"
+                },
+                "showing": {
+                    "text": "Dölj utvecklarstatus",
+                    "ariaLabel": "dölj utvecklarstatusen"
+                }
+            },
+            "tutorial": {
+                "text": "Handledning",
+                "ariaLabel": "se handledningen"
+            },
+            "bookStore": {
+                "text": "Bokhandel",
+                "ariaLabel": "gå till bokhandelns skärm"
             }
-        },
-        "tutorial": {
-            "text": "Handledning",
-            "ariaLabel": "se handledningen"
-        },
-        "bookStore": {
-            "text": "Bokhandel",
-            "ariaLabel": "gå till bokhandelns skärm"
         }
-    }
-}}
+    },
+    "databaseLoading": "Initialisera databasen ...",
+    "applicationLoadFailed": "Ansökan misslyckades med att ladda"
+}

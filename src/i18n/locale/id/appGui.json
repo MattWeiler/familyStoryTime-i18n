@@ -1,43 +1,47 @@
-{"hamburgerMenu": {
-    "applicationTitle": "Waktu Cerita Keluarga",
-    "links": {
-        "feedback": {
-            "text": "Masukan",
-            "ariaLabel": "buka layar umpan balik"
-        },
-        "settings": {
-            "text": "Pengaturan",
-            "ariaLabel": "buka layar pengaturan"
-        },
-        "bookSelector": {
-            "text": "Pojok Baca",
-            "ariaLabel": "pergi ke layar sudut baca"
-        },
-        "bookBuilder": {
-            "text": "Pembuat Buku",
-            "ariaLabel": "buka layar pembuat buku"
-        },
-        "about": {
-            "text": "Tentang Kami",
-            "ariaLabel": "buka layar tentang kami"
-        },
-        "developerStatus": {
-            "hidden": {
-                "text": "Tampilkan Status Pengembang",
-                "ariaLabel": "menunjukkan status pengembang"
+{
+    "hamburgerMenu": {
+        "applicationTitle": "Waktu Cerita Keluarga",
+        "links": {
+            "feedback": {
+                "text": "Masukan",
+                "ariaLabel": "buka layar umpan balik"
             },
-            "showing": {
-                "text": "Sembunyikan Status Pengembang",
-                "ariaLabel": "menyembunyikan status pengembang"
+            "settings": {
+                "text": "Pengaturan",
+                "ariaLabel": "buka layar pengaturan"
+            },
+            "bookSelector": {
+                "text": "Pojok Baca",
+                "ariaLabel": "pergi ke layar sudut baca"
+            },
+            "bookBuilder": {
+                "text": "Pembuat Buku",
+                "ariaLabel": "buka layar pembuat buku"
+            },
+            "about": {
+                "text": "Tentang Kami",
+                "ariaLabel": "buka layar tentang kami"
+            },
+            "developerStatus": {
+                "hidden": {
+                    "text": "Tampilkan Status Pengembang",
+                    "ariaLabel": "menunjukkan status pengembang"
+                },
+                "showing": {
+                    "text": "Sembunyikan Status Pengembang",
+                    "ariaLabel": "menyembunyikan status pengembang"
+                }
+            },
+            "tutorial": {
+                "text": "tutorial",
+                "ariaLabel": "lihat tutorialnya"
+            },
+            "bookStore": {
+                "text": "Toko Buku",
+                "ariaLabel": "pergi ke layar toko buku"
             }
-        },
-        "tutorial": {
-            "text": "tutorial",
-            "ariaLabel": "lihat tutorialnya"
-        },
-        "bookStore": {
-            "text": "Toko Buku",
-            "ariaLabel": "pergi ke layar toko buku"
         }
-    }
-}}
+    },
+    "databaseLoading": "Menginisialisasi database ...",
+    "applicationLoadFailed": "Aplikasi gagal memuat"
+}

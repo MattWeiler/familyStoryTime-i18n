@@ -1,43 +1,47 @@
-{"hamburgerMenu": {
-    "applicationTitle": "Čas družinske zgodbe",
-    "links": {
-        "feedback": {
-            "text": "Povratne informacije",
-            "ariaLabel": "pojdite na zaslon za povratne informacije"
-        },
-        "settings": {
-            "text": "nastavitve",
-            "ariaLabel": "pojdite na zaslon z nastavitvami"
-        },
-        "bookSelector": {
-            "text": "Bralni kotiček",
-            "ariaLabel": "pojdite na zaslon kota za branje"
-        },
-        "bookBuilder": {
-            "text": "Graditelj knjig",
-            "ariaLabel": "pojdite na zaslon graditelja knjig"
-        },
-        "about": {
-            "text": "O nas",
-            "ariaLabel": "pojdite na zaslon o nas"
-        },
-        "developerStatus": {
-            "hidden": {
-                "text": "Pokaži status razvijalca",
-                "ariaLabel": "pokažite status razvijalca"
+{
+    "hamburgerMenu": {
+        "applicationTitle": "Čas družinske zgodbe",
+        "links": {
+            "feedback": {
+                "text": "Povratne informacije",
+                "ariaLabel": "pojdite na zaslon za povratne informacije"
             },
-            "showing": {
-                "text": "Skrij status razvijalca",
-                "ariaLabel": "skrij status razvijalca"
+            "settings": {
+                "text": "nastavitve",
+                "ariaLabel": "pojdite na zaslon z nastavitvami"
+            },
+            "bookSelector": {
+                "text": "Bralni kotiček",
+                "ariaLabel": "pojdite na zaslon kota za branje"
+            },
+            "bookBuilder": {
+                "text": "Graditelj knjig",
+                "ariaLabel": "pojdite na zaslon graditelja knjig"
+            },
+            "about": {
+                "text": "O nas",
+                "ariaLabel": "pojdite na zaslon o nas"
+            },
+            "developerStatus": {
+                "hidden": {
+                    "text": "Pokaži status razvijalca",
+                    "ariaLabel": "pokažite status razvijalca"
+                },
+                "showing": {
+                    "text": "Skrij status razvijalca",
+                    "ariaLabel": "skrij status razvijalca"
+                }
+            },
+            "tutorial": {
+                "text": "Vadnica",
+                "ariaLabel": "ogled vadnice"
+            },
+            "bookStore": {
+                "text": "Knjigarna",
+                "ariaLabel": "pojdite na zaslon knjigarne"
             }
-        },
-        "tutorial": {
-            "text": "Vadnica",
-            "ariaLabel": "ogled vadnice"
-        },
-        "bookStore": {
-            "text": "Knjigarna",
-            "ariaLabel": "pojdite na zaslon knjigarne"
         }
-    }
-}}
+    },
+    "databaseLoading": "Inicializacija baze podatkov ...",
+    "applicationLoadFailed": "Aplikacija se ni uspela naložiti"
+}

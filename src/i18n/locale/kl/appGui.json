@@ -1,43 +1,47 @@
-{"hamburgerMenu": {
-    "applicationTitle": "Ilaqutariinnut Oqaluttuaq Piffissaq",
-    "links": {
-        "feedback": {
-            "text": "Utertitsiviginninneq",
-            "ariaLabel": "feedback-imut skærmimut ingerlagit"
-        },
-        "settings": {
-            "text": "Inniminniinerit",
-            "ariaLabel": "inissititernermut skærmimut ingerlagit"
-        },
-        "bookSelector": {
-            "text": "Atuartarfik",
-            "ariaLabel": "atuarnissamut teqeqqumut skærmimut ingerlagit"
-        },
-        "bookBuilder": {
-            "text": "Atuakkanik Sanaartortoq",
-            "ariaLabel": "atuakkanik sanasartoq skærmimut ingerlagit"
-        },
-        "about": {
-            "text": "Uagutsinnik",
-            "ariaLabel": "skærmimut about us-imut ingerlagit"
-        },
-        "developerStatus": {
-            "hidden": {
-                "text": "Ineriartortitsisup inissisimanera takuuk",
-                "ariaLabel": "ineriartortitsisup inissisimanera takuuk"
+{
+    "hamburgerMenu": {
+        "applicationTitle": "Ilaqutariinnut Oqaluttuaq Piffissaq",
+        "links": {
+            "feedback": {
+                "text": "Utertitsiviginninneq",
+                "ariaLabel": "feedback-imut skærmimut ingerlagit"
             },
-            "showing": {
-                "text": "Ineriartortitsisup inissisimanera toqqoruk",
-                "ariaLabel": "ineriartortitsisup inissisimanera toqqoruk"
+            "settings": {
+                "text": "Inniminniinerit",
+                "ariaLabel": "inissititernermut skærmimut ingerlagit"
+            },
+            "bookSelector": {
+                "text": "Atuartarfik",
+                "ariaLabel": "atuarnissamut teqeqqumut skærmimut ingerlagit"
+            },
+            "bookBuilder": {
+                "text": "Atuakkanik Sanaartortoq",
+                "ariaLabel": "atuakkanik sanasartoq skærmimut ingerlagit"
+            },
+            "about": {
+                "text": "Uagutsinnik",
+                "ariaLabel": "skærmimut about us-imut ingerlagit"
+            },
+            "developerStatus": {
+                "hidden": {
+                    "text": "Ineriartortitsisup inissisimanera takuuk",
+                    "ariaLabel": "ineriartortitsisup inissisimanera takuuk"
+                },
+                "showing": {
+                    "text": "Ineriartortitsisup inissisimanera toqqoruk",
+                    "ariaLabel": "ineriartortitsisup inissisimanera toqqoruk"
+                }
+            },
+            "tutorial": {
+                "text": "Atuartitsineq",
+                "ariaLabel": "atuartitsineq takuuk"
+            },
+            "bookStore": {
+                "text": "Atuakkanik Pisiniarfik",
+                "ariaLabel": "atuakkanik pisiniarfiup skærmianut ingerlagit"
             }
-        },
-        "tutorial": {
-            "text": "Atuartitsineq",
-            "ariaLabel": "atuartitsineq takuuk"
-        },
-        "bookStore": {
-            "text": "Atuakkanik Pisiniarfik",
-            "ariaLabel": "atuakkanik pisiniarfiup skærmianut ingerlagit"
         }
-    }
-}}
+    },
+    "databaseLoading": "aallartisarlugu database ...",
+    "applicationLoadFailed": "Applikationi ikkunneqarsinnaanngilaq"
+}

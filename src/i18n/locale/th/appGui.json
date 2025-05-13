@@ -1,43 +1,47 @@
-{"hamburgerMenu": {
-    "applicationTitle": "เวลาเรื่องราวของครอบครัว",
-    "links": {
-        "feedback": {
-            "text": "ข้อเสนอแนะ",
-            "ariaLabel": "ไปที่หน้าจอคำติชม"
-        },
-        "settings": {
-            "text": "การตั้งค่า",
-            "ariaLabel": "ไปที่หน้าจอการตั้งค่า"
-        },
-        "bookSelector": {
-            "text": "มุมอ่านหนังสือ",
-            "ariaLabel": "ไปที่หน้าจอมุมอ่านหนังสือ"
-        },
-        "bookBuilder": {
-            "text": "ผู้สร้างหนังสือ",
-            "ariaLabel": "ไปที่หน้าจอตัวสร้างหนังสือ"
-        },
-        "about": {
-            "text": "เกี่ยวกับเรา",
-            "ariaLabel": "ไปที่หน้าจอเกี่ยวกับเรา"
-        },
-        "developerStatus": {
-            "hidden": {
-                "text": "แสดงสถานะนักพัฒนาซอฟต์แวร์",
-                "ariaLabel": "แสดงสถานะของนักพัฒนา"
+{
+    "hamburgerMenu": {
+        "applicationTitle": "เวลาเรื่องราวของครอบครัว",
+        "links": {
+            "feedback": {
+                "text": "ข้อเสนอแนะ",
+                "ariaLabel": "ไปที่หน้าจอคำติชม"
             },
-            "showing": {
-                "text": "ซ่อนสถานะนักพัฒนาซอฟต์แวร์",
-                "ariaLabel": "ซ่อนสถานะนักพัฒนา"
+            "settings": {
+                "text": "การตั้งค่า",
+                "ariaLabel": "ไปที่หน้าจอการตั้งค่า"
+            },
+            "bookSelector": {
+                "text": "มุมอ่านหนังสือ",
+                "ariaLabel": "ไปที่หน้าจอมุมอ่านหนังสือ"
+            },
+            "bookBuilder": {
+                "text": "ผู้สร้างหนังสือ",
+                "ariaLabel": "ไปที่หน้าจอตัวสร้างหนังสือ"
+            },
+            "about": {
+                "text": "เกี่ยวกับเรา",
+                "ariaLabel": "ไปที่หน้าจอเกี่ยวกับเรา"
+            },
+            "developerStatus": {
+                "hidden": {
+                    "text": "แสดงสถานะนักพัฒนาซอฟต์แวร์",
+                    "ariaLabel": "แสดงสถานะของนักพัฒนา"
+                },
+                "showing": {
+                    "text": "ซ่อนสถานะนักพัฒนาซอฟต์แวร์",
+                    "ariaLabel": "ซ่อนสถานะนักพัฒนา"
+                }
+            },
+            "tutorial": {
+                "text": "บทช่วยสอน",
+                "ariaLabel": "ดูบทช่วยสอน"
+            },
+            "bookStore": {
+                "text": "ร้านหนังสือ",
+                "ariaLabel": "ไปที่หน้าจอร้านหนังสือ"
             }
-        },
-        "tutorial": {
-            "text": "บทช่วยสอน",
-            "ariaLabel": "ดูบทช่วยสอน"
-        },
-        "bookStore": {
-            "text": "ร้านหนังสือ",
-            "ariaLabel": "ไปที่หน้าจอร้านหนังสือ"
         }
-    }
-}}
+    },
+    "databaseLoading": "การเริ่มต้นฐานข้อมูล ...",
+    "applicationLoadFailed": "แอปพลิเคชันไม่สามารถโหลดได้"
+}

@@ -1,43 +1,47 @@
-{"hamburgerMenu": {
-    "applicationTitle": "Vrijeme porodične priče",
-    "links": {
-        "feedback": {
-            "text": "Povratne informacije",
-            "ariaLabel": "idite na ekran povratnih informacija"
-        },
-        "settings": {
-            "text": "Postavke",
-            "ariaLabel": "idite na ekran postavki"
-        },
-        "bookSelector": {
-            "text": "Čitanje ugao",
-            "ariaLabel": "idite na ekran ugla za čitanje"
-        },
-        "bookBuilder": {
-            "text": "Builder za knjige",
-            "ariaLabel": "idite na ekran za pravljenje knjiga"
-        },
-        "about": {
-            "text": "O nama",
-            "ariaLabel": "idite na ekran o nama"
-        },
-        "developerStatus": {
-            "hidden": {
-                "text": "Prikaži status programera",
-                "ariaLabel": "pokazati status programera"
+{
+    "hamburgerMenu": {
+        "applicationTitle": "Vrijeme porodične priče",
+        "links": {
+            "feedback": {
+                "text": "Povratne informacije",
+                "ariaLabel": "idite na ekran povratnih informacija"
             },
-            "showing": {
-                "text": "Sakrij status programera",
-                "ariaLabel": "sakriti status programera"
+            "settings": {
+                "text": "Postavke",
+                "ariaLabel": "idite na ekran postavki"
+            },
+            "bookSelector": {
+                "text": "Čitanje ugao",
+                "ariaLabel": "idite na ekran ugla za čitanje"
+            },
+            "bookBuilder": {
+                "text": "Builder za knjige",
+                "ariaLabel": "idite na ekran za pravljenje knjiga"
+            },
+            "about": {
+                "text": "O nama",
+                "ariaLabel": "idite na ekran o nama"
+            },
+            "developerStatus": {
+                "hidden": {
+                    "text": "Prikaži status programera",
+                    "ariaLabel": "pokazati status programera"
+                },
+                "showing": {
+                    "text": "Sakrij status programera",
+                    "ariaLabel": "sakriti status programera"
+                }
+            },
+            "tutorial": {
+                "text": "Udžbenik",
+                "ariaLabel": "pogledajte tutorijal"
+            },
+            "bookStore": {
+                "text": "Knjižara",
+                "ariaLabel": "idite na ekran knjižare"
             }
-        },
-        "tutorial": {
-            "text": "Udžbenik",
-            "ariaLabel": "pogledajte tutorijal"
-        },
-        "bookStore": {
-            "text": "Knjižara",
-            "ariaLabel": "idite na ekran knjižare"
         }
-    }
-}}
+    },
+    "databaseLoading": "Inicijalizacija baze podataka ...",
+    "applicationLoadFailed": "Aplikacija nije uspjela učitati"
+}

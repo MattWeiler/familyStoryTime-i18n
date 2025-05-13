@@ -1,43 +1,47 @@
-{"hamburgerMenu": {
-    "applicationTitle": "家庭故事时间",
-    "links": {
-        "feedback": {
-            "text": "反馈",
-            "ariaLabel": "转到反馈屏幕"
-        },
-        "settings": {
-            "text": "设置",
-            "ariaLabel": "进入设置屏幕"
-        },
-        "bookSelector": {
-            "text": "读书角",
-            "ariaLabel": "前往阅读角屏幕"
-        },
-        "bookBuilder": {
-            "text": "图书生成器",
-            "ariaLabel": "转到图书生成器屏幕"
-        },
-        "about": {
-            "text": "关于我们",
-            "ariaLabel": "转到关于我们屏幕"
-        },
-        "developerStatus": {
-            "hidden": {
-                "text": "显示开发者状态",
-                "ariaLabel": "显示开发者状态"
+{
+    "hamburgerMenu": {
+        "applicationTitle": "家庭故事时间",
+        "links": {
+            "feedback": {
+                "text": "反馈",
+                "ariaLabel": "转到反馈屏幕"
             },
-            "showing": {
-                "text": "隐藏开发者状态",
-                "ariaLabel": "隐藏开发者状态"
+            "settings": {
+                "text": "设置",
+                "ariaLabel": "进入设置屏幕"
+            },
+            "bookSelector": {
+                "text": "读书角",
+                "ariaLabel": "前往阅读角屏幕"
+            },
+            "bookBuilder": {
+                "text": "图书生成器",
+                "ariaLabel": "转到图书生成器屏幕"
+            },
+            "about": {
+                "text": "关于我们",
+                "ariaLabel": "转到关于我们屏幕"
+            },
+            "developerStatus": {
+                "hidden": {
+                    "text": "显示开发者状态",
+                    "ariaLabel": "显示开发者状态"
+                },
+                "showing": {
+                    "text": "隐藏开发者状态",
+                    "ariaLabel": "隐藏开发者状态"
+                }
+            },
+            "tutorial": {
+                "text": "教程",
+                "ariaLabel": "查看教程"
+            },
+            "bookStore": {
+                "text": "书店",
+                "ariaLabel": "转到书店屏幕"
             }
-        },
-        "tutorial": {
-            "text": "教程",
-            "ariaLabel": "查看教程"
-        },
-        "bookStore": {
-            "text": "书店",
-            "ariaLabel": "转到书店屏幕"
         }
-    }
-}}
+    },
+    "databaseLoading": "初始化数据库...",
+    "applicationLoadFailed": "应用程序无法加载"
+}

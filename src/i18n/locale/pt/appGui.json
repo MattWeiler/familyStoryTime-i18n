@@ -1,43 +1,47 @@
-{"hamburgerMenu": {
-    "applicationTitle": "Hora da história em família",
-    "links": {
-        "feedback": {
-            "text": "Opinião",
-            "ariaLabel": "vá para a tela de comentários"
-        },
-        "settings": {
-            "text": "Configurações",
-            "ariaLabel": "vá para a tela de configurações"
-        },
-        "bookSelector": {
-            "text": "Canto de leitura",
-            "ariaLabel": "vá para a tela do canto de leitura"
-        },
-        "bookBuilder": {
-            "text": "Construtor de livros",
-            "ariaLabel": "vá para a tela do construtor de livros"
-        },
-        "about": {
-            "text": "Sobre nós",
-            "ariaLabel": "vá para a tela sobre nós"
-        },
-        "developerStatus": {
-            "hidden": {
-                "text": "Mostrar status do desenvolvedor",
-                "ariaLabel": "mostrar o status do desenvolvedor"
+{
+    "hamburgerMenu": {
+        "applicationTitle": "Hora da história em família",
+        "links": {
+            "feedback": {
+                "text": "Opinião",
+                "ariaLabel": "vá para a tela de comentários"
             },
-            "showing": {
-                "text": "Ocultar status de desenvolvedor",
-                "ariaLabel": "ocultar o status do desenvolvedor"
+            "settings": {
+                "text": "Configurações",
+                "ariaLabel": "vá para a tela de configurações"
+            },
+            "bookSelector": {
+                "text": "Canto de leitura",
+                "ariaLabel": "vá para a tela do canto de leitura"
+            },
+            "bookBuilder": {
+                "text": "Construtor de livros",
+                "ariaLabel": "vá para a tela do construtor de livros"
+            },
+            "about": {
+                "text": "Sobre nós",
+                "ariaLabel": "vá para a tela sobre nós"
+            },
+            "developerStatus": {
+                "hidden": {
+                    "text": "Mostrar status do desenvolvedor",
+                    "ariaLabel": "mostrar o status do desenvolvedor"
+                },
+                "showing": {
+                    "text": "Ocultar status de desenvolvedor",
+                    "ariaLabel": "ocultar o status do desenvolvedor"
+                }
+            },
+            "tutorial": {
+                "text": "Tutorial",
+                "ariaLabel": "ver o tutorial"
+            },
+            "bookStore": {
+                "text": "Livraria",
+                "ariaLabel": "vá para a tela da livraria"
             }
-        },
-        "tutorial": {
-            "text": "Tutorial",
-            "ariaLabel": "ver o tutorial"
-        },
-        "bookStore": {
-            "text": "Livraria",
-            "ariaLabel": "vá para a tela da livraria"
         }
-    }
-}}
+    },
+    "databaseLoading": "Inicializando o banco de dados ...",
+    "applicationLoadFailed": "Aplicação falhou ao carregar"
+}

@@ -1,43 +1,47 @@
-{"hamburgerMenu": {
-    "applicationTitle": "Familiehistorie",
-    "links": {
-        "feedback": {
-            "text": "Feedback",
-            "ariaLabel": "gå til feedbackskærmen"
-        },
-        "settings": {
-            "text": "Indstillinger",
-            "ariaLabel": "gå til indstillingsskærmen"
-        },
-        "bookSelector": {
-            "text": "Læsehjørne",
-            "ariaLabel": "gå til læsehjørnets skærm"
-        },
-        "bookBuilder": {
-            "text": "Bogbygger",
-            "ariaLabel": "gå til bogbyggerskærmen"
-        },
-        "about": {
-            "text": "Om os",
-            "ariaLabel": "gå til skærmen Om os"
-        },
-        "developerStatus": {
-            "hidden": {
-                "text": "Vis udviklerstatus",
-                "ariaLabel": "vise udviklerstatus"
+{
+    "hamburgerMenu": {
+        "applicationTitle": "Familiehistorie",
+        "links": {
+            "feedback": {
+                "text": "Feedback",
+                "ariaLabel": "gå til feedbackskærmen"
             },
-            "showing": {
-                "text": "Skjul udviklerstatus",
-                "ariaLabel": "skjule udviklerstatus"
+            "settings": {
+                "text": "Indstillinger",
+                "ariaLabel": "gå til indstillingsskærmen"
+            },
+            "bookSelector": {
+                "text": "Læsehjørne",
+                "ariaLabel": "gå til læsehjørnets skærm"
+            },
+            "bookBuilder": {
+                "text": "Bogbygger",
+                "ariaLabel": "gå til bogbyggerskærmen"
+            },
+            "about": {
+                "text": "Om os",
+                "ariaLabel": "gå til skærmen Om os"
+            },
+            "developerStatus": {
+                "hidden": {
+                    "text": "Vis udviklerstatus",
+                    "ariaLabel": "vise udviklerstatus"
+                },
+                "showing": {
+                    "text": "Skjul udviklerstatus",
+                    "ariaLabel": "skjule udviklerstatus"
+                }
+            },
+            "tutorial": {
+                "text": "Tutorial",
+                "ariaLabel": "se selvstudiet"
+            },
+            "bookStore": {
+                "text": "Boghandel",
+                "ariaLabel": "gå til boghandlerskærmen"
             }
-        },
-        "tutorial": {
-            "text": "Tutorial",
-            "ariaLabel": "se selvstudiet"
-        },
-        "bookStore": {
-            "text": "Boghandel",
-            "ariaLabel": "gå til boghandlerskærmen"
         }
-    }
-}}
+    },
+    "databaseLoading": "Initialisering af database ...",
+    "applicationLoadFailed": "Ansøgning kunne ikke indlæse"
+}

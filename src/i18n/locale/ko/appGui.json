@@ -1,43 +1,47 @@
-{"hamburgerMenu": {
-    "applicationTitle": "가족 이야기 시간",
-    "links": {
-        "feedback": {
-            "text": "피드백",
-            "ariaLabel": "피드백 화면으로 이동"
-        },
-        "settings": {
-            "text": "설정",
-            "ariaLabel": "설정 화면으로 가세요"
-        },
-        "bookSelector": {
-            "text": "독서코너",
-            "ariaLabel": "독서 코너 화면으로 이동"
-        },
-        "bookBuilder": {
-            "text": "북 빌더",
-            "ariaLabel": "북 빌더 화면으로 이동"
-        },
-        "about": {
-            "text": "회사 소개",
-            "ariaLabel": "회사 소개 화면으로 이동"
-        },
-        "developerStatus": {
-            "hidden": {
-                "text": "개발자 상태 표시",
-                "ariaLabel": "개발자 상태를 보여줘"
+{
+    "hamburgerMenu": {
+        "applicationTitle": "가족 이야기 시간",
+        "links": {
+            "feedback": {
+                "text": "피드백",
+                "ariaLabel": "피드백 화면으로 이동"
             },
-            "showing": {
-                "text": "개발자 상태 숨기기",
-                "ariaLabel": "개발자 상태 숨기기"
+            "settings": {
+                "text": "설정",
+                "ariaLabel": "설정 화면으로 가세요"
+            },
+            "bookSelector": {
+                "text": "독서코너",
+                "ariaLabel": "독서 코너 화면으로 이동"
+            },
+            "bookBuilder": {
+                "text": "북 빌더",
+                "ariaLabel": "북 빌더 화면으로 이동"
+            },
+            "about": {
+                "text": "회사 소개",
+                "ariaLabel": "회사 소개 화면으로 이동"
+            },
+            "developerStatus": {
+                "hidden": {
+                    "text": "개발자 상태 표시",
+                    "ariaLabel": "개발자 상태를 보여줘"
+                },
+                "showing": {
+                    "text": "개발자 상태 숨기기",
+                    "ariaLabel": "개발자 상태 숨기기"
+                }
+            },
+            "tutorial": {
+                "text": "지도 시간",
+                "ariaLabel": "튜토리얼 보기"
+            },
+            "bookStore": {
+                "text": "서점",
+                "ariaLabel": "서점 화면으로 이동"
             }
-        },
-        "tutorial": {
-            "text": "지도 시간",
-            "ariaLabel": "튜토리얼 보기"
-        },
-        "bookStore": {
-            "text": "서점",
-            "ariaLabel": "서점 화면으로 이동"
         }
-    }
-}}
+    },
+    "databaseLoading": "데이터베이스 초기화 ...",
+    "applicationLoadFailed": "응용 프로그램이로드되지 않았습니다"
+}

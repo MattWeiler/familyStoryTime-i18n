@@ -1,4 +1,7 @@
 {
+    "databaseLoading": "initializing database ...",
+    "applicationLoadFailed": "Application failed to load",
+
     "hamburgerMenu": {
         "applicationTitle": "Family Story Time",
 

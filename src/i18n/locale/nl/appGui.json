@@ -1,43 +1,47 @@
-{"hamburgerMenu": {
-    "applicationTitle": "Tijd voor familieverhalen",
-    "links": {
-        "feedback": {
-            "text": "Feedback",
-            "ariaLabel": "ga naar het feedbackscherm"
-        },
-        "settings": {
-            "text": "Instellingen",
-            "ariaLabel": "ga naar het instellingenscherm"
-        },
-        "bookSelector": {
-            "text": "Leeshoek",
-            "ariaLabel": "ga naar het leeshoekscherm"
-        },
-        "bookBuilder": {
-            "text": "Boekenbouwer",
-            "ariaLabel": "ga naar het boekbouwerscherm"
-        },
-        "about": {
-            "text": "Over ons",
-            "ariaLabel": "ga naar het over ons-scherm"
-        },
-        "developerStatus": {
-            "hidden": {
-                "text": "Toon ontwikkelaarsstatus",
-                "ariaLabel": "toon de ontwikkelaarsstatus"
+{
+    "hamburgerMenu": {
+        "applicationTitle": "Tijd voor familieverhalen",
+        "links": {
+            "feedback": {
+                "text": "Feedback",
+                "ariaLabel": "ga naar het feedbackscherm"
             },
-            "showing": {
-                "text": "Ontwikkelaarsstatus verbergen",
-                "ariaLabel": "verberg de ontwikkelaarsstatus"
+            "settings": {
+                "text": "Instellingen",
+                "ariaLabel": "ga naar het instellingenscherm"
+            },
+            "bookSelector": {
+                "text": "Leeshoek",
+                "ariaLabel": "ga naar het leeshoekscherm"
+            },
+            "bookBuilder": {
+                "text": "Boekenbouwer",
+                "ariaLabel": "ga naar het boekbouwerscherm"
+            },
+            "about": {
+                "text": "Over ons",
+                "ariaLabel": "ga naar het over ons-scherm"
+            },
+            "developerStatus": {
+                "hidden": {
+                    "text": "Toon ontwikkelaarsstatus",
+                    "ariaLabel": "toon de ontwikkelaarsstatus"
+                },
+                "showing": {
+                    "text": "Ontwikkelaarsstatus verbergen",
+                    "ariaLabel": "verberg de ontwikkelaarsstatus"
+                }
+            },
+            "tutorial": {
+                "text": "Handleiding",
+                "ariaLabel": "bekijk de tutorial"
+            },
+            "bookStore": {
+                "text": "Boekwinkel",
+                "ariaLabel": "ga naar het boekwinkelscherm"
             }
-        },
-        "tutorial": {
-            "text": "Handleiding",
-            "ariaLabel": "bekijk de tutorial"
-        },
-        "bookStore": {
-            "text": "Boekwinkel",
-            "ariaLabel": "ga naar het boekwinkelscherm"
         }
-    }
-}}
+    },
+    "databaseLoading": "Initialiseren van database ...",
+    "applicationLoadFailed": "Toepassing kan niet worden geladen"
+}

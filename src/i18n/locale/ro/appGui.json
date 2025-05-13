@@ -1,43 +1,47 @@
-{"hamburgerMenu": {
-    "applicationTitle": "Ora poveștii în familie",
-    "links": {
-        "feedback": {
-            "text": "Feedback",
-            "ariaLabel": "accesați ecranul de feedback"
-        },
-        "settings": {
-            "text": "Setări",
-            "ariaLabel": "accesați ecranul de setări"
-        },
-        "bookSelector": {
-            "text": "Colțul de lectură",
-            "ariaLabel": "accesați ecranul colțului de lectură"
-        },
-        "bookBuilder": {
-            "text": "Constructor de cărți",
-            "ariaLabel": "accesați ecranul generator de cărți"
-        },
-        "about": {
-            "text": "Despre noi",
-            "ariaLabel": "accesați ecranul despre noi"
-        },
-        "developerStatus": {
-            "hidden": {
-                "text": "Afișați starea dezvoltatorului",
-                "ariaLabel": "arată starea dezvoltatorului"
+{
+    "hamburgerMenu": {
+        "applicationTitle": "Ora poveștii în familie",
+        "links": {
+            "feedback": {
+                "text": "Feedback",
+                "ariaLabel": "accesați ecranul de feedback"
             },
-            "showing": {
-                "text": "Ascundeți starea dezvoltatorului",
-                "ariaLabel": "ascunde statutul de dezvoltator"
+            "settings": {
+                "text": "Setări",
+                "ariaLabel": "accesați ecranul de setări"
+            },
+            "bookSelector": {
+                "text": "Colțul de lectură",
+                "ariaLabel": "accesați ecranul colțului de lectură"
+            },
+            "bookBuilder": {
+                "text": "Constructor de cărți",
+                "ariaLabel": "accesați ecranul generator de cărți"
+            },
+            "about": {
+                "text": "Despre noi",
+                "ariaLabel": "accesați ecranul despre noi"
+            },
+            "developerStatus": {
+                "hidden": {
+                    "text": "Afișați starea dezvoltatorului",
+                    "ariaLabel": "arată starea dezvoltatorului"
+                },
+                "showing": {
+                    "text": "Ascundeți starea dezvoltatorului",
+                    "ariaLabel": "ascunde statutul de dezvoltator"
+                }
+            },
+            "tutorial": {
+                "text": "Tutorial",
+                "ariaLabel": "vezi tutorialul"
+            },
+            "bookStore": {
+                "text": "Librărie",
+                "ariaLabel": "accesați ecranul magazinului de cărți"
             }
-        },
-        "tutorial": {
-            "text": "Tutorial",
-            "ariaLabel": "vezi tutorialul"
-        },
-        "bookStore": {
-            "text": "Librărie",
-            "ariaLabel": "accesați ecranul magazinului de cărți"
         }
-    }
-}}
+    },
+    "databaseLoading": "Inițializarea bazei de date ...",
+    "applicationLoadFailed": "Aplicația nu a reușit să se încarce"
+}
